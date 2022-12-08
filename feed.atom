@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T20:14:05.349Z</id>
+    <id>urn:2022-12-08T21:13:52.804Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T20:14:05.349Z</updated>
+    <updated>2022-12-08T21:13:52.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @TheChainDiviner Sup]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1600938434679668736</id>
+        <link href="https://twitter.com/OnChainWizard/status/1600938434679668736"/>
+        <updated>2022-12-08T19:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheChainDiviner Sup]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TaikiMaeda2 I expect to lol]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1600933696088915968</id>
+        <link href="https://twitter.com/OnChainWizard/status/1600933696088915968"/>
+        <updated>2022-12-08T19:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @TaikiMaeda2 I expect to lol]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TaikiMaeda2 I dropped in a few shekels just to feel something]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1600932449831112704</id>
+        <link href="https://twitter.com/OnChainWizard/status/1600932449831112704"/>
+        <updated>2022-12-08T19:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @TaikiMaeda2 I dropped in a few shekels just to feel something]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周在欧洲一个孵化机构Gotbit的内部交流会上，听了六个founder的分享。分别来自美国（2个）、荷兰、土耳其、尼日利亚、瑞士。 乏善可陈，有点无聊，乃至于我边...]]></title>
         <id>http://www.inoreader.com/article/3a9c6e75f208a2ac</id>
@@ -1598,16 +1628,6 @@ Today we present you a fascinating interview with the great @OnChainWizard!
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @OuroborosCap8 @DeFiSurfer808 Usually needs to be more skewed for a top]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1595947047789682688</id>
-        <link href="https://twitter.com/OnChainWizard/status/1595947047789682688"/>
-        <updated>2022-11-25T01:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @OuroborosCap8 @DeFiSurfer808 Usually needs to be more skewed for a top]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Manta Network 中文社区: 1/ Manta 招聘贴 岗位： 社区经理 应用前端工程师 QA助理 社交产品经理 等等，可分布式办公 福利： 有竞争力的报酬 Token 期权 美国...]]></title>
         <id>https://twitter.com/manta_china/status/1595389099447185408</id>
         <link href="https://twitter.com/manta_china/status/1595389099447185408"/>
@@ -1631,31 +1651,6 @@ Token 期权
 详情： https://www.notion.so/Manta-Network-c28f0400e1f547248895bb91047e81c0]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ryan Selkis 🥷: 1/ A path forward for DCG, Genesis, and Grayscale. Not financial advice. Purely speculative (but optimistic) bet on what happens ...]]></title>
-        <id>https://twitter.com/twobitidiot/status/1595137620941541376</id>
-        <link href="https://twitter.com/twobitidiot/status/1595137620941541376"/>
-        <updated>2022-11-22T19:30:19.000Z</updated>
-        <summary type="html"><![CDATA[RT Ryan Selkis 🥷
-1/ A path forward for DCG, Genesis, and Grayscale.
-Not financial advice. Purely speculative (but optimistic) bet on what happens next. 
-👇]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT King G: When news trading, it is important to understand where you stand in the hierarchal chronological order. This flowchart will likely dictate ...]]></title>
-        <id>https://twitter.com/MrCustomSuit/status/1595114315300081664</id>
-        <link href="https://twitter.com/MrCustomSuit/status/1595114315300081664"/>
-        <updated>2022-11-22T17:57:43.000Z</updated>
-        <summary type="html"><![CDATA[RT King G
-When news trading, it is important to understand where you stand in the hierarchal chronological order. This flowchart will likely dictate at which price point you are able to enter. The discretionary part is deciding to what extent the news is priced in at when you receive it
-1]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
