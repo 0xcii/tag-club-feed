@@ -617,6 +617,16 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/Readhub%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BF%AB%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75f3a01d51",
+          "author": "Afrawang.eth",
+          "description": "用户昵称：Afrawang.eth \n Username：7191535E-C4A3-43DA-9B61-5FBFB63AED10\n                    \n                    S6E41｜长毛象为何如此吸引年轻一代：因为我的账号你管不着 - What's Next｜科技早知道\n                \n和@丁教Diane 还有@SujiYan.eth 聊了一期长毛象。Mask是Mastodon 的长期资助人，也维护了几个大实例多年，Suji还聊了聊长毛象上的意识形态、开源社区和Trump的Truth Social之争。\n另外在Elon占领twitter以后我就开始探索Mastodon，找到了一些古早的网上冲浪感。体验一些没被推荐算法侵略的内容平台真的挺有意思的。",
+          "link": "https://m.okjike.com/originalPosts/63914948bb041c41afcfec96",
+          "publishedOn": "2022-12-08T08:49:09.000Z",
+          "wordCount": 474,
+          "title": "S6E41｜长毛象为何如此吸引年轻一代：因为我的账号你管不着 - What's Next｜科技早知道",
+          "imageUrl": "https://cdnv2.ruguoapp.com/FklYlodgqysovLJTd6JC1GY8WPOI?imageMogr2/auto-orient/heic-exif/1/format/png/thumbnail/!120x120r/gravity/Center/crop/!120x120a0a0"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75f3910c6f",
           "author": "sophina2501.eth",
           "description": "用户昵称：sophina2501.eth \n Username：lzh_1996\n                    \n                    万字长文详细解析top级钱包应用，下一代钱包的应用标准范式是什么\n                \n万字长文详解web3钱包赛道顶级玩家的解题思路（问题拆解）以及交出了什么答卷（产品形态）拿了多少分（用户规模），以及新玩家们从哪里弯道超车的。本篇巨肝，得益于区块链高度透明，很多链上数据都直接SQL最新跑的，推荐大家阅读，然后求个转发和留言，嘻嘻",
@@ -632,7 +642,7 @@
           "description": "用户昵称：j00 \n Username：71E6338A-E29F-4E74-8DB6-9F8E8311A86B\nVariant VC 刚post他们买了Nouns，目前一共也就312个nouns，这是一个太过于精英的dao，在这个discourse （介绍自己的论坛里），相较于bayc那种hiphop气质，这些holder很像那些hipsters。值得注意的是他们介绍自己买第一个nouns的情况之类的，还比较有意思。",
           "link": "https://m.okjike.com/originalPosts/6390b624b45d3a8dbf3ae722",
           "publishedOn": "2022-12-07T17:20:43.000Z",
-          "wordCount": 467,
+          "wordCount": 465,
           "title": "Variant VC 刚post他们买了Nouns，目前一共也就312个nouns，这是一个太过于精英的dao，在这个discourse （介绍自己的论坛里），相较于bayc那种hiphop气质，这些h...",
           "imageUrl": "https://cdnv2.ruguoapp.com/FlBz5NaEUwf2AuZ0owo_L54D3H2pv3.png?imageMogr2/auto-orient/format/jpeg/thumbnail/300x2000%3E/quality/70/interlace/1"
         },
@@ -805,16 +815,6 @@
           "wordCount": 489,
           "title": "看了推特一老哥用openAI写了audit report我在想AI对区块链安全领域的帮助或是损害是什么？熊彼特那样的毁灭式创新？ 目前AI在业界主要是GitHub发布的copilot为代...",
           "imageUrl": "https://cdnv2.ruguoapp.com/FoChGLrs0_vuKW5ljHpG7x9ywOAIv3.jpg?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/!120x120r/gravity/Center/crop/!120x120a0a0"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75fe90f82e",
-          "author": "好烦.bit",
-          "description": "用户昵称：好烦.bit \n Username：c4d05f03-1451-4b0d-a7b6-126e08b79bf1\naigc、web3、元宇宙这三个概念是不是构造了纯数字时代的生产力、生产关系以及商品，虽然三个概念对应的模型和解决方案都是不鲁棒的，但是这三个概念貌似基本成型？🤔不知道是否可以这么理解",
-          "link": "https://m.okjike.com/originalPosts/638b87539017fc4b6ed14b95",
-          "publishedOn": "2022-12-04T05:26:32.000Z",
-          "wordCount": 445,
-          "title": "aigc、web3、元宇宙这三个概念是不是构造了纯数字时代的生产力、生产关系以及商品，虽然三个概念对应的模型和解决方案都是不鲁棒的，但是这三个概念貌似基本成型...",
-          "imageUrl": "https://cdnv2.ruguoapp.com/FnHcIMKnBWlthuQteoXyHUZtL82Cv3.jpg?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/!120x120r/gravity/Center/crop/!120x120a0a0"
         }
       ]
     },
