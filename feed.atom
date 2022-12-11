@@ -1,21 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T10:14:12.572Z</id>
+    <id>urn:2022-12-11T11:11:07.625Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T10:14:12.572Z</updated>
+    <updated>2022-12-11T11:11:07.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[GM 啊 看球果然很累 昨晚英格兰踢法国挺精彩 趴在椅子上睡到现在才醒]]></title>
-        <id>https://twitter.com/8848Community/status/1601834827539689477</id>
-        <link href="https://twitter.com/8848Community/status/1601834827539689477"/>
-        <updated>2022-12-11T07:02:38.000Z</updated>
-        <summary type="html"><![CDATA[GM 啊
-看球果然很累
-昨晚英格兰踢法国挺精彩
-趴在椅子上睡到现在才醒]]></summary>
+        <title type="html"><![CDATA[Re 据 Lodestar Finance 透露，目前该机构正与攻击者进行谈判，预计可以收回 280 万枚 GLP 代币。(The Block)]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601878144268775424</id>
+        <link href="https://twitter.com/wublockchain12/status/1601878144268775424"/>
+        <updated>2022-12-11T09:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 Lodestar Finance 透露，目前该机构正与攻击者进行谈判，预计可以收回 280 万枚 GLP 代币。(The Block) https://www.theblock.co/post/193910/lodestar-finance-exploited?utm_source=onecryptofeed&utm_medium=social]]></summary>
         <author>
-            <name>8848 社区（8848 Community）</name>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 年 12 月 11 日，去中心化借贷平台 Lodestar Finance 由于某些漏洞被攻击者利用导致损失约 650 万美元。据悉，攻击者通过对 plvGLP 代币的汇率进行操纵使得...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601878138304475136</id>
+        <link href="https://twitter.com/wublockchain12/status/1601878138304475136"/>
+        <updated>2022-12-11T09:54:44.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 12 月 11 日，去中心化借贷平台 Lodestar Finance 由于某些漏洞被攻击者利用导致损失约 650 万美元。据悉，攻击者通过对 plvGLP 代币的汇率进行操纵使得每一枚 plvGLP 代币可以兑换为 1.83 枚 GLP 代币（原汇率为1：1）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，CZ 表示，根据我们目前的调查，这似乎只是市场行为。似乎不是由于帐户被盗或 API 密钥被盗所致。我们暂时锁定了一些获利账户的提款。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601873958936096768</id>
+        <link href="https://twitter.com/wublockchain12/status/1601873958936096768"/>
+        <updated>2022-12-11T09:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，CZ 表示，根据我们目前的调查，这似乎只是市场行为。似乎不是由于帐户被盗或 API 密钥被盗所致。我们暂时锁定了一些获利账户的提款。
+CZ 🔶 Binance: Based on our investigations so far, this appears to be just market behavior. One guy deposited funds and started buying. (Hackers don’t deposit). Other guys followed. Can’t see linkage between the accounts. 1/3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Web3 凭证提供商 Galxe 宣布集成 Apots 网络。目前，正在开展的项目包括 Nodereal、 ComingChat、 Onchain Trade、 Souffl3、 OmniBTC、 ApStation、 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601851638687617024</id>
+        <link href="https://twitter.com/wublockchain12/status/1601851638687617024"/>
+        <updated>2022-12-11T08:09:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Web3 凭证提供商 Galxe 宣布集成 Apots 网络。目前，正在开展的项目包括 Nodereal、 ComingChat、 Onchain Trade、 Souffl3、 OmniBTC、 ApStation、 Aptin、 BlueMove、 Aries Market。此前，使用过 Galxe 的 Aptos 生态项目包括 Souffl3、Martian、BlueMove。
+Galxe: Projects that have run past campaigns on @Aptos_Network using the Galxe infrastructure include:
+@nft_souffl3
+@martian_wallet
+@BlueMoveNFT
+Each had very successful campaigns with 20-25k NFTs minted!]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -650,49 +683,6 @@ As mentioned, this dashboard is just for the public beta launch, and we will hav
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 此外，Hooked 表示，将把团队分配的 HOOK 代币（1 亿个 HOOK 代币）转移到 Binance Custody。这些代币将保持锁定状态，并具有固定的释放时间表：1 年锁定 + 6...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601552352385052672</id>
-        <link href="https://twitter.com/wublockchain12/status/1601552352385052672"/>
-        <updated>2022-12-10T12:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，Hooked 表示，将把团队分配的 HOOK 代币（1 亿个 HOOK 代币）转移到 Binance Custody。这些代币将保持锁定状态，并具有固定的释放时间表：1 年锁定 + 60 个月线性释放。Binance Custody 是一个相对较新的业务，或意味着与 Coinbase 托管服务展开竞争。
-HOOKED: Public Service Announcement:
-As part of our collaboration with Binance, we will be transferring team’s allocation of HOOK token (100 million HOOK tokens) to Binance Custody.
-These tokens will remain locked, with fixed release schedule: 1 year cliff + 60 month linear release.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re HOOK 当前价格为 2.8 美元，24 小时涨幅为 19.4%。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601544218417430528</id>
-        <link href="https://twitter.com/wublockchain12/status/1601544218417430528"/>
-        <updated>2022-12-10T11:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Re HOOK 当前价格为 2.8 美元，24 小时涨幅为 19.4%。 https://bscscan.com/token/0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0?a=0x80a6cb124702b7cda05f5701d2eb091a5c4f8346]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BitcoinEmber 监测，Binance IEO 项目 Hooked Protocol 项目方地址（0x37...0914）于今日 19 点将 100 万枚 HOOK 经由 0x80...8346 发送至 Binanc...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601544215636619265</id>
-        <link href="https://twitter.com/wublockchain12/status/1601544215636619265"/>
-        <updated>2022-12-10T11:47:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BitcoinEmber 监测，Binance IEO 项目 Hooked Protocol 项目方地址（0x37...0914）于今日 19 点将 100 万枚 HOOK 经由 0x80...8346 发送至 Binance。HOOK 当前流通量共 5000 万枚，包括 Launchpad 2500 万币和国库 2500 万币（已向 Binance 发送 2100 万枚）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Bybit 发布了储备证明验证 POR 页面，可以验证在交易所的资产余额、披露的钱包地址余额及归属情况、准备金率；即将推出钱包所有权验证。目前正在努力...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601528381501497344</id>
-        <link href="https://twitter.com/wublockchain12/status/1601528381501497344"/>
-        <updated>2022-12-10T10:44:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Bybit 发布了储备证明验证 POR 页面，可以验证在交易所的资产余额、披露的钱包地址余额及归属情况、准备金率；即将推出钱包所有权验证。目前正在努力启用钱包所有权验证，一旦该功能可用，将提供更多信息。 https://announcements.bybit.com/en-US/article/bybit-proof-of-reserves--blt8e4e596a04e12ca8/?category=product_updates]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @joker8847 做完就可领啊]]></title>
         <id>https://twitter.com/8848Community/status/1601520675037925376</id>
         <link href="https://twitter.com/8848Community/status/1601520675037925376"/>
@@ -963,6 +953,16 @@ DAO Maker: To participate in the Thena Faidrop, visit
 3.  Select Thena research page and click on Participate
 2/4
  http://daomaker.com]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @evan_van_ness coffee, tea, or eth?]]></title>
+        <id>https://twitter.com/8848Community/status/1600858245316628481</id>
+        <link href="https://twitter.com/8848Community/status/1600858245316628481"/>
+        <updated>2022-12-08T14:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @evan_van_ness coffee, tea, or eth?]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
