@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T13:18:31.792Z</id>
+    <id>urn:2022-12-11T14:12:12.384Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T13:18:31.792Z</updated>
+    <updated>2022-12-11T14:12:12.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601918275986018304</id>
+        <link href="https://twitter.com/wublockchain12/status/1601918275986018304"/>
+        <updated>2022-12-11T12:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/193560/ftx-distressed-asset-investors?utm_source=onecryptofeed&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因 FTX 事件搁浅的客户资金引起了不良资产投资者的关注。许多投资公司也开始寻求从 FTX 的客户那里购买不良资产的债权。Apollo Global Management 和 Attestor ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1601918273679130624</id>
+        <link href="https://twitter.com/wublockchain12/status/1601918273679130624"/>
+        <updated>2022-12-11T12:34:13.000Z</updated>
+        <summary type="html"><![CDATA[因 FTX 事件搁浅的客户资金引起了不良资产投资者的关注。许多投资公司也开始寻求从 FTX  的客户那里购买不良资产的债权。Apollo Global Management 和 Attestor 是就购买债权进行过对话的知名投资者之一。507 Capital 已经从希望快速退出 FTX 的对冲基金购买了几项债权。（The Block)]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter Blue 将于周一重新推出，网络订阅费用为 $ 8/月，iOS 订阅费用为每月 11 美元。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1601896548316905473</id>
@@ -694,28 +714,6 @@ As mentioned, this dashboard is just for the public beta launch, and we will hav
         <link href="https://twitter.com/wublockchain12/status/1601582040239198208"/>
         <updated>2022-12-10T14:18:09.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据中新社，内蒙古自治区通辽市公安局科尔沁分局历时3个月，打掉一个利用虚拟货币洗钱团伙，抓获犯罪嫌疑人63名，该团伙洗钱金额高达120亿元人民币，收缴违法所得约1.3亿元，将潜逃至泰国曼谷的主要犯罪嫌疑人劝返。 https://www.163.com/dy/article/HO8Q1NVL0514R9KQ.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，1inch 回复，token unlocks 的数据不准确，解锁时间表是硬编码在归属智能合约中的。实际日期是该月的第一天（12月1日），而不是最后一天，因此恐慌...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601574444744704005</id>
-        <link href="https://twitter.com/wublockchain12/status/1601574444744704005"/>
-        <updated>2022-12-10T13:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，1inch 回复，token unlocks 的数据不准确，解锁时间表是硬编码在归属智能合约中的。实际日期是该月的第一天（12月1日），而不是最后一天，因此恐慌是不必要的。
-1inch Customer Support: @WuBlockchain 1) Thank you for observing 1INCH token events so actively! However, the unlock schedule is hardcoded in the vesting smart contract. The actual dates are the first of the month, not the last. The information on the website
- http://token.unlocks.app]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月交易所数据报告：主要交易所的现货交易量环比下降13%，Phemex -78%、BitMart-64%、Kucoin -63%；合约交易量往头部集中，Binance +21%、OKX +15%、Bitget +20...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1601553943145783297</id>
-        <link href="https://twitter.com/wublockchain12/status/1601553943145783297"/>
-        <updated>2022-12-10T12:26:30.000Z</updated>
-        <summary type="html"><![CDATA[11月交易所数据报告：主要交易所的现货交易量环比下降13%，Phemex -78%、BitMart-64%、Kucoin -63%；合约交易量往头部集中，Binance +21%、OKX +15%、Bitget +20%、Bybit -22%、Gate -34%。俄罗斯、美国和日本是主要流量来源。 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=9999]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
