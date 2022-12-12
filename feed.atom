@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-12T20:13:37.974Z</id>
+    <id>urn:2022-12-12T21:13:04.111Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-12T20:13:37.975Z</updated>
+    <updated>2022-12-12T21:13:04.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,19 @@ Over next few months seems like logical place where headline #s may start gettin
  https://twitter.com/tztokchad/status/1547649225848107015]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tree of Alpha: 🧵FTX CEO John Ray's prepared statement for tomorrow's hearing: 1) Customer assets from FTX were commingled with assets from the A...]]></title>
+        <id>https://twitter.com/Tree_of_Alpha/status/1602377288623980545</id>
+        <link href="https://twitter.com/Tree_of_Alpha/status/1602377288623980545"/>
+        <updated>2022-12-12T18:58:10.000Z</updated>
+        <summary type="html"><![CDATA[RT Tree of Alpha
+🧵FTX CEO John Ray's prepared statement for tomorrow's hearing:
+1) Customer assets from FTX were commingled with assets from the Alameda trading platform. 
+2) Alameda used client funds to engage in margin trading which exposed customer funds to massive losses.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -810,17 +823,6 @@ This will include perp positioning (long/short), stablecoin holdings percentages
         <updated>2022-12-10T15:39:42.000Z</updated>
         <summary type="html"><![CDATA[Re Wallet alerts:
 Which will give you the ability to set up customized alerts to telegram, email or discord on any wallet’s movements]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Roadmap / Features: As mentioned, this dashboard is just for the public beta launch, and we will have many incremental features when we formally la...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1601602561840414722</id>
-        <link href="https://twitter.com/OnChainWizard/status/1601602561840414722"/>
-        <updated>2022-12-10T15:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Re Roadmap / Features:
-As mentioned, this dashboard is just for the public beta launch, and we will have many incremental features when we formally launch next month. Some of these features for our base package will include:]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
