@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T15:18:03.566Z</id>
+    <id>urn:2022-12-13T16:20:15.125Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T15:18:03.566Z</updated>
+    <updated>2022-12-13T16:20:15.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -67,6 +67,19 @@ Our Ascent to Valhalla begins soon.]]></summary>
         <summary type="html"><![CDATA[Trend seems pretty clear tbh]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT GCR: Do you hear an echo?]]></title>
+        <id>https://twitter.com/GCRClassic/status/1602660851315613697</id>
+        <link href="https://twitter.com/GCRClassic/status/1602660851315613697"/>
+        <updated>2022-12-13T13:44:57.000Z</updated>
+        <summary type="html"><![CDATA[RT GCR
+Do you hear an echo?
+
+GCR: I have long predicted the emergence of an echo bubble in 2023, and none of the recent events has changed my forecast]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -843,16 +856,6 @@ The only way to fight this is with choice. Crypto is that choice. Eyes on the ba
         <link href="https://twitter.com/OnChainWizard/status/1601602570082217985"/>
         <updated>2022-12-10T15:39:43.000Z</updated>
         <summary type="html"><![CDATA[Re Longer term, we will be building out similar functions but for all wallets (so you can see token movements across any coin, any wallet). We also have a charting feature in the works to show when and at what price any wallet has bought or sold a token.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We also have some cool features being built for more of a “premium” package, including popular contract interactions from our sharp traders, new ...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1601602568521920513</id>
-        <link href="https://twitter.com/OnChainWizard/status/1601602568521920513"/>
-        <updated>2022-12-10T15:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Re We also have some cool features being built for more of a “premium” package, including popular contract interactions from our sharp traders, new token launches they are aping into, and Hot Hands, which will show token movements for the best performing P&L traders on a 30D basis]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
