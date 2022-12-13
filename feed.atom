@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T07:12:52.585Z</id>
+    <id>urn:2022-12-13T08:18:36.298Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T07:12:52.585Z</updated>
+    <updated>2022-12-13T08:18:36.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Tetranode]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1602573765963030528</id>
+        <link href="https://twitter.com/OnChainWizard/status/1602573765963030528"/>
+        <updated>2022-12-13T07:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tetranode]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，做市商 Wintermute 在过去4小时从 Coinbase 撤回了 1.53 亿美金 USDC，向币安转入了约 1.5 亿美金 USDC。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1602560293166383104</id>
+        <link href="https://twitter.com/wublockchain12/status/1602560293166383104"/>
+        <updated>2022-12-13T07:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，做市商 Wintermute 在过去4小时从 Coinbase 撤回了 1.53 亿美金 USDC，向币安转入了约 1.5 亿美金 USDC。
+Lookonchain: Justin Sun(0x9f84) withdrew 33,911,530 $BUSD and 15,432,715 $USDT from #Binance 9 hours ago.
+Then he transferred 33,911,530 $BUSD to Paxos Treasury.
+And exchanged 15,432,715 $USDT for 15,435,455 $USDC and transferred to #Circle.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 lookonchain，孙宇晨（0x9f84）9 小时前从币安撤回了 3400 万 BUSD 与 1540 万 USDT，转入 Paxos 与 Circle 疑似套现。孙宇晨回应称，近期的资金交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1602560271507025921</id>
+        <link href="https://twitter.com/wublockchain12/status/1602560271507025921"/>
+        <updated>2022-12-13T07:05:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 lookonchain，孙宇晨（0x9f84）9 小时前从币安撤回了 3400 万 BUSD 与 1540 万 USDT，转入 Paxos 与 Circle 疑似套现。孙宇晨回应称，近期的资金交易所间调配，仅是正常的业务往来合作，不代表任何对于市场的判断与猜测。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Naval: AI will replace the people who think it will.]]></title>
+        <id>https://twitter.com/naval/status/1602552509545041920</id>
+        <link href="https://twitter.com/naval/status/1602552509545041920"/>
+        <updated>2022-12-13T06:34:26.000Z</updated>
+        <summary type="html"><![CDATA[RT Naval
+AI will replace the people who think it will.]]></summary>
+        <author>
+            <name>AntCave | (💙,🧡)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在过去60天内用过Gallery的，可以mint一下这个，截止时间12月18日]]></title>
         <id>https://twitter.com/8848Community/status/1602541755680833538</id>
@@ -280,26 +324,6 @@ The NF3 team is thrilled to announce that we have raised a US$1.65M seed round, 
         <link href="https://twitter.com/wublockchain12/status/1602482823453372417"/>
         <updated>2022-12-13T01:57:32.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Coinbase 发布 2022 透明度报告。报告表示从 2021 年 10 月 1 日到 2022 年 9 月 30 日期间，Coinbase 为全球 1.08 亿客户提供服务，从全球收到了 12,320 个执法请求，环比增长 66%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @sankin_eth 的 Dune 数据面板，近期大火的 Arbitrum 上的链游 The Beacon 每日活跃地址数在 2k-4k 之间，总计地址数为 24,502，每日新增用户数约...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1602480639990988801</id>
-        <link href="https://twitter.com/wublockchain12/status/1602480639990988801"/>
-        <updated>2022-12-13T01:48:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @sankin_eth 的 Dune 数据面板，近期大火的 Arbitrum 上的链游 The Beacon 每日活跃地址数在 2k-4k 之间，总计地址数为 24,502，每日新增用户数约为 300-500人左右。 https://dune.com/sankin/the-beacon]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 以该数据为例，币安过去 7 天”净流出资金“达 26.24 亿美元，但 12 月 6 日的币安资金储备为 641 亿美元，当前资金储备为 644 亿，BTC 的储备由 6 日的 73.2...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1602473684991873025</id>
-        <link href="https://twitter.com/wublockchain12/status/1602473684991873025"/>
-        <updated>2022-12-13T01:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 以该数据为例，币安过去 7 天”净流出资金“达 26.24 亿美元，但 12 月 6 日的币安资金储备为 641 亿美元，当前资金储备为 644 亿，BTC 的储备由 6 日的 73.2 亿美元增长至当前的 94.2 亿美元。 https://portfolio.nansen.ai/dashboard/binance]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -849,17 +873,6 @@ The only way to fight this is with choice. Crypto is that choice. Eyes on the ba
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Sharp Trader Ownership: When you drill down into a token, you will be able to see smart money balances over time, along with the token’s price, to...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1601602566814846976</id>
-        <link href="https://twitter.com/OnChainWizard/status/1601602566814846976"/>
-        <updated>2022-12-10T15:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Re Sharp Trader Ownership:
-When you drill down into a token, you will be able to see smart money balances over time, along with the token’s price, to get a sense of (1) if sharp money is accumulating but also (2) price levels where they typically buy or sell their holdings]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Onchain Wizard: Introducing chainEDGE: I’m stoked to finally announce that our public beta of chainEDGE is live at:]]></title>
         <id>https://twitter.com/OnChainWizard/status/1601602517833744384</id>
         <link href="https://twitter.com/OnChainWizard/status/1601602517833744384"/>
@@ -1192,16 +1205,6 @@ All of the answers are powered by AI and stored on Orbis to make knowledge acces
         <link href="https://twitter.com/AntCaveClub/status/1600012159068823552"/>
         <updated>2022-12-06T06:20:00.000Z</updated>
         <summary type="html"><![CDATA[Circle $USDC取消了以 45 亿美元估值上市的计划。]]></summary>
-        <author>
-            <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天美国股市蒸发了超过 6450 亿美元。]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1600011270878793728</id>
-        <link href="https://twitter.com/AntCaveClub/status/1600011270878793728"/>
-        <updated>2022-12-06T06:16:28.000Z</updated>
-        <summary type="html"><![CDATA[今天美国股市蒸发了超过 6450 亿美元。]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
         </author>
