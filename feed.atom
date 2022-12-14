@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T18:17:39.056Z</id>
+    <id>urn:2022-12-14T19:11:50.528Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T18:17:39.056Z</updated>
+    <updated>2022-12-14T19:11:50.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[好想听王心凌唱这个版本🤣🤣🤣]]></title>
+        <id>https://twitter.com/8848Community/status/1603073218533003264</id>
+        <link href="https://twitter.com/8848Community/status/1603073218533003264"/>
+        <updated>2022-12-14T17:03:33.000Z</updated>
+        <summary type="html"><![CDATA[好想听王心凌唱这个版本🤣🤣🤣
+Bobie(🪬.🪬): Web3版爱你（aka嫖你）
+如果你突然打了个喷嚏
+那一定是群友在抄底
+如果半夜被链上异动吵醒
+那肯定是gas低
+常常想 官方的空投消息是不是别有用心
+明明很想相信
+却又忍不住怀疑
+在项目方的心里
+我是否只是给VC看的数据
+啊 空投又让我忍不住惦记 (啊 Everybody Say)]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Burry saying one more tech washout?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1603072280711479296</id>
@@ -14,6 +35,28 @@
 Cassandra B.C.: Early 2002, investors were asking me why i wasn't buying WorldCom. Feels like that now.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无抵押贷方 Maple Finance 已将其协议更新为第二个版本，旨在向更广泛的机构借款人开放贷款平台，包括来自加密货币行业以外的借款人。 任何人都可以向 Maple 的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603057258329706498</id>
+        <link href="https://twitter.com/wublockchain12/status/1603057258329706498"/>
+        <updated>2022-12-14T16:00:08.000Z</updated>
+        <summary type="html"><![CDATA[无抵押贷方 Maple Finance 已将其协议更新为第二个版本，旨在向更广泛的机构借款人开放贷款平台，包括来自加密货币行业以外的借款人。 任何人都可以向 Maple 的资金池中添加资金并赚取利息，并且由代表们检查借款人的信誉。（TheBlock） https://www.theblock.co/post/194907/maple-finance-releases-version-2-0-after-36-million-default-on-platform?utm_source=onecryptofeed&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Neeraj K. Agrawal: Re @SenWarren The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self c...]]></title>
+        <id>https://twitter.com/NeerajKA/status/1603054176891801601</id>
+        <link href="https://twitter.com/NeerajKA/status/1603054176891801601"/>
+        <updated>2022-12-14T15:47:53.000Z</updated>
+        <summary type="html"><![CDATA[RT Neeraj K. Agrawal
+Re @SenWarren The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self custody, developers, and node operators
+Nothing about the bill would prevent the next FTX. In fact, it puts users at more risk. https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/]]></summary>
+        <author>
+            <name>DΞFi Ξducator</name>
         </author>
     </entry>
     <entry>
@@ -265,8 +308,7 @@ NFT 将在未来（待定）分配某些协议应用功能
         <updated>2022-12-14T04:34:28.000Z</updated>
         <summary type="html"><![CDATA[Re 吴说获悉，据 ChainEye 数据，以太坊上 BUSD 供应量在近 1 天减少了 32 亿美金至 139.5 亿美金，下降 18.65%。Biteye 分析认为，BUSD 在以太坊供应量下降，但 Binance 锚定 BUSD 的供应量并没有减少，主要原因是用户对 Binance FUD，而将 BUSD 提币换成 USDC 相关。
 Biteye: 根据 @Chaineye_tools 稳定币看板显示，过去24小时内，BUSD在以太坊供应量减少了32亿美金（-15%)，而Binance Peg BUSD的供应量并没有减少。
-BUSD在以太坊供应量下降原因或与用户FUD BUSD而提币换成USDC相关
- https://twitter.com/Chaineye_tools/status/1602858007200559104]]></summary>
+BUSD在以太坊供应量下降原因或与用户FUD BUSD而提币换成USDC相关]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -464,16 +506,6 @@ Impossible to know without the liability side of the balance sheet.]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1602830377558904832"/>
         <updated>2022-12-14T00:58:35.000Z</updated>
         <summary type="html"><![CDATA[Re 最明显的例子是将 100 亿美元从 FTX 转移到 Alameda，“这是客户资金而非进行破产重组的 FTX 资产”。（CoinDesk） https://www.coindesk.com/business/2022/12/13/16b-ftx-international-customers-group-hires-law-firm-to-create-official-bankruptcy-committee/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由 Eversheds Sutherland 律师 Sarah Paul 和 Erin Broderick 领导的非美国 FTX 客户已经组成了第一个 FTX 临时小组。目前损失的资金高达约 16 亿美元。非美国客...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1602830375155544064</id>
-        <link href="https://twitter.com/wublockchain12/status/1602830375155544064"/>
-        <updated>2022-12-14T00:58:35.000Z</updated>
-        <summary type="html"><![CDATA[由 Eversheds Sutherland 律师 Sarah Paul 和 Erin Broderick 领导的非美国 FTX 客户已经组成了第一个 FTX 临时小组。目前损失的资金高达约 16 亿美元。非美国客户的利益与其他债权人之间存在不可调和的冲突。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -1140,18 +1172,6 @@ TWITTER’S SECRET BLACKLISTS.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Matt Smolin: Today, Starbucks launched its web3 loyalty program, which could radically change the perception of NFTs. Here’s what it means for cof...]]></title>
-        <id>https://twitter.com/Estimatted/status/1600915030366892034</id>
-        <link href="https://twitter.com/Estimatted/status/1600915030366892034"/>
-        <updated>2022-12-08T18:07:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Matt Smolin
-Today, Starbucks launched its web3 loyalty program, which could radically change the perception of NFTs. 
-Here’s what it means for coffee lovers and the future of brand marketing:]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一次可以领取10个goerli eth， 前提是你曾经在上面部署过合约，亲测有效，手慢无]]></title>
         <id>https://twitter.com/AntCaveClub/status/1600792822592176129</id>
         <link href="https://twitter.com/AntCaveClub/status/1600792822592176129"/>
@@ -1290,16 +1310,6 @@ PLEASE CONFIRM: A user claims that they spotted Caroline Ellison at Ground Suppo
         <summary type="html"><![CDATA[RT Michael A. Gayed, CFA
 I believe the conditions now favor an imminent stock market crash.
 A 🧵. 👇 (1/20)]]></summary>
-        <author>
-            <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CleanUpBitcoin Let's look at the downstream effects of goldmining or the traditional banking system...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1598765960957132838</id>
-        <link href="https://twitter.com/DeFi_educator/status/1598765960957132838"/>
-        <updated>2022-12-02T19:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @CleanUpBitcoin Let's look at the downstream effects of goldmining or the traditional banking system...]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
