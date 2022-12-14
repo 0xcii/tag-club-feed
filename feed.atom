@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T12:27:50.322Z</id>
+    <id>urn:2022-12-14T13:22:10.109Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T12:27:50.322Z</updated>
+    <updated>2022-12-14T13:22:10.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RWA asset applications onchain has been a theme that I've always found interesting, especially from existing "Web 2" businesses entering the space. Th...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1603006892858449920</id>
+        <link href="https://twitter.com/OnChainWizard/status/1603006892858449920"/>
+        <updated>2022-12-14T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[RWA asset applications onchain has been a theme that I've always found interesting, especially from existing "Web 2" businesses entering the space.   This one could be interesting as it looks like much more than just bringing RWA assets onchain.
+Next Factor:]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《福布斯》杂志公布了其获取到的 SBF 计划在美国国会听证会上陈述的证词草稿，后因为被捕而无法出席听证会。证词中 SBF 主要对自己的行为进行辩护；指责 CZ 造成...]]></title>
         <id>https://twitter.com/wublockchain12/status/1602988994283065344</id>
@@ -992,16 +1003,6 @@ The only way to fight this is with choice. Crypto is that choice. Eyes on the ba
         <link href="https://twitter.com/OnChainWizard/status/1601602573546721280"/>
         <updated>2022-12-10T15:39:44.000Z</updated>
         <summary type="html"><![CDATA[Re We have other products in the roadmap as well, but are open to feature requests from people interested as we build out the tool in front of you all. We will eventually launch a page for these feature requests to be submitted, but you can always DM me or email me with ideas.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We are also developing better wallet labels, including "time based” labels for how long a sharp trader typically holds their investment, so you ha...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1601602571709612033</id>
-        <link href="https://twitter.com/OnChainWizard/status/1601602571709612033"/>
-        <updated>2022-12-10T15:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Re We are also developing better wallet labels, including "time based” labels for how long a sharp trader typically holds their investment, so you have a better sense of if it is a longer term conviction trader or more of a rotatoor.]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
