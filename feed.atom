@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T15:15:29.354Z</id>
+    <id>urn:2022-12-16T16:18:25.812Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T15:15:29.354Z</updated>
+    <updated>2022-12-16T16:18:25.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 声明补充说，Mazars 的储量证明报告是根据与商定程序报告相关的报告标准执行的，它们不构成对主题的保证或审计意见。他们根据在历史时间点对主题执行的商定程...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603779675486310400</id>
+        <link href="https://twitter.com/wublockchain12/status/1603779675486310400"/>
+        <updated>2022-12-16T15:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 声明补充说，Mazars 的储量证明报告是根据与商定程序报告相关的报告标准执行的，它们不构成对主题的保证或审计意见。他们根据在历史时间点对主题执行的商定程序报告了有限的调查结果。 https://www.cnbc.com/2022/12/16/mazars-suspends-all-work-with-crypto-clients-including-binance-cryptocom.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Mazars Group 在给 CNBC 的一份声明中表示，由于担心公众理解报告的方式，它已“暂停与为加密货币领域的实体提供储备证明报告有关的活动”。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603779673649205248</id>
+        <link href="https://twitter.com/wublockchain12/status/1603779673649205248"/>
+        <updated>2022-12-16T15:50:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Mazars Group 在给 CNBC 的一份声明中表示，由于担心公众理解报告的方式，它已“暂停与为加密货币领域的实体提供储备证明报告有关的活动”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603758084392124417</id>
+        <link href="https://twitter.com/wublockchain12/status/1603758084392124417"/>
+        <updated>2022-12-16T14:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Arkham | Crypto Intelligence: Current major balances include over $1M of SOL as well as 6-figures of SPL tokens. 
+The account can be found on Solscan at:
+AgJddDJLt17nHyXDCpyGELxwsZZQPqfUsuwzoiqVGJwD]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @ArkhamIntel 监测，AgJd...VGJwD 疑似正在使用管理钱包作为签名人，在不拥有/燃烧 LP 代币的情况下，从 Raydium 流动性池中抽取 LP 资金，该帐户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603758082232061953</id>
+        <link href="https://twitter.com/wublockchain12/status/1603758082232061953"/>
+        <updated>2022-12-16T14:24:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ArkhamIntel 监测，AgJd...VGJwD 疑似正在使用管理钱包作为签名人，在不拥有/燃烧 LP 代币的情况下，从 Raydium 流动性池中抽取 LP 资金，该帐户在过去几分钟内收到了数千个 SOL，目前其账户资产价值超过 100 万美元的 SOL 以及 6 位数的 SPL 代币。建议用户撤出为 Raydium 提供的流动性]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说每日晚报]]></title>
         <id>https://twitter.com/wublockchain12/status/1603753166452858880</id>
@@ -13,6 +56,20 @@
         <summary type="html"><![CDATA[吴说每日晚报]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT PRISM: 🚨🚨🚨🚨🚨 There seems to be a wallet is draining LP Pools from Raydium liquidity pools using admin wallet as a signer without hav...]]></title>
+        <id>https://twitter.com/prism_ag/status/1603752282083950592</id>
+        <link href="https://twitter.com/prism_ag/status/1603752282083950592"/>
+        <updated>2022-12-16T14:01:54.000Z</updated>
+        <summary type="html"><![CDATA[RT PRISM
+🚨🚨🚨🚨🚨
+There seems to be a wallet is draining LP Pools from Raydium liquidity pools using admin wallet as a signer without having/burning LP tokens.
+We withdrew protocol provided PRISM/USDC liquidity from Raydium
+WITHDRAW YOUR PRISM/USDC LIQUIDITY FROM RAYDIUM]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -243,47 +300,6 @@ On Terminal now.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 阅读全文：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603662348790960130</id>
-        <link href="https://twitter.com/wublockchain12/status/1603662348790960130"/>
-        <updated>2022-12-16T08:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文： https://mp.weixin.qq.com/s/tq8FVNfslOY6I2BfDvciBQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析新型诈骗：同尾号钓鱼。（作者：币追）由于一些 DeFi 用户在转账过程中会习惯性地从上一笔交易中复制地址且以4位尾号为辨识元素，当交易记录中被恶意植入尾...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603662346983198720</id>
-        <link href="https://twitter.com/wublockchain12/status/1603662346983198720"/>
-        <updated>2022-12-16T08:04:32.000Z</updated>
-        <summary type="html"><![CDATA[分析新型诈骗：同尾号钓鱼。（作者：币追）由于一些 DeFi 用户在转账过程中会习惯性地从上一笔交易中复制地址且以4位尾号为辨识元素，当交易记录中被恶意植入尾号相同的钓鱼地址时，极易复制到错误的地址，误将资金转账给骗子，导致资产丢失。近期一名受害者不慎将40.8万枚DAI转到了钓鱼地址。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时 CZ 指出 MITH 的网站处于离线状态，2 年内未发布推文或更新社区。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603659969420984320</id>
-        <link href="https://twitter.com/wublockchain12/status/1603659969420984320"/>
-        <updated>2022-12-16T07:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时 CZ 指出 MITH 的网站处于离线状态，2 年内未发布推文或更新社区。
-CZ 🔶 Binance: @mithdotio I reviewed this after seeing your post. Here is the contract clause for your (and community) reference. We usually observe confidentiality, until you broke it. The Insurance Deposit is there to encourage builders to continue to build. 1/2]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Binance 创始人 CZ 晒出合同条款以回应 MITH 要求 Binance 退还 200,000 BNB 一事。文件显示：一旦项目方 Token 价格连续 15 天低于 0.13 美元，或...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603659967638417408</id>
-        <link href="https://twitter.com/wublockchain12/status/1603659967638417408"/>
-        <updated>2022-12-16T07:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Binance 创始人 CZ 晒出合同条款以回应 MITH 要求 Binance 退还 200,000 BNB 一事。文件显示：一旦项目方 Token 价格连续 15 天低于 0.13 美元，或存在任何 Token、项目方相关不利于 Binance 用户的事实事件，Binance 都将有权扣除全部或部分押金存款作为额外费用。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @bruseueine Have seen ~$500k of inflows this past month from smart money so was curious if launch is getting closer]]></title>
         <id>https://twitter.com/OnChainWizard/status/1603654672937623553</id>
         <link href="https://twitter.com/OnChainWizard/status/1603654672937623553"/>
@@ -505,8 +521,7 @@ zerohedge: Could Slumping US Air Travel Demand Be A Sign Consumers Are Tapped 
         <summary type="html"><![CDATA[Re @iamDCinvestor @DAdvisoor What’s ur take on this DC
 DeFi Surfer 🫐,💎: Was chatting with a VC who suggested the industry is coalescing around @ethereum and the EVM. 
 Even went as far to say Eth is accelerating away and we may be seeing early signs of standardization for smart contracts.
-Curious if others have a view
- https://twitter.com/DeFiSurfer808/status/1531466758384672768]]></summary>
+Curious if others have a view]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
@@ -810,27 +825,6 @@ we must preserve non-custodial wallets at all costs
 it is weird that I believe it is the single most important decision society will have to make this decade, but I think it is]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好想听王心凌唱这个版本🤣🤣🤣]]></title>
-        <id>https://twitter.com/8848Community/status/1603073218533003264</id>
-        <link href="https://twitter.com/8848Community/status/1603073218533003264"/>
-        <updated>2022-12-14T17:03:33.000Z</updated>
-        <summary type="html"><![CDATA[好想听王心凌唱这个版本🤣🤣🤣
-Bobie(🪬.🪬): Web3版爱你（aka嫖你）
-如果你突然打了个喷嚏
-那一定是群友在抄底
-如果半夜被链上异动吵醒
-那肯定是gas低
-常常想 官方的空投消息是不是别有用心
-明明很想相信
-却又忍不住怀疑
-在项目方的心里
-我是否只是给VC看的数据
-啊 空投又让我忍不住惦记 (啊 Everybody Say)]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
