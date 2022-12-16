@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T04:16:17.264Z</id>
+    <id>urn:2022-12-16T05:12:24.234Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T04:16:17.264Z</updated>
+    <updated>2022-12-16T05:12:24.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据 @DomoDotEth 制作的数据面板，截至 11:15，已有超过 3.4 万个基于 Polygon 的特朗普数字交易卡 NFT 被铸造，总收入超过 330 万美元，铸造地址数...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603592185923805185</id>
-        <link href="https://twitter.com/wublockchain12/status/1603592185923805185"/>
-        <updated>2022-12-16T03:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据 @DomoDotEth 制作的数据面板，截至 11:15，已有超过 3.4 万个基于 Polygon 的特朗普数字交易卡 NFT 被铸造，总收入超过 330 万美元，铸造地址数超过 1 万个，其中 13.1% 的用户是其首个在 Polygon 上铸造的 NFT，铸造超过 45 个 NFT 的地址数达 199 个。 https://dune.com/domo/trump-digital-trading-cards]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BNB Chain 公布欧洲创新孵化器项目最终获奖名单，共 8 款项目。排名第一的是链上交易工具 Wallchain，其次是全链互操作协议 Cashmere Labs 和 Web3 开...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603588393002115072</id>
-        <link href="https://twitter.com/wublockchain12/status/1603588393002115072"/>
-        <updated>2022-12-16T03:10:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BNB Chain 公布欧洲创新孵化器项目最终获奖名单，共 8 款项目。排名第一的是链上交易工具 Wallchain，其次是全链互操作协议 Cashmere Labs 和 Web3 开发者解决方案 Blockless 并列第二。 https://www.bnbchain.org/en/blog/bnb-chains-european-innovation-incubator-unveils-winners/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，A16z 发布文章阐述一些感兴趣的区块链技术领域，包括移动前端的去中心化、零知识证明 多方计算和后量子加密、可验证延迟函数硬件、完全链上游戏和自治...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1603580907763339264</id>
-        <link href="https://twitter.com/wublockchain12/status/1603580907763339264"/>
-        <updated>2022-12-16T02:40:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，A16z 发布文章阐述一些感兴趣的区块链技术领域，包括移动前端的去中心化、零知识证明 多方计算和后量子加密、可验证延迟函数硬件、完全链上游戏和自治世界、不可转让代币、能源分散化 构建微电网以及存储和传输网络。阅读全文： https://a16zcrypto.com/big-ideas-2023/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @pythianism Lol]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1603578207243943941</id>
@@ -423,6 +393,36 @@ Conor Sen: Mortgage rates decline and there’s an immediate reduction in pric
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603423942370131975</id>
+        <link href="https://twitter.com/wublockchain12/status/1603423942370131975"/>
+        <updated>2022-12-15T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://cointelegraph.com/news/coinbase-launches-tool-to-recover-mistakenly-sent-erc-20-tokens]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布即将推出资产恢复工具，帮助客户恢复发送到 Coinbase 账本的 4000 多种以太坊链上 ERC-20 Token。此前若将 Coinbase 不支持的资产发送到...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603423818755674112</id>
+        <link href="https://twitter.com/wublockchain12/status/1603423818755674112"/>
+        <updated>2022-12-15T16:16:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布即将推出资产恢复工具，帮助客户恢复发送到 Coinbase 账本的 4000 多种以太坊链上 ERC-20 Token。此前若将 Coinbase 不支持的资产发送到其用户地址，这些资产实际并未成功交付且不可恢复，现在这些 ERC-20 代币都可以恢复以返还给意外发送的用户。（cointelegraph）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，联合国难民署（UNHCR）与 Stellar 发展基金会合作，试行由 Stellar 网络、Circle 的 USDC、Vibrant 和 MoneyGram International 提供支持的数字现金支...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1603418278373621760</id>
+        <link href="https://twitter.com/wublockchain12/status/1603418278373621760"/>
+        <updated>2022-12-15T15:54:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，联合国难民署（UNHCR）与 Stellar 发展基金会合作，试行由 Stellar 网络、Circle 的 USDC、Vibrant 和 MoneyGram International 提供支持的数字现金支付系统，以加密货币快速、敏捷、链上可追溯性和问责制的特性，帮助乌克兰难民和其他受战争影响的人。 https://stellar.org/press-releases/stellar-blockchain-technology-powers-international-rescue-committees-cash-based-humanitarian-assistance-for-conflict-affected-people-in-ukraine]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT limzero.eth 🪐 882.eth: Re @STFX_IO]]></title>
         <id>https://twitter.com/pleyuh/status/1603408327756627969</id>
         <link href="https://twitter.com/pleyuh/status/1603408327756627969"/>
@@ -440,6 +440,20 @@ Re @STFX_IO]]></summary>
         <updated>2022-12-15T15:03:44.000Z</updated>
         <summary type="html"><![CDATA[RT STFX 🪐
 Winter is here. Whitelist is coming...]]></summary>
+        <author>
+            <name>DΞFi Ξducator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT blocmates. Behind on DMs apologies: This has taken several months of building but today we can finally announce that it is LIVE! ➡️ ➡️ @Web3nom...]]></title>
+        <id>https://twitter.com/blocmatesdotcom/status/1603359180336799744</id>
+        <link href="https://twitter.com/blocmatesdotcom/status/1603359180336799744"/>
+        <updated>2022-12-15T11:59:52.000Z</updated>
+        <summary type="html"><![CDATA[RT blocmates. Behind on DMs apologies
+This has taken several months of building but today we can finally announce that it is LIVE!
+➡️ 
+➡️ @Web3nomadsJobs
+🧵 https://www.web3nomads.jobs/]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1316,16 +1330,6 @@ Registration for Parallel’s Early Access Program is now open. Head to https:
         <updated>2022-12-04T18:10:23.000Z</updated>
         <summary type="html"><![CDATA[RT Autism Capital 🧩
 PLEASE CONFIRM: A user claims that they spotted Caroline Ellison at Ground Support Coffee on West Broad in SoHo Manhattan at 8:15 AM. This would mean she is not in Hong Kong and is in NY not in custody.]]></summary>
-        <author>
-            <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OpenAI @DSBatten @CleanUpBitcoin @greenpeaceusa @DylanLeClair_ @woonomic @BitcoinMagazine]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1598828241426358272</id>
-        <link href="https://twitter.com/DeFi_educator/status/1598828241426358272"/>
-        <updated>2022-12-02T23:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @OpenAI @DSBatten @CleanUpBitcoin @greenpeaceusa @DylanLeClair_ @woonomic @BitcoinMagazine https://bitcoinmagazine.com/culture/greenpeace-environment-attacks-help-bitcoin]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
