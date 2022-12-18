@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-17T23:12:26.472Z</id>
+    <id>urn:2022-12-18T01:06:49.043Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-17T23:12:26.472Z</updated>
+    <updated>2022-12-18T01:06:49.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @AkadoSang 80% yes = interesting]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1604256781898846208</id>
+        <link href="https://twitter.com/OnChainWizard/status/1604256781898846208"/>
+        <updated>2022-12-17T23:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @AkadoSang 80% yes = interesting]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @gershtr @0xSisyphus @GMX_IO Everyone knows Anubis rugged]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1604252467260055552</id>
@@ -1099,19 +1109,6 @@ AI will replace the people who think it will.]]></summary>
         <updated>2022-12-12T23:34:27.000Z</updated>
         <summary type="html"><![CDATA[RT db
 [DB] SBF Arrested by Bahamian Authorities]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tree of Alpha: 🧵FTX CEO John Ray's prepared statement for tomorrow's hearing: 1) Customer assets from FTX were commingled with assets from the A...]]></title>
-        <id>https://twitter.com/Tree_of_Alpha/status/1602377288623980545</id>
-        <link href="https://twitter.com/Tree_of_Alpha/status/1602377288623980545"/>
-        <updated>2022-12-12T18:58:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Tree of Alpha
-🧵FTX CEO John Ray's prepared statement for tomorrow's hearing:
-1) Customer assets from FTX were commingled with assets from the Alameda trading platform. 
-2) Alameda used client funds to engage in margin trading which exposed customer funds to massive losses.]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
