@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T17:11:16.755Z</id>
+    <id>urn:2022-12-19T18:17:18.979Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T17:11:16.755Z</updated>
+    <updated>2022-12-19T18:17:18.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，12月19日比特币挖矿难度增加了 3.27%，比特币全网算力为 246 EH/s。12月6日比特币挖矿难度下跌了 7.32%。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1604864728022384640</id>
+        <link href="https://twitter.com/wublockchain12/status/1604864728022384640"/>
+        <updated>2022-12-19T15:42:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，12月19日比特币挖矿难度增加了 3.27%，比特币全网算力为 246 EH/s。12月6日比特币挖矿难度下跌了 7.32%。 https://explorer.btc.com/btc]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据 CoinShares ，上周数字资产投资产品净流出 2970 万美元，其中比特币投资产品净流出 1750 万美元，而比特币空头投资产品净流入 110 万美元；以太坊...]]></title>
         <id>https://twitter.com/wublockchain12/status/1604859482432868352</id>
@@ -189,8 +199,7 @@ CZ 🔶 Binance: Binance was the majority shareholder of Toko from the beginni
         <updated>2022-12-19T11:50:43.000Z</updated>
         <summary type="html"><![CDATA[Re 
 Ren: 1) Reminder that Ren assets need to be bridged back to the respective native chains ASAP ⚠️
-The Ren 1.0 network is likely to imminently shut down, and any remaining assets are at risk of being lost.
- https://twitter.com/renprotocol/status/1600559366440390657]]></summary>
+The Ren 1.0 network is likely to imminently shut down, and any remaining assets are at risk of being lost.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -201,16 +210,6 @@ The Ren 1.0 network is likely to imminently shut down, and any remaining assets 
         <link href="https://twitter.com/wublockchain12/status/1604805223867764737"/>
         <updated>2022-12-19T11:45:55.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Ren Protocol 团队在推特发出警告，Ren 1.0 近日可能随时关闭，任何遗留在上的资产都面临丢失的风险，Ren 资产持有者应尽快桥接回原生链。但仍有价值超过1500 万美元的 renBTC 遗留。此前报道，由于 Alameda 破产，Ren 面临足够资金不足的问题。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 市场参与者将能够创建和赎回 GBTC 的股份。Michael Sonnenshein 称，灰度还未确定探索转换为 ETF 以外的选项的具体时间，但已为所有情况做好准备。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1604789670730432512</id>
-        <link href="https://twitter.com/wublockchain12/status/1604789670730432512"/>
-        <updated>2022-12-19T10:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Re 市场参与者将能够创建和赎回 GBTC 的股份。Michael Sonnenshein 称，灰度还未确定探索转换为 ETF 以外的选项的具体时间，但已为所有情况做好准备。 https://www.wsj.com/articles/if-grayscales-bitcoin-etf-dreams-fail-firm-may-try-a-tender-offer-ceo-says-11671428078]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -710,17 +709,6 @@ Stake. Mint. Earn. http://stake.fish/nft]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT GCR: Re @RunnerXBT @PC_PR1NCIPAL @jtradestar Only those who have true conviction in the resiliency of this industry will bear the fruits of future ...]]></title>
-        <id>https://twitter.com/GCRClassic/status/1603790801515040771</id>
-        <link href="https://twitter.com/GCRClassic/status/1603790801515040771"/>
-        <updated>2022-12-16T16:34:58.000Z</updated>
-        <summary type="html"><![CDATA[RT GCR
-Re @RunnerXBT @PC_PR1NCIPAL @jtradestar Only those who have true conviction in the resiliency of this industry will bear the fruits of future cycles]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT PRISM: 🚨🚨🚨🚨🚨 There seems to be a wallet is draining LP Pools from Raydium liquidity pools using admin wallet as a signer without hav...]]></title>
         <id>https://twitter.com/prism_ag/status/1603752282083950592</id>
         <link href="https://twitter.com/prism_ag/status/1603752282083950592"/>
@@ -1156,6 +1144,17 @@ GCR: I have long predicted the emergence of an echo bubble in 2023, and none o
         <link href="https://twitter.com/OnChainWizard/status/1602573765963030528"/>
         <updated>2022-12-13T07:58:54.000Z</updated>
         <summary type="html"><![CDATA[Re @Tetranode]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT db: [DB] SBF Charged With Wire Fraud, Wire Fraud Conspiracy, Securities Fraud, Securities Fraud Conspiracy and Money Laundering: NYT]]></title>
+        <id>https://twitter.com/tier10k/status/1602467998450819072</id>
+        <link href="https://twitter.com/tier10k/status/1602467998450819072"/>
+        <updated>2022-12-13T00:58:37.000Z</updated>
+        <summary type="html"><![CDATA[RT db
+[DB] SBF Charged With Wire Fraud, Wire Fraud Conspiracy, Securities Fraud, Securities Fraud Conspiracy and Money Laundering: NYT]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
