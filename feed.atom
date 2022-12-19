@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T23:12:55.146Z</id>
+    <id>urn:2022-12-19T01:04:26.224Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-18T23:12:55.146Z</updated>
+    <updated>2022-12-19T01:04:26.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Mario Nawfal: Re @elonmusk Should I keep hosting spaces? I will abide by the results of this poll.]]></title>
+        <id>https://twitter.com/MarioNawfal/status/1604619014264979456</id>
+        <link href="https://twitter.com/MarioNawfal/status/1604619014264979456"/>
+        <updated>2022-12-18T23:26:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Mario Nawfal
+Re @elonmusk Should I keep hosting spaces? I will abide by the results of this poll.]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @FoolAllTheTime Lol wut]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1604600228702609408</id>
@@ -259,16 +270,6 @@ We will be deploying a new in-game token soon to address the problem.]]></summar
         <summary type="html"><![CDATA[吴说获悉，Binance IEO 项目 Hooked 发推表示，注意到其生态系统内的 uHGT Token 存在安全问题，目前已部署修复程序来解决，用户的 BUSD 和 HOOK Token 都是安全的。另外，Hooked 还表示将铸造新 Token 以映射所有的现有的 uHGT 余额，将很快发布新的更新计划。]]></summary>
         <author>
             <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who you got]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1604485488919732224</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1604485488919732224"/>
-        <updated>2022-12-18T14:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Who you got]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
         </author>
     </entry>
     <entry>
@@ -1038,8 +1039,7 @@ Lookonchain: Justin Sun(0x9f84) withdrew 100M $BUSD again from #Binance ~15 mi
         <link href="https://twitter.com/AntCaveClub/status/1602947420106936321"/>
         <updated>2022-12-14T08:43:40.000Z</updated>
         <summary type="html"><![CDATA[Consensys 是 metamask $MASK 背后的公司 #Airdrop
-AntCave | (💙,🧡): ConsenSys 推出 zkEVM Private Beta 测试网, 开发者可以注册申请测试网使用权限.  👇
- https://twitter.com/ConsenSys/status/1602675091229507584]]></summary>
+AntCave | (💙,🧡): ConsenSys 推出 zkEVM Private Beta 测试网, 开发者可以注册申请测试网使用权限.  👇]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
         </author>
