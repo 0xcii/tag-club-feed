@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1605104529846173696",
+          "author": "吴说区块链",
+          "description": "做市商公司 Auros 申请在英属维尔京群岛开始破产程序，并提议 Interpath Advisory 作为其破产清算人。此前 Auros 价值 2000 万美元的资产被滞留在 FTX 上，并向 M11 在 Maple 的 wETH 信用池欠下了 8,400 wETH（1,070 万美元）的未偿债务。（The Block） https://www.theblock.co/post/196418/auros-bankruptcy-filing-ftx?utm_source=rss&utm_medium=rss",
+          "link": "https://twitter.com/wublockchain12/status/1605104529846173696",
+          "publishedOn": "2022-12-20T07:35:15.000Z",
+          "wordCount": 470,
+          "title": "做市商公司 Auros 申请在英属维尔京群岛开始破产程序，并提议 Interpath Advisory 作为其破产清算人。此前 Auros 价值 2000 万美元的资产被滞留在 FTX 上，并向 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1605092902555635712",
+          "author": "吴说区块链",
+          "description": "Re Eldridge 也为避免损失其投资，正在与 DCG 合作，帮助其筹集资金以支付 Genesis 的投资者和客户。 https://www.ft.com/content/9d81e865-140a-40c7-8b62-599d5b58f0f4",
+          "link": "https://twitter.com/wublockchain12/status/1605092902555635712",
+          "publishedOn": "2022-12-20T06:49:03.000Z",
+          "wordCount": 470,
+          "title": "Re Eldridge 也为避免损失其投资，正在与 DCG 合作，帮助其筹集资金以支付 Genesis 的投资者和客户。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1605092900383035392",
+          "author": "吴说区块链",
+          "description": "据金融时报，DCG 正试图筹集资金并避免其子公司 Genesis 的破产，部分原因是为了避免立即偿还美国金融家 Todd Boehly 的投资公司 3.5 亿美元的贷款。Boehly 去年 11 月通过自己的投资集团 Eldridge 为 DCG 进行了一次债务融资，其优先级高于其他债务。",
+          "link": "https://twitter.com/wublockchain12/status/1605092900383035392",
+          "publishedOn": "2022-12-20T06:49:03.000Z",
+          "wordCount": 470,
+          "title": "据金融时报，DCG 正试图筹集资金并避免其子公司 Genesis 的破产，部分原因是为了避免立即偿还美国金融家 Todd Boehly 的投资公司 3.5 亿美元的贷款。Boehly 去年...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1605090313092988931",
+          "author": "吴说区块链",
+          "description": "Re 此外，在 Magic Eden 版税支付全额、支付一半以及不支付的三个选择中，仅有约 1% 选择支付一半，购买者首选不支付，其次是支付全额，这未来可能会成为版税探索的领域，即是否存在最佳版税以鼓励用户支付超过 0% 的版税。\nSpire: Our first project covered the state of NFT royalties on Solana. Here are some key findings:\n1. Creator Royalties are down by 60% in USD value since @MagicEden  introduced option royalties\n2. Paying half royalties isn’t popular, making up only 1% of sales\n🧵",
+          "link": "https://twitter.com/wublockchain12/status/1605090313092988931",
+          "publishedOn": "2022-12-20T06:38:46.000Z",
+          "wordCount": 470,
+          "title": "Re 此外，在 Magic Eden 版税支付全额、支付一半以及不支付的三个选择中，仅有约 1% 选择支付一半，购买者首选不支付，其次是支付全额，这未来可能会成为版税探...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1605090311042084864",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @spire_fyi 研究，自 Magic Eden 于 10 月份在 Solana NFT 市场推出可选版税后，只有 30% 的 Solana NFT 销售额支付了版税，创作者版税收入以美元计算下降了 60%（以 SOL 计算减少 25%），但是 Magic Eden 整体销售额自 10 月 15 日以来增长了 3.5 倍。",
+          "link": "https://twitter.com/wublockchain12/status/1605090311042084864",
+          "publishedOn": "2022-12-20T06:38:45.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，据 @spire_fyi 研究，自 Magic Eden 于 10 月份在 Solana NFT 市场推出可选版税后，只有 30% 的 Solana NFT 销售额支付了版税，创作者版税收入以美元...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1605066827067174912",
           "author": "吴说区块链",
           "description": "吴说获悉，f2pool 鱼池表示，受到2022年12月18日阿里云香港地区云服务严重故障影响导致的矿池连接异常目前已基本修复。如果离线矿机无法正常接入f2pool，请尝试重启矿机。此前鱼池表示 CFX、ZEN、ALEO、DCR 矿池发生连接异常，部分用户挖矿受到影响。 https://f2pool.zendesk.com/hc/zh-cn/articles/13643233677465-%E5%85%B3%E4%BA%8E12%E6%9C%8818%E6%97%A5%E9%83%A8%E5%88%86%E5%B8%81%E7%A7%8D%E7%AE%97%E5%8A%9B%E5%BC%82%E5%B8%B8%E7%9A%84%E8%AF%B4%E6%98%8E-2-",
@@ -18,7 +68,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1605060096765018112",
           "author": "吴说区块链",
-          "description": "Re 此前 CryptoQuant CEO Ki Young Ju 曾发文称，1LQo...SsCd 大概率为加密交易所 Gemini 的冷钱包地址。\nKi Young Ju: This is FUD.\nThis one is just an internal transfer to \"1LQoW...\" which might be a cold wallet or custodian wallet, highly likely owned by @Gemini.\nWhat's obvious is that it's not a user deposit to exchange hot wallets for selling $BTC. Not at all.",
+          "description": "Re 此前 CryptoQuant CEO Ki Young Ju 曾发文称，1LQo...SsCd 大概率为加密交易所 Gemini 的冷钱包地址。\nKi Young Ju: This is FUD.\nThis one is just an internal transfer to \"1LQoW...\" which might be a cold wallet or custodian wallet, highly likely owned by @Gemini.\nWhat's obvious is that it's not a user deposit to exchange hot wallets for selling $BTC. Not at all.\n https://twitter.com/CryptoWhale/status/1549457688920088576",
           "link": "https://twitter.com/wublockchain12/status/1605060096765018112",
           "publishedOn": "2022-12-20T04:38:42.000Z",
           "wordCount": 470,
@@ -154,56 +204,6 @@
           "wordCount": 470,
           "title": "Re SBF 和 Alameda 前首席执行官 Caroline 在加入加密行业前也曾在 Jane Street 工作，公开文件还显示 Modulo 与 FTX 和 Alameda 在同一所豪华公寓大楼办公。（C...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1605007216389459968",
-          "author": "吴说区块链",
-          "description": "Alameda Research 曾向多策略对冲基金 Modulo Capital 投资 4 亿美元，这也是Alameda Research 最大的投资之一。该基金由两名前 Jane Street 交易员和一名开发人员于今年年初创立，交易加密货币和传统金融资产。",
-          "link": "https://twitter.com/wublockchain12/status/1605007216389459968",
-          "publishedOn": "2022-12-20T01:08:34.000Z",
-          "wordCount": 470,
-          "title": "Alameda Research 曾向多策略对冲基金 Modulo Capital 投资 4 亿美元，这也是Alameda Research 最大的投资之一。该基金由两名前 Jane Street 交易员和一名开发人...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1604998905736806400",
-          "author": "吴说区块链",
-          "description": "吴说获悉，CME Group 和 CF Benchmarks 为 Aave、Curve 和 Synthetix 推出了新的 DeFi 参考利率和实时指数。包括 Bitstamp、Coinbase、Gemini、itBit、Kraken 和 LMAX Digital 等交易所将为新基准提供定价数据。参考汇率每天计算发布一次，实时指数数据每秒发布一次。 https://www.cmegroup.com/markets/cryptocurrencies/cme-cf-cryptocurrency-benchmarks.html?utm_source=twitter&utm_medium=organic_social&utm_campaign=202212_defi_reference_rates&utm_content=20221219",
-          "link": "https://twitter.com/wublockchain12/status/1604998905736806400",
-          "publishedOn": "2022-12-20T00:35:33.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，CME Group 和 CF Benchmarks 为 Aave、Curve 和 Synthetix 推出了新的 DeFi 参考利率和实时指数。包括 Bitstamp、Coinbase、Gemini、itBit、Kraken 和...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1604996222544392192",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Visa 发文称，正在探索自托管钱包的自动付款。它使用以太坊扩容解决方案  StarkNet 让自我保管钱包用户更轻松地支付账单，从而帮助弥合加密货币与现实世界之间的差距；并利用一种称为账户抽象的新概念来探索如何实施智能合约以实现自动化和可编程支付。 https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html",
-          "link": "https://twitter.com/wublockchain12/status/1604996222544392192",
-          "publishedOn": "2022-12-20T00:24:53.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，Visa 发文称，正在探索自托管钱包的自动付款。它使用以太坊扩容解决方案 StarkNet 让自我保管钱包用户更轻松地支付账单，从而帮助弥合加密货币与现实...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1604990607029833728",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Telegraph，前英国首相鲍里斯·约翰逊的兄弟乔约翰逊已经辞去了币安旗下公司的顾问职位，他于今年9月担任顾问一职。不过英国前数字部部长 Ed Vaizey 依然担任币安全球顾问委员会的成员。 https://www.telegraph.co.uk/business/2022/12/19/boris-johnsons-brother-quits-adviser-binance-amid-crypto-meltdown/",
-          "link": "https://twitter.com/wublockchain12/status/1604990607029833728",
-          "publishedOn": "2022-12-20T00:02:34.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，据 Telegraph，前英国首相鲍里斯·约翰逊的兄弟乔约翰逊已经辞去了币安旗下公司的顾问职位，他于今年9月担任顾问一职。不过英国前数字部部长 Ed Vaize...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1604864728022384640",
-          "author": "吴说区块链",
-          "description": "吴说获悉，12月19日比特币挖矿难度增加了 3.27%，比特币全网算力为 246 EH/s。12月6日比特币挖矿难度下跌了 7.32%。 https://explorer.btc.com/btc",
-          "link": "https://twitter.com/wublockchain12/status/1604864728022384640",
-          "publishedOn": "2022-12-19T15:42:22.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，12月19日比特币挖矿难度增加了 3.27%，比特币全网算力为 246 EH/s。12月6日比特币挖矿难度下跌了 7.32%。",
-          "imageUrl": null
         }
       ]
     },
@@ -212,6 +212,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
       "articles": [
+        {
+          "id": "https://twitter.com/8848Community/status/1605108844903817216",
+          "author": "8848 社区（8848 Community）",
+          "description": "降低中奖率\nWOO Network: It's beginning to look like WOO X-mas!\n $4800 of $WOO, split among 48 winners:\n ✅ 12 who put holiday hats in their Twitter profile pics\n✅ 12 who link their Twitter to WOO X & pick an Xmas nickname\n✅ 12 who share Xmas PnL cards with #FreezeTheFees\n✅ 12 who RT!\n 🧵👇 (1/5)",
+          "link": "https://twitter.com/8848Community/status/1605108844903817216",
+          "publishedOn": "2022-12-20T07:52:24.000Z",
+          "wordCount": 470,
+          "title": "降低中奖率",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1605108528686907392",
+          "author": "8848 社区（8848 Community）",
+          "description": "rubic最近有空投活动\nRubic: 1/ The #Rubic x @HelloTelos x @Omnidex1 #Giveaway starts today. 🟩\nComplete #swaps via\n http://app.rubic.exchange",
+          "link": "https://twitter.com/8848Community/status/1605108528686907392",
+          "publishedOn": "2022-12-20T07:51:09.000Z",
+          "wordCount": 470,
+          "title": "rubic最近有空投活动",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/8848Community/status/1604845405967384576",
           "author": "8848 社区（8848 Community）",
@@ -360,16 +380,6 @@
           "publishedOn": "2022-12-15T07:08:44.000Z",
           "wordCount": 470,
           "title": "Re @insrtfinance 🔑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/cryptotesters/status/1603273771590496256",
-          "author": "8848 社区（8848 Community）",
-          "description": "RT cryptotesters 🧪\nNEW 🧪: Apple introduces end-to-end encryption for iCloud.\nOption 1: Recovery phrase\nOption 2 : Social recovery\nThis is good for crypto as it will get a lot of people comfortable with self-custody (data -> assets).",
-          "link": "https://twitter.com/cryptotesters/status/1603273771590496256",
-          "publishedOn": "2022-12-15T06:20:29.000Z",
-          "wordCount": 470,
-          "title": "RT cryptotesters 🧪: NEW 🧪: Apple introduces end-to-end encryption for iCloud. Option 1: Recovery phrase Option 2 : Social recovery This is good ...",
           "imageUrl": null
         },
         {
