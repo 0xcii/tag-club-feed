@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T09:13:24.784Z</id>
+    <id>urn:2022-12-21T10:15:08.894Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T09:13:24.784Z</updated>
+    <updated>2022-12-21T10:15:08.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安表示将移除 ANC/BNB、ANC/BTC、ANC/USDT、MIR/BTC、MIR/USDT、TORN/BTC、TORN/USDT、YFII/BTC 现货交易对。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605493318250827776</id>
+        <link href="https://twitter.com/wublockchain12/status/1605493318250827776"/>
+        <updated>2022-12-21T09:20:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安表示将移除 ANC/BNB、ANC/BTC、ANC/USDT、MIR/BTC、MIR/USDT、TORN/BTC、TORN/USDT、YFII/BTC 现货交易对。 https://www.binancezh.jp/zh-CN/support/announcement/c76352c9c2c846c997cbf65cfdf77976]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Mask Network 宣布收购 Mastodon 实例之一 Pawoo。Pawoo 是由 Pixiv 社区搭建的日本插画创作交流平台。Mastodon（长毛象）是一个免费开源的分散式社交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605485128947355648</id>
+        <link href="https://twitter.com/wublockchain12/status/1605485128947355648"/>
+        <updated>2022-12-21T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Mask Network 宣布收购 Mastodon 实例之一 Pawoo。Pawoo 是由 Pixiv 社区搭建的日本插画创作交流平台。Mastodon（长毛象）是一个免费开源的分散式社交网络。推特近期表示将删除推广其他社交平台的账户，其中包括 Mastodon。 https://masknetwork.medium.com/mask-network-acquires-pawoo-net-one-of-the-largest-mastodon-instances-5273504ba92d]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 阅读更多：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605448098607599616</id>
+        <link href="https://twitter.com/wublockchain12/status/1605448098607599616"/>
+        <updated>2022-12-21T06:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 阅读更多： https://mp.weixin.qq.com/s/KDpI6OTMCpDsOgDUDCg6sg]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去中心化存储的现状与未来（作者：Jason | Puzzle Ventures）：本文介绍了去中心化存储的现状，对 Filecoin 和 Arweave 两种主流方案的功能性、费用和生态进行了...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605448096212664320</id>
+        <link href="https://twitter.com/wublockchain12/status/1605448096212664320"/>
+        <updated>2022-12-21T06:20:28.000Z</updated>
+        <summary type="html"><![CDATA[去中心化存储的现状与未来（作者：Jason | Puzzle Ventures）：本文介绍了去中心化存储的现状，对 Filecoin 和 Arweave 两种主流方案的功能性、费用和生态进行了对比。认为 Filecoin 在矿工网络和存储成本上拥有极大的优势，但是 Arweave 的永久性存储可以给 NFT 或社交类应用提供更加可靠的解决方案。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @pythianism Breck]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1605435332853366785</id>
@@ -450,46 +490,6 @@ A nice summary of the binance situation.  Basically, no one knows anything (loca
         <link href="https://twitter.com/wublockchain12/status/1605202698537930754"/>
         <updated>2022-12-20T14:05:21.000Z</updated>
         <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安向用户表示，决定修改有关处理所有用户 API 密钥的程序，将删除超过 30 天且未列入 IP 白名单的非活动 API 密钥。如果想保持 API 处于活动状态需...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605200817556160512</id>
-        <link href="https://twitter.com/wublockchain12/status/1605200817556160512"/>
-        <updated>2022-12-20T13:57:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安向用户表示，决定修改有关处理所有用户 API 密钥的程序，将删除超过 30 天且未列入 IP 白名单的非活动 API 密钥。如果想保持 API 处于活动状态需将其列入白名单IP。此前 3Commas 等机器人疑似因为用户登录钓鱼网站出现 API KEY 泄露。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，OKX 发布上线 BNB 的公告，BNB 存款于 12 月 20 日晚上 9 点开放，BNB/USDT、BNB/USDC 现货交易于 21 日 11 点开放，BNB 提款将于 22 日 11 时开放...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605191401691455489</id>
-        <link href="https://twitter.com/wublockchain12/status/1605191401691455489"/>
-        <updated>2022-12-20T13:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，OKX 发布上线 BNB 的公告，BNB 存款于 12 月 20 日晚上 9 点开放，BNB/USDT、BNB/USDC 现货交易于 21 日 11 点开放，BNB 提款将于 22 日 11 时开放。 https://www.okx.com/support/hc/en-us/articles/11602083672205-OKX-will-list-BNB-BNB-for-spot-trading]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，比特币矿企 Greenidge Generation 与贷款人 NYDIG 就约 7400 万美元的债务签订了一份不具约束力的条款清单。NYDIG 将购买挖矿能力约为 2.8 EH/s 的矿...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605186661788553217</id>
-        <link href="https://twitter.com/wublockchain12/status/1605186661788553217"/>
-        <updated>2022-12-20T13:01:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，比特币矿企 Greenidge Generation 与贷款人 NYDIG 就约 7400 万美元的债务签订了一份不具约束力的条款清单。NYDIG 将购买挖矿能力约为 2.8 EH/s 的矿机。Greenidge 将把其几乎所有未支配资产抵押给 NYDIG。NYDIG 将减少 5700 万到 6800 万的债务。 https://www.prnewswire.com/news-releases/greenidge-generation-executes-term-sheet-with-secured-lender-nydig-regarding-debt-renegotiations-provides-liquidity-update-301706932.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BitDAO 社区发起提案，提议从明年 1 月 1 日将 BIT 目标每日购买量设置为每天 200 万 USDT ，持续 50 天（总计 1 亿美元 USDT）。目前 BitDAO 的储备...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605184061781454849</id>
-        <link href="https://twitter.com/wublockchain12/status/1605184061781454849"/>
-        <updated>2022-12-20T12:51:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BitDAO 社区发起提案，提议从明年 1 月 1 日将 BIT 目标每日购买量设置为每天 200 万 USDT ，持续 50 天（总计 1 亿美元 USDT）。目前 BitDAO 的储备包括价值 3.45 亿美元的 27 万枚 ETH 以及价值 4 亿美元的 USDT 和 USDC。 https://discourse.bitdao.io/t/discussion-bit-purchase-program-update-jan-2023/4373]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
