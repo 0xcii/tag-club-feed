@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T03:14:47.610Z</id>
+    <id>urn:2022-12-21T04:16:31.302Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T03:14:47.610Z</updated>
+    <updated>2022-12-21T04:16:31.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 自我托管、DeFi 和 Web3 应该更多被视为软件公司，而不是作为金融服务企业受到监管。阅读更多：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605390779756658688</id>
+        <link href="https://twitter.com/wublockchain12/status/1605390779756658688"/>
+        <updated>2022-12-21T02:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 自我托管、DeFi 和 Web3 应该更多被视为软件公司，而不是作为金融服务企业受到监管。阅读更多： https://mp.weixin.qq.com/s/ZxDcSgbFMBvv4ltYcP9fhA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Coinbase: 对2023年加密行业监管的建议与预测》：首先围绕稳定币发行人、交易所和托管人建立监管清晰度。建立满足制裁要求的黑名单能力。CFTC 和 SEC 在立法颁...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605390777604902912</id>
+        <link href="https://twitter.com/wublockchain12/status/1605390777604902912"/>
+        <updated>2022-12-21T02:32:42.000Z</updated>
+        <summary type="html"><![CDATA[《Coinbase: 对2023年加密行业监管的建议与预测》：首先围绕稳定币发行人、交易所和托管人建立监管清晰度。建立满足制裁要求的黑名单能力。CFTC 和 SEC 在立法颁布 90 天内明确公布其对市值排名前 100 的加密资产的分类，是商品证券或是其他。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @mhonkasalo It will be eventually just a strange moment in time]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1605382747341484033</id>
@@ -23,6 +43,26 @@
         <summary type="html"><![CDATA[Re @dnystedt U believe this report?]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Woolpaper 详细介绍了 Wolf Game 的游戏机制，包括宏观和微观博弈论、链下资源和游戏内自动做市商、游戏价值观等。Wolf Game 曾在今年 2 月引起社区追捧，地...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605378028732706817</id>
+        <link href="https://twitter.com/wublockchain12/status/1605378028732706817"/>
+        <updated>2022-12-21T01:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Re Woolpaper 详细介绍了 Wolf Game 的游戏机制，包括宏观和微观博弈论、链下资源和游戏内自动做市商、游戏价值观等。Wolf Game 曾在今年 2 月引起社区追捧，地板价一度接近 3 ETH。 https://wolf.game/woolpaper]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Nansen 数据，在备受期待的 Woolpaper 推出后，近 24 小时 Wolf Game 各系列 NFT 交易量激增，总交易量创下近 10 个月以来新高，地板价也上涨近 20...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1605378026413633536</id>
+        <link href="https://twitter.com/wublockchain12/status/1605378026413633536"/>
+        <updated>2022-12-21T01:42:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Nansen 数据，在备受期待的 Woolpaper 推出后，近 24 小时 Wolf Game 各系列 NFT 交易量激增，总交易量创下近 10 个月以来新高，地板价也上涨近 20%。 https://pro.nansen.ai/nft-paradise?platform=All]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -411,36 +451,6 @@ $btc $eth $sol $avax
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 然而在 10 月中旬，Sifcore 的员工被突然停止了工资，尽管一些工作人员留了下来，但没有足够的工作人员来确保监督。目前 peggy 桥已经完全在 Sifchain 创始人...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605137413231489025</id>
-        <link href="https://twitter.com/wublockchain12/status/1605137413231489025"/>
-        <updated>2022-12-20T09:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 然而在 10 月中旬，Sifcore 的员工被突然停止了工资，尽管一些工作人员留了下来，但没有足够的工作人员来确保监督。目前 peggy 桥已经完全在 Sifchain 创始人及 CEO Jazear 的控制之下，建议尽快将 Sifchain 资产转移到其他 Cosmos Dex。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，曾获得来自 Alameda 和 NGC 等的 350万美金融资的 Cosmos Omni-Chain Dex Sifchain 核心开发者 friedqi 在社区表示，将关闭其和另一个关键的基础设施...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605137411117559809</id>
-        <link href="https://twitter.com/wublockchain12/status/1605137411117559809"/>
-        <updated>2022-12-20T09:45:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，曾获得来自 Alameda 和 NGC 等的 350万美金融资的 Cosmos Omni-Chain Dex Sifchain 核心开发者 friedqi 在社区表示，将关闭其和另一个关键的基础设施负责人所管理的 RedStarling 验证器。Sifnoded 包含一个管理员账户，过去由来自社区/DAO、Sifchain 高管和工程师的多重签名控制。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Meta 系公链 Sui 基金会重申没有 SUI 空投的官方计划，社区成员可通过社区访问计划获得 SUI，具体方式包括帮助节点运营商和开发人员调试问题、推动 Su...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605136495354195974</id>
-        <link href="https://twitter.com/wublockchain12/status/1605136495354195974"/>
-        <updated>2022-12-20T09:42:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Meta 系公链 Sui 基金会重申没有  SUI 空投的官方计划，社区成员可通过社区访问计划获得 SUI，具体方式包括帮助节点运营商和开发人员调试问题、推动 Sui 的采用、帮助人们学习和使用 Sui 等。该计划还将允许 Sui 社区成员网络早期阶段购买 SUI Token。 https://sui.io/resources-sui/sui-token-community-access-program-faq/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Moonbeam Network中文⛓🔄⛓: 1/ 🎄圣诞快乐，充满惊喜的12月来啦！今年圣诞月，@MoonbeamNetwork项目方难得大方，打开🧵往下看 完成限时圣诞挑战，发...]]></title>
         <id>https://twitter.com/MoonbeamCN/status/1605134936901500928</id>
         <link href="https://twitter.com/MoonbeamCN/status/1605134936901500928"/>
@@ -482,16 +492,6 @@ Complete #swaps via
  http://app.rubic.exchange]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做市商公司 Auros 申请在英属维尔京群岛开始破产程序，并提议 Interpath Advisory 作为其破产清算人。此前 Auros 价值 2000 万美元的资产被滞留在 FTX 上，并向 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1605104529846173696</id>
-        <link href="https://twitter.com/wublockchain12/status/1605104529846173696"/>
-        <updated>2022-12-20T07:35:15.000Z</updated>
-        <summary type="html"><![CDATA[做市商公司 Auros 申请在英属维尔京群岛开始破产程序，并提议 Interpath Advisory 作为其破产清算人。此前 Auros 价值 2000 万美元的资产被滞留在 FTX 上，并向 M11 在 Maple 的 wETH 信用池欠下了 8,400 wETH（1,070 万美元）的未偿债务。（The Block） https://www.theblock.co/post/196418/auros-bankruptcy-filing-ftx?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
