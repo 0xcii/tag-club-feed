@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-24T17:11:06.351Z</id>
+    <id>urn:2022-12-24T18:15:10.117Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-24T17:11:06.351Z</updated>
+    <updated>2022-12-24T18:15:10.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，密码管理工具 LastPass 承认黑客获得了云存储访问密钥和双存储容器解密密钥，从备份中复制了包含客户基本账户信息和相关元数据的信息，其中包括公司名...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1606678868278259713</id>
+        <link href="https://twitter.com/wublockchain12/status/1606678868278259713"/>
+        <updated>2022-12-24T15:51:07.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，密码管理工具 LastPass 承认黑客获得了云存储访问密钥和双存储容器解密密钥，从备份中复制了包含客户基本账户信息和相关元数据的信息，其中包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码，以及客户访问 LastPass 服务的 IP 地址。 https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 所以目前 Marathon 没有破产危险。（The Block）]]></title>
         <id>https://twitter.com/wublockchain12/status/1606626304023228418</id>
@@ -372,16 +382,6 @@ DeFi Surfer 🫐,💎: If you had to buy one stock for your niece to hold for 
         <link href="https://twitter.com/wublockchain12/status/1606456446002290688"/>
         <updated>2022-12-24T01:07:17.000Z</updated>
         <summary type="html"><![CDATA[IntoTheBlock 的研究主管 Lucas Outumuro 在接受 CoinDesk 采访时表示：美国交易所可能不会上线 BNB，因为他们将其视为一种证券。本周美国 SEC 将 FTX 平台币 FTT 列为证券。这意味着其他交易所平台币可能很难在美国交易所上线。目前 BNB 仅在 Binance US 上线。 https://www.coindesk.com/markets/2022/12/23/crypto-analysts-see-yellow-flag-in-us-exchanges-refusal-to-list-binances-bnb-token/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1606448159659819008</id>
-        <link href="https://twitter.com/wublockchain12/status/1606448159659819008"/>
-        <updated>2022-12-24T00:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bloomberg.com/news/articles/2022-12-23/ellison-said-she-bankman-fried-agreed-to-mislead-ftx-lenders]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
