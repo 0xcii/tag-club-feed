@@ -6,9 +6,49 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1606945667624361984",
+          "author": "吴说区块链",
+          "description": "Re 被盗原因是错误地将 USDC 添加到支持的 routers 中，由于在 routerCallNative 中缺乏验证，黑客可以耗尽获得 RubicProxy 批准的用户的所有资金，需尽快撤销批准。",
+          "link": "https://twitter.com/wublockchain12/status/1606945667624361984",
+          "publishedOn": "2022-12-25T09:31:17.000Z",
+          "wordCount": 470,
+          "title": "Re 被盗原因是错误地将 USDC 添加到支持的 routers 中，由于在 routerCallNative 中缺乏验证，黑客可以耗尽获得 RubicProxy 批准的用户的所有资金，需尽快撤销批...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606943773619281920",
+          "author": "吴说区块链",
+          "description": "Re Defrost Finance 在2021年11月由 CertiK 进行了审计。同日另一个被盗的 Rubic 也是由 Certik 进行审计。",
+          "link": "https://twitter.com/wublockchain12/status/1606943773619281920",
+          "publishedOn": "2022-12-25T09:23:45.000Z",
+          "wordCount": 470,
+          "title": "Re Defrost Finance 在2021年11月由 CertiK 进行了审计。同日另一个被盗的 Rubic 也是由 Certik 进行审计。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606942148976594944",
+          "author": "吴说区块链",
+          "description": "Re \nPeckShield Inc.: Rubic @CryptoRubic is exploited  (w/ ～$1.41M) \n1,100 $ETH already into Tornado Cash from the exploiter\n https://etherscan.io/tx/0x9a97d85642f956ad7a6b852cf7bed6f9669e2c2815f3279855acf7f1328e7d46 https://etherscan.io/address/0x001b91c794dfeecf00124d3f9525dd32870b6ee9",
+          "link": "https://twitter.com/wublockchain12/status/1606942148976594944",
+          "publishedOn": "2022-12-25T09:17:18.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606942041212342272",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据派盾，跨链聚合器 Rubic 遭到黑客攻击， 1,100  枚 ETH （约 140 万美元）已被发送至 Tornado Cash。据悉，Rubic 官网显示获得了 Certik 和 Fairyproof 的审计。",
+          "link": "https://twitter.com/wublockchain12/status/1606942041212342272",
+          "publishedOn": "2022-12-25T09:16:52.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，据派盾，跨链聚合器 Rubic 遭到黑客攻击， 1,100 枚 ETH （约 140 万美元）已被发送至 Tornado Cash。据悉，Rubic 官网显示获得了 Certik 和 Fairypro...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1606937092067856385",
           "author": "吴说区块链",
-          "description": "Re \nPeckShield Inc.: We received community intel warning the rugpull of @Defrost_Finance. Our analysis shows a fake collateral token is added and a malicious price oracle is used to liquidate current users. The loss is estimated to be >$12M.",
+          "description": "Re \nPeckShield Inc.: We received community intel warning the rugpull of @Defrost_Finance. Our analysis shows a fake collateral token is added and a malicious price oracle is used to liquidate current users. The loss is estimated to be >$12M.\n\n https://twitter.com/PeckShieldAlert/status/1606276020276891650",
           "link": "https://twitter.com/wublockchain12/status/1606937092067856385",
           "publishedOn": "2022-12-25T08:57:12.000Z",
           "wordCount": 470,
@@ -108,7 +148,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1606855750642716672",
           "author": "吴说区块链",
-          "description": "吴说获悉，据香港01，日前被捕的香港交易所 AAX 高管为维高资本董事、股东兼CEO梁浩明，以及AAX的创办人兼前CEO陈振雄（Thor Chan）。此外香港金融科技周也已“偷偷”把 FTX AAX 等诸多嘉宾于官网下架。\n吴说区块链: 吴说获悉，AAX 香港警方发布会透露了更多信息，AAX 实控人11月12日已经连同私钥逃离香港，钱包中约有3000万美金；其中一名被捕人士谎称没有参与公司运作，但实际查出有参与因此被控误导警务人员罪；平台以高达15%的利息招揽客户；",
+          "description": "吴说获悉，据香港01，日前被捕的香港交易所 AAX 高管为维高资本董事、股东兼CEO梁浩明，以及AAX的创办人兼前CEO陈振雄（Thor Chan）。此外香港金融科技周也已“偷偷”把 FTX AAX 等诸多嘉宾于官网下架。\n吴说区块链: 吴说获悉，AAX 香港警方发布会透露了更多信息，AAX 实控人11月12日已经连同私钥逃离香港，钱包中约有3000万美金；其中一名被捕人士谎称没有参与公司运作，但实际查出有参与因此被控误导警务人员罪；平台以高达15%的利息招揽客户；\n https://twitter.com/wublockchain12/status/1606263637693198337",
           "link": "https://twitter.com/wublockchain12/status/1606855750642716672",
           "publishedOn": "2022-12-25T03:33:59.000Z",
           "wordCount": 470,
@@ -138,7 +178,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1606846962716012550",
           "author": "吴说区块链",
-          "description": "Re 吴说获悉，据 @DefiIgnas，LastPass 安全漏洞发生之后，开始收到假的 OKX 的钓鱼短信，告诉需要升级账户。@DefiIgnas 表示，这意味着黑客已经知道他的电话号码以及他使用 OKX。使用过密码管理工具 LastPass 的用户需注意钓鱼网站。\nIgnas | DeFi Research: 1/ Can confirm: After LastPass security breach I started receiving phishing SMS to a fake OKx telling me to upgrade my account. \nIt means the hacker knows 2 things:\n1. My phone number \n2. That I use OKx",
+          "description": "Re 吴说获悉，据 @DefiIgnas，LastPass 安全漏洞发生之后，开始收到假的 OKX 的钓鱼短信，告诉需要升级账户。@DefiIgnas 表示，这意味着黑客已经知道他的电话号码以及他使用 OKX。使用过密码管理工具 LastPass 的用户需注意钓鱼网站。\nIgnas | DeFi Research: 1/ Can confirm: After LastPass security breach I started receiving phishing SMS to a fake OKx telling me to upgrade my account. \nIt means the hacker knows 2 things:\n1. My phone number \n2. That I use OKx\n https://twitter.com/snipeyhead/status/1606116796477513728",
           "link": "https://twitter.com/wublockchain12/status/1606846962716012550",
           "publishedOn": "2022-12-25T02:59:04.000Z",
           "wordCount": 470,
@@ -164,46 +204,6 @@
           "wordCount": 470,
           "title": "吴说获悉，昨日以太坊 Github 发布了一篇记录以太坊 PoS 共识协议 Gasper 近几年的演变历程的文章。文中主要介绍了 Gasper 的两大模块组成：FFG Casper 和 LMD-G...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606832141438177281",
-          "author": "吴说区块链",
-          "description": "吴说周精选：马绍尔群岛的“DAO组织立法”、SBF出庭、OKX宕机与新闻Top10（1216-1223） https://mp.weixin.qq.com/s/ST6Wz_dO4Kf551vousRxAw",
-          "link": "https://twitter.com/wublockchain12/status/1606832141438177281",
-          "publishedOn": "2022-12-25T02:00:10.000Z",
-          "wordCount": 470,
-          "title": "吴说周精选：马绍尔群岛的“DAO组织立法”、SBF出庭、OKX宕机与新闻Top10（1216-1223）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606807171232321537",
-          "author": "吴说区块链",
-          "description": "Re 但该排行榜内容极不准确，例如将 CZ 身价从 650 亿美金降至 45 亿美金；将 DCG 创始人身价直接将为零；遗漏了孙宇晨 徐明星 等交易所的控制人等。 https://www.forbes.com/sites/johnhyatt/2022/12/24/these-crypto-founders-and-bitcoin-moguls-lost-116-billion-in-2022/?sh=4aad9e9e42b2",
-          "link": "https://twitter.com/wublockchain12/status/1606807171232321537",
-          "publishedOn": "2022-12-25T00:20:57.000Z",
-          "wordCount": 470,
-          "title": "Re 但该排行榜内容极不准确，例如将 CZ 身价从 650 亿美金降至 45 亿美金；将 DCG 创始人身价直接将为零；遗漏了孙宇晨 徐明星 等交易所的控制人等。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606806921893539841",
-          "author": "吴说区块链",
-          "description": "吴说获悉，福布斯发布的排行榜指出，自 3 月以来至今，17 位最富有的加密货币投资者和创始人总共损失了约 1160 亿美元的个人财富。其中十五人失去了一半以上的财产。",
-          "link": "https://twitter.com/wublockchain12/status/1606806921893539841",
-          "publishedOn": "2022-12-25T00:19:57.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，福布斯发布的排行榜指出，自 3 月以来至今，17 位最富有的加密货币投资者和创始人总共损失了约 1160 亿美元的个人财富。其中十五人失去了一半以上的财...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606678868278259713",
-          "author": "吴说区块链",
-          "description": "吴说获悉，密码管理工具 LastPass 承认黑客获得了云存储访问密钥和双存储容器解密密钥，从备份中复制了包含客户基本账户信息和相关元数据的信息，其中包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码，以及客户访问 LastPass 服务的 IP 地址。 https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
-          "link": "https://twitter.com/wublockchain12/status/1606678868278259713",
-          "publishedOn": "2022-12-24T15:51:07.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，密码管理工具 LastPass 承认黑客获得了云存储访问密钥和双存储容器解密密钥，从备份中复制了包含客户基本账户信息和相关元数据的信息，其中包括公司名...",
-          "imageUrl": null
         }
       ]
     },
@@ -212,6 +212,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
       "articles": [
+        {
+          "id": "https://twitter.com/8848Community/status/1606983472677289984",
+          "author": "8848 社区（8848 Community）",
+          "description": "MEEEEEERRRRRRRRYYYYYYYYYY CHRISTMAAAAAAAAAAASSS EVERYONEEEEE I LOVE ALL OF YOU\n圣诞节快乐",
+          "link": "https://twitter.com/8848Community/status/1606983472677289984",
+          "publishedOn": "2022-12-25T12:01:30.000Z",
+          "wordCount": 470,
+          "title": "MEEEEEERRRRRRRRYYYYYYYYYY CHRISTMAAAAAAAAAAASSS EVERYONEEEEE I LOVE ALL OF YOU 圣诞节快乐",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/8848Community/status/1606955258206629888",
           "author": "8848 社区（8848 Community）",
@@ -400,16 +410,6 @@
           "publishedOn": "2022-12-23T13:45:31.000Z",
           "wordCount": 470,
           "title": "有LENS的可以填表预约MINT一个年总结NFT 填表时间12月29日截止",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1606275425377714176",
-          "author": "8848 社区（8848 Community）",
-          "description": "#SlingshotWrapUp \n之前有用过Slingshot的，可以生成你的slingshot 年度总结，点击网页上的2022WRAPUP，分享赢取一个钻石版本小图片\n也许没啥用，但反正我有推特也有在用Slingshot，不做白不做 https://app.slingshot.finance",
-          "link": "https://twitter.com/8848Community/status/1606275425377714176",
-          "publishedOn": "2022-12-23T13:07:59.000Z",
-          "wordCount": 470,
-          "title": "#SlingshotWrapUp 之前有用过Slingshot的，可以生成你的slingshot 年度总结，点击网页上的2022WRAPUP，分享赢取一个钻石版本小图片 也许没啥用，但反正我有推特...",
           "imageUrl": null
         }
       ]
