@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1606834411705892864",
+          "author": "吴说区块链",
+          "description": "Re 同时介绍了 Gasper 作为共识协议应该满足的属性，并阐述了在一些已知攻击问题的冲突下，这些属性的权衡解决方案。 https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
+          "link": "https://twitter.com/wublockchain12/status/1606834411705892864",
+          "publishedOn": "2022-12-25T02:09:11.000Z",
+          "wordCount": 470,
+          "title": "Re 同时介绍了 Gasper 作为共识协议应该满足的属性，并阐述了在一些已知攻击问题的冲突下，这些属性的权衡解决方案。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606834362762539009",
+          "author": "吴说区块链",
+          "description": "吴说获悉，昨日以太坊 Github 发布了一篇记录以太坊 PoS 共识协议 Gasper 近几年的演变历程的文章。文中主要介绍了 Gasper 的两大模块组成：FFG Casper 和 LMD-GHOST，前者已经处于稳定最终版本，后者则在这些年里不断修补优化；",
+          "link": "https://twitter.com/wublockchain12/status/1606834362762539009",
+          "publishedOn": "2022-12-25T02:09:00.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，昨日以太坊 Github 发布了一篇记录以太坊 PoS 共识协议 Gasper 近几年的演变历程的文章。文中主要介绍了 Gasper 的两大模块组成：FFG Casper 和 LMD-G...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606832141438177281",
+          "author": "吴说区块链",
+          "description": "吴说周精选：马绍尔群岛的“DAO组织立法”、SBF出庭、OKX宕机与新闻Top10（1216-1223） https://mp.weixin.qq.com/s/ST6Wz_dO4Kf551vousRxAw",
+          "link": "https://twitter.com/wublockchain12/status/1606832141438177281",
+          "publishedOn": "2022-12-25T02:00:10.000Z",
+          "wordCount": 470,
+          "title": "吴说周精选：马绍尔群岛的“DAO组织立法”、SBF出庭、OKX宕机与新闻Top10（1216-1223）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606807171232321537",
+          "author": "吴说区块链",
+          "description": "Re 但该排行榜内容极不准确，例如将 CZ 身价从 650 亿美金降至 45 亿美金；将 DCG 创始人身价直接将为零；遗漏了孙宇晨 徐明星 等交易所的控制人等。 https://www.forbes.com/sites/johnhyatt/2022/12/24/these-crypto-founders-and-bitcoin-moguls-lost-116-billion-in-2022/?sh=4aad9e9e42b2",
+          "link": "https://twitter.com/wublockchain12/status/1606807171232321537",
+          "publishedOn": "2022-12-25T00:20:57.000Z",
+          "wordCount": 470,
+          "title": "Re 但该排行榜内容极不准确，例如将 CZ 身价从 650 亿美金降至 45 亿美金；将 DCG 创始人身价直接将为零；遗漏了孙宇晨 徐明星 等交易所的控制人等。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606806921893539841",
+          "author": "吴说区块链",
+          "description": "吴说获悉，福布斯发布的排行榜指出，自 3 月以来至今，17 位最富有的加密货币投资者和创始人总共损失了约 1160 亿美元的个人财富。其中十五人失去了一半以上的财产。",
+          "link": "https://twitter.com/wublockchain12/status/1606806921893539841",
+          "publishedOn": "2022-12-25T00:19:57.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，福布斯发布的排行榜指出，自 3 月以来至今，17 位最富有的加密货币投资者和创始人总共损失了约 1160 亿美元的个人财富。其中十五人失去了一半以上的财...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1606678868278259713",
           "author": "吴说区块链",
           "description": "吴说获悉，密码管理工具 LastPass 承认黑客获得了云存储访问密钥和双存储容器解密密钥，从备份中复制了包含客户基本账户信息和相关元数据的信息，其中包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码，以及客户访问 LastPass 服务的 IP 地址。 https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
@@ -153,56 +203,6 @@
           "publishedOn": "2022-12-24T02:01:24.000Z",
           "wordCount": 470,
           "title": "吴说获悉，据塔斯社，俄罗斯国家杜马金融市场委员会主席 Anatoly Aksakov 表示，由于批评者担心成为资本外逃的渠道，关于加密货币与挖矿监管的法案被推迟。11月...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606466320924827648",
-          "author": "吴说区块链",
-          "description": "前 Alameda Research CEO Caroline Ellison 的认罪协议规定，如果她全面配合美国纽约南区联邦地区法院的调查，她可能将不会受到进一步的刑事起诉。不过 FTX 和 Alameda 账户之间的资金混合可能导致其他机构提出起诉。（CoinDesk） https://www.coindesk.com/business/2022/12/22/caroline-ellison-plea-agreement-250000-bail-surrender-of-travel-documents-forfeiture-of-assets/",
-          "link": "https://twitter.com/wublockchain12/status/1606466320924827648",
-          "publishedOn": "2022-12-24T01:46:32.000Z",
-          "wordCount": 470,
-          "title": "前 Alameda Research CEO Caroline Ellison 的认罪协议规定，如果她全面配合美国纽约南区联邦地区法院的调查，她可能将不会受到进一步的刑事起诉。不过 FTX 和 A...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606465166266486785",
-          "author": "吴说区块链",
-          "description": "Re （TheBlock） https://www.theblock.co/post/197800/crypto-miners-bracing-for-impact-from-brutal-winter-storm",
-          "link": "https://twitter.com/wublockchain12/status/1606465166266486785",
-          "publishedOn": "2022-12-24T01:41:56.000Z",
-          "wordCount": 470,
-          "title": "Re （TheBlock）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606465164022513667",
-          "author": "吴说区块链",
-          "description": "美国国家气象局报告了从中西部到东北部的暴风雪天气，寒流将导致美国大约八成地区的气温在零度以下。比特币矿工将受到影响。Riot Blockchain表示，由于极端天气条件，它正在关闭其在德克萨斯州的部分设施。Core Scientific 表示，它将“参与多次限电，以帮助稳定电网”。预计比特币全网算力会暂时下降。",
-          "link": "https://twitter.com/wublockchain12/status/1606465164022513667",
-          "publishedOn": "2022-12-24T01:41:56.000Z",
-          "wordCount": 470,
-          "title": "美国国家气象局报告了从中西部到东北部的暴风雪天气，寒流将导致美国大约八成地区的气温在零度以下。比特币矿工将受到影响。Riot Blockchain表示，由于极端天气...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606461037288779778",
-          "author": "吴说区块链",
-          "description": "姚前新文《迈入Web3.0的四大变革》：最先读懂 Web3.0 型的商业应用是数字货币，比如 USDT。这两年的热点是 NFT，先在卡通和游戏领域试水，后来艺术家、拍卖行、数字媒体、文化公司、体育联盟纷纷向 NFT 注入各类文化 IP。阅读全文： https://mp.weixin.qq.com/s/EZ_OKybcx9ImB4aKnBhjWw",
-          "link": "https://twitter.com/wublockchain12/status/1606461037288779778",
-          "publishedOn": "2022-12-24T01:25:32.000Z",
-          "wordCount": 470,
-          "title": "姚前新文《迈入Web3.0的四大变革》：最先读懂 Web3.0 型的商业应用是数字货币，比如 USDT。这两年的热点是 NFT，先在卡通和游戏领域试水，后来艺术家、拍卖行、...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606456446002290688",
-          "author": "吴说区块链",
-          "description": "IntoTheBlock 的研究主管 Lucas Outumuro 在接受 CoinDesk 采访时表示：美国交易所可能不会上线 BNB，因为他们将其视为一种证券。本周美国 SEC 将 FTX 平台币 FTT 列为证券。这意味着其他交易所平台币可能很难在美国交易所上线。目前 BNB 仅在 Binance US 上线。 https://www.coindesk.com/markets/2022/12/23/crypto-analysts-see-yellow-flag-in-us-exchanges-refusal-to-list-binances-bnb-token/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines",
-          "link": "https://twitter.com/wublockchain12/status/1606456446002290688",
-          "publishedOn": "2022-12-24T01:07:17.000Z",
-          "wordCount": 470,
-          "title": "IntoTheBlock 的研究主管 Lucas Outumuro 在接受 CoinDesk 采访时表示：美国交易所可能不会上线 BNB，因为他们将其视为一种证券。本周美国 SEC 将 FTX 平台币 FT...",
           "imageUrl": null
         }
       ]
