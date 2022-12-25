@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1606992821634101248",
+          "author": "吴说区块链",
+          "description": "Re 孙宇晨表示，李斌将勒索事件归咎于比特币是不公平的，比特币其实完全可以按照区块链的透明信息确定资金流向，比收现金更容易防止勒索。我本人与火币也愿意给蔚来提供相应服务，尽早找出黑客。比特币是无辜的。\nH.E. Justin Sun🌞🇬🇩🇩🇲🔥: 蔚来汽车用户数据被黑客勒索很不幸，我希望蔚来能够尽快将黑客绳之以法，但李斌将勒索事件归咎于比特币是不公平的，比特币其实完全可以按照区块链的透明信息确定资金流向，比收现金更容易防止勒索。我本人与火币也愿意给蔚来提供相应服务，尽早找出黑客。比特币是无辜的。",
+          "link": "https://twitter.com/wublockchain12/status/1606992821634101248",
+          "publishedOn": "2022-12-25T12:38:39.000Z",
+          "wordCount": 470,
+          "title": "Re 孙宇晨表示，李斌将勒索事件归咎于比特币是不公平的，比特币其实完全可以按照区块链的透明信息确定资金流向，比收现金更容易防止勒索。我本人与火币也愿意给...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606988117030096897",
+          "author": "吴说区块链",
+          "description": "Re 结合 0xScope 的数据监控，孙宇晨随后从币安提取了约 1.98 亿枚 USDT 到以太坊地址 0x138……1c348，推算可能是借助币安进行  USDT 的换链操作。\n0xScope (🪬 . 🪬): Another 103M $USDT withdraw from #Binance by @justinsuntron.\nChristmas special?",
+          "link": "https://twitter.com/wublockchain12/status/1606988117030096897",
+          "publishedOn": "2022-12-25T12:19:58.000Z",
+          "wordCount": 470,
+          "title": "Re 结合 0xScope 的数据监控，孙宇晨随后从币安提取了约 1.98 亿枚 USDT 到以太坊地址 0x138……1c348，推算可能是借助币安进行 USDT 的换链操作。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606984681278566400",
+          "author": "吴说区块链",
+          "description": "吴说获悉，数字人民币 APP 上线“专属头像”和“个人红包”功能。据介绍，专属头像是唯一的，不会和其他用户重复。每个账号默认一次生成头像（六选一）的机会，但每成功拉新3位用户，可以增加一次生成新头像的机会。每个头像还有 E-CNY 开头的专属序号。 https://finance.eastmoney.com/a/202212252597027162.html https://twitter.com/i/web/status/1606984681278566400",
+          "link": "https://twitter.com/wublockchain12/status/1606984681278566400",
+          "publishedOn": "2022-12-25T12:06:19.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，数字人民币 APP 上线“专属头像”和“个人红包”功能。据介绍，专属头像是唯一的，不会和其他用户重复。每个账号默认一次生成头像（六选一）的机会，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606979540437569536",
+          "author": "吴说区块链",
+          "description": "Re \nWhale Alert: 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  198,000,000 #USDT (198,197,999 USD) transferred from Justin Sun to #Binance\n https://whale-alert.io/transaction/tron/b44f0a1056640ca978d28b4985fefb63c6e853300f4fd5ae85efb4ce43b459bb",
+          "link": "https://twitter.com/wublockchain12/status/1606979540437569536",
+          "publishedOn": "2022-12-25T11:45:53.000Z",
+          "wordCount": 470,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1606979432467820545",
+          "author": "吴说区块链",
+          "description": "吴说获悉，根据 WhaleAlert 监控，标识为孙宇晨的波场地址 TPyj...Nan5 于两小时前向标识为币安的地址 TJkg...F2ft 转入 1.98 亿枚 USDT。根据吴说的进一步链上统计，该地址类似的大额 USDT/USDC 转入币安，近两个月已有将近 20 笔，转入资金超过 12 亿美元。",
+          "link": "https://twitter.com/wublockchain12/status/1606979432467820545",
+          "publishedOn": "2022-12-25T11:45:27.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，根据 WhaleAlert 监控，标识为孙宇晨的波场地址 TPyj...Nan5 于两小时前向标识为币安的地址 TJkg...F2ft 转入 1.98 亿枚 USDT。根据吴说的进一步链上...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1606945667624361984",
           "author": "吴说区块链",
           "description": "Re 被盗原因是错误地将 USDC 添加到支持的 routers 中，由于在 routerCallNative 中缺乏验证，黑客可以耗尽获得 RubicProxy 批准的用户的所有资金，需尽快撤销批准。",
@@ -48,7 +98,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1606937092067856385",
           "author": "吴说区块链",
-          "description": "Re \nPeckShield Inc.: We received community intel warning the rugpull of @Defrost_Finance. Our analysis shows a fake collateral token is added and a malicious price oracle is used to liquidate current users. The loss is estimated to be >$12M.\n\n https://twitter.com/PeckShieldAlert/status/1606276020276891650",
+          "description": "Re \nPeckShield Inc.: We received community intel warning the rugpull of @Defrost_Finance. Our analysis shows a fake collateral token is added and a malicious price oracle is used to liquidate current users. The loss is estimated to be >$12M.",
           "link": "https://twitter.com/wublockchain12/status/1606937092067856385",
           "publishedOn": "2022-12-25T08:57:12.000Z",
           "wordCount": 470,
@@ -143,66 +193,6 @@
           "publishedOn": "2022-12-25T05:17:09.000Z",
           "wordCount": 470,
           "title": "吴说获悉，据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606855750642716672",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据香港01，日前被捕的香港交易所 AAX 高管为维高资本董事、股东兼CEO梁浩明，以及AAX的创办人兼前CEO陈振雄（Thor Chan）。此外香港金融科技周也已“偷偷”把 FTX AAX 等诸多嘉宾于官网下架。\n吴说区块链: 吴说获悉，AAX 香港警方发布会透露了更多信息，AAX 实控人11月12日已经连同私钥逃离香港，钱包中约有3000万美金；其中一名被捕人士谎称没有参与公司运作，但实际查出有参与因此被控误导警务人员罪；平台以高达15%的利息招揽客户；\n https://twitter.com/wublockchain12/status/1606263637693198337",
-          "link": "https://twitter.com/wublockchain12/status/1606855750642716672",
-          "publishedOn": "2022-12-25T03:33:59.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，据香港01，日前被捕的香港交易所 AAX 高管为维高资本董事、股东兼CEO梁浩明，以及AAX的创办人兼前CEO陈振雄（Thor Chan）。此外香港金融科技周也已“...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606855461499961346",
-          "author": "吴说区块链",
-          "description": "Re 币安希望用户知道，不会再有“另一个 FTX 场景”出现。（ http://bsc.news https://www.bsc.news/post/cz-reassures-binance-retails-customers-in-personal-email",
-          "link": "https://twitter.com/wublockchain12/status/1606855461499961346",
-          "publishedOn": "2022-12-25T03:32:50.000Z",
-          "wordCount": 470,
-          "title": "Re 币安希望用户知道，不会再有“另一个 FTX 场景”出现。（",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606855396819611648",
-          "author": "吴说区块链",
-          "description": "吴说获悉，赵长鹏已向零售客户发送了一封电子邮件，称币安的客户账户是分开的，币安每天都会核对客户持有的所有加密资产，其加密资产均保存在隔离账户中，这些账户与币安加密资产账户分开识别，币安通过自己的钱包基础设施来保护用户资产和币安自己的资产。",
-          "link": "https://twitter.com/wublockchain12/status/1606855396819611648",
-          "publishedOn": "2022-12-25T03:32:35.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，赵长鹏已向零售客户发送了一封电子邮件，称币安的客户账户是分开的，币安每天都会核对客户持有的所有加密资产，其加密资产均保存在隔离账户中，这些账...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606846962716012550",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，据 @DefiIgnas，LastPass 安全漏洞发生之后，开始收到假的 OKX 的钓鱼短信，告诉需要升级账户。@DefiIgnas 表示，这意味着黑客已经知道他的电话号码以及他使用 OKX。使用过密码管理工具 LastPass 的用户需注意钓鱼网站。\nIgnas | DeFi Research: 1/ Can confirm: After LastPass security breach I started receiving phishing SMS to a fake OKx telling me to upgrade my account. \nIt means the hacker knows 2 things:\n1. My phone number \n2. That I use OKx\n https://twitter.com/snipeyhead/status/1606116796477513728",
-          "link": "https://twitter.com/wublockchain12/status/1606846962716012550",
-          "publishedOn": "2022-12-25T02:59:04.000Z",
-          "wordCount": 470,
-          "title": "Re 吴说获悉，据 @DefiIgnas，LastPass 安全漏洞发生之后，开始收到假的 OKX 的钓鱼短信，告诉需要升级账户。@DefiIgnas 表示，这意味着黑客已经知道他的电话号...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606834411705892864",
-          "author": "吴说区块链",
-          "description": "Re 同时介绍了 Gasper 作为共识协议应该满足的属性，并阐述了在一些已知攻击问题的冲突下，这些属性的权衡解决方案。 https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
-          "link": "https://twitter.com/wublockchain12/status/1606834411705892864",
-          "publishedOn": "2022-12-25T02:09:11.000Z",
-          "wordCount": 470,
-          "title": "Re 同时介绍了 Gasper 作为共识协议应该满足的属性，并阐述了在一些已知攻击问题的冲突下，这些属性的权衡解决方案。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1606834362762539009",
-          "author": "吴说区块链",
-          "description": "吴说获悉，昨日以太坊 Github 发布了一篇记录以太坊 PoS 共识协议 Gasper 近几年的演变历程的文章。文中主要介绍了 Gasper 的两大模块组成：FFG Casper 和 LMD-GHOST，前者已经处于稳定最终版本，后者则在这些年里不断修补优化；",
-          "link": "https://twitter.com/wublockchain12/status/1606834362762539009",
-          "publishedOn": "2022-12-25T02:09:00.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，昨日以太坊 Github 发布了一篇记录以太坊 PoS 共识协议 Gasper 近几年的演变历程的文章。文中主要介绍了 Gasper 的两大模块组成：FFG Casper 和 LMD-G...",
           "imageUrl": null
         }
       ]
@@ -403,13 +393,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/8848Community/status/1606284870749151233",
+          "id": "https://twitter.com/Ace_da_Book/status/1606187004797992960",
           "author": "8848 社区（8848 Community）",
-          "description": "有LENS的可以填表预约MINT一个年总结NFT\n填表时间12月29日截止\nKNN3 Network: 🕋Annual Mission\n𝐘𝐨𝐮𝐫 𝟐𝟎𝟐𝟐 𝐖𝐫𝐚𝐩𝐩𝐞𝐝 𝐨𝐧 𝐋𝐞𝐧𝐬🌿@LensProtocol\n👩‍⚕️Get your #Web3 persona color & report\nShare this tweet & generate your exclusive #NFT \n🔴 >🟠 ! 🟢 + 🔵 : 🟣 ?\nGather to reserve:\n#KNN3 #recap\nDetails⬇️\n https://topscore.knn3.xyz/",
-          "link": "https://twitter.com/8848Community/status/1606284870749151233",
-          "publishedOn": "2022-12-23T13:45:31.000Z",
+          "description": "RT A⋐edabook.eth\n2023 Blockchain Themes and Bold Predictions.\nA megathread and substack.\nHappy New Year! https://ethropy.substack.com/p/2023-blockchain-themes-and-bold-predictions",
+          "link": "https://twitter.com/Ace_da_Book/status/1606187004797992960",
+          "publishedOn": "2022-12-23T07:16:38.000Z",
           "wordCount": 470,
-          "title": "有LENS的可以填表预约MINT一个年总结NFT 填表时间12月29日截止",
+          "title": "RT A⋐edabook.eth: 2023 Blockchain Themes and Bold Predictions. A megathread and substack. Happy New Year!",
           "imageUrl": null
         }
       ]
