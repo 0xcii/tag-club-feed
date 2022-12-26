@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-26T15:13:28.165Z</id>
+    <id>urn:2022-12-26T16:17:42.954Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-26T15:13:28.165Z</updated>
+    <updated>2022-12-26T16:17:42.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1607380306264485888</id>
+        <link href="https://twitter.com/wublockchain12/status/1607380306264485888"/>
+        <updated>2022-12-26T14:18:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恭喜三位家人，私信我你们的地址和衣服的尺码~ • @0xhowhy • @SidneyThoreau1 • @Lucy47197110]]></title>
         <id>https://twitter.com/8848Community/status/1607372642952294400</id>
@@ -21,6 +31,19 @@
 奖品3份！]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，据 OKLINK，BitKeep 钱包被盗事件金额已上升为 3100 万美金，涉及 BSC、ETH、TRX、Polygon 4 条链，共计 50 个黑客地址，此次大规模盗窃的原因是黑...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1607365531660881920</id>
+        <link href="https://twitter.com/wublockchain12/status/1607365531660881920"/>
+        <updated>2022-12-26T13:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，据 OKLINK，BitKeep 钱包被盗事件金额已上升为 3100 万美金，涉及 BSC、ETH、TRX、Polygon 4 条链，共计 50 个黑客地址，此次大规模盗窃的原因是黑客劫持了最新安装包7.9.2。
+OKLink: 【12-26 #BitKeep Hack Event Summary】
+1/n
+According to OKLink data, the bitkeep theft involved 4 chains BSC, ETH, TRX, Polygon, OKLink included 50 hacker addresses and total Txns volume reached $31M.]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -245,30 +268,6 @@ PeckShieldAlert: #PeckShieldAlert #BitKeep reported that several users' funds 
         <summary type="html"><![CDATA[Re @knlae_ Capitulation, retest for double bottom, then higher low]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据 Supremacy，BitKeep 黑客正在使用 SideShift 和 FixedFloat 混币，已经转移了 652 BNB 和 70,000 DAI。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1607222846719426560</id>
-        <link href="https://twitter.com/wublockchain12/status/1607222846719426560"/>
-        <updated>2022-12-26T03:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据 Supremacy，BitKeep 黑客正在使用 SideShift 和 FixedFloat 混币，已经转移了 652 BNB 和 70,000 DAI。
-Supremacy Inc.: Warning! @BitKeepOS  hackers are mixing coins via SideShift and FixedFloat and have already transferred 652 BNB and 70,000 DAI.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据 OKLINK，BitKeep 钱包黑客地址目前有 2,896,386 USDT 166,010 DAI 和 2,310 BNB，被盗总金额超过 360 万美金，主要集中在 BNBChain。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1607221015662452736</id>
-        <link href="https://twitter.com/wublockchain12/status/1607221015662452736"/>
-        <updated>2022-12-26T03:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据 OKLINK，BitKeep 钱包黑客地址目前有 2,896,386 USDT 166,010 DAI 和 2,310 BNB，被盗总金额超过 360 万美金，主要集中在 BNBChain。
-OKLink: Multi-parties responsed that their token in @BitKeepOS was stolen and OKLink data monitor found out this suspected deposit address that might belong to Bitkeep hackers. This address currently still have 2,896,386 USDT 166,010 DAI and 2,310 #BNB 
-#ScamAlert
- https://www.oklink.com/en/bsc/address/0x36225a2721dcb124f3e185d3c177049813b279ba]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1168,7 +1167,7 @@ This is love ❤️]]></summary>
 Re The first two are obvious.
 Right now, on-chain analysis is focused on the flow of funds, but many more types of events are going on-chain; see ENS amd Lens Protocol.
 For current examples of on-chain analysis, see @woonomic @zachxbt @OnChainWizard or the thread below.
-Delphi Research: 10/ The hack:
+Delphi Digital: 10/ The hack:
 After withdrawals close, $450M is withdrawn to Ethereum address "0x59.."
 0x59's on-chain activity meets the criteria of a blackhat hacker. Their identity remains unknown.
 $200M is then withdrawn from FTX in an apparent employee whitehat rescue of remaining funds.]]></summary>
