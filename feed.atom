@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T08:17:16.866Z</id>
+    <id>urn:2022-12-27T09:13:01.776Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-27T08:17:16.866Z</updated>
+    <updated>2022-12-27T09:13:01.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Re 吴说获悉，Defrost Finance 公布退款措施，将在未来几天部署退款智能合约。具体措施包括：1、将地址中的所有 ETH 将以链上市场价格转换为稳定币；2、将稳定币转移至 Avalanche；3、扫描黑客攻击前链上的数据；4、部署退款智能合约，将用户资产以稳定币形式退回至其原地址。 https://medium.com/@Defrost_Finance/details-concerning-the-refunding-process-78d48e18031b]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1607633182131900418</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1607633182131900418"/>
+        <updated>2022-12-27T07:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Vibe]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
         </author>
     </entry>
     <entry>
@@ -390,16 +400,6 @@ Also the market will probably be surprised by how much $lrcx memory revenue is d
         <link href="https://twitter.com/DeFiSurfer808/status/1607525825351680001"/>
         <updated>2022-12-26T23:56:37.000Z</updated>
         <summary type="html"><![CDATA[Re @myBlockBrain Underlying premise is u need demand to fall off a cliff for unemployment to spike. If wages r going up seems unlikely demand will fall off a cliff]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Future7772021 How would this cause demand to fall off a cliff]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1607525601665257473</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1607525601665257473"/>
-        <updated>2022-12-26T23:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @Future7772021 How would this cause demand to fall off a cliff]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
