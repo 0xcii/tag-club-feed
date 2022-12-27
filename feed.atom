@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T07:12:08.650Z</id>
+    <id>urn:2022-12-27T08:17:16.866Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-27T07:12:08.650Z</updated>
+    <updated>2022-12-27T08:17:16.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Defrost Finance 公布退款措施，将在未来几天部署退款智能合约。具体措施包括：1、将地址中的所有 ETH 将以链上市场价格转换为稳定币；2、将稳定币...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1607643405135515653</id>
+        <link href="https://twitter.com/wublockchain12/status/1607643405135515653"/>
+        <updated>2022-12-27T07:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Defrost Finance 公布退款措施，将在未来几天部署退款智能合约。具体措施包括：1、将地址中的所有 ETH 将以链上市场价格转换为稳定币；2、将稳定币转移至 Avalanche；3、扫描黑客攻击前链上的数据；4、部署退款智能合约，将用户资产以稳定币形式退回至其原地址。 https://medium.com/@Defrost_Finance/details-concerning-the-refunding-process-78d48e18031b]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1607618451258114051</id>
@@ -408,20 +418,6 @@ A negative testing result 48 hours before the trip is the only requirement to tr
 THREAD]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前，Defrost 的审计方 Certik 指责它是 EXIT SCAM（团队突然消失），并表示该团队没有进行过 KYC，也无法联系到团队成员。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1607406330226307072</id>
-        <link href="https://twitter.com/wublockchain12/status/1607406330226307072"/>
-        <updated>2022-12-26T16:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前，Defrost 的审计方 Certik 指责它是 EXIT SCAM（团队突然消失），并表示该团队没有进行过 KYC，也无法联系到团队成员。
-CertiK Alert: #CertiKSkynetAlert 🚨 
-On 24 December we have seen an #exitscam on @Defrost_Finance
-We have attempted to contact multiple members of the team but have had no response. 
-The team are not KYC'd but we are using all the information that we do have to assist with authorities]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>

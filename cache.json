@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1607643405135515653",
+          "author": "吴说区块链",
+          "description": "Re 吴说获悉，Defrost Finance 公布退款措施，将在未来几天部署退款智能合约。具体措施包括：1、将地址中的所有 ETH 将以链上市场价格转换为稳定币；2、将稳定币转移至 Avalanche；3、扫描黑客攻击前链上的数据；4、部署退款智能合约，将用户资产以稳定币形式退回至其原地址。 https://medium.com/@Defrost_Finance/details-concerning-the-refunding-process-78d48e18031b",
+          "link": "https://twitter.com/wublockchain12/status/1607643405135515653",
+          "publishedOn": "2022-12-27T07:43:51.000Z",
+          "wordCount": 470,
+          "title": "Re 吴说获悉，Defrost Finance 公布退款措施，将在未来几天部署退款智能合约。具体措施包括：1、将地址中的所有 ETH 将以链上市场价格转换为稳定币；2、将稳定币...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1607618451258114051",
           "author": "吴说区块链",
           "description": "Re  https://mp.weixin.qq.com/s/aO_p3mU104FTExqq3dEI2w",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-12-27T00:25:29.000Z",
           "wordCount": 470,
           "title": "吴说获悉，Andre Cronje 发布了致 Fantom 基金会团队的信，重申了其 2023 年的目标和优先事项。包括 Gas 货币化（允许 Dapps 进行 Gas 收入分成）、Gas 补贴（用...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1607406330226307072",
-          "author": "吴说区块链",
-          "description": "Re 此前，Defrost 的审计方 Certik 指责它是 EXIT SCAM（团队突然消失），并表示该团队没有进行过 KYC，也无法联系到团队成员。\nCertiK Alert: #CertiKSkynetAlert 🚨 \nOn 24 December we have seen an #exitscam on @Defrost_Finance\nWe have attempted to contact multiple members of the team but have had no response. \nThe team are not KYC'd but we are using all the information that we do have to assist with authorities",
-          "link": "https://twitter.com/wublockchain12/status/1607406330226307072",
-          "publishedOn": "2022-12-26T16:01:47.000Z",
-          "wordCount": 470,
-          "title": "Re 此前，Defrost 的审计方 Certik 指责它是 EXIT SCAM（团队突然消失），并表示该团队没有进行过 KYC，也无法联系到团队成员。",
           "imageUrl": null
         }
       ]
