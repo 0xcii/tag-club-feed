@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-28T10:14:29.888Z</id>
+    <id>urn:2022-12-28T11:11:09.828Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-28T10:14:29.888Z</updated>
+    <updated>2022-12-28T11:11:09.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608021536497336321</id>
+        <link href="https://twitter.com/wublockchain12/status/1608021536497336321"/>
+        <updated>2022-12-28T08:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+OKLink 浏览器: 【 Bitkeep 被盗情况后续跟进】
+1/n
+据 OKLink 统计，Bitkeep 被盗覆盖 BSC、ETH、Tron 、Polygon 4 条链，被盗金额达 992 万美金。其中 BSC 被盗资金量最大，为 744 万美金，Tron 链被盗金额 103 万美金，ETH 链 84 万美金，Polygon 64.3 万美金。
+#Bitkeep #Ethereum #Polygon]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 OKLink 统计，Bitkeep 被盗金额达 992 万美金。其中 BSC 被盗资金量最大，为 744 万美金，Tron 链被盗金额 103 万美金，ETH 链 84 万美金，Polygon...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608021533724934145</id>
+        <link href="https://twitter.com/wublockchain12/status/1608021533724934145"/>
+        <updated>2022-12-28T08:46:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 OKLink 统计，Bitkeep 被盗金额达 992 万美金。其中 BSC 被盗资金量最大，为 744 万美金，Tron 链被盗金额 103 万美金，ETH 链 84 万美金，Polygon 64.3 万美金。据不完全统计(地址还一直在增加)，BSC、ETH、Polygon 三条链的黑客地址有 408 个。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据 CoinDesk 报道，比特币矿企 Argo Blockchain (ARBK) 同意将位于得克萨斯州狄更斯县的 Helios 矿场以 6500 万美元的价格出售给 Galaxy Digital (GLXY) ，以避...]]></title>
         <id>https://twitter.com/wublockchain12/status/1608000993698140167</id>
@@ -278,16 +302,6 @@ Star: Crypto 2023 will be interesting.Ethereum 2.0 with the zero knowledge pro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re CoinDesk 对该报道进行了更正，表示 DeGods 团队向 Solana 基金会索要 500 万美元的说法仅为传言，DeGods 团队也对该传言进行了否认。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1607911272942829568</id>
-        <link href="https://twitter.com/wublockchain12/status/1607911272942829568"/>
-        <updated>2022-12-28T01:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Re CoinDesk 对该报道进行了更正，表示 DeGods 团队向 Solana 基金会索要 500 万美元的说法仅为传言，DeGods 团队也对该传言进行了否认。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The biggest issue facing $sol is after the FTX fallout it’s clear the chain is a commodity. There are 200ish smart contract platforms; majority marke...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1607907860092186627</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1607907860092186627"/>
@@ -297,16 +311,6 @@ There are 200ish smart contract platforms; majority market themselves as “chea
 W/o the brand FTX / SBF aura, all that’s left is just another cheap/fast chain.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1607902425247281153</id>
-        <link href="https://twitter.com/wublockchain12/status/1607902425247281153"/>
-        <updated>2022-12-28T00:53:06.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://blockworks.co/news/abra-shakes-up-senior-staff-crypto-push]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -432,7 +436,8 @@ DeFi Surfer 🫐,💎: Going to be hard for inflation to sustainably outrun mo
         <summary type="html"><![CDATA[因为我羊了，发骚了。
 Monkey （🙈 🙈）: 测试网开始了  @StarkGuardians
 StarkGuardians是建立在StarkNet上的独特网络女性角色。其目的是保护监督NFT项目的投资者，并成为安全领域的先锋。
-我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？]]></summary>
+我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？
+ https://twitter.com/StarkGuardians/status/1606684496904044545]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
