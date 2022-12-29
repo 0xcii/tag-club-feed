@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T17:11:56.027Z</id>
+    <id>urn:2022-12-29T18:16:28.216Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T17:11:56.027Z</updated>
+    <updated>2022-12-29T18:16:28.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @MichaelMOTTCM @crypto_condom Productivity is increasing]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1608520140358057990</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1608520140358057990"/>
+        <updated>2022-12-29T17:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @MichaelMOTTCM @crypto_condom Productivity is increasing]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DoaneJameson Haha totally]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1608513953247924225</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1608513953247924225"/>
+        <updated>2022-12-29T17:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @DoaneJameson Haha totally]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In theory one could scoop $eth rn for ~25% below its pre triple-halving price. Interdasting.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1608510502128484354</id>
@@ -24,6 +44,36 @@ Interdasting.]]></summary>
         <summary type="html"><![CDATA[Re @GavinSBaker History says once off leading edge you're relegated to being a lagging edge player.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不过福布斯遗漏了今年最大的一笔融资，托管平台 Fireblocks 在今年年初完成5.5亿美元E轮融资，由D1 Capital Partners和Spark Capital领投。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608492735673294848</id>
+        <link href="https://twitter.com/wublockchain12/status/1608492735673294848"/>
+        <updated>2022-12-29T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过福布斯遗漏了今年最大的一笔融资，托管平台 Fireblocks 在今年年初完成5.5亿美元E轮融资，由D1 Capital Partners和Spark Capital领投。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊基金会发布总结与展望文章，指出2023年将着重致力于提款功能（使质押者能够将其余额从信标链提取到其执行层帐户）与 EIP-4844（proto-dankshard...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608488253090590722</id>
+        <link href="https://twitter.com/wublockchain12/status/1608488253090590722"/>
+        <updated>2022-12-29T15:40:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊基金会发布总结与展望文章，指出2023年将着重致力于提款功能（使质押者能够将其余额从信标链提取到其执行层帐户）与 EIP-4844（proto-danksharding 积极致力于分片的实现）。阅读全文： https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，加密交易所 Bitfinex 宣布下架 Celsius Network (CEL)、Serum (SRM)、Pangolin (PNG)、BnkToTheFuture (BFT)、Bridge Mutual (BMI) 和 Bitcoin SV (BS...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608486471018905601</id>
+        <link href="https://twitter.com/wublockchain12/status/1608486471018905601"/>
+        <updated>2022-12-29T15:33:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，加密交易所 Bitfinex 宣布下架 Celsius Network (CEL)、Serum (SRM)、Pangolin (PNG)、BnkToTheFuture (BFT)、Bridge Mutual (BMI) 和 Bitcoin SV (BSV)。提款时间开放至 2023 年 2 月 14 日 20:00。 https://www.bitfinex.com/posts/876]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -197,36 +247,6 @@ Bit余烬: 0xc8c2b727d864cc75199f5118f0943d2087fb543b 这个地址在 12 月 2
         <link href="https://twitter.com/wublockchain12/status/1608389919260672000"/>
         <updated>2022-12-29T09:10:13.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，自称为 Solana 领先的代币分发平台 Streamflow 已在 Aptos 主网上线。Streamflow 允许用户通过支付流对定期支付进行编程，进行 Token 归属、工资单和批量支付等功能。 https://blog.streamflow.finance/2022/12/28/streamflow-launches-on-aptos-mainnet/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安发布公告称，自 2022 年 12 月 29 日 17:00（东八区时间）起，币安已支持 RSA API Key（一种非对称加密密钥对）。用户可以在币安创建 RSA API Key...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608389853548531712</id>
-        <link href="https://twitter.com/wublockchain12/status/1608389853548531712"/>
-        <updated>2022-12-29T09:09:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安发布公告称，自 2022 年 12 月 29 日 17:00（东八区时间）起，币安已支持 RSA API Key（一种非对称加密密钥对）。用户可以在币安创建 RSA API Key 的公钥，并使用对应的 RSA 私钥对 API 请求签名。 https://www.binancezh.jp/zh-CN/support/announcement/%E5%B9%A3%E5%AE%89%E7%8F%BE%E5%B7%B2%E6%94%AF%E6%8C%81rsa-api-key-2022-12-29-f418fed3f05f4854a7bbccaad3104a1c]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时他认为基础设施和数据工具会继续发展，Web3 资产所有权也会演变，非托管和多链钱包将会崛起；下一个牛市将会来自产品使用、打造独特使用性方面的创新。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608387853507231746</id>
-        <link href="https://twitter.com/wublockchain12/status/1608387853507231746"/>
-        <updated>2022-12-29T09:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时他认为基础设施和数据工具会继续发展，Web3 资产所有权也会演变，非托管和多链钱包将会崛起；下一个牛市将会来自产品使用、打造独特使用性方面的创新。 https://www.binance.com/zh-CN/blog/from-cz/%E6%9D%A5%E8%87%AA%E5%B8%81%E5%AE%89ceo%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A12022%E9%9F%A7%E6%80%A7%E4%B8%BA%E7%8E%8B-3832363980753069400]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安创始人 CZ 发布公开信《2022，韧性为王》，CZ 表示币安现在有7500位员工，正在为全球超过 1.2 亿用户提供服务。目前币安在 14 个国家或地区获得了...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608387851506585600</id>
-        <link href="https://twitter.com/wublockchain12/status/1608387851506585600"/>
-        <updated>2022-12-29T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安创始人 CZ 发布公开信《2022，韧性为王》，CZ 表示币安现在有7500位员工，正在为全球超过 1.2 亿用户提供服务。目前币安在 14 个国家或地区获得了注册许可或执照，合规团队在 2022 年从 500 人扩大至 750 人。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -432,29 +452,6 @@ Obama wisely put this on pause, but Fauci restarted it.
         <link href="https://twitter.com/DeFiSurfer808/status/1607921150914629632"/>
         <updated>2022-12-28T02:07:30.000Z</updated>
         <summary type="html"><![CDATA[Re @crypto_condom @noahseidman This is pretty important to extent it sets a legal precedent]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The biggest issue facing $sol is after the FTX fallout it’s clear the chain is a commodity. There are 200ish smart contract platforms; majority marke...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1607907860092186627</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1607907860092186627"/>
-        <updated>2022-12-28T01:14:41.000Z</updated>
-        <summary type="html"><![CDATA[The biggest issue facing $sol is after the FTX fallout it’s clear the chain is a commodity.
-There are 200ish smart contract platforms; majority market themselves as “cheaper / faster @ethereum”
-W/o the brand FTX / SBF aura, all that’s left is just another cheap/fast chain.]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SKundojjala @dnystedt $intc two years ago $tsmc not sustainable?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1607901871364243456</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1607901871364243456"/>
-        <updated>2022-12-28T00:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @SKundojjala @dnystedt $intc two years ago
-$tsmc not sustainable?]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
