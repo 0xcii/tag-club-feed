@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T14:11:39.924Z</id>
+    <id>urn:2022-12-30T15:13:26.401Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T14:11:39.924Z</updated>
+    <updated>2022-12-30T15:13:26.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608826331688759297</id>
+        <link href="https://twitter.com/wublockchain12/status/1608826331688759297"/>
+        <updated>2022-12-30T14:04:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，KuCoin 表示 2023 将继续全球化与 WEB3 的战略，正在香港、曼谷、新加坡和迪拜开设新职位，推进 KuCoin 钱包在内的多款去中心化产品的发布，用户从 20...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608826123114401795</id>
+        <link href="https://twitter.com/wublockchain12/status/1608826123114401795"/>
+        <updated>2022-12-30T14:03:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，KuCoin 表示 2023 将继续全球化与 WEB3 的战略，正在香港、曼谷、新加坡和迪拜开设新职位，推进 KuCoin 钱包在内的多款去中心化产品的发布，用户从 2021 年 12 月的 1000 万增长到 2022 年 12 月的 2700 万。 https://www.kucoin.com/blog/what-2023-holds-for-us]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根据 TRM 分析，2022 年是加密黑客创纪录的一年，被盗资金约为 37 亿美元。前十大黑客攻击占 2022 年被盗总量的近 75%：Ronin BNBChain FTX Wormhole Nomad Brid...]]></title>
         <id>https://twitter.com/wublockchain12/status/1608794689834209282</id>
@@ -213,30 +233,6 @@ Nansen 🧭: In 2022, close to 2.9 million wallets have minted/traded #Ethereu
         <link href="https://twitter.com/wublockchain12/status/1608667867951824898"/>
         <updated>2022-12-30T03:34:41.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，阿里宣布阿里云负责人、总裁张建锋卸任，董事会主席兼 CEO 张勇亲自兼任阿里云智能总裁，直管云和钉钉。此前阿里云香港出现极其严重的事故，导致 OKX Gate 以及大量网站宕机超过24小时。 https://www.caixin.com/2022-12-29/101983269.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608659410662096898</id>
-        <link href="https://twitter.com/wublockchain12/status/1608659410662096898"/>
-        <updated>2022-12-30T03:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。
-yoav.eth: The robustness and censorship resistance of the ERC-4337 network depends on having a unified mempool.
-Here's why and how: 
-To support the unified mempool, the ERC-4337 team is announcing two new projects:
- https://notes.ethereum.org/@yoav/unified-erc-4337-mempool]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608659277878792193</id>
-        <link href="https://twitter.com/wublockchain12/status/1608659277878792193"/>
-        <updated>2022-12-30T03:00:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访问第三方合约中的账户相关信息等；]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>

@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1608826331688759297",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://twitter.com/wublockchain12/status/1608826331688759297",
+          "publishedOn": "2022-12-30T14:04:22.000Z",
+          "wordCount": 470,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1608826123114401795",
+          "author": "吴说区块链",
+          "description": "吴说获悉，KuCoin 表示 2023 将继续全球化与 WEB3 的战略，正在香港、曼谷、新加坡和迪拜开设新职位，推进 KuCoin 钱包在内的多款去中心化产品的发布，用户从 2021 年 12 月的 1000 万增长到 2022 年 12 月的 2700 万。 https://www.kucoin.com/blog/what-2023-holds-for-us",
+          "link": "https://twitter.com/wublockchain12/status/1608826123114401795",
+          "publishedOn": "2022-12-30T14:03:32.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，KuCoin 表示 2023 将继续全球化与 WEB3 的战略，正在香港、曼谷、新加坡和迪拜开设新职位，推进 KuCoin 钱包在内的多款去中心化产品的发布，用户从 20...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1608794689834209282",
           "author": "吴说区块链",
           "description": "根据 TRM 分析，2022 年是加密黑客创纪录的一年，被盗资金约为 37 亿美元。前十大黑客攻击占 2022 年被盗总量的近 75%：Ronin BNBChain FTX Wormhole Nomad Bridge Beanstalk Wintermute Maiar/Elrond Mango Harmony https://www.trmlabs.com/post/looking-back-at-2022-and-towards-2023-to-see-what-the-future-holds-for-digital-assets-policy",
@@ -163,26 +183,6 @@
           "publishedOn": "2022-12-30T03:34:41.000Z",
           "wordCount": 470,
           "title": "吴说获悉，阿里宣布阿里云负责人、总裁张建锋卸任，董事会主席兼 CEO 张勇亲自兼任阿里云智能总裁，直管云和钉钉。此前阿里云香港出现极其严重的事故，导致 OKX ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1608659410662096898",
-          "author": "吴说区块链",
-          "description": "Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。\nyoav.eth: The robustness and censorship resistance of the ERC-4337 network depends on having a unified mempool.\nHere's why and how: \nTo support the unified mempool, the ERC-4337 team is announcing two new projects:\n https://notes.ethereum.org/@yoav/unified-erc-4337-mempool",
-          "link": "https://twitter.com/wublockchain12/status/1608659410662096898",
-          "publishedOn": "2022-12-30T03:01:05.000Z",
-          "wordCount": 470,
-          "title": "Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1608659277878792193",
-          "author": "吴说区块链",
-          "description": "吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访问第三方合约中的账户相关信息等；",
-          "link": "https://twitter.com/wublockchain12/status/1608659277878792193",
-          "publishedOn": "2022-12-30T03:00:33.000Z",
-          "wordCount": 470,
-          "title": "吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访...",
           "imageUrl": null
         }
       ]
