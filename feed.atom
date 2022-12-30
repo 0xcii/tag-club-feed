@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T05:12:17.030Z</id>
+    <id>urn:2022-12-30T06:17:21.006Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T05:12:17.030Z</updated>
+    <updated>2022-12-30T06:17:21.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @SizeChad @arbitrum Nice work size]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1608687061225336833</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1608687061225336833"/>
+        <updated>2022-12-30T04:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @SizeChad @arbitrum Nice work size]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xdoug Whoa]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1608670392251748353</id>
@@ -13,6 +23,40 @@
         <summary type="html"><![CDATA[Re @0xdoug Whoa]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，阿里宣布阿里云负责人、总裁张建锋卸任，董事会主席兼 CEO 张勇亲自兼任阿里云智能总裁，直管云和钉钉。此前阿里云香港出现极其严重的事故，导致 OKX ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608667867951824898</id>
+        <link href="https://twitter.com/wublockchain12/status/1608667867951824898"/>
+        <updated>2022-12-30T03:34:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，阿里宣布阿里云负责人、总裁张建锋卸任，董事会主席兼 CEO 张勇亲自兼任阿里云智能总裁，直管云和钉钉。此前阿里云香港出现极其严重的事故，导致 OKX Gate 以及大量网站宕机超过24小时。 https://www.caixin.com/2022-12-29/101983269.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608659410662096898</id>
+        <link href="https://twitter.com/wublockchain12/status/1608659410662096898"/>
+        <updated>2022-12-30T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Re 同时为了实现兼容性和抗审查，网络中必须有统一的内存池，因此团队新增了两个模块来实现该功能：Bundlers 兼容测试套件和参考 bundler 实现。
+yoav.eth: The robustness and censorship resistance of the ERC-4337 network depends on having a unified mempool.
+Here's why and how: 
+To support the unified mempool, the ERC-4337 team is announcing two new projects:
+ https://notes.ethereum.org/@yoav/unified-erc-4337-mempool]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608659277878792193</id>
+        <link href="https://twitter.com/wublockchain12/status/1608659277878792193"/>
+        <updated>2022-12-30T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊账户抽象提案 ERC4337 共同作者 yoav.eth 今日发推表示，ERC4337 新版本已发布，新版本在验证期间放宽存储规则，可实现访问代币余额以及存储访问第三方合约中的账户相关信息等；]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -26,11 +70,95 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 2022年12月29日，比特丛林协助某地警方成功侦破，现在四名嫌疑人已全部认罪，嫌疑人已将部分被盗数字资产归还。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608656901038034952</id>
+        <link href="https://twitter.com/wublockchain12/status/1608656901038034952"/>
+        <updated>2022-12-30T02:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 2022年12月29日，比特丛林协助某地警方成功侦破，现在四名嫌疑人已全部认罪，嫌疑人已将部分被盗数字资产归还。 https://mp.weixin.qq.com/s/dyrQaKetuvrTJ2ss-5ho3g]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，青岛比特丛林科技有限公司公众号发文表示，2022年9月21日嫌疑人张某、胡某、孙某、林某四人在郑州某地组成团伙，通过入侵BXH项目服务器和植入木马的方...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608656778262372354</id>
+        <link href="https://twitter.com/wublockchain12/status/1608656778262372354"/>
+        <updated>2022-12-30T02:50:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，青岛比特丛林科技有限公司公众号发文表示，2022年9月21日嫌疑人张某、胡某、孙某、林某四人在郑州某地组成团伙，通过入侵BXH项目服务器和植入木马的方式进行盗取价值千万人民币的数字资产。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608649753633648642</id>
+        <link href="https://twitter.com/wublockchain12/status/1608649753633648642"/>
+        <updated>2022-12-30T02:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+vitalik.eth: Some smart people tell me there is an earnest smart developer community in Solana, and now that the awful opportunistic money people have been washed out, the chain has a bright future.
+Hard for me to tell from outside, but I hope the community gets its fair chance to thrive🦾🦾]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Vitalik 表示，一些聪明的人告诉我，Solana 有一个认真的聪明的开发者社区，现在可怕的投机取巧的人已经被洗掉了，这条链有一个光明的未来，我很难从...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608649644833411072</id>
+        <link href="https://twitter.com/wublockchain12/status/1608649644833411072"/>
+        <updated>2022-12-30T02:22:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Vitalik 表示，一些聪明的人告诉我，Solana 有一个认真的聪明的开发者社区，现在可怕的投机取巧的人已经被洗掉了，这条链有一个光明的未来，我很难从外面说什么，但我希望社区有公平的机会茁壮成长。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608647294630629377</id>
+        <link href="https://twitter.com/wublockchain12/status/1608647294630629377"/>
+        <updated>2022-12-30T02:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Vetle Lunde: OKX's recovery in 2022 is remarkable. 
+Since January 2020, OKX has seen its market dominance in BTC derivatives fall from 30% to 8% by the end of 2021, to then recover to 25% of the market today.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，ArcaneResearch 研究指出，OKX 在 2022 年的复苏令人瞩目。2020 年 1 月 OKX 交易所在 BTC 衍生品市场的主导地位达到 30%，中途下降到 2021 年底的 8%...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608647180398768128</id>
+        <link href="https://twitter.com/wublockchain12/status/1608647180398768128"/>
+        <updated>2022-12-30T02:12:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，ArcaneResearch 研究指出，OKX 在 2022 年的复苏令人瞩目。2020 年 1 月 OKX 交易所在 BTC 衍生品市场的主导地位达到 30%，中途下降到 2021 年底的 8%（中间发生山西事件一个月无法提币），然后恢复到2022年12月的 25%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 阅读全文：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608645530791600137</id>
+        <link href="https://twitter.com/wublockchain12/status/1608645530791600137"/>
+        <updated>2022-12-30T02:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 阅读全文： https://mp.weixin.qq.com/s/10og25BhosEp-5X5zGGCyQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说编辑部 2023 年展望：宏观与赛道（2）市场总体认为行情大概率将迎来最后一跌以完成筑底。现在更可能是属于 BTC 和 ETH 的定投/建底仓区间，抄底山寨的时机则...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1608645476437594114</id>
+        <link href="https://twitter.com/wublockchain12/status/1608645476437594114"/>
+        <updated>2022-12-30T02:05:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说编辑部 2023 年展望：宏观与赛道（2）市场总体认为行情大概率将迎来最后一跌以完成筑底。现在更可能是属于 BTC 和 ETH 的定投/建底仓区间，抄底山寨的时机则应再保持多点耐心。2023 年最看好的是链上衍生品赛道的发展。NFT 衍生品赛道可能会成为扭转流动性的关键。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《慢雾：2022 区块链安全回顾》2022 年安全事件共 295 件，损失高达 37.28 亿美元。相比 2021 年的 97.95 亿美元下降约 62%。其中各生态 DeFi、跨链桥、NFT 等安...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608643081548759040</id>
-        <link href="https://twitter.com/wublockchain12/status/1608643081548759040"/>
-        <updated>2022-12-30T01:56:12.000Z</updated>
-        <summary type="html"><![CDATA[《慢雾：2022 区块链安全回顾》2022 年安全事件共 295 件，损失高达 37.28 亿美元。相比 2021 年的 97.95 亿美元下降约 62%。其中各生态 DeFi、跨链桥、NFT 等安全事件 245 起。文章同时在末尾提出了个人用户需遵循的安全法则。 https://www.chaincatcher.com/article/2085249]]></summary>
+        <id>https://twitter.com/wublockchain12/status/1608645341137768449</id>
+        <link href="https://twitter.com/wublockchain12/status/1608645341137768449"/>
+        <updated>2022-12-30T02:05:11.000Z</updated>
+        <summary type="html"><![CDATA[《慢雾：2022 区块链安全回顾》2022 年安全事件共 295 件，损失高达 37.28 亿美元。相比 2021 年的 97.95 亿美元下降约 62%。其中各生态 DeFi、跨链桥、NFT 等安全事件 245 起。文章同时在末尾提出了个人用户需遵循的安全法则。 https://www.chaincatcher.com/article/2085249 https://twitter.com/i/web/status/1608645341137768449]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -270,16 +398,6 @@ Taylor Ogan: It's important to appreciate just how unexpectedly EV adoption ha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DoaneJameson Haha totally]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1608513953247924225</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1608513953247924225"/>
-        <updated>2022-12-29T17:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @DoaneJameson Haha totally]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 不过福布斯遗漏了今年最大的一笔融资，托管平台 Fireblocks 在今年年初完成5.5亿美元E轮融资，由D1 Capital Partners和Spark Capital领投。]]></title>
         <id>https://twitter.com/wublockchain12/status/1608492735673294848</id>
         <link href="https://twitter.com/wublockchain12/status/1608492735673294848"/>
@@ -295,131 +413,6 @@ Taylor Ogan: It's important to appreciate just how unexpectedly EV adoption ha
         <link href="https://twitter.com/wublockchain12/status/1608488253090590722"/>
         <updated>2022-12-29T15:40:58.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，以太坊基金会发布总结与展望文章，指出2023年将着重致力于提款功能（使质押者能够将其余额从信标链提取到其执行层帐户）与 EIP-4844（proto-danksharding 积极致力于分片的实现）。阅读全文： https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，加密交易所 Bitfinex 宣布下架 Celsius Network (CEL)、Serum (SRM)、Pangolin (PNG)、BnkToTheFuture (BFT)、Bridge Mutual (BMI) 和 Bitcoin SV (BS...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608486471018905601</id>
-        <link href="https://twitter.com/wublockchain12/status/1608486471018905601"/>
-        <updated>2022-12-29T15:33:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加密交易所 Bitfinex 宣布下架 Celsius Network (CEL)、Serum (SRM)、Pangolin (PNG)、BnkToTheFuture (BFT)、Bridge Mutual (BMI) 和 Bitcoin SV (BSV)。提款时间开放至 2023 年 2 月 14 日 20:00。 https://www.bitfinex.com/posts/876]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608464032302006273</id>
-        <link href="https://twitter.com/wublockchain12/status/1608464032302006273"/>
-        <updated>2022-12-29T14:04:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Cointelegraph 报道，南太平洋岛国斐济新当选总理 Sitiveni Rabuka 支持比特币。前汤加议会议员 Fusitu'a 表示，他已经向 Rabuka 解释了“斐济如何像汤加一样...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608444962261303296</id>
-        <link href="https://twitter.com/wublockchain12/status/1608444962261303296"/>
-        <updated>2022-12-29T12:48:57.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph 报道，南太平洋岛国斐济新当选总理 Sitiveni Rabuka 支持比特币。前汤加议会议员 Fusitu'a 表示，他已经向 Rabuka 解释了“斐济如何像汤加一样采用比特币作为法定货币”。目前斐济拥有近 90 万人口。 https://cointelegraph.com/news/fiji-elects-pro-bitcoin-prime-minister-sitiveni-rabuka]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re FTX 4亿美金；Animoca 3.58亿美金 Liberty City 领投；NEAR 3.5亿美金 Tiger 领投；Amber 3亿美金 分布式美国领投（媒体认为可能存在债转股）；Mysten Labs 3...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608442481657671682</id>
-        <link href="https://twitter.com/wublockchain12/status/1608442481657671682"/>
-        <updated>2022-12-29T12:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Re FTX 4亿美金；Animoca 3.58亿美金 Liberty City 领投；NEAR 3.5亿美金 Tiger 领投；Amber 3亿美金 分布式美国领投（媒体认为可能存在债转股）；Mysten Labs 3亿美金 FTX 领投。 https://fortune.com/crypto/2022/12/29/10-biggest-crypto-funding-rounds-2022/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，福布斯统计了 2022年十大融资额最高的加密货币项目：Yuga Labs 4.5亿美元 a16z 领投；ConsenSys 4.5亿美金 ParaFi 领投；Polygon 4.5 亿美金 红杉资本...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608442476477702145</id>
-        <link href="https://twitter.com/wublockchain12/status/1608442476477702145"/>
-        <updated>2022-12-29T12:39:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，福布斯统计了 2022年十大融资额最高的加密货币项目：Yuga Labs 4.5亿美元 a16z 领投；ConsenSys 4.5亿美金 ParaFi 领投；Polygon 4.5 亿美金 红杉资本领投；Circle 4亿美金 贝莱德领投；FTX 美国 4亿美金 Paradigm 等领投；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，FTX Liquid 发布公告称，计划于明年 2 月中旬归还 FTX Japan 和 Liquid Japan 客户资产，符合条件的用户将在 1 月中旬收到一封电子邮件，其中包含开设...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608424353447960577</id>
-        <link href="https://twitter.com/wublockchain12/status/1608424353447960577"/>
-        <updated>2022-12-29T11:27:03.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，FTX Liquid 发布公告称，计划于明年 2 月中旬归还 FTX Japan 和 Liquid Japan 客户资产，符合条件的用户将在 1 月中旬收到一封电子邮件，其中包含开设 Liquid Japan 账户的链接。同时公告也表示，时间表可能会根据外部安全审核的进度有所变化。 https://blog.liquid.com/ja/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E8%B3%87%E7%94%A3%E8%BF%94%E9%82%84%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Pi 社区媒体 Pi News 在推文中表示，火必上线 PiNetwork 的公告未获得 PiCT 授权，同时提醒用户 Pi 尚未开启主网，请勿参与交易，以免上当受骗。Pi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608412266856316928</id>
-        <link href="https://twitter.com/wublockchain12/status/1608412266856316928"/>
-        <updated>2022-12-29T10:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Pi 社区媒体 Pi News 在推文中表示，火必上线 PiNetwork 的公告未获得 PiCT 授权，同时提醒用户 Pi 尚未开启主网，请勿参与交易，以免上当受骗。Pi Network 官网也显示如今所有售卖预卖 Pi 的行为都是非授权非法的。
-Pi News: Latest News: Regarding the announcement of the launch of #PiNetwork on Huobi Exchange, it is also not authorized by PiCT! Remind everyone to understand that Pi has not opened the main network yet, please do not participate in the transaction, so as not to be deceived!
-Danger!🚨]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608406347523194880</id>
-        <link href="https://twitter.com/wublockchain12/status/1608406347523194880"/>
-        <updated>2022-12-29T10:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Bit余烬: 0xc8c2b727d864cc75199f5118f0943d2087fb543b 这个地址在 12 月 2 日从 synthetix 归属了 630 万 SNX。
-然后他从12 月 16 日开始通过 0x142158fdb850a45b1a37bff6d593cf131320667c 地址往 Binance 充值 SNX。
-目前 13 天里已经充值了 10 笔共计 104.7 万 SNX。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BitcoinEmber 监测，0xc8c...543b 地址在 12 月 2 日从 synthetix 归属了 630 万枚 SNX。自 12 月 16 日起，其通过0x098...2062、0x142...667c 地...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608406345476378624</id>
-        <link href="https://twitter.com/wublockchain12/status/1608406345476378624"/>
-        <updated>2022-12-29T10:15:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BitcoinEmber 监测，0xc8c...543b 地址在 12 月 2 日从 synthetix 归属了 630 万枚 SNX。自 12 月 16 日起，其通过0x098...2062、0x142...667c 地址中转向币安充值了 104.7 万枚 SNX。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 杭州市人民检察院起诉指控：2017年至2021年，肖毅在担任抚州市委书记期间，违反国家规定，违背新发展理念，为从事虚拟货币计算生产业务的企业，在财政补贴、...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608400596180307969</id>
-        <link href="https://twitter.com/wublockchain12/status/1608400596180307969"/>
-        <updated>2022-12-29T09:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Re 杭州市人民检察院起诉指控：2017年至2021年，肖毅在担任抚州市委书记期间，违反国家规定，违背新发展理念，为从事虚拟货币计算生产业务的企业，在财政补贴、资金支持、电力保障等方面违规提供帮助，致使公共财产遭受重大损失，造成恶劣影响。 https://mp.weixin.qq.com/s/gxqhPoISXze3ZTtEdWsGCw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，12月29日，浙江省杭州市中级人民法院一审公开开庭审理了江西省政协原党组成员、副主席肖毅受贿、滥用职权一案。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608400593575645186</id>
-        <link href="https://twitter.com/wublockchain12/status/1608400593575645186"/>
-        <updated>2022-12-29T09:52:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，12月29日，浙江省杭州市中级人民法院一审公开开庭审理了江西省政协原党组成员、副主席肖毅受贿、滥用职权一案。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1608400147075190784</id>
-        <link href="https://twitter.com/wublockchain12/status/1608400147075190784"/>
-        <updated>2022-12-29T09:50:52.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://mirror.xyz/0x30bF18409211FB048b8Abf44c27052c93cF329F2/QtPR1vfvoFJXFq3WmtbAxErhYXcZYsRQGq1YHP5nyFU]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
