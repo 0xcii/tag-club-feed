@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T05:12:40.553Z</id>
+    <id>urn:2023-01-02T06:17:16.186Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-02T05:12:40.553Z</updated>
+    <updated>2023-01-02T06:17:16.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯能源部长 Nikolay Shulginov 表示，加密采矿业不断增长的电力消耗可能需要在西伯利亚建设新的发电设施。他没有透露具体计划，但明确表示，这些地区的俄罗...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609777060725288962</id>
+        <link href="https://twitter.com/wublockchain12/status/1609777060725288962"/>
+        <updated>2023-01-02T05:02:14.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯能源部长 Nikolay Shulginov 表示，加密采矿业不断增长的电力消耗可能需要在西伯利亚建设新的发电设施。他没有透露具体计划，但明确表示，这些地区的俄罗斯当局正在考虑进一步发展矿业公司使用的能源网络，并建设更多的发电厂。 https://news.bitcoin.com/amid-high-energy-demand-from-miners-russia-mulls-building-new-power-plants-in-siberia/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据界面新闻，孙宇晨否认裁员计划：“媒体传播的火必裁员计划是不真实的，熊市过冬不易，但火必是熊市里的一把火。火必最近的业务做的很好，每日新增达到了行业第...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609775144674922496</id>
+        <link href="https://twitter.com/wublockchain12/status/1609775144674922496"/>
+        <updated>2023-01-02T04:54:37.000Z</updated>
+        <summary type="html"><![CDATA[据界面新闻，孙宇晨否认裁员计划：“媒体传播的火必裁员计划是不真实的，熊市过冬不易，但火必是熊市里的一把火。火必最近的业务做的很好，每日新增达到了行业第一的水平，正是发展的关键时期，相信2023年会更好”。 https://www.jiemian.com/article/8673258.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EricJhonsa Lol this is incredible. When’re u raising a fund]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1609774428552036355</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1609774428552036355"/>
+        <updated>2023-01-02T04:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @EricJhonsa Lol this is incredible. When’re u raising a fund]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Peter Todd 建议使用一次性 VMs 进行网页浏览，与比特币钱包的 VMs 隔离。据了解，PGP（Pretty Good Privacy，中文翻译“优良保密协议”）是一个基于RSA体系...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609765935027752961</id>
+        <link href="https://twitter.com/wublockchain12/status/1609765935027752961"/>
+        <updated>2023-01-02T04:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Re Peter Todd 建议使用一次性 VMs 进行网页浏览，与比特币钱包的 VMs 隔离。据了解，PGP（Pretty Good Privacy，中文翻译“优良保密协议”）是一个基于RSA体系、将公开密钥加密与传统密钥加密相结合的用于信息加密、验证的商业应用程序。
+Peter Todd/mempoolfullrbf=1: FYI I've confirmed that this is real and not a Twitter hack via a mutual friend.
+IIUC he used Gentoo as his desktop and didn't keep different activities separated. So backdoored software is one of many ways this could happen; he may not have been targeted.
+Use @QubesOS people.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特币核心开发者 Luke 发推表示由于其 PGP 密钥泄露，导致部分比特币已被盗并且资金已通过混币转出。据开发者 Peter Todd 分析，其已确认消息的真实...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609765800906477570</id>
+        <link href="https://twitter.com/wublockchain12/status/1609765800906477570"/>
+        <updated>2023-01-02T04:17:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特币核心开发者 Luke 发推表示由于其 PGP 密钥泄露，导致部分比特币已被盗并且资金已通过混币转出。据开发者 Peter Todd 分析，其已确认消息的真实性，并不是推特账号被盗发假消息，并且认为其 PGP 密钥泄露大概率是由于后门软件所致。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Solana Comapss 数据显示，2023 年将有 2130 万枚 SOL（约合 2.14 亿美元）被解锁，占总供给量的 4%。其中，SOL 将于 1 月 7 日解锁 1,816,357 枚...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609754620817207296</id>
+        <link href="https://twitter.com/wublockchain12/status/1609754620817207296"/>
+        <updated>2023-01-02T03:33:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Solana Comapss 数据显示，2023 年将有 2130 万枚 SOL（约合 2.14 亿美元）被解锁，占总供给量的 4%。其中，SOL 将于 1 月 7 日解锁 1,816,357 枚。 https://solanacompass.com/tokenomics]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1609742841911332864</id>
@@ -58,8 +121,7 @@ If you're ready for 2023, drop your ENS below ✨]]></summary>
         <updated>2023-01-02T02:32:18.000Z</updated>
         <summary type="html"><![CDATA[Re 
 CZ 🔶 Binance: Sad to see even an OG #Bitcoin Core Developer lost 200+ BTC ($3.5 million). Self custody have a different set of risks.
-We will try to monitor and see where we can help. 🙏
- https://twitter.com/LukeDashjr/status/1609613748364509184]]></summary>
+We will try to monitor and see where we can help. 🙏]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -255,8 +317,7 @@ Mstr is just levered long bitcoin. Little reg risk]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1609543174061690881"/>
         <updated>2023-01-01T13:32:51.000Z</updated>
         <summary type="html"><![CDATA[Re @ArkQaq 表示自己账户被封里面资金大概是 8000U+1000HT，将全力配合调查，但如果不是老鼠仓请归还资金。
-奥克量化: 我就是所谓三个老鼠仓中的其中之一账户。欢迎火必来调查老鼠仓情况，我可以提供我本次交易的所有数据。全力配合火必调查。如果最后不是老鼠仓行为，请你们归还账户里的资金！！！账户被封里面资金大概是8000u+1000ht
- https://twitter.com/66huobi/status/1609536329125330944]]></summary>
+奥克量化: 我就是所谓三个老鼠仓中的其中之一账户。欢迎火必来调查老鼠仓情况，我可以提供我本次交易的所有数据。全力配合火必调查。如果最后不是老鼠仓行为，请你们归还账户里的资金！！！账户被封里面资金大概是8000u+1000ht]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -300,56 +361,6 @@ Mstr is just levered long bitcoin. Little reg risk]]></summary>
 CertiK Alert: #CertiKStatsAlert 🚨
 December 2022’s #flashloan attacks total at ~$7.6M as recorded by us and marks an increase from November which reached ~$5.2M in losses.  
 The Lodestar attack accounts for ~$6.5M of the total loss.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，2023 年 1 月 1 日，区块链安全机构 CertiK 发推表示，2022 年 12 月 CertiK 记录的闪电贷攻击共造成了约 760 万美元损失，相较 11 月约 520 万美元的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609520941016702976</id>
-        <link href="https://twitter.com/wublockchain12/status/1609520941016702976"/>
-        <updated>2023-01-01T12:04:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，2023 年 1 月 1 日，区块链安全机构 CertiK 发推表示，2022 年 12 月 CertiK 记录的闪电贷攻击共造成了约 760 万美元损失，相较 11 月约 520 万美元的损失有所增加，上升了约 46%。其中，仅 Lodestar 受到攻击就造成了 650 万美元的损失。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 这项免税政策已扩大到包括加密资产，这样加密资产相关基金就不会推迟任命英国经理人。”（CoinDesk）]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609508884271755264</id>
-        <link href="https://twitter.com/wublockchain12/status/1609508884271755264"/>
-        <updated>2023-01-01T11:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 这项免税政策已扩大到包括加密资产，这样加密资产相关基金就不会推迟任命英国经理人。”（CoinDesk） https://www.coindesk.com/policy/2023/01/01/uk-enforces-crypto-tax-break-for-foreigners-using-local-brokers/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年 1 月 1 日起，英国开始对通过当地投资经理或经纪人购买加密货币的外国投资者实施免税政策。对此，英国税务海关总署回应道，“这项豁免是吸引全球投资者...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609508882254266369</id>
-        <link href="https://twitter.com/wublockchain12/status/1609508882254266369"/>
-        <updated>2023-01-01T11:16:35.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 1 月 1 日起，英国开始对通过当地投资经理或经纪人购买加密货币的外国投资者实施免税政策。对此，英国税务海关总署回应道，“这项豁免是吸引全球投资者的一个重要因素，这意味着外国投资者不会仅仅通过任命英国投资经理就被纳入英国税收，为了巩固英国作为投资管理中心的地位，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609487392519655425</id>
-        <link href="https://twitter.com/wublockchain12/status/1609487392519655425"/>
-        <updated>2023-01-01T09:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://cryptoslate.com/27-stats-about-nfts-in-2022-who-are-the-big-winners/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，CryptoSlate 公布 2022 年 NFT 总交易量为 555 亿美元，环比增长 175%，相较于 2020 年增长了 390 倍。除了 2022 年 1 月 NFT 交易量达到 174 亿美元...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609487321111617537</id>
-        <link href="https://twitter.com/wublockchain12/status/1609487321111617537"/>
-        <updated>2023-01-01T09:50:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CryptoSlate 公布 2022 年 NFT 总交易量为 555 亿美元，环比增长 175%，相较于 2020 年增长了 390 倍。除了 2022 年 1 月 NFT 交易量达到 174 亿美元的最高峰，4 月出现环比增长外，其余月交易量一直在出现下跌。此外，46% 的 NFT 总交易量可能是对敲产生的，并非真实交易。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -442,29 +453,6 @@ We ain’t it Kansas anymore. https://www.actionnetwork.com/ncaaf/highest-paid
         <link href="https://twitter.com/DeFiSurfer808/status/1609402761996824579"/>
         <updated>2023-01-01T04:14:54.000Z</updated>
         <summary type="html"><![CDATA[Re @DegenSpartan What % of portfolio were they on cost basis]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheRedPen87 No way bro u got likes for days 🤙]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1609394715186855938</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1609394715186855938"/>
-        <updated>2023-01-01T03:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheRedPen87 No way bro u got likes for days 🤙]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many fake followers does @mikealfred have. 125k “followers”, 310 views, 0 likes]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1609387127581835264</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1609387127581835264"/>
-        <updated>2023-01-01T03:12:46.000Z</updated>
-        <summary type="html"><![CDATA[How many fake followers does @mikealfred have. 
-125k “followers”, 310 views, 0 likes
-
-Mike Alfred: @GavinSBaker I was told Europe was toast.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
@@ -831,6 +819,18 @@ A megathread and substack.
 Happy New Year! https://ethropy.substack.com/p/2023-blockchain-themes-and-bold-predictions]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Marc Randolph: No one is going to steal your idea. 🧵]]></title>
+        <id>https://twitter.com/mbrandolph/status/1606168786918289408</id>
+        <link href="https://twitter.com/mbrandolph/status/1606168786918289408"/>
+        <updated>2022-12-23T06:04:14.000Z</updated>
+        <summary type="html"><![CDATA[RT Marc Randolph
+No one is going to steal your idea. 
+🧵]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
         </author>
     </entry>
     <entry>
