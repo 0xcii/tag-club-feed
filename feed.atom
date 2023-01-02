@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T18:16:07.359Z</id>
+    <id>urn:2023-01-02T19:10:40.347Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-02T18:16:07.359Z</updated>
+    <updated>2023-01-02T19:10:40.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 更正：五大交易所应为 Upbit、Bithumb、Coinone、Korbit、Gopax]]></title>
+        <id>https://twitter.com/wublockchain12/status/1609947114179821570</id>
+        <link href="https://twitter.com/wublockchain12/status/1609947114179821570"/>
+        <updated>2023-01-02T16:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Re 更正：五大交易所应为 Upbit、Bithumb、Coinone、Korbit、Gopax]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re DCG 创始人 Barry 回应：DCG 没有向 Genesis 借 16.75 亿美元； DCG 从未错过向 Genesis 支付利息， 下一笔贷款的到期日为 2023 年 5 月；DCG 于 12 月 29 日...]]></title>
         <id>https://twitter.com/wublockchain12/status/1609934647395516418</id>
@@ -241,20 +251,6 @@ What we'll do next.
         <summary type="html"><![CDATA[Re @EricJhonsa Lol this is incredible. When’re u raising a fund]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Peter Todd 建议使用一次性 VMs 进行网页浏览，与比特币钱包的 VMs 隔离。据了解，PGP（Pretty Good Privacy，中文翻译“优良保密协议”）是一个基于RSA体系...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1609765935027752961</id>
-        <link href="https://twitter.com/wublockchain12/status/1609765935027752961"/>
-        <updated>2023-01-02T04:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Re Peter Todd 建议使用一次性 VMs 进行网页浏览，与比特币钱包的 VMs 隔离。据了解，PGP（Pretty Good Privacy，中文翻译“优良保密协议”）是一个基于RSA体系、将公开密钥加密与传统密钥加密相结合的用于信息加密、验证的商业应用程序。
-Peter Todd/mempoolfullrbf=1: FYI I've confirmed that this is real and not a Twitter hack via a mutual friend.
-IIUC he used Gentoo as his desktop and didn't keep different activities separated. So backdoored software is one of many ways this could happen; he may not have been targeted.
-Use @QubesOS people.
- https://twitter.com/LukeDashjr/status/1609613748364509184]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
