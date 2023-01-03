@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-03T15:14:55.936Z</id>
+    <id>urn:2023-01-03T16:19:27.164Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-03T15:14:55.936Z</updated>
+    <updated>2023-01-03T16:19:27.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1610289421357830148</id>
+        <link href="https://twitter.com/wublockchain12/status/1610289421357830148"/>
+        <updated>2023-01-03T14:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Dedaub: We thank the @Uniswap team for awarding a bug bounty.
+Further reading:
+ https://media.dedaub.com/uniswap-bug-bounty-1625d8ff04ae?source=friends_link&sk=b0c7f306f45ef3a3ccdc6c946fc62101]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，安全公司 Dedaub 向 Uniswap 团队披露了一个严重漏洞，该漏洞有重入的可能性，会耗尽用户的资金。Uniswap 解决了这个问题并在其所有链上重新部署了 Un...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1610289419453616130</id>
+        <link href="https://twitter.com/wublockchain12/status/1610289419453616130"/>
+        <updated>2023-01-03T14:58:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，安全公司 Dedaub 向 Uniswap 团队披露了一个严重漏洞，该漏洞有重入的可能性，会耗尽用户的资金。Uniswap 解决了这个问题并在其所有链上重新部署了 Universal Router 智能合约，资金是安全的，Dedaub 获得了 Uniswap Labs 的安全漏洞报告赏金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1610275900263903233</id>
+        <link href="https://twitter.com/wublockchain12/status/1610275900263903233"/>
+        <updated>2023-01-03T14:04:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Optimism and growth is juxtaposed against pessimism and stasis, the status quo for most of human history. Author speculates if humans were optimist...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1610270320534982656</id>
@@ -36,6 +69,16 @@ David Deutsch, author of *The Beginning of Infinity*]]></summary>
         <summary type="html"><![CDATA[Re @safetyth1rd The flippenning]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊核心开发者会议更新：客户端团队就上海 / Capella 升级的最终范围达成了共识。升级的主要功能是为质押者引入信标链提款。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1610264971736403968</id>
+        <link href="https://twitter.com/wublockchain12/status/1610264971736403968"/>
+        <updated>2023-01-03T13:21:01.000Z</updated>
+        <summary type="html"><![CDATA[以太坊核心开发者会议更新：客户端团队就上海 / Capella 升级的最终范围达成了共识。升级的主要功能是为质押者引入信标链提款。 http://cancun.md https://mp.weixin.qq.com/s/rs7Kww0YSoerilctZNe72w]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -242,16 +285,6 @@ Deribit: BTC and ETH Portfolio Margin changes on Tuesday, 3 January, at 12 UTC
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，衍生品交易所 Deribit 发推表示，将于 1 月 3 日 12:00 UTC 时间进行 BTC 和 ETH 的投资组合保证金调整，将风险矩阵的价格变动系数从 17.5% 降低到15%...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1610150957060599808</id>
-        <link href="https://twitter.com/wublockchain12/status/1610150957060599808"/>
-        <updated>2023-01-03T05:47:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，衍生品交易所 Deribit 发推表示，将于 1 月 3 日 12:00 UTC 时间进行 BTC 和 ETH 的投资组合保证金调整，将风险矩阵的价格变动系数从 17.5% 降低到15%（本项调整将影响初始保证金和维持保证金），波动幅度系数维持原系数，不做调整，上述变化将不会影响标准保证金客户。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @AndreCronjeTech 👀]]></title>
         <id>https://twitter.com/AntCaveClub/status/1610150773496885249</id>
         <link href="https://twitter.com/AntCaveClub/status/1610150773496885249"/>
@@ -269,36 +302,6 @@ Deribit: BTC and ETH Portfolio Margin changes on Tuesday, 3 January, at 12 UTC
         <summary type="html"><![CDATA[RT Andre Cronje]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1610147301812760578</id>
-        <link href="https://twitter.com/wublockchain12/status/1610147301812760578"/>
-        <updated>2023-01-03T05:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://decrypt.co/56934/the-bitcoin-genesis-block-how-it-all-started]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天（2023年1月3日）是比特币创始区块14周年。2009 年 1 月 3 日，中本聪在芬兰赫尔辛基的一个小型服务器上挖出了比特币的第一个区块——创世区块（Genesis Blo...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1610147299761717253</id>
-        <link href="https://twitter.com/wublockchain12/status/1610147299761717253"/>
-        <updated>2023-01-03T05:33:26.000Z</updated>
-        <summary type="html"><![CDATA[今天（2023年1月3日）是比特币创始区块14周年。2009 年 1 月 3 日，中本聪在芬兰赫尔辛基的一个小型服务器上挖出了比特币的第一个区块——创世区块（Genesis Block），并获得了 50 个比特币的奖励。2008 年 10 月 31 日，中本聪发布《比特币：一种点对点式的电子现金系统》的比特币白皮书。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 BTC com，比特币在区块高度 770,112 处迎来了挖矿难度调整，挖矿难度小幅下调 3.59% 至 34.09 T。目前全网平均算力为 243.66 EH/s。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1610142108748492801</id>
-        <link href="https://twitter.com/wublockchain12/status/1610142108748492801"/>
-        <updated>2023-01-03T05:12:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 BTC com，比特币在区块高度 770,112 处迎来了挖矿难度调整，挖矿难度小幅下调 3.59% 至 34.09 T。目前全网平均算力为 243.66 EH/s。 https://explorer.btc.com/btc/insights-difficulty]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
