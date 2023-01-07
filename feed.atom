@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T02:35:52.651Z</id>
+    <id>urn:2023-01-07T03:14:50.139Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T02:35:52.651Z</updated>
+    <updated>2023-01-07T03:14:50.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国纽约南区检察官办公室已通过网站提供有关 SBF 欺诈案中受害者的相关信息，并主动邀请他们与当局共同合作。同时，其潜在受害者可以通过电子邮件地...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611545397989900292</id>
+        <link href="https://twitter.com/wublockchain12/status/1611545397989900292"/>
+        <updated>2023-01-07T02:08:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国纽约南区检察官办公室已通过网站提供有关 SBF 欺诈案中受害者的相关信息，并主动邀请他们与当局共同合作。同时，其潜在受害者可以通过电子邮件地址与美国检察官办公室的受害者/证人协调员联系，以协助核实是否为本案的受害者。 https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re UTA 还表示将管理 Rose 及其所有子公司的 web3 利益。此外，Rose 还负责创建社交新闻网站 Digg。（The Block）]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611536048206802946</id>
+        <link href="https://twitter.com/wublockchain12/status/1611536048206802946"/>
+        <updated>2023-01-07T01:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Re UTA 还表示将管理 Rose 及其所有子公司的 web3 利益。此外，Rose 还负责创建社交新闻网站 Digg。（The Block） https://www.theblock.co/post/199944/early-facebook-investor-and-proof-ceo-kevin-rose-signs-with-hollywoods-uta-exclusive?utm_source=onecryptofeed&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好莱坞的联合人才经纪公司 United Talent Agency 与 Facebook 早期投资者兼 NFT 公司 Proof 首席执行官 Kevin Rose 签约。同时，在 UTA 的 web3 负责人 Lesley S...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611536045476306944</id>
+        <link href="https://twitter.com/wublockchain12/status/1611536045476306944"/>
+        <updated>2023-01-07T01:31:48.000Z</updated>
+        <summary type="html"><![CDATA[好莱坞的联合人才经纪公司 United Talent Agency 与 Facebook 早期投资者兼 NFT 公司 Proof 首席执行官 Kevin Rose 签约。同时，在 UTA 的 web3 负责人 Lesley Silverman 的领导下，该公司还代理 NFT 艺术家 Diana Sinclair 和流行的 DeadFellaz 品牌。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说周精选：Coinbase 同意支付 5000 万美元罚款、SBF 拒绝认罪与新闻Top10（1230-0106）]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611530385657323521</id>
+        <link href="https://twitter.com/wublockchain12/status/1611530385657323521"/>
+        <updated>2023-01-07T01:09:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说周精选：Coinbase 同意支付 5000 万美元罚款、SBF 拒绝认罪与新闻Top10（1230-0106） https://mp.weixin.qq.com/s/1cNiBEMjAIWPFC1AwT7YwA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @MadThunderdome Soft landing brah]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1611528908054167552</id>
@@ -238,54 +278,12 @@ Est. 3.7%]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[名为 pwning.eth 的 Immunefi 研究人员曾于 2022 年 6 月报告了一个严重漏洞，可以利用该漏洞从三条 Polkadot 平行链Moonbeam、Astar Network 和 Acala 中窃取多...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611346044012605442</id>
-        <link href="https://twitter.com/wublockchain12/status/1611346044012605442"/>
-        <updated>2023-01-06T12:56:48.000Z</updated>
-        <summary type="html"><![CDATA[名为 pwning.eth 的 Immunefi 研究人员曾于 2022 年 6 月报告了一个严重漏洞，可以利用该漏洞从三条 Polkadot 平行链Moonbeam、Astar Network 和 Acala 中窃取多达 2 亿美元 ，之后 Moonbeam 发布了修复该漏洞的升级版本。pwning.eth 因此获得 100 万美元赏金。（The Block) https://www.theblock.co/post/199718/immunefi-researcher-saves-200-million-from-potential-theft-on-three-polkadot-parachains?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT 欧易OKX中文:]]></title>
         <id>https://twitter.com/okxchinese/status/1611345900361682945</id>
         <link href="https://twitter.com/okxchinese/status/1611345900361682945"/>
         <updated>2023-01-06T12:56:14.000Z</updated>
         <summary type="html"><![CDATA[RT 欧易OKX中文
  https://twitter.com/i/spaces/1MnxnpybqVeGO]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说独家获悉，Gate 交易所开启裁员，比例目前未知，员工之间传闻为40%到50%，对此 Gate 方面没有进行回应。Gate 部分员工已经开始回收权限，赔偿为 N+1，但没有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611343014953357312</id>
-        <link href="https://twitter.com/wublockchain12/status/1611343014953357312"/>
-        <updated>2023-01-06T12:44:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说独家获悉，Gate 交易所开启裁员，比例目前未知，员工之间传闻为40%到50%，对此 Gate 方面没有进行回应。Gate 部分员工已经开始回收权限，赔偿为 N+1，但没有年终奖的补偿。Gate 相关人员回应为“正常优化”。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，贝宝联合创始人杨舟推出的 Hope 官网正式上线。由原名 BabeDAO 更名为 LIGHT。$HOPE 是 LIGHT 生态系统的原生定价代币，最初将由 BTC/ETH 支持。质押$...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611339967942492161</id>
-        <link href="https://twitter.com/wublockchain12/status/1611339967942492161"/>
-        <updated>2023-01-06T12:32:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，贝宝联合创始人杨舟推出的 Hope 官网正式上线。由原名 BabeDAO 更名为 LIGHT。$HOPE 是 LIGHT 生态系统的原生定价代币，最初将由 BTC/ETH 支持。质押$HOPE 以获得 $stHOPE。$stHOPE 持有人获得 $LT 作为质押奖励。
-吴说区块链: 吴说独家获悉，贝宝金融拟发行 BRC-USDC 等“欠条 IOU ”代币，建构于 BabeDAO 上。该方案还有待相关法院程序。BabeDAO 是一个双代币系统，包括治理代币 BABE 和基础定价代币 HOPE。此前贝宝金融表示在自营交易中损失了 2.8 亿美金。其最大的债权人包括 Genesis Zipmex 等。
- https://babedao.gitbook.io/babedao-documentation/Py7QXcxfmrcP5FD5q8yI/getting-started/understanding-babedao]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡主要的加密货币游说团体反对央行禁止加密公司向零售客户出借数字代币的提议，称这种措施“过于严格”。新加坡区块链协会表示，这样的全面禁令可能会促使人...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611337157746266114</id>
-        <link href="https://twitter.com/wublockchain12/status/1611337157746266114"/>
-        <updated>2023-01-06T12:21:30.000Z</updated>
-        <summary type="html"><![CDATA[新加坡主要的加密货币游说团体反对央行禁止加密公司向零售客户出借数字代币的提议，称这种措施“过于严格”。新加坡区块链协会表示，这样的全面禁令可能会促使人们寻找不受监管的离岸公司来借出他们的代币。（彭博社） https://www.bloomberg.com/news/articles/2023-01-06/singapore-crypto-group-opposes-proposed-ban-on-lending-tokens]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
