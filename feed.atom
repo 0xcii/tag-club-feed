@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T08:16:48.048Z</id>
+    <id>urn:2023-01-07T09:12:41.048Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T08:16:48.048Z</updated>
+    <updated>2023-01-07T09:12:41.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OK 集团举办线上年会，徐明星表示，虽然2022 年有多起行业黑天鹅事件发生，OKG 作为技术驱动型公司，公司财务状况健康，并无任何债务；2023年集团在业...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611649308407009280</id>
+        <link href="https://twitter.com/wublockchain12/status/1611649308407009280"/>
+        <updated>2023-01-07T09:01:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OK 集团举办线上年会，徐明星表示，虽然2022 年有多起行业黑天鹅事件发生，OKG 作为技术驱动型公司，公司财务状况健康，并无任何债务；2023年集团在业务发展方向上会专注产品和用户体验并将持续全球化布局。OK 集团人数目前已接近 4000人，也是本轮熊市中少有的暂时未出现裁员情况的交易所。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611621910852558851</id>
+        <link href="https://twitter.com/wublockchain12/status/1611621910852558851"/>
+        <updated>2023-01-07T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Mycelium: Binance started IP blocking the US in late Dec, but was not widely communicated 
+Since the collapse of FTX and changes implemented for new data providers, the fast price feeds were now relying on only two price feeds, from Coinbase & Bitfinex.
+2/7
+ https://dev.binance.vision/t/api-error-451-unavailable-for-legal-reasons/13828/14]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 而恰逢昨日下午 4 点左右，Bitfinex 的 ETH-USD 喂价出现了明显波动，价差极大，可能套利机器人检测到价差并开始以高于平常的数量进行套利，导致了 MLP 的损...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611621775905026048</id>
+        <link href="https://twitter.com/wublockchain12/status/1611621775905026048"/>
+        <updated>2023-01-07T07:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Re 而恰逢昨日下午 4 点左右，Bitfinex 的  ETH-USD 喂价出现了明显波动，价差极大，可能套利机器人检测到价差并开始以高于平常的数量进行套利，导致了 MLP 的损失。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 究其原因，是由于 Binance 于 12 月下旬开始封锁美国 IP 这一事宜未得到有效沟通传达导致 Mycelium 的 3 家预言机数据供应商的其中一家下线，而另一家供应商...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611621773786910720</id>
+        <link href="https://twitter.com/wublockchain12/status/1611621773786910720"/>
+        <updated>2023-01-07T07:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Re 究其原因，是由于 Binance 于 12 月下旬开始封锁美国 IP 这一事宜未得到有效沟通传达导致 Mycelium 的 3 家预言机数据供应商的其中一家下线，而另一家供应商也似乎也恰好在一夜之间出现问题，导致喂价仅依赖于 Coinbase 和 Bitfinex 。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，永续协议 Mycelium 发推表示，由于 ETH-USD 交易对的预言机喂价出现问题，导致 MLP 遭受机器人套利损失了 4~6%（目前池子规模约 660 万美元，推算损失...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1611621771672944640</id>
+        <link href="https://twitter.com/wublockchain12/status/1611621771672944640"/>
+        <updated>2023-01-07T07:12:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，永续协议 Mycelium 发推表示，由于 ETH-USD 交易对的预言机喂价出现问题，导致 MLP 遭受机器人套利损失了 4~6%（目前池子规模约 660 万美元，推算损失约 30 万美元），不过目前团队已经修复好漏洞，并已恢复交易。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1611615177866366977</id>
@@ -218,46 +272,6 @@ Polygon - MATIC 💜: 📢ANNOUNCED AT CES📢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国纽约南区检察官办公室已通过网站提供有关 SBF 欺诈案中受害者的相关信息，并主动邀请他们与当局共同合作。同时，其潜在受害者可以通过电子邮件地...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611545397989900292</id>
-        <link href="https://twitter.com/wublockchain12/status/1611545397989900292"/>
-        <updated>2023-01-07T02:08:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国纽约南区检察官办公室已通过网站提供有关 SBF 欺诈案中受害者的相关信息，并主动邀请他们与当局共同合作。同时，其潜在受害者可以通过电子邮件地址与美国检察官办公室的受害者/证人协调员联系，以协助核实是否为本案的受害者。 https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re UTA 还表示将管理 Rose 及其所有子公司的 web3 利益。此外，Rose 还负责创建社交新闻网站 Digg。（The Block）]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611536048206802946</id>
-        <link href="https://twitter.com/wublockchain12/status/1611536048206802946"/>
-        <updated>2023-01-07T01:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Re UTA 还表示将管理 Rose 及其所有子公司的 web3 利益。此外，Rose 还负责创建社交新闻网站 Digg。（The Block） https://www.theblock.co/post/199944/early-facebook-investor-and-proof-ceo-kevin-rose-signs-with-hollywoods-uta-exclusive?utm_source=onecryptofeed&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞的联合人才经纪公司 United Talent Agency 与 Facebook 早期投资者兼 NFT 公司 Proof 首席执行官 Kevin Rose 签约。同时，在 UTA 的 web3 负责人 Lesley S...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611536045476306944</id>
-        <link href="https://twitter.com/wublockchain12/status/1611536045476306944"/>
-        <updated>2023-01-07T01:31:48.000Z</updated>
-        <summary type="html"><![CDATA[好莱坞的联合人才经纪公司 United Talent Agency 与 Facebook 早期投资者兼 NFT 公司 Proof 首席执行官 Kevin Rose 签约。同时，在 UTA 的 web3 负责人 Lesley Silverman 的领导下，该公司还代理 NFT 艺术家 Diana Sinclair 和流行的 DeadFellaz 品牌。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说周精选：Coinbase 同意支付 5000 万美元罚款、SBF 拒绝认罪与新闻Top10（1230-0106）]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611530385657323521</id>
-        <link href="https://twitter.com/wublockchain12/status/1611530385657323521"/>
-        <updated>2023-01-07T01:09:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：Coinbase 同意支付 5000 万美元罚款、SBF 拒绝认罪与新闻Top10（1230-0106） https://mp.weixin.qq.com/s/1cNiBEMjAIWPFC1AwT7YwA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @MadThunderdome Soft landing brah]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1611528908054167552</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1611528908054167552"/>
@@ -265,16 +279,6 @@ Polygon - MATIC 💜: 📢ANNOUNCED AT CES📢
         <summary type="html"><![CDATA[Re @MadThunderdome Soft landing brah]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 平台 SuperRare 的首席执行官 John Crain 发推称，因熊市将裁员近 30%。据消息称，Silvergate Bank 也将解雇约 200 名员工，占其员工总数的近 40% 。（The B...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611522091844763650</id>
-        <link href="https://twitter.com/wublockchain12/status/1611522091844763650"/>
-        <updated>2023-01-07T00:36:21.000Z</updated>
-        <summary type="html"><![CDATA[NFT 平台 SuperRare 的首席执行官 John Crain 发推称，因熊市将裁员近 30%。据消息称，Silvergate Bank 也将解雇约 200 名员工，占其员工总数的近 40% 。（The Block） https://www.theblock.co/post/199937/superrare-cuts-30-of-staff-citing-bear-market?utm_source=onecryptofeed&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
