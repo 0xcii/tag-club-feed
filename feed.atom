@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T13:16:57.223Z</id>
+    <id>urn:2023-01-08T14:11:30.807Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T13:16:57.223Z</updated>
+    <updated>2023-01-08T14:11:30.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612073230533292032</id>
+        <link href="https://twitter.com/wublockchain12/status/1612073230533292032"/>
+        <updated>2023-01-08T13:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+timbeiko.eth: @ethereum @VitalikButerin @lightclients @mhswende @elbuenmayini @teamipsilon @alexberegszaszi @yperbasis @ethnimbus And that was it for Shanghai! Before we wrapped up, we also had @dimahledba come on and present EIP-5988 (
+ https://eips.ethereum.org/EIPS/eip-5988]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 同时，还旨在提高以太坊网络上运行零知识证明的效率，降低链上进行基于 Merkle 证明这样的储备证明费用成本。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612072963242876928</id>
+        <link href="https://twitter.com/wublockchain12/status/1612072963242876928"/>
+        <updated>2023-01-08T13:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 同时，还旨在提高以太坊网络上运行零知识证明的效率，降低链上进行基于 Merkle 证明这样的储备证明费用成本。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 eips.ethereum 页面显示，以太坊开发人员已提交改进提案 EIP-5988。该提案引入了一种全新的预编译解决方案，实现 Poseidon 加密哈希算法中使用的哈...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612072532928262145</id>
+        <link href="https://twitter.com/wublockchain12/status/1612072532928262145"/>
+        <updated>2023-01-08T13:03:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 eips.ethereum 页面显示，以太坊开发人员已提交改进提案 EIP-5988。该提案引入了一种全新的预编译解决方案，实现 Poseidon 加密哈希算法中使用的哈希函数，目的是允许 EVM 和 ZK / Validity Rollups 之间的互操作性，以及向 EVM 引入更灵活的加密哈希原语。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 从 Google Trend 数据来看，亚洲地区是 GameFi 的基石。阅读原文：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612060997984063488</id>
+        <link href="https://twitter.com/wublockchain12/status/1612060997984063488"/>
+        <updated>2023-01-08T12:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Re 从 Google Trend 数据来看，亚洲地区是 GameFi 的基石。阅读原文： https://mp.weixin.qq.com/s/7NFQPb2DqKglDyXTZ4b_uw]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeGame 2022Q4 GameFi 行业报告：GameFi 市场整体下行，各项数据较 Q3 下滑明显，总玩家数在 80 万附件波动；Ronin（40.73%）、BSC（17.31%）、Polygon（16.65%...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612060994045628418</id>
+        <link href="https://twitter.com/wublockchain12/status/1612060994045628418"/>
+        <updated>2023-01-08T12:17:46.000Z</updated>
+        <summary type="html"><![CDATA[DeGame 2022Q4 GameFi 行业报告：GameFi 市场整体下行，各项数据较 Q3 下滑明显，总玩家数在 80 万附件波动；Ronin（40.73%）、BSC（17.31%）、Polygon（16.65%） 三条公链占据了 90% 的交易额；交易量分布的前三个公链分别为 WAX(86.86%)、Hive(8.22%)、Flow(1.27%)；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ 蚁穴推荐 ✨ 网站: charmverse 去中心化的Notion 描述: <p>通过 Web3 为工作的未来提供动力。代币社区建立关系、共同工作和投票的解决方案。</p> 链接: #char...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1612032503509917702</id>
@@ -208,57 +260,6 @@ Re @DeFiSurfer808 absolutely. can’t imagine life without a robo vacuum now]]><
         <link href="https://twitter.com/wublockchain12/status/1611932317630730240"/>
         <updated>2023-01-08T03:46:27.000Z</updated>
         <summary type="html"><![CDATA[Re 开发者的目标是在下个月为上海升级启动公共测试网，并暂定于 2023 年 3 月的某个时间启动升级的主网。 https://www.galaxy.com/research/insights/ethereum-all-core-developers-execution-call-152/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，1 月 5 日，以太坊开发人员在休息两周后召开 2023 年首次全核心开发人员电话会议。开发人员同意从上海升级中删除与 EOF 实施相关的代码更改。这主要是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611932315491643393</id>
-        <link href="https://twitter.com/wublockchain12/status/1611932315491643393"/>
-        <updated>2023-01-08T03:46:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，1 月 5 日，以太坊开发人员在休息两周后召开 2023 年首次全核心开发人员电话会议。开发人员同意从上海升级中删除与 EOF 实施相关的代码更改。这主要是为了确保质押 ETH 提款的时间表不会延迟。作为上海唯一的主要代码更改，抵押的 ETH 提款目前正在以开发人员为中心的测试网络上进行测试。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611932133236551687</id>
-        <link href="https://twitter.com/wublockchain12/status/1611932133236551687"/>
-        <updated>2023-01-08T03:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-shenmei.eth: 各位黑猫家人和前家人，鉴于艺术家shhan的形象和口碑已经彻底破产，且mimic社区每天真实活跃人气已经不足十人，无异于崩盘。我们大户群集体协商决定：接下来将陆续做一些仓位上的调整，不排除随时作集体砸盘处理。冰冻三尺，非一日之寒。抱歉，我们也跟大家一样，失去了最后的耐心。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前吴说报道，Mimic Shhans 发生社区危机，社区核心贡献者与创始人兼艺术家 shhan 产生分歧，并被拒绝沟通。通过 Blur 发现，0x30…Dd8b、0x3F…580e 等多位...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611932006606311424</id>
-        <link href="https://twitter.com/wublockchain12/status/1611932006606311424"/>
-        <updated>2023-01-08T03:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前吴说报道，Mimic Shhans 发生社区危机，社区核心贡献者与创始人兼艺术家 shhan 产生分歧，并被拒绝沟通。通过 Blur 发现，0x30…Dd8b、0x3F…580e 等多位 Mimic Shhans 大户在市场上部分挂单或出售。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Mimic Shhans（黑猫 NFT）大户持有者 shenmei.eth 表示，鉴于艺术家 shhan 的形象和口碑已经彻底破产，且 mimic 社区每天真实活跃人气已经不足十人，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611932004559511552</id>
-        <link href="https://twitter.com/wublockchain12/status/1611932004559511552"/>
-        <updated>2023-01-08T03:45:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Mimic Shhans（黑猫 NFT）大户持有者 shenmei.eth 表示，鉴于艺术家 shhan 的形象和口碑已经彻底破产，且 mimic 社区每天真实活跃人气已经不足十人，大户群集体协商决定：接下来将陆续做一些仓位上的调整。NFTGO 数据显示，近 24 小时，Mimic Shhans 地板价下跌超 30%，当前约为 0.098 ETH。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Glassnode 图表显示，2022年4月至今，交易所的比特币储量 OKX 增加了 34%；Bitfinex 增加了 19%；Binance 增加了 4%；主流交易所中只有上述三家为正，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611912845251469312</id>
-        <link href="https://twitter.com/wublockchain12/status/1611912845251469312"/>
-        <updated>2023-01-08T02:29:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Glassnode 图表显示，2022年4月至今，交易所的比特币储量 OKX 增加了 34%；Bitfinex 增加了 19%；Binance 增加了 4%；主流交易所中只有上述三家为正，其余均为负值，其中 Gemini 减少了 52%；Kraken 减少了 49%；Coinbase 减少了 26%。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
