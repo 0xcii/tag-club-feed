@@ -996,7 +996,7 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1605839799105064960",
           "author": "Onchain Wizard",
-          "description": "Its literally up 30% from this tweet 🧊\nOnchain Wizard: Will the revival of Frog Nation kick off the '23 Echo Bubble?",
+          "description": "Its literally up 30% from this tweet 🧊\n\nOnchain Wizard: Will the revival of Frog Nation kick off the '23 Echo Bubble?",
           "link": "https://twitter.com/OnChainWizard/status/1605839799105064960",
           "publishedOn": "2022-12-22T08:16:57.000Z",
           "wordCount": 470,
@@ -1211,12 +1211,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
