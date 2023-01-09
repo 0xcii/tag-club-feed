@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T23:13:17.128Z</id>
+    <id>urn:2023-01-09T01:08:15.304Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T23:13:17.128Z</updated>
+    <updated>2023-01-09T01:08:15.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612244105383534593</id>
+        <link href="https://twitter.com/wublockchain12/status/1612244105383534593"/>
+        <updated>2023-01-09T00:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+Ryan Selkis 🥷: Ok, looks like it’s working again.
+Good to be back to this hell on earth app I call home.
+Thanks for the tweets and notes asking about my reinstatement. I think it was a simple / unfortunate error, and good to see it fixed quickly.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Messari 创始人 Ryan Selkis 发推表示，其 Twitter 帐户在错误地被“永久封停”后恢复，他在自己的另一个账户上表示，对应账户是“因涉嫌冒充自己而被...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612244018372685824</id>
+        <link href="https://twitter.com/wublockchain12/status/1612244018372685824"/>
+        <updated>2023-01-09T00:25:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Messari 创始人 Ryan Selkis 发推表示，其 Twitter 帐户在错误地被“永久封停”后恢复，他在自己的另一个账户上表示，对应账户是“因涉嫌冒充自己而被停用”，他表示“我认为我们需要投资去中心化的社交媒体”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612238613798080512</id>
+        <link href="https://twitter.com/wublockchain12/status/1612238613798080512"/>
+        <updated>2023-01-09T00:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+sudo rm -rf --no-preserve-root /: Drafted and submitted my first EIP on Full EVM Equivalence 🖖. Feedback is welcome in the linked Ethereum Magicians thread.
+ https://github.com/ethereum/EIPs/pull/6269]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊开发者 @pcaversaccio 近期起草提交了 EIP-6269，该提案标准化了“完全等效 EVM”的定义。据了解，EVM 等效性实现了「一次编码，随处部署」的可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612238471229472768</id>
+        <link href="https://twitter.com/wublockchain12/status/1612238471229472768"/>
+        <updated>2023-01-09T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊开发者 @pcaversaccio 近期起草提交了 EIP-6269，该提案标准化了“完全等效 EVM”的定义。据了解，EVM 等效性实现了「一次编码，随处部署」的可行性，使得现有的以太坊堆栈能够与 L2 系统直接集成，不管是调试工具、节点客户端实现还是 EIP 标准。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JosephTodaro_ Eth good project]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1612235966109913089</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1612235966109913089"/>
+        <updated>2023-01-08T23:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @JosephTodaro_ Eth good project]]></summary>
+        <author>
+            <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1612104124698624006</id>
@@ -197,46 +252,6 @@ Block production has not been impacted and the Solana network has not been impac
         <link href="https://twitter.com/wublockchain12/status/1611984505912557571"/>
         <updated>2023-01-08T07:13:50.000Z</updated>
         <summary type="html"><![CDATA[Re Metis Andromeda（0.8962 亿美元，7 日涨幅 8.2%）；Loopring（0.8262 亿美元，7 日涨幅 7.04%）。 https://l2beat.com/scaling/tvl/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，1 月 8 日，据 L2BEAT 数据显示，目前，以太坊 Layer 2 总锁仓量回升至 42.7 亿美元，7 日涨幅 4.26%。其中，锁仓量前五分别为：Arbitrum One（22.6 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611984503819628545</id>
-        <link href="https://twitter.com/wublockchain12/status/1611984503819628545"/>
-        <updated>2023-01-08T07:13:49.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，1 月 8 日，据 L2BEAT 数据显示，目前，以太坊 Layer 2 总锁仓量回升至 42.7 亿美元，7 日涨幅 4.26%。其中，锁仓量前五分别为：Arbitrum One（22.6 亿美元，7 日涨幅 2.85%）；Optimism（12 亿美元，7 日涨幅 7.93%）；dYdX（3.88 亿美元，7 日涨幅 0.43%）；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611981941599002624</id>
-        <link href="https://twitter.com/wublockchain12/status/1611981941599002624"/>
-        <updated>2023-01-08T07:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 bleepingcomputer，威胁行为者通过被盗的“有限”数量的 Slack 员工令牌获得对工作沟通软件 Slack 外部托管的 GitHub 存储库的访问权限。Slack 表...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611981939589926912</id>
-        <link href="https://twitter.com/wublockchain12/status/1611981939589926912"/>
-        <updated>2023-01-08T07:03:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 bleepingcomputer，威胁行为者通过被盗的“有限”数量的 Slack 员工令牌获得对工作沟通软件 Slack 外部托管的 GitHub 存储库的访问权限。Slack 表示，威胁行为者于 12 月 27 日下载了私人代码存储库。下载的存储库中没有包含客户数据、访问客户数据的方法或 Slack 的主要代码库。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611976431617343489</id>
-        <link href="https://twitter.com/wublockchain12/status/1611976431617343489"/>
-        <updated>2023-01-08T06:41:45.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.aex.com/announcement/blog/2023/01/08/21671.html/]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -441,16 +456,6 @@ Drop your SO-COL wallet address below👇
         <updated>2023-01-06T21:24:45.000Z</updated>
         <summary type="html"><![CDATA[RT 305_Capital
 Multicoin really sent their investors a letter bragging about dumping SRM on retail for a 30x while also claiming credit for selling FTT at $18 before it nuked.. Which is even funnier given they used FTX to dump FTT but left the funds on FTX 😂😂😂]]></summary>
-        <author>
-            <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @toptickcrypto Whoa]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1611455108453113870</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1611455108453113870"/>
-        <updated>2023-01-06T20:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @toptickcrypto Whoa]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
