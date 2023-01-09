@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-09T01:08:15.304Z</id>
+    <id>urn:2023-01-09T02:37:37.082Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-09T01:08:15.304Z</updated>
+    <updated>2023-01-09T02:37:37.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说-TSE 每周矿业资讯 0102-0108]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612266018902282240</id>
+        <link href="https://twitter.com/wublockchain12/status/1612266018902282240"/>
+        <updated>2023-01-09T01:52:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说-TSE 每周矿业资讯 0102-0108 https://mp.weixin.qq.com/s/uWXKDTNXmqyr7TPnPYeAZA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度金融科技借贷平台 KreditBee 完成 2 亿美元 D 轮融资，其中 1 亿美元来自私募股权巨头 Advent International，其余资金由日本三菱日联金融集团以及现有投资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612257824230506497</id>
+        <link href="https://twitter.com/wublockchain12/status/1612257824230506497"/>
+        <updated>2023-01-09T01:19:54.000Z</updated>
+        <summary type="html"><![CDATA[印度金融科技借贷平台 KreditBee 完成 2 亿美元 D 轮融资，其中 1 亿美元来自私募股权巨头 Advent International，其余资金由日本三菱日联金融集团以及现有投资者 Premji Invest 等参投。新资金将用于扩大现有业务规模，并通过涉足数字化金融产品来实现产品多元化。 https://www.finextra.com/newsarticle/41564/indian-lending-platform-kreditbee-closes-second-tranche-of-200m-funding-round]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前报道，Skolem 于 2022 年 6 月 完成 2000 万美元 A 轮融资，Galaxy Digital 领投。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612257652092047361</id>
+        <link href="https://twitter.com/wublockchain12/status/1612257652092047361"/>
+        <updated>2023-01-09T01:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前报道，Skolem 于 2022 年 6 月 完成 2000 万美元 A 轮融资，Galaxy Digital 领投。 https://www.businesswire.com/news/home/20230104005132/en/Jonathan-Tamblyn-Joins-Skolem-Technologies-as-Chief-People-Officer]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，加密交易所 Gemini 前人事主管 Jonathan Tamblyn 加入数据和交易执行服务提供商 Skolem 担任首席人事官，将负责建立技术和公司职能。其在担任 Gemini ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612257545690972160</id>
+        <link href="https://twitter.com/wublockchain12/status/1612257545690972160"/>
+        <updated>2023-01-09T01:18:47.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，加密交易所 Gemini 前人事主管 Jonathan Tamblyn 加入数据和交易执行服务提供商 Skolem 担任首席人事官，将负责建立技术和公司职能。其在担任 Gemini 人事主管期间帮助团队在 4 年内从 70 名员工扩大到 1000 名员工。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1612244105383534593</id>
@@ -210,48 +250,6 @@ timbeiko.eth: @ethereum @VitalikButerin @lightclients @mhswende @elbuenmayini 
         <link href="https://twitter.com/wublockchain12/status/1612022906481172483"/>
         <updated>2023-01-08T09:46:25.000Z</updated>
         <summary type="html"><![CDATA[美国受托人 Andrew Vara 反对 FTX 计划出售 LedgerX 和其他单位。此前，FTX 曾计划出售其 LedgerX、FTX Japan 和 FTX Europe 业务。对此，Vara 表示担心出售可能会泄露与 FTX 破产相关的信息。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612018339072847874</id>
-        <link href="https://twitter.com/wublockchain12/status/1612018339072847874"/>
-        <updated>2023-01-08T09:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Solana Status: Mainnet beta Explorer and Solana Foundation Public RPC endpoints are currently offline as RPC node software is upgraded, following a bug in test release 1.14. 
-Block production has not been impacted and the Solana network has not been impacted.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 对此，Solana Status 表示，如果用户在测试版本中操作节点，望更改为 1.13 版本，同时表示，区块产出和 Solana 网络均未受到影响。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612018217329004545</id>
-        <link href="https://twitter.com/wublockchain12/status/1612018217329004545"/>
-        <updated>2023-01-08T09:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 对此，Solana Status 表示，如果用户在测试版本中操作节点，望更改为 1.13 版本，同时表示，区块产出和 Solana 网络均未受到影响。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Solana Status 发推称，目前，主网 Beta Explorer 和 Solana 基金会公共 RPC 端点因 RPC 节点软件升级而处于离线状态。究其原因，是在测试版 1.14 中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612018215013732353</id>
-        <link href="https://twitter.com/wublockchain12/status/1612018215013732353"/>
-        <updated>2023-01-08T09:27:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Solana Status 发推称，目前，主网 Beta Explorer 和 Solana 基金会公共 RPC 端点因 RPC 节点软件升级而处于离线状态。究其原因，是在测试版 1.14 中发现了一个漏洞，此漏洞影响了采用测试版本的其他节点。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Metis Andromeda（0.8962 亿美元，7 日涨幅 8.2%）；Loopring（0.8262 亿美元，7 日涨幅 7.04%）。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1611984505912557571</id>
-        <link href="https://twitter.com/wublockchain12/status/1611984505912557571"/>
-        <updated>2023-01-08T07:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Re Metis Andromeda（0.8962 亿美元，7 日涨幅 8.2%）；Loopring（0.8262 亿美元，7 日涨幅 7.04%）。 https://l2beat.com/scaling/tvl/]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
