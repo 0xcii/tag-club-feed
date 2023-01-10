@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T11:12:07.277Z</id>
+    <id>urn:2023-01-10T12:27:43.491Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T11:12:07.277Z</updated>
+    <updated>2023-01-10T12:27:43.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布了进一步的重组计划，将裁员 950 人，并预计重组总费用为 1.49 亿至1.63 亿美元。Coinbase 表示，将关闭几个成功概率较低的项目，将对被...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612780607482003457</id>
+        <link href="https://twitter.com/wublockchain12/status/1612780607482003457"/>
+        <updated>2023-01-10T11:57:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布了进一步的重组计划，将裁员 950 人，并预计重组总费用为 1.49 亿至1.63 亿美元。Coinbase 表示，将关闭几个成功概率较低的项目，将对被解雇的员工提供至少 14 周的基本工资补偿、健康保险和其他福利。此前 Coinbase 已在 6 月份裁员 18%，约 1100 人。 https://www.coinbase.com/blog/a-message-from-ceo-and-co-founder-brian-armstrong-to-coinbase-employees https://twitter.com/i/web/status/1612780607482003457]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Coingecko 数据显示，EEUR 今日曾短暂脱锚至 0.86 美元，目前已恢复至 1.01 美元。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612770736871211013</id>
+        <link href="https://twitter.com/wublockchain12/status/1612770736871211013"/>
+        <updated>2023-01-10T11:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Coingecko 数据显示，EEUR 今日曾短暂脱锚至 0.86 美元，目前已恢复至 1.01 美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，基于 Cosmos 的电子支付系统 e-Money 发文称，鉴于当前的市场状况将停止发行其欧元稳定币 EEUR，赎回日期截至 3 月 6 日。资金少于 10 万 EEUR 的用户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612770734983770113</id>
+        <link href="https://twitter.com/wublockchain12/status/1612770734983770113"/>
+        <updated>2023-01-10T11:18:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，基于 Cosmos 的电子支付系统 e-Money 发文称，鉴于当前的市场状况将停止发行其欧元稳定币 EEUR，赎回日期截至 3 月 6 日。资金少于 10 万 EEUR 的用户可通过 DEX 交易；超过 10 万 EEUR 的用户可以直接兑换为欧元，但需经过身份认证。 https://medium.com/e-money-com/eeur-stablecoin-unwind-cf945820fb3f]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，被标记为“ Binance 8”的地址（0xf9...acec）三个小时前解除 12.66 万亿枚 SHIB（约合 1.16 亿美元），后又将 4 万亿枚 SHIB （约合 3600 万美元）进...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612766247753756672</id>
+        <link href="https://twitter.com/wublockchain12/status/1612766247753756672"/>
+        <updated>2023-01-10T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，被标记为“ Binance 8”的地址（0xf9...acec）三个小时前解除 12.66 万亿枚 SHIB（约合 1.16 亿美元），后又将 4 万亿枚 SHIB （约合 3600 万美元）进行质押。 https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce?a=0xf977814e90da44bfa03b6295a0616a897441acec]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1612744705128935424</id>
@@ -150,46 +190,6 @@ CryptoQuant.com: FTX generated over $50M-120M for trading fees every month bef
         <link href="https://twitter.com/wublockchain12/status/1612692615778152448"/>
         <updated>2023-01-10T06:07:36.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 CryptoQuant，Binance 的年收入在过去两年中增长了 10 倍，2022 年约为 120 亿美元；Huobi 的季度收入自 2021 年第二季度以来下降了 98%；OKX 的收入在过去两年增长了 4 倍；FTX 在崩溃前每月产生 5000 万至 1.2 亿美元的交易费。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链茶馆：如何通俗理解 Arbitrum 的 Nitro 技术升级？Arbitrum 在去年 8 月 31 日推出了升级版的 Nitro，支撑它的关键创新可以概括为四点：证明程序、以 Geth 为...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612685473335631872</id>
-        <link href="https://twitter.com/wublockchain12/status/1612685473335631872"/>
-        <updated>2023-01-10T05:39:13.000Z</updated>
-        <summary type="html"><![CDATA[链茶馆：如何通俗理解 Arbitrum 的 Nitro 技术升级？Arbitrum 在去年 8 月 31 日推出了升级版的 Nitro，支撑它的关键创新可以概括为四点：证明程序、以 Geth 为核心、实现执行与证明分开、交互式欺诈证明的 Optimistic Rollup。 https://mp.weixin.qq.com/s/l7n24TOsz_5IxSLrWpedQA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，基于 Cosmos 的 DeFi 公链 Canto 在 1 月 8 日有 2651 万稳定币流入，约占链上稳定币总量的 28.7%，创下该链以来的最大流入。目前...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612662795258191872</id>
-        <link href="https://twitter.com/wublockchain12/status/1612662795258191872"/>
-        <updated>2023-01-10T04:09:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，基于 Cosmos 的 DeFi 公链 Canto 在 1 月 8 日有 2651 万稳定币流入，约占链上稳定币总量的 28.7%，创下该链以来的最大流入。目前尚不清楚是由什么因素直接推动的。近 7 天，Canto 稳定币增长 55.68%，主要是 USDC、NOTE 和 USDT，其中 USDC 占比 45.79%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Kraken 和 Huobi 分别发布公告称，将支持 Flare (FLR) 分发，并将于 1 月 10 日上线现货交易。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612660219976515585</id>
-        <link href="https://twitter.com/wublockchain12/status/1612660219976515585"/>
-        <updated>2023-01-10T03:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Kraken 和 Huobi 分别发布公告称，将支持 Flare (FLR)  分发，并将于 1 月 10 日上线现货交易。 https://blog.kraken.com/post/17051/kraken-supports-the-flare-flr-token-distribution-event-trading-and-staking-start-january-10/ https://www.huobi.com/support/en-us/detail/54927639447849]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，NFT 交易市场 LooksRare 推特账户被封禁，社区管理员表示正在核实情况。此前 Phantom 钱包、DeGods、y00ts 推特账户也被封禁，后又恢复正常使用。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612657675338416128</id>
-        <link href="https://twitter.com/wublockchain12/status/1612657675338416128"/>
-        <updated>2023-01-10T03:48:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，NFT 交易市场 LooksRare 推特账户被封禁，社区管理员表示正在核实情况。此前 Phantom 钱包、DeGods、y00ts 推特账户也被封禁，后又恢复正常使用。 https://twitter.com/LooksRare https://twitter.com/i/web/status/1612657675338416128]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -901,7 +901,7 @@ Drop your minted domains on 2.1 below for something special. 😉⤵️
 Manta Network 中文社区: Dolphin 测试网 V3 正式上线💪💪快来参与测试！
 入口：
 请加入 Discord 获得水龙头：
- https://app.manta.network/dolphin/bridge https://discord.com/invite/mantanetwork]]></summary>
+ https://app.manta.network/dolphin/bridge https://discord.com/invite/mantanetwork https://twitter.com/MantaNetwork/status/1608524812070322176]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -992,7 +992,8 @@ As our pinned tweet suggests, Abacus is always evolving. Today we’ll be launch
 
 Monkey （🙈 🙈）: 测试网开始了  @StarkGuardians
 StarkGuardians是建立在StarkNet上的独特网络女性角色。其目的是保护监督NFT项目的投资者，并成为安全领域的先锋。
-我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？]]></summary>
+我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？
+ https://twitter.com/StarkGuardians/status/1606684496904044545]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
