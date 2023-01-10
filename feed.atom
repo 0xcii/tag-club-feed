@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T02:43:44.383Z</id>
+    <id>urn:2023-01-10T03:15:20.601Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T02:43:44.383Z</updated>
+    <updated>2023-01-10T03:15:20.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re （3）Traders 的平均损益；（4）同一系列但不同特征的 NFT 的地板价表现和损益；（5）基于特征对 NFT 估值，NFT 估值价格是否与其自身最贵的特征地板价定价相...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612639343591698432</id>
+        <link href="https://twitter.com/wublockchain12/status/1612639343591698432"/>
+        <updated>2023-01-10T02:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Re （3）Traders 的平均损益；（4）同一系列但不同特征的 NFT 的地板价表现和损益；（5）基于特征对 NFT 估值，NFT 估值价格是否与其自身最贵的特征地板价定价相同。
+
+Data Wolf 🦇🔊: Finally, after 2 weeks I’ve made an NFT dashboard for managers. Here are some cool metrics
+1. Retention Curve
+2. Buy/Offer trade type correlation with Floor Price
+3. Agg. Trader PnL
+4. Trait’s Floor Price Performance and PnL
+5. NFT valuation tool by trait
+ https://dune.com/0xdatawolf/nft-business-metrics]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，数据分析师 @0xDataWolf 分享了 NFT 研究的五大核心指标，并制作成 Dune 数据面板：（1）留存曲线，用于追踪某个月持有 NFT 的钱包以及其是否在 x 个...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612639341410648064</id>
+        <link href="https://twitter.com/wublockchain12/status/1612639341410648064"/>
+        <updated>2023-01-10T02:35:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，数据分析师 @0xDataWolf 分享了 NFT 研究的五大核心指标，并制作成 Dune 数据面板：（1）留存曲线，用于追踪某个月持有 NFT 的钱包以及其是否在 x 个月后出现；（2）报价/买入比率作为情绪指标，基于报价的订单通常看跌，因为卖家急于出售其头寸，反之则看涨； https://dune.com/0xdatawolf/nft-business-metrics?nft_contract_address_t48fec=0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Kaiko 数据，Huobi 市场份额从 2020 年的 22% 下降到 2022 年的 4%；OKX 市场份额从 2020 年的 21%下跌到 2022 年的 9%；币安市场份额从2020年的 3...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612639085717524480</id>
+        <link href="https://twitter.com/wublockchain12/status/1612639085717524480"/>
+        <updated>2023-01-10T02:34:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 数据，Huobi 市场份额从 2020 年的 22% 下降到 2022 年的 4%；OKX 市场份额从 2020 年的 21%下跌到 2022 年的 9%；币安市场份额从2020年的 37% 增长到 2022 年的 57%。 https://marketing.kaiko.com/huobi-market-share-plummets-in-2022?ecid=AOKeC1bT368fiSsbn0gy6c0fbLHnD37-FKuzd0GB-S_g3dV_UjT75qNkijnRcupqoObDf8sZzeDl&utm_campaign=Research%20newsletter&utm_medium=email&_hsmi=67605844&_hsenc=p2ANqtz-8SeydFj-Lg3OgST_EZvzcCm-jNdvhg1exXW2Uu-nYUyPMLxbf0zMDteIzWQ6KJGy1FII45P16kz8zd-zVySaZrAgUxKg2G49ZdbzhCP7nO2IaKMv0&utm_content=67605844&utm_source=hs_email]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说 VC 年报：2022 年加密 VC 公开的投资项目共 1769 个，相比 2021 年提高了 30%；总融资金额为 377 亿美元，相比 2021 年提高了 19%；Coinbase 和 Animoca 进...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612634847880830977</id>
+        <link href="https://twitter.com/wublockchain12/status/1612634847880830977"/>
+        <updated>2023-01-10T02:18:03.000Z</updated>
+        <summary type="html"><![CDATA[吴说 VC 年报：2022 年加密 VC 公开的投资项目共 1769 个，相比 2021 年提高了 30%；总融资金额为 377 亿美元，相比 2021 年提高了 19%；Coinbase 和 Animoca 进行了最多的投资，为 119 和 118 项；Luna YugaLabs ConsenSys Polygon 等获得了最多的投资。 https://mp.weixin.qq.com/s/hPBYglDB7jvMfG-T-kD41Q]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612633505066029056</id>
+        <link href="https://twitter.com/wublockchain12/status/1612633505066029056"/>
+        <updated>2023-01-10T02:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/10/hong-kong-firm-with-ties-to-bitmain-reorganizes-to-focus-on-crypto-asset-management-and-hedging/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 CoinDesk 报道，在纳斯达克上市的 Dragon Victory International Limited (LYL) 正在进行重组，并更名为 Metalpha Technology Holding Limited (MATH)。与比...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612633503220510721</id>
+        <link href="https://twitter.com/wublockchain12/status/1612633503220510721"/>
+        <updated>2023-01-10T02:12:43.000Z</updated>
+        <summary type="html"><![CDATA[据 CoinDesk 报道，在纳斯达克上市的 Dragon Victory International Limited (LYL) 正在进行重组，并更名为 Metalpha Technology Holding Limited (MATH)。与比特大陆相关的金融服务公司 Antalpha 也是这家上市公司的投资人，还是 Metalpha 的最大客户，带来了“超过 1 亿美元”的资产。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Glassnode，比特币网络处理的美元总价值一直在直线下降。每日转账量已从 2022 年第 3 季度的 $40B 暴跌至今天的 $5.8B/天。其中 1000 万美元以上规...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612632908212363264</id>
+        <link href="https://twitter.com/wublockchain12/status/1612632908212363264"/>
+        <updated>2023-01-10T02:10:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Glassnode，比特币网络处理的美元总价值一直在直线下降。每日转账量已从 2022 年第 3 季度的 $40B 暴跌至今天的 $5.8B/天。其中 1000 万美元以上规模交易下降是主要原因。大额转账已从 FTX 崩溃前的 42.8% 下降到今天的 19.0%。 https://insights.glassnode.com/the-week-onchain-week-2-2023/?&utm_source=gn_twitter&utm_medium=tweet_woc&utm_campaign=woc_02_2023]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，已申请破产保护的比特币矿企 Core Scientific 在 11 月和 12 月分别产生了 1,356 和 1,435 个比特币，自挖算力分别为 15.4 EH/s 和 15.7 EH/s。此外，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612629651708600320</id>
+        <link href="https://twitter.com/wublockchain12/status/1612629651708600320"/>
+        <updated>2023-01-10T01:57:24.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，已申请破产保护的比特币矿企 Core Scientific 在 11 月和 12 月分别产生了 1,356 和 1,435 个比特币，自挖算力分别为 15.4 EH/s 和 15.7 EH/s。此外，律师事务所 Pomerantz 已代表 Core Scientific 投资者对该矿企展开索赔调查。 https://www.businesswire.com/news/home/20230109005330/en/Core-Scientific-Announces-November-and-December-2022-Updates/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5TU0aj_LRs-Se_zuAGpBX-rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-weL4ZrRaIvas70pHOyqkRzAC4_rGwOLNoA4bcgbFNw== https://www.globenewswire.com/news-release/2023/01/09/2585603/1087/en/SHAREHOLDER-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-Core-Scientific-Inc-CORZ.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1612617246920302592</id>
@@ -264,76 +352,6 @@ Seems sus lads]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1612418023100682241"/>
         <updated>2023-01-09T11:56:28.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据韩国媒体 News1 报道，火币韩国分公司已开始筹备收购火币全球站持有的股份并更名。火币韩国一半以上的现有股份由火币全球创始人李林持有。火币韩国董事长赵国峰接管了李林的股份，拥有火币韩国72%左右的股份。 https://twitter.com/i/web/status/1612418023100682241]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，PlatON 将与其合作伙伴阿里云和 HashKey集团, 于本年3月至4月期间, 在四大亚洲城市——新加坡、曼谷、东京, 以及最后一站香港站, 联手举办Web3全球创...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612415629734346757</id>
-        <link href="https://twitter.com/wublockchain12/status/1612415629734346757"/>
-        <updated>2023-01-09T11:46:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，PlatON 将与其合作伙伴阿里云和 HashKey集团, 于本年3月至4月期间, 在四大亚洲城市——新加坡、曼谷、东京,  以及最后一站香港站, 联手举办Web3全球创业大赛“HAPathon 2023”。比赛设三个主题, 分别为金融基础设施、技术基础设施和Web3创新应用。 https://survey.aliyun.com/apps/zhiliao/eKb7XOFAJ?utm_source=pr&utm_medium=reglink&utm_campaign=pressrelease]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612414417786011648</id>
-        <link href="https://twitter.com/wublockchain12/status/1612414417786011648"/>
-        <updated>2023-01-09T11:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.huobi.com/support/en-us/detail/34927577831406]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Huobi 发布公告称将于 1 月 9 日起至 13 日上线 ATOM/USDD、AVAX/USDD、CHZ/USDD、LINK/USDD 等 10 个交易对，且在 6 月 30 日前对上述交易对免收手续...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612414370365198336</id>
-        <link href="https://twitter.com/wublockchain12/status/1612414370365198336"/>
-        <updated>2023-01-09T11:41:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Huobi 发布公告称将于 1 月 9 日起至 13 日上线 ATOM/USDD、AVAX/USDD、CHZ/USDD、LINK/USDD 等 10 个交易对，且在 6  月 30 日前对上述交易对免收手续费。Coingecko 数据显示，当前 USDD 价格为 0.98 美元，且近两个月来一直未恢复锚定，目前 24 小时交易量仅为 3720 万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿企 Hive Blockchain 在 12 月通过减少用电量赚取了约 184 BTC（合 310 万美元），几乎相当于其开采量（213.8 BTC）。此外，还安装了第一批使用英特尔新...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612411515138867203</id>
-        <link href="https://twitter.com/wublockchain12/status/1612411515138867203"/>
-        <updated>2023-01-09T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[比特币矿企 Hive Blockchain 在 12 月通过减少用电量赚取了约 184 BTC（合 310 万美元），几乎相当于其开采量（213.8 BTC）。此外，还安装了第一批使用英特尔新比特币挖矿芯片的 Buzzminers。Hive 在 2022 年全年开采了相当于 4，752 BTC，同比增长 18%。（CoinDesk） https://www.coindesk.com/business/2023/01/09/hive-earned-184-btc-from-curtailing-its-power-use-in-december-thats-almost-as-much-as-it-mined/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re MetaTrust 旨在为 Web3 开发者提供覆盖整个开发周期自动化代码审计服务，包括开发前的项目计划安全评估、开发中的安全管理工具和代码扫描工具 MetaScan、开发...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612402535901564928</id>
-        <link href="https://twitter.com/wublockchain12/status/1612402535901564928"/>
-        <updated>2023-01-09T10:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Re MetaTrust 旨在为 Web3 开发者提供覆盖整个开发周期自动化代码审计服务，包括开发前的项目计划安全评估、开发中的安全管理工具和代码扫描工具 MetaScan、开发后的项目合约安全审计服务，以及发布后的安全监控。（cointime） https://www.cointime.com/news/guarding-the-moat-with-automatic-code-security-scanning-metatrust-says-the-key-to-web3-security-is-vigilant-and-continual-reassessment-55994]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自动化代码审计平台 MetaTrust 已完成约 1000 万美元种子轮融资，参投方包括 M23、Redpoint Ventures、ABCDE Capital、LongHash等。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612402390854172674</id>
-        <link href="https://twitter.com/wublockchain12/status/1612402390854172674"/>
-        <updated>2023-01-09T10:54:21.000Z</updated>
-        <summary type="html"><![CDATA[自动化代码审计平台 MetaTrust 已完成约 1000 万美元种子轮融资，参投方包括 M23、Redpoint Ventures、ABCDE Capital、LongHash等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 CoinShares ，上周数字资产投资产品净流出 970 万美元，其中比特币和以太坊投资产品净流出分别为 650 万美元和 310 万美元，以太坊为连续第八周流...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612396152548364290</id>
-        <link href="https://twitter.com/wublockchain12/status/1612396152548364290"/>
-        <updated>2023-01-09T10:29:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 CoinShares ，上周数字资产投资产品净流出 970 万美元，其中比特币和以太坊投资产品净流出分别为 650 万美元和 310 万美元，以太坊为连续第八周流出。做空比特币的投资产品净流入 120 万美元；XRP 投资产品流入 300 万美元，占总资产管理规模的 9%。 https://blog.coinshares.com/volume-113-digital-asset-fund-flows-weekly-report-889d9f761f81]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
