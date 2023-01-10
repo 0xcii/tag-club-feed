@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T07:12:28.311Z</id>
+    <id>urn:2023-01-10T08:17:55.488Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T07:12:28.311Z</updated>
+    <updated>2023-01-10T08:17:55.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612662798143848453</id>
-        <link href="https://twitter.com/wublockchain12/status/1612662798143848453"/>
-        <updated>2023-01-10T04:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://defillama.com/stablecoins/Canto]]></summary>
+        <id>https://twitter.com/wublockchain12/status/1612692617812389889</id>
+        <link href="https://twitter.com/wublockchain12/status/1612692617812389889"/>
+        <updated>2023-01-10T06:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+CryptoQuant.com: FTX generated over $50M-120M for trading fees every month before its collapse.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CryptoQuant，Binance 的年收入在过去两年中增长了 10 倍，2022 年约为 120 亿美元；Huobi 的季度收入自 2021 年第二季度以来下降了 98%；OKX 的收...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612692615778152448</id>
+        <link href="https://twitter.com/wublockchain12/status/1612692615778152448"/>
+        <updated>2023-01-10T06:07:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CryptoQuant，Binance 的年收入在过去两年中增长了 10 倍，2022 年约为 120 亿美元；Huobi 的季度收入自 2021 年第二季度以来下降了 98%；OKX 的收入在过去两年增长了 4 倍；FTX 在崩溃前每月产生 5000 万至 1.2 亿美元的交易费。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链茶馆：如何通俗理解 Arbitrum 的 Nitro 技术升级？Arbitrum 在去年 8 月 31 日推出了升级版的 Nitro，支撑它的关键创新可以概括为四点：证明程序、以 Geth 为...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612685473335631872</id>
+        <link href="https://twitter.com/wublockchain12/status/1612685473335631872"/>
+        <updated>2023-01-10T05:39:13.000Z</updated>
+        <summary type="html"><![CDATA[链茶馆：如何通俗理解 Arbitrum 的 Nitro 技术升级？Arbitrum 在去年 8 月 31 日推出了升级版的 Nitro，支撑它的关键创新可以概括为四点：证明程序、以 Geth 为核心、实现执行与证明分开、交互式欺诈证明的 Optimistic Rollup。 https://mp.weixin.qq.com/s/l7n24TOsz_5IxSLrWpedQA]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -183,26 +205,6 @@ Data Wolf 🦇🔊: Finally, after 2 weeks I’ve made an NFT dashboard for ma
         <link href="https://twitter.com/wublockchain12/status/1612633503220510721"/>
         <updated>2023-01-10T02:12:43.000Z</updated>
         <summary type="html"><![CDATA[据 CoinDesk 报道，在纳斯达克上市的 Dragon Victory International Limited (LYL) 正在进行重组，并更名为 Metalpha Technology Holding Limited (MATH)。与比特大陆相关的金融服务公司 Antalpha 也是这家上市公司的投资人，还是 Metalpha 的最大客户，带来了“超过 1 亿美元”的资产。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Glassnode，比特币网络处理的美元总价值一直在直线下降。每日转账量已从 2022 年第 3 季度的 $40B 暴跌至今天的 $5.8B/天。其中 1000 万美元以上规...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612632908212363264</id>
-        <link href="https://twitter.com/wublockchain12/status/1612632908212363264"/>
-        <updated>2023-01-10T02:10:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Glassnode，比特币网络处理的美元总价值一直在直线下降。每日转账量已从 2022 年第 3 季度的 $40B 暴跌至今天的 $5.8B/天。其中 1000 万美元以上规模交易下降是主要原因。大额转账已从 FTX 崩溃前的 42.8% 下降到今天的 19.0%。 https://insights.glassnode.com/the-week-onchain-week-2-2023/?&utm_source=gn_twitter&utm_medium=tweet_woc&utm_campaign=woc_02_2023]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，已申请破产保护的比特币矿企 Core Scientific 在 11 月和 12 月分别产生了 1,356 和 1,435 个比特币，自挖算力分别为 15.4 EH/s 和 15.7 EH/s。此外，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612629651708600320</id>
-        <link href="https://twitter.com/wublockchain12/status/1612629651708600320"/>
-        <updated>2023-01-10T01:57:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，已申请破产保护的比特币矿企 Core Scientific 在 11 月和 12 月分别产生了 1,356 和 1,435 个比特币，自挖算力分别为 15.4 EH/s 和 15.7 EH/s。此外，律师事务所 Pomerantz 已代表 Core Scientific 投资者对该矿企展开索赔调查。 https://www.businesswire.com/news/home/20230109005330/en/Core-Scientific-Announces-November-and-December-2022-Updates/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5TU0aj_LRs-Se_zuAGpBX-rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-weL4ZrRaIvas70pHOyqkRzAC4_rGwOLNoA4bcgbFNw== https://www.globenewswire.com/news-release/2023/01/09/2585603/1087/en/SHAREHOLDER-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-Core-Scientific-Inc-CORZ.html]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
