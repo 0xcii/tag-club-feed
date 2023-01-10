@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T15:20:05.994Z</id>
+    <id>urn:2023-01-10T16:21:25.915Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T15:20:05.994Z</updated>
+    <updated>2023-01-10T16:21:25.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,58 @@
         <summary type="html"><![CDATA[Re @0xSisyphus Turns out was just delayed reaction]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 让 Gemini、Earn 用户和其他贷方相信 DCG 已向 Genesis 注入了 12 亿美元的实际支持。鉴于 3AC 提供的抵押品质量低下，Genesis 会向 3AC 借出这么多钱是不可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612816537429377024</id>
+        <link href="https://twitter.com/wublockchain12/status/1612816537429377024"/>
+        <updated>2023-01-10T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Re 让 Gemini、Earn 用户和其他贷方相信 DCG 已向 Genesis 注入了 12 亿美元的实际支持。鉴于 3AC 提供的抵押品质量低下，Genesis 会向 3AC 借出这么多钱是不可想象的；要求 DCG 要求董事会立即解除 Barry Silbert 的 CEO 职务，并任命一位新 CEO。
+
+Cameron Winklevoss: Earn Update: An Open Letter to the Board of @DCGco]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Gemini 创始人 Cameron Winklevoss 发布最新的公开信表示，Genesis 向 3AC 借出23.6亿美元资产，其至少损失了 12 亿美元；DCG 只能重组 Genesis 或填...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612816535395135489</id>
+        <link href="https://twitter.com/wublockchain12/status/1612816535395135489"/>
+        <updated>2023-01-10T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Gemini 创始人 Cameron Winklevoss 发布最新的公开信表示，Genesis 向 3AC 借出23.6亿美元资产，其至少损失了 12 亿美元；DCG 只能重组 Genesis 或填补 12 亿美元的缺口。从 2022 年 7 月上旬开始，Barry、DCG 和 Genesis 精心策划撒谎，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612812579805753350</id>
+        <link href="https://twitter.com/wublockchain12/status/1612812579805753350"/>
+        <updated>2023-01-10T14:04:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612803765752725505</id>
+        <link href="https://twitter.com/wublockchain12/status/1612803765752725505"/>
+        <updated>2023-01-10T13:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://woo.org/blog/en/woo-tokenomics-revamp-q1-2023]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，加密货币流动性平台 WOO Network 宣布将在 2023 年上半年对 WOO 代币经济学进行一系列改进。WOO Network 将销毁超过 7.05 亿个 WOO 代币，约占最大供...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1612803763609432065</id>
+        <link href="https://twitter.com/wublockchain12/status/1612803763609432065"/>
+        <updated>2023-01-10T13:29:16.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，加密货币流动性平台 WOO Network 宣布将在 2023 年上半年对 WOO 代币经济学进行一系列改进。WOO Network 将销毁超过 7.05 亿个 WOO 代币，约占最大供应量的 24%，WOO Ventures、WOO DAO 和保险基金将关闭。受此消息影响，WOO 短时拉升至 0.178 美元，1 小时涨幅达 17%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -168,48 +220,6 @@ Build on a high-performance, low-cost & high-security chain that is:
         <link href="https://twitter.com/wublockchain12/status/1612714562033442819"/>
         <updated>2023-01-10T07:34:49.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，BitDAO 宣布为 Mantle 推出公共测试网“Wadsley”，自称是第一个模块化的以太坊 L2 网络。Mantle 正在使用 EigenLayer 等数据可用性解决方案来进一步优化网络性能；使用 MPC 来最小化 L2 执行结果的信任风险。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，尼泊尔电信管理局在 1 月 8 日发布通知，指示所有互联网服务提供商 (ISP) 禁止运营和管理与加密相关的“网站、应用程序或在线网络”。该国央行在 2021...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612714509965365249</id>
-        <link href="https://twitter.com/wublockchain12/status/1612714509965365249"/>
-        <updated>2023-01-10T07:34:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，尼泊尔电信管理局在 1 月 8 日发布通知，指示所有互联网服务提供商 (ISP) 禁止运营和管理与加密相关的“网站、应用程序或在线网络”。该国央行在 2021 年 9 月禁止了包括交易和挖矿在内的加密货币活动。 https://nta.gov.np/en/notice-20230108/ https://twitter.com/i/web/status/1612714509965365249]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安联合创始人何一表示，币安在内控上无论多么高级的员工都不允许炒币，买入后必须持仓90天以上才能交易。10亿美金“复苏计划”正在推进两笔比较大的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612712830243057666</id>
-        <link href="https://twitter.com/wublockchain12/status/1612712830243057666"/>
-        <updated>2023-01-10T07:27:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安联合创始人何一表示，币安在内控上无论多么高级的员工都不允许炒币，买入后必须持仓90天以上才能交易。10亿美金“复苏计划”正在推进两笔比较大的交易，对象是两家交易平台。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612692617812389889</id>
-        <link href="https://twitter.com/wublockchain12/status/1612692617812389889"/>
-        <updated>2023-01-10T06:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-CryptoQuant.com: FTX generated over $50M-120M for trading fees every month before its collapse.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 CryptoQuant，Binance 的年收入在过去两年中增长了 10 倍，2022 年约为 120 亿美元；Huobi 的季度收入自 2021 年第二季度以来下降了 98%；OKX 的收...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1612692615778152448</id>
-        <link href="https://twitter.com/wublockchain12/status/1612692615778152448"/>
-        <updated>2023-01-10T06:07:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 CryptoQuant，Binance 的年收入在过去两年中增长了 10 倍，2022 年约为 120 亿美元；Huobi 的季度收入自 2021 年第二季度以来下降了 98%；OKX 的收入在过去两年增长了 4 倍；FTX 在崩溃前每月产生 5000 万至 1.2 亿美元的交易费。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
