@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T11:11:52.675Z</id>
+    <id>urn:2023-01-11T12:27:30.478Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T11:11:52.675Z</updated>
+    <updated>2023-01-11T12:27:30.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613150164839202816</id>
+        <link href="https://twitter.com/wublockchain12/status/1613150164839202816"/>
+        <updated>2023-01-11T12:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/11/ftx-creditor-claims-going-for-13-cents-on-the-dollar-on-bankruptcy-marketplace-xclaim/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据破产索赔交易市场 Xclaim 的数据， 在 Xclaim 上的 9170 万美元的 FTX 债权可能会以账户余额 13 % 的价格出售。CSO Glantz 表示，这些卖家主要集中在亚洲，一...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613150163069177856</id>
+        <link href="https://twitter.com/wublockchain12/status/1613150163069177856"/>
+        <updated>2023-01-11T12:25:44.000Z</updated>
+        <summary type="html"><![CDATA[据破产索赔交易市场 Xclaim 的数据， 在 Xclaim 上的 9170 万美元的 FTX 债权可能会以账户余额 13 % 的价格出售。CSO Glantz 表示，这些卖家主要集中在亚洲，一半来自新加坡，15% 来自中国，23% 来自台湾。出现大幅折扣是因为有关索赔的公开信息较少，债权人目前仍无法访问他们的账户。（CoinDesk）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[木头姐（Cathie Wood）旗下基金 ARKK 再次购买约 3.3 万股 Coinbase (COIN) 股票，约合 145 万美元。近期该投资基金频繁购入 COIN，12 月 14 日它购入 30 万股，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613114002229583878</id>
+        <link href="https://twitter.com/wublockchain12/status/1613114002229583878"/>
+        <updated>2023-01-11T10:02:02.000Z</updated>
+        <summary type="html"><![CDATA[木头姐（Cathie Wood）旗下基金 ARKK 再次购买约 3.3 万股 Coinbase (COIN) 股票，约合 145 万美元。近期该投资基金频繁购入 COIN，12 月 14 日它购入 30 万股，约合 1200 万美元；30 日又增持了 550 万美元的股票。（CoinDesk） https://www.coindesk.com/markets/2023/01/11/ark-makes-coinbase-buy-as-coin-jumps-20-on-week/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，荷兰加密交易平台 Bitvavo 表示其在 1 月 9 日收到了 DCG 在可接受的期限内偿还 70% 债务的提议，Bitvavo 拒绝了该提议，它认为 DCG 有足够的资金可用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613105684157173760</id>
+        <link href="https://twitter.com/wublockchain12/status/1613105684157173760"/>
+        <updated>2023-01-11T09:28:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，荷兰加密交易平台 Bitvavo 表示其在 1 月 9 日收到了 DCG 在可接受的期限内偿还 70% 债务的提议，Bitvavo 拒绝了该提议，它认为 DCG 有足够的资金可用于全额还款。此前 Bitvavo 曾表示其 2.8 亿欧元的资产存放在 DCG 中已无法访问。 https://blog.bitvavo.com/dcg-update-statement-10-01-2023/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 目前 AUM 相较于市场熟知的美国与加拿大的首支比特币 ETF 相差较大，但是其日成交量远大于加拿大 ETF（BTCQ），而作为 ProShares Bitcoin Strategy ETF (BITO...]]></title>
         <id>https://twitter.com/wublockchain12/status/1613096204250025985</id>
@@ -199,47 +239,6 @@ Such a large volume has not appeared for a long time, is this a signal that the 
         <summary type="html"><![CDATA[Re 吴说获悉，Binance CSO Patrick Hillmann 表示，关于所有币安员工持仓90天后才可交易的规则，“至少从我 2021 年加入币安以来，这一直是币安的一项严格政策”，我们有一个内部安全团队，负责监控多个平台上可能存在的员工交易活动，这是一项零容忍政策，一旦被发现就会被解雇。
 
 Patrick Hillmann: This has been a strict policy at Binance at least since I started here in 2021. We have an internal security team that monitors multiple platforms for possible employee trading activity and it is a zero tolerance policy. It is the quickest way to get fired here @WuBlockchain]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Ondo 已经推出了一个代币化基金，允许稳定币持有人投资债券和美国国债。投资者将获得可在链上转让的代币化基金权益，包括通过经批准的智能合约，希望...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613005914776428546</id>
-        <link href="https://twitter.com/wublockchain12/status/1613005914776428546"/>
-        <updated>2023-01-11T02:52:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Ondo 已经推出了一个代币化基金，允许稳定币持有人投资债券和美国国债。投资者将获得可在链上转让的代币化基金权益，包括通过经批准的智能合约，希望创建一个兼容的链上金融生态系统，支持许可和非许可资产。 https://blog.ondo.finance/announcing-tokenized-us-treasuries-and-bonds/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 公开信全文中文翻译：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613003209588760577</id>
-        <link href="https://twitter.com/wublockchain12/status/1613003209588760577"/>
-        <updated>2023-01-11T02:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 公开信全文中文翻译： https://www.odaily.news/post/5184414]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JZL CAPITAL 报告：加密货币量化机构专题研究。本文介绍了加密货币量化交易的基础知识，以及盘点了 JUMP WINTERMUTE B2C2 JANESTREET 等目前加密货币市场上的主...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613003106870267905</id>
-        <link href="https://twitter.com/wublockchain12/status/1613003106870267905"/>
-        <updated>2023-01-11T02:41:23.000Z</updated>
-        <summary type="html"><![CDATA[JZL CAPITAL 报告：加密货币量化机构专题研究。本文介绍了加密货币量化交易的基础知识，以及盘点了 JUMP WINTERMUTE B2C2 JANESTREET 等目前加密货币市场上的主要机构玩家，包括他们的业务分类、运营模式、核心人员、大事记等。 https://drive.google.com/drive/u/0/folders/1z4Kmab1C4fEOtmB8yLbH0ptPZQLkgP9t]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase 前产品经理 Ishan Wahi 的兄弟 Nikhil Wahi 因内幕交易被判 10 个月有期徒刑，他在去年 9 月承认了一项共谋实施电汇欺诈的罪名。美国检察官称这是第一...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613000392811622403</id>
-        <link href="https://twitter.com/wublockchain12/status/1613000392811622403"/>
-        <updated>2023-01-11T02:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase 前产品经理 Ishan Wahi 的兄弟 Nikhil Wahi 因内幕交易被判 10 个月有期徒刑，他在去年 9 月承认了一项共谋实施电汇欺诈的罪名。美国检察官称这是第一起涉及加密货币的内幕交易案。（Decrypt）
-吴说此前报道该内部交易案抓捕细节，阅读更多： https://decrypt.co/118805/coinbase-manager-brother-sentenced-crypto-insider-trading https://mp.weixin.qq.com/s/fxo66uwx5Qqi2Uyka5vIXw]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
