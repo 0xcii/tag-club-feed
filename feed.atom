@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T04:17:06.852Z</id>
+    <id>urn:2023-01-13T05:12:50.494Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T04:17:06.852Z</updated>
+    <updated>2023-01-13T05:12:50.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，FTX 暴雷致使台湾投资者损失惨重，台湾金管会主委黄天牧表示，未来希望强化客户及平台资产的分离保管；交易公平性监理，例如整体加密货币上下架的审查...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613743928842539008</id>
+        <link href="https://twitter.com/wublockchain12/status/1613743928842539008"/>
+        <updated>2023-01-13T03:45:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，FTX 暴雷致使台湾投资者损失惨重，台湾金管会主委黄天牧表示，未来希望强化客户及平台资产的分离保管；交易公平性监理，例如整体加密货币上下架的审查机制等；透过银行强化 KYC 等。 https://news.cnyes.com/news/id/5062130]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re MakerDAO 资产负债管理 @SebVentures 表示，法国兴业银行在 MakerDAO 借出了 7 百万美元贷款，同时以 AAA 级担保债券作为抵押品，这其实是交叉货币回购，抵押...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613732628905230337</id>
+        <link href="https://twitter.com/wublockchain12/status/1613732628905230337"/>
+        <updated>2023-01-13T03:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Re MakerDAO 资产负债管理 @SebVentures 表示，法国兴业银行在 MakerDAO 借出了 7 百万美元贷款，同时以 AAA 级担保债券作为抵押品，这其实是交叉货币回购，抵押品是欧元，贷款是美元（DAI）。
+
+Sébastien Derivaux: Another milestone in #DeFi
+@SocieteGenerale Forge 🇫🇷 casually taking a $7M loan 💰 from @MakerDAO 🚀while pledging a AAA covered bond as collateral. Actually a cross-currency repo as the collateral is in € and the loan in $ ($DAI).]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 makerburn 数据，法国兴业银行（Societe Generale, 0x03…0439）在 1 月 12 日向 MakerDAO 抵押了由法国兴业银行发行的，受法国法律规定的由住房贷...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613732461615386626</id>
+        <link href="https://twitter.com/wublockchain12/status/1613732461615386626"/>
+        <updated>2023-01-13T02:59:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 makerburn 数据，法国兴业银行（Societe Generale, 0x03…0439）在 1 月 12 日向 MakerDAO 抵押了由法国兴业银行发行的，受法国法律规定的由住房贷款支持并受益于法定特权的担保债券（RWA008），价值约 700 万美元，随后铸造并借出了 7 百万 DAI，并转移至新地址（0xee…86a3）中。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据比特币矿企 Iris Energy 月报，其 12 月收入下降 27%，至 210 万美元；12 月开采了 123 个比特币，下降 19%；平均运行哈希率下降 25% 至 1，086 PH/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1613730835051720706</id>
+        <link href="https://twitter.com/wublockchain12/status/1613730835051720706"/>
+        <updated>2023-01-13T02:53:07.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据比特币矿企 Iris Energy 月报，其 12 月收入下降 27%，至 210 万美元；12 月开采了 123 个比特币，下降 19%；平均运行哈希率下降 25% 至 1，086 PH/s；运营能力增加了 30%，达到 1.5 EH/s；截至年底，持有 3900 万美元现金，没有债务。 https://www.globenewswire.com/news-release/2023/01/12/2587795/0/en/Iris-Energy-Announces-Monthly-Investor-Update-for-December-2022.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 吴说获悉，加密支付提供商 Wyre 发推表示已获得新资金可以支持正常运营，将恢复接受存款并立即取消 90% 的客户提款限额。]]></title>
         <id>https://twitter.com/wublockchain12/status/1613725272767070208</id>
@@ -443,16 +486,6 @@ The S&P 500 this morning...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3 游戏工作室 N3twork 聘请了 Tinder 首席产品官 Josh Sell，他将担任 N3twork Studios 首席运营官。去年 5 月，N3twork 完成了 4600 万美元的 A 轮融资，由 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613539833435287553</id>
-        <link href="https://twitter.com/wublockchain12/status/1613539833435287553"/>
-        <updated>2023-01-12T14:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Web3 游戏工作室 N3twork 聘请了 Tinder 首席产品官 Josh Sell，他将担任 N3twork Studios 首席运营官。去年 5 月，N3twork 完成了 4600 万美元的 A 轮融资，由 Griffin Gaming Partners 领投。（The Block） https://www.theblock.co/post/200794/tinder-chief-product-officer-n3twork?utm_source=onecryptofeed&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OKX投资的NFT市场AlienSwap AlienSwap、OpenSea、Blur、OKX NFT、LooksRare、X2Y2 和 Gem 交易用户有机会领取 Time Machine Mystery Box。 所有 Mystery Box 持...]]></title>
         <id>https://twitter.com/8848Community/status/1613536516927803394</id>
         <link href="https://twitter.com/8848Community/status/1613536516927803394"/>
@@ -464,36 +497,6 @@ AlienSwap、OpenSea、Blur、OKX NFT、LooksRare、X2Y2 和 Gem 交易用户有�
 详情： https://alienswap.xyz/mystery-box https://medium.com/@AlienSwap_NFT/alienswap-time-machine-mystery-box-airdrop-5d626ea89164]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613536128581406720</id>
-        <link href="https://twitter.com/wublockchain12/status/1613536128581406720"/>
-        <updated>2023-01-12T13:59:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 他表示 FTX US 仍然完全有偿付能力，FTX International 拥有数十亿美元的资产。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613534605310820352</id>
-        <link href="https://twitter.com/wublockchain12/status/1613534605310820352"/>
-        <updated>2023-01-12T13:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 他表示 FTX US 仍然完全有偿付能力，FTX International 拥有数十亿美元的资产。 https://sambf.substack.com/p/ftx-pre-mortem-overview]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，SBF 发布长文继续解释，他称2021年 FTX 与 Alameda 都获得了数十亿美金的利润，2022年 Alameda 未能充分对冲其市场风险，导致其资产市值下跌约 80%；...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613534603280801794</id>
-        <link href="https://twitter.com/wublockchain12/status/1613534603280801794"/>
-        <updated>2023-01-12T13:53:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，SBF 发布长文继续解释，他称2021年 FTX 与 Alameda 都获得了数十亿美金的利润，2022年 Alameda 未能充分对冲其市场风险，导致其资产市值下跌约 80%；他继续批评是币安 CEO CZ 促成 Alameda 资不抵债的崩盘，但他没有对挪用 FTX 客户资产进行任何解释。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1092,7 +1095,7 @@ Drop your minted domains on 2.1 below for something special. 😉⤵️
 Manta Network 中文社区: Dolphin 测试网 V3 正式上线💪💪快来参与测试！
 入口：
 请加入 Discord 获得水龙头：
- https://app.manta.network/dolphin/bridge https://discord.com/invite/mantanetwork]]></summary>
+ https://app.manta.network/dolphin/bridge https://discord.com/invite/mantanetwork https://twitter.com/MantaNetwork/status/1608524812070322176]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1183,7 +1186,8 @@ As our pinned tweet suggests, Abacus is always evolving. Today we’ll be launch
 
 Monkey （🙈 🙈）: 测试网开始了  @StarkGuardians
 StarkGuardians是建立在StarkNet上的独特网络女性角色。其目的是保护监督NFT项目的投资者，并成为安全领域的先锋。
-我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？]]></summary>
+我看聊的好像没几个人，是因为StarkNet要空投了，还是大家没发现这个项目？
+ https://twitter.com/StarkGuardians/status/1606684496904044545]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
