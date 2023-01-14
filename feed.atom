@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T05:11:58.542Z</id>
+    <id>urn:2023-01-14T06:16:02.369Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-14T05:11:58.542Z</updated>
+    <updated>2023-01-14T06:16:02.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 使得其对冲基金 Alameda Research 可在未经用户允许的情况下借入用户资金，并拥有 650 亿美元的信贷额度。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1614133305112408065</id>
+        <link href="https://twitter.com/wublockchain12/status/1614133305112408065"/>
+        <updated>2023-01-14T05:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 使得其对冲基金 Alameda Research 可在未经用户允许的情况下借入用户资金，并拥有 650 亿美元的信贷额度。 https://nypost.com/2023/01/13/sam-bankman-fried-of-ftx-ordered-secret-backdoor-of-credit/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据《纽约邮报》报道，FTX 的破产代理律师事务所 Sullivan & Cromwell 合伙人 Andrew Dietderich 在特拉华州破产法庭作证表示，FTX 的创始人 SBF 要求...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1614133302314815491</id>
+        <link href="https://twitter.com/wublockchain12/status/1614133302314815491"/>
+        <updated>2023-01-14T05:32:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据《纽约邮报》报道，FTX 的破产代理律师事务所 Sullivan & Cromwell 合伙人 Andrew Dietderich 在特拉华州破产法庭作证表示，FTX 的创始人 SBF 要求其联合创始人 Gary Wang 在 FTX 的代码中加入后门，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些机构与KOL对2023年价格走势的预测]]></title>
+        <id>https://twitter.com/wublockchain12/status/1614099368126320641</id>
+        <link href="https://twitter.com/wublockchain12/status/1614099368126320641"/>
+        <updated>2023-01-14T03:17:32.000Z</updated>
+        <summary type="html"><![CDATA[一些机构与KOL对2023年价格走势的预测 https://docs.google.com/spreadsheets/d/1k5th0vIJ4jy_ggsb9ADkkrsRYauNvE_nE5KDLqT4vi4/edit#gid=0]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，BTS LABS 统计了 2023 年加密货币的全球线下活动，目前总共有120起（包括少量线上活动），值得注意的是：迪拜、迈阿密、香港、泰国；其次也包括纽约、...]]></title>
         <id>https://twitter.com/wublockchain12/status/1614095649976516608</id>
@@ -355,30 +385,6 @@ Actions speak louder than words.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613936395390971904</id>
-        <link href="https://twitter.com/wublockchain12/status/1613936395390971904"/>
-        <updated>2023-01-13T16:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-Tether: In few minutes Tether will coordinate with Huobi to perform a chain swap, converting from Ethereum ERC20 to Tron, for 400M USDt. The #tether total supply will not change during this process.
-Learn more about chain swaps ⬇️
- https://tether.to/explained-chain-swaps/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Tether 表示与 Huobi 进行链交换，从 ERC20 转换为 TRC 20，总数量为 4 亿 USDT。因此链上数据显示有近 4 亿美元从 Huobi 转入 Tether，随后转回。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613936372074835968</id>
-        <link href="https://twitter.com/wublockchain12/status/1613936372074835968"/>
-        <updated>2023-01-13T16:29:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Tether 表示与 Huobi 进行链交换，从 ERC20 转换为 TRC 20，总数量为 4 亿 USDT。因此链上数据显示有近 4 亿美元从 Huobi 转入 Tether，随后转回。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Only a couple hundred whitelist spots still open]]></title>
         <id>https://twitter.com/DeFi_educator/status/1613928917273919490</id>
         <link href="https://twitter.com/DeFi_educator/status/1613928917273919490"/>
@@ -458,16 +464,6 @@ If 2022 should have taught FinTwit anything, it's that you should remove ticker 
         <summary type="html"><![CDATA[Re @chipflare Solid portfolio]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假币合约数据研究：每日发行假币的占比在15%左右。假币团伙会通过刷量方式将假币的价格持续走高，以此吸引不知情用户。近几个月仅仅是关于 FIFA 的假币就有不下...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1613915339930349570</id>
-        <link href="https://twitter.com/wublockchain12/status/1613915339930349570"/>
-        <updated>2023-01-13T15:06:16.000Z</updated>
-        <summary type="html"><![CDATA[假币合约数据研究：每日发行假币的占比在15%左右。假币团伙会通过刷量方式将假币的价格持续走高，以此吸引不知情用户。近几个月仅仅是关于 FIFA 的假币就有不下于66个。假币创建者掌握着假币的最高权限，可以随时 mint 大量假币。@x_explore_cn 阅读更多： https://mirror.xyz/x-explore.eth/cfGWKy9D_dQR25VbSbYzP9dzRt-CTvPqYW68QUL99Os]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
