@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-17T18:17:01.491Z</id>
+    <id>urn:2023-01-17T19:11:11.094Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-17T18:17:01.491Z</updated>
+    <updated>2023-01-17T19:11:11.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊初创公司 Obol Labs 完成 1250 万美元 A 轮融资，Pantera Capital 和 Archetype 共同领投。该公司将在以太坊上构建去中心化验证器技术 (DVT)，目前已筹集...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1615374389339631616</id>
+        <link href="https://twitter.com/wublockchain12/status/1615374389339631616"/>
+        <updated>2023-01-17T15:44:01.000Z</updated>
+        <summary type="html"><![CDATA[以太坊初创公司 Obol Labs 完成 1250 万美元 A 轮融资，Pantera Capital 和 Archetype 共同领投。该公司将在以太坊上构建去中心化验证器技术 (DVT)，目前已筹集了总计 1900 万美元的资金。（CoinDesk） https://www.coindesk.com/tech/2023/01/17/ethereum-startup-obol-labs-raises-125m-to-decentralize-validators/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1615372301985550341</id>
@@ -271,18 +281,6 @@ The Empire State Manufacturing Survey plunged in January, with business activity
         <summary type="html"><![CDATA[Re 此外大宗交易者开始出现分歧，部分人仍继续买入看涨期权，但一些人认为涨势到此为止。
 
 Blofin Academy: 8/9. Many block traders still continue to buy call options, but some believe that the rally "stops here" and stands near the gamma line of defense. The above may mean that a new vol trigger may be forming, and high vol will be difficult to calm down in the short term.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 以看涨期权熊市价差策略为例（适合 IV 处于高位），在买入一手行权价的看涨期权的同时卖出一手行权价更低的看涨期权，两手期权到期时间相同，看跌期权熊市价...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1615287893504983041</id>
-        <link href="https://twitter.com/wublockchain12/status/1615287893504983041"/>
-        <updated>2023-01-17T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Re 以看涨期权熊市价差策略为例（适合 IV 处于高位），在买入一手行权价的看涨期权的同时卖出一手行权价更低的看涨期权，两手期权到期时间相同，看跌期权熊市价差策略同理。
-
-Blofin Academy: 4/5. The latest block trade records indicate that trading activity is much more active than one month ago. In ETH, while the sentiment is bullish, some traders are opening more bear spreads positions to deal with the potential recession.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
