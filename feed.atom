@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T18:16:26.688Z</id>
+    <id>urn:2023-01-18T19:11:16.319Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-18T18:16:26.688Z</updated>
+    <updated>2023-01-18T19:11:16.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国司法部宣布对俄罗斯交易所 Bitzlato 采取执法行动。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1615757914777747459</id>
+        <link href="https://twitter.com/wublockchain12/status/1615757914777747459"/>
+        <updated>2023-01-18T17:08:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国司法部宣布对俄罗斯交易所 Bitzlato 采取执法行动。 https://www.justice.gov/live]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于 Gemini Earn 当前面临流动性危机，MakerDAO 已开始对两项治理民意调查进行投票，旨在限制 DAI 稳定币对 Gemini 的敞口。当前 Maker 协议中的 GUSD 抵押品现...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1615739517469851648</id>
+        <link href="https://twitter.com/wublockchain12/status/1615739517469851648"/>
+        <updated>2023-01-18T15:54:54.000Z</updated>
+        <summary type="html"><![CDATA[由于 Gemini  Earn 当前面临流动性危机，MakerDAO 已开始对两项治理民意调查进行投票，旨在限制 DAI 稳定币对 Gemini 的敞口。当前 Maker 协议中的 GUSD 抵押品现在为 4.89 亿美元，而债务上限为 5 亿美元。（The Block） https://www.theblock.co/post/203307/makerdao-voting-to-limit-dai-exposure-to-gemini-amid-insolvency-fears?utm_source=rss&utm_medium=rss]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 吴说获悉，ConsenSys 在最新博客中证实此前的裁员报道，将裁员 96 名员工，占员工总数的 11%，以适应充满挑战和不确定的市场条件。ConsenSys 表示在减少运营...]]></title>
         <id>https://twitter.com/wublockchain12/status/1615736648515608576</id>
@@ -289,32 +309,6 @@ Here're the top 5 macro insights you need to know in 3 minutes.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Delphi Digital 团队宏观报告预测，美联储可能会延长其紧缩货币政策以避免 1970 年代的错误，加密货币不太可能脱离全球流动性趋势，上升趋势将在 2023...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1615650950236241921</id>
-        <link href="https://twitter.com/wublockchain12/status/1615650950236241921"/>
-        <updated>2023-01-18T10:02:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Delphi Digital 团队宏观报告预测，美联储可能会延长其紧缩货币政策以避免 1970 年代的错误，加密货币不太可能脱离全球流动性趋势，上升趋势将在 2023 年年中复苏，但风险偏好和投机只会在 2024-2025 年回归。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1615614671247282177</id>
-        <link href="https://twitter.com/wublockchain12/status/1615614671247282177"/>
-        <updated>2023-01-18T07:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-0xScope (🪬 . 🪬): 💰An anon wallet buys 6193.46 $RPL 10 minutes before #binance listing announcement and sells it 10 minutes after.
-It makes $55.4K in just 20 minutes.
-Address:
-
- https://www.watchers.pro/#/address/0x5f2c77082f222a51ca761eab1ce701f4f92347db]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Fiskantes “Cant tell if it’s the bottom unless I give it some time. Here’s my address..” “After years of uponly I can’t tell if bottom is in...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1615551241467076609</id>
         <link href="https://twitter.com/DeFi_educator/status/1615551241467076609"/>
@@ -387,8 +381,7 @@ U really think that genie’s going back in the bottle?]]></summary>
         <updated>2023-01-18T03:04:18.000Z</updated>
         <summary type="html"><![CDATA[Omg the CT macro bears who were agonizing over this 🤣
 
-Nick Timiraos: The Bank of Japan left its yield curve control policy unchanged.
- https://twitter.com/bank_of_japan_e/status/1615539502910689280]]></summary>
+Nick Timiraos: The Bank of Japan left its yield curve control policy unchanged.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
@@ -440,8 +433,7 @@ OTOH the @ethereum  L2 narrative is:
 * Fresh
 * Far easier to get your arms around; 
 * Close to a near certainty. 
-Time to get smart on @arbitrum anon.
- https://twitter.com/DeFiSurfer808/status/1556989817866567680]]></summary>
+Time to get smart on @arbitrum anon.]]></summary>
         <author>
             <name>DeFi Surfer 🫐,💎</name>
         </author>
