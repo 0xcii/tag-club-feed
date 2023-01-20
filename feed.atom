@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T07:12:37.690Z</id>
+    <id>urn:2023-01-20T08:18:06.292Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T07:12:37.690Z</updated>
+    <updated>2023-01-20T08:18:06.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Bybit CEO Ben Zhou 在推文中披露：Mirana 是 Bybit 的投资部门，只管理部分 Bybit 公司资产，与客户资金是分开的；Bybit earn 产品不使用 Mirana ；报告的 1...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1616324356388552705</id>
+        <link href="https://twitter.com/wublockchain12/status/1616324356388552705"/>
+        <updated>2023-01-20T06:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Re Bybit CEO Ben Zhou 在推文中披露：Mirana 是 Bybit 的投资部门，只管理部分 Bybit 公司资产，与客户资金是分开的；Bybit earn 产品不使用 Mirana ；报告的 1.51 亿有大约 1.2 亿美元的抵押头寸，Mirana 已经清算。
+
+Ben Zhou: Full disclosure: 
+1. Mirana is the investment arm of bybit. 
+2. Mirana only manage some bybit company asset. Client fund is separated snd bybit earn product doesn’t use mirana. 
+3. The reported 151m has abt 120m of collateralized positions which mirana had already liquidated.
+ https://twitter.com/hsakatrades/status/1616304720385122306]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新年真好 又可以给她发消息了]]></title>
         <id>https://twitter.com/8848Community/status/1616304739477782528</id>
@@ -14,6 +30,38 @@
 又可以给她发消息了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Gemini 表示，让 Genesis 破产的决定并不能使 Barry、DCG 和任何其他不法行为者免于承担责任，他们对欺诈行为负有责任，除非 Barry 和 DCG 恢复理智并向债权...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1616303702935232513</id>
+        <link href="https://twitter.com/wublockchain12/status/1616303702935232513"/>
+        <updated>2023-01-20T05:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Re Gemini 表示，让 Genesis 破产的决定并不能使 Barry、DCG 和任何其他不法行为者免于承担责任，他们对欺诈行为负有责任，除非 Barry 和 DCG 恢复理智并向债权人提出公平的要约，否则将立即对 Barry 和 DCG 提起诉讼。
+
+Cameron Winklevoss: 1/ Earn Update: This evening, Genesis Global Capital, LLC (Genesis) filed for bankruptcy under Chapter 11. This is a crucial step towards us being able to recover your assets.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 根据法院文件，最大债权人为 Gemini 平台借款人 7.65 亿美金；其次还包括 Bybit 旗下 Mirana 1.51 亿美金；贝宝金融 1.5 亿美金；Coincident Capital 1.1 亿...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1616299284596666372</id>
+        <link href="https://twitter.com/wublockchain12/status/1616299284596666372"/>
+        <updated>2023-01-20T04:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 根据法院文件，最大债权人为 Gemini 平台借款人 7.65 亿美金；其次还包括 Bybit 旗下 Mirana 1.51 亿美金；贝宝金融 1.5 亿美金；Coincident Capital 1.1 亿等。 https://restructuring.ra.kroll.com/genesis/Home-DocketInfo?DocAttribute=4564&DocAttrName=VOLUNTARYPETITIONS_Q&MenuID=9911&AttributeName=Voluntary%20Petitions]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Genesis Global Holdco, LLC 及其两家贷款业务子公司根据美国破产法第 11 章向纽约南区美国破产法院申请破产重组。Genesis 手头有超过 1.5 亿美元的现...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1616296952379117568</id>
+        <link href="https://twitter.com/wublockchain12/status/1616296952379117568"/>
+        <updated>2023-01-20T04:49:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Genesis Global Holdco, LLC 及其两家贷款业务子公司根据美国破产法第 11 章向纽约南区美国破产法院申请破产重组。Genesis 手头有超过 1.5 亿美元的现金支持重组工作。 https://www.businesswire.com/news/home/20230119005955/en/]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -219,16 +267,6 @@ We know this is past our initial estimate of January and we’re sorry for the d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，NFT 市场 Blur 将代币发布日期推迟至 2 月 14 日，第三阶段空投也将持续至当日。Blur 表示，代币发布延后原因是将要推出一个新产品。此前 Blur 宣布将...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616232985715691520</id>
-        <link href="https://twitter.com/wublockchain12/status/1616232985715691520"/>
-        <updated>2023-01-20T00:35:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，NFT 市场 Blur 将代币发布日期推迟至 2 月 14 日，第三阶段空投也将持续至当日。Blur 表示，代币发布延后原因是将要推出一个新产品。此前 Blur 宣布将于 1 月底推出 BLUR 代币。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Ethersole: This is becoming the new norm. If only a benevolent whale wouldn't mind providing more $GLP liquidity for us degens to MAX long... Feel ...]]></title>
         <id>https://twitter.com/ethersole/status/1616172051227906048</id>
         <link href="https://twitter.com/ethersole/status/1616172051227906048"/>
@@ -302,36 +340,6 @@ ZigZag 交易所｜官方中文: 我们已经清楚地听到了我们社区的
 🥳Testnet Wave 2 is coming soon! We’ll share more details next week, but here’s a sneak peak:]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616101240651513859</id>
-        <link href="https://twitter.com/wublockchain12/status/1616101240651513859"/>
-        <updated>2023-01-19T15:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据华尔街日报，FTX 的新任首席执行官 John J. Ray III 表示，正在研究恢复破产的加密货币交易所的可能性。他已经成立了一个工作组，以探讨重启公司主要交易所]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616101238411780098</id>
-        <link href="https://twitter.com/wublockchain12/status/1616101238411780098"/>
-        <updated>2023-01-19T15:52:15.000Z</updated>
-        <summary type="html"><![CDATA[据华尔街日报，FTX 的新任首席执行官 John J. Ray III 表示，正在研究恢复破产的加密货币交易所的可能性。他已经成立了一个工作组，以探讨重启公司主要交易所 http://FTX.com]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，加密存储项目 Chia Network 新任首席执行官 Hoffman 表示，尽管加密市场深度冻结，他仍计划最终公开募股（IPO），但该公司不打算在今年公开上市。Chia...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616093056209678337</id>
-        <link href="https://twitter.com/wublockchain12/status/1616093056209678337"/>
-        <updated>2023-01-19T15:19:44.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，加密存储项目 Chia Network 新任首席执行官 Hoffman 表示，尽管加密市场深度冻结，他仍计划最终公开募股（IPO），但该公司不打算在今年公开上市。Chia 在 2021 年的估值约为 5 亿美元，目前拥有约 80 名员工。 https://www.bloomberg.com/news/articles/2023-01-19/crypto-startup-chia-s-new-ceo-isn-t-giving-up-on-ipo-goals?utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&utm_content=crypto]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
