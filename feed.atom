@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T13:16:30.390Z</id>
+    <id>urn:2023-01-21T14:11:24.887Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T13:16:30.390Z</updated>
+    <updated>2023-01-21T14:11:24.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CryptoQuant 分析师 Dan Lim，最近比特币价格强劲反弹，已回归至 FTX 崩溃事件前的价格水平，但是比特币的未平仓合约和杠杆率却完全没有过热迹象，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1616772224429740032</id>
+        <link href="https://twitter.com/wublockchain12/status/1616772224429740032"/>
+        <updated>2023-01-21T12:18:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CryptoQuant 分析师 Dan Lim，最近比特币价格强劲反弹，已回归至 FTX 崩溃事件前的价格水平，但是比特币的未平仓合约和杠杆率却完全没有过热迹象，距离此前水平尚有距离，这说明市场氛围仍较为清淡，市场参与者的意愿不高。 https://cryptoquant.com/quicktake/63c9f98b710f9e4c6897a771-Crypto-market-in-2023]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[温馨提示：8848社区 年三十提供群友晚餐自助观赏 晚餐观赏时间：18点30分开始 今日份菜系如图 请大家自己认领观赏 晚班推荐：红牌晚班春晚土狗密码，下手要快，...]]></title>
         <id>https://twitter.com/8848Community/status/1616739093236551681</id>
@@ -450,20 +460,6 @@ Genesis破产主要是因为其在熊市盲目扩张+三箭/FTX的连续暴雷�
         <link href="https://twitter.com/wublockchain12/status/1616437260903419907"/>
         <updated>2023-01-20T14:07:29.000Z</updated>
         <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616401212668276741</id>
-        <link href="https://twitter.com/wublockchain12/status/1616401212668276741"/>
-        <updated>2023-01-20T11:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-PeckShieldAlert: #PeckShieldAlert Scammers are sending FTX 2.0 to FTX exchange, pretending to be the FTX exchange to add liquidity, and then airdropping to @justinsuntron, Kucoin, and Binance. They are tricking people into thinking it is the official FTX airdrop. Be alert!
-
- https://etherscan.io/token/0x0a835974ca6e9e6364393f1832777efa55abb682]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
