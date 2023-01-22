@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T19:10:23.889Z</id>
+    <id>urn:2023-01-22T20:13:19.147Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T19:10:23.889Z</updated>
+    <updated>2023-01-22T20:13:19.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xfoobar Lol you got that right]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1617238306822946818</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1617238306822946818"/>
+        <updated>2023-01-22T19:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xfoobar Lol you got that right]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xfoobar Seems like he’s moved on to chase the next hype cycle - emerging markets]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617236262821191680</id>
@@ -539,16 +549,6 @@ with this, SEC declares war on pretty much all governance tokens
         <link href="https://twitter.com/DeFiSurfer808/status/1616943627288342528"/>
         <updated>2023-01-21T23:39:36.000Z</updated>
         <summary type="html"><![CDATA[Re @brockm They’re more likely to RE engage QE]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CryptoPlainview Lol bruh]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1616941373571354624</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1616941373571354624"/>
-        <updated>2023-01-21T23:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @CryptoPlainview Lol bruh]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
