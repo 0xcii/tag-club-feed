@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1617028650385432582",
+          "author": "吴说区块链",
+          "description": "Re 该开发者表示，此漏洞在去年 12 月时发现，但是在提交错误报告后被 Uniswap 安全研究人员否决。 https://jeiwan.net/posts/public-bug-report-uniswap-swaprouter/",
+          "link": "https://twitter.com/wublockchain12/status/1617028650385432582",
+          "publishedOn": "2023-01-22T05:17:27.000Z",
+          "wordCount": 470,
+          "title": "Re 该开发者表示，此漏洞在去年 12 月时发现，但是在提交错误报告后被 Uniswap 安全研究人员否决。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1617028648204390402",
+          "author": "吴说区块链",
+          "description": "吴说获悉，开发者 @jeiwan7 在 Uniswap 核心合约 SwapRouter 中发现了一个 bug，在交易中未被花费的 ETH 将保留在 SwapRouter 合约中，而不会退还。此外，SwapRouter 允许任何人从合约中提取 ETH，它可能是 MEV 机器人或者任何在交易后调用 refundETH 的人。",
+          "link": "https://twitter.com/wublockchain12/status/1617028648204390402",
+          "publishedOn": "2023-01-22T05:17:27.000Z",
+          "wordCount": 470,
+          "title": "吴说获悉，开发者 @jeiwan7 在 Uniswap 核心合约 SwapRouter 中发现了一个 bug，在交易中未被花费的 ETH 将保留在 SwapRouter 合约中，而不会退还。此外，SwapRo...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1617019860453855232",
           "author": "吴说区块链",
           "description": "一周热门项目动态: Aave 推出 V3，Sushi 公布 2023 年路线图，Polygon PoS 完成硬分叉升级 等（0116-0122） https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=10992",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-01-21T01:08:31.000Z",
           "wordCount": 470,
           "title": "周五，信用评级巨头穆迪下调了 Coinbase (COIN) 的长期信用评级及其有担保的高级无抵押票据，理由是“收入和现金流产生能力大幅减弱”，已从 Ba3 下调至 B2，均...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1616601716350398464",
-          "author": "吴说区块链",
-          "description": "Re Grayscale、DCG、Genesis 跟三箭事实上这就已经形成了共谋；Zhu Su 的爆料可能让监管当局如获至宝，影响后续的走向。阅读全文： https://mp.weixin.qq.com/s/NVlK2b9tUGo0YuXNLhvJ7g",
-          "link": "https://twitter.com/wublockchain12/status/1616601716350398464",
-          "publishedOn": "2023-01-21T01:00:58.000Z",
-          "wordCount": 470,
-          "title": "Re Grayscale、DCG、Genesis 跟三箭事实上这就已经形成了共谋；Zhu Su 的爆料可能让监管当局如获至宝，影响后续的走向。阅读全文：",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1616601689959854081",
-          "author": "吴说区块链",
-          "description": "深度讨论：Genesis 申请破产重组 DCG 会暴雷吗？对行业影响几何？专家们认为：DCG 希望延迟到牛市，更容易解决问题；中心化借贷平台的普遍暴雷，说明行业存在一些共性问题，贷款时并没有完全遵守金融审慎原则；各方其实是在争夺现金奶牛灰度的所有权以及它的收益分配权。",
-          "link": "https://twitter.com/wublockchain12/status/1616601689959854081",
-          "publishedOn": "2023-01-21T01:00:52.000Z",
-          "wordCount": 470,
-          "title": "深度讨论：Genesis 申请破产重组 DCG 会暴雷吗？对行业影响几何？专家们认为：DCG 希望延迟到牛市，更容易解决问题；中心化借贷平台的普遍暴雷，说明行业存在一...",
           "imageUrl": null
         }
       ]
