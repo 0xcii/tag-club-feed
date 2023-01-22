@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T12:24:09.062Z</id>
+    <id>urn:2023-01-22T13:16:46.135Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T12:24:09.062Z</updated>
+    <updated>2023-01-22T13:16:46.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[纽约时报特稿：过去一年大量加密货币和金融科技行业的中国企业家寻求前往新加坡；派网创始人陈勇表示，新加坡不会在法律框架之外打击一家公司或一个行业，政策更...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617106580021080068</id>
+        <link href="https://twitter.com/wublockchain12/status/1617106580021080068"/>
+        <updated>2023-01-22T10:27:07.000Z</updated>
+        <summary type="html"><![CDATA[纽约时报特稿：过去一年大量加密货币和金融科技行业的中国企业家寻求前往新加坡；派网创始人陈勇表示，新加坡不会在法律框架之外打击一家公司或一个行业，政策更有连续性。他表示不会搬去香港，对香港能将其加密货币政策与北京的分开表示怀疑，香港没有吸引力。阅读全文： https://cn.nytimes.com/china/20230120/china-singapore-immigration-entrepreneurs/zh-hant/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跨链订单部dex @MESprotocol 测试网，新年闲着可做几个 教程如下文]]></title>
         <id>https://twitter.com/8848Community/status/1617105432648224774</id>
@@ -624,16 +634,6 @@ Interesting comments from Orlando Bravo]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1616726948142804992"/>
         <updated>2023-01-21T09:18:36.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Aptos 代币 APT 24小时上涨了 56%，达到12美金，距离去年12月最低3美金已经上涨了400%；Solana 代币 SOL 24小时上涨了20%，达到25美金，总市值重新来到加密货币TOP10。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Paxos 准备将高达 15 亿美元的 USDP 稳定币存入存入 MakerDAO，也就是 Maker 的挂钩稳定模块 (PSM)，该模块持有支持其 DAI 稳定币的储备，并允许与 US...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616665087938564097</id>
-        <link href="https://twitter.com/wublockchain12/status/1616665087938564097"/>
-        <updated>2023-01-21T05:12:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Paxos 准备将高达 15 亿美元的 USDP 稳定币存入存入 MakerDAO，也就是 Maker 的挂钩稳定模块 (PSM)，该模块持有支持其 DAI 稳定币的储备，并允许与 USDC 和 GUSD 等其他稳定币进行免费互换。 https://thedefiant.io/paxos-proposes-1-5b-deposit-makerdao]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
