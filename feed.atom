@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T05:12:19.116Z</id>
+    <id>urn:2023-01-22T06:16:23.196Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T05:12:19.116Z</updated>
+    <updated>2023-01-22T06:16:23.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: Aave 推出 V3，Sushi 公布 2023 年路线图，Polygon PoS 完成硬分叉升级 等（0116-0122）]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617019860453855232</id>
+        <link href="https://twitter.com/wublockchain12/status/1617019860453855232"/>
+        <updated>2023-01-22T04:42:32.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: Aave 推出 V3，Sushi 公布 2023 年路线图，Polygon PoS 完成硬分叉升级 等（0116-0122） https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=10992]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @liangxied 太直白了. 你就说你后面赚到大的十倍空投.]]></title>
         <id>https://twitter.com/AntCaveClub/status/1617000051255152640</id>
@@ -589,16 +599,6 @@ Interesting comments from Orlando Bravo]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1616601689959854081"/>
         <updated>2023-01-21T01:00:52.000Z</updated>
         <summary type="html"><![CDATA[深度讨论：Genesis 申请破产重组 DCG 会暴雷吗？对行业影响几何？专家们认为：DCG 希望延迟到牛市，更容易解决问题；中心化借贷平台的普遍暴雷，说明行业存在一些共性问题，贷款时并没有完全遵守金融审慎原则；各方其实是在争夺现金奶牛灰度的所有权以及它的收益分配权。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Vitalik 新文章指出，以太坊剩下的最大挑战之一是隐私，本文提出了使用椭圆曲线密码术的隐蔽地址，发送到秘密地址后扫描链上的 ephem 公钥，钱包会自...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1616600450396225537</id>
-        <link href="https://twitter.com/wublockchain12/status/1616600450396225537"/>
-        <updated>2023-01-21T00:55:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Vitalik 新文章指出，以太坊剩下的最大挑战之一是隐私，本文提出了使用椭圆曲线密码术的隐蔽地址，发送到秘密地址后扫描链上的 ephem 公钥，钱包会自动发现该地址；但也存在一些问题，例如社交恢复钱包使用的困难，长远来看严重依赖于零知识证明。阅读全文： https://vitalik.eth.limo/general/2023/01/20/stealth.html]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
