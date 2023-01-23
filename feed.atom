@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T07:12:36.745Z</id>
+    <id>urn:2023-01-23T08:18:09.434Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T07:12:36.745Z</updated>
+    <updated>2023-01-23T08:18:09.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -253,6 +253,18 @@ Doesn’t really touch on china and Japan liquidity dynamics as well as Fed drai
 CONCODA (conks) 🥷🔥🦅: Awash with capital and tired of losing money elsewhere, speculators have started piling into options that expire on the same day, known informally as "0DTE". These same-day expiries now make up a whopping 40-60% of daily options volumes. What could go wrong? A lot, it seems...]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Westie 🟪: Aptos is now the largest alt-L1 by FDV at $14B. The only token on the chain you're able to buy with sufficient liquidity (that isn't a...]]></title>
+        <id>https://twitter.com/WestieCapital/status/1617252767101247489</id>
+        <link href="https://twitter.com/WestieCapital/status/1617252767101247489"/>
+        <updated>2023-01-22T20:08:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Westie 🟪
+Aptos is now the largest alt-L1 by FDV at $14B.
+The only token on the chain you're able to buy with sufficient liquidity (that isn't a dog coin) is a launchpad that's only ever launched its own token.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1379,21 +1391,6 @@ We're launching our meta DEX aggregator!
 - Private mode to avoid leaking your IP
 - Approval control
 - Available in 22 chains]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hal Press: Think there are three main sources of technical selling right now. 1. Tax loss harvesting 2. Fund redemptions 3. Window dressing Will el...]]></title>
-        <id>https://twitter.com/NorthRockLP/status/1608187704600334337</id>
-        <link href="https://twitter.com/NorthRockLP/status/1608187704600334337"/>
-        <updated>2022-12-28T19:46:42.000Z</updated>
-        <summary type="html"><![CDATA[RT Hal Press
-Think there are three main sources of technical selling right now.
-1. Tax loss harvesting 
-2. Fund redemptions
-3. Window dressing
-Will elaborate on each below.]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
