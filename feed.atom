@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T11:11:14.406Z</id>
+    <id>urn:2023-01-24T12:28:21.736Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T11:11:14.406Z</updated>
+    <updated>2023-01-24T12:28:21.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 阅读全文：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617832368118829056</id>
+        <link href="https://twitter.com/wublockchain12/status/1617832368118829056"/>
+        <updated>2023-01-24T10:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 阅读全文： https://foresightnews.pro/article/detail/23929]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik《隐身地址不完全指南》（翻译：Karen Foresight News）：当前隐身地址可以被快速实施，并且可以显著提高以太坊用户的隐私，但也可能会带来如社交钱包恢...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617832366369804288</id>
+        <link href="https://twitter.com/wublockchain12/status/1617832366369804288"/>
+        <updated>2023-01-24T10:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik《隐身地址不完全指南》（翻译：Karen Foresight News）：当前隐身地址可以被快速实施，并且可以显著提高以太坊用户的隐私，但也可能会带来如社交钱包恢复困难等可用性问题，长远来看这些问题是可以解决的，不过隐身地址生态系统看起来确实严重依赖于零知识证明。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617826016298401793</id>
+        <link href="https://twitter.com/wublockchain12/status/1617826016298401793"/>
+        <updated>2023-01-24T10:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Pudgy Penguins: With soulTransport, clubs and individuals will be able to issue SBTs and reward participation to grow the Pudgy Ecosystem.
+soulTransport will begin with a limited amount of individuals and clubs, but as we test use cases, soulTransport will become accessible to all.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Pudgy Penguins （胖企鹅）推出 soulTransport 协议，以允许子社区分发 SBT 奖励社区成员并吸引新成员。目前仅针对部分个人和社区开放，此后将扩大范...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617826014452932610</id>
+        <link href="https://twitter.com/wublockchain12/status/1617826014452932610"/>
+        <updated>2023-01-24T10:05:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Pudgy Penguins （胖企鹅）推出 soulTransport 协议，以允许子社区分发 SBT 奖励社区成员并吸引新成员。目前仅针对部分个人和社区开放，此后将扩大范围。此前 Pudgy Penguins 于 2022 年推出 truePengu、penguPins 等 SBT。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617819045088333825</id>
+        <link href="https://twitter.com/wublockchain12/status/1617819045088333825"/>
+        <updated>2023-01-24T09:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/CoinbaseAssets]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Audius (AUDIO) 添加至路线图资产。Coinbase 还将于 2 月 7 日停止 NU 和 KEEP 的交易，同时于 1 月 26 日上线 T。2021 年底，NuCyph...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617819043242840065</id>
+        <link href="https://twitter.com/wublockchain12/status/1617819043242840065"/>
+        <updated>2023-01-24T09:38:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Audius (AUDIO) 添加至路线图资产。Coinbase 还将于 2 月 7 日停止 NU 和 KEEP 的交易，同时于 1 月 26 日上线 T。2021 年底，NuCypher (NU) 和 Keep Network (KEEP)  开始合并为 Threshold (T)。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据纽约邮报，SBF 在华盛顿特区的联排别墅以 328 万美元的价格寻求出售，这是其一系列房产之一。此前检察官已没收 SBF 价值 6.97 亿美元资产，包括 Robinhood 股...]]></title>
         <id>https://twitter.com/wublockchain12/status/1617787386091692034</id>
@@ -327,16 +390,6 @@ The irony here is that their support of Bitcoin as a foundation for next-gen fin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，美国联邦调查局（FBI）发文称，经过其调查，确认与朝鲜有关联的网络攻击者 Lazarus Group 和 APT38 应对 2022 年 6 月 24 日报道的从 Harmony 的 H...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617676866072244224</id>
-        <link href="https://twitter.com/wublockchain12/status/1617676866072244224"/>
-        <updated>2023-01-24T00:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，美国联邦调查局（FBI）发文称，经过其调查，确认与朝鲜有关联的网络攻击者 Lazarus Group 和 APT38 应对 2022 年 6 月 24 日报道的从 Harmony 的 Horizo​​n Bridge 盗窃 1 亿美元的加密货币负责。 https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-apt38-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kind of wild that $GMX is the cheapest asset I own on current earnings aside from a tiny mid-cap consumer finance company that trades at a 5x P/E.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617676111189803009</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1617676111189803009"/>
@@ -416,60 +469,6 @@ GNS is a great protocol but why is more OI on GMX?]]></summary>
         <summary type="html"><![CDATA[Re @ActuallyFinance No. The best stuff bounces the hardest]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，数字资产投资产品上周流入 3700 万美元，主要是流入空头投资产品 (68%)。流入美国的 95% 资金流入了空头比特币产品，香港出现了多头投资产品（1100 万...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617541404791803905</id>
-        <link href="https://twitter.com/wublockchain12/status/1617541404791803905"/>
-        <updated>2023-01-23T15:14:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，数字资产投资产品上周流入 3700 万美元，主要是流入空头投资产品 (68%)。流入美国的 95% 资金流入了空头比特币产品，香港出现了多头投资产品（1100 万美元）的资金流出，显示机构意见两极分化。 https://blog.coinshares.com/volume-115-digital-asset-fund-flows-weekly-report-c7cd25f806ea]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617539984327872512</id>
-        <link href="https://twitter.com/wublockchain12/status/1617539984327872512"/>
-        <updated>2023-01-23T15:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-MistTrack🕵️: 🚨New Updates on the Harmony Bridge Hack 🚨
- On June 23rd of 2022, the Harmony bridge fell victim to a devastating attack that resulted in a loss of approximately $100 million.
- https://twitter.com/MistTrack_io/status/1615028815259918338]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据慢雾，朝鲜黑客组织 The Lazarus Group 涉嫌对 Harmony 桥攻击负责，并将资金转移到多个交易所，涉及 1 亿美金，其中跨链路径如下：Bitcoin network...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617539950756655104</id>
-        <link href="https://twitter.com/wublockchain12/status/1617539950756655104"/>
-        <updated>2023-01-23T15:09:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据慢雾，朝鲜黑客组织 The Lazarus Group 涉嫌对 Harmony 桥攻击负责，并将资金转移到多个交易所，涉及 1 亿美金，其中跨链路径如下：Bitcoin network - Avalanche Bridge-> Avalanche network - Avalanche Bridge -> Ethereum Network - BitTorrent -> Tron Network.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617538662811729921</id>
-        <link href="https://twitter.com/wublockchain12/status/1617538662811729921"/>
-        <updated>2023-01-23T15:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/01/23/web3-social-wallet-tribes-launches-with-33m-in-funding/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tribes 是一款新推出的 Web3 原生消息传递和群组钱包应用程序，在由 Kindred Ventures、South Park Commons 和 Script Capital 领投的种子轮融资中筹集了 330 万...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617538608088612864</id>
-        <link href="https://twitter.com/wublockchain12/status/1617538608088612864"/>
-        <updated>2023-01-23T15:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Tribes 是一款新推出的 Web3 原生消息传递和群组钱包应用程序，在由 Kindred Ventures、South Park Commons 和 Script Capital 领投的种子轮融资中筹集了 330 万美元。Tribes 群组钱包让人们共同拥有和管理数字资产。创始人之前是 Coinbase 的工程师，负责开发交易所的钱包产品。（CoinDesk）]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
