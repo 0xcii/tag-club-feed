@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T01:11:26.276Z</id>
+    <id>urn:2023-01-24T02:37:06.039Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T01:11:26.276Z</updated>
+    <updated>2023-01-24T02:37:06.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，汽车制造商保时捷于 1 月 23 日发行 NFT 系列 PORSCHΞ 911，总量 7500 个，Mint 价格 0.911 ETH。目前仅 Mint 1242 枚，且 Opensea 地板价一度跌至 0...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617697875554897920</id>
+        <link href="https://twitter.com/wublockchain12/status/1617697875554897920"/>
+        <updated>2023-01-24T01:36:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，汽车制造商保时捷于 1 月 23 日发行 NFT 系列 PORSCHΞ 911，总量 7500 个，Mint 价格 0.911 ETH。目前仅 Mint 1242 枚，且 Opensea 地板价一度跌至 0.87 ETH。 https://nft.porsche.com/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @SkeleCap Best views in Tahoe]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617691415135518725</id>
@@ -27,6 +37,26 @@ Ansem🦋: think there are going to be some great defi/eth pairs this year, si
  https://twitter.com/conzimp/status/1616546281740029965]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 非活跃地址是指在 2020 年 7 月至 2022 年 6 月期间参与了初始分配阶段，且从未进行过转出交易，这些地址可在投票结束前进行任何交易以避免被暂时冻结。（The...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617688863270670336</id>
+        <link href="https://twitter.com/wublockchain12/status/1617688863270670336"/>
+        <updated>2023-01-24T01:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 非活跃地址是指在 2020 年 7 月至 2022 年 6 月期间参与了初始分配阶段，且从未进行过转出交易，这些地址可在投票结束前进行任何交易以避免被暂时冻结。（The Block） https://www.theblock.co/post/204554/ton-validators-set-to-vote-on-suspending-2-5-billion-in-toncoin?utm_source=rss&utm_medium=rss]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TON 的验证者正在考虑暂时冻结 195 个非活跃地址，投票将于 2 月 21 日开始。目前这些地址持有 10 亿枚 TON，占总供应量的 21.3%，约合 25 亿美元。若投票获得通...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617688861244821507</id>
+        <link href="https://twitter.com/wublockchain12/status/1617688861244821507"/>
+        <updated>2023-01-24T01:00:54.000Z</updated>
+        <summary type="html"><![CDATA[TON 的验证者正在考虑暂时冻结 195 个非活跃地址，投票将于 2 月 21 日开始。目前这些地址持有 10 亿枚 TON，占总供应量的 21.3%，约合 25 亿美元。若投票获得通过，则受影响地址在 4 年内无法进行任何交易。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +107,26 @@ The irony here is that their support of Bitcoin as a foundation for next-gen fin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617682496992464896</id>
+        <link href="https://twitter.com/wublockchain12/status/1617682496992464896"/>
+        <updated>2023-01-24T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/204855/wormhole-exploiter-converts-150-million-in-eth-to-staked-assets-and-levers-up?utm_source=rss&utm_medium=rss]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wormhole 攻击者正在将盗取的 95,630 枚 ETH（约合 1.572 亿美元） 通过 DEX 聚合器 OpenOcean 转换为 stETH。然后 stETH 又被转换为 wstETH，并将 wstETH 作为...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617682494836600832</id>
+        <link href="https://twitter.com/wublockchain12/status/1617682494836600832"/>
+        <updated>2023-01-24T00:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Wormhole 攻击者正在将盗取的 95,630 枚 ETH（约合 1.572 亿美元） 通过 DEX 聚合器 OpenOcean 转换为 stETH。然后 stETH 又被转换为 wstETH，并将 wstETH 作为抵押品贷出 1300 万美元的 DAI，用于通过 KyberNetwork 购买大约 7,989.5 ETH。此后黑客又不断重复该过程以杠杆做多 ETH。（The Block）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @akispersevering Probably because crypto investors don’t care about earnings. Eg ada trades at $10B market cap for who knows why]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617682397239341057</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1617682397239341057"/>
@@ -94,6 +144,36 @@ The irony here is that their support of Bitcoin as a foundation for next-gen fin
         <summary type="html"><![CDATA[Re @fillthenshill $omf. Kind of hairy consumer lender with sky high return on tangible equity because it addresses low income]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据彭博社报道，破产的加密借贷机构 BlockFi 计划出售由 6.8 万台比特币矿机支持的贷款，约 1.6 亿美元。知情人士表示，鉴于比特币矿机的当前价格，部分贷款已经...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617680412716957696</id>
+        <link href="https://twitter.com/wublockchain12/status/1617680412716957696"/>
+        <updated>2023-01-24T00:27:20.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社报道，破产的加密借贷机构 BlockFi 计划出售由 6.8 万台比特币矿机支持的贷款，约 1.6 亿美元。知情人士表示，鉴于比特币矿机的当前价格，部分贷款已经违约且存在抵押不足。 https://www.bloomberg.com/news/articles/2023-01-23/bankrupt-lender-blockfi-to-sell-bitcoin-mining-backed-loans]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 The Information 报道，加密交易所 Gemini 裁员 10% 的员工，其创始人兼总裁 Cameron Winklevoss 向其员工表示“糟糕的宏观经济状况和加密行业前所未有的欺诈...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617679400572706816</id>
+        <link href="https://twitter.com/wublockchain12/status/1617679400572706816"/>
+        <updated>2023-01-24T00:23:18.000Z</updated>
+        <summary type="html"><![CDATA[据 The Information 报道，加密交易所 Gemini 裁员 10% 的员工，其创始人兼总裁 Cameron Winklevoss 向其员工表示“糟糕的宏观经济状况和加密行业前所未有的欺诈迫使该公司裁员”。此前 Gemini 已在 2022 年 6 月和 7 月分别裁员 100 人和 68 人。 https://www.theinformation.com/articles/gemini-is-laying-off-10-of-staff-marking-latest-blow-for-winklevoss-crypto-startup]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，美国联邦调查局（FBI）发文称，经过其调查，确认与朝鲜有关联的网络攻击者 Lazarus Group 和 APT38 应对 2022 年 6 月 24 日报道的从 Harmony 的 H...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617676866072244224</id>
+        <link href="https://twitter.com/wublockchain12/status/1617676866072244224"/>
+        <updated>2023-01-24T00:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，美国联邦调查局（FBI）发文称，经过其调查，确认与朝鲜有关联的网络攻击者 Lazarus Group 和 APT38 应对 2022 年 6 月 24 日报道的从 Harmony 的 Horizo​​n Bridge 盗窃 1 亿美元的加密货币负责。 https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-apt38-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -360,89 +440,6 @@ Beware of fake addresses, links and tokens. Only use the above address and be vi
         <link href="https://twitter.com/wublockchain12/status/1617488776024186880"/>
         <updated>2023-01-23T11:45:50.000Z</updated>
         <summary type="html"><![CDATA[区块链基础设施公司 Calimero Network 在种子轮获 850 万美元融资，用于专注构建私有分片基础设施，使能够在开源区块链的同时保护敏感数据。该轮融资由 Khosla Ventures，Lyrik Ventures 和 Near foundation 共同领投。（The Block) https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿联酋外贸部长Thani bin Ahmed Al-Zeyoudi 在瑞士达沃斯论坛强调全球治理对加密行业的重要性，并表示加密货币将在阿联酋未来的贸易中发挥重要作用，阿联酋正通...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617480609898852355</id>
-        <link href="https://twitter.com/wublockchain12/status/1617480609898852355"/>
-        <updated>2023-01-23T11:13:23.000Z</updated>
-        <summary type="html"><![CDATA[阿联酋外贸部长Thani bin Ahmed Al-Zeyoudi 在瑞士达沃斯论坛强调全球治理对加密行业的重要性，并表示加密货币将在阿联酋未来的贸易中发挥重要作用，阿联酋正通过加密友好政策吸引企业共同建立正确的治理和法律体系。（彭博社） https://www.bloomberg.com/news/articles/2023-01-20/uae-india-in-early-talks-to-settle-non-oil-trade-in-rupees?leadSource=uverify%20wall]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉， 由 0xPlasma Labs 于上个月在 Uniswap 社区发起的“在 BNB Chain 上部署 Uniswap V3”的提案，现已通过。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617476462604587008</id>
-        <link href="https://twitter.com/wublockchain12/status/1617476462604587008"/>
-        <updated>2023-01-23T10:56:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉， 由 0xPlasma Labs 于上个月在 Uniswap 社区发起的“在 BNB Chain 上部署 Uniswap V3”的提案，现已通过。 https://snapshot.org/#/uniswap/proposal/0xa3c7247632d3a08e4e73a63867908d0cd4402f48fa673945f93e3197dee5450a]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，随着 NFT 和游戏 Dapp 的流行，DeFi 的主导地位下降，DeFi Dapp 在头部区块链 Dapp 占比由 2021 年的 50-91% 降至 39-56% 。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617451792182415362</id>
-        <link href="https://twitter.com/wublockchain12/status/1617451792182415362"/>
-        <updated>2023-01-23T09:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，随着 NFT 和游戏 Dapp 的流行，DeFi 的主导地位下降，DeFi Dapp 在头部区块链 Dapp 占比由 2021 年的 50-91% 降至 39-56%  。 https://dappradar.com/blog/blockchain-and-dapp-adoption-report-2022]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DappRadar 报告，以太坊和 Cardano 是 2022 年开发人员最活跃的区块链；2022 年 NFT 交易量增长 67.57% 达到 1.01 亿笔，以太坊在 NFT 交易中占据...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617451751728377856</id>
-        <link href="https://twitter.com/wublockchain12/status/1617451751728377856"/>
-        <updated>2023-01-23T09:18:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DappRadar 报告，以太坊和 Cardano 是 2022 年开发人员最活跃的区块链；2022 年 NFT 交易量增长 67.57% 达到 1.01 亿笔，以太坊在 NFT 交易中占据主导地位，Wax 位居第二；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re BAYC 巨鲸 Franklin 因为该 OpenSea 漏洞在一周内第二次购买到被标记拉黑的 BAYC，目前 OpenSea 暂未对此回复和解决。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617344691917443072</id>
-        <link href="https://twitter.com/wublockchain12/status/1617344691917443072"/>
-        <updated>2023-01-23T02:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Re BAYC 巨鲸 Franklin 因为该 OpenSea 漏洞在一周内第二次购买到被标记拉黑的 BAYC，目前 OpenSea 暂未对此回复和解决。
-
-Cos(余弦)😶‍🌫️: 被 OpenSea 标记拉黑的 NFT，黑客可以通过 OpenSea Seaport 协议的 matchAdvancedOrders 函数完成售卖。这样就绕过了 OpenSea 的安全策略（拉黑不可售卖），不过这里需要有买家 bid 了 offer。
-黑客真聪明…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，SlowMist 创始人余弦表示，被 OpenSea 标记拉黑的 NFT，黑客可以通过 OpenSea Seaport 协议的 matchAdvancedOrders 函数完成售卖，这样可以绕过 OpenS...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617344658862149634</id>
-        <link href="https://twitter.com/wublockchain12/status/1617344658862149634"/>
-        <updated>2023-01-23T02:13:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，SlowMist 创始人余弦表示，被 OpenSea 标记拉黑的 NFT，黑客可以通过 OpenSea Seaport 协议的 matchAdvancedOrders 函数完成售卖，这样可以绕过 OpenSea 的安全策略（拉黑不可售卖），但前提是需要有买家报价。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re RON 代币将于 1 月 27 日 08:00 解锁约 4293 万枚（约合 2425 万美元），约占总供应量的 4.293%；IMX 代币将于 1 月 28 日 18:00 解锁约 1807 万枚（约合 121...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617339250357448705</id>
-        <link href="https://twitter.com/wublockchain12/status/1617339250357448705"/>
-        <updated>2023-01-23T01:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Re RON 代币将于 1 月 27 日 08:00 解锁约 4293 万枚（约合 2425 万美元），约占总供应量的 4.293%；IMX 代币将于 1 月 28 日 18:00 解锁约 1807 万枚（约合 1217 万美元），约占总供应量的 0.904%。 https://token.unlocks.app/?category=all]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token Unlocks 数据显示，本周将有 AXS、ACA、GAL、RON、YGG、IMX 代币解锁。其中，AXS 代币 1 月 23 日 21:10 解锁约 489 万枚（约合 6318 万美元），占总供应...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617339206900277249</id>
-        <link href="https://twitter.com/wublockchain12/status/1617339206900277249"/>
-        <updated>2023-01-23T01:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Token Unlocks 数据显示，本周将有 AXS、ACA、GAL、RON、YGG、IMX 代币解锁。其中，AXS 代币 1 月 23 日 21:10 解锁约 489 万枚（约合 6318 万美元），占总供应量的 1.812%；]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
