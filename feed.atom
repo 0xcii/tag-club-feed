@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T15:14:12.388Z</id>
+    <id>urn:2023-01-24T16:19:00.517Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T15:14:12.388Z</updated>
+    <updated>2023-01-24T16:19:00.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[盘点首批获得 Sui 基金会资助的 12 个项目（作者：Odaily 星球日报，十文）：这些项目将获得 Sui 基金会开发者资助的 2 万美元到 7.5 万美元，包括去中心化的无...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617916531446550531</id>
+        <link href="https://twitter.com/wublockchain12/status/1617916531446550531"/>
+        <updated>2023-01-24T16:05:35.000Z</updated>
+        <summary type="html"><![CDATA[盘点首批获得 Sui 基金会资助的 12 个项目（作者：Odaily 星球日报，十文）：这些项目将获得 Sui 基金会开发者资助的 2 万美元到 7.5 万美元，包括去中心化的无代码平台 Dappium、Move 语言包管理器 Movey、NFT 市场生态系统 Keepsake、高级债券协议 Scallop 等。 https://www.odaily.news/post/5184662]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.@Srasgon with the big downgrade of fan favorite $amd 😑]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617902457308475393</id>
@@ -328,16 +338,6 @@ Mint NFTs:
  https://gov.moonwell.fi https://galxe.com/Moonwell]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 管理应用程序 Floor 收购 NFT 数据平台]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617728579881820161</id>
-        <link href="https://twitter.com/wublockchain12/status/1617728579881820161"/>
-        <updated>2023-01-24T03:38:44.000Z</updated>
-        <summary type="html"><![CDATA[NFT 管理应用程序 Floor 收购 NFT 数据平台 http://WGMI.io https://www.coindesk.com/web3/2023/01/24/nft-management-application-floor-acquires-data-platform-wgmiio/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
