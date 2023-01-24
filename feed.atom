@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T09:13:32.901Z</id>
+    <id>urn:2023-01-24T10:14:32.384Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T09:13:32.901Z</updated>
+    <updated>2023-01-24T10:14:32.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据纽约邮报，SBF 在华盛顿特区的联排别墅以 328 万美元的价格寻求出售，这是其一系列房产之一。此前检察官已没收 SBF 价值 6.97 亿美元资产，包括 Robinhood 股...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1617787386091692034</id>
+        <link href="https://twitter.com/wublockchain12/status/1617787386091692034"/>
+        <updated>2023-01-24T07:32:24.000Z</updated>
+        <summary type="html"><![CDATA[据纽约邮报，SBF 在华盛顿特区的联排别墅以 328 万美元的价格寻求出售，这是其一系列房产之一。此前检察官已没收 SBF 价值 6.97 亿美元资产，包括 Robinhood 股票和在 Moonstone 银行账户中的 5000 万美元等。 https://nypost.com/2023/01/23/sam-bankman-fried-lists-dc-house-for-3-28m/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerZero 的 Omnichain Tokens (OFTs) 协议，2月份开测试，先记一下]]></title>
         <id>https://twitter.com/8848Community/status/1617780239916240900</id>
@@ -474,16 +484,6 @@ Token Address 👇
 Beware of fake addresses, links and tokens. Only use the above address and be vigilant during this time 🚨]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，ENS DAO 工作组今年第一与第二季度的预算草案已经发布。快照投票将于本周上线。元治理工作组要求 364,000 USDC、125 ETH 和 3,500 ENS；公共产品工作...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617536474697850882</id>
-        <link href="https://twitter.com/wublockchain12/status/1617536474697850882"/>
-        <updated>2023-01-23T14:55:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，ENS DAO 工作组今年第一与第二季度的预算草案已经发布。快照投票将于本周上线。元治理工作组要求 364,000 USDC、125 ETH 和 3,500 ENS；公共产品工作组要求 250,000 USDC 和 50 ETH；ENS 生态系统工作组要求 935,000 USDC 和 254 ETH。 https://discuss.ens.domains/tag/workinggroup-funding]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
