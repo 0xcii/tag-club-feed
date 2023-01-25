@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T06:17:12.637Z</id>
+    <id>urn:2023-01-25T07:17:23.265Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-25T06:17:12.637Z</updated>
+    <updated>2023-01-25T07:17:23.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安现货推出 API 自成交预防（STP）功能，上线时间为 2023 年 01 月 26 日 16:00。STP 是自选功能，且仅能通过 API 使用，网页端、移动端和桌面端用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618135611751411713</id>
+        <link href="https://twitter.com/wublockchain12/status/1618135611751411713"/>
+        <updated>2023-01-25T06:36:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安现货推出 API 自成交预防（STP）功能，上线时间为 2023 年 01 月 26 日 16:00。STP 是自选功能，且仅能通过 API 使用，网页端、移动端和桌面端用户不会受到影响。 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=11048]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[检察官从 SBF 的法明顿州立银行账户中没收了近 5000 万美元。 Alameda 去年以 1150 万美元的价格购买了这家银行的股票（是当时该银行全部净资产的两倍多）。 该...]]></title>
         <id>https://twitter.com/wublockchain12/status/1618080505710399488</id>
@@ -415,16 +425,6 @@ GLP liquidity providers earning 30% (3x p/e)]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1617864102189359111"/>
         <updated>2023-01-24T12:37:15.000Z</updated>
         <summary type="html"><![CDATA[Re 法国议员 Valérie Hayer 和葡萄牙社会民主党人 José Manuel Fernandes  声称“鉴于加密资产的高流动性和跨境规模，在欧盟层面对加密资产进行监管和征税比在国家层面更有效率。”]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲议会的立法者提议对加密资产征税，以资助该组织约 1700 亿欧元（1850 亿美元）的年度预算。1 月 16 日发布的草案包含包括对投资者的资本利得、交易或挖矿征...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617864099999940608</id>
-        <link href="https://twitter.com/wublockchain12/status/1617864099999940608"/>
-        <updated>2023-01-24T12:37:14.000Z</updated>
-        <summary type="html"><![CDATA[欧洲议会的立法者提议对加密资产征税，以资助该组织约 1700 亿欧元（1850 亿美元）的年度预算。1 月 16 日发布的草案包含包括对投资者的资本利得、交易或挖矿征税。”（CoinDesk） https://www.coindesk.com/policy/2023/01/24/crypto-tax-proposed-by-lawmakers-to-fund-eu-budget/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
