@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T11:11:24.492Z</id>
+    <id>urn:2023-01-25T12:29:43.108Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-25T11:11:24.492Z</updated>
+    <updated>2023-01-25T12:29:43.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据彭博社报道，贝莱德和 Apollo Global Management 等债权人通过购买其可转换票据向已破产的比特币矿企 Core Scientific 提供了约 5 亿美元的贷款。除了可转换票...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618195347767185411</id>
+        <link href="https://twitter.com/wublockchain12/status/1618195347767185411"/>
+        <updated>2023-01-25T10:33:30.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社报道，贝莱德和 Apollo Global Management 等债权人通过购买其可转换票据向已破产的比特币矿企 Core Scientific 提供了约 5 亿美元的贷款。除了可转换票据外，它还通过其矿机设备支持的贷款从加密借贷平台借入了数亿美元。 https://www.bnnbloomberg.ca/blackrock-apollo-among-creditors-lending-500-million-to-core-scientific-1.1874321]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618193963898523649</id>
+        <link href="https://twitter.com/wublockchain12/status/1618193963898523649"/>
+        <updated>2023-01-25T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.coindesk.com/markets/2023/01/25/maple-finance-plots-comeback-with-new-100m-liquidity-pool-for-tax-receivables-with-10-yield/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机构借贷平台 Maple Finance 周三公布了一个新的贸易应收账款流动资金池，符合条件的公司可将其应收账款作为贷款的抵押品。流动性池的目标收益率为年化 10%，最...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618193961977511936</id>
+        <link href="https://twitter.com/wublockchain12/status/1618193961977511936"/>
+        <updated>2023-01-25T10:27:59.000Z</updated>
+        <summary type="html"><![CDATA[机构借贷平台 Maple Finance 周三公布了一个新的贸易应收账款流动资金池，符合条件的公司可将其应收账款作为贷款的抵押品。流动性池的目标收益率为年化 10%，最低投资 USDC 50 万美元，锁仓期 45 天，仅对合格投资者开放。Maple Finance 此前因 FTX 崩盘事件出现 5200 万美元的坏账。（CoinDesk）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Dune Analytics 数据显示，目前共有超过 470 万枚 veVELO 被锁定于获取 OP 空投，每 1 万枚 veVELO 约能获取 105 枚 OP 空投奖励。]]></title>
         <id>https://twitter.com/wublockchain12/status/1618172481990438912</id>
@@ -248,16 +278,6 @@ Excited to announce the launch with Fractal’s 30 Polygon partners. Watch the v
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特币矿企和托管服务提供商 Blockstream 通过可转换票据和担保贷款融资筹集了 1.25 亿美元，该公司将利用这笔资金扩大其机构比特币挖矿托管服务。Blockstream ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618040188235808770</id>
-        <link href="https://twitter.com/wublockchain12/status/1618040188235808770"/>
-        <updated>2023-01-25T00:16:57.000Z</updated>
-        <summary type="html"><![CDATA[比特币矿企和托管服务提供商 Blockstream 通过可转换票据和担保贷款融资筹集了 1.25 亿美元，该公司将利用这笔资金扩大其机构比特币挖矿托管服务。Blockstream 已在 2021 年的 B 轮融资中筹集了 2.1 亿美元，其业务还扩展到硬件和 L2 技术，如 Core Lightning。（The Block） https://www.theblock.co/post/205272/crypto-infrastructure-firm-blockstream-raises-125-million-to-expand-mining-services?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @MJthePopstar @GavinSBaker Can u EIL5]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1618028207441313792</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1618028207441313792"/>
@@ -334,16 +354,6 @@ If it wasn’t for COVID 2020 cycle folks would’ve been buying much higher tha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[盘点首批获得 Sui 基金会资助的 12 个项目（作者：Odaily 星球日报，十文）：这些项目将获得 Sui 基金会开发者资助的 2 万美元到 7.5 万美元，包括去中心化的无...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617916531446550531</id>
-        <link href="https://twitter.com/wublockchain12/status/1617916531446550531"/>
-        <updated>2023-01-24T16:05:35.000Z</updated>
-        <summary type="html"><![CDATA[盘点首批获得 Sui 基金会资助的 12 个项目（作者：Odaily 星球日报，十文）：这些项目将获得 Sui 基金会开发者资助的 2 万美元到 7.5 万美元，包括去中心化的无代码平台 Dappium、Move 语言包管理器 Movey、NFT 市场生态系统 Keepsake、高级债券协议 Scallop 等。 https://www.odaily.news/post/5184662]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.@Srasgon with the big downgrade of fan favorite $amd 😑]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1617902457308475393</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1617902457308475393"/>
@@ -386,16 +396,6 @@ Let's talk about how to use this in a 🧵]]></summary>
 The liquid staking narrative has gotten a lot of attention lately. Narratives in crypto come and go, but this is one I believe has legs. A megathread of what I found interesting about @Rocket_Pool and why it’s poised for impressive growth in the broader Ethereum ecosystem 🚀 🚀]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1617884999348531200</id>
-        <link href="https://twitter.com/wublockchain12/status/1617884999348531200"/>
-        <updated>2023-01-24T14:00:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -685,7 +685,7 @@ New educational article for the peeps that want to learn a lil more about analys
         <link href="https://twitter.com/8848Community/status/1616834499735875588"/>
         <updated>2023-01-21T16:25:58.000Z</updated>
         <summary type="html"><![CDATA[如果你在 gitcoin 这一轮给 JediSwap 捐款了, 记得填表获得他们的 "Force Wielder Points".
-表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform https://twitter.com/JediSwap/status/1616810768556789761]]></summary>
+表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
