@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T03:14:29.944Z</id>
+    <id>urn:2023-01-27T04:16:28.183Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T03:14:29.944Z</updated>
+    <updated>2023-01-27T04:16:28.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618811528769314817</id>
+        <link href="https://twitter.com/wublockchain12/status/1618811528769314817"/>
+        <updated>2023-01-27T03:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://defillama.com/fees/aave https://app.aave.com/reserve-overview/?underlyingAsset=0x056fd409e1d7a124bd7017459dfea2f387b6d5cd&marketName=proto_mainnet]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，1 月 26 日，Aave 贷方支付的利息费用高达 80.7 万美元，对比平日增长了近 4 倍，带来了超过 60 万美元的收入。此外，值得在意的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618811443570429952</id>
+        <link href="https://twitter.com/wublockchain12/status/1618811443570429952"/>
+        <updated>2023-01-27T03:21:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，1 月 26 日，Aave 贷方支付的利息费用高达 80.7 万美元，对比平日增长了近 4 倍，带来了超过 60 万美元的收入。此外，值得在意的是，当日有用户疑似通过 Aave 做空 GUSD，GUSD 贷款利率一度飙升至 126%，当前仍保持 87% 的高位，不过 GUSD 未出现明显脱钩迹象。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @crypto_condom @NorthRockLP I turn it around and say r u worried ur being too bearish]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1618803020325879809</id>
@@ -13,6 +33,16 @@
         <summary type="html"><![CDATA[Re @crypto_condom @NorthRockLP I turn it around and say r u worried ur being too bearish]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，国际掉期与衍生品协会（ISDA）发布新的数字资产定义，旨在供私下协商交易的参与者使用，以记录引用 BTC 或 ETH 的不可交割数字资产远期和期权交易，从...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618786672954724353</id>
+        <link href="https://twitter.com/wublockchain12/status/1618786672954724353"/>
+        <updated>2023-01-27T01:43:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，国际掉期与衍生品协会（ISDA）发布新的数字资产定义，旨在供私下协商交易的参与者使用，以记录引用 BTC 或 ETH 的不可交割数字资产远期和期权交易，从而确认受 ISDA 主协议约束的个别交易，以应对类似 FTX 等加密公司的破产事件。 https://www.isda.org/book/isda-digital-asset-derivatives-definitions/]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -436,36 +466,6 @@ Compared to the previous wave, Wave 2:
 💧Includes 2️⃣x the amount of validators 
 💧Enables anyone to run a full node
 💧Allows builders to publish, test, and share their apps on Testnet]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Sui Network 宣布上线 Sui Testnet Wave 2。与 Wave 1 相比验证者的数量从约 20 人增加到约 40 人、任何人都可以运行完整节点、允许构建者在测试网上...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618439800494907392</id>
-        <link href="https://twitter.com/wublockchain12/status/1618439800494907392"/>
-        <updated>2023-01-26T02:44:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Sui Network 宣布上线 Sui Testnet Wave 2。与 Wave 1 相比验证者的数量从约 20 人增加到约 40 人、任何人都可以运行完整节点、允许构建者在测试网上发布、测试和共享他们的应用程序。此外该测试网还将测试 Sui 的代币经济学，包括epoch 管理、Gas 机制、权益质押等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618436212087484420</id>
-        <link href="https://twitter.com/wublockchain12/status/1618436212087484420"/>
-        <updated>2023-01-26T02:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://defillama.com/chain/Aptos]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama，Aptos TVL 超 5800 万美元，创下新高，其中以 Aptos 实现首次多链部署的 PancakeSwap 占据了全链 TVL 的 58%。此外，或与近期 APT 大涨...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618436209331798016</id>
-        <link href="https://twitter.com/wublockchain12/status/1618436209331798016"/>
-        <updated>2023-01-26T02:30:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama，Aptos TVL 超 5800 万美元，创下新高，其中以 Aptos 实现首次多链部署的 PancakeSwap 占据了全链 TVL 的 58%。此外，或与近期 APT 大涨有关，流动性质押、借贷等链上需求大幅增长，Tortuga、Ditto 两大质押协议近 1 天 TVL 增长均超 35%，二者提供约 7% APY 的 APT 质押收益。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
