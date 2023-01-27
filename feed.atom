@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T13:19:29.930Z</id>
+    <id>urn:2023-01-27T14:12:37.007Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T13:19:29.930Z</updated>
+    <updated>2023-01-27T14:12:37.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 据深潮：Aptos 官方非常重视韩语社区，在官网同步发布了韩语版本的白皮书，是除英语以外的唯一语种，准备在 2023 年启动全球巡回黑客松，第一站放在了首尔。H...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618965198387433475</id>
+        <link href="https://twitter.com/wublockchain12/status/1618965198387433475"/>
+        <updated>2023-01-27T13:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 据深潮：Aptos 官方非常重视韩语社区，在官网同步发布了韩语版本的白皮书，是除英语以外的唯一语种，准备在 2023 年启动全球巡回黑客松，第一站放在了首尔。Hashed、Hive 和 YG 等韩国公司是 Aptos 的投资者。 https://m.techflowpost.com/article/1966]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，有观点认为 APT 近日暴涨可能与韩国社区疯狂追捧有关。据 Coingecko 数据，韩国第一大交易所 Upbit 的 韩元/APT 24小时交易量超过币安多个交易对之和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618963088820285440</id>
+        <link href="https://twitter.com/wublockchain12/status/1618963088820285440"/>
+        <updated>2023-01-27T13:24:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，有观点认为 APT 近日暴涨可能与韩国社区疯狂追捧有关。据 Coingecko 数据，韩国第一大交易所 Upbit 的 韩元/APT 24小时交易量超过币安多个交易对之和，达到 5.66 亿美金。 https://www.coingecko.com/en/coins/aptos#markets]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who else finds it funny seeing one of CT’s top small cap shillers endlessly wax poetic about macro]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1618954441813794816</id>
@@ -19,6 +39,26 @@ If we got 25bps, it’s kicking the can down the road, leaving us open to more i
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，Solana 生态投资组合管理平台 Friktion 决定关闭用户平台，建议用户尽快取回资产。此后 Friktion 平台不会产生任何费用，UI 不再可以存款，但基础协议...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618950172569894923</id>
+        <link href="https://twitter.com/wublockchain12/status/1618950172569894923"/>
+        <updated>2023-01-27T12:32:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Solana 生态投资组合管理平台 Friktion 决定关闭用户平台，建议用户尽快取回资产。此后 Friktion 平台不会产生任何费用，UI 不再可以存款，但基础协议仍可在区块链上访问。 https://friktionlabs.medium.com/friktion-sunset-part-1-8c60691cb657]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Celo 基金会公布 Celo 2.0 路线图，将 Celo 与以太坊的路线图深度对齐；通过使 Celo 成为一个 Rollup 友好链来优化可扩展性；使 Celo 成为最快的 EVM ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618950119466086400</id>
+        <link href="https://twitter.com/wublockchain12/status/1618950119466086400"/>
+        <updated>2023-01-27T12:32:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Celo 基金会公布 Celo 2.0 路线图，将 Celo 与以太坊的路线图深度对齐；通过使 Celo 成为一个 Rollup 友好链来优化可扩展性；使 Celo 成为最快的 EVM L1；完善 CELO 代币经济学，奖励贡献者；提供顶级开发人员体验；建立强大的钱包和应用构建模块。 https://blog.celo.org/the-next-chapter-introducing-celo-2-0-by-clabs-b535db54a564]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Surprised by all the hand wringing over 25 bs 50 bps… probably some ptsd from 2022 Fed 75bps away from Fed terminal rate, CPI clearly rolling over, s...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1618949276159348737</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1618949276159348737"/>
@@ -28,6 +68,30 @@ Fed 75bps away from Fed terminal rate, CPI clearly rolling over, short end waaay
 25bps seems pretty obvious]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴忌寒旗下新加坡加密金融服务公司 Matrixport 宣布将裁员 10%，同时正在重组其资产管理公司的领导层。另据知情人士，Matrix Asset Management 首席执行官 Damie...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1618946203143798786</id>
+        <link href="https://twitter.com/wublockchain12/status/1618946203143798786"/>
+        <updated>2023-01-27T12:17:08.000Z</updated>
+        <summary type="html"><![CDATA[吴忌寒旗下新加坡加密金融服务公司 Matrixport 宣布将裁员 10%，同时正在重组其资产管理公司的领导层。另据知情人士，Matrix Asset Management 首席执行官 Damien Loh 与业务发展和投资者关系主管I Z Wong 均已离职。（彭博社） https://www.bloomberg.com/news/articles/2023-01-27/billionaire-wu-s-matrix-asset-management-loses-top-executives?utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&utm_content=crypto&leadSource=uverify%20wall]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ 蚁穴推荐 ✨ 网站: MinerNav挖矿聚合 描述: <p>各类矿工教程,挖矿资源工具集合</p> 链接: #MinerNav挖矿聚合 #minernav%e6%8c%96%e7%9f%bf%e8%81%9a%e5%90%88]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1618942986196324352</id>
+        <link href="https://twitter.com/AntCaveClub/status/1618942986196324352"/>
+        <updated>2023-01-27T12:04:21.000Z</updated>
+        <summary type="html"><![CDATA[✨ 蚁穴推荐 ✨
+网站:  MinerNav挖矿聚合
+描述:  <p>各类矿工教程,挖矿资源工具集合</p>
+链接:  
+#MinerNav挖矿聚合  #minernav%e6%8c%96%e7%9f%bf%e8%81%9a%e5%90%88 https://antcave.club/sites/2343.html]]></summary>
+        <author>
+            <name>AntCave | (💙,🧡)</name>
         </author>
     </entry>
     <entry>
@@ -252,56 +316,6 @@ $2.99B (88%) ETH
 $266M (8%)  SHIB 
 $54M ( 1.6%) MATIC
 Fun fact: Today, ~15% of all tagged Robinhood user withdrawals went directly to a gambling website]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @jconorgrogan，Robinhood 公开标记的 EVM 钱包中有 29.9 亿美金的 ETH；2.66 亿美金的 SHIB；5400 万的 MATIC；值得注意的是，15%的用户提款去向...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618819549708824577</id>
-        <link href="https://twitter.com/wublockchain12/status/1618819549708824577"/>
-        <updated>2023-01-27T03:53:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @jconorgrogan，Robinhood 公开标记的 EVM 钱包中有 29.9 亿美金的 ETH；2.66 亿美金的 SHIB；5400 万的 MATIC；值得注意的是，15%的用户提款去向为赌博网站 Stakecom。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知情人士透露，亚马逊正在推出一家数字资产企业，预计于春季推出 NFT 计划，重点是基于区块链的游戏和相关 NFT 应用程序，如可能让亚马逊客户玩加密游戏并在此过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618819447250378754</id>
-        <link href="https://twitter.com/wublockchain12/status/1618819447250378754"/>
-        <updated>2023-01-27T03:53:27.000Z</updated>
-        <summary type="html"><![CDATA[知情人士透露，亚马逊正在推出一家数字资产企业，预计于春季推出 NFT 计划，重点是基于区块链的游戏和相关 NFT 应用程序，如可能让亚马逊客户玩加密游戏并在此过程中领取免费的 NFT。亚马逊的代表尚未回应。（Blockworks） https://blockworks.co/news/amazon-nft-marketplace-web3]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国参议员 R-Texas 提出一项并行决议，要求国会山的供应商接受加密货币付款。若决议通过，将要求国会大厦的建筑师，参议院秘书和众议院首席行政官只...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618819386739163138</id>
-        <link href="https://twitter.com/wublockchain12/status/1618819386739163138"/>
-        <updated>2023-01-27T03:53:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国参议员 R-Texas 提出一项并行决议，要求国会山的供应商接受加密货币付款。若决议通过，将要求国会大厦的建筑师，参议院秘书和众议院首席行政官只与接受加密货币的食品服务承包商和自动售货机运营商签订合同。 https://www.congress.gov/bill/118th-congress/senate-concurrent-resolution/1/text]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618811528769314817</id>
-        <link href="https://twitter.com/wublockchain12/status/1618811528769314817"/>
-        <updated>2023-01-27T03:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://defillama.com/fees/aave https://app.aave.com/reserve-overview/?underlyingAsset=0x056fd409e1d7a124bd7017459dfea2f387b6d5cd&marketName=proto_mainnet]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，1 月 26 日，Aave 贷方支付的利息费用高达 80.7 万美元，对比平日增长了近 4 倍，带来了超过 60 万美元的收入。此外，值得在意的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1618811443570429952</id>
-        <link href="https://twitter.com/wublockchain12/status/1618811443570429952"/>
-        <updated>2023-01-27T03:21:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，1 月 26 日，Aave 贷方支付的利息费用高达 80.7 万美元，对比平日增长了近 4 倍，带来了超过 60 万美元的收入。此外，值得在意的是，当日有用户疑似通过 Aave 做空 GUSD，GUSD 贷款利率一度飙升至 126%，当前仍保持 87% 的高位，不过 GUSD 未出现明显脱钩迹象。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -1384,19 +1398,6 @@ Web 3.0 & 区块链全球资讯前沿站 「遇见」未来。他们汇聚了一
 找到完美的工作、就业和职业机会。中文岗位居多, 服务于多个Web3资深企业.
 访问: 
 推特: @Web3job_1 https://web3jobgl.com/]]></summary>
-        <author>
-            <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 20. a better web3 一个Notion工作面板, 汇聚了大量Web3工作机会和人才, 并提供不同生态的工作机会. 机会聚合，人才流动。 专注web3华语世界职业成长。 访问:...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1613467197422325761</id>
-        <link href="https://twitter.com/AntCaveClub/status/1613467197422325761"/>
-        <updated>2023-01-12T09:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Re 20. a better web3
-一个Notion工作面板, 汇聚了大量Web3工作机会和人才, 并提供不同生态的工作机会. 机会聚合，人才流动。 专注web3华语世界职业成长。
-访问: 
-推特: @abetterweb3 https://abetterweb3.notion.site/]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
         </author>
