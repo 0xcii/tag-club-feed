@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T04:16:28.183Z</id>
+    <id>urn:2023-01-27T05:12:22.098Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T04:16:28.183Z</updated>
+    <updated>2023-01-27T05:12:22.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @mute_chaos We will have it on a per wallet basis within @ChainEDGE_io.]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1618821710127710208</id>
+        <link href="https://twitter.com/OnChainWizard/status/1618821710127710208"/>
+        <updated>2023-01-27T04:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @mute_chaos We will have it on a per wallet basis within @ChainEDGE_io.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1618811528769314817</id>
@@ -833,7 +843,7 @@ New educational article for the peeps that want to learn a lil more about analys
         <link href="https://twitter.com/8848Community/status/1616834499735875588"/>
         <updated>2023-01-21T16:25:58.000Z</updated>
         <summary type="html"><![CDATA[如果你在 gitcoin 这一轮给 JediSwap 捐款了, 记得填表获得他们的 "Force Wielder Points".
-表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform]]></summary>
+表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform https://twitter.com/JediSwap/status/1616810768556789761]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1382,17 +1392,6 @@ During last couple weeks we've seen a strong narrative forming around ETH LSD(Li
 👇👇🧵]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rektGEMS🔺: I guess not all of us are bullish on LSD coins. Both @nansen_ai and @ChainEDGE_io(by @OnChainWizard) showing "smart money" been selli...]]></title>
-        <id>https://twitter.com/AvaxGems/status/1610124439093669888</id>
-        <link href="https://twitter.com/AvaxGems/status/1610124439093669888"/>
-        <updated>2023-01-03T04:02:35.000Z</updated>
-        <summary type="html"><![CDATA[RT rektGEMS🔺
-I guess not all of us are bullish on LSD coins. Both @nansen_ai and @ChainEDGE_io(by @OnChainWizard) showing "smart money" been selling $LDO rather than buying.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
