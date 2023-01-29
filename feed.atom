@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T09:12:09.011Z</id>
+    <id>urn:2023-01-29T10:13:11.697Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-29T09:12:09.011Z</updated>
+    <updated>2023-01-29T10:13:11.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619625069596246017</id>
+        <link href="https://twitter.com/wublockchain12/status/1619625069596246017"/>
+        <updated>2023-01-29T09:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+PeckShieldAlert: #PeckShieldAlert The verified @AzukiOfficial Twitter was compromised on Jan 28th, 2023
+@spreekaway detected that 0x3e lost 750k $USDC as a result of the hack
+The stolen funds were converted to 468 $ETH & 150 $ETH into TornadoCash, with the remainder split across several addresses]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 钓鱼者「0x50…fd7」地址同时窃取了 196 枚 NFT，包括 74 个 Otherdeed、56 个 Beanz、12 个 Doodles、2 个 MAYC 和 41 个 PudgyPenguins，该地址目前已经转...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619625035781787649</id>
+        <link href="https://twitter.com/wublockchain12/status/1619625035781787649"/>
+        <updated>2023-01-29T09:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 钓鱼者「0x50…fd7」地址同时窃取了 196 枚 NFT，包括 74 个 Otherdeed、56 个 Beanz、12 个 Doodles、2 个 MAYC 和 41 个 PudgyPenguins，该地址目前已经转移了 234 ETH。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据派盾，Azuki 官方社交账户攻击事件，黑客已将被盗资金兑换为总计 618 枚 ETH（一笔 468 ETH，另一笔 150 ETH）并转移到 TornadaoCash。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619625033416216578</id>
+        <link href="https://twitter.com/wublockchain12/status/1619625033416216578"/>
+        <updated>2023-01-29T09:14:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据派盾，Azuki 官方社交账户攻击事件，黑客已将被盗资金兑换为总计 618 枚 ETH（一笔 468 ETH，另一笔 150 ETH）并转移到 TornadaoCash。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 在 sFTM 支持的情况下，质押将立即取消质押，并领取所有奖励。此外，为了允许用户平仓，还构建了将 DAI 交换为 fUSD 的工具，以方便结清未尝债务。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619621561442635776</id>
+        <link href="https://twitter.com/wublockchain12/status/1619621561442635776"/>
+        <updated>2023-01-29T09:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 在 sFTM 支持的情况下，质押将立即取消质押，并领取所有奖励。此外，为了允许用户平仓，还构建了将 DAI 交换为 fUSD 的工具，以方便结清未尝债务。 https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Fantom 联创 Andre Cronje 发文，将从 fUSD v1 迁移至 fUSD v2，将允许 fUSD 作为链上收费系统，这意味着 Fantom 能够以 FTM 或 fUSD 分配费用。fUSD ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619621559009955840</id>
+        <link href="https://twitter.com/wublockchain12/status/1619621559009955840"/>
+        <updated>2023-01-29T09:00:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Fantom 联创 Andre Cronje 发文，将从 fUSD v1 迁移至 fUSD v2，将允许 fUSD 作为链上收费系统，这意味着 Fantom 能够以 FTM 或 fUSD 分配费用。fUSD v1 将实施清算，fUSD 债务等于或大于 FTM 或 sFTM 支持的任何头寸都将被清算；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安表示，2023年产品团队希望提供更高的用户透明度，为偿付能力证明提供一个新的基于 zk-STARK 的解决方案，通过进一步简化 KYC 流程来实现 10 亿经...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619618786692431873</id>
+        <link href="https://twitter.com/wublockchain12/status/1619618786692431873"/>
+        <updated>2023-01-29T08:49:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安表示，2023年产品团队希望提供更高的用户透明度，为偿付能力证明提供一个新的基于 zk-STARK 的解决方案，通过进一步简化 KYC 流程来实现 10 亿经过验证的 Binance 用户。 此外 CZ 表示愿意投资 VR 和元宇宙游戏，但暂时还没有自身构建元宇宙的计划。 https://www.binance.com/en/blog/community/recap-product-ama-with-cz-and-mayur-870521089644441789]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619609944172679169</id>
+        <link href="https://twitter.com/wublockchain12/status/1619609944172679169"/>
+        <updated>2023-01-29T08:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+H.E. Justin Sun🌞🇬🇩🇩🇲🔥₮: My KPI for 2023 is to get 5 countries to adopt #TRX as legal tender. 🇩🇲🇸🇽]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，孙宇晨表示，他的2023年的 KPI 是让 5 个国家采用 TRX 作为法币。此前波场表示，加勒比地区国家多米尼克已通过立法确认波场TRON旗下7种数字货币为该国...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619609882067636226</id>
+        <link href="https://twitter.com/wublockchain12/status/1619609882067636226"/>
+        <updated>2023-01-29T08:14:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，孙宇晨表示，他的2023年的 KPI 是让 5 个国家采用 TRX 作为法币。此前波场表示，加勒比地区国家多米尼克已通过立法确认波场TRON旗下7种数字货币为该国法定数字货币，并具备法币地位，包括 BTT、JST、NFT、TRX、USDD（TRC-20）、USDT（TRC-20）和TUSD（TRC-20）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，与 Rage Trade 相比，Jones DAO 的 GLP 存款用户相对更少，价值更高，平均超过 6 千美元。当前各大主要协议 GLP Vault 的 GLP 存款之和占总供应量的 6....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619609777239363584</id>
+        <link href="https://twitter.com/wublockchain12/status/1619609777239363584"/>
+        <updated>2023-01-29T08:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，与 Rage Trade 相比，Jones DAO 的 GLP 存款用户相对更少，价值更高，平均超过 6 千美元。当前各大主要协议 GLP Vault 的 GLP 存款之和占总供应量的 6.34%。 https://dune.com/defimochi/definitive-glp-vaults-tracker]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据图表，Jones DAO 在推出 jGLP Vault 不足三天已捕获价值超过 670 万美元的 TVL，占 GLP Vault 市场份额的 26%，仅次于存在已久的 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619609774404018178</id>
+        <link href="https://twitter.com/wublockchain12/status/1619609774404018178"/>
+        <updated>2023-01-29T08:13:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据图表，Jones DAO 在推出 jGLP Vault 不足三天已捕获价值超过 670 万美元的 TVL，占 GLP Vault 市场份额的 26%，仅次于存在已久的 Rage Trade。在 1 月 28 日，Jones DAO 单日有价值超过 460 万美元的 GLP Vault 流入。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1619593546310504449</id>
@@ -15,8 +121,7 @@
 Kedar: First proposal:
 100k top traders, 300 ZZ each.
 Comment below with better ideas.
-(There are 500k traders total, 30M tokens to airdrop)
- https://twitter.com/zigzagkedar/status/1618871449925849088]]></summary>
+(There are 500k traders total, 30M tokens to airdrop)]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -112,16 +217,6 @@ Comment below with better ideas.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，韩国司法部通过《2023 年政府业务报告》，将在今年上半年引入“虚拟货币跟踪系统”，加强对利用虚拟货币洗钱和追回犯罪所得的追踪。同时，到今年下半...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619569708617039872</id>
-        <link href="https://twitter.com/wublockchain12/status/1619569708617039872"/>
-        <updated>2023-01-29T05:34:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，韩国司法部通过《2023 年政府业务报告》，将在今年上半年引入“虚拟货币跟踪系统”，加强对利用虚拟货币洗钱和追回犯罪所得的追踪。同时，到今年下半年，除了“虚拟货币跟踪系统”外，还将开发一个独立的跟踪和分析系统。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Starting about right there #Bitcoin ran out of sellers. Chart just looks completely different after that moment.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1619559434950426626</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1619559434950426626"/>
@@ -129,46 +224,6 @@ Comment below with better ideas.
         <summary type="html"><![CDATA[Starting about right there #Bitcoin ran out of sellers. Chart just looks completely different after that moment.]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周热门项目动态: 以太坊上海升级影子分叉已上线，TON 验证者考虑暂时冻结 195 个非活跃地址，Velodrome TVL 近 1 个月激增等（0123–0129）]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619554630404550657</id>
-        <link href="https://twitter.com/wublockchain12/status/1619554630404550657"/>
-        <updated>2023-01-29T04:34:48.000Z</updated>
-        <summary type="html"><![CDATA[一周热门项目动态: 以太坊上海升级影子分叉已上线，TON 验证者考虑暂时冻结 195 个非活跃地址，Velodrome TVL 近 1 个月激增等（0123–0129） https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=11132]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Yuga Labs 联创 Greg Solano 则已明确表示游戏分数为 0 的 Sewer Pass 没有资格参与 The Summoning，审核工作将在 Dookey Dash 结束后进行。按照此前透露的概...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619531632809222144</id>
-        <link href="https://twitter.com/wublockchain12/status/1619531632809222144"/>
-        <updated>2023-01-29T03:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Re Yuga Labs 联创 Greg Solano 则已明确表示游戏分数为 0 的 Sewer Pass 没有资格参与 The Summoning，审核工作将在 Dookey Dash 结束后进行。按照此前透露的概念图，The Summoning 可能与机甲（能量）有关。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BAYC 社区经理 NGBxBen 在社区表示，在 Dookey Dash 游戏分数大于 0 的 Sewer Pass 有资格被销毁并参与下一阶段 The Summoning。另一位社区经理 Elekt...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619531630590439425</id>
-        <link href="https://twitter.com/wublockchain12/status/1619531630590439425"/>
-        <updated>2023-01-29T03:03:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BAYC 社区经理 NGBxBen 在社区表示，在 Dookey Dash 游戏分数大于 0 的 Sewer Pass 有资格被销毁并参与下一阶段 The Summoning。另一位社区经理 Elektro 表示，The Summoning 将在 2 月 15 日到来。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，SBF 的律师 Mark Cohen 要求负责此案的联邦法官允许 SBF 会见一些涉及 FTX 的人，并称 SBF 需要参与自身的辩护。此前，检察官认为这是试图影响证人的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619517750745120768</id>
-        <link href="https://twitter.com/wublockchain12/status/1619517750745120768"/>
-        <updated>2023-01-29T02:08:15.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，SBF 的律师 Mark Cohen 要求负责此案的联邦法官允许 SBF 会见一些涉及 FTX 的人，并称 SBF 需要参与自身的辩护。此前，检察官认为这是试图影响证人的潜在证词，并要求法官禁止 SBF 联系现任和前任 FTX 员工，政府还要求法院限制 SBF 使用加密消息应用程序。 https://www.bloomberg.com/news/articles/2023-01-28/sam-bankman-fried-denies-us-witness-tampering-claim]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -204,28 +259,6 @@ Thoughts?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619507101415636994</id>
-        <link href="https://twitter.com/wublockchain12/status/1619507101415636994"/>
-        <updated>2023-01-29T01:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-GordonGoner.eth (Wylie Aronow): What does this mean as it relates to my work at Yuga? It means I’m going to be taking a leave of absence to focus on my health for a while.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Yuga Labs 联合创始人 Wiley Aronow 发推称，其被医生告知检查出患有充血性心力衰竭，决定暂遵医嘱，休假以专注于健康，将继续担任 Yuga Labs 的董事...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619507062492516352</id>
-        <link href="https://twitter.com/wublockchain12/status/1619507062492516352"/>
-        <updated>2023-01-29T01:25:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Yuga Labs 联合创始人 Wiley Aronow 发推称，其被医生告知检查出患有充血性心力衰竭，决定暂遵医嘱，休假以专注于健康，将继续担任 Yuga Labs 的董事会成员和战略顾问。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @gametheorizing @MikeIppolito_ 2% is an absolute worst case and would require an absurd amount of $eth staked w/ very little activity, an unlikely ...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1619506701526536195</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1619506701526536195"/>
@@ -246,8 +279,7 @@ DeFi Surfer: Assuming the mkt requires higher staking returns like say 8%, the
 Eventually the market will realize.
 
 
-DeFi Surfer: Four months since the Binance listing (opportunity for early holders to take liquidity), fourth tap of $55-60 resistance... wonder if this is time we finally break thru and where the price settles out...
- https://twitter.com/JJcycles/status/1619494614347677696]]></summary>
+DeFi Surfer: Four months since the Binance listing (opportunity for early holders to take liquidity), fourth tap of $55-60 resistance... wonder if this is time we finally break thru and where the price settles out...]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -305,8 +337,7 @@ cc @usdcbull1 https://www.federalreserve.gov/newsevents/pressreleases/files/bc
         <summary type="html"><![CDATA[An inflection is an inflection 🤷‍♂️
 
 
-Danielle DiMartino Booth: That’s what the foaming at the mouth housing bulls say…before the unemployment rate begins to rise. I’m sure mortgage rates declining more than offsets a 100% loss of income.
- https://twitter.com/kmahoney74/status/1619216158674259968]]></summary>
+Danielle DiMartino Booth: That’s what the foaming at the mouth housing bulls say…before the unemployment rate begins to rise. I’m sure mortgage rates declining more than offsets a 100% loss of income.]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -418,36 +449,6 @@ A thread.
         <summary type="html"><![CDATA[Re @Keubiko She managed $100M. Trust her bro]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 如果长期禁止加密货币交易和相关活动，有可能会错失一些重要数字技术发展的机会，且禁止也不一定能够长期有效。阅读更多：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619353915312738304</id>
-        <link href="https://twitter.com/wublockchain12/status/1619353915312738304"/>
-        <updated>2023-01-28T15:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 如果长期禁止加密货币交易和相关活动，有可能会错失一些重要数字技术发展的机会，且禁止也不一定能够长期有效。阅读更多： https://mp.weixin.qq.com/s/HgPz-lhJdNkNIcE3BlnJLQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 但是，禁止加密货币，在短期内可能很实用，但长期看是否可持续，值得做深入的分析。加密货币带来的一些新型数字技术，对正规金融体系是十分有价值的，包括代...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619353911206486019</id>
-        <link href="https://twitter.com/wublockchain12/status/1619353911206486019"/>
-        <updated>2023-01-28T15:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 但是，禁止加密货币，在短期内可能很实用，但长期看是否可持续，值得做深入的分析。加密货币带来的一些新型数字技术，对正规金融体系是十分有价值的，包括代币化、分布式账本、区块链技术等等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北大教授、原央行货币政策委员会委员黄益平：中国政府目前禁止在中国进行加密货币的交易，主要原因是在反洗钱方面仍然面临重大挑战。此外，我国还保留了很多资本...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619353907133841409</id>
-        <link href="https://twitter.com/wublockchain12/status/1619353907133841409"/>
-        <updated>2023-01-28T15:17:12.000Z</updated>
-        <summary type="html"><![CDATA[北大教授、原央行货币政策委员会委员黄益平：中国政府目前禁止在中国进行加密货币的交易，主要原因是在反洗钱方面仍然面临重大挑战。此外，我国还保留了很多资本账户管制措施，如果像加密货币这样的数字资产可以自由交易，带来的问题将会远远多于带来的好处。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1048,7 +1049,7 @@ New educational article for the peeps that want to learn a lil more about analys
         <link href="https://twitter.com/8848Community/status/1616834499735875588"/>
         <updated>2023-01-21T16:25:58.000Z</updated>
         <summary type="html"><![CDATA[如果你在 gitcoin 这一轮给 JediSwap 捐款了, 记得填表获得他们的 "Force Wielder Points".
-表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform https://twitter.com/JediSwap/status/1616810768556789761]]></summary>
+表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
