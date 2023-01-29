@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T05:11:59.590Z</id>
+    <id>urn:2023-01-29T06:16:01.675Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-29T05:11:59.590Z</updated>
+    <updated>2023-01-29T06:16:01.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Aave V3 自 1 月 27 日上线后目前已吸引了 2417 万美元的存款，已借出 666 万美元。其中存款主要是 wstETH（1058 万美元）、ETH（573 万美元）、USDC...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619575329185751043</id>
+        <link href="https://twitter.com/wublockchain12/status/1619575329185751043"/>
+        <updated>2023-01-29T05:57:03.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Aave V3 自 1 月 27 日上线后目前已吸引了 2417 万美元的存款，已借出 666 万美元。其中存款主要是 wstETH（1058 万美元）、ETH（573 万美元）、USDC（531 万美元）。Aave V3 存款和借出目前仍远低于 Aave V2，后者的数据分别为 54.8 亿美元和 17 亿美元。 https://app.aave.com/markets/?marketName=proto_mainnet]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 因此，vitalik 表示需要找到使用 staked ETH 同时避免无形强化抵押衍生品份额的方法，并提出了 3 个潜在想法，在短期可实现行、免信任以及长期可持续性上各有...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619573704878592000</id>
+        <link href="https://twitter.com/wublockchain12/status/1619573704878592000"/>
+        <updated>2023-01-29T05:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 因此，vitalik 表示需要找到使用 staked ETH 同时避免无形强化抵押衍生品份额的方法，并提出了 3 个潜在想法，在短期可实现行、免信任以及长期可持续性上各有侧重。 https://community.reflexer.finance/t/can-oracles-double-as-co-stakers-how-rai-like-systems-might-safely-support-staked-eth/397]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 第二种是假设 RAI 只使用 stETH 这种质押衍生品作为抵押品，却潜在可能会随着 stETH 市场份额的扩大给以太坊质押引入新的攻击向量的风险。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619573702030692354</id>
+        <link href="https://twitter.com/wublockchain12/status/1619573702030692354"/>
+        <updated>2023-01-29T05:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 第二种是假设 RAI 只使用 stETH 这种质押衍生品作为抵押品，却潜在可能会随着 stETH 市场份额的扩大给以太坊质押引入新的攻击向量的风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，vitalik 近期在稳定币 RAI 的论坛中探讨了 RAI 的抵押品模式从单抵押 ETH 切换为专注于 ETH 以及 staked ETH 的多抵押模式的多种可能性。vitalik 最开...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619573699455373316</id>
+        <link href="https://twitter.com/wublockchain12/status/1619573699455373316"/>
+        <updated>2023-01-29T05:50:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，vitalik 近期在稳定币 RAI 的论坛中探讨了 RAI 的抵押品模式从单抵押 ETH 切换为专注于 ETH 以及 staked ETH 的多抵押模式的多种可能性。vitalik 最开始先列举了两种假设，一种是让任意质押者通过类似 Eigenlayer 等工具再利用其质押作为抵押品，但这种方式存在降低系统安全性的风险；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，司法部表示，“我们将对科学调查基础设施进行全面改革，以应对犯罪的现代化。”]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619569711158812672</id>
+        <link href="https://twitter.com/wublockchain12/status/1619569711158812672"/>
+        <updated>2023-01-29T05:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，司法部表示，“我们将对科学调查基础设施进行全面改革，以应对犯罪的现代化。” https://www.khgames.co.kr/news/articleView.html?idxno=208502]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，韩国司法部通过《2023 年政府业务报告》，将在今年上半年引入“虚拟货币跟踪系统”，加强对利用虚拟货币洗钱和追回犯罪所得的追踪。同时，到今年下半...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619569708617039872</id>
+        <link href="https://twitter.com/wublockchain12/status/1619569708617039872"/>
+        <updated>2023-01-29T05:34:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，韩国司法部通过《2023 年政府业务报告》，将在今年上半年引入“虚拟货币跟踪系统”，加强对利用虚拟货币洗钱和追回犯罪所得的追踪。同时，到今年下半年，除了“虚拟货币跟踪系统”外，还将开发一个独立的跟踪和分析系统。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starting about right there #Bitcoin ran out of sellers. Chart just looks completely different after that moment.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1619559434950426626</id>
@@ -13,6 +73,36 @@
         <summary type="html"><![CDATA[Starting about right there #Bitcoin ran out of sellers. Chart just looks completely different after that moment.]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: 以太坊上海升级影子分叉已上线，TON 验证者考虑暂时冻结 195 个非活跃地址，Velodrome TVL 近 1 个月激增等（0123–0129）]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619554630404550657</id>
+        <link href="https://twitter.com/wublockchain12/status/1619554630404550657"/>
+        <updated>2023-01-29T04:34:48.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: 以太坊上海升级影子分叉已上线，TON 验证者考虑暂时冻结 195 个非活跃地址，Velodrome TVL 近 1 个月激增等（0123–0129） https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=11132]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Yuga Labs 联创 Greg Solano 则已明确表示游戏分数为 0 的 Sewer Pass 没有资格参与 The Summoning，审核工作将在 Dookey Dash 结束后进行。按照此前透露的概...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619531632809222144</id>
+        <link href="https://twitter.com/wublockchain12/status/1619531632809222144"/>
+        <updated>2023-01-29T03:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Re Yuga Labs 联创 Greg Solano 则已明确表示游戏分数为 0 的 Sewer Pass 没有资格参与 The Summoning，审核工作将在 Dookey Dash 结束后进行。按照此前透露的概念图，The Summoning 可能与机甲（能量）有关。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，BAYC 社区经理 NGBxBen 在社区表示，在 Dookey Dash 游戏分数大于 0 的 Sewer Pass 有资格被销毁并参与下一阶段 The Summoning。另一位社区经理 Elekt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619531630590439425</id>
+        <link href="https://twitter.com/wublockchain12/status/1619531630590439425"/>
+        <updated>2023-01-29T03:03:24.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，BAYC 社区经理 NGBxBen 在社区表示，在 Dookey Dash 游戏分数大于 0 的 Sewer Pass 有资格被销毁并参与下一阶段 The Summoning。另一位社区经理 Elektro 表示，The Summoning 将在 2 月 15 日到来。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -100,7 +190,8 @@ DeFi Surfer: Assuming the mkt requires higher staking returns like say 8%, the
 Eventually the market will realize.
 
 
-DeFi Surfer: Four months since the Binance listing (opportunity for early holders to take liquidity), fourth tap of $55-60 resistance... wonder if this is time we finally break thru and where the price settles out...]]></summary>
+DeFi Surfer: Four months since the Binance listing (opportunity for early holders to take liquidity), fourth tap of $55-60 resistance... wonder if this is time we finally break thru and where the price settles out...
+ https://twitter.com/JJcycles/status/1619494614347677696]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -158,7 +249,8 @@ cc @usdcbull1 https://www.federalreserve.gov/newsevents/pressreleases/files/bc
         <summary type="html"><![CDATA[An inflection is an inflection 🤷‍♂️
 
 
-Danielle DiMartino Booth: That’s what the foaming at the mouth housing bulls say…before the unemployment rate begins to rise. I’m sure mortgage rates declining more than offsets a 100% loss of income.]]></summary>
+Danielle DiMartino Booth: That’s what the foaming at the mouth housing bulls say…before the unemployment rate begins to rise. I’m sure mortgage rates declining more than offsets a 100% loss of income.
+ https://twitter.com/kmahoney74/status/1619216158674259968]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -404,36 +496,6 @@ The tightly controlled supply has activated.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @lightcrypto，Aptos dev team 钱包向币安转移了近 2000 万美金的 APT，钱包中仍有价值 10 亿美金的代币。但也有观点认为只是在对做市商做补充。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619251456330321920</id>
-        <link href="https://twitter.com/wublockchain12/status/1619251456330321920"/>
-        <updated>2023-01-28T08:30:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @lightcrypto，Aptos dev team 钱包向币安转移了近 2000 万美金的 APT，钱包中仍有价值 10 亿美金的代币。但也有观点认为只是在对做市商做补充。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 将其中的 502 ETH 转移到 FixedFloat，账户目前剩余 1994.65 枚 ETH。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619236430001364992</id>
-        <link href="https://twitter.com/wublockchain12/status/1619236430001364992"/>
-        <updated>2023-01-28T07:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 将其中的 502 ETH 转移到 FixedFloat，账户目前剩余 1994.65 枚 ETH。 https://eagleeye.beosin.com/RiskTrxDetail/0x68a51f7c550f077d61454fab26d6b3bd7a45236e3fe7214eb33defab46f71d47]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据区块链安全审计公司 Beosin 旗下 Beosin EagleEye 平台监测显示，分布式资本创始合伙人沈波的被盗资金发生异动，盗币者 0x66F62574 地址将 400 万 D...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619236427447013376</id>
-        <link href="https://twitter.com/wublockchain12/status/1619236427447013376"/>
-        <updated>2023-01-28T07:30:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据区块链安全审计公司 Beosin 旗下 Beosin EagleEye 平台监测显示，分布式资本创始合伙人沈波的被盗资金发生异动，盗币者 0x66F62574 地址将 400 万 DAI 转移到 0x90553e00 地址之后，0x90553e00 地址通过 1inch 将 DAI 兑换为 2496.66 ETH 并发送到 0x376A0255，0x376A0255 地址，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Friktion 关闭了 Solana 上的明星 DeFi 项目之一 还没发币呢 555 还好我没交互太多]]></title>
         <id>https://twitter.com/8848Community/status/1619210982215254017</id>
         <link href="https://twitter.com/8848Community/status/1619210982215254017"/>
@@ -445,36 +507,6 @@ Solana 上的明星 DeFi 项目之一
 还好我没交互太多]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 立法不应为养老基金等主流机构一头扎进加密货币市场开绿灯，加深加密货币与更广泛金融体系之间联系的立法将是一个严重的错误。阅读全文：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619208256114806785</id>
-        <link href="https://twitter.com/wublockchain12/status/1619208256114806785"/>
-        <updated>2023-01-28T05:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Re 立法不应为养老基金等主流机构一头扎进加密货币市场开绿灯，加深加密货币与更广泛金融体系之间联系的立法将是一个严重的错误。阅读全文： https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国政府发布《政府减轻加密货币风险的路线图》，表示在未来几个月内将公布优先事项，将有助于支持加密货币的技术并保护消费者；要求国会应该扩大监管...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619208253556273152</id>
-        <link href="https://twitter.com/wublockchain12/status/1619208253556273152"/>
-        <updated>2023-01-28T05:38:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国政府发布《政府减轻加密货币风险的路线图》，表示在未来几个月内将公布优先事项，将有助于支持加密货币的技术并保护消费者；要求国会应该扩大监管机构的权力，以防止滥用客户资产，加强对加密货币公司的透明度和披露要求；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 声明指出，今天的行动不会禁止州成员银行或潜在申请人以保管身份为加密资产提供保管服务，前提是以安全可靠的方式进行并遵守消费者、反洗钱和反恐怖主义融资...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619206519731666945</id>
-        <link href="https://twitter.com/wublockchain12/status/1619206519731666945"/>
-        <updated>2023-01-28T05:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Re 声明指出，今天的行动不会禁止州成员银行或潜在申请人以保管身份为加密资产提供保管服务，前提是以安全可靠的方式进行并遵守消费者、反洗钱和反恐怖主义融资法。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -490,16 +522,6 @@ Solana 上的明星 DeFi 项目之一
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[姚前文章《数据托管促进数据安全与共享》：区块链技术在版权确权和维权方面具有独特优势，它可以不依赖特定机构又能有效规避商业利益与公共服务的冲突。数据托管...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619204906874982401</id>
-        <link href="https://twitter.com/wublockchain12/status/1619204906874982401"/>
-        <updated>2023-01-28T05:25:07.000Z</updated>
-        <summary type="html"><![CDATA[姚前文章《数据托管促进数据安全与共享》：区块链技术在版权确权和维权方面具有独特优势，它可以不依赖特定机构又能有效规避商业利益与公共服务的冲突。数据托管的较好方案是：要么将数据托管在可信的非营利性公共机构，要么将数据托管在基于可信技术的Web3.0平台。阅读全文： https://mp.weixin.qq.com/s/n9VUg9MlyH0ovj001GPQpw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT light: Aptos dev team wallet has started feeding the Korean ducks, ~$20mm in spot sent to Binance in the last hour. $1b in inventory remains in the...]]></title>
         <id>https://twitter.com/lightcrypto/status/1619155047618850818</id>
         <link href="https://twitter.com/lightcrypto/status/1619155047618850818"/>
@@ -510,26 +532,6 @@ $1b in inventory remains in the wallet.
 The tightly controlled supply has activated.]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美联储今日发布最新的监管政策调整声明，该声明明确表示，受委员会监管的未投保和投保银行将受到对国家银行实施的某些活动的相同限制，包括与加密资产...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619139568657379328</id>
-        <link href="https://twitter.com/wublockchain12/status/1619139568657379328"/>
-        <updated>2023-01-28T01:05:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美联储今日发布最新的监管政策调整声明，该声明明确表示，受委员会监管的未投保和投保银行将受到对国家银行实施的某些活动的相同限制，包括与加密资产相关的活动。此外，声明重申，银行必须确保其从事的活动在法律允许的范围内，并以安全稳健的方式开展业务。 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230127a.htm]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说周精选：Aptos TVL 创历史新高、阿联酋强调加密友好政策与新闻Top10（0120-0127）]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619135277175554048</id>
-        <link href="https://twitter.com/wublockchain12/status/1619135277175554048"/>
-        <updated>2023-01-28T00:48:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：Aptos TVL 创历史新高、阿联酋强调加密友好政策与新闻Top10（0120-0127） https://mp.weixin.qq.com/s/YG9BBQT6GowpbFQPSzpfGw]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1031,7 +1033,7 @@ New educational article for the peeps that want to learn a lil more about analys
         <link href="https://twitter.com/8848Community/status/1616834499735875588"/>
         <updated>2023-01-21T16:25:58.000Z</updated>
         <summary type="html"><![CDATA[如果你在 gitcoin 这一轮给 JediSwap 捐款了, 记得填表获得他们的 "Force Wielder Points".
-表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform]]></summary>
+表格: https://docs.google.com/forms/d/e/1FAIpQLSdaB9R_zaIlz6ziqKq_tBprjjmfhsTn2-9EYTzpY9WvgO8smg/viewform https://twitter.com/JediSwap/status/1616810768556789761]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
