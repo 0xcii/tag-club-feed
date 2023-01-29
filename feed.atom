@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T11:10:45.294Z</id>
+    <id>urn:2023-01-29T12:24:03.439Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-29T11:10:45.294Z</updated>
+    <updated>2023-01-29T12:24:03.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我看到了什么?]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1619649278015832066</id>
+        <link href="https://twitter.com/AntCaveClub/status/1619649278015832066"/>
+        <updated>2023-01-29T10:50:54.000Z</updated>
+        <summary type="html"><![CDATA[我看到了什么?
+
+DK: i see you LlamaToken.sol
+@DefiLlama]]></summary>
+        <author>
+            <name>AntCave | (💙,🧡)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lanhubiji 目前只有 $ILV 还没有全民狂欢过🎉。 @illuviumio]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1619648631879122944</id>
+        <link href="https://twitter.com/AntCaveClub/status/1619648631879122944"/>
+        <updated>2023-01-29T10:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @lanhubiji 目前只有 $ILV 还没有全民狂欢过🎉。 @illuviumio]]></summary>
+        <author>
+            <name>AntCave | (💙,🧡)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Arbitrum 上的去中心化衍生品交易所 Vest 宣布完成了来自 Jane Street、QCP Capital、Big Brain Holdings、Ascendex 等的种子轮融资，希望解决上市门...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1619636162603397121</id>
+        <link href="https://twitter.com/wublockchain12/status/1619636162603397121"/>
+        <updated>2023-01-29T09:58:47.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Arbitrum 上的去中心化衍生品交易所 Vest 宣布完成了来自 Jane Street、QCP Capital、Big Brain Holdings、Ascendex 等的种子轮融资，希望解决上市门槛高、缺乏风险管理、LP 汇报不明确等问题。 https://medium.com/@VestExchange/announcing-vest-exchange-a-dex-backed-by-jane-street-qcp-capital-and-big-brain-holdings-894592a28b2c]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1619625069596246017</id>
@@ -121,7 +154,8 @@ H.E. Justin Sun🌞🇬🇩🇩🇲🔥₮: My KPI for 2023 is to get 5 countr
 Kedar: First proposal:
 100k top traders, 300 ZZ each.
 Comment below with better ideas.
-(There are 500k traders total, 30M tokens to airdrop)]]></summary>
+(There are 500k traders total, 30M tokens to airdrop)
+ https://twitter.com/zigzagkedar/status/1618871449925849088]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -202,16 +236,6 @@ Comment below with better ideas.
         <link href="https://twitter.com/wublockchain12/status/1619573699455373316"/>
         <updated>2023-01-29T05:50:34.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，vitalik 近期在稳定币 RAI 的论坛中探讨了 RAI 的抵押品模式从单抵押 ETH 切换为专注于 ETH 以及 staked ETH 的多抵押模式的多种可能性。vitalik 最开始先列举了两种假设，一种是让任意质押者通过类似 Eigenlayer 等工具再利用其质押作为抵押品，但这种方式存在降低系统安全性的风险；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，司法部表示，“我们将对科学调查基础设施进行全面改革，以应对犯罪的现代化。”]]></title>
-        <id>https://twitter.com/wublockchain12/status/1619569711158812672</id>
-        <link href="https://twitter.com/wublockchain12/status/1619569711158812672"/>
-        <updated>2023-01-29T05:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，司法部表示，“我们将对科学调查基础设施进行全面改革，以应对犯罪的现代化。” https://www.khgames.co.kr/news/articleView.html?idxno=208502]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -470,8 +494,7 @@ If you got fucked by the $LUNA / $UST crash and had funds on Terra when it happe
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang
- https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1385,32 +1408,6 @@ Actions speak louder than words.
 聚合 Web3 工作, 寻找全网最新最优质的Web3远程工作包含: 区块链、NFT、DeFi、Dapp、智能合约等. 汇聚多个Web3 招聘网站内容. @AntCaveClub 
 访问: 
 赶快行动吧! 🏃‍♀️🏃‍♀️🏃 https://jobs.antcave.club/]]></summary>
-        <author>
-            <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 25. foresight news job Web 3.0 & 区块链全球资讯前沿站 「遇见」未来。他们汇聚了一份Web3工作面板, 提供各个项目方的招聘需求. 访问: 推特: @Foresight_Ne...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1613467216959401985</id>
-        <link href="https://twitter.com/AntCaveClub/status/1613467216959401985"/>
-        <updated>2023-01-12T09:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 25. foresight news job
-Web 3.0 & 区块链全球资讯前沿站 「遇见」未来。他们汇聚了一份Web3工作面板, 提供各个项目方的招聘需求.
-访问: 
-推特: @Foresight_News https://foresightnews.pro/job]]></summary>
-        <author>
-            <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 24. MetaJob 一站式信息聚合平台，#WEB3 人才跨链桥。这里有最全的招聘以及求职者信息 访问: 推特: @Meta_Job_club]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1613467213763325953</id>
-        <link href="https://twitter.com/AntCaveClub/status/1613467213763325953"/>
-        <updated>2023-01-12T09:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 24. MetaJob
-一站式信息聚合平台，#WEB3 人才跨链桥。这里有最全的招聘以及求职者信息
-访问: 
-推特: @Meta_Job_club https://t.me/MetaJob_Announcement]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
         </author>
