@@ -6,6 +6,76 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1620758738289451008",
+          "author": "吴说区块链",
+          "description": "Re BNB Chain 核心团队与 AWS NodeReal 和 Blockdaemon 等合作，计划在几个月内发布 BNB Greenfield 测试网。 https://www.bnbchain.org/en/greenfield",
+          "link": "https://twitter.com/wublockchain12/status/1620758738289451008",
+          "publishedOn": "2023-02-01T12:19:30.000Z",
+          "wordCount": 498,
+          "title": "Re BNB Chain 核心团队与 AWS NodeReal 和 Blockdaemon 等合作，计划在几个月内发布 BNB Greenfield 测试网。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620758736385216513",
+          "author": "吴说区块链",
+          "description": "吴说获悉，BNB Chain 发布 BNB Greenfield 白皮书，这是一种去中心化存储系统，为 Web3 应用程序集成了智能合约，通过经济激励和惩罚性挑战机制来保证数据可用性，将成为 BNB 生态系统中的第三条区块链。",
+          "link": "https://twitter.com/wublockchain12/status/1620758736385216513",
+          "publishedOn": "2023-02-01T12:19:29.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，BNB Chain 发布 BNB Greenfield 白皮书，这是一种去中心化存储系统，为 Web3 应用程序集成了智能合约，通过经济激励和惩罚性挑战机制来保证数据可用性...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620747929006006275",
+          "author": "吴说区块链",
+          "description": "Re 4、Pourteaux：对比去中心化社交协议 Nostr 和 Farcaster\n\n5、阿剑等对去中心化网络 Nostr 的机制、特性及优点进行介绍讨论 https://www.defidaonews.com/article/6795292 https://t.me/chainfeedsxyz/585",
+          "link": "https://twitter.com/wublockchain12/status/1620747929006006275",
+          "publishedOn": "2023-02-01T11:36:32.000Z",
+          "wordCount": 498,
+          "title": "Re 4、Pourteaux：对比去中心化社交协议 Nostr 和 Farcaster 5、阿剑等对去中心化网络 Nostr 的机制、特性及优点进行介绍讨论",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620747925818331136",
+          "author": "吴说区块链",
+          "description": "关于 Damus 的文章汇总（更新中）：\n1、Foresight：Damus 体验教程 \n2、DeFi 之道：Twitter 存在的问题与 Nostr 的解决方案\n3、律动：Nostr 的设计逻辑和其他去中心化社交网络 https://foresightnews.pro/article/detail/24352 https://www.defidaonews.com/article/6794590 https://www.theblockbeats.info/news/34206",
+          "link": "https://twitter.com/wublockchain12/status/1620747925818331136",
+          "publishedOn": "2023-02-01T11:36:32.000Z",
+          "wordCount": 498,
+          "title": "关于 Damus 的文章汇总（更新中）： 1、Foresight：Damus 体验教程 2、DeFi 之道：Twitter 存在的问题与 Nostr 的解决方案 3、律动：Nostr 的设计逻辑和其他去中...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620746146103853057",
+          "author": "吴说区块链",
+          "description": "Re Tether CTO Paolo 在推文中指出 Tether 从未从 Celsius 获得过任何贷款，文件混淆了“from”和“to”。根据最新的审查员报告，是 Celsius 将其管理的 26.12 亿美元资产作为抵押品，从 Tether 借了 18.23 亿美元的 USDT。（Cointelegraph） https://cointelegraph.com/news/tether-cto-denies-borrowing-from-bankrupt-lender-celsius",
+          "link": "https://twitter.com/wublockchain12/status/1620746146103853057",
+          "publishedOn": "2023-02-01T11:29:27.000Z",
+          "wordCount": 498,
+          "title": "Re Tether CTO Paolo 在推文中指出 Tether 从未从 Celsius 获得过任何贷款，文件混淆了“from”和“to”。根据最新的审查员报告，是 Celsius 将其管理的 26.12 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620729381516890112",
+          "author": "吴说区块链",
+          "description": "Re 基本开发思路是，将 NFT 整体架构视为底图，按需动态渲染生成 NFT 图像，在访问时实时可变数据渲染生成图像。不过，在当前技术条件下，底图结合动态数据驱动实时渲染生成动态 NFT 图像，还需要部署一个中心化服务来配合 DAPP 才能实现。 https://mp.weixin.qq.com/s/UvJ8vVzBrTO2c1TJjsD__g",
+          "link": "https://twitter.com/wublockchain12/status/1620729381516890112",
+          "publishedOn": "2023-02-01T10:22:50.000Z",
+          "wordCount": 498,
+          "title": "Re 基本开发思路是，将 NFT 整体架构视为底图，按需动态渲染生成 NFT 图像，在访问时实时可变数据渲染生成图像。不过，在当前技术条件下，底图结合动态数据驱动...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1620729379650416641",
+          "author": "吴说区块链",
+          "description": "数据驱动的动态 NFT 实现方案：目前 Chainlink 的 dNFT 以及 Solv Protocol 的 ERC-3525 都可实现动态 NFT，如果 NFT 的图像能根据业务流程和外部事件“动起来”，那么无疑将会大大提升 NFT 的应用价值和用户体验。",
+          "link": "https://twitter.com/wublockchain12/status/1620729379650416641",
+          "publishedOn": "2023-02-01T10:22:50.000Z",
+          "wordCount": 498,
+          "title": "数据驱动的动态 NFT 实现方案：目前 Chainlink 的 dNFT 以及 Solv Protocol 的 ERC-3525 都可实现动态 NFT，如果 NFT 的图像能根据业务流程和外部事件“动起来”...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1620721482333847553",
           "author": "吴说区块链",
           "description": "吴说获悉，Cathie Wood 旗下 ARK Invest 在其 2023 年 Big Ideas 研究报告中表示，尽管 2022 年动荡不安，比特币仍有望在十年内以 100 万美元的价格结束，因为它的基本面良好。ARK 在 12 月和 1 月份不断购买 Coinbase (COIN)  股票，扩大其 COIN 头寸。 https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/Big_Ideas/ARK%20Invest_013123_Presentation_Big%20Ideas%202023_Final.pdf",
@@ -133,76 +203,6 @@
           "publishedOn": "2023-02-01T04:19:11.000Z",
           "wordCount": 498,
           "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620637862982197250",
-          "author": "吴说区块链",
-          "description": "吴说获悉，数字资产衍生品交易平台 Hopex 宣布将在 2023 年 2 月 28 日正式停止运营。所有交易对停止新开仓，只允许现有持仓用户进行平仓操作，2 月 5 日 之后所有交易对将停止交易。链上提现功能则将开放至 2 月 28 日，此后所有提现将由人工处理并需进行身份审核，并收取人工处理费用。",
-          "link": "https://twitter.com/wublockchain12/status/1620637862982197250",
-          "publishedOn": "2023-02-01T04:19:11.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，数字资产衍生品交易平台 Hopex 宣布将在 2023 年 2 月 28 日正式停止运营。所有交易对停止新开仓，只允许现有持仓用户进行平仓操作，2 月 5 日 之后所...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620630696208531457",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安慈善机构和 Utiva 已向 1,000 名非洲学生提供技术奖学金，并授予他们参加由币安学院提供的为期一年的教育计划的机会。这些奖学金旨在帮助学习者进入科技行业或通过各种基本的区块链和 Web3 技能进入区块链行业。 https://www.binance.com/en/blog/charity/binance-charity-grants-1000-africans-tech-scholarships-in-collaboration-with-utiva-7308326950063021811",
-          "link": "https://twitter.com/wublockchain12/status/1620630696208531457",
-          "publishedOn": "2023-02-01T03:50:42.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，币安慈善机构和 Utiva 已向 1,000 名非洲学生提供技术奖学金，并授予他们参加由币安学院提供的为期一年的教育计划的机会。这些奖学金旨在帮助学习者进...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620608537494970370",
-          "author": "吴说区块链",
-          "description": "Re Wormhole 此前遭到了黑客公司并且损失了数亿美金，Jump 进行了全额补贴。然而 LayerZero 最近也遭到安全问题的指控。",
-          "link": "https://twitter.com/wublockchain12/status/1620608537494970370",
-          "publishedOn": "2023-02-01T02:22:39.000Z",
-          "wordCount": 498,
-          "title": "Re Wormhole 此前遭到了黑客公司并且损失了数亿美金，Jump 进行了全额补贴。然而 LayerZero 最近也遭到安全问题的指控。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620608535536205824",
-          "author": "吴说区块链",
-          "description": "据 TheBlock，a16z 和 Jump 分别支持 LayerZero 和 Wormhole 成为 Uniswap 在以太坊和 BNBChian 之间的跨链桥。Wormhole 以大约 1100 万票的优势赢得了非约束性测试投票。未来的链上投票尚未启动。a16z 未参与测试投票，但表示会在链上投票中向 LayerZero 投下 1500 万个代币。 https://www.theblock.co/post/207297/uniswap-temperature-check-spurs-feverish-backroom-maneuvering-among-crypto-vc-heavyweights?utm_source=onecryptofeed&utm_medium=social",
-          "link": "https://twitter.com/wublockchain12/status/1620608535536205824",
-          "publishedOn": "2023-02-01T02:22:38.000Z",
-          "wordCount": 498,
-          "title": "据 TheBlock，a16z 和 Jump 分别支持 LayerZero 和 Wormhole 成为 Uniswap 在以太坊和 BNBChian 之间的跨链桥。Wormhole 以大约 1100 万票的优势赢得了非约束性...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620607314658222081",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 ultrasound money 数据，1 月份 ETH 供应量净减少 10,145.72 枚，净通缩价值约为 1600 万美元。当前 ETH 总供应量为 120,515,722 枚，年增长率为 -0.012%。 https://ultrasound.money/",
-          "link": "https://twitter.com/wublockchain12/status/1620607314658222081",
-          "publishedOn": "2023-02-01T02:17:47.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，据 ultrasound money 数据，1 月份 ETH 供应量净减少 10,145.72 枚，净通缩价值约为 1600 万美元。当前 ETH 总供应量为 120,515,722 枚，年增长率为 -...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620599811765571584",
-          "author": "吴说区块链",
-          "description": "Re 此外，据 DeepDAO 数据，当前所有的去中心自治组织约管理着 121 亿美元的资产。 https://deepdao.io/organizations",
-          "link": "https://twitter.com/wublockchain12/status/1620599811765571584",
-          "publishedOn": "2023-02-01T01:47:59.000Z",
-          "wordCount": 498,
-          "title": "Re 此外，据 DeepDAO 数据，当前所有的去中心自治组织约管理着 121 亿美元的资产。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1620599809655869440",
-          "author": "吴说区块链",
-          "description": "Re MakerDAO 和 Lido 约 70% 的团队成员从事与技术相关工作，技术团队支出分别占总预算的 70% 和 60%；MakerDAO 和 Lido 目前每年分别花费 200 万美元和 130 万美元用于链上数据分析，花费 390 万美元和 300 万美元用于智能合约和网络安全。",
-          "link": "https://twitter.com/wublockchain12/status/1620599809655869440",
-          "publishedOn": "2023-02-01T01:47:58.000Z",
-          "wordCount": 498,
-          "title": "Re MakerDAO 和 Lido 约 70% 的团队成员从事与技术相关工作，技术团队支出分别占总预算的 70% 和 60%；MakerDAO 和 Lido 目前每年分别花费 200 万美元和 130 万...",
           "imageUrl": null
         }
       ]
@@ -824,6 +824,16 @@
       "siteUrl": "https://twitter.com/OnChainWizard",
       "articles": [
         {
+          "id": "https://twitter.com/OnChainWizard/status/1620757984010817536",
+          "author": "Onchain Wizard",
+          "description": "$GRAIL hitting an ATH - we covered this one a few months back before the public sale on why it could be positioned to win the Arbitrum DEX wars https://onchainwizard.substack.com/p/another-arbitrum-deep-dive",
+          "link": "https://twitter.com/OnChainWizard/status/1620757984010817536",
+          "publishedOn": "2023-02-01T12:16:30.000Z",
+          "wordCount": 498,
+          "title": "$GRAIL hitting an ATH - we covered this one a few months back before the public sale on why it could be positioned to win the Arbitrum DEX wars",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/sudoswap/status/1620111345676075009",
           "author": "Onchain Wizard",
           "description": "RT sudoswap\nIt's time >s<\n$SUDO governance will be launched later today, along with the lockdrop and airdrop.\nSUDO is initially non-transferable. Transferability can be enabled by a standard governance vote.\nRead below for more details 🔽",
@@ -1004,16 +1014,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/OnChainWizard/status/1614033617465839616",
-          "author": "Onchain Wizard",
-          "description": "Re @SOLBigBrain @lookonchain Thanks for the shout out!    I also do a lot of Arbitrum content/onchain activity as well.",
-          "link": "https://twitter.com/OnChainWizard/status/1614033617465839616",
-          "publishedOn": "2023-01-13T22:56:16.000Z",
-          "wordCount": 498,
-          "title": "Re @SOLBigBrain @lookonchain Thanks for the shout out! I also do a lot of Arbitrum content/onchain activity as well.",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/SOLBigBrain/status/1613986807175122967",
           "author": "Onchain Wizard",
           "description": "RT S◎L Big Brain (33.3%)\nOne of the best skills you can learn and focus on is reading/tracking on chain transactions.\nActions speak louder than words.\n@OnChainWizard newsletter & @lookonchain are solid. They are mainly ETH focused though. Any SOL based On Chain tracking Twitter accounts or newsletters?",
@@ -1030,6 +1030,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1620756991739326464",
+          "author": "DeFi Surfer",
+          "description": "I’m surprised by how much fear there is around FOMC… inflation data is clearly improving. \nClearly still a lot of ptsd in the market from 2022.",
+          "link": "https://twitter.com/DeFiSurfer808/status/1620756991739326464",
+          "publishedOn": "2023-02-01T12:12:33.000Z",
+          "wordCount": 498,
+          "title": "I’m surprised by how much fear there is around FOMC… inflation data is clearly improving. Clearly still a lot of ptsd in the market from 2022.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1620754509382180866",
+          "author": "DeFi Surfer",
+          "description": "Re @ManuAlzuru Gmx and GNS",
+          "link": "https://twitter.com/DeFiSurfer808/status/1620754509382180866",
+          "publishedOn": "2023-02-01T12:02:41.000Z",
+          "wordCount": 498,
+          "title": "Re @ManuAlzuru Gmx and GNS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1620752069719212033",
+          "author": "DeFi Surfer",
+          "description": "Re @kamikaz_ETH Don’t know how going from 75bps / huge % change in rates to 25bps / smol % change in rates is going to terrify the market",
+          "link": "https://twitter.com/DeFiSurfer808/status/1620752069719212033",
+          "publishedOn": "2023-02-01T11:53:00.000Z",
+          "wordCount": 498,
+          "title": "Re @kamikaz_ETH Don’t know how going from 75bps / huge % change in rates to 25bps / smol % change in rates is going to terrify the market",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1620610136342687744",
           "author": "DeFi Surfer",
@@ -1198,36 +1228,6 @@
           "publishedOn": "2023-01-31T22:35:15.000Z",
           "wordCount": 498,
           "title": "Re @CryptoPlainview Pretty sure u have to pay taxes on it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1620545020326547459",
-          "author": "DeFi Surfer",
-          "description": "Re @i_know_n0thing Yea they have a $1B convert due February 2024 probably getting ahead of. Not great doing it at the bottom obviously",
-          "link": "https://twitter.com/DeFiSurfer808/status/1620545020326547459",
-          "publishedOn": "2023-01-31T22:10:15.000Z",
-          "wordCount": 498,
-          "title": "Re @i_know_n0thing Yea they have a $1B convert due February 2024 probably getting ahead of. Not great doing it at the bottom obviously",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1620540510963392513",
-          "author": "DeFi Surfer",
-          "description": "$wdc’s guided gross margin of 10% is the lowest since 2000. \nIf q1 ain’t the bottom god help us lol",
-          "link": "https://twitter.com/DeFiSurfer808/status/1620540510963392513",
-          "publishedOn": "2023-01-31T21:52:20.000Z",
-          "wordCount": 498,
-          "title": "$wdc’s guided gross margin of 10% is the lowest since 2000. If q1 ain’t the bottom god help us lol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1620536667634384896",
-          "author": "DeFi Surfer",
-          "description": "Re @VaughnOkumura Big",
-          "link": "https://twitter.com/DeFiSurfer808/status/1620536667634384896",
-          "publishedOn": "2023-01-31T21:37:04.000Z",
-          "wordCount": 498,
-          "title": "Re @VaughnOkumura Big",
           "imageUrl": null
         }
       ]
