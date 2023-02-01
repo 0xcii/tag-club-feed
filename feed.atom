@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T14:13:00.209Z</id>
+    <id>urn:2023-02-01T15:14:19.203Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T14:13:00.209Z</updated>
+    <updated>2023-02-01T15:14:19.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[加密软件和服务公司 Luxor 推出了一个拍卖平台，用于买卖比特币挖矿硬件。平台将允许买家根据条件、型号类型、位置等请求订单。该公司表示，平台旨在改善二级市...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620787413391118339</id>
+        <link href="https://twitter.com/wublockchain12/status/1620787413391118339"/>
+        <updated>2023-02-01T14:13:26.000Z</updated>
+        <summary type="html"><![CDATA[加密软件和服务公司 Luxor 推出了一个拍卖平台，用于买卖比特币挖矿硬件。平台将允许买家根据条件、型号类型、位置等请求订单。该公司表示，平台旨在改善二级市场的价格发现并增加流动性。（The Block） https://www.theblock.co/post/206741/luxor-launches-auction-style-platform-for-mining-machines?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620786055229362176</id>
+        <link href="https://twitter.com/wublockchain12/status/1620786055229362176"/>
+        <updated>2023-02-01T14:08:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT #bigflip KKGB (Carlo Casio): It’s not rocket science. As cost of capital declines, stocks rise, FCI impulse fades, real disposable incomes grow, C...]]></title>
         <id>https://twitter.com/INArteCarloDoss/status/1620773865453654016</id>
@@ -24,6 +44,16 @@ It’s not rocket science. As cost of capital declines, stocks rise, FCI impulse
         <summary type="html"><![CDATA[Re @rajgokal Solana becomes an eth L2]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 nftgators，1月Polygon NFT 的交易数量连续第二个月超过以太坊 NFT，不过平均交易费用只有 69 美金，远低于以太坊。NFT 借贷生态在月借贷量、借贷...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620768493506539526</id>
+        <link href="https://twitter.com/wublockchain12/status/1620768493506539526"/>
+        <updated>2023-02-01T12:58:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 nftgators，1月Polygon NFT 的交易数量连续第二个月超过以太坊 NFT，不过平均交易费用只有 69 美金，远低于以太坊。NFT 借贷生态在月借贷量、借贷数量、贷方和借方数量方面均创下历史新高，BendDAO 借贷量超过 3600 万美元。 https://www.nftgators.com/ethereum-and-polygon-nfts-soar-as-lending-ecosystem-reaches-new-heights-in-january/]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -273,16 +303,6 @@ jack: a milestone for open protocols...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Twitter 联合创始人 Jack Dorsey 此前捐赠 BTC 的去中心化社交网络 Nostr 已在 Apple App Store 和 Google Play Store 上线名为 Damus 的应用。Jack ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620660503772274688</id>
-        <link href="https://twitter.com/wublockchain12/status/1620660503772274688"/>
-        <updated>2023-02-01T05:49:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Twitter 联合创始人 Jack Dorsey 此前捐赠 BTC 的去中心化社交网络 Nostr 已在 Apple App Store 和 Google Play Store 上线名为 Damus 的应用。Jack 还将其推特介绍改为 #bitcoin #nostr，并附上了其 Damus 地址。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @five5brown_eyes 我吹过你吹过的风 这算不算相拥]]></title>
         <id>https://twitter.com/8848Community/status/1620657403338575879</id>
         <link href="https://twitter.com/8848Community/status/1620657403338575879"/>
@@ -300,26 +320,6 @@ jack: a milestone for open protocols...
         <summary type="html"><![CDATA[haha 逗]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安期权将于 2023 年 2 月 2 日 16 时（UTC+8）推出 BTCUSDT 每日期权，类型为欧式期权合约。BTCUSDT 每日期权的交易期限为两天，并于 16:00（UTC+8...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620638576844369922</id>
-        <link href="https://twitter.com/wublockchain12/status/1620638576844369922"/>
-        <updated>2023-02-01T04:22:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安期权将于 2023 年 2 月 2 日 16 时（UTC+8）推出 BTCUSDT 每日期权，类型为欧式期权合约。BTCUSDT 每日期权的交易期限为两天，并于 16:00（UTC+8）到期。 https://www.binance.com/en/support/announcement/binance-options-will-launch-btcusdt-daily-options-24f6a5472ad049dca43ea2cad5aac0ff]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620637865075154945</id>
-        <link href="https://twitter.com/wublockchain12/status/1620637865075154945"/>
-        <updated>2023-02-01T04:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://h5.hopexfin.com/notify/index.html?id=400&lang=zh-CN]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
