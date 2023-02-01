@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T16:17:56.673Z</id>
+    <id>urn:2023-02-01T17:12:40.441Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T16:17:56.673Z</updated>
+    <updated>2023-02-01T17:12:40.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[数字指纹识别初创公司 Addressable 筹集了 750 万美元的种子轮融资， Viola Ventures 等参投。该公司声称能够将匿名加密钱包与社交媒体账户相匹配，并声称已将17...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620814318509113344</id>
+        <link href="https://twitter.com/wublockchain12/status/1620814318509113344"/>
+        <updated>2023-02-01T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[数字指纹识别初创公司 Addressable 筹集了 750 万美元的种子轮融资， Viola Ventures 等参投。该公司声称能够将匿名加密钱包与社交媒体账户相匹配，并声称已将1700 万加密钱包持有者与他们的 Twitter 账户相匹配。（TechCrunch） https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gains folks is this right? I thought the circulating = FDV?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1620810237669425153</id>
@@ -23,6 +33,16 @@ Governance – 5%
 - A % of circ. supply has been burned via gTrade mechanisms]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国地方法官周三修改了 SBF 的保释条件，禁止其联系 Alameda Research 或 FTX 的任何前任或现任雇员，也禁止使用 Signal 或其他临时消息传递应用程序。检察官声...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620804300330139649</id>
+        <link href="https://twitter.com/wublockchain12/status/1620804300330139649"/>
+        <updated>2023-02-01T15:20:32.000Z</updated>
+        <summary type="html"><![CDATA[美国地方法官周三修改了 SBF 的保释条件，禁止其联系 Alameda Research 或 FTX 的任何前任或现任雇员，也禁止使用 Signal 或其他临时消息传递应用程序。检察官声称，SBF 已经联系了 FTX US 的现任总法律顾问 Ryne Miller，试图影响其未来发表的证词。（CoinDesk） https://www.coindesk.com/policy/2023/02/01/judge-bans-sam-bankman-fried-from-contacting-ftx-employees-and-using-signal/]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -331,30 +351,6 @@ Clearly still a lot of ptsd in the market from 2022.]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1620669354458378241"/>
         <updated>2023-02-01T06:24:19.000Z</updated>
         <summary type="html"><![CDATA[据彭博社，法庭文件显示，截至 2022 年 12 月 31 日 FTX 的现金余额为 14.3  亿美元，高于11 月 20 日的 12.4 亿美元。Alameda Research 的最新数据是 8.766 亿美元，高于 11 月份的 4.01 亿美元。FTX 集团员工人数从 11 月 11 日破产时的 320 人降至 2022 年底的 195 人。 https://www.bloomberg.com/news/articles/2023-02-01/ftx-bankruptcy-filing-lists-1-4-billion-cash-lower-headcount]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络技术初创公司 PKT Pal 的 WiFi 硬件设备“Mini”开始接受预订，零售价为 499 美元。其商业模式类似于 Helium ，当用户分享网络链接时可挖掘并赚取 PKT Token...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620664257833734145</id>
-        <link href="https://twitter.com/wublockchain12/status/1620664257833734145"/>
-        <updated>2023-02-01T06:04:04.000Z</updated>
-        <summary type="html"><![CDATA[网络技术初创公司 PKT Pal 的 WiFi 硬件设备“Mini”开始接受预订，零售价为 499 美元。其商业模式类似于 Helium ，当用户分享网络链接时可挖掘并赚取 PKT Token 奖励。此前该公司于 2022 年 8 月完成 500 万美元融资。（CoinDesk） https://www.coindesk.com/tech/2023/02/01/pkt-pal-expands-its-crypto-powered-wifi-device-lineup-with-launch-of-the-mini/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620660505710051328</id>
-        <link href="https://twitter.com/wublockchain12/status/1620660505710051328"/>
-        <updated>2023-02-01T05:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-jack: a milestone for open protocols...
-#nostr is now officially on the Apple App Store with @damusapp:
- https://apps.apple.com/ca/app/damus/id1628663131]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
