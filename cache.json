@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1621168333323395072",
+          "author": "吴说区块链",
+          "description": "吴说获悉，伯克希尔哈撒韦公司副董事长查理芒格在华尔街日报刊文，呼吁美国全面禁止加密货币，“加密货币不是货币，不是商品，也不是证券，这是一份赌场优势接近 100% 的赌博合同”。 https://www.wsj.com/articles/why-america-should-ban-crypto-regulation-economy-finance-china-england-trading-currency-securities-commodity-gamble-11675287477?st=hw6epglbijkvas0&reflink=share_mobilewebshare",
+          "link": "https://twitter.com/wublockchain12/status/1621168333323395072",
+          "publishedOn": "2023-02-02T15:27:05.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，伯克希尔哈撒韦公司副董事长查理芒格在华尔街日报刊文，呼吁美国全面禁止加密货币，“加密货币不是货币，不是商品，也不是证券，这是一份赌场优势接近...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1621158674562711553",
+          "author": "吴说区块链",
+          "description": "吴说获悉，加密安全和钱包提供商 ZenGo 推出了 EIP-6384 提案以解决离线签名漏洞利用问题。该提案旨在使离线签名既安全又易于用户阅读，在现有的离线签名标准 EIP-712 的基础上添加了一个只能查看的功能，将消息转换为人类可读的形式。 https://zengo.com/offline-signatures-can-drain-your-wallet-eip-6384-can-save-it-part-3-4/",
+          "link": "https://twitter.com/wublockchain12/status/1621158674562711553",
+          "publishedOn": "2023-02-02T14:48:42.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，加密安全和钱包提供商 ZenGo 推出了 EIP-6384 提案以解决离线签名漏洞利用问题。该提案旨在使离线签名既安全又易于用户阅读，在现有的离线签名标准 EI...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1621152353503293441",
           "author": "吴说区块链",
           "description": "自 2020 年以来，加密勒索软件从前 10 名攻击中获取了超过 6930 万美元，其中保险公司 CNA Financial 的 4000 万美元占总数的 57.7%。所有付款均使用比特币进行，勒索软件来自俄罗斯、东欧和伊朗。（The Block） https://www.theblock.co/post/207990/top-crypto-ransomware-attacks-extorted-over-69-million-in-bitcoin-immunefi?utm_source=onecryptofeed&utm_medium=social",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-02-02T08:15:01.000Z",
           "wordCount": 498,
           "title": "分析：新闻发布会上美联储主席鲍威尔表示“我们现在可以第一次说，通胀减缓过程已经开始”，随后市场情绪开始提振，此次发布后也被认为偏鸽派，措辞从“通胀仍居...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1621057917377220608",
-          "author": "吴说区块链",
-          "description": "Re \n\nCos(余弦)😶‍🌫️: ⚠️最近 Telegram 号被盗导致一些人被骗走不少加密货币。除了被木马入侵的，一般都是被社会工程学方式给盗号的。原理其实也简单，骗子是拿到了你主动发给他的 Login code（如图），如果你 Telegram 没开 Two-Step Verification，那么号就可能被盗了。",
-          "link": "https://twitter.com/wublockchain12/status/1621057917377220608",
-          "publishedOn": "2023-02-02T08:08:19.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1621057915452014597",
-          "author": "吴说区块链",
-          "description": "吴说获悉，近期中文电报社区大量出现盗号与盗号者对熟人进行诈骗，主要原因是将手机验证码截图给诈骗者，建议在隐私设置中开启“Two-Step Verification”并且隐藏手机号。",
-          "link": "https://twitter.com/wublockchain12/status/1621057915452014597",
-          "publishedOn": "2023-02-02T08:08:19.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，近期中文电报社区大量出现盗号与盗号者对熟人进行诈骗，主要原因是将手机验证码截图给诈骗者，建议在隐私设置中开启“Two-Step Verification”并且隐...",
           "imageUrl": null
         }
       ]
@@ -629,7 +629,7 @@
         {
           "id": "https://twitter.com/0xrelied/status/1619311018429288448",
           "author": "DΞFi Ξducator",
-          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang",
+          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang\n https://twitter.com/bryptobricks/status/1615062937395433472",
           "link": "https://twitter.com/0xrelied/status/1619311018429288448",
           "publishedOn": "2023-01-28T12:26:46.000Z",
           "wordCount": 498,
@@ -794,16 +794,6 @@
           "publishedOn": "2023-01-13T17:29:49.000Z",
           "wordCount": 498,
           "title": "Re @cobie Also highlights that current DeFi needs to get more user friendly if we want broader adoption",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AvaxGems/status/1610501007129350150",
-          "author": "DΞFi Ξducator",
-          "description": "RT rektGEMS🔺\nDuring last couple weeks we've seen a strong narrative forming around ETH LSD(Liquid Staking Derivatives). As an onchain degen, I've taken some time looking for alternative LSD plays might have high ceiling, let's take a look\n@staderlabs $SD $ETHx\n👇👇🧵",
-          "link": "https://twitter.com/AvaxGems/status/1610501007129350150",
-          "publishedOn": "2023-01-04T04:58:56.000Z",
-          "wordCount": 498,
-          "title": "RT rektGEMS🔺: During last couple weeks we've seen a strong narrative forming around ETH LSD(Liquid Staking Derivatives). As an onchain degen, I've ...",
           "imageUrl": null
         }
       ]
@@ -972,46 +962,6 @@
           "wordCount": 498,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/NorthRockLP/status/1615532556451213313",
-          "author": "Onchain Wizard",
-          "description": "RT Hal Press\nHF buddy told me today:\n\"Retail is back - Net retail demand of $1.0bn is in the 81st %ile for this time of day (Single-Names +$1.1bn, ETFs -$60mm) - $834mm above average.\" \nOn cue, Doge just started to pump....",
-          "link": "https://twitter.com/NorthRockLP/status/1615532556451213313",
-          "publishedOn": "2023-01-18T02:12:31.000Z",
-          "wordCount": 498,
-          "title": "RT Hal Press: HF buddy told me today: \"Retail is back - Net retail demand of $1.0bn is in the 81st %ile for this time of day (Single-Names +$1.1bn, ET...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1615311356785483776",
-          "author": "Onchain Wizard",
-          "description": "Re @DeFi_Brian Fav shilling point is still \"based dev\"",
-          "link": "https://twitter.com/OnChainWizard/status/1615311356785483776",
-          "publishedOn": "2023-01-17T11:33:33.000Z",
-          "wordCount": 498,
-          "title": "Re @DeFi_Brian Fav shilling point is still \"based dev\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1615123251000221697",
-          "author": "Onchain Wizard",
-          "description": "Re @0xFlips @2lambro Fa sho!",
-          "link": "https://twitter.com/OnChainWizard/status/1615123251000221697",
-          "publishedOn": "2023-01-16T23:06:05.000Z",
-          "wordCount": 498,
-          "title": "Re @0xFlips @2lambro Fa sho!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/bubblemaps/status/1615032502753853441",
-          "author": "Onchain Wizard",
-          "description": "RT Bubblemaps\nThis group of wallets made 100x on $CHZ\nFrom $1M to $100M in 2 years - and they never sold.\nWho are those wallets, and what can we learn with on-chain data 🧵",
-          "link": "https://twitter.com/bubblemaps/status/1615032502753853441",
-          "publishedOn": "2023-01-16T17:05:29.000Z",
-          "wordCount": 498,
-          "title": "RT Bubblemaps: This group of wallets made 100x on $CHZ From $1M to $100M in 2 years - and they never sold. Who are those wallets, and what can we lear...",
-          "imageUrl": null
         }
       ]
     },
@@ -1020,6 +970,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1621183993705074688",
+          "author": "DeFi Surfer",
+          "description": "Re @Tendeeno_ @CFrogE1 Violence",
+          "link": "https://twitter.com/DeFiSurfer808/status/1621183993705074688",
+          "publishedOn": "2023-02-02T16:29:18.000Z",
+          "wordCount": 498,
+          "title": "Re @Tendeeno_ @CFrogE1 Violence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1621169242526687232",
+          "author": "DeFi Surfer",
+          "description": "Re @scuttleblurb Just like cash app sq is investing a tiny amount relative to what TBD or Tidal could be. Unlike meta and ar / vr sq is hardly “betting the farm.” Think we should give them the benefit of the doubt",
+          "link": "https://twitter.com/DeFiSurfer808/status/1621169242526687232",
+          "publishedOn": "2023-02-02T15:30:41.000Z",
+          "wordCount": 498,
+          "title": "Re @scuttleblurb Just like cash app sq is investing a tiny amount relative to what TBD or Tidal could be. Unlike meta and ar / vr sq is hardly “betti...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1621168940113092611",
+          "author": "DeFi Surfer",
+          "description": "Re @scuttleblurb You describe well sq’s awesome products and execution, but conclude you’re “ambivalent”",
+          "link": "https://twitter.com/DeFiSurfer808/status/1621168940113092611",
+          "publishedOn": "2023-02-02T15:29:29.000Z",
+          "wordCount": 498,
+          "title": "Re @scuttleblurb You describe well sq’s awesome products and execution, but conclude you’re “ambivalent”",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1621162585109266432",
           "author": "DeFi Surfer",
@@ -1188,36 +1168,6 @@
           "publishedOn": "2023-02-01T20:42:43.000Z",
           "wordCount": 498,
           "title": "I thought it was obvious FOMC would be a nothing burger but apparently the market didn’t. Bearish sentiment indicators have been on the money so far ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1620883786161590273",
-          "author": "DeFi Surfer",
-          "description": "Pour one out for the $coin shorts phew",
-          "link": "https://twitter.com/DeFiSurfer808/status/1620883786161590273",
-          "publishedOn": "2023-02-01T20:36:23.000Z",
-          "wordCount": 498,
-          "title": "Pour one out for the $coin shorts phew",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1620876870488322048",
-          "author": "DeFi Surfer",
-          "description": "Some ape was waiting for JPow to give them the all clear to buy GMX lol",
-          "link": "https://twitter.com/DeFiSurfer808/status/1620876870488322048",
-          "publishedOn": "2023-02-01T20:08:55.000Z",
-          "wordCount": 498,
-          "title": "Some ape was waiting for JPow to give them the all clear to buy GMX lol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TheStalwart/status/1620872513520603156",
-          "author": "DeFi Surfer",
-          "description": "RT Joe Weisenthal\nIn practice, we're seeing that inflation can decelerate without the unemployment rate rising.\nHowever, there's still ambiguity about whether that can happen in theory.",
-          "link": "https://twitter.com/TheStalwart/status/1620872513520603156",
-          "publishedOn": "2023-02-01T19:51:36.000Z",
-          "wordCount": 498,
-          "title": "RT Joe Weisenthal: In practice, we're seeing that inflation can decelerate without the unemployment rate rising. However, there's still ambiguity abou...",
           "imageUrl": null
         }
       ]
