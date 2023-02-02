@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T23:14:03.226Z</id>
+    <id>urn:2023-02-02T01:11:19.743Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T23:14:03.226Z</updated>
+    <updated>2023-02-02T01:11:19.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620936950323773442</id>
+        <link href="https://twitter.com/wublockchain12/status/1620936950323773442"/>
+        <updated>2023-02-02T00:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/207799/bonqdao-exploited-for-88-million-allianceblock-tokens-stolen-during-the-exploit?utm_source=rss&utm_medium=rss]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非托管借贷平台 BonqDAO 和加密基础设施平台 AllianceBlock 因 BonqDAO 的智能合约漏洞而被黑客攻击，损失约 8800 万美元。目前黑客已售出约 120 万美元的 Token...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1620936948369223682</id>
+        <link href="https://twitter.com/wublockchain12/status/1620936948369223682"/>
+        <updated>2023-02-02T00:07:38.000Z</updated>
+        <summary type="html"><![CDATA[非托管借贷平台 BonqDAO 和加密基础设施平台 AllianceBlock 因 BonqDAO 的智能合约漏洞而被黑客攻击，损失约 8800 万美元。目前黑客已售出约 120 万美元的 Token，但由于流动性不足，无法将全部金额转换为稳定币或 ETH。AllianceBlock 正在制定一项决议，以补偿受影响的 albt 持有者。（The Block）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Education's LSD write up published today stated Eth pays out a fixed reward to stakers. This isn't quite accurate as (1) rewards increase logarit...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1620926203778531328</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1620926203778531328"/>
+        <updated>2023-02-01T23:24:56.000Z</updated>
+        <summary type="html"><![CDATA[DeFi Education's LSD write up published today stated Eth pays out a fixed reward to stakers.
+This isn't quite accurate as
+(1) rewards increase logarithmically w/ eth staked; and
+(2) stakers earn 15% of fees generated + tips.
+The $ETH LSD staking opportunity could surprise folks
+
+DeFi Surfer: Using the issuance at these various points, we can create a formula to estimate issuance across various staking rates.
+There are currently 13.4M $ETH staked. 
+Assuming 15M ETH staked by the merge, validators would be earning ~0.7M ETH annually from staking issuance.]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ethersole @pudgypenguins FRESH]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1620908448937394182</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1620908448937394182"/>
+        <updated>2023-02-01T22:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @ethersole @pudgypenguins FRESH]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Riley_gmi Send it Riley send it]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1620908397624180738</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1620908397624180738"/>
+        <updated>2023-02-01T22:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @Riley_gmi Send it Riley send it]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pour one out for all the tech bears really]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1620897979224952832</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1620897979224952832"/>
+        <updated>2023-02-01T21:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Pour one out for all the tech bears really
+
+DeFi Surfer: Pour one out for the $coin shorts phew]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLIC’s book to bill went up! Bears are so fucked 😆]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1620897174870532109</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1620897174870532109"/>
+        <updated>2023-02-01T21:29:35.000Z</updated>
+        <summary type="html"><![CDATA[KLIC’s book to bill went up!
+Bears are so fucked 😆]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I thought it was obvious FOMC would be a nothing burger but apparently the market didn’t. Bearish sentiment indicators have been on the money so far ...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1620885378810150912</id>
@@ -378,26 +459,6 @@ Clearly still a lot of ptsd in the market from 2022.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Ripple 发布 2022 年第四季度市场报告，该季度净出售 2.2631 亿美元 XRP，上季度为 3.1068 亿美元。XRP 现货市场总体呈下降趋势，平均日交易量目前约...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620680463672295424</id>
-        <link href="https://twitter.com/wublockchain12/status/1620680463672295424"/>
-        <updated>2023-02-01T07:08:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Ripple 发布 2022 年第四季度市场报告，该季度净出售 2.2631 亿美元 XRP，上季度为 3.1068 亿美元。XRP 现货市场总体呈下降趋势，平均日交易量目前约为 7 亿美元，低于 2022 年第一季度的 11 亿美元。 https://ripple.com/insights/q4-2022-xrp-markets-report/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据韩国经济新闻网，韩国金融服务委员会向韩国五家主要加密交易所（Upbit、Bithumb、Coinone、Korbit 和 Gopax）发出指示，要求下架和分类具有证券性质的虚拟资产...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1620677540636676096</id>
-        <link href="https://twitter.com/wublockchain12/status/1620677540636676096"/>
-        <updated>2023-02-01T06:56:51.000Z</updated>
-        <summary type="html"><![CDATA[据韩国经济新闻网，韩国金融服务委员会向韩国五家主要加密交易所（Upbit、Bithumb、Coinone、Korbit 和 Gopax）发出指示，要求下架和分类具有证券性质的虚拟资产。有观点认为，如果该指导方针得以实现，加密交易所中许多 Token 都将被下架或转移至证券公司。 https://www.hankyung.com/finance/article/202302017732B]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @five5brown_eyes 我吹过你吹过的风 这算不算相拥]]></title>
         <id>https://twitter.com/8848Community/status/1620657403338575879</id>
         <link href="https://twitter.com/8848Community/status/1620657403338575879"/>
@@ -415,57 +476,6 @@ Clearly still a lot of ptsd in the market from 2022.]]></summary>
         <summary type="html"><![CDATA[haha 逗]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BobEUnlimited @MacroAlf alf is likely to be way off the mark]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1620610136342687744</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1620610136342687744"/>
-        <updated>2023-02-01T02:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @BobEUnlimited @MacroAlf alf is likely to be way off the mark]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.@arbitrum and @optimismFND continue to grow faster than @ethereum at a similar point in its growth curve. While tx activity is down daily verified co...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1620606602826125312</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1620606602826125312"/>
-        <updated>2023-02-01T02:14:58.000Z</updated>
-        <summary type="html"><![CDATA[.@arbitrum and @optimismFND continue to grow faster than @ethereum at a similar point in its growth curve.
-While tx activity is down daily verified contracts for Ethereum still looking very strong. Devs continue doing something despite the market slowdown.]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @mhonkasalo womp]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1620585554558734337</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1620585554558734337"/>
-        <updated>2023-02-01T00:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @mhonkasalo womp]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dylan522p @PGelsinger so so stupid]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1620584887806992386</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1620584887806992386"/>
-        <updated>2023-02-01T00:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @dylan522p @PGelsinger so so stupid]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CapitanKahir I would also add $rpl has been around for a while and is crushing it]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1620584736224858112</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1620584736224858112"/>
-        <updated>2023-02-01T00:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @CapitanKahir I would also add $rpl has been around for a while and is crushing it]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -612,7 +622,8 @@ If you got fucked by the $LUNA / $UST crash and had funds on Terra when it happe
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang
+ https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
