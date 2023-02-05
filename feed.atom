@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T05:12:02.421Z</id>
+    <id>urn:2023-02-05T06:16:17.675Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T05:12:02.421Z</updated>
+    <updated>2023-02-05T06:16:17.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 不过，在 Damus 上线经历短暂的活跃后，日活跃用户和发贴用户正在迅速下降。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622094839365136384</id>
+        <link href="https://twitter.com/wublockchain12/status/1622094839365136384"/>
+        <updated>2023-02-05T04:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过，在 Damus 上线经历短暂的活跃后，日活跃用户和发贴用户正在迅速下降。 https://nostr.band/stats.html#total_users]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 nostr band 数据，当前去中心化社交协议 Nostr 账户数超过 72 万，其中发过帖子的账户数达 36.8 万，增长高峰第一次是在 12 月 20 日，在 Twitter ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622094662445174785</id>
+        <link href="https://twitter.com/wublockchain12/status/1622094662445174785"/>
+        <updated>2023-02-05T04:47:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 nostr band 数据，当前去中心化社交协议 Nostr 账户数超过 72 万，其中发过帖子的账户数达 36.8 万，增长高峰第一次是在 12 月 20 日，在 Twitter 联创 Jack Dorsey 捐赠约 14 枚 BTC 之后；第二次是在 1 月 31 日基于 Nostr 的 Damus 社交网络的发布。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re OpenSea 1 月份交易量同比增长近 35%，近一个月销毁了超过 5600 枚 ETH。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622087165235851264</id>
+        <link href="https://twitter.com/wublockchain12/status/1622087165235851264"/>
+        <updated>2023-02-05T04:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Re OpenSea 1 月份交易量同比增长近 35%，近一个月销毁了超过 5600 枚 ETH。 https://dune.com/deleted/18079-X2Y2-NFT-Marketplace https://dune.com/queries/1964215/3244666]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Dune Analytics 数据，近期主要 NFT 交易市场交易量明显回升，2 月4 日 X2Y2 单日交易量达 10.43k ETH，产生了 47.66 ETH 手续费，创下自去年 9 月...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622087162807320576</id>
+        <link href="https://twitter.com/wublockchain12/status/1622087162807320576"/>
+        <updated>2023-02-05T04:18:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Dune Analytics 数据，近期主要 NFT 交易市场交易量明显回升，2 月4 日 X2Y2 单日交易量达 10.43k ETH，产生了 47.66 ETH 手续费，创下自去年 9 月以来高点；LooksRare 在过去一周非 wash-trade 交易量近 5 百万美金，创下自 2022 年初以来高点；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Jasper_ETH @AaveAave Wen]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1622077629787512833</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1622077629787512833"/>
+        <updated>2023-02-05T03:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @Jasper_ETH @AaveAave Wen]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BurggrabenH @agnostoxxx 10 yr at 3.5%, spx at 5.5-6% earnings yield. Not that crazy]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1622077059114598400</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1622077059114598400"/>
+        <updated>2023-02-05T03:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @BurggrabenH @agnostoxxx 10 yr at 3.5%, spx at 5.5-6% earnings yield. Not that crazy]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re]]></title>
         <id>https://twitter.com/wublockchain12/status/1622070779545546752</id>
@@ -13,8 +73,7 @@
         <summary type="html"><![CDATA[Re 
 
 Garga.eth (Greg Solano): A reminder - while there are some real-time cheat detection checks in Dookey Dash, additional score audits are performed async and will continue after the game ends. Do sketchy shit and get flagged for review 
-and your score may get sent to zero after audit.
- https://twitter.com/CryptoGarga/status/1618335262366633985]]></summary>
+and your score may get sent to zero after audit.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -301,16 +360,6 @@ DeFi Surfer: This little pump not even registering]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @amazonholder1 It’s looks sick af]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1621907161193320455</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1621907161193320455"/>
-        <updated>2023-02-04T16:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @amazonholder1 It’s looks sick af]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✨ 蚁穴推荐 ✨ 网站: CodesLaw 描述: <p>搜索经过验证的智能合约</p> 链接: #CodesLaw #codeslaw]]></title>
         <id>https://twitter.com/AntCaveClub/status/1621901485838667778</id>
         <link href="https://twitter.com/AntCaveClub/status/1621901485838667778"/>
@@ -322,16 +371,6 @@ DeFi Surfer: This little pump not even registering]]></summary>
 #CodesLaw  #codeslaw https://antcave.club/sites/2350.html]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 years after the creation of #bitcoin if you don’t at least understand the crypto thesis that’s on you dawg]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1621899350212329475</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1621899350212329475"/>
-        <updated>2023-02-04T15:51:53.000Z</updated>
-        <summary type="html"><![CDATA[14 years after the creation of #bitcoin if you don’t at least understand the crypto thesis that’s on you dawg]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -384,8 +423,7 @@ EthereumFair($ETHF) #PeoplePOW: Today, we have discussed the dogecoin fork wit
         <summary type="html"><![CDATA[Re 此外，FLEX 是 SAFU (Secure Asset Fund for Users)，供应是固定的100M ，整个过程在链上都是公开透明的，并非秘密铸造 FLEX token。
 
 Mark Lamb 💪: Chain swap similar to USDC-SOL moving to USDC-ERC20. In this case, it’s FLEX moving from SLP and SmartBCH to ERC20 in relation to users withdrawing on ERC20.
-FLEX are SAFU. The supply is 100M fixed & this process isn’t secretive, it’s all publicly transparent on chain.
- https://twitter.com/scopeprotocol/status/1621826515695714304]]></summary>
+FLEX are SAFU. The supply is 100M fixed & this process isn’t secretive, it’s all publicly transparent on chain.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -406,46 +444,6 @@ FLEX are SAFU. The supply is 100M fixed & this process isn’t secretive, it’s
         <link href="https://twitter.com/wublockchain12/status/1621836611490312194"/>
         <updated>2023-02-04T11:42:35.000Z</updated>
         <summary type="html"><![CDATA[Re  https://twitter.com/ScopeProtocol/status/1621826515695714304]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，FLEX token 自 GTX 事件爆出后就涨了近30倍，推测可能是 Coinflex 在给债权人或者投资人 mint token，借着这波休息面上涨，用以还债。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1621836236792152066</id>
-        <link href="https://twitter.com/wublockchain12/status/1621836236792152066"/>
-        <updated>2023-02-04T11:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，FLEX token 自 GTX 事件爆出后就涨了近30倍，推测可能是 Coinflex 在给债权人或者投资人 mint token，借着这波休息面上涨，用以还债。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@ScopeProtocol，Coinflex 交易所的 FLEX token 最近几天被大量 mint，自1月26日到目前为止，大概有1400万美元的 FLEX 被 mint，随后转给了约40个地...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1621836168995422208</id>
-        <link href="https://twitter.com/wublockchain12/status/1621836168995422208"/>
-        <updated>2023-02-04T11:40:49.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@ScopeProtocol，Coinflex 交易所的 FLEX token 最近几天被大量 mint，自1月26日到目前为止，大概有1400万美元的 FLEX 被 mint，随后转给了约40个地址，其中一些地址拿到后就在链上卖出。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1621803747583352833</id>
-        <link href="https://twitter.com/wublockchain12/status/1621803747583352833"/>
-        <updated>2023-02-04T09:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.coindesk.com/business/2023/02/03/craig-wrights-uk-case-against-16-bitcoin-developers-to-go-to-full-trial-report/?utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_term=organic]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国上诉法院裁定，Craig Wright 的 Tulip Trading 针对 16 名比特币开发商提出的索赔应在伦敦开庭审理。该索赔最初于 2022 年 3 月被驳回。该索赔称，开发商负...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1621803744701857798</id>
-        <link href="https://twitter.com/wublockchain12/status/1621803744701857798"/>
-        <updated>2023-02-04T09:31:59.000Z</updated>
-        <summary type="html"><![CDATA[英国上诉法院裁定，Craig Wright 的 Tulip Trading 针对 16 名比特币开发商提出的索赔应在伦敦开庭审理。该索赔最初于 2022 年 3 月被驳回。该索赔称，开发商负有“信托责任”和“侵权责任”重写或修改比特币协议代码，以便让 Wright 从两个钱包中获得 111,000 个比特币。（CoinDesk）]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
