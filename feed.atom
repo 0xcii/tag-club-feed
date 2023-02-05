@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T09:12:43.686Z</id>
+    <id>urn:2023-02-05T10:13:29.060Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T09:12:43.686Z</updated>
+    <updated>2023-02-05T10:13:29.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xkyle__ Yes. A lot of it comes down to finding wallets that Have adapted vs following 2021 wallets]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1622168598524329986</id>
+        <link href="https://twitter.com/OnChainWizard/status/1622168598524329986"/>
+        <updated>2023-02-05T09:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xkyle__ Yes.   A lot of it comes down to finding wallets that Have adapted vs following 2021 wallets]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @bobby_x5 Lot of retail trading in the stock market]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1622168436276183041</id>
+        <link href="https://twitter.com/OnChainWizard/status/1622168436276183041"/>
+        <updated>2023-02-05T09:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @bobby_x5 Lot of retail trading in the stock market]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622162671817887745</id>
+        <link href="https://twitter.com/wublockchain12/status/1622162671817887745"/>
+        <updated>2023-02-05T09:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+H.E. Justin Sun🇬🇩🇩🇲🔥₮: Please be aware of fake $FUD token on #Ethereum. The real FUD token is only on #TRON
+ https://tronscan.org/#/token20/TQWQTZ7LzyttfnHQyfLUkKUs8eZZepgXiQ https://twitter.com/PeckShieldAlert/status/1622153042144661506]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，PeckShield 发推表示，发现了虚假的 FUD 代币转至火币，冒充火币增加流动性，后又将数百万 $FUD 转至孙宇晨地址。孙宇晨表示，真正的 FUD 代币只在 Tr...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622162622639656961</id>
+        <link href="https://twitter.com/wublockchain12/status/1622162622639656961"/>
+        <updated>2023-02-05T09:18:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，PeckShield 发推表示，发现了虚假的 FUD 代币转至火币，冒充火币增加流动性，后又将数百万 $FUD 转至孙宇晨地址。孙宇晨表示，真正的 FUD 代币只在 Tron 上发行。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 知名加密律师 @wassielawyer 指出，这不是债务代币，而是一种证券化，并非所有债务索赔都是平等且可替代的，这一定违反了证券法规，Huobi 直接列出了一部分可...]]></title>
         <id>https://twitter.com/wublockchain12/status/1622119574262132736</id>
@@ -15,7 +58,7 @@
 wassielawyer: So apparently Huobi is listing these 'FTX debt' tokens.
 For the love of Christ this isn't even a debt token, its a securitization.
 This is such a terrible idea on so many levels. Also - not all debt claims are equal and fungible.
- https://www.huobi.com/support/en-us/detail/74929890563477]]></summary>
+ https://www.huobi.com/support/en-us/detail/74929890563477 https://twitter.com/debtdaoio/status/1621873403249709057]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -165,7 +208,8 @@ Retail is calling Aptos “apartment” claiming people can one day afford to pu
         <summary type="html"><![CDATA[Re 
 
 Garga.eth (Greg Solano): A reminder - while there are some real-time cheat detection checks in Dookey Dash, additional score audits are performed async and will continue after the game ends. Do sketchy shit and get flagged for review 
-and your score may get sent to zero after audit.]]></summary>
+and your score may get sent to zero after audit.
+ https://twitter.com/CryptoGarga/status/1618335262366633985]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -226,26 +270,6 @@ Bit余烬: 朋友们元宵节快乐鸭~
 三个用于解锁分配的多签地址一共转出了 1.7 亿 SAND（总量的 5.67%，价值 $130M），其中：
 Genesis（创世）地址转出 9700 万 SAND，其中 4000 万直接转进了币安；
 Multisig 地址转出 4800 万 SAND，其中 2400 万直接转进了币安；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BitcoinEmber，最近24小时内，Sandbox 已开始大规模解锁，多签地址一共转出了 1.7 亿 SAND，其中 7800 万（$60M）是直接转进币安存款地址。Genesi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622061533680529408</id>
-        <link href="https://twitter.com/wublockchain12/status/1622061533680529408"/>
-        <updated>2023-02-05T02:36:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BitcoinEmber，最近24小时内，Sandbox 已开始大规模解锁，多签地址一共转出了 1.7 亿 SAND，其中 7800 万（$60M）是直接转进币安存款地址。Genesis（创世）地址转出 9700 万 SAND，其中 4000 万直接转进了币安。SAND 24小时上涨 1.3%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 阅读全文：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622060491685392384</id>
-        <link href="https://twitter.com/wublockchain12/status/1622060491685392384"/>
-        <updated>2023-02-05T02:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文： https://mirror.xyz/bitcrab.eth/T3gIfKepjfs3YUiRWTgCTqS6gc8LaC5z7lYKQY-HLEE]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -336,10 +360,7 @@ Multisig 地址转出 4800 万 SAND，其中 2400 万直接转进了币安；]]>
         <link href="https://twitter.com/btcharlatan/status/1621975151850954755"/>
         <updated>2023-02-04T20:53:05.000Z</updated>
         <summary type="html"><![CDATA[RT Btcharlatan 🎩
-Ty based @OnChainWizard, subscribe to his newsletter
-
-
-Btcharlatan 🎩: The holy $grail]]></summary>
+Ty based @OnChainWizard, subscribe to his newsletter]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -771,10 +792,7 @@ DK: i see you LlamaToken.sol
         <link href="https://twitter.com/0xrelied/status/1619311018429288448"/>
         <updated>2023-01-28T12:26:46.000Z</updated>
         <summary type="html"><![CDATA[RT relied🫐🎲
-1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
-
-Andrew Kang: #OperationLiquidateAndrewKang
- https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
+1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check. https://twitter.com/Rewkang/status/1616476297844391936?s=20&t=pCdnLJQXcDbOL2369d4jXQ]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1272,19 +1290,6 @@ Here you go, have fun; https://wakeful-vinyl-d36.notion.site/Rain-Coffee-s-Rea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Hal Press: HF buddy told me today: "Retail is back - Net retail demand of $1.0bn is in the 81st %ile for this time of day (Single-Names +$1.1bn, ET...]]></title>
-        <id>https://twitter.com/NorthRockLP/status/1615532556451213313</id>
-        <link href="https://twitter.com/NorthRockLP/status/1615532556451213313"/>
-        <updated>2023-01-18T02:12:31.000Z</updated>
-        <summary type="html"><![CDATA[RT Hal Press
-HF buddy told me today:
-"Retail is back - Net retail demand of $1.0bn is in the 81st %ile for this time of day (Single-Names +$1.1bn, ETFs -$60mm) - $834mm above average." 
-On cue, Doge just started to pump....]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @RRRidley_ Thanks will delet ser]]></title>
         <id>https://twitter.com/DeFi_educator/status/1615491105927086080</id>
         <link href="https://twitter.com/DeFi_educator/status/1615491105927086080"/>
@@ -1314,16 +1319,6 @@ Am I doing this right?]]></summary>
         <summary type="html"><![CDATA[Re @CryptoDamus411 👀]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DeFi_Brian Fav shilling point is still "based dev"]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1615311356785483776</id>
-        <link href="https://twitter.com/OnChainWizard/status/1615311356785483776"/>
-        <updated>2023-01-17T11:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @DeFi_Brian Fav shilling point is still "based dev"]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
