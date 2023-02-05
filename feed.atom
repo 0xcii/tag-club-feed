@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T16:17:19.613Z</id>
+    <id>urn:2023-02-05T17:11:25.195Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T16:17:19.613Z</updated>
+    <updated>2023-02-05T17:11:25.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,16 @@
 @DefiLlama https://swap.defillama.com/]]></summary>
         <author>
             <name>AntCave | (💙,🧡)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622239318554324993</id>
+        <link href="https://twitter.com/wublockchain12/status/1622239318554324993"/>
+        <updated>2023-02-05T14:22:47.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -321,20 +331,6 @@ and your score may get sent to zero after audit.]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1622070742983786497"/>
         <updated>2023-02-05T03:12:56.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Yuga Labs 联合创始人 Greg Solano 发推称，虽然 Dookey Dash 中存在一些实时作弊检测，但额外的得分审核是异步执行的，将在游戏结束后继续进行。作弊会被标记并接受审查，玩家的得分可能在审查后被减为零。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622064220316778498</id>
-        <link href="https://twitter.com/wublockchain12/status/1622064220316778498"/>
-        <updated>2023-02-05T02:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-Ryan Carson: gm everyone. 
-I woke up to a lot of messages about our announcement of Flux and our investors.
-I’d like to lay it all out and then I’ll do a Twitter Space tomorrow and everyone is welcome to join and ask me any questions.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
