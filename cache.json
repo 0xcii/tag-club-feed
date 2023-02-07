@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1622811413302607872",
+          "author": "吴说区块链",
+          "description": "加密货币银行公司 Juno 在选择 Zero Hash（零哈希）作为其新的加密货币托管人后，恢复其核心加密服务产品。此前该公司因原托管人 Wyre 的不确定性被迫暂停服务。（CoinDesk） https://www.coindesk.com/business/2023/02/07/crypto-bank-juno-resumes-services-after-pause/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines",
+          "link": "https://twitter.com/wublockchain12/status/1622811413302607872",
+          "publishedOn": "2023-02-07T04:16:05.000Z",
+          "wordCount": 498,
+          "title": "加密货币银行公司 Juno 在选择 Zero Hash（零哈希）作为其新的加密货币托管人后，恢复其核心加密服务产品。此前该公司因原托管人 Wyre 的不确定性被迫暂停服务。...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1622805506770489344",
+          "author": "吴说区块链",
+          "description": "Re \n\nPeckShield Inc.: It seems (1) @CoWSwap's GPv2Settlement contract has been tricked  10 days ago to approve SwapGuard for DAI spending and (2) SwapGuard was just triggered to transfer out DAI from GPv2Settlement. Here are the two related txs:\n\n https://etherscan.io/tx/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1 https://etherscan.io/tx/0x90b468608fbcc7faef46502b198471311baca3baab49242a4a85b73d4924379b",
+          "link": "https://twitter.com/wublockchain12/status/1622805506770489344",
+          "publishedOn": "2023-02-07T03:52:37.000Z",
+          "wordCount": 498,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1622805504866267136",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 PeckShield ，DEX CoWSwap 疑似被攻击，其 GPv2Settlement 合约在 10 天前被欺骗批准 SwapGuard 用于 DAI 支出，且 SwapGuard 刚刚被触发从 GPv2Settlement 中转出 DAI，链上数据显示其合约地址已转出超 11.4 万枚 DAI。",
+          "link": "https://twitter.com/wublockchain12/status/1622805504866267136",
+          "publishedOn": "2023-02-07T03:52:37.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，据 PeckShield ，DEX CoWSwap 疑似被攻击，其 GPv2Settlement 合约在 10 天前被欺骗批准 SwapGuard 用于 DAI 支出，且 SwapGuard 刚刚被触发从 GPv2Se...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1622803934904725504",
+          "author": "吴说区块链",
+          "description": "Re OKX 表示，风控在核实后已经解除相关限制。",
+          "link": "https://twitter.com/wublockchain12/status/1622803934904725504",
+          "publishedOn": "2023-02-07T03:46:22.000Z",
+          "wordCount": 498,
+          "title": "Re OKX 表示，风控在核实后已经解除相关限制。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1622784262851424256",
+          "author": "吴说区块链",
+          "description": "Re 吴说获悉，a16z 工程主管 @eddylazzarin 在推文中对 a16z 在 Uniswap 基金会治理中的投票权做出澄清：我们将 4000 万票委托给外部团体（对他们的投票方式没有任何限制），我们用 1500 万个 Token 进行投票，不到其委托给他人的一半。\n\nEddy Lazzarin ☀️🔭: Seeing many false claims about a16z crypto's voting power in Uniswap Foundation governance. Let me clear it up:\n🗳️ We delegate ~40m votes to outside groups (with no conditions on how they vote).\n⚖️ We vote with 15m tokens (less than half what we've delegated to others).",
+          "link": "https://twitter.com/wublockchain12/status/1622784262851424256",
+          "publishedOn": "2023-02-07T02:28:12.000Z",
+          "wordCount": 498,
+          "title": "Re 吴说获悉，a16z 工程主管 @eddylazzarin 在推文中对 a16z 在 Uniswap 基金会治理中的投票权做出澄清：我们将 4000 万票委托给外部团体（对他们的投票方式没有...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1622777067631943681",
           "author": "吴说区块链",
           "description": "Re Stargate DAO 在近一个月除了 Pool、Farm 等的常规部署投票外，最引人注目的是已投票通过重新发行新的 Stargate（STG）Token 并空投给现有持有者的提案。 https://flipsidegov-snapshot.vercel.app/",
@@ -153,56 +203,6 @@
           "publishedOn": "2023-02-07T00:20:56.000Z",
           "wordCount": 498,
           "title": "区块链咨询公司 Elementus 完成由 ParaFi Capital 领投的 1000 万美元 A-2 轮融资，目前其总融资额已达 2700 万美元。该公司正在构建一个 web3 数据智能工具，使...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1622750915165057027",
-          "author": "吴说区块链",
-          "description": "Re \n\nCoinbase Assets: Trading will begin on or after 9AM PT on 7 February 2023, if liquidity conditions are met. Once sufficient supply of this asset is established trading on our AXL-USD trading pair will launch in phases. Support for AXL may be restricted in some supported jurisdictions.",
-          "link": "https://twitter.com/wublockchain12/status/1622750915165057027",
-          "publishedOn": "2023-02-07T00:15:42.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1622750913256620037",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Coinbase 宣布将在 Axelar 网络上添加对 Axelar (AXL) 的支持，若满足流动性条件，交易将于 2023 年 2 月 8 日 0 点或之后开始。此外 Coinbase 还将 Voxies (VOXEL) 添加至路线图资产。",
-          "link": "https://twitter.com/wublockchain12/status/1622750913256620037",
-          "publishedOn": "2023-02-07T00:15:41.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，Coinbase 宣布将在 Axelar 网络上添加对 Axelar (AXL) 的支持，若满足流动性条件，交易将于 2023 年 2 月 8 日 0 点或之后开始。此外 Coinbase 还将 V...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1622750494325354498",
-          "author": "吴说区块链",
-          "description": "Re \n\nCZ 🔶 Binance: It is worth noting that USD bank transfers are leveraged by only 0.01% of our monthly active users.\nHowever, we appreciate that this is still a bad user experience and the team is working on quickly resolving this issue.\n https://twitter.com/binance/status/1622669988560609293",
-          "link": "https://twitter.com/wublockchain12/status/1622750494325354498",
-          "publishedOn": "2023-02-07T00:14:01.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1622750492391788544",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安宣布从 2 月 8 日起将暂停所有美元银行转账，直到新的银行合作伙伴建立。只有部分用户会受到影响（CZ 表示这部分用户仅占月度活跃用户的 0.01%），其将尽快重启服务。Binance US 不受此公告影响。",
-          "link": "https://twitter.com/wublockchain12/status/1622750492391788544",
-          "publishedOn": "2023-02-07T00:14:01.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，币安宣布从 2 月 8 日起将暂停所有美元银行转账，直到新的银行合作伙伴建立。只有部分用户会受到影响（CZ 表示这部分用户仅占月度活跃用户的 0.01%）...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1622748963089825792",
-          "author": "吴说区块链",
-          "description": "Re DCG 还将向 Genesis Global Holdco 出售其在 Genesis Global Trading (“GGT”) 的股权，将所有 Genesis 实体纳入同一控股公司。 https://www.businesswire.com/news/home/20230206005640/en/Genesis-Reaches-Agreement-in-Principle-with-DCG-and-Key-Creditors-on-a-Global-Resolution-that-Optimizes-Outcome-for-Clients-and-Stakeholders",
-          "link": "https://twitter.com/wublockchain12/status/1622748963089825792",
-          "publishedOn": "2023-02-07T00:07:56.000Z",
-          "wordCount": 498,
-          "title": "Re DCG 还将向 Genesis Global Holdco 出售其在 Genesis Global Trading (“GGT”) 的股权，将所有 Genesis 实体纳入同一控股公司。",
           "imageUrl": null
         }
       ]
@@ -639,7 +639,7 @@
         {
           "id": "https://twitter.com/bubblemaps/status/1622295931117879301",
           "author": "DΞFi Ξducator",
-          "description": "RT Bubblemaps\nYou’re being lied to about the governance of UNI\n@a16z could control 41.5M UNI through 11 wallets, which represents more than 4% of the supply \n4% is the required amount to pass any proposal 🧵↓\n\n\n\nCZ 🔶 Binance: Uniswap controlled by a16z?\n https://twitter.com/chrisblec/status/1622201701921964035",
+          "description": "RT Bubblemaps\nYou’re being lied to about the governance of UNI\n@a16z could control 41.5M UNI through 11 wallets, which represents more than 4% of the supply \n4% is the required amount to pass any proposal 🧵↓\n\n\n\nCZ 🔶 Binance: Uniswap controlled by a16z?",
           "link": "https://twitter.com/bubblemaps/status/1622295931117879301",
           "publishedOn": "2023-02-05T18:07:45.000Z",
           "wordCount": 498,
@@ -649,7 +649,7 @@
         {
           "id": "https://twitter.com/0xrelied/status/1619311018429288448",
           "author": "DΞFi Ξducator",
-          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang\n https://twitter.com/bryptobricks/status/1615062937395433472",
+          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang",
           "link": "https://twitter.com/0xrelied/status/1619311018429288448",
           "publishedOn": "2023-01-28T12:26:46.000Z",
           "wordCount": 498,
