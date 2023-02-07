@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T06:17:31.331Z</id>
+    <id>urn:2023-02-07T07:12:41.089Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-07T06:17:31.331Z</updated>
+    <updated>2023-02-07T07:12:41.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622836372909465600</id>
+        <link href="https://twitter.com/wublockchain12/status/1622836372909465600"/>
+        <updated>2023-02-07T05:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Pierre Rochard: BREAKING: ordinal inscriptions are consuming 50% of #bitcoin block space]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，加密矿企 Riot Platforms 研究副总裁 Pierre Rochard 在推文表示，Ordinal 的 Inscriptions（铭文）正在消耗 50% 的比特币区块空间，区块空间利用率为...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622836370946543616</id>
+        <link href="https://twitter.com/wublockchain12/status/1622836370946543616"/>
+        <updated>2023-02-07T05:55:16.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，加密矿企 Riot Platforms 研究副总裁 Pierre Rochard 在推文表示，Ordinal 的 Inscriptions（铭文）正在消耗 50% 的比特币区块空间，区块空间利用率为 100%，费率中位数下降。据 OKLink 显示，昨日比特币日平均区块大小约为 2MB，创 3 年来新高。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re NFT 流动性差、NFT 难以估值定价等上游问题没有得到很好的解决，制约了下游的 NFTFi 产品开发，无法释放 NFT 长尾资产的潜力。阅读全文：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622832652792524800</id>
+        <link href="https://twitter.com/wublockchain12/status/1622832652792524800"/>
+        <updated>2023-02-07T05:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Re NFT 流动性差、NFT 难以估值定价等上游问题没有得到很好的解决，制约了下游的 NFTFi 产品开发，无法释放 NFT 长尾资产的潜力。阅读全文： https://www.theblockbeats.info/news/34315]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 nftperp 来盘点 NFT 永续合约赛道（撰文：0xLaughing，律动 BlockBeats ）:nftperp 的「真实地板价」对于数据质量和计算方式要求很高，由于 NFT 市场存在大量...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622832651144155136</id>
+        <link href="https://twitter.com/wublockchain12/status/1622832651144155136"/>
+        <updated>2023-02-07T05:40:29.000Z</updated>
+        <summary type="html"><![CDATA[从 nftperp 来盘点 NFT 永续合约赛道（撰文：0xLaughing，律动 BlockBeats ）:nftperp 的「真实地板价」对于数据质量和计算方式要求很高，由于 NFT  市场存在大量的不可靠数据，使其目前仅只适用于流动性大的蓝筹 NFT 系列。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 Coinglass 数据，当前 EETH 的价格价格为 7.42 美元，溢价 -53.88%。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622831194441392130</id>
+        <link href="https://twitter.com/wublockchain12/status/1622831194441392130"/>
+        <updated>2023-02-07T05:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 Coinglass 数据，当前 EETH 的价格价格为 7.42 美元，溢价 -53.88%。 https://www.coinglass.com/zh/Grayscale]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据金融时报，DCG 已开始以较低折扣价格出售其在其子公司灰度加密信托基金中的股份，以筹集资金偿还 Genesis 债权人资金。美国证券备案文件显示，自 1 月 24 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622831192495247361</id>
+        <link href="https://twitter.com/wublockchain12/status/1622831192495247361"/>
+        <updated>2023-02-07T05:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 据金融时报，DCG 已开始以较低折扣价格出售其在其子公司灰度加密信托基金中的股份，以筹集资金偿还 Genesis 债权人资金。美国证券备案文件显示，自 1 月 24 日以来，DCG 出售了四分之一的以太坊信托基金，售价约每股 8 美元，筹集了 2200 万美元的资金。 https://www.ft.com/content/abee7e2e-1d18-4a68-aac5-665869db250f]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件传输服务公司 WeTransfer 和区块链平台 Minima 将于 3 月开始推出 NFT Mint 服务。公司声称 NFT 将通过安全的点对点网络提供，允许在没有第三方中介的情况下...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622825307760902144</id>
+        <link href="https://twitter.com/wublockchain12/status/1622825307760902144"/>
+        <updated>2023-02-07T05:11:18.000Z</updated>
+        <summary type="html"><![CDATA[文件传输服务公司 WeTransfer  和区块链平台 Minima 将于 3 月开始推出 NFT Mint 服务。公司声称 NFT 将通过安全的点对点网络提供，允许在没有第三方中介的情况下进行 NFT 在人与人之间的转移。 用户需要运行 Minima 节点才能使用该服务。 （The Block） https://www.theblock.co/post/209004/file-sharing-heavyweight-wetransfer-dips-toe-in-nft-waters?utm_source=onecryptofeed&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @remusofmars Cozy?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1622817792067006465</id>
@@ -246,68 +318,6 @@ okx不至于吧？  九妹姐能不能速度帮我处理。联系不上ok的人�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 文章更新：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622762197821849602</id>
-        <link href="https://twitter.com/wublockchain12/status/1622762197821849602"/>
-        <updated>2023-02-07T01:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Re 文章更新： https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=40&id=11313]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在近期启用合约安全收入费用分配模型（CSR）后，Canto 链上交易笔数、TVL、跨链等数据增长强劲。阅读全文：]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622759861644832768</id>
-        <link href="https://twitter.com/wublockchain12/status/1622759861644832768"/>
-        <updated>2023-02-07T00:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 在近期启用合约安全收入费用分配模型（CSR）后，Canto 链上交易笔数、TVL、跨链等数据增长强劲。阅读全文： https://mp.weixin.qq.com/s/JqdUQRq_aZcPEUzAOpl1bA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Canto 生态盘点 自带 DeFi 组件的热门 L1》Canto 是一条基于 Cosmos SDK 搭建的 Layer1 网络，特殊之处是会自带一些 DeFi 功能组件，比如分叉于 Compound 的借...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622759859711258624</id>
-        <link href="https://twitter.com/wublockchain12/status/1622759859711258624"/>
-        <updated>2023-02-07T00:51:14.000Z</updated>
-        <summary type="html"><![CDATA[《Canto 生态盘点 自带 DeFi 组件的热门 L1》Canto 是一条基于 Cosmos SDK 搭建的 Layer1 网络，特殊之处是会自带一些 DeFi 功能组件，比如分叉于 Compound 的借贷市场、分叉于 Solidly 的 DEX 以及采用超额抵押机制的 NOTE 稳定币。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 一个未确定的信息是 DCG 按多少估值转换其股权。上一轮融资时 DCG 估值为 100 亿美金，但 Messari 在 DCG 暴雷时认为估值只有 12 亿美金。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622758723122008064</id>
-        <link href="https://twitter.com/wublockchain12/status/1622758723122008064"/>
-        <updated>2023-02-07T00:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 一个未确定的信息是 DCG 按多少估值转换其股权。上一轮融资时 DCG 估值为 100 亿美金，但 Messari 在 DCG 暴雷时认为估值只有 12 亿美金。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Binance 创始人 CZ 表示团队正在研究解决方案来帮助当地居民；BitMEX 宣布捐赠本周交易大赛的收益。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622755433613238272</id>
-        <link href="https://twitter.com/wublockchain12/status/1622755433613238272"/>
-        <updated>2023-02-07T00:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Re Binance 创始人 CZ 表示团队正在研究解决方案来帮助当地居民；BitMEX 宣布捐赠本周交易大赛的收益。
-
-CZ 🔶 Binance: We are truly saddened by the earthquake in Turkey 🇹🇷. Our team has been working on a solution to help the people. There are quite a few details. I have had 4 meetings on it today. More details to come. Stay strong. 🙏]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，土耳其发生地震造成数千人死亡。土耳其作为当前各大交易所最活跃的市场之一，交易所纷纷发起捐款。Huobi 率先宣布捐赠 200 万里拉（约 10.6 万美元）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622755431784538112</id>
-        <link href="https://twitter.com/wublockchain12/status/1622755431784538112"/>
-        <updated>2023-02-07T00:33:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，土耳其发生地震造成数千人死亡。土耳其作为当前各大交易所最活跃的市场之一，交易所纷纷发起捐款。Huobi 率先宣布捐赠 200 万里拉（约 10.6 万美元）；Bitfinex 和 Tether 宣布捐赠 500 万里拉；Bitget 宣布捐赠 100 万里拉；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @cryptobyrde @Liscivia_ probably cash on the sidelines if I had to guess]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1622754360319942657</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1622754360319942657"/>
@@ -315,16 +325,6 @@ CZ 🔶 Binance: We are truly saddened by the earthquake in Turkey 🇹🇷. O
         <summary type="html"><![CDATA[Re @cryptobyrde @Liscivia_ probably cash on the sidelines if I had to guess]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链咨询公司 Elementus 完成由 ParaFi Capital 领投的 1000 万美元 A-2 轮融资，目前其总融资额已达 2700 万美元。该公司正在构建一个 web3 数据智能工具，使...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622752235368382464</id>
-        <link href="https://twitter.com/wublockchain12/status/1622752235368382464"/>
-        <updated>2023-02-07T00:20:56.000Z</updated>
-        <summary type="html"><![CDATA[区块链咨询公司 Elementus 完成由 ParaFi Capital 领投的 1000 万美元 A-2 轮融资，目前其总融资额已达 2700 万美元。该公司正在构建一个 web3 数据智能工具，使主流公司更容易访问链上数据。（NFTGATORS） https://www.nftgators.com/elementus-closes-10m-round-to-build-data-intelligence-tool-for-web3/]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -511,7 +511,8 @@ You’re being lied to about the governance of UNI
 
 
 
-CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
+CZ 🔶 Binance: Uniswap controlled by a16z?
+ https://twitter.com/chrisblec/status/1622201701921964035]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -887,7 +888,8 @@ Read below for more details 🔽]]></summary>
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang
+ https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
