@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T10:15:07.659Z</id>
+    <id>urn:2023-02-07T11:11:31.529Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-07T10:15:07.659Z</updated>
+    <updated>2023-02-07T11:11:31.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Huobi 发布关于 DebtDAO 采纳 FUD 销毁提案的公告，将销毁 1800 万个 FUD Token，发行总量将变为 200 万个 FUD。DebtDao 的官方链上销毁将于 2023 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622905745913290752</id>
+        <link href="https://twitter.com/wublockchain12/status/1622905745913290752"/>
+        <updated>2023-02-07T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Huobi 发布关于 DebtDAO 采纳 FUD 销毁提案的公告，将销毁 1800 万个 FUD Token，发行总量将变为 200 万个 FUD。DebtDao 的官方链上销毁将于 2023 年 2 月 7 日（UTC）进行。销毁期间，用户持有的 FUD 资产、挂单和下单功能不受影响。 https://www.huobi.com/support/en-us/detail/104930024809178]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，SlowMist 在推文中公布被攻击细节，漏洞利用的根本原因是特权丢失和对 SwapGuard 合约的任意外部调用，导致授权 Token 的恶意转移。攻击者约获利 1...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622899651493134338</id>
+        <link href="https://twitter.com/wublockchain12/status/1622899651493134338"/>
+        <updated>2023-02-07T10:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，SlowMist 在推文中公布被攻击细节，漏洞利用的根本原因是特权丢失和对 SwapGuard 合约的任意外部调用，导致授权 Token 的恶意转移。攻击者约获利 18 万美元。
+
+SlowMist: 🚨SlowMist Security Alert🚨
+According to the SlowMist security team, @CoWSwap, an anti-MEV DEX was attacked on February 7 and the attacker made about $180,000 profit.
+The attack tx : 
+0x90b468608fbcc7faef46502b198471311baca3baab49242a4a85b73d4924379b]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 大多数网络攻击是由朝鲜侦察总局控制的团体实施的，其中包括 Kimsuky、Lazarus Group 和 Andariel 等知名黑客团队。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622897366784438273</id>
+        <link href="https://twitter.com/wublockchain12/status/1622897366784438273"/>
+        <updated>2023-02-07T09:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Re 大多数网络攻击是由朝鲜侦察总局控制的团体实施的，其中包括 Kimsuky、Lazarus Group 和 Andariel 等知名黑客团队。 https://www.reuters.com/technology/record-breaking-2022-north-korea-crypto-theft-un-report-2023-02-06/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社看到的一份联合国报告，朝鲜在 2022 年窃取的加密资产比以往任何一年都多。韩国估计与朝鲜有联系的黑客在 2022 年窃取了价值 6.3 亿美元的加密资产，一...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622897364578205698</id>
+        <link href="https://twitter.com/wublockchain12/status/1622897364578205698"/>
+        <updated>2023-02-07T09:57:38.000Z</updated>
+        <summary type="html"><![CDATA[据路透社看到的一份联合国报告，朝鲜在 2022 年窃取的加密资产比以往任何一年都多。韩国估计与朝鲜有联系的黑客在 2022 年窃取了价值 6.3 亿美元的加密资产，一家网络公司估计，该数字在 10 亿美元以上。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，CoWSwap 对此回应到，用户无需撤销授权批准，受到攻击的结算合约仅存储协议在一周内产生的费用，交易员不受此影响，目前正在对问题进行调查。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622888606628184064</id>
+        <link href="https://twitter.com/wublockchain12/status/1622888606628184064"/>
+        <updated>2023-02-07T09:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，CoWSwap 对此回应到，用户无需撤销授权批准，受到攻击的结算合约仅存储协议在一周内产生的费用，交易员不受此影响，目前正在对问题进行调查。
+
+CoW Swap | Better than the best prices: Users don't need to revoke approvals!
+The CoW Swap settlement contract only stores fees that the protocol accrued over the week. 
+It cannot access user funds directly without providing an order signed by the user and giving them at least their limit-buy amount in return.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622887261779144704</id>
+        <link href="https://twitter.com/wublockchain12/status/1622887261779144704"/>
+        <updated>2023-02-07T09:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Lookonchain: The price of the $AGIX token has increased by ~800% in the past 30 days.
+1.🧵
+Here is a thread of $AGIX.
+Including:
+- What is SingularityNET($AGIX)?
+- $AGIX Tokenomics
+- Top 20 holders
+- SmartMoneys]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Lookonchain，AGIX 前 20 名持有者持有 6.16 亿枚 AGIX，占总供应量的 55.4%。其中两位鲸鱼地址从交易所购买了 AGIX，并从未进行出售，分别持有 91...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1622887259916890112</id>
+        <link href="https://twitter.com/wublockchain12/status/1622887259916890112"/>
+        <updated>2023-02-07T09:17:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain，AGIX 前 20 名持有者持有 6.16 亿枚 AGIX，占总供应量的 55.4%。其中两位鲸鱼地址从交易所购买了 AGIX，并从未进行出售，分别持有 914 万枚和 644 万枚，购入均价分别为 0.05 美元和 0.1 美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 币安 2 月 7 日发布公告称将于 19 时恢复 USDT 为本位的 MINA 永续合约交易。]]></title>
         <id>https://twitter.com/wublockchain12/status/1622854986651832320</id>
@@ -156,7 +244,7 @@ Pierre Rochard: BREAKING: ordinal inscriptions are consuming 50% of #bitcoin b
 
 PeckShield Inc.: It seems (1) @CoWSwap's GPv2Settlement contract has been tricked  10 days ago to approve SwapGuard for DAI spending and (2) SwapGuard was just triggered to transfer out DAI from GPv2Settlement. Here are the two related txs:
 
- https://etherscan.io/tx/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1 https://etherscan.io/tx/0x90b468608fbcc7faef46502b198471311baca3baab49242a4a85b73d4924379b https://twitter.com/MevRefund/status/1622793836291407873]]></summary>
+ https://etherscan.io/tx/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1 https://etherscan.io/tx/0x90b468608fbcc7faef46502b198471311baca3baab49242a4a85b73d4924379b]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -182,20 +270,6 @@ PeckShield Inc.: It seems (1) @CoWSwap's GPv2Settlement contract has been tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，a16z 工程主管 @eddylazzarin 在推文中对 a16z 在 Uniswap 基金会治理中的投票权做出澄清：我们将 4000 万票委托给外部团体（对他们的投票方式没有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622784262851424256</id>
-        <link href="https://twitter.com/wublockchain12/status/1622784262851424256"/>
-        <updated>2023-02-07T02:28:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，a16z 工程主管 @eddylazzarin 在推文中对 a16z 在 Uniswap 基金会治理中的投票权做出澄清：我们将 4000 万票委托给外部团体（对他们的投票方式没有任何限制），我们用 1500 万个 Token 进行投票，不到其委托给他人的一半。
-
-Eddy Lazzarin ☀️🔭: Seeing many false claims about a16z crypto's voting power in Uniswap Foundation governance. Let me clear it up:
-🗳️ We delegate ~40m votes to outside groups (with no conditions on how they vote).
-⚖️ We vote with 15m tokens (less than half what we've delegated to others).]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @knlae_ Bro]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1622778762717790209</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1622778762717790209"/>
@@ -216,26 +290,6 @@ Eddy Lazzarin ☀️🔭: Seeing many false claims about a16z crypto's voting 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Stargate DAO 在近一个月除了 Pool、Farm 等的常规部署投票外，最引人注目的是已投票通过重新发行新的 Stargate（STG）Token 并空投给现有持有者的提案。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622777067631943681</id>
-        <link href="https://twitter.com/wublockchain12/status/1622777067631943681"/>
-        <updated>2023-02-07T01:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Re Stargate DAO 在近一个月除了 Pool、Farm 等的常规部署投票外，最引人注目的是已投票通过重新发行新的 Stargate（STG）Token 并空投给现有持有者的提案。 https://flipsidegov-snapshot.vercel.app/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Flipside Governance 数据，过去 30 天 Stargate DAO 投票治理活动激增，共有 11.2 万位选民参与了投票，位居 DAO 治理首位。Stargate DAO 在 Snap...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622777065396404224</id>
-        <link href="https://twitter.com/wublockchain12/status/1622777065396404224"/>
-        <updated>2023-02-07T01:59:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Flipside Governance 数据，过去 30 天 Stargate DAO 投票治理活动激增，共有 11.2 万位选民参与了投票，位居 DAO 治理首位。Stargate DAO 在 Snapshot 上的总选民为 15.5 万，即超过 70% 的选民在过去 30 天完成了至少一次的投票决策。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My one take on that Grammys event: Who tf still watches the Grammys]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1622774678942089218</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1622774678942089218"/>
@@ -244,36 +298,6 @@ Eddy Lazzarin ☀️🔭: Seeing many false claims about a16z crypto's voting 
 Who tf still watches the Grammys]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3 月初机甲揭秘（可能包括 Mecha Dog、Mecha Mutant、Mecha Ape 以及 Otherside 的二次发售）；4 月初穿越裂谷；5 月初 EVO2 之旅（可能是新游戏）。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622772416505323521</id>
-        <link href="https://twitter.com/wublockchain12/status/1622772416505323521"/>
-        <updated>2023-02-07T01:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 3 月初机甲揭秘（可能包括 Mecha Dog、Mecha Mutant、Mecha Ape 以及 Otherside 的二次发售）；4 月初穿越裂谷；5 月初 EVO2 之旅（可能是新游戏）。 https://mdvmm.xyz/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BAYC 发布 Jimmy 试炼的新篇章，以下是具体的规划与社区解读：继 Dookey Dash 后，2 月 10 日 Dookey Dash 游戏结束和分数验证；2 月 15 日 The Summo...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622772414626299905</id>
-        <link href="https://twitter.com/wublockchain12/status/1622772414626299905"/>
-        <updated>2023-02-07T01:41:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BAYC 发布 Jimmy 试炼的新篇章，以下是具体的规划与社区解读：继 Dookey Dash 后，2 月 10 日 Dookey Dash 游戏结束和分数验证；2 月 15 日 The Summoning；2 月下旬舔蟾蜍（可能是新角色的登场）；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Donut 表示，预计 DCG 新方案将回收资金的 80% 以上，但仍取决于可转换优先股票据、实现的清算价格，并考虑与本次破产剩余部分相关的未知成本。Donut 在 Gene...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622766823145095168</id>
-        <link href="https://twitter.com/wublockchain12/status/1622766823145095168"/>
-        <updated>2023-02-07T01:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Re Donut 表示，预计 DCG 新方案将回收资金的 80% 以上，但仍取决于可转换优先股票据、实现的清算价格，并考虑与本次破产剩余部分相关的未知成本。Donut 在 Genesis 的债权约为 7803 万美金。 https://help.donut.app/en/articles/6745747-market-update-genesis-pauses-withdrawals]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -287,16 +311,6 @@ Silly bears
 zerohedge: Retail flows (via @vandaresearch)]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，OKX 正在解雇一些通过爱尔兰都柏林 OKBL 雇佣的员工。 发言人拒绝就裁员人数发表评论；称其不到 OKX 全球员工总数的 1%。“这主要是我们的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1622765702095728641</id>
-        <link href="https://twitter.com/wublockchain12/status/1622765702095728641"/>
-        <updated>2023-02-07T01:14:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，OKX 正在解雇一些通过爱尔兰都柏林 OKBL 雇佣的员工。 发言人拒绝就裁员人数发表评论；称其不到 OKX 全球员工总数的 1%。“这主要是我们的全球资源配置决定，我们打算在 2023 年增加我们的全球员工人数”。 https://www.bloomberg.com/news/articles/2023-02-06/crypto-exchange-okx-laying-off-some-staff-at-dublin-unit#xj4y7vzkg]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
