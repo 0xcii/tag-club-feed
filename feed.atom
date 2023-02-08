@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T12:27:11.540Z</id>
+    <id>urn:2023-02-08T13:21:48.952Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T12:27:11.540Z</updated>
+    <updated>2023-02-08T13:21:48.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1623301908395094017</id>
+        <link href="https://twitter.com/wublockchain12/status/1623301908395094017"/>
+        <updated>2023-02-08T12:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+NEAR Blockchain: @NEARCrowd by @AlexSkidanov has quietly been running for almost two years, with thousands of global workers  (~1k DAUs) 📈🧑‍💻 labelling millions of data points (average of 100k daily transactions) used to train real machine learning models:
+ https://dappradar.com/near/other/near-crowd]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，NEAR Blockchain 称其链上应用 NEARCrowd 是最常用、最古老的加密-AI 交叉应用程序之一，它声称该应用已运行了两年，DAU 约为 1k，平均每天 10 万笔交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1623301906272784386</id>
+        <link href="https://twitter.com/wublockchain12/status/1623301906272784386"/>
+        <updated>2023-02-08T12:45:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，NEAR Blockchain 称其链上应用 NEARCrowd 是最常用、最古老的加密-AI 交叉应用程序之一，它声称该应用已运行了两年，DAU 约为 1k，平均每天 10 万笔交易。受该推文影响，NEAR 涨至 2.8 美元，24 小时涨幅达 18.4%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretty wild payment processors are raising fees... I thought they were commodities.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1623298581623873540</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1623298581623873540"/>
+        <updated>2023-02-08T12:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Pretty wild payment processors are raising fees... I thought they were commodities.
+
+Librarian Capital: #Stripe raising processing fees for UK SMBs, including the inflation-proof % fee, blaming card networks & "increases in underlying service costs"
+Large increases - % fee on standard UK cards is going up 7% from 140bps to 150bps; that on international up 12% from 290bps to 325bps]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Cryptopleb4 no]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1623296390825664513</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1623296390825664513"/>
+        <updated>2023-02-08T12:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @Cryptopleb4 no]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @safetyth1rd just an observation]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1623294959469178880</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1623294959469178880"/>
+        <updated>2023-02-08T12:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @safetyth1rd just an observation]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，OKX 于 20 时上线 CORE 现货交易后，其价格又开盘价 0.03 美元涨至当前的 3.3 美元左右，交易量超过 2700 万美元。吴说提醒，此类 Token 波动巨大...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1623293724657872899</id>
+        <link href="https://twitter.com/wublockchain12/status/1623293724657872899"/>
+        <updated>2023-02-08T12:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，OKX 于 20 时上线 CORE 现货交易后，其价格又开盘价 0.03 美元涨至当前的 3.3 美元左右，交易量超过 2700 万美元。吴说提醒，此类 Token 波动巨大，投资者需注意风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 吴说获悉，根据迪拜虚拟资产监管局（VARA）发布的最新规则，迪拜不允许使用 ZEC、XMR 等隐私 Token，本地实体也不能创建此类 Token。此前日本于 2019 年禁止...]]></title>
         <id>https://twitter.com/wublockchain12/status/1623256290708553728</id>
@@ -212,40 +278,6 @@ So how does the auction process actually work?]]></summary>
         <summary type="html"><![CDATA[Re Bitcoin Ordinal 使用了在见证字段中填充多余数据的变通方式，使得比 Ethereun Token 标准更难追踪，数据为近似值可能被低估。
 
 Data Always: Spending to inscribe Ordinals is climbing every day. Still only 12% of total fees and 0.3% of the subsidy, but the rise remains exponential. Biggest mempool backlog since FTX and 3AC collapses.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @data_always 数据，当前已有近 1.2 万个 Ordinal NFT 在 Bitcoin 上被铸造，每日铸造数量持续创下新高，平均每个区块约超过 30 个；用于铸造 Ordi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623188315938897920</id>
-        <link href="https://twitter.com/wublockchain12/status/1623188315938897920"/>
-        <updated>2023-02-08T05:13:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @data_always 数据，当前已有近 1.2 万个 Ordinal NFT 在 Bitcoin 上被铸造，每日铸造数量持续创下新高，平均每个区块约超过 30 个；用于铸造 Ordinal 花费的费用在持续增长，当前约占 Bitcoin 网络总费用的 12% 和补贴的 0.3%，总费用已超过了 12.7 万美元。 https://dune.com/dataalways/ordinals]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623187352918306816</id>
-        <link href="https://twitter.com/wublockchain12/status/1623187352918306816"/>
-        <updated>2023-02-08T05:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-Bit余烬: 15 分钟前，RNDR 托管分配多签地址 0xb6e39e540e3472e927001bbbf77ffb5ab357b0e0 转出 10,177,083 $RNDR （$21.27M）至币安。
-本轮上涨行情以来，该地址一共转出了 1846 万 RNDR。其中 444 万转入 Kraken、1218 万转入币安。
-目前 RNDR 托管分配多签地址还持有 1.888 亿 RNDR，价值 $394.7M。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BitcoinEmber，RNDR 托管分配多签地址 0xb6...b0e0 于 2 小时前将约 1 千万枚 RNDR（约合 2100 万美元）转至币安。本轮上涨行情以来，该地址一共...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623187350749868032</id>
-        <link href="https://twitter.com/wublockchain12/status/1623187350749868032"/>
-        <updated>2023-02-08T05:09:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BitcoinEmber，RNDR 托管分配多签地址 0xb6...b0e0 于 2 小时前将约 1 千万枚 RNDR（约合 2100 万美元）转至币安。本轮上涨行情以来，该地址一共转出了 1846 万 RNDR，目前 RNDR 托管分配多签地址还持有 1.88 亿枚 RNDR，价值超 3.9 亿美元。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -467,37 +499,6 @@ Largest positions💰
 ‣ $277k $GNO
 ‣ $174k $wBTC
 Smaller positions ($50k-$150k) include, BAL, UNI, SUSHI, 1INCH, LON.]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @knlae_ Nope]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1623020681091813378</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1623020681091813378"/>
-        <updated>2023-02-07T18:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @knlae_ Nope]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WavyCapital #s probably going up + The amount of GPUs google would have to deploy to offer something like ChatGPT at scale r pretty eye watering]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1623020532777029646</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1623020532777029646"/>
-        <updated>2023-02-07T18:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @WavyCapital #s probably going up + The amount of GPUs google would have to deploy to offer something like ChatGPT at scale r pretty eye watering]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My boy Powell really trying engineer that soft landing eh? Personally it makes sense the CB would want to err on side of running too hot vs crashing t...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1623018081533497347</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1623018081533497347"/>
-        <updated>2023-02-07T17:57:19.000Z</updated>
-        <summary type="html"><![CDATA[My boy Powell really trying engineer that soft landing eh?
-Personally it makes sense the CB would want to err on side of running too hot vs crashing the economy and risking a deflationary spiral as so many bears seem to want to happen.]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
