@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T14:13:11.497Z</id>
+    <id>urn:2023-02-10T15:14:39.723Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T14:13:11.497Z</updated>
+    <updated>2023-02-10T15:14:39.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @tanoeth Lfgooo]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1624060082378924035</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1624060082378924035"/>
+        <updated>2023-02-10T14:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @tanoeth Lfgooo]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Uniswap DAO 社区通过将 Uniswap V3 部署至 BNB Chain 的提案。投票赞成率 66% 。包括以太坊软件公司 ConsenSys 和 Compound Finance 创始人在内的拥...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624051614913859588</id>
+        <link href="https://twitter.com/wublockchain12/status/1624051614913859588"/>
+        <updated>2023-02-10T14:24:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Uniswap DAO 社区通过将 Uniswap V3 部署至 BNB Chain 的提案。投票赞成率 66% 。包括以太坊软件公司 ConsenSys 和 Compound Finance 创始人在内的拥有主要投票权的代表投票赞成；而风投巨头 Andreessen Horowitz 投了1500 万张反对选票。 https://www.tally.xyz/gov/uniswap/proposal/31]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 游戏平台 Ajuna Network 完成 500 万美元融资，CMCC Global 领投。本周五推出 Awesome Ajuna Avatars NFT 系列，灵感来自该公司旗舰游戏 BattleMogs。本轮...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624045504073027589</id>
+        <link href="https://twitter.com/wublockchain12/status/1624045504073027589"/>
+        <updated>2023-02-10T13:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Web3 游戏平台 Ajuna Network 完成 500 万美元融资，CMCC Global 领投。本周五推出 Awesome Ajuna Avatars NFT 系列，灵感来自该公司旗舰游戏 BattleMogs。本轮资金和 Fundamental Labs 领投的 200 万美元种子轮融资将一起用于扩张。（CoinDesk） https://www.coindesk.com/business/2023/02/10/web3-gaming-platform-ajuna-raises-5m-in-new-private-financing/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624044031184453634</id>
+        <link href="https://twitter.com/wublockchain12/status/1624044031184453634"/>
+        <updated>2023-02-10T13:54:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 PayPal 提交美国证券交易委员会（SEC）的年度报告，截至 12 月 31 日，PayPal 为其客户持有总计 6.04 亿美元的比特币、以太坊、莱特币和比特币现金...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624034406787866625</id>
+        <link href="https://twitter.com/wublockchain12/status/1624034406787866625"/>
+        <updated>2023-02-10T13:15:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 PayPal 提交美国证券交易委员会（SEC）的年度报告，截至 12 月 31 日，PayPal 为其客户持有总计 6.04 亿美元的比特币、以太坊、莱特币和比特币现金。其中，比特币为 2.91 亿美元，以太坊为 2.5 亿美元，剩余的 6300 万美元由莱特币和比特币现金组成。 https://d18rn0p25nwr6d.cloudfront.net/CIK-0001633917/b562e712-8266-493c-8ae8-e28f93404d2f.pdf]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re CEX 类是全托管方案，2 把私钥均在交易所；Pooled 类本质是“类全托管”，在验证 key 做到了去中心化，但提现是 Lido\RPL金库统一地址的”大池子“；SaaS 类...]]></title>
         <id>https://twitter.com/wublockchain12/status/1624015808400875522</id>
@@ -197,52 +247,6 @@ PeckShield Inc.: In the last 24 hours, there is $4.7B #USDC burned from @coinb
         <summary type="html"><![CDATA[旧文重读：随着美国证监会对 Kraken 的质押服务出手打击，以太坊的证券属性再次回到舆论中心，以下有三篇旧文可供阅读参考：
 《潜在危机：以太坊转向POS后是否会被认定为证券？两种不同观点》
 《律师观点：合并后的以太坊是证券吗？》 https://mp.weixin.qq.com/s?__biz=MzI0ODgzMDE5MA==&mid=2247494434&idx=1&sn=e4328a903b1b43149bd73b9890e061b7&chksm=e9986aa3deefe3b57239bfa3f48796f5f09bfced31e3d356a6fb6211e1b64e214970cf3631a9&token=266595637&lang=zh_CN#rd https://mp.weixin.qq.com/s?__biz=MzI0ODgzMDE5MA==&mid=2247495544&idx=1&sn=1d7467e37230b15358e423b8f0a7c30d&chksm=e9986ef9deefe7efd8b5b757a6b33f50d0d33166908ce5a7c08f106b4ddceff262380aeafaec&token=266595637&lang=zh_CN#rd]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，币安将于 2 月 24 日 16:00 开放 BNX/BTC、BNX/BNB、BNX/BUSD 和 BNX/USDT 现货交易，同时将 BNX 添加到币安支付所支持的列表中。另据 BinaryX 官方公...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623936923462148096</id>
-        <link href="https://twitter.com/wublockchain12/status/1623936923462148096"/>
-        <updated>2023-02-10T06:48:28.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，币安将于 2 月 24 日 16:00 开放 BNX/BTC、BNX/BNB、BNX/BUSD 和 BNX/USDT 现货交易，同时将 BNX 添加到币安支付所支持的列表中。另据 BinaryX 官方公告，团队预计于 2 月 23 日 16 时完成拆分且去中心化用户可以开始进行转换。 https://www.binance.com/en/support/announcement/binance-will-support-the-binaryx-bnx-token-swap-and-redenomination-plan-4d23ada51a2e4fa182835c77d51ba1a9 https://binary-x.medium.com/bnx-token-split-to-go-live-3e9bfd136c21]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安发布公告，将支持 BinaryX（BNX）代币置换及增量的计划。币安将在不同时段暂停BinaryX（BNX）相关服务、产品以及交易。在收回用户全部旧 BNX 后，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623936828440199172</id>
-        <link href="https://twitter.com/wublockchain12/status/1623936828440199172"/>
-        <updated>2023-02-10T06:48:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安发布公告，将支持 BinaryX（BNX）代币置换及增量的计划。币安将在不同时段暂停BinaryX（BNX）相关服务、产品以及交易。在收回用户全部旧 BNX 后，按照 1：100 比例向用户发放新 BNX。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623936616539779072</id>
-        <link href="https://twitter.com/wublockchain12/status/1623936616539779072"/>
-        <updated>2023-02-10T06:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-dForce: wstETH/ETH Curve gauge vaults on Arbitrum & Optimism were exploited a few hours ago, and we immediately paused the dForce Vaults - other parts of the protocol remain intact and user funds are SAFE with dForce Lending. 
-We will come back with a detailed report and remedies soon.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623936483018280962</id>
-        <link href="https://twitter.com/wublockchain12/status/1623936483018280962"/>
-        <updated>2023-02-10T06:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-ManesLAB: We are pleased to announce the successful completion of a $1.8 million seed funding round, led by YZB Investment.
-我们很高兴地宣布，ManesLAB 已成功完成 180万美元种子轮融资，由 YZB Investment 领投。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -446,16 +450,6 @@ Thoughts below. Would love to hear alternative takes.]]></summary>
         <link href="https://twitter.com/DeFiSurfer808/status/1623857020745969665"/>
         <updated>2023-02-10T01:30:58.000Z</updated>
         <summary type="html"><![CDATA[Pro tip: If u put the $rpl chart on logarithmic mode it makes the pump look much more modest]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @toptickcrypto Bro that’s what I’m saying 💎 🙌]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1623842852714299393</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1623842852714299393"/>
-        <updated>2023-02-10T00:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @toptickcrypto Bro that’s what I’m saying 💎 🙌]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
