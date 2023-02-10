@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T18:18:01.522Z</id>
+    <id>urn:2023-02-10T19:11:26.145Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T18:18:01.522Z</updated>
+    <updated>2023-02-10T19:11:26.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,6 +15,26 @@
 DeFi Surfer: Will Kang get shaken out of his $gmx longs:]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Shapella 包含许多功能，但对利益相关者和共识层来说最重要的是支持提款。退出的验证者可以全额取款，而活跃验证者余额超过 32 ETH 的可以部分取款。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624083944303104000</id>
+        <link href="https://twitter.com/wublockchain12/status/1624083944303104000"/>
+        <updated>2023-02-10T16:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Re Shapella 包含许多功能，但对利益相关者和共识层来说最重要的是支持提款。退出的验证者可以全额取款，而活跃验证者余额超过 32 ETH 的可以部分取款。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊基金会官网宣布，Shanghai+Capella (Shapella) 主网升级正在进入最后的预发布序列——公共测试网。浙江测试网现已上线，质押者和用户今天可以测...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624083925181280257</id>
+        <link href="https://twitter.com/wublockchain12/status/1624083925181280257"/>
+        <updated>2023-02-10T16:32:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊基金会官网宣布，Shanghai+Capella (Shapella) 主网升级正在进入最后的预发布序列——公共测试网。浙江测试网现已上线，质押者和用户今天可以测试 Shapella 。第一个长期存在的公共测试网——Sepolia——计划于 2 月 28 日进行升级。 https://blog.ethereum.org/2023/02/10/finalized-no-38]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -244,29 +264,9 @@ AAVE 在以太坊 Goerli 测试网上推出了他们的稳定币$GHO 。
 
 0xScope (🪬 . 🪬): 🚨Although it seems @coinbase  processed a ~$4.5B $USDC burn it also received a similar amount (~$4.7B).
 The net USDC flow of this @coinbase  address is +$330M in the past 24H.
-Steady lads.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，数据显示，目前有 1,233,696 ETH通过 Kraken 质押，占 ETH 质押总量的 7.42%，市场份额排名第三，仅次于 Lido（29%）与 Coinbase（12%）。Kraken 表示...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623944226286497794</id>
-        <link href="https://twitter.com/wublockchain12/status/1623944226286497794"/>
-        <updated>2023-02-10T07:17:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，数据显示，目前有 1,233,696 ETH通过 Kraken 质押，占 ETH 质押总量的 7.42%，市场份额排名第三，仅次于 Lido（29%）与 Coinbase（12%）。Kraken 表示将在上海升级后解除用户的 ETH 质押。 https://dune.com/hildobby/eth2-staking]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1623941217741578240</id>
-        <link href="https://twitter.com/wublockchain12/status/1623941217741578240"/>
-        <updated>2023-02-10T07:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Re 
+Steady lads.
 
-PeckShield Inc.: In the last 24 hours, there is $4.7B #USDC burned from @coinbase alone. Possibly due to the recent @SECGov staking-related takedown?]]></summary>
+ https://twitter.com/PeckShieldAlert/status/1623937103846592512]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
