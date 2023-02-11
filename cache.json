@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1624273143387783168",
+          "author": "吴说区块链",
+          "description": "NFT 巨头 Yuga Labs 向法国当代艺术博物馆蓬皮杜中心捐赠 CryptoPunk #110 ，也是 Yuga Labs 捐赠的第二个 Punks Legacy Project。 此前，CryptoPunk #305 在 2022 年巴塞尔艺术展上捐赠给了迈阿密当代艺术学院。（The Block） https://www.theblock.co/post/210635/punks-in-the-pompidou-yuga-labs-donates-second-cryptopunk-in-three-months",
+          "link": "https://twitter.com/wublockchain12/status/1624273143387783168",
+          "publishedOn": "2023-02-11T05:04:29.000Z",
+          "wordCount": 498,
+          "title": "NFT 巨头 Yuga Labs 向法国当代艺术博物馆蓬皮杜中心捐赠 CryptoPunk #110 ，也是 Yuga Labs 捐赠的第二个 Punks Legacy Project。 此前，CryptoPunk #305 在 20...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1624268209552560128",
+          "author": "吴说区块链",
+          "description": "Re 阅读全文： https://mp.weixin.qq.com/s/xU3-puDebii-pnEfkMf5kQ",
+          "link": "https://twitter.com/wublockchain12/status/1624268209552560128",
+          "publishedOn": "2023-02-11T04:44:53.000Z",
+          "wordCount": 498,
+          "title": "Re 阅读全文：",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1624268206838882304",
+          "author": "吴说区块链",
+          "description": "Nostr AMA（主持 DeFi 之道）：整个 Nostr 生态感觉就是很像一些新兴公链的早期，生态非常欣欣向荣，你能发现很多特别有意思的点子；Nostr 协议提供了一个我们重新构建互联网的机会；“比特币的爱好者玩 Nostr，山寨币的爱好者去玩 Farcaster”；论抗审查的能力，Web3 是直接被 Nostr 按在地上摩擦。",
+          "link": "https://twitter.com/wublockchain12/status/1624268206838882304",
+          "publishedOn": "2023-02-11T04:44:52.000Z",
+          "wordCount": 498,
+          "title": "Nostr AMA（主持 DeFi 之道）：整个 Nostr 生态感觉就是很像一些新兴公链的早期，生态非常欣欣向荣，你能发现很多特别有意思的点子；Nostr 协议提供了一个我们重...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1624245891451297792",
+          "author": "吴说区块链",
+          "description": "Re 与此同时，DeFiLlama 数据显示，作为 Optimism 第一大应用，Velodrome 近 7 天 TVL 增长 21% 至 1.82 亿美元，但 Mcap/TVL 比值仅为 0.07，在 Optimism 已有 Token 项目中倒数第二。 https://tokenterminal.com/terminal/projects/velodrome https://defillama.com/chain/Optimism",
+          "link": "https://twitter.com/wublockchain12/status/1624245891451297792",
+          "publishedOn": "2023-02-11T03:16:12.000Z",
+          "wordCount": 498,
+          "title": "Re 与此同时，DeFiLlama 数据显示，作为 Optimism 第一大应用，Velodrome 近 7 天 TVL 增长 21% 至 1.82 亿美元，但 Mcap/TVL 比值仅为 0.07，在 Optimism 已有 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1624245888691347458",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Token Terminal 数据，Optimism 原生 DEX Velodrome 在 2 月 9 日单日协议费用达 $12k，创下单日新高。veVELO 持有者获得 100% 的协议费用、贿赂、变基和治理权。",
+          "link": "https://twitter.com/wublockchain12/status/1624245888691347458",
+          "publishedOn": "2023-02-11T03:16:11.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，据 Token Terminal 数据，Optimism 原生 DEX Velodrome 在 2 月 9 日单日协议费用达 $12k，创下单日新高。veVELO 持有者获得 100% 的协议费用、贿赂、...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1624237855320035335",
           "author": "吴说区块链",
           "description": "Re \n\nsurchatt.eth: Super excited to join @a16zcrypto as Executive in Residence (EIR) and learn from some of the smartest brains in the business. Looking forward to helping out founders and builders scale their businesses. Let's build...",
@@ -153,56 +203,6 @@
           "publishedOn": "2023-02-11T00:57:03.000Z",
           "wordCount": 498,
           "title": "Re OneKey 支付了 Unciphered 发现漏洞的赏金。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1624210872636780546",
-          "author": "吴说区块链",
-          "description": "吴说获悉，硬件钱包 OneKey 表示，今年早些时候收到了来自网络安全初创公司 Unciphered 的负责任的披露，证实了 OneKey 固件中的一个潜在漏洞，硬件团队已经更新了安全补丁，没有任何人受到影响。这些攻击不能被远程利用，它需要拆卸设备并通过实验室中的专用 FPGA 设备进行物理访问才能执行。",
-          "link": "https://twitter.com/wublockchain12/status/1624210872636780546",
-          "publishedOn": "2023-02-11T00:57:03.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，硬件钱包 OneKey 表示，今年早些时候收到了来自网络安全初创公司 Unciphered 的负责任的披露，证实了 OneKey 固件中的一个潜在漏洞，硬件团队已经更新...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1624203360550125568",
-          "author": "吴说区块链",
-          "description": "Re PayPal 发言人 Amanda Miller 说：“我们正在探索一种稳定币。如果我们寻求向前推进，我们当然会与相关监管机构密切合作。”此外，总部位于纽约的 Paxos 是第三大稳定币 Binance 品牌代币的发行商。 https://www.bloomberg.com/news/articles/2023-02-10/paypal-pauses-stablecoin-work-amid-regulatory-scrutiny-of-crypto",
-          "link": "https://twitter.com/wublockchain12/status/1624203360550125568",
-          "publishedOn": "2023-02-11T00:27:12.000Z",
-          "wordCount": 498,
-          "title": "Re PayPal 发言人 Amanda Miller 说：“我们正在探索一种稳定币。如果我们寻求向前推进，我们当然会与相关监管机构密切合作。”此外，总部位于纽约的 Paxos 是第...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1624203358079791104",
-          "author": "吴说区块链",
-          "description": "据彭博社，PayPal 在加密货币的严格监管审查下暂停稳定币工作，且其合作伙伴 Paxos 正面临纽约州金融服务部的调查。PayPal 一直在与 Paxos 合作开发稳定币，并计划该代币在未来几周内推出。",
-          "link": "https://twitter.com/wublockchain12/status/1624203358079791104",
-          "publishedOn": "2023-02-11T00:27:11.000Z",
-          "wordCount": 498,
-          "title": "据彭博社，PayPal 在加密货币的严格监管审查下暂停稳定币工作，且其合作伙伴 Paxos 正面临纽约州金融服务部的调查。PayPal 一直在与 Paxos 合作开发稳定币，并计...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1624083944303104000",
-          "author": "吴说区块链",
-          "description": "Re Shapella 包含许多功能，但对利益相关者和共识层来说最重要的是支持提款。退出的验证者可以全额取款，而活跃验证者余额超过 32 ETH 的可以部分取款。",
-          "link": "https://twitter.com/wublockchain12/status/1624083944303104000",
-          "publishedOn": "2023-02-10T16:32:40.000Z",
-          "wordCount": 498,
-          "title": "Re Shapella 包含许多功能，但对利益相关者和共识层来说最重要的是支持提款。退出的验证者可以全额取款，而活跃验证者余额超过 32 ETH 的可以部分取款。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1624083925181280257",
-          "author": "吴说区块链",
-          "description": "吴说获悉，以太坊基金会官网宣布，Shanghai+Capella (Shapella) 主网升级正在进入最后的预发布序列——公共测试网。浙江测试网现已上线，质押者和用户今天可以测试 Shapella 。第一个长期存在的公共测试网——Sepolia——计划于 2 月 28 日进行升级。 https://blog.ethereum.org/2023/02/10/finalized-no-38",
-          "link": "https://twitter.com/wublockchain12/status/1624083925181280257",
-          "publishedOn": "2023-02-10T16:32:36.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，以太坊基金会官网宣布，Shanghai+Capella (Shapella) 主网升级正在进入最后的预发布序列——公共测试网。浙江测试网现已上线，质押者和用户今天可以测...",
           "imageUrl": null
         }
       ]
