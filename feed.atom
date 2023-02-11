@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T07:12:04.114Z</id>
+    <id>urn:2023-02-11T08:17:02.336Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-11T07:12:04.114Z</updated>
+    <updated>2023-02-11T08:17:02.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -17,6 +17,40 @@
 #cryptomaton  #cryptomaton https://antcave.club/sites/2373.html]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624280020104478720</id>
+        <link href="https://twitter.com/wublockchain12/status/1624280020104478720"/>
+        <updated>2023-02-11T05:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Cos(余弦)😶‍🌫️: ⚠️今天有朋友给我反馈一种新型钓鱼技巧：Twitter 私信或推文看去很正常的域名，点击后打开的却是钓鱼链接。
+如图 x2y2[.]io 是 @the_x2y2 的官方域名，但点击打开的却是 x2x2[.]io 钓鱼域名下的链接。我们团队 @SlowMist_Team 做了分析后发现是因为钓鱼链接通过 User-Agent 值来输出特定内容...
+1/n]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 钓鱼通过这个技巧，欺骗了 Twitter，导致用户看到预览出来的链接 Card 是正常的，但点击后就掉进了钓鱼链接里。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624279982854877185</id>
+        <link href="https://twitter.com/wublockchain12/status/1624279982854877185"/>
+        <updated>2023-02-11T05:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Re 钓鱼通过这个技巧，欺骗了 Twitter，导致用户看到预览出来的链接 Card 是正常的，但点击后就掉进了钓鱼链接里。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，慢雾创始人余弦发推表示目前有一种新型钓鱼技巧：推特私信或推文看去很正常的域名，点击后打开的却是钓鱼链接。慢雾团队对此做了分析后发现，这是因为...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1624279980405391362</id>
+        <link href="https://twitter.com/wublockchain12/status/1624279980405391362"/>
+        <updated>2023-02-11T05:31:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，慢雾创始人余弦发推表示目前有一种新型钓鱼技巧：推特私信或推文看去很正常的域名，点击后打开的却是钓鱼链接。慢雾团队对此做了分析后发现，这是因为钓鱼链接连接过 User-Agent 值来输入特定内容。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -410,36 +444,6 @@ It’ll be a bumpy road; but in the end, ETH’s battles will forge its success
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国劳工统计局周五公布了消费者价格指数（CPI）分项的最新权重，根据最新版本，二手车权重下降、业主等价租金上升，由此导致前两个月的数据被向上修...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1624211997393838082</id>
-        <link href="https://twitter.com/wublockchain12/status/1624211997393838082"/>
-        <updated>2023-02-11T01:01:31.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国劳工统计局周五公布了消费者价格指数（CPI）分项的最新权重，根据最新版本，二手车权重下降、业主等价租金上升，由此导致前两个月的数据被向上修正，一些经济学家表示，这增加了未来几个月通胀数据上升的风险。 https://www.reuters.com/markets/us/us-december-consumer-prices-revised-higher-2023-02-10/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说周精选：Kraken质押被禁、Uniswap提案风波、DCG和Gemini和解与新闻Top10（0203-0210)]]></title>
-        <id>https://twitter.com/wublockchain12/status/1624211326804574209</id>
-        <link href="https://twitter.com/wublockchain12/status/1624211326804574209"/>
-        <updated>2023-02-11T00:58:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：Kraken质押被禁、Uniswap提案风波、DCG和Gemini和解与新闻Top10（0203-0210) https://mp.weixin.qq.com/s/u4S8l4v40sgoxmVtOi7uPQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re OneKey 支付了 Unciphered 发现漏洞的赏金。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1624210875358883844</id>
-        <link href="https://twitter.com/wublockchain12/status/1624210875358883844"/>
-        <updated>2023-02-11T00:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Re OneKey 支付了 Unciphered 发现漏洞的赏金。 https://blog.onekey.so/our-response-to-recent-security-fix-reports-13914fea8afd]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[If you missed the bottom on BTC, looks like you're in luck and you may get a second chance to buy sub 20k in the next few weeks]]></title>
         <id>https://twitter.com/DeFi_educator/status/1624150067148906506</id>
         <link href="https://twitter.com/DeFi_educator/status/1624150067148906506"/>
@@ -751,7 +755,8 @@ You’re being lied to about the governance of UNI
 
 
 
-CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
+CZ 🔶 Binance: Uniswap controlled by a16z?
+ https://twitter.com/chrisblec/status/1622201701921964035]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -965,7 +970,8 @@ Closed my second STV today for a 24% gain. @STFX_IO really is a great/unique Dap
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang
+ https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
