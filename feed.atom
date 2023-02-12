@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T05:12:58.261Z</id>
+    <id>urn:2023-02-12T06:16:41.179Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-12T05:12:58.261Z</updated>
+    <updated>2023-02-12T06:16:41.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[币安账户还剩 15.6 块...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1624642908665315328</id>
+        <link href="https://twitter.com/AntCaveClub/status/1624642908665315328"/>
+        <updated>2023-02-12T05:33:48.000Z</updated>
+        <summary type="html"><![CDATA[币安账户还剩 15.6 块... https://mirror.xyz/0x6f1233Be9F76d788d27EaE055f393eBEE5A972EE/QRrBJMvrcina3KseI2dqcdWuaA-qwLOCGoxO6xNFhH0]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 马上下周对于zksync 2.0 主网能上线的项目方的白名单统计完成后, 第一批能在主网上部署合约的项目才是交互的重点. 因为主网应该不会重置了吧。🐶 很不幸之...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1624639778007429122</id>
+        <link href="https://twitter.com/AntCaveClub/status/1624639778007429122"/>
+        <updated>2023-02-12T05:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 马上下周对于zksync 2.0 主网能上线的项目方的白名单统计完成后,  第一批能在主网上部署合约的项目才是交互的重点. 
+因为主网应该不会重置了吧。🐶 
+很不幸之前的号白撸了, 包括我自己...]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 现在全网在撸的zksync 2.0 是测试网, 并且测试网前前后后做过多次 “重置”, 就是将整个链数据抹掉重启... 最近一次是前几天. 作为项目方我们前后重新部署过...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1624639775650217985</id>
+        <link href="https://twitter.com/AntCaveClub/status/1624639775650217985"/>
+        <updated>2023-02-12T05:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 现在全网在撸的zksync 2.0 是测试网,  并且测试网前前后后做过多次 “重置”, 就是将整个链数据抹掉重启... 最近一次是前几天. 作为项目方我们前后重新部署过多次智能合约了.  根本没留存数据, 有的项目方可能备份了.  所以交互的重点不应该是测试网.]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zksync 要发币不是早就知道的事吗? 准确的说, 主网启动之后链上的撸毛交互才能被记录. 而主网启动之后会分几个阶段完全对用户开放. 首先是zksync团队自己可用, ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1624639773204975618</id>
+        <link href="https://twitter.com/AntCaveClub/status/1624639773204975618"/>
+        <updated>2023-02-12T05:21:20.000Z</updated>
+        <summary type="html"><![CDATA[zksync 要发币不是早就知道的事吗?  
+准确的说, 主网启动之后链上的撸毛交互才能被记录. 
+而主网启动之后会分几个阶段完全对用户开放. 
+首先是zksync团队自己可用, 然后是生态项目方里面的亲儿子, 最后是所有人可用. 
+#zksync #airdrop]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Coinglass 数据显示，Bitget 资产为 13.2 亿美元，不含平台币后资产为 7.75 亿美元，24 小时持仓量 30 亿美元，现货成交额 5.67 亿美元。]]></title>
         <id>https://twitter.com/wublockchain12/status/1624632874069630977</id>
@@ -690,16 +736,6 @@ Kill to unlock tokens https://goerli.etherscan.io/token/0xeb14c1e5468f9277b141
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么我没关注这个人, 天天都能刷到他. 谁有相同情况?]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1623182014282350592</id>
-        <link href="https://twitter.com/AntCaveClub/status/1623182014282350592"/>
-        <updated>2023-02-08T04:48:44.000Z</updated>
-        <summary type="html"><![CDATA[为什么我没关注这个人, 天天都能刷到他.  谁有相同情况?]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @GCRClassic The juice is still worth the squeeze ser]]></title>
         <id>https://twitter.com/DeFi_educator/status/1623144900341407744</id>
         <link href="https://twitter.com/DeFi_educator/status/1623144900341407744"/>
@@ -709,41 +745,6 @@ Kill to unlock tokens https://goerli.etherscan.io/token/0xeb14c1e5468f9277b141
 db: It just keeps going, Saudis unfadeable]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT STFX 🔺: quant just told me how to make it all back in one trade]]></title>
-        <id>https://twitter.com/STFX_IO/status/1623016082268164122</id>
-        <link href="https://twitter.com/STFX_IO/status/1623016082268164122"/>
-        <updated>2023-02-07T17:49:22.000Z</updated>
-        <summary type="html"><![CDATA[RT STFX 🔺
-quant just told me how to make it all back in one trade]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 之战]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1622764158352519173</id>
-        <link href="https://twitter.com/AntCaveClub/status/1622764158352519173"/>
-        <updated>2023-02-07T01:08:19.000Z</updated>
-        <summary type="html"><![CDATA[AI 之战
-
-Jiayuan: Google 刚刚发布了 ChatGPT的竟品 Bard。
- https://blog.google/technology/ai/bard-google-ai-search-updates/]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Neymar Jr: 6ª vez 🙏❤️⚽️]]></title>
-        <id>https://twitter.com/neymarjr/status/1622639803350106112</id>
-        <link href="https://twitter.com/neymarjr/status/1622639803350106112"/>
-        <updated>2023-02-06T16:54:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Neymar Jr
-6ª vez 🙏❤️⚽️]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
