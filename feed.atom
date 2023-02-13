@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T19:11:34.236Z</id>
+    <id>urn:2023-02-13T20:15:32.119Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T19:11:34.236Z</updated>
+    <updated>2023-02-13T20:15:32.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,51 @@
         <summary type="html"><![CDATA[Re @NorthRockLP Dude]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625159211629047814</id>
+        <link href="https://twitter.com/wublockchain12/status/1625159211629047814"/>
+        <updated>2023-02-13T15:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+CZ 🔶 Binance: @frxresearch At this juncture, we'd prefer someone else do it, to keep it more ... decentralized. We can't do everything.🤷‍♂️😂
+But thanks for the support though.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，针对“建议 binance 接下来制作他们自己类似 DAI 的去中心化稳定币”，CZ 回应称，在这个关头，我们更希望其他人来做，以使其更加……去中心化。我们...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625159187482427392</id>
+        <link href="https://twitter.com/wublockchain12/status/1625159187482427392"/>
+        <updated>2023-02-13T15:45:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，针对“建议 binance 接下来制作他们自己类似 DAI 的去中心化稳定币”，CZ 回应称，在这个关头，我们更希望其他人来做，以使其更加……去中心化。我们不能什么都做。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625157805169868801</id>
+        <link href="https://twitter.com/wublockchain12/status/1625157805169868801"/>
+        <updated>2023-02-13T15:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Gabor Gurbacs: Coinbase offers "rewards" to USDC users. This rewards program doesn't look like loyalty points. It's paid in USDC and they use terms like "APY", "yield", etc... So where does the yield come from? Does Circle pass along yield via the Centre consortium? The SEC will likely ask.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，VanEck 战略顾问 @gaborgurbacs 表示，Coinbase 为 USDC 用户提供“奖励”方案，以 USDC 支付并使用“APY”、“收益率”等术语，鉴于 Paxos 的最新发...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625157780054376449</id>
+        <link href="https://twitter.com/wublockchain12/status/1625157780054376449"/>
+        <updated>2023-02-13T15:39:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，VanEck 战略顾问 @gaborgurbacs 表示，Coinbase 为 USDC 用户提供“奖励”方案，以 USDC 支付并使用“APY”、“收益率”等术语，鉴于 Paxos 的最新发展和 Gensler 关于质押和收益的表态，猜测是 SEC 正在调查此类问题。支付远期收益可以像某种基金一样受到监管。Tether CTO 也点赞了这条推特。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -264,17 +309,8 @@ If you got an email today from MetaMask or Namecheap or anyone else like this, i
 
 casslin.eth 🦇🔊: 1. stables standalone=! security, from legal pov, otherwise $ = security too; 
 2. my best guess: this related to bn earn products, aka where u deposit/stake & earn some APRs; or the binance chain busd. 
-Those technically not related to pax but pax =easy target since us based]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @thulynnn 等，结合此前 Kraken 的质押生息产品遭到 SEC 调查，Paxos 的自有稳定币 USDP 并未在 SEC 警告范围，猜测美国 SEC 打击 BUSD 可能与其存...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625071711002451971</id>
-        <link href="https://twitter.com/wublockchain12/status/1625071711002451971"/>
-        <updated>2023-02-13T09:57:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @thulynnn 等，结合此前 Kraken 的质押生息产品遭到 SEC 调查，Paxos 的自有稳定币 USDP 并未在 SEC 警告范围，猜测美国 SEC 打击 BUSD 可能与其存币生息产品有关。而 Circle 也有类似产品，因此也可能受到类似的打击。]]></summary>
+Those technically not related to pax but pax =easy target since us based
+ https://twitter.com/fintechfrank/status/1624923913393262593]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -289,39 +325,6 @@ bears rejoicing on dump of this weak vague news
 send it higher]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 我们确实预见到用户会随着时间的推移迁移到其他稳定币。我们将相应地进行产品调整。例如，不再使用 BUSD 作为交易的主要货币对等。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625069822882226176</id>
-        <link href="https://twitter.com/wublockchain12/status/1625069822882226176"/>
-        <updated>2023-02-13T09:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 我们确实预见到用户会随着时间的推移迁移到其他稳定币。我们将相应地进行产品调整。例如，不再使用 BUSD 作为交易的主要货币对等。
-
-CZ 🔶 Binance: #BUSD. A thread. 1/8
-In summary, BUSD is issued and redeemed by Paxos. And funds are #SAFU!]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，CZ 表示，关于所谓的 SEC 与 Paxos 诉讼，除了公开新闻文章外，没有任何相关信息。该诉讼是在美国证券交易委员会和 Paxos 之间进行的。但如果”BUSD ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625069787532632064</id>
-        <link href="https://twitter.com/wublockchain12/status/1625069787532632064"/>
-        <updated>2023-02-13T09:50:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CZ 表示，关于所谓的 SEC 与 Paxos 诉讼，除了公开新闻文章外，没有任何相关信息。该诉讼是在美国证券交易委员会和 Paxos 之间进行的。但如果”BUSD 被法院裁定为证券，它将对加密行业在被裁定为此类的司法管辖区内如何发展（或不发展）产生深远影响。Binance 将在可预见的未来继续支持 BUSD]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625069029634498561</id>
-        <link href="https://twitter.com/wublockchain12/status/1625069029634498561"/>
-        <updated>2023-02-13T09:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://classic.curve.fi/3pool]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -956,7 +959,7 @@ AMA地址： https://t.me/TG8848Community]]></summary>
         <updated>2023-01-31T10:25:20.000Z</updated>
         <summary type="html"><![CDATA[常玩 $Canto 的记得查查自己有没有空投
 
-Crypto MaMa(♟️,♟️) 💜🧬(💙,🧡): Check you wallet for #Cantobonk airdrop 
+Crypto MaMa.L2♟️,♟️ 💜🧬💙,🧡: Check you wallet for #Cantobonk airdrop 
 I retweeted and forgot to do it
 Worth about $150 people got 5 wallets 😩]]></summary>
         <author>
