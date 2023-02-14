@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T14:13:30.412Z</id>
+    <id>urn:2023-02-14T15:15:02.995Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T14:13:30.412Z</updated>
+    <updated>2023-02-14T15:15:02.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why is $gmx up 22% today lolz]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1625512880924762113</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1625512880924762113"/>
+        <updated>2023-02-14T15:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Why is $gmx up 22% today lolz]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国金融行为监管局 (FCA) 与西约克郡警方合作对加密货币 ATM 运营商发出警告信，要求操作员停止并停止使用这些机器，任何违反规定的行为都将导致根据洗钱规定进...]]></title>
         <id>https://twitter.com/wublockchain12/status/1625473812438618116</id>
@@ -441,16 +451,6 @@ DeFi Surfer: Grail has better fundamentals than at least two of these projects
         <link href="https://twitter.com/DeFiSurfer808/status/1625212997026062338"/>
         <updated>2023-02-13T19:19:08.000Z</updated>
         <summary type="html"><![CDATA[Re @SmartContracter Send it bluntz]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUSD is kind of sketch tbh. New York trust issuing $22 Billy of US dollar stablecoins to sketchy overseas exchange? Na brah]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1625212057090940928</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1625212057090940928"/>
-        <updated>2023-02-13T19:15:24.000Z</updated>
-        <summary type="html"><![CDATA[BUSD is kind of sketch tbh. New York trust issuing $22 Billy of US dollar stablecoins to sketchy overseas exchange? Na brah]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
