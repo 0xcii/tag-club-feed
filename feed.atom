@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T10:15:50.376Z</id>
+    <id>urn:2023-02-15T11:12:05.258Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-15T10:15:50.376Z</updated>
+    <updated>2023-02-15T11:12:05.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据东亚日报，韩国电子商务公司 TMON 前首席执行官因涉嫌受贿、渎职被首尔检方申请了逮捕令。检方表示，TMON 前 CEO 收取了 Terraform Labs 联合创始人价值数十亿...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625781027145912320</id>
+        <link href="https://twitter.com/wublockchain12/status/1625781027145912320"/>
+        <updated>2023-02-15T08:56:17.000Z</updated>
+        <summary type="html"><![CDATA[据东亚日报，韩国电子商务公司 TMON 前首席执行官因涉嫌受贿、渎职被首尔检方申请了逮捕令。检方表示，TMON 前 CEO 收取了 Terraform Labs 联合创始人价值数十亿韩元的 LUNA 的贿赂，并在宣传 Terra 可以在电子商务市场中像现金一样支付。 https://www.donga.com/news/Society/article/all/20230215/117897930/1]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625780993771597826</id>
+        <link href="https://twitter.com/wublockchain12/status/1625780993771597826"/>
+        <updated>2023-02-15T08:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+0xScope (🪬 . 🪬): 🚨.@justinsuntron  just withdrew 300M $BUSD from Binance.
+Based on previous experiences, he is about to send these $BUSD to #Paxos and burn.
+Track him here:
+ https://www.watchers.pro/#/address/0x9f8413454c182369c0200f6cc1031903477f752e]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @ScopeProtocol，标记为孙宇晨的地址刚刚从 Binance 提取了 3 亿美元的 BUSD，并将其发送到 Paxos 销毁（换取现金或 USDP）。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625780992077340675</id>
+        <link href="https://twitter.com/wublockchain12/status/1625780992077340675"/>
+        <updated>2023-02-15T08:56:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ScopeProtocol，标记为孙宇晨的地址刚刚从 Binance 提取了 3 亿美元的 BUSD，并将其发送到 Paxos 销毁（换取现金或 USDP）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，行业人士指出，BUSD 遭到美国监管封杀的原因是 Binance-Peg BUSD，币安如此操作的原因是 NYDFS 未允许在 BNBChain 上发行稳定币，而币安需要支持自...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1625779004358934528</id>
+        <link href="https://twitter.com/wublockchain12/status/1625779004358934528"/>
+        <updated>2023-02-15T08:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，行业人士指出，BUSD 遭到美国监管封杀的原因是 Binance-Peg BUSD，币安如此操作的原因是 NYDFS 未允许在 BNBChain 上发行稳定币，而币安需要支持自身的公链而采取 Peg 的方式；值得注意的是 BNBChain 今日强调2023 年其目标是将验证者的数量从 29 个增加到 100 个，试图推进更加去中心化。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写得不错]]></title>
         <id>https://twitter.com/8848Community/status/1625737554518773761</id>
@@ -224,48 +269,6 @@ Coinbase Assets: Coinbase will add support for Access Protocol (ACS) on the So
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，区块链分析公司 Elliptic 表示，Binance 和 Huobi 在 2 月 14 日冻结了包含约 140 万美元加密资产的账户，这些资产源自 2022 年 6 月Harmony 的 Horiz...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625665777645850625</id>
-        <link href="https://twitter.com/wublockchain12/status/1625665777645850625"/>
-        <updated>2023-02-15T01:18:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，区块链分析公司 Elliptic 表示，Binance 和 Huobi 在 2 月 14 日冻结了包含约 140 万美元加密资产的账户，这些资产源自 2022 年 6 月Harmony 的 Horizo​​n Bridge 遭到的黑客攻击。Elliptic 调查人员认为其属于朝鲜控制的网络犯罪组织 Lazarus Group。 https://hub.elliptic.co/analysis/elliptic-collaborates-with-binance-and-huobi-to-freeze-lazarus-group-hack-proceeds/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Wells 通知是 SEC 发送的正式通知，通知收件人它计划对他们采取执法行动。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625663922270535680</id>
-        <link href="https://twitter.com/wublockchain12/status/1625663922270535680"/>
-        <updated>2023-02-15T01:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Re Wells 通知是 SEC 发送的正式通知，通知收件人它计划对他们采取执法行动。
-
-Dante Disparte: .@circle has not received a Wells notice.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，2 月 14 日 Fox Business 记者 Eleanor Terrett 在一条现已删除推文中表示 SEC 已下令 Circle 停止出售 USDC，因为该稳定币是一种未注册的证券。 Circ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625663798089752578</id>
-        <link href="https://twitter.com/wublockchain12/status/1625663798089752578"/>
-        <updated>2023-02-15T01:10:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，2 月 14 日 Fox Business 记者 Eleanor Terrett 在一条现已删除推文中表示 SEC 已下令 Circle 停止出售 USDC，因为该稳定币是一种未注册的证券。 Circle Pay 首席战略官 Dante Disparte 对此回应到，该公司未收到 Wells 通知。 Eleanor Terrett 承认其报道错误并道歉。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Lido 社区正在讨论由 Lido DAO 的金融部门 Steakhouse Financial 提交的一份治理提案，提案要求该项目持有、出售或质押其国库中持有的以太坊。目前该...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1625660254544359425</id>
-        <link href="https://twitter.com/wublockchain12/status/1625660254544359425"/>
-        <updated>2023-02-15T00:56:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Lido 社区正在讨论由 Lido DAO 的金融部门 Steakhouse Financial 提交的一份治理提案，提案要求该项目持有、出售或质押其国库中持有的以太坊。目前该社区在 Aragon 合约中共持有约 6000 万美元资产，主要为 20,304 枚 ETH（约 3000 万美元）。 https://research.lido.fi/t/should-lidodao-sell-treasury-eth/3868/1]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @primalpoly Exact same thoughts]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1625644890599178243</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1625644890599178243"/>
@@ -328,6 +331,20 @@ There is a $5k referral fee 🤝]]></summary>
         <summary type="html"><![CDATA[Why is $gmx up 22% today lolz]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nnova.eth: A New Kind of Self-Help. How to Unfook Yourself Guide. Look into this light. Now let's dive in. ↓]]></title>
+        <id>https://twitter.com/NNovaDefi/status/1625510392926556161</id>
+        <link href="https://twitter.com/NNovaDefi/status/1625510392926556161"/>
+        <updated>2023-02-14T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[RT nnova.eth
+A New Kind of Self-Help.
+How to Unfook Yourself Guide.
+Look into this light.
+Now let's dive in. ↓]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -509,6 +526,32 @@ Would be nice if someone could smack some sense into the SEC… https://paxos.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Thor⚡️Hartvigsen: Layer 2 scaling solutions are currently either centralized or flawed. But not for long. A complete guide to the roadmaps of the...]]></title>
+        <id>https://twitter.com/ThorHartvigsen/status/1625152292520624129</id>
+        <link href="https://twitter.com/ThorHartvigsen/status/1625152292520624129"/>
+        <updated>2023-02-13T15:17:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Thor⚡️Hartvigsen
+Layer 2 scaling solutions are currently either centralized or flawed. But not for long.
+A complete guide to the roadmaps of the top Ethereum scaling solutions👇]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Viktor DeFi 🛡🦇🔊: Crypto Narratives Alpha Series 💎 04 The Real-World Asset (RWAs) narrative in DeFi is grossly underrated. The question ...]]></title>
+        <id>https://twitter.com/ViktorDefi/status/1625146613374267392</id>
+        <link href="https://twitter.com/ViktorDefi/status/1625146613374267392"/>
+        <updated>2023-02-13T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Viktor DeFi 🛡🦇🔊
+Crypto Narratives Alpha Series 💎 04
+The Real-World Asset (RWAs) narrative in DeFi is grossly underrated.
+The question is, are you paying attention?
+Here's a deep-dive into RWAs, and some emerging players to add to your watchlist: ↓🧵]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Silent Protocol: You thought the ZK narrative was gone, anon? Wait until you learn about EZEE (Economical Zero Knowledge Execution Environment). Fe...]]></title>
         <id>https://twitter.com/silentdao_/status/1625108391692759042</id>
         <link href="https://twitter.com/silentdao_/status/1625108391692759042"/>
@@ -529,6 +572,20 @@ Few.]]></summary>
         <summary type="html"><![CDATA[Complete the #Binance #CryptoLover test and win a $500 Binance gift card to celebrate Valentine’s day with your beloved! https://safu.im/3p4gZZzH]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DeFI Saint 🦇🔊: The Holy Grail of Ethereum Scaling: zkEVMs. While many are attempting to build this, there’s one protocol that has the best c...]]></title>
+        <id>https://twitter.com/TheDeFISaint/status/1625058520939864065</id>
+        <link href="https://twitter.com/TheDeFISaint/status/1625058520939864065"/>
+        <updated>2023-02-13T09:05:18.000Z</updated>
+        <summary type="html"><![CDATA[RT DeFI Saint 🦇🔊
+The Holy Grail of Ethereum Scaling:
+zkEVMs.
+While many are attempting to build this, there’s one protocol that has the best chance of succeeding.
+Here’s who I’m betting on as the winner:]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -850,6 +907,17 @@ db: It just keeps going, Saudis unfadeable]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Verum Capital AG: Steal this 17 upcoming ZK, OP and modular Layer 2s list to find the next $MATIC 🧵👇]]></title>
+        <id>https://twitter.com/verumcapital/status/1622652941915103232</id>
+        <link href="https://twitter.com/verumcapital/status/1622652941915103232"/>
+        <updated>2023-02-06T17:46:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Verum Capital AG
+Steal this 17 upcoming ZK, OP and modular Layer 2s list to find the next $MATIC 🧵👇]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @0xYakitori stop giving out so much alfa ser, pls]]></title>
         <id>https://twitter.com/DeFi_educator/status/1622396793945194497</id>
         <link href="https://twitter.com/DeFi_educator/status/1622396793945194497"/>
@@ -1159,23 +1227,6 @@ Read the full article here: https://docs.google.com/document/d/1005YPC8-tUJhuh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[凯恩斯选美博弈 还是值得多内化 学习]]></title>
-        <id>https://twitter.com/8848Community/status/1618886053708075008</id>
-        <link href="https://twitter.com/8848Community/status/1618886053708075008"/>
-        <updated>2023-01-27T08:18:07.000Z</updated>
-        <summary type="html"><![CDATA[凯恩斯选美博弈
-还是值得多内化
-学习
-
-Edgy - The DeFi Edge 🗡️: John Maynard Keyes, the father of Macroeconomics, was a terrible Stock market investor.
-His fortunes changed once he started studying beauty contests.
-You can use what he learned to improve your Crypto trading.
-Here’s the 2-minute story:]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @mute_chaos We will have it on a per wallet basis within @ChainEDGE_io.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1618821710127710208</id>
         <link href="https://twitter.com/OnChainWizard/status/1618821710127710208"/>
@@ -1207,31 +1258,6 @@ How long could they stay on the sidelines, as millions of consumers see the valu
 Exclusive from @michael_bodley https://blockworks.co/news/amazon-nft-marketplace-web3]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rollups 之间的跨链桥 @BeamerBridge 的社交活动OAT，说是一系列5个活动，这是其中一个，只是做两个社交任务，看做的人好像不多，做几个傍身]]></title>
-        <id>https://twitter.com/8848Community/status/1618629745910087681</id>
-        <link href="https://twitter.com/8848Community/status/1618629745910087681"/>
-        <updated>2023-01-26T15:19:38.000Z</updated>
-        <summary type="html"><![CDATA[rollups 之间的跨链桥 @BeamerBridge  的社交活动OAT，说是一系列5个活动，这是其中一个，只是做两个社交任务，看做的人好像不多，做几个傍身 https://galxe.com/beamerbridge/campaign/GCixyU4tBg]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUI 测试网2]]></title>
-        <id>https://twitter.com/8848Community/status/1618627986273742850</id>
-        <link href="https://twitter.com/8848Community/status/1618627986273742850"/>
-        <updated>2023-01-26T15:12:39.000Z</updated>
-        <summary type="html"><![CDATA[SUI 测试网2
-
-Sui: 📣We’re excited to share that Sui Testnet Wave 2 is now live! 🎉
-And in this wave, you can participate and get hands-on with Sui!
-⛓️For more in-depth details, see the blog linked at the end of this thread.
-Let’s dive in 🧵]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -1273,37 +1299,6 @@ Re @ChainEDGE_io helped me
 Onchain smart wallet data  can be your friend when served right. Plus you can afford this. @OnChainWizard thank you.]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[等我以后赚到钱 我就给你买大房子 漂亮的车子大大的钻石 你喜欢什么我都买给你 现在这些我都有了 却忘了爱一个人是什么感觉 听说你跟你现在的那位要开一家牛肉面...]]></title>
-        <id>https://twitter.com/8848Community/status/1618535368613318659</id>
-        <link href="https://twitter.com/8848Community/status/1618535368613318659"/>
-        <updated>2023-01-26T09:04:37.000Z</updated>
-        <summary type="html"><![CDATA[等我以后赚到钱
-我就给你买大房子
-漂亮的车子大大的钻石
-你喜欢什么我都买给你
-现在这些我都有了
-却忘了爱一个人是什么感觉
-听说你跟你现在的那位要开一家牛肉面店
-我说给你4亿做你们的投资人
-只是我好想你
-这是我唯一能和你见面的借口
-假如我年少有为不自卑
-懂得什么是挪用客户资金]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jjRzdyL6sQ2VrbH 这是申请]]></title>
-        <id>https://twitter.com/8848Community/status/1618528904008040456</id>
-        <link href="https://twitter.com/8848Community/status/1618528904008040456"/>
-        <updated>2023-01-26T08:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @jjRzdyL6sQ2VrbH 这是申请]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
