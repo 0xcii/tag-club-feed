@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T14:13:10.525Z</id>
+    <id>urn:2023-02-16T15:14:50.912Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T14:13:10.526Z</updated>
+    <updated>2023-02-16T15:14:50.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @crypto_linn @poordart @veH0rny Just the tip as they say]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1626226278318903302</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1626226278318903302"/>
+        <updated>2023-02-16T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @crypto_linn @poordart @veH0rny Just the tip as they say]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NestedFi @0xPolygon Cool . Thanks, I understand now 👀]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1626217919666601987</id>
+        <link href="https://twitter.com/AntCaveClub/status/1626217919666601987"/>
+        <updated>2023-02-16T13:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @NestedFi @0xPolygon Cool . Thanks, I understand now 👀]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这篇线程太精彩了!]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1626211592252854277</id>
+        <link href="https://twitter.com/AntCaveClub/status/1626211592252854277"/>
+        <updated>2023-02-16T13:27:11.000Z</updated>
+        <summary type="html"><![CDATA[这篇线程太精彩了!
+
+Jon Radoff 👾 Metavert 🕶️: 🧵 1/ When I was a kid I wanted to build a "Holodeck."
+Here's my thinking on how generative #AI, parallel compute, compositional frameworks and realtime graphics will unleash the power to speak whole worlds into existence.
+Full article:
+ https://medium.com/building-the-metaverse/the-direct-from-imagination-era-has-begun-8a01244b75]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 5、 将 Bid 的过期时间从默认永久改为 10~30 分钟；6、绕过 Blur 的限制对一些无法 Bid 的 NFT 进行 Bid（后来被修复了）。]]></title>
         <id>https://twitter.com/wublockchain12/status/1626206937267441665</id>
@@ -448,16 +483,6 @@ My February 2023 newsletter is now available, and takes a look at historical per
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WalterDeemer Technicals set price no]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1625978849396682753</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1625978849396682753"/>
-        <updated>2023-02-15T22:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @WalterDeemer Technicals set price no]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Doug Colkitt (🐊,🐊):]]></title>
         <id>https://twitter.com/0xdoug/status/1625947063945990144</id>
         <link href="https://twitter.com/0xdoug/status/1625947063945990144"/>
@@ -829,30 +854,6 @@ Crypto营长: 批量 #撸空投 必定要买Gmail，给各位老板推荐这�
         <summary type="html"><![CDATA[Re 马上下周对于zksync 2.0 主网能上线的项目方的白名单统计完成后,  第一批能在主网上部署合约的项目才是交互的重点. 
 因为主网应该不会重置了吧。🐶 
 很不幸之前的号白撸了, 包括我自己...]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 现在全网在撸的zksync 2.0 是测试网, 并且测试网前前后后做过多次 “重置”, 就是将整个链数据抹掉重启... 最近一次是前几天. 作为项目方我们前后重新部署过...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1624639775650217985</id>
-        <link href="https://twitter.com/AntCaveClub/status/1624639775650217985"/>
-        <updated>2023-02-12T05:21:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 现在全网在撸的zksync 2.0 是测试网,  并且测试网前前后后做过多次 “重置”, 就是将整个链数据抹掉重启... 最近一次是前几天. 作为项目方我们前后重新部署过多次智能合约了.  根本没留存数据, 有的项目方可能备份了.  所以交互的重点不应该是测试网.]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zksync 要发币不是早就知道的事吗? 准确的说, 主网启动之后链上的撸毛交互才能被记录. 而主网启动之后会分几个阶段完全对用户开放. 首先是zksync团队自己可用, ...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1624639773204975618</id>
-        <link href="https://twitter.com/AntCaveClub/status/1624639773204975618"/>
-        <updated>2023-02-12T05:21:20.000Z</updated>
-        <summary type="html"><![CDATA[zksync 要发币不是早就知道的事吗?  
-准确的说, 主网启动之后链上的撸毛交互才能被记录. 
-而主网启动之后会分几个阶段完全对用户开放. 
-首先是zksync团队自己可用, 然后是生态项目方里面的亲儿子, 最后是所有人可用. 
-#zksync #airdrop]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
