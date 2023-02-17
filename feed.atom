@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T07:13:27.359Z</id>
+    <id>urn:2023-02-17T08:18:28.849Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T07:13:27.359Z</updated>
+    <updated>2023-02-17T08:18:28.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Wladimir van der Laan于 2014 年成为首席维护者，但在过去两年中一直试图退出这一角色。应他自己的要求，他对 Bitcoin Core 的 GitHub 存储库的访问权限最终...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626469751756038144</id>
+        <link href="https://twitter.com/wublockchain12/status/1626469751756038144"/>
+        <updated>2023-02-17T06:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Re Wladimir van der Laan于 2014 年成为首席维护者，但在过去两年中一直试图退出这一角色。应他自己的要求，他对 Bitcoin Core 的 GitHub 存储库的访问权限最终于周四被取消。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ 蚁穴推荐 ✨ 网站: MetaDock 描述: <p>对多条公链的区块链浏览器和其他dApp进行增强，支持增强标签显示、资金流向图、智能工具聚合（包括DeBank、Tendely、De...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1626465843449151489</id>
@@ -17,6 +27,38 @@
 #MetaDock  #metadock https://antcave.club/sites/2384.html]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 WSJ 报道，一名 Bitcoin Core 代码管理员已于本周四离职，当前拥有比特币代码修改权限的仅剩 5 人。在过去的 18 个月里，有 4 位 Bitcoin Core 维护者以身心...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626455689991458818</id>
+        <link href="https://twitter.com/wublockchain12/status/1626455689991458818"/>
+        <updated>2023-02-17T05:37:09.000Z</updated>
+        <summary type="html"><![CDATA[据 WSJ 报道，一名 Bitcoin Core 代码管理员已于本周四离职，当前拥有比特币代码修改权限的仅剩 5 人。在过去的 18 个月里，有 4 位 Bitcoin Core 维护者以身心疲劳或法律风险为由辞职。 https://www.wsj.com/articles/bitcoin-core-maintainers-crypto-7b93804?mod=markets_minor_pos10]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626455448890265606</id>
+        <link href="https://twitter.com/wublockchain12/status/1626455448890265606"/>
+        <updated>2023-02-17T05:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 
+
+Filecoin: @duckie_han Great thread, HQ! 👏 We're excited to launch smart contracts in Mar'23 and become a fully-fledged L1.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Filecoin 生态增长负责人 @duckie_han 的推文，去中心化存储项目 Filecoin 将于 3 月 23 日推出智能合约，使其成为成熟的 L1。据悉，FVM 是一项关...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626455421182681089</id>
+        <link href="https://twitter.com/wublockchain12/status/1626455421182681089"/>
+        <updated>2023-02-17T05:36:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Filecoin 生态增长负责人 @duckie_han 的推文，去中心化存储项目 Filecoin 将于 3 月 23 日推出智能合约，使其成为成熟的 L1。据悉，FVM 是一项关键升级，可为 Filecoin 带来智能合约功能，Filecoin 官方也转发此条推文并确认了这一时间。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -240,26 +282,6 @@ Read 🧵 👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据路透社报道，银行记录和公司信息显示，币安在 2021 年 1-3 月期间将约 4 亿美元资金从 Binance US 的 Silvergate Bank 账户转移至赵长鹏管理的交易公司 Merit ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626383179283304448</id>
-        <link href="https://twitter.com/wublockchain12/status/1626383179283304448"/>
-        <updated>2023-02-17T00:49:01.000Z</updated>
-        <summary type="html"><![CDATA[据路透社报道，银行记录和公司信息显示，币安在 2021 年 1-3 月期间将约 4 亿美元资金从 Binance US 的 Silvergate Bank 账户转移至赵长鹏管理的交易公司 Merit Peak。路透社称，无法确定转移的资金是否属于美国客户，也无法确定转账原因。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 SEC 公告，美国证券交易委员会指控总部位于新加坡的 Terraform Labs 和首席执行官 Do Kwon 策划了一起涉及算法稳定币和其他加密资产的数十亿美元加...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626380818297016321</id>
-        <link href="https://twitter.com/wublockchain12/status/1626380818297016321"/>
-        <updated>2023-02-17T00:39:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 SEC 公告，美国证券交易委员会指控总部位于新加坡的 Terraform Labs 和首席执行官 Do Kwon 策划了一起涉及算法稳定币和其他加密资产的数十亿美元加密资产证券欺诈。指控称其未能按要求向公众披露该加密证券相关信息，并在崩盘前通过虚假描述误导投资者。 https://www.sec.gov/news/press-release/2023-32]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Haseeb ＞|＜: Just read through the SEC case against Do Kwon/Terraform Labs so you don't have to. A few takeaways:]]></title>
         <id>https://twitter.com/hosseeb/status/1626359056515616769</id>
         <link href="https://twitter.com/hosseeb/status/1626359056515616769"/>
@@ -398,26 +420,6 @@ I present 8 of the largest VCs, their biggest holdings and recent investments�
 #wen top 20]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 基础设施初创公司 Nefta 在种子轮融资中以 3250 万美元的估值筹集了 500 万美元，Play Ventures 以 250 万美元领投，Polygon Ventures 等参投。该公司旨在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626248709259538434</id>
-        <link href="https://twitter.com/wublockchain12/status/1626248709259538434"/>
-        <updated>2023-02-16T15:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Web3 基础设施初创公司 Nefta 在种子轮融资中以 3250 万美元的估值筹集了 500 万美元，Play Ventures 以 250 万美元领投，Polygon Ventures 等参投。该公司旨在为希望进入 web3 领域并在其中发展的企业提供工具，包括定制的 API、软件开发工具包等。（The Block） https://www.theblock.co/post/212432/web3-tooling-startup-nefta-raises-seed-round-at-32-5-million-valuation]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 The Block 报道，Mysten Labs 首席执行官兼联合创始人 Evan Cheng 正在为一家专注于 web3 投资的风险投资基金筹集超过 1 亿美元的资金。该基金将在广泛的范围...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626247836479410177</id>
-        <link href="https://twitter.com/wublockchain12/status/1626247836479410177"/>
-        <updated>2023-02-16T15:51:13.000Z</updated>
-        <summary type="html"><![CDATA[据 The Block 报道，Mysten Labs 首席执行官兼联合创始人 Evan Cheng 正在为一家专注于 web3 投资的风险投资基金筹集超过 1 亿美元的资金。该基金将在广泛的范围内进行 web3 投资，不仅仅针对 Sui 生态系统项目。 https://www.theblock.co/post/210189/mysten-labs-ceo-evan-cheng-web3-fund?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1051,8 +1053,7 @@ You’re being lied to about the governance of UNI
 
 
 
-CZ 🔶 Binance: Uniswap controlled by a16z?
- https://twitter.com/ChrisBlec/status/1622201701921964035]]></summary>
+CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1242,8 +1243,7 @@ Read below for more details 🔽]]></summary>
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang
- https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
