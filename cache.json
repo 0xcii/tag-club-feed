@@ -6,6 +6,96 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1626543293638250496",
+          "author": "吴说区块链",
+          "description": "Re 0xScope 认为 0xaa...06e6 并非内幕交易者，原因是：1.第一次买入在 25 天前；2.进行了一个月的买入、卖出、质押、取消质押行为；3.在暴涨前卖出了 20%（1 万枚） GNS。\n\n0xScope (🪬 . 🪬): To sum up why we don't think it is insider trading:\n1. The first buy is 25 days ago.\n2. It's been buying/selling/stake/unstake for a month\n3. Before the pump, it sold 10K $GNS (20% of the whole holdings) instead of keep buying more.\n🤔",
+          "link": "https://twitter.com/wublockchain12/status/1626543293638250496",
+          "publishedOn": "2023-02-17T11:25:15.000Z",
+          "wordCount": 498,
+          "title": "Re 0xScope 认为 0xaa...06e6 并非内幕交易者，原因是：1.第一次买入在 25 天前；2.进行了一个月的买入、卖出、质押、取消质押行为；3.在暴涨前卖出了 20%（1 万...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626542429808775171",
+          "author": "吴说区块链",
+          "description": "Re 据慢雾，在对 Platypus 攻击合约进行反编译后，发现攻击者并没有在合约中实现提现功能，导致 850 万美金的攻击收益无法提取，被锁定在攻击合约中。\n\nSlowMist: On February 17, @Platypusdefi, a stablecoin exchange platform on the Avalanche chain was attacked, and the attacker made a profit of approximately $8.5 million. \nHere is a brief report👇",
+          "link": "https://twitter.com/wublockchain12/status/1626542429808775171",
+          "publishedOn": "2023-02-17T11:21:49.000Z",
+          "wordCount": 498,
+          "title": "Re 据慢雾，在对 Platypus 攻击合约进行反编译后，发现攻击者并没有在合约中实现提现功能，导致 850 万美金的攻击收益无法提取，被锁定在攻击合约中。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626536332842487811",
+          "author": "吴说区块链",
+          "description": "Re 目前该地址持有 10 倍杠杆持仓价值达 1966 万美元的 ETH 多单和 8.8 倍杠杆持仓价值达 2013 万美元的 BTC 多单，分别浮盈 16 万美元和 10 万美元。 https://app.gmx.io/#/actions/0xe8c19dB00287e3536075114B2576c70773E039BD",
+          "link": "https://twitter.com/wublockchain12/status/1626536332842487811",
+          "publishedOn": "2023-02-17T10:57:35.000Z",
+          "wordCount": 498,
+          "title": "Re 目前该地址持有 10 倍杠杆持仓价值达 1966 万美元的 ETH 多单和 8.8 倍杠杆持仓价值达 2013 万美元的 BTC 多单，分别浮盈 16 万美元和 10 万美元。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626536284981460995",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 GMX 数据，Mechanism Capital 合伙人兼知名 GMX Trader Andrew Kang 地址（0xe8...39BD）今早减少了持仓价值 3500 万美元 ETH 多单和 3700 万美元 BTC 多单，后又累计买入了持仓价值 2000 万美元 BTC 多单和 1950 万美元 ETH 多单。",
+          "link": "https://twitter.com/wublockchain12/status/1626536284981460995",
+          "publishedOn": "2023-02-17T10:57:24.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，据 GMX 数据，Mechanism Capital 合伙人兼知名 GMX Trader Andrew Kang 地址（0xe8...39BD）今早减少了持仓价值 3500 万美元 ETH 多单和 3700 万美元 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626532412292497408",
+          "author": "吴说区块链",
+          "description": "Re 此外，数据显示，Benqi 历史清算量的约 70% 是在 0-2 个区块间完成的。在最少的区块数内发生的清算量越大，表明协议对坏账的弹性越大。 https://defirisk.intotheblock.com/metrics/avalanche/benqi",
+          "link": "https://twitter.com/wublockchain12/status/1626532412292497408",
+          "publishedOn": "2023-02-17T10:42:01.000Z",
+          "wordCount": 498,
+          "title": "Re 此外，数据显示，Benqi 历史清算量的约 70% 是在 0-2 个区块间完成的。在最少的区块数内发生的清算量越大，表明协议对坏账的弹性越大。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626532373683896320",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 IntoTheBlock ITB Risk Radar，Avalanche 上 TVL 第二大协议 Benqi 中处于高风险的贷款（抵押品价值在清算线的 5% 范围内）在近期大幅增长至约 230 万美元，是自去年 11 月初以来高点，约占借贷总量的 5.3%。",
+          "link": "https://twitter.com/wublockchain12/status/1626532373683896320",
+          "publishedOn": "2023-02-17T10:41:52.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，据 IntoTheBlock ITB Risk Radar，Avalanche 上 TVL 第二大协议 Benqi 中处于高风险的贷款（抵押品价值在清算线的 5% 范围内）在近期大幅增长至约 230...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626523555528847361",
+          "author": "吴说区块链",
+          "description": "Re 0xaA...06e6 从 1 月 23 日起开始频繁交易 GNS，并在公告前花费 20.8 万美元购入 GNS，公告后售出获利 10.6 万美元；这两个地址最初资金来源于 OKX，且只交易 GNS。 https://polygonscan.com/address/0xaAb3Cb57fbEc547207137fa998ea8d09Ece606e6 https://polygonscan.com/address/0x339904717900d71b80c792c4cee7a84439790d9f",
+          "link": "https://twitter.com/wublockchain12/status/1626523555528847361",
+          "publishedOn": "2023-02-17T10:06:49.000Z",
+          "wordCount": 498,
+          "title": "Re 0xaA...06e6 从 1 月 23 日起开始频繁交易 GNS，并在公告前花费 20.8 万美元购入 GNS，公告后售出获利 10.6 万美元；这两个地址最初资金来源于 OKX，且只交易...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626523516639252480",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Lookonchain 监测，有聪明钱地址在币安发布上线 GNS 前后买卖 GNS 获利。0x339...0d9f 从 2 月 8 日起开始购入 GNS，共约花费 50 万美元以 7.38 美元的平均价格购入 6.7 万枚 GNS，在公告发布后以 11.22 美元售出1.1万枚 GNS，单笔获利 4.3 万美元；",
+          "link": "https://twitter.com/wublockchain12/status/1626523516639252480",
+          "publishedOn": "2023-02-17T10:06:40.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，据 Lookonchain 监测，有聪明钱地址在币安发布上线 GNS 前后买卖 GNS 获利。0x339...0d9f 从 2 月 8 日起开始购入 GNS，共约花费 50 万美元以 7.38 美...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1626508965369757697",
+          "author": "吴说区块链",
+          "description": "吴说获悉，美联储圣路易斯联储行长布拉德(James Bullard)周四表示，倾向于美联储加息至5.375%的利率峰值，希望以最快的速度达到；他曾在2月会议上建议FOMC加息50个基点；不排除3月支持加息50个基点的可能性。该发言发表后纳斯达克与加密市场大幅下挫。 https://www.bloomberg.com/news/articles/2023-02-16/fed-s-bullard-open-to-half-point-rate-hike-at-next-meeting",
+          "link": "https://twitter.com/wublockchain12/status/1626508965369757697",
+          "publishedOn": "2023-02-17T09:08:51.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，美联储圣路易斯联储行长布拉德(James Bullard)周四表示，倾向于美联储加息至5.375%的利率峰值，希望以最快的速度达到；他曾在2月会议上建议FOMC加息50...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1626505715199414272",
           "author": "吴说区块链",
           "description": "NFTGo 2022年度报告：Stepn azuki labyrinth 和 Neymar 最受关注；NFT 持有者为373万人，相较去年增长187.18%；清洗交易总量大约900万ETH，占据2022年总交易量的35%左右；市场传导的顺序变成“巨鲸操作——散户操作——引发行情”。阅读全文： https://mp.weixin.qq.com/s/GMKDfwvFKU6CN3HHJn4phg",
@@ -113,96 +203,6 @@
           "publishedOn": "2023-02-17T01:43:12.000Z",
           "wordCount": 498,
           "title": "分析：BUSD 退场后的 BNBChain 稳定币生态会有何变化？目前 BNBChain 上的稳定币生态 BUSD 的占有率高达 53%，市值约 48 亿美元；未来对于去中心化稳定币赛道，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626396763107233793",
-          "author": "吴说区块链",
-          "description": "Re  https://cryptoquant.com/dashboard/63ecfc918f8f4b75a36ee89c?utm_medium=sns&utm_source=twitter&utm_campaign=dashboard&utm_content=researchdashboard",
-          "link": "https://twitter.com/wublockchain12/status/1626396763107233793",
-          "publishedOn": "2023-02-17T01:42:59.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626396720694439937",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 CryptoQuant 数据，自 BUSD 遭到打击后，Binance 中 BUSD 在本周（13 日至今）净流出约 20 亿，BUSD 储备约为 124.74 亿，已下降至 2021 年 12 月以来的最低水平。尽管 BUSD 的赎回和外流不断增加，但由于 Paxos 承诺可在 2024 年 2 月前赎回，到目前为止，BUSD 仍保持与美元挂钩。",
-          "link": "https://twitter.com/wublockchain12/status/1626396720694439937",
-          "publishedOn": "2023-02-17T01:42:49.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，据 CryptoQuant 数据，自 BUSD 遭到打击后，Binance 中 BUSD 在本周（13 日至今）净流出约 20 亿，BUSD 储备约为 124.74 亿，已下降至 2021 年 12 月...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626393843104116736",
-          "author": "吴说区块链",
-          "description": "Re 值得注意的是，SEC 明确在文件中指控 Luna 与 UST 是未经注册的证券。",
-          "link": "https://twitter.com/wublockchain12/status/1626393843104116736",
-          "publishedOn": "2023-02-17T01:31:23.000Z",
-          "wordCount": 498,
-          "title": "Re 值得注意的是，SEC 明确在文件中指控 Luna 与 UST 是未经注册的证券。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626393347047960577",
-          "author": "吴说区块链",
-          "description": "Re  https://www.coindesk.com/business/2023/02/16/mt-goxs-2-largest-creditors-pick-payout-option-that-wont-force-bitcoin-selloff-sources/",
-          "link": "https://twitter.com/wublockchain12/status/1626393347047960577",
-          "publishedOn": "2023-02-17T01:29:25.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626393321668251650",
-          "author": "吴说区块链",
-          "description": "Mt. Gox 的两个最大债权人、位于新西兰的加密货币交易所 Bitcoinica 和 MtGox Investment Funds，合计约占所有 Mt. Gox 索赔的五分之一（3万枚BTC左右），已选择主要以比特币 (BTC) 支付其破产追偿，预计在 9 月 30 日进行。他们将获得其可收回资金的 90%，相当于原资金的21%。（CoinDesk）",
-          "link": "https://twitter.com/wublockchain12/status/1626393321668251650",
-          "publishedOn": "2023-02-17T01:29:19.000Z",
-          "wordCount": 498,
-          "title": "Mt. Gox 的两个最大债权人、位于新西兰的加密货币交易所 Bitcoinica 和 MtGox Investment Funds，合计约占所有 Mt. Gox 索赔的五分之一（3万枚BTC左右），已选择...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626393265405845505",
-          "author": "吴说区块链",
-          "description": "Re 该漏洞似乎在于 emergencyWithdraw 函数对 MasterPlatypusV4 合约的验证，只有在借入资产超过借入限额时才会失败。\n\nCertiK Alert: #CertiKSkynet Analysis\nToday @Platypusdefi project was attacked via flash loans on AVAX resulting in total losses of ~$9M worth of assets. At this time, most of the stolen funds remain in the attacker’s contract address, with some sent to an EOA and AAVE pool. \nRead 🧵 👇",
-          "link": "https://twitter.com/wublockchain12/status/1626393265405845505",
-          "publishedOn": "2023-02-17T01:29:06.000Z",
-          "wordCount": 498,
-          "title": "Re 该漏洞似乎在于 emergencyWithdraw 函数对 MasterPlatypusV4 合约的验证，只有在借入资产超过借入限额时才会失败。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626393215623634944",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Platypus 通知社区表示，其原生稳定币USP 遭遇黑客攻击，正在制定全面的恢复计划。据 CertiK 监测，Avalanche 上项目 Platypus 稳定币 Platypus USD 发生闪电贷攻击，导致总价值约 900 万美元的资产损失。大部分被盗资金仍留在攻击者的合约地址中，部分资金被发送到 EOA 和 AAVE 池中。",
-          "link": "https://twitter.com/wublockchain12/status/1626393215623634944",
-          "publishedOn": "2023-02-17T01:28:54.000Z",
-          "wordCount": 498,
-          "title": "吴说获悉，Platypus 通知社区表示，其原生稳定币USP 遭遇黑客攻击，正在制定全面的恢复计划。据 CertiK 监测，Avalanche 上项目 Platypus 稳定币 Platypus USD ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626388288755097600",
-          "author": "吴说区块链",
-          "description": "Re  https://www.coindesk.com/policy/2023/02/16/compute-norths-reorganization-plan-approved-by-bankruptcy-judge/",
-          "link": "https://twitter.com/wublockchain12/status/1626388288755097600",
-          "publishedOn": "2023-02-17T01:09:19.000Z",
-          "wordCount": 498,
-          "title": "Re",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1626388250091982849",
-          "author": "吴说区块链",
-          "description": "加密矿企 Compute North 的重组计划获得破产法官批准，并与多家公司达成和解， 该矿企于 2022 年 9 月申请破产保护，原因为无法履行其债务义务。其律师在周四的听证会上表示，Compute North 已完成 13 项资产出售，其中 4 项是重大资产，已经“结清”了其 2.5 亿美元的所有担保债务。（CoinDesk）",
-          "link": "https://twitter.com/wublockchain12/status/1626388250091982849",
-          "publishedOn": "2023-02-17T01:09:10.000Z",
-          "wordCount": 498,
-          "title": "加密矿企 Compute North 的重组计划获得破产法官批准，并与多家公司达成和解， 该矿企于 2022 年 9 月申请破产保护，原因为无法履行其债务义务。其律师在周四的...",
           "imageUrl": null
         }
       ]
@@ -749,7 +749,7 @@
         {
           "id": "https://twitter.com/bubblemaps/status/1622295931117879301",
           "author": "DΞFi Ξducator",
-          "description": "RT Bubblemaps\nYou’re being lied to about the governance of UNI\n@a16z could control 41.5M UNI through 11 wallets, which represents more than 4% of the supply \n4% is the required amount to pass any proposal 🧵↓\n\n\n\nCZ 🔶 Binance: Uniswap controlled by a16z?\n https://twitter.com/ChrisBlec/status/1622201701921964035",
+          "description": "RT Bubblemaps\nYou’re being lied to about the governance of UNI\n@a16z could control 41.5M UNI through 11 wallets, which represents more than 4% of the supply \n4% is the required amount to pass any proposal 🧵↓\n\n\n\nCZ 🔶 Binance: Uniswap controlled by a16z?",
           "link": "https://twitter.com/bubblemaps/status/1622295931117879301",
           "publishedOn": "2023-02-05T18:07:45.000Z",
           "wordCount": 498,
@@ -759,7 +759,7 @@
         {
           "id": "https://twitter.com/0xrelied/status/1619311018429288448",
           "author": "DΞFi Ξducator",
-          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang\n https://twitter.com/bryptobricks/status/1615062937395433472",
+          "description": "RT relied🫐🎲\n1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: \"What will happen to $GLP when he closes these trades\". Let´s check.\n\nAndrew Kang: #OperationLiquidateAndrewKang",
           "link": "https://twitter.com/0xrelied/status/1619311018429288448",
           "publishedOn": "2023-01-28T12:26:46.000Z",
           "wordCount": 498,
