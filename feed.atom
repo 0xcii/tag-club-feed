@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T13:18:13.712Z</id>
+    <id>urn:2023-02-18T14:11:44.224Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T13:18:13.712Z</updated>
+    <updated>2023-02-18T14:11:44.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[理解验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度剖析验证者的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626894065919791104</id>
-        <link href="https://twitter.com/wublockchain12/status/1626894065919791104"/>
-        <updated>2023-02-18T10:39:06.000Z</updated>
-        <summary type="html"><![CDATA[理解验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度剖析验证者的生命周期，展示每个状态和状态转换之际发生的事情，什么触发了状态转换，以及每次状态转换所需要的时间。阅读全文： https://mp.weixin.qq.com/s/923Z68sp096EQbo2mIkD9w]]></summary>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626899902461624321</id>
+        <link href="https://twitter.com/wublockchain12/status/1626899902461624321"/>
+        <updated>2023-02-18T11:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://mp.weixin.qq.com/s/923Z68sp096EQbo2mIkD9w]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解以太坊 2.0 验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626899899924074499</id>
+        <link href="https://twitter.com/wublockchain12/status/1626899899924074499"/>
+        <updated>2023-02-18T11:02:17.000Z</updated>
+        <summary type="html"><![CDATA[理解以太坊 2.0 验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度剖析验证者的生命周期，展示每个状态和状态转换之际发生的事情，什么触发了状态转换，以及每次状态转换所需要的时间。阅读全文：]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 游戏公会 Yield Guild Games（YGG）正在进入风险投资领域，为其第一只基金筹集了 7500 万美元。该基金的任务是投资于 web3、游戏工作室和支持行业发展的基...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626895915054161920</id>
+        <link href="https://twitter.com/wublockchain12/status/1626895915054161920"/>
+        <updated>2023-02-18T10:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Web3 游戏公会 Yield Guild Games（YGG）正在进入风险投资领域，为其第一只基金筹集了 7500 万美元。该基金的任务是投资于 web3、游戏工作室和支持行业发展的基础设施的早期代币和股权交易，以使 YGG Ventures Fund I 的有限合伙人 limited partners 受益。（The Block） https://www.theblock.co/post/212770/yield-guild-games-ygg-ventures-fund-75-million-web3-gaming]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -227,8 +247,7 @@ Here're 6 takeaways from the 117 mins podcast]]></summary>
         <summary type="html"><![CDATA[Re TheBlock 研究员 Steve 指出，这代表 OpenSea 感到压力，这些变化基本上复制了 Blur 的所有费用结构。预计一些艺术与 PFP 项目可能因收入不足而死亡，项目转向游戏和 metaverses。
 
 Steven: OpenSea feeling pressure. 
-The changes basically copy all of Blur's fee structure.
- https://twitter.com/opensea/status/1626682043655507969]]></summary>
+The changes basically copy all of Blur's fee structure.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -260,8 +279,7 @@ The changes basically copy all of Blur's fee structure.
         <updated>2023-02-18T01:15:51.000Z</updated>
         <summary type="html"><![CDATA[Re 
 
-Star: OKX is working on getting more than 15 licenses globally. In different jurisdictions there are different restrictions on the product features.
- https://twitter.com/zigadeebong/status/1626495182991671296]]></summary>
+Star: OKX is working on getting more than 15 licenses globally. In different jurisdictions there are different restrictions on the product features.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -272,26 +290,6 @@ Star: OKX is working on getting more than 15 licenses globally. In different j
         <link href="https://twitter.com/wublockchain12/status/1626752299057156096"/>
         <updated>2023-02-18T01:15:46.000Z</updated>
         <summary type="html"><![CDATA[吴说周精选：BUSD 遭打击、BLUR Token 上线、美国 CPI 数据公布与新闻Top10（0210-0217） https://mp.weixin.qq.com/s/yQEK82BQhk1gVWa-1gZKbQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 创始人徐明星表示，OKX 在2022年开始启动申请香港加密货币合规牌照（目前 OSL HASHKEY 已获得），并且致力于在全球范围内获得超过 15 个许可证，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626752136091508741</id>
-        <link href="https://twitter.com/wublockchain12/status/1626752136091508741"/>
-        <updated>2023-02-18T01:15:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 创始人徐明星表示，OKX 在2022年开始启动申请香港加密货币合规牌照（目前 OSL HASHKEY 已获得），并且致力于在全球范围内获得超过 15 个许可证，在不同的司法管辖区，对产品功能会有不同的限制。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626748371477098498</id>
-        <link href="https://twitter.com/wublockchain12/status/1626748371477098498"/>
-        <updated>2023-02-18T01:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.theblock.co/post/212966/platypusdefi-salvages-2-4-million-in-hacked-funds-with-blocksecs-help?utm_source=onecryptofeed&utm_medium=social]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
