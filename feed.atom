@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T10:13:45.071Z</id>
+    <id>urn:2023-02-18T11:11:57.120Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T10:13:45.071Z</updated>
+    <updated>2023-02-18T11:11:57.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[理解验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度剖析验证者的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626894065919791104</id>
+        <link href="https://twitter.com/wublockchain12/status/1626894065919791104"/>
+        <updated>2023-02-18T10:39:06.000Z</updated>
+        <summary type="html"><![CDATA[理解验证者的生命周期（作者：Jim McDonald）：验证者不是仅处于“开”与“关”的状态：他们会在他们的生命周期里历遍一系列的交易。这篇文章将深度剖析验证者的生命周期，展示每个状态和状态转换之际发生的事情，什么触发了状态转换，以及每次状态转换所需要的时间。阅读全文： https://mp.weixin.qq.com/s/923Z68sp096EQbo2mIkD9w]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：探讨一种可能让 DAO 茁壮成长的模式：初创企业和对冲基金的融合。像初创企业一样，DAO 有很好的条件在特定的任务或产品上采取行动，而且需要资本来启...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626888765519065088</id>
+        <link href="https://twitter.com/wublockchain12/status/1626888765519065088"/>
+        <updated>2023-02-18T10:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Bankless：探讨一种可能让 DAO 茁壮成长的模式：初创企业和对冲基金的融合。像初创企业一样，DAO 有很好的条件在特定的任务或产品上采取行动，而且需要资本来启动。对冲基金了解如何筹集资金并为持有者创造长期回报。阅读全文： https://mp.weixin.qq.com/s/3UqBw3LgywCxJfuh9w545Q]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Premint 平台发现一个不错的 #日本🇯🇵NFT项目 @MutantPets 🎁抽必中WL给大家！ ⏰2月26日北京时间晚上7点mint 要求： 1. 关注 @MutantPets @CindyCreati...]]></title>
         <id>https://twitter.com/8848Community/status/1626877229732069378</id>
@@ -30,6 +50,26 @@ Show your love for our pets🐶😺🐭🐰🐷🐵
 #NFT #NFTs #ETH #Ethereum #NFTCommunitiy]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 实际上，更改的合并只是一个漫长过程的最后一步。阅读全文：]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626865448393269249</id>
+        <link href="https://twitter.com/wublockchain12/status/1626865448393269249"/>
+        <updated>2023-02-18T08:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 实际上，更改的合并只是一个漫长过程的最后一步。阅读全文： https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=37&id=11672]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[针对近期华尔街日报对比特币代码管理者的报道，CoinShare 发文反驳这一观点：Bitcoin Core 是一项协作工作，涉及来自世界各地的不同开发人员和贡献者群体，而不...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1626865446128349185</id>
+        <link href="https://twitter.com/wublockchain12/status/1626865446128349185"/>
+        <updated>2023-02-18T08:45:22.000Z</updated>
+        <summary type="html"><![CDATA[针对近期华尔街日报对比特币代码管理者的报道，CoinShare 发文反驳这一观点：Bitcoin Core 是一项协作工作，涉及来自世界各地的不同开发人员和贡献者群体，而不仅仅是一小群项目维护者。虽然有一组项目“维护者”具有提交权限，但认为只有他们才能更改代码是一种误解。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -187,7 +227,8 @@ Here're 6 takeaways from the 117 mins podcast]]></summary>
         <summary type="html"><![CDATA[Re TheBlock 研究员 Steve 指出，这代表 OpenSea 感到压力，这些变化基本上复制了 Blur 的所有费用结构。预计一些艺术与 PFP 项目可能因收入不足而死亡，项目转向游戏和 metaverses。
 
 Steven: OpenSea feeling pressure. 
-The changes basically copy all of Blur's fee structure.]]></summary>
+The changes basically copy all of Blur's fee structure.
+ https://twitter.com/opensea/status/1626682043655507969]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -219,7 +260,8 @@ The changes basically copy all of Blur's fee structure.]]></summary>
         <updated>2023-02-18T01:15:51.000Z</updated>
         <summary type="html"><![CDATA[Re 
 
-Star: OKX is working on getting more than 15 licenses globally. In different jurisdictions there are different restrictions on the product features.]]></summary>
+Star: OKX is working on getting more than 15 licenses globally. In different jurisdictions there are different restrictions on the product features.
+ https://twitter.com/zigadeebong/status/1626495182991671296]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -255,16 +297,6 @@ Star: OKX is working on getting more than 15 licenses globally. In different j
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 区块链安全公司 BlockSec 利用攻击者合约中的漏洞，通过升级代理实施将 240 万资金回调到 Platypus 的地址。BlockSec 的联合创始人 Yajin Zhou 表示，由于攻...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626748369023516672</id>
-        <link href="https://twitter.com/wublockchain12/status/1626748369023516672"/>
-        <updated>2023-02-18T01:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 区块链安全公司 BlockSec 利用攻击者合约中的漏洞，通过升级代理实施将 240 万资金回调到 Platypus 的地址。BlockSec 的联合创始人 Yajin Zhou 表示，由于攻击者合约缺乏转移功能，约 800 万美元的资产被搁浅。同时，为了取回加密货币，BlockSec 在攻击者的合约中使用了回调函数。（The Block）]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arbitrum not even close to the fat part of its S Curve]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1626748085920763904</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1626748085920763904"/>
@@ -272,31 +304,6 @@ Star: OKX is working on getting more than 15 licenses globally. In different j
         <summary type="html"><![CDATA[Arbitrum not even close to the fat part of its S Curve]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626745177955000321</id>
-        <link href="https://twitter.com/wublockchain12/status/1626745177955000321"/>
-        <updated>2023-02-18T00:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-
-OpenSea: We’re making some big changes today:
-1) OpenSea fee → 0% for a limited time
-2) Moving to optional creator earnings (0.5% min) for all collections without on-chain enforcement (old & new)
-3) Marketplaces with the same policies will not be blocked by the operator filter]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OpenSea 发推表示，由于 NFT 生态系统发生了巨大转变，其会在一段时间内将费用降至 0%，同时转向 0.5% 的创作者收入模式，卖家可以选择支付更多费用。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626745105955663877</id>
-        <link href="https://twitter.com/wublockchain12/status/1626745105955663877"/>
-        <updated>2023-02-18T00:47:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OpenSea 发推表示，由于 NFT 生态系统发生了巨大转变，其会在一段时间内将费用降至 0%，同时转向 0.5% 的创作者收入模式，卖家可以选择支付更多费用。此前，Blur 建议创作者禁用 OpenSea，同时将对任何不使用 OpenSea 的 NFT 项目强制执行全额版税。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -448,18 +455,6 @@ How to become a gem huntooorrr
 A 🧵]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re CZ 表示，我们暂时撤回了一些潜在的投资，或对美国破产公司的出价，寻求先征求许可。此前 Binance US 宣布收购了 Voyager，不确定是否会受到影响。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1626621794739433472</id>
-        <link href="https://twitter.com/wublockchain12/status/1626621794739433472"/>
-        <updated>2023-02-17T16:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Re CZ 表示，我们暂时撤回了一些潜在的投资，或对美国破产公司的出价，寻求先征求许可。此前 Binance US 宣布收购了 Voyager，不确定是否会受到影响。
-
-CZ 🔶 Binance: We pulled back on some potential investments, or bids on bankrupt companies in the US for now. Seek permission first.]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1117,7 +1112,8 @@ You’re being lied to about the governance of UNI
 
 
 
-CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
+CZ 🔶 Binance: Uniswap controlled by a16z?
+ https://twitter.com/ChrisBlec/status/1622201701921964035]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1283,7 +1279,8 @@ Read below for more details 🔽]]></summary>
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang
+ https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
