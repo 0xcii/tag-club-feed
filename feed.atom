@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T01:14:59.458Z</id>
+    <id>urn:2023-02-21T02:48:40.629Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T01:14:59.458Z</updated>
+    <updated>2023-02-21T02:48:40.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,16 +76,6 @@
         <summary type="html"><![CDATA[据 TheBlock 报道，四名前 Coinbase 员工推出了一个名为 PaprMeme 的 NFT 借贷平台，Coinbase Ventures 投资了 300 万美元。该平台采用一种围绕其原生 Token 构建的新颖机制，而非直接的点对点借贷。 https://www.theblock.co/post/212605/former-coinbase-engineers-launch-nft-lending-platform-with-coinbase-funding]]></summary>
         <author>
             <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has anyone created a wash trading filter for all these perp DEXs. Would love to know which ones are actually getting used]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1627820102396542978</id>
-        <link href="https://twitter.com/OnChainWizard/status/1627820102396542978"/>
-        <updated>2023-02-20T23:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Has anyone created a wash trading filter for all these perp DEXs.    Would love to know which ones are actually getting used]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -473,16 +463,6 @@ CharlieX | DeFi: 1/31 When it comes to L1s, scalability and speed are key fact
 Learn how @FantomFDN is tackling these issues with its unique consensus model and DAG-based architecture.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @blocmatesdotcom @FactorDAO I tend to agree]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1627548644667797504</id>
-        <link href="https://twitter.com/OnChainWizard/status/1627548644667797504"/>
-        <updated>2023-02-20T06:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @blocmatesdotcom @FactorDAO I tend to agree]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1197,8 +1177,7 @@ You’re being lied to about the governance of UNI
 
 
 
-CZ 🔶 Binance: Uniswap controlled by a16z?
- https://twitter.com/ChrisBlec/status/1622201701921964035]]></summary>
+CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1298,6 +1277,20 @@ Btcharlatan 🎩: The holy $grail]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT sudoswap: It's time >s< $SUDO governance will be launched later today, along with the lockdrop and airdrop. SUDO is initially non-transferable. Tra...]]></title>
+        <id>https://twitter.com/sudoswap/status/1620111345676075009</id>
+        <link href="https://twitter.com/sudoswap/status/1620111345676075009"/>
+        <updated>2023-01-30T17:26:59.000Z</updated>
+        <summary type="html"><![CDATA[RT sudoswap
+It's time >s<
+$SUDO governance will be launched later today, along with the lockdrop and airdrop.
+SUDO is initially non-transferable. Transferability can be enabled by a standard governance vote.
+Read below for more details 🔽]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT relied🫐🎲: 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes the...]]></title>
         <id>https://twitter.com/0xrelied/status/1619311018429288448</id>
         <link href="https://twitter.com/0xrelied/status/1619311018429288448"/>
@@ -1305,8 +1298,7 @@ Btcharlatan 🎩: The holy $grail]]></summary>
         <summary type="html"><![CDATA[RT relied🫐🎲
 1/9 A lot of people have seen the open trades from @Rewkang on @GMX_IO and are asking: "What will happen to $GLP when he closes these trades". Let´s check.
 
-Andrew Kang: #OperationLiquidateAndrewKang
- https://twitter.com/bryptobricks/status/1615062937395433472]]></summary>
+Andrew Kang: #OperationLiquidateAndrewKang]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
         </author>
@@ -1336,6 +1328,20 @@ Here is a List of Underrated Content Writers that are worth following today.
 🧵]]></summary>
         <author>
             <name>DΞFi Ξducator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dopex (💎, 💎): After months of hard work, it's finally done. 👀 We are excited to present rDPX V2! In this article, you will learn how the r...]]></title>
+        <id>https://twitter.com/dopex_io/status/1618975689138647041</id>
+        <link href="https://twitter.com/dopex_io/status/1618975689138647041"/>
+        <updated>2023-01-27T14:14:18.000Z</updated>
+        <summary type="html"><![CDATA[RT dopex (💎, 💎)
+After months of hard work, it's finally done. 👀
+We are excited to present rDPX V2! 
+In this article, you will learn how the rDPX V2 mechanism will work to support minting of Dopex Synthetic Coins. 
+Read the full article here: https://docs.google.com/document/d/1005YPC8-tUJhuhzTZK__3KZss0o_-ix4/edit#]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
