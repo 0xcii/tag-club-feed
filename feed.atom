@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T11:12:01.791Z</id>
+    <id>urn:2023-02-22T12:28:24.988Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T11:12:01.791Z</updated>
+    <updated>2023-02-22T12:28:24.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊 Shapella 测试网络升级将在 Sepolia 测试网于 epoch 56832 激活，计划在北京时间 2 月 28 日 12:04:48 PM 进行。"Shapella" 名字由来是上海 (D...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1628339120769753089</id>
+        <link href="https://twitter.com/wublockchain12/status/1628339120769753089"/>
+        <updated>2023-02-22T10:21:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊 Shapella 测试网络升级将在 Sepolia 测试网于 epoch 56832 激活，计划在北京时间 2 月 28 日 12:04:48 PM 进行。"Shapella" 名字由来是上海 (Devcon 2 的举办地) 和 Capella (Auriga 北方星座中最亮的星) 的结合。 https://mp.weixin.qq.com/s/R_MS3VwJKUNPoWUxsNgwCA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 早先阿里云香港机房出现故障，导致 OKX GATE 等大量相关服务出现停滞。]]></title>
         <id>https://twitter.com/wublockchain12/status/1628324673414123520</id>
@@ -203,16 +213,6 @@ Here are 3 key insights I found 👇]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1628287052122038272"/>
         <updated>2023-02-22T06:54:19.000Z</updated>
         <summary type="html"><![CDATA[Re 吴说获悉，Klaytn 基金会发起 KGP-6 提案，内容包括：在总共 72.81 亿个未指定储备的 KLAY 中立即销毁 52.81 亿枚 (73%)；将剩余的 20 亿枚 KLAY 指定为“Klay 价值创造储备”，如果 Klaytn 的的治理委员会合作未发现任何用例，将在 3 年内销毁并停止供应这 20 亿个 KLAY；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布于 22 日 18：30 上线Synapse（SYN），并开放现货交易对。Synapse 是一个去中心化跨链基础设施，提供跨链桥梁、沟通协议及稳定币交易等产品。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1628282891984850944</id>
-        <link href="https://twitter.com/wublockchain12/status/1628282891984850944"/>
-        <updated>2023-02-22T06:37:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布于 22 日 18：30 上线Synapse（SYN），并开放现货交易对。Synapse 是一个去中心化跨链基础设施，提供跨链桥梁、沟通协议及稳定币交易等产品。SYN是项目的原生应用代币，用以支付桥梁交易费用、参与流动性挖掘和治理。 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=11781]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
