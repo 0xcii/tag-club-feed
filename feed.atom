@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T13:22:48.701Z</id>
+    <id>urn:2023-02-24T14:13:12.922Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T13:22:48.701Z</updated>
+    <updated>2023-02-24T14:13:12.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,26 @@ That’s it, that’s the tweet.
 Details: http://blog.kineko.io/burn https://t.co/bUknEAGx0r]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.panewslab.com/zh/sqarticledetails/3drkok2r.html]]></title>
+        <id>https://twitter.com/wublockchain12/status/1629098115486846977</id>
+        <link href="https://twitter.com/wublockchain12/status/1629098115486846977"/>
+        <updated>2023-02-24T12:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.panewslab.com/zh/sqarticledetails/3drkok2r.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨日凌晨，Polygon 出现一次“异常大”的区块重组，规模为157个区块，导致一些节点失去同步，且 PolygonScan 数据中断近两个小时。不过官方称区块生产从未停止。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1629098080439271424</id>
+        <link href="https://twitter.com/wublockchain12/status/1629098080439271424"/>
+        <updated>2023-02-24T12:37:04.000Z</updated>
+        <summary type="html"><![CDATA[昨日凌晨，Polygon 出现一次“异常大”的区块重组，规模为157个区块，导致一些节点失去同步，且 PolygonScan 数据中断近两个小时。不过官方称区块生产从未停止。Polygon 联合创始人 Mihailo Bjelic 回应称，这次是由于一个正在修复的错误。我们正在探索用新的客户端替换 Bor/Heimdall。（PANEWS）]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -264,30 +284,6 @@ https://platon-network.medium.com/cyberport-will-co-organise-the-hong-kong-web3-
         <link href="https://twitter.com/wublockchain12/status/1628983154831949824"/>
         <updated>2023-02-24T05:00:23.000Z</updated>
         <summary type="html"><![CDATA[以全链双雄 Dark Forest 与 Loot 为研究切入口，展望未来全链上游戏的可能性：系列文章分别详细地介绍了 Dark Forest 与 Loot 的背景玩法生态发展等，并将两者从叙事框架、游戏逻辑以及经济机制进行多维度对比，并总结了当前全链上游戏当前面临的挑战以及未来的可能性。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Huma 的第一个产品是建立在以太坊和 Polygon 上的链上保理市场，它使个人或企业能抵押其未来收入而不是现有代币资产进行借款。https://twitter.com/humafinan...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1628977910316158976</id>
-        <link href="https://twitter.com/wublockchain12/status/1628977910316158976"/>
-        <updated>2023-02-24T04:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Re Huma 的第一个产品是建立在以太坊和 Polygon 上的链上保理市场，它使个人或企业能抵押其未来收入而不是现有代币资产进行借款。https://twitter.com/humafinance/status/1628810358885326848?s=20
-
-Huma Finance | ✈️ ETHDenver: We're proud to announce $8.3M seed funding raised to launch the first Income-Backed DeFi Protocol.
-Investors include @RaceCapital @DistributedG @paraficapital @circle_ventures @FoliusVentures and others. 
-Launch partners include @Circle @RequestNetwork and @Superfluid_HQ https://t.co/66cuXYcz5N]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi 项目 Huma Finance 宣布完成 830 万美元种子轮融资，用于建立收入支持的贷款协议，Race Capital 和 Distributed Global 共同领投，ParaFi、Circle Ventures...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1628977880423366656</id>
-        <link href="https://twitter.com/wublockchain12/status/1628977880423366656"/>
-        <updated>2023-02-24T04:39:26.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 项目 Huma Finance 宣布完成 830 万美元种子轮融资，用于建立收入支持的贷款协议，Race Capital 和 Distributed Global 共同领投，ParaFi、Circle Ventures 和 Folius Ventures 等参投，启动合作伙伴包括 Circle、Request Network 和 Superfluid 。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -1330,12 +1326,12 @@ CZ 🔶 Binance: Uniswap controlled by a16z?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Btcharlatan 🎩: Ty based @OnChainWizard, subscribe to his newsletter https://twitter.com/btcharlatan/status/1618696716299177985 https://t.co/cmZm...]]></title>
+        <title type="html"><![CDATA[RT Btcharlatan 🎩: Ty based @OnChainWizard, subscribe to his newsletter https://t.co/cmZmupLbDa]]></title>
         <id>https://twitter.com/btcharlatan/status/1621975151850954755</id>
         <link href="https://twitter.com/btcharlatan/status/1621975151850954755"/>
         <updated>2023-02-04T20:53:05.000Z</updated>
         <summary type="html"><![CDATA[RT Btcharlatan 🎩
-Ty based @OnChainWizard, subscribe to his newsletter https://twitter.com/btcharlatan/status/1618696716299177985 https://t.co/cmZmupLbDa
+Ty based @OnChainWizard, subscribe to his newsletter https://t.co/cmZmupLbDa
 
 
 Btcharlatan 🎩: The holy $grail https://t.co/wjNg07M30T]]></summary>
