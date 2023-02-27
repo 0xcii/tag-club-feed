@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1630133440929746949",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/zigzagkedar/status/1630093636733124608?s=20\n\nKedar: We've identified 12k sybils. \nhttps://zigzag-data-2.s3.amazonaws.com/sybils.csv\nThe focus for sybils was on industrial farming with 10+ accounts with the exact same L1 + zksync activity.\nWe didn't try to target people with 3-4 regular addresses.",
+          "link": "https://twitter.com/wublockchain12/status/1630133440929746949",
+          "publishedOn": "2023-02-27T09:11:13.000Z",
+          "wordCount": 498,
+          "title": "Re https://twitter.com/zigzagkedar/status/1630093636733124608?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1630133339494686720",
+          "author": "吴说区块链",
+          "description": "吴说获悉，ZigZag 创始人 Kedar 发推表示，已经确定 1.2 万个女巫地址，标准是拥有 10个以上具有完全相同的 L1 + zksync 活动的帐户，并未试图针对有 3-4 个固定地址的用户。所有的 ZZ 代币都将以“忠诚用户空投”回馈给老用户，并尽快发布相关公告。",
+          "link": "https://twitter.com/wublockchain12/status/1630133339494686720",
+          "publishedOn": "2023-02-27T09:10:49.000Z",
+          "wordCount": 498,
+          "title": "吴说获悉，ZigZag 创始人 Kedar 发推表示，已经确定 1.2 万个女巫地址，标准是拥有 10个以上具有完全相同的 L1 + zksync 活动的帐户，并未试图针对有 3-4 个固定...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1630114958234238976",
           "author": "吴说区块链",
           "description": "Re 吴说获悉，Scroll 联合创始人 @yezhang1998 发推对 Polygon 在官方公告中宣称的“以太坊等效”表示质疑，称该描述“显然是一个误导性信息，会损害 Polygon 迄今为止建立的信任”。\nhttps://twitter.com/yezhang1998/status/1629856254796632064?s=20\n\nYe Zhang 📜: @sandeepnailwal Hi, I seriously think you guys are making amazing progress on zkEVM, really congrats on that. But can you be more careful about the claims you made, it’s clearly a misleading information to say “Ethereum-equivalence”…It will damage the trust you have built so far.",
@@ -174,26 +194,6 @@
           "wordCount": 498,
           "title": "吴说获悉，据纽约杂志采访，美国 SEC 主席 Gary Gensler 表示除了比特币以外的几乎所有类型的加密交易都在 SEC 的管辖范围；“这些代币是证券，因为中间有一个群...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1630001465128550400",
-          "author": "吴说区块链",
-          "description": "Ava Labs 首席执行官 Emin Gün Sirer 表示，SBF 对行业造成的损害是无法估量的，导致的监管层的变化趋势对于那些参与加密货币的人来说可能是“非常糟糕的”；必须向立法者表明，FTX 的命运是一个中心化实体的失败，而不是“任何形式或形式”的加密货币本身的失败。（Decrypt）https://decrypt.co/122208/sam-bankman-fried-damage-crypto-ava-labs-ceo",
-          "link": "https://twitter.com/wublockchain12/status/1630001465128550400",
-          "publishedOn": "2023-02-27T00:26:47.000Z",
-          "wordCount": 498,
-          "title": "Ava Labs 首席执行官 Emin Gün Sirer 表示，SBF 对行业造成的损害是无法估量的，导致的监管层的变化趋势对于那些参与加密货币的人来说可能是“非常糟糕的”；必...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1630000856568573953",
-          "author": "吴说区块链",
-          "description": "Re 此前华为也因为盲目发布一些涉及有 Token 的合作项目的广告，导致疑似内幕交易与暴涨暴跌。https://mp.weixin.qq.com/s/0qcXdqJGzMMLHgdzYz5z-w",
-          "link": "https://twitter.com/wublockchain12/status/1630000856568573953",
-          "publishedOn": "2023-02-27T00:24:22.000Z",
-          "wordCount": 498,
-          "title": "Re 此前华为也因为盲目发布一些涉及有 Token 的合作项目的广告，导致疑似内幕交易与暴涨暴跌。https://mp.weixin.qq.com/s/0qcXdqJGzMMLHgdzYz5z-w",
-          "imageUrl": null
         }
       ]
     },
@@ -215,11 +215,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1629409581435863042",
           "author": "8848 社区（8848 Community）",
-          "description": "可能V神也没想到会有这一天\n孙的以太币比v神还多\n这个b世界啊 https://twitter.com/lookonchain/status/1629384259034296328\n\nLookonchain: Justin Sun staked 150,100 $ETH($240M) on @LidoFinance just now.\nhttps://debank.com/profile/0x176f3dab24a159341c0509bb36b833e7fdd0a132 https://t.co/QieWaJkmHY",
+          "description": "可能V神也没想到会有这一天\n孙的以太币比v神还多\n这个b世界啊\n\nLookonchain: Justin Sun staked 150,100 $ETH($240M) on @LidoFinance just now.\nhttps://debank.com/profile/0x176f3dab24a159341c0509bb36b833e7fdd0a132 https://t.co/QieWaJkmHY",
           "link": "https://twitter.com/8848Community/status/1629409581435863042",
           "publishedOn": "2023-02-25T09:14:51.000Z",
           "wordCount": 498,
-          "title": "可能V神也没想到会有这一天 孙的以太币比v神还多 这个b世界啊 https://twitter.com/lookonchain/status/1629384259034296328",
+          "title": "可能V神也没想到会有这一天 孙的以太币比v神还多 这个b世界啊",
           "imageUrl": null
         },
         {
@@ -235,11 +235,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1629341036626452481",
           "author": "8848 社区（8848 Community）",
-          "description": "Parallel 要发币了。。。 https://twitter.com/EchelonFND/status/1629194547388465152\n\nEchelon: The $PRIME token unlock is scheduled for March 1.\nMore info ⬇️\nhttps://medium.com/@EchelonFND/a-new-era-82fdc546ad0",
+          "description": "Parallel 要发币了。。。\n\nEchelon: The $PRIME token unlock is scheduled for March 1.\nMore info ⬇️\nhttps://medium.com/@EchelonFND/a-new-era-82fdc546ad0",
           "link": "https://twitter.com/8848Community/status/1629341036626452481",
           "publishedOn": "2023-02-25T04:42:29.000Z",
           "wordCount": 498,
-          "title": "Parallel 要发币了。。。 https://twitter.com/EchelonFND/status/1629194547388465152",
+          "title": "Parallel 要发币了。。。",
           "imageUrl": null
         },
         {
@@ -335,11 +335,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1627541001618493440",
           "author": "8848 社区（8848 Community）",
-          "description": "每个推油坚持的东西都不一样🧐 https://twitter.com/Watchtower_CN/status/1627321807371124737\n\n瞭望塔Watchtower: 项目速递\n1.@APWineFinance Web3 的终极利率衍生品协议登陆Arbitrum\n2.@caviarAMM 基于AMM机制的nft市场平台Caviar正式面向所有公众开放\n3.@Hyperlane_xyz 无需许可的跨链桥，使任何人都可以在区块链之间转移资产\n4.@arbitrumgallery Arbitrum上的NFT 市场，测试网申请表已上线",
+          "description": "每个推油坚持的东西都不一样🧐\n\n瞭望塔Watchtower: 项目速递\n1.@APWineFinance Web3 的终极利率衍生品协议登陆Arbitrum\n2.@caviarAMM 基于AMM机制的nft市场平台Caviar正式面向所有公众开放\n3.@Hyperlane_xyz 无需许可的跨链桥，使任何人都可以在区块链之间转移资产\n4.@arbitrumgallery Arbitrum上的NFT 市场，测试网申请表已上线",
           "link": "https://twitter.com/8848Community/status/1627541001618493440",
           "publishedOn": "2023-02-20T05:29:47.000Z",
           "wordCount": 498,
-          "title": "每个推油坚持的东西都不一样🧐 https://twitter.com/Watchtower_CN/status/1627321807371124737",
+          "title": "每个推油坚持的东西都不一样🧐",
           "imageUrl": null
         },
         {
@@ -395,11 +395,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1626511571873861632",
           "author": "8848 社区（8848 Community）",
-          "description": "想想都后怕，昨晚还想着去交互下这个，刷刷 $DXBL 那个代币，还好只approve了小号 https://twitter.com/peckshield/status/1626493024879673344\n\nPeckShield Inc.: Hi @DexibleApp, you may need to ask users to revoke allowance! (The loss is already >$1.5M). Here is one hack tx: https://etherscan.io/tx/0x138daa4cbeaa3db42eefcec26e234fc2c89a4aa17d6b1870fc460b2856fd11a6 https://t.co/HRQ8MBTSGm",
+          "description": "想想都后怕，昨晚还想着去交互下这个，刷刷 $DXBL 那个代币，还好只approve了小号\n\nPeckShield Inc.: Hi @DexibleApp, you may need to ask users to revoke allowance! (The loss is already >$1.5M). Here is one hack tx: https://etherscan.io/tx/0x138daa4cbeaa3db42eefcec26e234fc2c89a4aa17d6b1870fc460b2856fd11a6 https://t.co/HRQ8MBTSGm",
           "link": "https://twitter.com/8848Community/status/1626511571873861632",
           "publishedOn": "2023-02-17T09:19:12.000Z",
           "wordCount": 498,
-          "title": "想想都后怕，昨晚还想着去交互下这个，刷刷 $DXBL 那个代币，还好只approve了小号 https://twitter.com/peckshield/status/1626493024879673344",
+          "title": "想想都后怕，昨晚还想着去交互下这个，刷刷 $DXBL 那个代币，还好只approve了小号",
           "imageUrl": null
         }
       ]
@@ -410,13 +410,23 @@
       "siteUrl": "https://twitter.com/AntCaveClub",
       "articles": [
         {
+          "id": "https://twitter.com/AntCaveClub/status/1630145251569717248",
+          "author": "链求君 | (C,C)",
+          "description": "只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。\n\n獨眼莫蒂 | Whospay Intern: Andre Cronje, the man behind @FantomFDN just dropped these on Youtube \n- Why he joined crypto\n- Story of Fantom & Yearn\n- State of Defi, community advice & crypto regulation\nI went thru 69 mins of podcast so u dont have to\nHere're 8 insights from Andre u dont want to miss",
+          "link": "https://twitter.com/AntCaveClub/status/1630145251569717248",
+          "publishedOn": "2023-02-27T09:58:09.000Z",
+          "wordCount": 498,
+          "title": "只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/AntCaveClub/status/1630056768125693953",
           "author": "链求君 | (C,C)",
-          "description": "AI 叙事就差一条新闻就继续泵。  谷歌不会等死，Meta，Apple也不可能一直看戏。  就是谁来参战了。 \n先上车，后补票。 \n#AI https://twitter.com/Awawat_Trades/status/1630050645570113537\n\nAwawat: $AGIX has held support for the whole month and AI narrative far from dead. Expecting something like this into March. #TechnicalAnalysis #KnowledgeisPower https://t.co/5mshZZZu0H",
+          "description": "AI 叙事就差一条新闻就继续泵。  谷歌不会等死，Meta，Apple也不可能一直看戏。  就是谁来参战了。 \n先上车，后补票。 \n#AI\n\nAwawat: $AGIX has held support for the whole month and AI narrative far from dead. Expecting something like this into March. #TechnicalAnalysis #KnowledgeisPower https://t.co/5mshZZZu0H",
           "link": "https://twitter.com/AntCaveClub/status/1630056768125693953",
           "publishedOn": "2023-02-27T04:06:33.000Z",
           "wordCount": 498,
-          "title": "AI 叙事就差一条新闻就继续泵。 谷歌不会等死，Meta，Apple也不可能一直看戏。 就是谁来参战了。 先上车，后补票。 #AI https://twitter.com/Awawat_Trades/stat...",
+          "title": "AI 叙事就差一条新闻就继续泵。 谷歌不会等死，Meta，Apple也不可能一直看戏。 就是谁来参战了。 先上车，后补票。 #AI",
           "imageUrl": null
         },
         {
@@ -462,11 +472,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1629504051980406784",
           "author": "链求君 | (C,C)",
-          "description": "Re @AndreCronjeTech  AC 退圈重返之后, 从来不拉盘.  因为他知道他一发消息, 币价就会涨, 就会有人来催更.  出了Bug就嘲讽.  心脏受不了. \n#FTM #Fantom 今年肯定爆 https://twitter.com/HelderJVasquez/status/1629502432119078912\n\nHelderJVasquez.ftm: Fantom Virtual Machine(FVM) is the gateway to heaven, my frens. \nFew Andrestand\n$FTM https://t.co/Z4ZmYmFOac",
+          "description": "Re @AndreCronjeTech  AC 退圈重返之后, 从来不拉盘.  因为他知道他一发消息, 币价就会涨, 就会有人来催更.  出了Bug就嘲讽.  心脏受不了. \n#FTM #Fantom 今年肯定爆\n\nHelderJVasquez.ftm: Fantom Virtual Machine(FVM) is the gateway to heaven, my frens. \nFew Andrestand\n$FTM https://t.co/Z4ZmYmFOac",
           "link": "https://twitter.com/AntCaveClub/status/1629504051980406784",
           "publishedOn": "2023-02-25T15:30:15.000Z",
           "wordCount": 498,
-          "title": "Re @AndreCronjeTech AC 退圈重返之后, 从来不拉盘. 因为他知道他一发消息, 币价就会涨, 就会有人来催更. 出了Bug就嘲讽. 心脏受不了. #FTM #Fantom 今年肯定爆 ...",
+          "title": "Re @AndreCronjeTech AC 退圈重返之后, 从来不拉盘. 因为他知道他一发消息, 币价就会涨, 就会有人来催更. 出了Bug就嘲讽. 心脏受不了. #FTM #Fantom 今年肯定爆",
           "imageUrl": null
         },
         {
@@ -502,11 +512,11 @@
         {
           "id": "https://twitter.com/NestedFi/status/1628535210122829824",
           "author": "链求君 | (C,C)",
-          "description": "RT Nested 🧩\n🔵🧩 https://twitter.com/coinbase/status/1628444495821012997\n\nCoinbase: 🔵 2.23.23 https://t.co/DRvvBS5y9v",
+          "description": "RT Nested 🧩\n🔵🧩\n\nCoinbase: 🔵 2.23.23 https://t.co/DRvvBS5y9v",
           "link": "https://twitter.com/NestedFi/status/1628535210122829824",
           "publishedOn": "2023-02-22T23:20:25.000Z",
           "wordCount": 498,
-          "title": "RT Nested 🧩: 🔵🧩 https://twitter.com/coinbase/status/1628444495821012997",
+          "title": "RT Nested 🧩: 🔵🧩",
           "imageUrl": null
         },
         {
@@ -532,11 +542,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1628377665270079491",
           "author": "链求君 | (C,C)",
-          "description": "我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑 https://twitter.com/NestedFi/status/1628108586957013011\n\nNested 🧩: Nested portfolios are very flexible and can serve many different types of traders and investors. \n4 ways you can use Nested to 10x your portfolio (yes, we want you to click 😅) 🧵 https://t.co/gMDiljJHUh",
+          "description": "我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑\n\nNested 🧩: Nested portfolios are very flexible and can serve many different types of traders and investors. \n4 ways you can use Nested to 10x your portfolio (yes, we want you to click 😅) 🧵 https://t.co/gMDiljJHUh",
           "link": "https://twitter.com/AntCaveClub/status/1628377665270079491",
           "publishedOn": "2023-02-22T12:54:23.000Z",
           "wordCount": 498,
-          "title": "我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑 https://twitter.com/NestedFi/status/...",
+          "title": "我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑",
           "imageUrl": null
         },
         {
@@ -562,31 +572,31 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1627871606487003138",
           "author": "链求君 | (C,C)",
-          "description": "炒河粉 https://twitter.com/mrblocktw/status/1627708941122805761\n\n區塊先生 ⚠️ (rock #58): 上週炒 $BLUR\n上上週炒 $GMX PERP幣\n上上上週炒 AI幣\n上上上上週炒 元宇宙\n這週是炒大媽們買的幣嗎？ $FIL $DOT\n兩個禮拜以後炒什麼趕緊留言告訴我🙏🏼\n現在流行pivot Chinese 🚀 https://t.co/KTBJMHY9xh",
+          "description": "炒河粉\n\n區塊先生 ⚠️ (rock #58): 上週炒 $BLUR\n上上週炒 $GMX PERP幣\n上上上週炒 AI幣\n上上上上週炒 元宇宙\n這週是炒大媽們買的幣嗎？ $FIL $DOT\n兩個禮拜以後炒什麼趕緊留言告訴我🙏🏼\n現在流行pivot Chinese 🚀 https://t.co/KTBJMHY9xh",
           "link": "https://twitter.com/AntCaveClub/status/1627871606487003138",
           "publishedOn": "2023-02-21T03:23:30.000Z",
           "wordCount": 498,
-          "title": "炒河粉 https://twitter.com/mrblocktw/status/1627708941122805761",
+          "title": "炒河粉",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1627611565041262594",
           "author": "链求君 | (C,C)",
-          "description": "😯😯 https://twitter.com/0xShadow_web3/status/1627611112471695362\n\n0xShadow | (C,C): 见证中国力量，关注华人项目，华语社区崛起🇨🇳\n#香港 #web3 #China https://t.co/o3HJv8HbaP",
+          "description": "😯😯\n\n0xShadow | (C,C): 见证中国力量，关注华人项目，华语社区崛起🇨🇳\n#香港 #web3 #China https://t.co/o3HJv8HbaP",
           "link": "https://twitter.com/AntCaveClub/status/1627611565041262594",
           "publishedOn": "2023-02-20T10:10:11.000Z",
           "wordCount": 498,
-          "title": "😯😯 https://twitter.com/0xShadow_web3/status/1627611112471695362",
+          "title": "😯😯",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1627565482990784514",
           "author": "链求君 | (C,C)",
-          "description": "😁😁 https://twitter.com/CharlieXDeFi/status/1627392444122931200\n\nCharlieX | DeFi: 1/31 When it comes to L1s, scalability and speed are key factors for adoption.\nLearn how @FantomFDN is tackling these issues with its unique consensus model and DAG-based architecture. https://t.co/ZZCmqN9OKL",
+          "description": "😁😁\n\nCharlieX | DeFi: 1/31 When it comes to L1s, scalability and speed are key factors for adoption.\nLearn how @FantomFDN is tackling these issues with its unique consensus model and DAG-based architecture. https://t.co/ZZCmqN9OKL",
           "link": "https://twitter.com/AntCaveClub/status/1627565482990784514",
           "publishedOn": "2023-02-20T07:07:04.000Z",
           "wordCount": 498,
-          "title": "😁😁 https://twitter.com/CharlieXDeFi/status/1627392444122931200",
+          "title": "😁😁",
           "imageUrl": null
         },
         {
@@ -597,16 +607,6 @@
           "publishedOn": "2023-02-19T17:55:17.000Z",
           "wordCount": 498,
           "title": "✨ 蚁穴推荐 ✨ 网站: MetaSleuth 描述: <p>BlockSec推出的AML追踪工具，用于分析和追踪链上的资金流向，并支持友好的可视化和交互方式，可以保存和分享分析结果...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1627304514360590336",
-          "author": "链求君 | (C,C)",
-          "description": "Re @ViktorDefi 你好 👋",
-          "link": "https://twitter.com/AntCaveClub/status/1627304514360590336",
-          "publishedOn": "2023-02-19T13:50:04.000Z",
-          "wordCount": 498,
-          "title": "Re @ViktorDefi 你好 👋",
           "imageUrl": null
         }
       ]
