@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T07:13:31.695Z</id>
+    <id>urn:2023-03-01T08:19:23.864Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T07:13:31.695Z</updated>
+    <updated>2023-03-01T08:19:23.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/GreeksLive/status/1630836971659759616]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630842366159654912</id>
+        <link href="https://twitter.com/wublockchain12/status/1630842366159654912"/>
+        <updated>2023-03-01T08:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/GreeksLive/status/1630836971659759616
+
+Greeks.live: BTC and ETH saw a significant rise in March term IV, but at the same time weekly term IV did not see a significant rise.
+With no major macro events this week and no crypto-related breaking news at the moment, investors need to be vigilant about the markets! https://t.co/U5nYM1FNoO]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 http://Greeks.live 数据，BTC 和 ETH 在 3 月份的期限 IV 中出现了明显的上涨，但同时每周的期限 IV 并没有出现明显的上涨。 比较罕见的是，本周...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630842364418994176</id>
+        <link href="https://twitter.com/wublockchain12/status/1630842364418994176"/>
+        <updated>2023-03-01T08:08:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 http://Greeks.live 数据，BTC 和 ETH 在 3 月份的期限 IV 中出现了明显的上涨，但同时每周的期限 IV 并没有出现明显的上涨。 比较罕见的是，本周没有重大宏观事件，目前也没有突发新闻。有观点指出，低流动性意味着价格操纵的可能性增加。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @21Shares 数据面板，2 月 28 日再度有 11,232 枚 WBTC 被销毁，是历史第三大单日销毁量。21Shares 分析师 @tomwanhh 表示，这是由 Celsius 资助的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630838111898058752</id>
+        <link href="https://twitter.com/wublockchain12/status/1630838111898058752"/>
+        <updated>2023-03-01T07:51:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @21Shares 数据面板，2 月 28 日再度有 11,232 枚 WBTC 被销毁，是历史第三大单日销毁量。21Shares 分析师 @tomwanhh 表示，这是由 Celsius 资助的钱包通过 FalconX 所完成销毁的。近两天 Celsius 共销毁了 22,732 枚 WBTC 赎回为 BTC，价值约 5.33 亿美元。
+https://dune.com/21shares_research/state-of-wbtc-momentumsupplymintburn… https://twitter.com/i/web/status/1630838111898058752
+
+吴说区块链: 吴说获悉，据 @21Shares 数据面板，2 月 27 日共有 11,500 WBTC（价值约 2.6 亿美元）被销毁，为历史上第二大单日销毁量，主要是被 Nansen 标记为 Celsius 地址通过 FalconX 所完成的，这意味其将 WBTC 赎回为 BTC。当前 WBTC 总供应量为 164,396 枚，月度增长率为 -7.39%，是自 2021 年 5… https://twitter.com/i/web/status/1630499060976345100]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球交易量最大的加密期权交易所 Deribit 预计将于 3 月底推出比特币波动率期货产品，期权订单簿计算的比特币 30 天隐含波动率（隐含波动率是指期权市场对特定时...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630836108362911744</id>
+        <link href="https://twitter.com/wublockchain12/status/1630836108362911744"/>
+        <updated>2023-03-01T07:43:22.000Z</updated>
+        <summary type="html"><![CDATA[全球交易量最大的加密期权交易所 Deribit 预计将于 3 月底推出比特币波动率期货产品，期权订单簿计算的比特币 30 天隐含波动率（隐含波动率是指期权市场对特定时期内价格震荡的预期）。Deribit 用户最初只能交易 1 个月到期的期货，未来交易范围将扩大到 5 个月。（CoinDesk）
+https://www.coindesk.com/markets/2023/03/01/crypto-options-exchange-deribit-announces-bitcoin-volatility-futures/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球数字资产做市商和多阶段 Web3 投资公司 DWF Labs 宣布向 Conflux 投资 1000 万美元。DWF Labs 表示，这项投资是在最近有消息称中国第二大无线运营商中国电信...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630827668953526273</id>
+        <link href="https://twitter.com/wublockchain12/status/1630827668953526273"/>
+        <updated>2023-03-01T07:09:50.000Z</updated>
+        <summary type="html"><![CDATA[全球数字资产做市商和多阶段 Web3 投资公司 DWF Labs 宣布向 Conflux 投资 1000 万美元。DWF Labs 表示，这项投资是在最近有消息称中国第二大无线运营商中国电信计划在 Conflux 区块链上构建“支持区块链的 SIM”(BSIM) 卡之后进行的。
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=14&id=11977]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 其中主要的贡献来自于同日发布的 Coinbase 纪念 Base 网络的 Base, Introduced NFT，当前铸造达 39.2 万个，直接为 Zora 带来了 304.6 ETH（约 50 万美元）收...]]></title>
         <id>https://twitter.com/wublockchain12/status/1630804052119556096</id>
@@ -116,7 +174,7 @@ https://www.ironfish.network/blog/2023/02/28/testnet-rewards?utm_content=buffer0
         <link href="https://twitter.com/wublockchain12/status/1630768476066553861"/>
         <updated>2023-03-01T03:14:37.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Solana 发布改进网络升级计划，将改进 Solana 升级过程、组建对抗团队（由近 1/3 的 Solana Labs 核心工程团队组成）、改进重启过程、继续以稳定为中心。此前 Solana 于 2 月 25 日再次发生主网宕机。
-https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0-----------------------
+https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0----------------------- https://twitter.com/wublockchain12/status/1630056787633393664
 
 吴说区块链: 吴说获悉，Solana 官方 2 月 25 日主网宕机报告显示，本次宕机的根本原因尚未清晰，正在积极调查中。据了解，2023-02-25 05:46:16 UTC 时间，Solana 主网性能出现问题，最终迫使验证者节点自动进入“仅投票”模式，即共识投票交易能正常进行，但是无法处理用户交易，并重启网络作为暂缓之计。]]></summary>
         <author>
@@ -150,7 +208,7 @@ https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8
         <updated>2023-03-01T02:55:04.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/punk3155/status/1630752201760194560
 
-3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry.]]></summary>
+3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry. https://twitter.com/peckshield/status/1630490333716029440]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -183,58 +241,6 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=11968]]></
         <updated>2023-03-01T02:43:21.000Z</updated>
         <summary type="html"><![CDATA[Re Celestia 在 2022 年以 10 亿美元估值筹集了 5500 万美元。
 https://docs.celestia.org/nodes/blockspace-race/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，模块化区块链网络 Celestia 推出激励测试网计划 Blockspace 竞赛，1000 名参与者被选中参加该活动，由验证者、桥接节点、全存储节点和轻节点组成，第...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630760607216726016</id>
-        <link href="https://twitter.com/wublockchain12/status/1630760607216726016"/>
-        <updated>2023-03-01T02:43:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，模块化区块链网络 Celestia 推出激励测试网计划 Blockspace 竞赛，1000 名参与者被选中参加该活动，由验证者、桥接节点、全存储节点和轻节点组成，第一阶段于 3 月 7 日开始。活动将为参与者分配 1500 万枚 TIA Token 作为奖励，活动期间获得的积分将在活动结束后转换为 TIA Token。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1630721204746338304?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630757514152394752</id>
-        <link href="https://twitter.com/wublockchain12/status/1630757514152394752"/>
-        <updated>2023-03-01T02:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1630721204746338304?s=20
-
-23pds: 官方频道发布，关闭服务。 https://t.co/Xin38KBkoX]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据慢雾安全研究员 @IM_23pds，Monkey Drainer 钓鱼组织宣布关闭服务，所有与 Monkey Drainer 有关的文件、服务器和设备将被立即销毁。此前慢雾揭秘该...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630757512218812416</id>
-        <link href="https://twitter.com/wublockchain12/status/1630757512218812416"/>
-        <updated>2023-03-01T02:31:03.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据慢雾安全研究员 @IM_23pds，Monkey Drainer 钓鱼组织宣布关闭服务，所有与 Monkey Drainer 有关的文件、服务器和设备将被立即销毁。此前慢雾揭秘该钓鱼团伙非法获利约 1297.2 万美元，主要的钓鱼方式是通过虚假大 V 推特账号、Discord 群等发布虚假 NFT 相关的带有恶意 Mint 的诱饵网站。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://dune.com/reservoir0x/bitcoin-punks]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630757248833294336</id>
-        <link href="https://twitter.com/wublockchain12/status/1630757248833294336"/>
-        <updated>2023-03-01T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Re https://dune.com/reservoir0x/bitcoin-punks]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @reservoir0x 数据面板，或受 Yuga Labs 将在 Bitcoin 上推出 Ordinal NFT 影响，2 月 28 日 Bitcoin Punks 单日交易量超过 1100 ETH，销量达 834 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630757246987800582</id>
-        <link href="https://twitter.com/wublockchain12/status/1630757246987800582"/>
-        <updated>2023-03-01T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @reservoir0x 数据面板，或受 Yuga Labs 将在 Bitcoin 上推出 Ordinal NFT 影响，2 月 28 日 Bitcoin Punks 单日交易量超过 1100 ETH，销量达 834 个，均创下单日新高，其地板价一度接近 2 ETH。当前 Bitcoin Punks 超过 80% 的交易量集中在 ordinals market，地板价为 1.3 ETH。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -405,12 +411,12 @@ Elon Musk: BasedAI]]></summary>
 Celsius sending remaining funds and unwrapping $260m BTC
 Voyager & FTX assets being sold, 3AC NFTs being auctioned
 Liquidators taking advantage of recent market conditions?
-We buy the tail end of liquidations near end of Q1 https://t.co/UfsHgvRqj9
+We buy the tail end of liquidations near end of Q1 https://twitter.com/Rewkang/status/1630253152648810496 https://t.co/UfsHgvRqj9
 
 
 
 Andrew Kang: Voyager continuing daily disposal of balance sheet
-Few more liquidations and then up only https://t.co/cNHx5qLaNg]]></summary>
+Few more liquidations and then up only https://twitter.com/Rewkang/status/1629718250312409088 https://t.co/cNHx5qLaNg]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -834,11 +840,11 @@ Why am I being shadowbanned? https://t.co/DYrGYi1Aeh]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update https://t.co/AZTxTlJq9i]]></title>
+        <title type="html"><![CDATA[Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></title>
         <id>https://twitter.com/DeFi_educator/status/1629563703837306882</id>
         <link href="https://twitter.com/DeFi_educator/status/1629563703837306882"/>
         <updated>2023-02-25T19:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Update https://t.co/AZTxTlJq9i
+        <summary type="html"><![CDATA[Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1160,12 +1166,12 @@ One of the most interesting things about @FactorDAO that I don't think people re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨]]></title>
+        <title type="html"><![CDATA[RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290]]></title>
         <id>https://twitter.com/0xCastor/status/1626631977678897152</id>
         <link href="https://twitter.com/0xCastor/status/1626631977678897152"/>
         <updated>2023-02-17T17:17:39.000Z</updated>
         <summary type="html"><![CDATA[RT Lord Castor (✨,💫)
-I guarantee you this never gets old 👏✨
+I guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290
 
 DeFi Educator: How to find a 10-100x shitcoin gems consistently? 
 Making big money in a short amount of time is why hunting micro cap gems can be life changing for small time investors...
