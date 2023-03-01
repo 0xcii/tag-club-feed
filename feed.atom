@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T06:19:39.605Z</id>
+    <id>urn:2023-03-01T07:13:31.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T06:19:39.605Z</updated>
+    <updated>2023-03-01T07:13:31.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 其中主要的贡献来自于同日发布的 Coinbase 纪念 Base 网络的 Base, Introduced NFT，当前铸造达 39.2 万个，直接为 Zora 带来了 304.6 ETH（约 50 万美元）收...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630804052119556096</id>
+        <link href="https://twitter.com/wublockchain12/status/1630804052119556096"/>
+        <updated>2023-03-01T05:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Re 其中主要的贡献来自于同日发布的 Coinbase 纪念 Base 网络的 Base, Introduced NFT，当前铸造达 39.2 万个，直接为 Zora 带来了 304.6 ETH（约 50 万美元）收入。Base, Introduced NFT 的铸造延期至 3 月 6 日。https://defillama.com/fees/zora]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，在 23 日向收藏家推出每 NFT 收取 0.000777ETH 铸造费用后，NFT 交易市场 Zora 在近一周捕获了约 59.2 万美元的费用收入。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630804050085294080</id>
+        <link href="https://twitter.com/wublockchain12/status/1630804050085294080"/>
+        <updated>2023-03-01T05:35:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，在 23 日向收藏家推出每 NFT 收取 0.000777ETH 铸造费用后，NFT 交易市场 Zora 在近一周捕获了约 59.2 万美元的费用收入。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI to Moon... 🧐🧐 @NestedFi Look at my portfolio on Nested 🚀 https://app.nested.fi/explorer/poly:52859/kw27]]></title>
         <id>https://twitter.com/AntCaveClub/status/1630799027985055745</id>
@@ -14,6 +34,17 @@
 Look at my portfolio on Nested 🚀 https://app.nested.fi/explorer/poly:52859/kw27]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 宣布上线 SSV Network（SSV）、Rocket Pool（RPL），SSV/USDT、SSV/USDC、RPL/USDT、RPL/USDC 现货交易于 3 月 1 日 18 时开放。SSV Network 是去...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1630781620075778049</id>
+        <link href="https://twitter.com/wublockchain12/status/1630781620075778049"/>
+        <updated>2023-03-01T04:06:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 宣布上线 SSV Network（SSV）、Rocket Pool（RPL），SSV/USDT、SSV/USDC、RPL/USDT、RPL/USDC 现货交易于 3 月 1 日 18 时开放。SSV Network 是去中心化质押协议，Rocket Pool 是一个以太坊 2.0 权益池。
+https://www.okx.com/support/hc/en-us/articles/13546138359437-OKX-will-list-SSV-Network-SSV-Rocket-Pool-RPL-for-spot-trading]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -85,7 +116,7 @@ https://www.ironfish.network/blog/2023/02/28/testnet-rewards?utm_content=buffer0
         <link href="https://twitter.com/wublockchain12/status/1630768476066553861"/>
         <updated>2023-03-01T03:14:37.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Solana 发布改进网络升级计划，将改进 Solana 升级过程、组建对抗团队（由近 1/3 的 Solana Labs 核心工程团队组成）、改进重启过程、继续以稳定为中心。此前 Solana 于 2 月 25 日再次发生主网宕机。
-https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0----------------------- https://twitter.com/wublockchain12/status/1630056787633393664
+https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0-----------------------
 
 吴说区块链: 吴说获悉，Solana 官方 2 月 25 日主网宕机报告显示，本次宕机的根本原因尚未清晰，正在积极调查中。据了解，2023-02-25 05:46:16 UTC 时间，Solana 主网性能出现问题，最终迫使验证者节点自动进入“仅投票”模式，即共识投票交易能正常进行，但是无法处理用户交易，并重启网络作为暂缓之计。]]></summary>
         <author>
@@ -119,7 +150,7 @@ https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8
         <updated>2023-03-01T02:55:04.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/punk3155/status/1630752201760194560
 
-3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry. https://twitter.com/peckshield/status/1630490333716029440]]></summary>
+3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -209,17 +240,6 @@ https://docs.celestia.org/nodes/blockspace-race/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Mastercard 发言人也向 CoinDesk 表示，该公司仍计划与加密合作伙伴合作，将相关的支付解决方案和程序推向市场。 https://www.coindesk.com/business/2023/02...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630751728143564800</id>
-        <link href="https://twitter.com/wublockchain12/status/1630751728143564800"/>
-        <updated>2023-03-01T02:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Re Mastercard 发言人也向 CoinDesk 表示，该公司仍计划与加密合作伙伴合作，将相关的支付解决方案和程序推向市场。
-https://www.coindesk.com/business/2023/02/28/visas-crypto-strategy-intact-despite-crypto-winter/?utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @jiggycapital Still bulled up software eh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1630743687872258048</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1630743687872258048"/>
@@ -227,16 +247,6 @@ https://www.coindesk.com/business/2023/02/28/visas-crypto-strategy-intact-despit
         <summary type="html"><![CDATA[Re @jiggycapital Still bulled up software eh]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《被“低估的”雄心！解读香港加密货币咨询文件 三大挑战尚存》：为除BTC、ETH以外的加密货币纳入零售投资者交易产品序列提供了市场化的制度保障，在用户所在地...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630740408262361089</id>
-        <link href="https://twitter.com/wublockchain12/status/1630740408262361089"/>
-        <updated>2023-03-01T01:23:05.000Z</updated>
-        <summary type="html"><![CDATA[《被“低估的”雄心！解读香港加密货币咨询文件 三大挑战尚存》：为除BTC、ETH以外的加密货币纳入零售投资者交易产品序列提供了市场化的制度保障，在用户所在地上并未设置过多限制，开放力度超过预期；但同时也面临银行账户、币币交易对、财务稳健性等方面的挑战。阅读全文：https://mp.weixin.qq.com/s/TA8ybIIwhTzDSUS8NBC5Aw]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -267,16 +277,6 @@ https://www.coindesk.com/business/2023/02/28/visas-crypto-strategy-intact-despit
         <summary type="html"><![CDATA[Re @forwardcap Lol that’s so bullish]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 目前一些星巴克发行的邮票 NFT 售价已高达 1900 美元，二级交易总额达 16.4 万美元。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1630735955937337345</id>
-        <link href="https://twitter.com/wublockchain12/status/1630735955937337345"/>
-        <updated>2023-03-01T01:05:24.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前一些星巴克发行的邮票 NFT 售价已高达 1900 美元，二级交易总额达 16.4 万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -345,11 +345,11 @@ And it will become a dominant smart contract platform.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还得是你。 https://twitter.com/elonmusk/status/1630624962225553430]]></title>
+        <title type="html"><![CDATA[还得是你。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1630723254737584128</id>
         <link href="https://twitter.com/AntCaveClub/status/1630723254737584128"/>
         <updated>2023-03-01T00:14:55.000Z</updated>
-        <summary type="html"><![CDATA[还得是你。 https://twitter.com/elonmusk/status/1630624962225553430
+        <summary type="html"><![CDATA[还得是你。
 
 Elon Musk: BasedAI]]></summary>
         <author>
@@ -530,7 +530,7 @@ https://www.technologyreview.com/2023/02/28/1069190/ethereum-moved-to-proof-of-s
         <summary type="html"><![CDATA[#撸项目方羊毛  
 人没有朋友想要当KOL的？  这边提供上粉业务 400块， 都能给你上 10w真人粉丝了。 不掉。
 接一单你就回本了。 
-#撸羊毛 #刷粉 #买流量 #真人粉丝 #当KOL https://twitter.com/BitRunX/status/1630246817513492480
+#撸羊毛 #刷粉 #买流量 #真人粉丝 #当KOL
 
 BitRun: Celt事件，再次证明了我之前说的一句话：推上大V有90%都是诈骗犯。
 就400块钱他们就可以出卖灵魂诈骗，一件羽绒服就可以抹黑攻击打假人。
@@ -662,11 +662,11 @@ Are you ready?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。 https://twitter.com/whospay_intern/status/1629875128543883266]]></title>
+        <title type="html"><![CDATA[只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1630145251569717248</id>
         <link href="https://twitter.com/AntCaveClub/status/1630145251569717248"/>
         <updated>2023-02-27T09:58:09.000Z</updated>
-        <summary type="html"><![CDATA[只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。 https://twitter.com/whospay_intern/status/1629875128543883266
+        <summary type="html"><![CDATA[只要 AC 什么时候愿意开始营销了， #FTM 至少是OP的价格。 等。
 
 獨眼莫蒂 | Whospay Intern: Andre Cronje, the man behind @FantomFDN just dropped these on Youtube 
 - Why he joined crypto
@@ -704,13 +704,13 @@ $LVL $LGO]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 叙事就差一条新闻就继续泵。 谷歌不会等死，Meta，Apple也不可能一直看戏。 就是谁来参战了。 先上车，后补票。 #AI https://twitter.com/Awawat_Trades/stat...]]></title>
+        <title type="html"><![CDATA[AI 叙事就差一条新闻就继续泵。 谷歌不会等死，Meta，Apple也不可能一直看戏。 就是谁来参战了。 先上车，后补票。 #AI]]></title>
         <id>https://twitter.com/AntCaveClub/status/1630056768125693953</id>
         <link href="https://twitter.com/AntCaveClub/status/1630056768125693953"/>
         <updated>2023-02-27T04:06:33.000Z</updated>
         <summary type="html"><![CDATA[AI 叙事就差一条新闻就继续泵。  谷歌不会等死，Meta，Apple也不可能一直看戏。  就是谁来参战了。 
 先上车，后补票。 
-#AI https://twitter.com/Awawat_Trades/status/1630050645570113537
+#AI
 
 Awawat: $AGIX has held support for the whole month and AI narrative far from dead. Expecting something like this into March. #TechnicalAnalysis #KnowledgeisPower https://t.co/5mshZZZu0H]]></summary>
         <author>
@@ -849,12 +849,12 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @AndreCronjeTech AC 退圈重返之后, 从来不拉盘. 因为他知道他一发消息, 币价就会涨, 就会有人来催更. 出了Bug就嘲讽. 心脏受不了. #FTM #Fantom 今年肯定爆 ...]]></title>
+        <title type="html"><![CDATA[Re @AndreCronjeTech AC 退圈重返之后, 从来不拉盘. 因为他知道他一发消息, 币价就会涨, 就会有人来催更. 出了Bug就嘲讽. 心脏受不了. #FTM #Fantom 今年肯定爆]]></title>
         <id>https://twitter.com/AntCaveClub/status/1629504051980406784</id>
         <link href="https://twitter.com/AntCaveClub/status/1629504051980406784"/>
         <updated>2023-02-25T15:30:15.000Z</updated>
         <summary type="html"><![CDATA[Re @AndreCronjeTech  AC 退圈重返之后, 从来不拉盘.  因为他知道他一发消息, 币价就会涨, 就会有人来催更.  出了Bug就嘲讽.  心脏受不了. 
-#FTM #Fantom 今年肯定爆 https://twitter.com/HelderJVasquez/status/1629502432119078912
+#FTM #Fantom 今年肯定爆
 
 HelderJVasquez.ftm: Fantom Virtual Machine(FVM) is the gateway to heaven, my frens. 
 Few Andrestand
@@ -1016,12 +1016,12 @@ https://blog.fleek.xyz/post/builders-stack-akash/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Nested 🧩: 🔵🧩 https://twitter.com/coinbase/status/1628444495821012997]]></title>
+        <title type="html"><![CDATA[RT Nested 🧩: 🔵🧩]]></title>
         <id>https://twitter.com/NestedFi/status/1628535210122829824</id>
         <link href="https://twitter.com/NestedFi/status/1628535210122829824"/>
         <updated>2023-02-22T23:20:25.000Z</updated>
         <summary type="html"><![CDATA[RT Nested 🧩
-🔵🧩 https://twitter.com/coinbase/status/1628444495821012997
+🔵🧩
 
 Coinbase: 🔵 2.23.23 https://t.co/DRvvBS5y9v]]></summary>
         <author>
@@ -1085,11 +1085,11 @@ Paving the path to true, fluid privacy. https://t.co/SNV8MfUsOD]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑 https://twitter.com/NestedFi/status/...]]></title>
+        <title type="html"><![CDATA[我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑]]></title>
         <id>https://twitter.com/AntCaveClub/status/1628377665270079491</id>
         <link href="https://twitter.com/AntCaveClub/status/1628377665270079491"/>
         <updated>2023-02-22T12:54:23.000Z</updated>
-        <summary type="html"><![CDATA[我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑 https://twitter.com/NestedFi/status/1628108586957013011
+        <summary type="html"><![CDATA[我推荐大家使用这个做交易，真的很省事，实用性很强，支持多链，随时可以调整投资组合。划重点: 现在使用还有空投。 🤑
 
 Nested 🧩: Nested portfolios are very flexible and can serve many different types of traders and investors. 
 4 ways you can use Nested to 10x your portfolio (yes, we want you to click 😅) 🧵 https://t.co/gMDiljJHUh]]></summary>
