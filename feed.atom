@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T10:16:10.564Z</id>
+    <id>urn:2023-03-01T11:12:31.752Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T10:16:10.564Z</updated>
+    <updated>2023-03-01T11:12:31.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -174,7 +174,7 @@ https://www.ironfish.network/blog/2023/02/28/testnet-rewards?utm_content=buffer0
         <link href="https://twitter.com/wublockchain12/status/1630768476066553861"/>
         <updated>2023-03-01T03:14:37.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Solana 发布改进网络升级计划，将改进 Solana 升级过程、组建对抗团队（由近 1/3 的 Solana Labs 核心工程团队组成）、改进重启过程、继续以稳定为中心。此前 Solana 于 2 月 25 日再次发生主网宕机。
-https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0----------------------- https://twitter.com/wublockchain12/status/1630056787633393664
+https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8?source=collection_home---4------0-----------------------
 
 吴说区块链: 吴说获悉，Solana 官方 2 月 25 日主网宕机报告显示，本次宕机的根本原因尚未清晰，正在积极调查中。据了解，2023-02-25 05:46:16 UTC 时间，Solana 主网性能出现问题，最终迫使验证者节点自动进入“仅投票”模式，即共识投票交易能正常进行，但是无法处理用户交易，并重启网络作为暂缓之计。]]></summary>
         <author>
@@ -208,7 +208,7 @@ https://medium.com/solana-labs/plans-to-improve-the-network-upgrades-bd7c5f3cff8
         <updated>2023-03-01T02:55:04.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/punk3155/status/1630752201760194560
 
-3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry. https://twitter.com/peckshield/status/1630490333716029440]]></summary>
+3155.eth: Upgradable proxies can be risky. Avoid common mistakes like missing `initialize`, incorrect variable order, and inadequate testing. If you're not an expert, just avoid them altogether. If you must use them, understand their internals and test thoroughly with tools like Foundry.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
