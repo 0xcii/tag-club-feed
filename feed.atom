@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T13:21:23.979Z</id>
+    <id>urn:2023-03-03T14:12:58.017Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T13:21:23.979Z</updated>
+    <updated>2023-03-03T14:12:58.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,70 @@ Let me share with you 5 tips I wish I would have known back then 🥂 https://t.
         <summary type="html"><![CDATA[Re @0xOmnia Gud project]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://consensys.net/shanghai-capella-upgrade/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631613522923880448</id>
+        <link href="https://twitter.com/wublockchain12/status/1631613522923880448"/>
+        <updated>2023-03-03T11:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Re https://consensys.net/shanghai-capella-upgrade/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Consensys 的分析，由于美国 SEC 对 Kraken 的要求，Kraken 验证者占比超过 7.3% 的所有活跃的以太坊验证者需要撤回 38,000 个验证者（120 万个 ET...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631603657715376129</id>
+        <link href="https://twitter.com/wublockchain12/status/1631603657715376129"/>
+        <updated>2023-03-03T10:33:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Consensys 的分析，由于美国 SEC 对 Kraken 的要求，Kraken 验证者占比超过 7.3% 的所有活跃的以太坊验证者需要撤回 38,000 个验证者（120 万个 ETH），处理这个数量的全部提款将需要 20 多天。目前的限制水平，每天可以完全撤回多达 1,800 个验证者（或约 57,600 ETH）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5）ABI -> UI generation；6）可编程的私有订单流 MEV Share。https://foresightnews.pro/article/detail/27078]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631603592556863489</id>
+        <link href="https://twitter.com/wublockchain12/status/1631603592556863489"/>
+        <updated>2023-03-03T10:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Re 5）ABI -> UI generation；6）可编程的私有订单流 MEV Share。https://foresightnews.pro/article/detail/27078]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm 首席技术官 Georgios Konstantopoulos 分享在 ETHDenver 2023 中值得关注的 6 个项目（编译：深潮 TechFlow）：1）OP-Reth：实现 Optimistic Rollup 设...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631603558125809665</id>
+        <link href="https://twitter.com/wublockchain12/status/1631603558125809665"/>
+        <updated>2023-03-03T10:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Paradigm 首席技术官 Georgios Konstantopoulos 分享在 ETHDenver 2023 中值得关注的 6 个项目（编译：深潮 TechFlow）：1）OP-Reth：实现 Optimistic Rollup 设计的 OP Stack ；2）wagmi_sh x Foundry full-stack hacks；3）使用 Ruint 替换 Rust 代码中的基本类型；4）Ganache-UI but for Anvil；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/0xAA_Science/status/1631564990040928261?s=20 https://tronscan.org/#/address/TK6SJby92kxqFWr8Mxdn89xKAXSRTGBo26]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631603149751582722</id>
+        <link href="https://twitter.com/wublockchain12/status/1631603149751582722"/>
+        <updated>2023-03-03T10:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/0xAA_Science/status/1631564990040928261?s=20 
+ https://tronscan.org/#/address/TK6SJby92kxqFWr8Mxdn89xKAXSRTGBo26
+
+0xAA (🇼 🇹 🇫,📜): WTF Academy成员提醒：假Telegram骗局，黑客已获利3000w u
+常用telegram的老哥注意防骗, 有部分黑客做了假的telegram能实时更改你在和他人聊天过程的收款地址，比如你发的收款地址是A，他能实时识别这个地址并篡改成自己的地址X，导致不必要的损失。昨天有认识的人被骗了挺多，谨防受骗。 https://t.co/urnYaBx8gt]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @ 0xAA_Science，黑客（TK6S…Bo26）利用虚假 Telegram 获利超过 3700 万美元。通过虚假 Telegram，黑客能够实时识别并篡改用户聊天过程中所涉及到...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1631603118415974402</id>
+        <link href="https://twitter.com/wublockchain12/status/1631603118415974402"/>
+        <updated>2023-03-03T10:31:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ 0xAA_Science，黑客（TK6S…Bo26）利用虚假 Telegram 获利超过 3700 万美元。通过虚假 Telegram，黑客能够实时识别并篡改用户聊天过程中所涉及到的收款地址。用户切记从官方渠道下载，警惕浏览器广告和他人链接。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -187,11 +251,11 @@ The mysterious fund withdrew 312M $USDC from #Circle and transferred to exchange
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[是不是发现黄推都没了, 什么大作战都没了? 还有你某些朋友也没了....]]></title>
+        <title type="html"><![CDATA[是不是发现黄推都没了, 什么大作战都没了? 还有你某些朋友也没了.... https://twitter.com/AntCaveClub/status/1623182014282350592]]></title>
         <id>https://twitter.com/AntCaveClub/status/1631494964445331456</id>
         <link href="https://twitter.com/AntCaveClub/status/1631494964445331456"/>
         <updated>2023-03-03T03:21:25.000Z</updated>
-        <summary type="html"><![CDATA[是不是发现黄推都没了, 什么大作战都没了?   还有你某些朋友也没了....
+        <summary type="html"><![CDATA[是不是发现黄推都没了, 什么大作战都没了?   还有你某些朋友也没了.... https://twitter.com/AntCaveClub/status/1623182014282350592
 
 链求君 | (C,C): 为什么我没关注这个人, 天天都能刷到他.  谁有相同情况? https://t.co/XKgpiMByx9]]></summary>
         <author>
@@ -288,70 +352,16 @@ https://near.org/blog/near-at-ethdenver-highlights/ https://twitter.com/i/web/st
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你盘感确实好 🌝 阿超的钱有着落了 https://t.co/xqwZDkDkM3]]></title>
+        <title type="html"><![CDATA[你盘感确实好 🌝 阿超的钱有着落了 https://twitter.com/liangxied/status/1631111830285484038 https://t.co/xqwZDkDkM3]]></title>
         <id>https://twitter.com/AntCaveClub/status/1631473079363973120</id>
         <link href="https://twitter.com/AntCaveClub/status/1631473079363973120"/>
         <updated>2023-03-03T01:54:28.000Z</updated>
-        <summary type="html"><![CDATA[你盘感确实好 🌝   阿超的钱有着落了 https://t.co/xqwZDkDkM3
+        <summary type="html"><![CDATA[你盘感确实好 🌝   阿超的钱有着落了 https://twitter.com/liangxied/status/1631111830285484038 https://t.co/xqwZDkDkM3
 
 
-凉兮嘤嘤嘤: 你看不下去你麻辣隔壁？这傻逼说好的等跌下去让我转给他，结果忽然翻脸说我欠他钱，我操你妈了个逼换作你，你受得了？我跟他来回合作很多次了，那个视频的欠条是9月份的。11月份我就都还他了，后面我出了事才再找他借钱的，欠条也是我让他配合我演戏起诉我，找我爹要钱，拿九月份的视频掐头去尾抹黑 https://t.co/3YBmwZjBXQ]]></summary>
+凉兮嘤嘤嘤: 你看不下去你麻辣隔壁？这傻逼说好的等跌下去让我转给他，结果忽然翻脸说我欠他钱，我操你妈了个逼换作你，你受得了？我跟他来回合作很多次了，那个视频的欠条是9月份的。11月份我就都还他了，后面我出了事才再找他借钱的，欠条也是我让他配合我演戏起诉我，找我爹要钱，拿九月份的视频掐头去尾抹黑 https://twitter.com/Bbang36486440/status/1631108573437792256 https://t.co/3YBmwZjBXQ]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，3月3日上午9时20分，加密市场突然剧烈下跌，以太坊下跌5%，比特币下跌4%；BSV 跌18%，FIL 跌10%。1小时全网爆仓已超过1.7亿美金。https://www.coingla...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1631470486814347264</id>
-        <link href="https://twitter.com/wublockchain12/status/1631470486814347264"/>
-        <updated>2023-03-03T01:44:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，3月3日上午9时20分，加密市场突然剧烈下跌，以太坊下跌5%，比特币下跌4%；BSV 跌18%，FIL 跌10%。1小时全网爆仓已超过1.7亿美金。https://www.coinglass.com/zh/LiquidationData https://twitter.com/i/web/status/1631470486814347264]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/TimBeiko/status/1631373281650708481]]></title>
-        <id>https://twitter.com/wublockchain12/status/1631469729641816064</id>
-        <link href="https://twitter.com/wublockchain12/status/1631469729641816064"/>
-        <updated>2023-03-03T01:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/TimBeiko/status/1631373281650708481
-
-timbeiko.eth: @ethereum @parithosh_j @nethermindeth We didn't agree to a mainnet date explicitly, but assuming things go well on Goerli, we'd probably set a date on the next ACDE (Mar 16).]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，以太坊开发者 TimBeiko 表示，假设 Goerli 测试网一切顺利，我们可能会在下一个 ACDE（3 月 16 日）上设定一个主网上线的日期；团队建议大约下一次...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1631469620464078850</id>
-        <link href="https://twitter.com/wublockchain12/status/1631469620464078850"/>
-        <updated>2023-03-03T01:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，以太坊开发者 TimBeiko 表示，假设 Goerli 测试网一切顺利，我们可能会在下一个 ACDE（3 月 16 日）上设定一个主网上线的日期；团队建议大约下一次 ACDE 4 周后进行潜在的主网分叉（上海升级），需要 1 周的时间来发布 + 测试一个版本，然后 2 周以上的时间让人们升级他们的节点。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 不过，由于计算其比特币资产的减值的会计错误，Riot 表示将延迟向 SEC 提交财务报表，将在15天内提交并对相关数据进行修改。 https://www.sec.gov/Archives/e...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1631469480676302848</id>
-        <link href="https://twitter.com/wublockchain12/status/1631469480676302848"/>
-        <updated>2023-03-03T01:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 不过，由于计算其比特币资产的减值的会计错误，Riot 表示将延迟向 SEC 提交财务报表，将在15天内提交并对相关数据进行修改。
-https://www.sec.gov/Archives/edgar/data/1167419/000155837023002681/tmb-20221231xnt10k.htm
-https://www.riotplatforms.com/investors/sec-filings]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，北美最大的矿业公司之一 Riot 发布了2022年全年财报，宣布到 2022 年底拥有约 2.3 亿美元的现金、无长期债务和 6,974 个比特币。报告净亏损 5.096 亿...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1631469330419560449</id>
-        <link href="https://twitter.com/wublockchain12/status/1631469330419560449"/>
-        <updated>2023-03-03T01:39:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，北美最大的矿业公司之一 Riot 发布了2022年全年财报，宣布到 2022 年底拥有约 2.3 亿美元的现金、无长期债务和 6,974 个比特币。报告净亏损 5.096 亿美元，其中包括与 Whinstone 和 ESS 相关的商誉减值 3.356 亿美元，持有的加密货币减值 1.474 亿美元，矿机减值 5550 万美元]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -858,12 +868,12 @@ https://echelon.io/rewards/ https://t.co/kyMioRd8Np]]></summary>
 Celsius sending remaining funds and unwrapping $260m BTC
 Voyager & FTX assets being sold, 3AC NFTs being auctioned
 Liquidators taking advantage of recent market conditions?
-We buy the tail end of liquidations near end of Q1 https://twitter.com/Rewkang/status/1630253152648810496 https://t.co/UfsHgvRqj9
+We buy the tail end of liquidations near end of Q1 https://t.co/UfsHgvRqj9
 
 
 
 Andrew Kang: Voyager continuing daily disposal of balance sheet
-Few more liquidations and then up only https://twitter.com/Rewkang/status/1629718250312409088 https://t.co/cNHx5qLaNg]]></summary>
+Few more liquidations and then up only https://t.co/cNHx5qLaNg]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1016,11 +1026,11 @@ Why am I being shadowbanned? https://t.co/DYrGYi1Aeh]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></title>
+        <title type="html"><![CDATA[Update https://t.co/AZTxTlJq9i]]></title>
         <id>https://twitter.com/DeFi_educator/status/1629563703837306882</id>
         <link href="https://twitter.com/DeFi_educator/status/1629563703837306882"/>
         <updated>2023-02-25T19:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i
+        <summary type="html"><![CDATA[Update https://t.co/AZTxTlJq9i
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1139,12 +1149,12 @@ One of the most interesting things about @FactorDAO that I don't think people re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290]]></title>
+        <title type="html"><![CDATA[RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨]]></title>
         <id>https://twitter.com/0xCastor/status/1626631977678897152</id>
         <link href="https://twitter.com/0xCastor/status/1626631977678897152"/>
         <updated>2023-02-17T17:17:39.000Z</updated>
         <summary type="html"><![CDATA[RT Lord Castor (✨,💫)
-I guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290
+I guarantee you this never gets old 👏✨
 
 DeFi Educator: How to find a 10-100x shitcoin gems consistently? 
 Making big money in a short amount of time is why hunting micro cap gems can be life changing for small time investors...

@@ -6,12 +6,72 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1631613522923880448",
+          "author": "吴说区块链",
+          "description": "Re https://consensys.net/shanghai-capella-upgrade/",
+          "link": "https://twitter.com/wublockchain12/status/1631613522923880448",
+          "publishedOn": "2023-03-03T11:12:32.000Z",
+          "wordCount": 496,
+          "title": "Re https://consensys.net/shanghai-capella-upgrade/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1631603657715376129",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Consensys 的分析，由于美国 SEC 对 Kraken 的要求，Kraken 验证者占比超过 7.3% 的所有活跃的以太坊验证者需要撤回 38,000 个验证者（120 万个 ETH），处理这个数量的全部提款将需要 20 多天。目前的限制水平，每天可以完全撤回多达 1,800 个验证者（或约 57,600 ETH）。",
+          "link": "https://twitter.com/wublockchain12/status/1631603657715376129",
+          "publishedOn": "2023-03-03T10:33:20.000Z",
+          "wordCount": 492,
+          "title": "吴说获悉，据 Consensys 的分析，由于美国 SEC 对 Kraken 的要求，Kraken 验证者占比超过 7.3% 的所有活跃的以太坊验证者需要撤回 38,000 个验证者（120 万个 ET...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1631603592556863489",
+          "author": "吴说区块链",
+          "description": "Re 5）ABI -> UI generation；6）可编程的私有订单流 MEV Share。https://foresightnews.pro/article/detail/27078",
+          "link": "https://twitter.com/wublockchain12/status/1631603592556863489",
+          "publishedOn": "2023-03-03T10:33:04.000Z",
+          "wordCount": 496,
+          "title": "Re 5）ABI -> UI generation；6）可编程的私有订单流 MEV Share。https://foresightnews.pro/article/detail/27078",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1631603558125809665",
+          "author": "吴说区块链",
+          "description": "Paradigm 首席技术官 Georgios Konstantopoulos 分享在 ETHDenver 2023 中值得关注的 6 个项目（编译：深潮 TechFlow）：1）OP-Reth：实现 Optimistic Rollup 设计的 OP Stack ；2）wagmi_sh x Foundry full-stack hacks；3）使用 Ruint 替换 Rust 代码中的基本类型；4）Ganache-UI but for Anvil；",
+          "link": "https://twitter.com/wublockchain12/status/1631603558125809665",
+          "publishedOn": "2023-03-03T10:32:56.000Z",
+          "wordCount": 496,
+          "title": "Paradigm 首席技术官 Georgios Konstantopoulos 分享在 ETHDenver 2023 中值得关注的 6 个项目（编译：深潮 TechFlow）：1）OP-Reth：实现 Optimistic Rollup 设...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1631603149751582722",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/0xAA_Science/status/1631564990040928261?s=20 \n https://tronscan.org/#/address/TK6SJby92kxqFWr8Mxdn89xKAXSRTGBo26\n\n0xAA (🇼 🇹 🇫,📜): WTF Academy成员提醒：假Telegram骗局，黑客已获利3000w u\n常用telegram的老哥注意防骗, 有部分黑客做了假的telegram能实时更改你在和他人聊天过程的收款地址，比如你发的收款地址是A，他能实时识别这个地址并篡改成自己的地址X，导致不必要的损失。昨天有认识的人被骗了挺多，谨防受骗。 https://t.co/urnYaBx8gt",
+          "link": "https://twitter.com/wublockchain12/status/1631603149751582722",
+          "publishedOn": "2023-03-03T10:31:19.000Z",
+          "wordCount": 496,
+          "title": "Re https://twitter.com/0xAA_Science/status/1631564990040928261?s=20 https://tronscan.org/#/address/TK6SJby92kxqFWr8Mxdn89xKAXSRTGBo26",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1631603118415974402",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @ 0xAA_Science，黑客（TK6S…Bo26）利用虚假 Telegram 获利超过 3700 万美元。通过虚假 Telegram，黑客能够实时识别并篡改用户聊天过程中所涉及到的收款地址。用户切记从官方渠道下载，警惕浏览器广告和他人链接。",
+          "link": "https://twitter.com/wublockchain12/status/1631603118415974402",
+          "publishedOn": "2023-03-03T10:31:11.000Z",
+          "wordCount": 492,
+          "title": "吴说获悉，据 @ 0xAA_Science，黑客（TK6S…Bo26）利用虚假 Telegram 获利超过 3700 万美元。通过虚假 Telegram，黑客能够实时识别并篡改用户聊天过程中所涉及到...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1631592153561575424",
           "author": "吴说区块链",
           "description": "Re https://twitter.com/whale_alert/status/1631580141003341824?s=20\n\nWhale Alert: 💵 💵 💵 💵 💵 💵  128,596,461 #PAX (128,579,744 USD) minted at Paxos Treasury\nhttps://whale-alert.io/transaction/ethereum/0xf4387112a74ca1adc146b363f55788700641021b1eda21f8f644f8bf8852802c",
           "link": "https://twitter.com/wublockchain12/status/1631592153561575424",
           "publishedOn": "2023-03-03T09:47:37.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re https://twitter.com/whale_alert/status/1631580141003341824?s=20",
           "imageUrl": null
         },
@@ -21,7 +81,7 @@
           "description": "吴说获悉，据 Whale Alert 监测，稳定币发行商 Paxos Treasury 于北京时间 3 月 3 日 16:59:47 在以太坊网络上铸造了 128,596,461.86 枚 USDP（约合 1.284 亿美元）。",
           "link": "https://twitter.com/wublockchain12/status/1631592118035816451",
           "publishedOn": "2023-03-03T09:47:29.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，据 Whale Alert 监测，稳定币发行商 Paxos Treasury 于北京时间 3 月 3 日 16:59:47 在以太坊网络上铸造了 128,596,461.86 枚 USDP（约合 1.284 亿美...",
           "imageUrl": null
         },
@@ -31,7 +91,7 @@
           "description": "吴说获悉，据 Deribit 数据，本日即将有名义价值 6.5 亿美元的 2.8  万张 BTC 期权到期，Put/Call 比率为 0.69，最大痛点为 $23,500。此外，本日有名义价值 3.1 亿美元的 19.5 万张以太坊期权到期，Put/Call 比率为 0.93，最大痛点为 $1,650 。https://metrics.deribit.com/options/BTC",
           "link": "https://twitter.com/wublockchain12/status/1631551725630021632",
           "publishedOn": "2023-03-03T07:06:58.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，据 Deribit 数据，本日即将有名义价值 6.5 亿美元的 2.8 万张 BTC 期权到期，Put/Call 比率为 0.69，最大痛点为 $23,500。此外，本日有名义价值 3.1 ...",
           "imageUrl": null
         },
@@ -41,7 +101,7 @@
           "description": "吴说获悉，比特币矿企 CleanSpark 表示，2 月共产出 576 枚比特币，今年以来已产出 1273 枚比特币。其中，2 月以 2.3 万美元的均价卖出 778 枚比特币，收益为 1790 万美元。截至 2 月 28 日，CleanSpark 持有 100 枚比特币，总算力 6.6EH/s。https://www.globenewswire.com/news-release/2023/03/02/2619401/0/en/CleanSpark-Releases-February-2023-Bitcoin-Mining-Update.html",
           "link": "https://twitter.com/wublockchain12/status/1631545785560051712",
           "publishedOn": "2023-03-03T06:43:22.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "吴说获悉，比特币矿企 CleanSpark 表示，2 月共产出 576 枚比特币，今年以来已产出 1273 枚比特币。其中，2 月以 2.3 万美元的均价卖出 778 枚比特币，收益为 17...",
           "imageUrl": null
         },
@@ -51,7 +111,7 @@
           "description": "Re https://twitter.com/lookonchain/status/1631502297258942464?s=20\n\nLookonchain: 1/ With the crash of #Silvergate, the crypto market plummeted, and the price of $ETH dropped by 5%.\nBefore $ETH plummeted, the price had a slight increase.\nThe mysterious fund withdrew 312M $USDC from #Circle and transferred to exchanges during the 8 hours of the uptick. https://t.co/KiH3xdgguU",
           "link": "https://twitter.com/wublockchain12/status/1631512743550521345",
           "publishedOn": "2023-03-03T04:32:04.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re https://twitter.com/lookonchain/status/1631502297258942464?s=20",
           "imageUrl": null
         },
@@ -61,7 +121,7 @@
           "description": "吴说获悉， 据@lookonchain 监测，今日随着Silvergate（SI）股价崩盘，加密市价暴跌，但有一神秘基金在暴跌前几个小时从 Circle 撤出 3.12 亿枚 USDC  并转至交易所，该基金在 Coinbase 宣布不再接受或发起与 Silvergate 之间的付款后开始转移资金。",
           "link": "https://twitter.com/wublockchain12/status/1631512637317193728",
           "publishedOn": "2023-03-03T04:31:39.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉， 据@lookonchain 监测，今日随着Silvergate（SI）股价崩盘，加密市价暴跌，但有一神秘基金在暴跌前几个小时从 Circle 撤出 3.12 亿枚 USDC 并转至交易...",
           "imageUrl": null
         },
@@ -71,7 +131,7 @@
           "description": "Re https://twitter.com/PeckShieldAlert/status/1631491972337893379?s=20\n\nPeckShieldAlert: #PeckShieldAlert A #ZeroTransfer scammer grabbed 2M $USDC on Feb. 17th\nThe victim tested a transfer of 10 $USDC to 0x74C3...1cA (Target Address), but scammer conducted a #ZeroTransfer & mimic the transfer, causing 0x74ce...1cA (Fake Address) to appear in the user's wallet records https://t.co/N6QhDnhcia",
           "link": "https://twitter.com/wublockchain12/status/1631508471324749824",
           "publishedOn": "2023-03-03T04:15:06.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re https://twitter.com/PeckShieldAlert/status/1631491972337893379?s=20",
           "imageUrl": null
         },
@@ -81,7 +141,7 @@
           "description": "吴说获悉，据派盾监测，一零转账骗局（ZeroTransfer）攻击者于 2 月获利 200 万枚 USDC，受害者在被骗前进行了一笔 10 USDC 的测试转账，随后攻击者模仿该笔交易进行转账使得受害者将资金误转入了攻击者的假地址。目前攻击者已将 200 万枚 USDC 交易为约 1200 枚以太坊并存入三个地址中。",
           "link": "https://twitter.com/wublockchain12/status/1631508360699813889",
           "publishedOn": "2023-03-03T04:14:39.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，据派盾监测，一零转账骗局（ZeroTransfer）攻击者于 2 月获利 200 万枚 USDC，受害者在被骗前进行了一笔 10 USDC 的测试转账，随后攻击者模仿该笔交易...",
           "imageUrl": null
         },
@@ -91,7 +151,7 @@
           "description": "吴说获悉，据雅虎财经，Silvergate（SI）股价一夜爆跌 57.72% 至 $5.72，创上市以来新低，每股收益为 -12.37；盘后仍继续小幅下挫。当前 Silvergate 总市值为 1.81 亿美元，约是已破产的 FTX Token FTT 市值的 45%。https://finance.yahoo.com/quote/SI/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS5oay8&guce_referrer_sig=AQAAADl4Gx5RsWz12PRLijCSFbMV5TfUGDNggFF2k9LleZxQrwb2xGt0H_NCfuzN7hDd_cSLO9-NEflZ93_1iR542EzbNBW7EPXGQUlM_GbuilT1d_bLCw1G0WGaDvJSM8dWGupUqKtM2p9doNo86RSuyyruoNziGJldlYZtHdnTgcv-",
           "link": "https://twitter.com/wublockchain12/status/1631492115770540033",
           "publishedOn": "2023-03-03T03:10:06.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，据雅虎财经，Silvergate（SI）股价一夜爆跌 57.72% 至 $5.72，创上市以来新低，每股收益为 -12.37；盘后仍继续小幅下挫。当前 Silvergate 总市值为 1....",
           "imageUrl": null
         },
@@ -101,7 +161,7 @@
           "description": "Re 当前在分叉项目的总 TVL 中，Solidly Forks 仅次于 Uniswap 和 Compound，但是与之不同的是，原生在 Fantom 上的 Solidly 却已接近死亡。https://defillama.com/forks",
           "link": "https://twitter.com/wublockchain12/status/1631487856123457539",
           "publishedOn": "2023-03-03T02:53:11.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 当前在分叉项目的总 TVL 中，Solidly Forks 仅次于 Uniswap 和 Compound，但是与之不同的是，原生在 Fantom 上的 Solidly 却已接近死亡。https://defillama.c...",
           "imageUrl": null
         },
@@ -111,7 +171,7 @@
           "description": "吴说获悉，据 DeFiLlama 数据，近期 ve（3，3）重拾关注，Solidly Forks 项目 TVL 近期大幅增长达 8 亿美元，涵盖 Optimism Velodrome、BSC Thena 和 Ethereum Solidly V2 等。",
           "link": "https://twitter.com/wublockchain12/status/1631487784119828480",
           "publishedOn": "2023-03-03T02:52:53.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，据 DeFiLlama 数据，近期 ve（3，3）重拾关注，Solidly Forks 项目 TVL 近期大幅增长达 8 亿美元，涵盖 Optimism Velodrome、BSC Thena 和 Ethereum S...",
           "imageUrl": null
         },
@@ -121,7 +181,7 @@
           "description": "Re 不过 Michael Saylor 未能驳回有关他未能支付华盛顿特区到期的个人所得税、利息和罚款的指控。针对 Saylor 的逃税案的状态会议定于 3 月 10 日举行。",
           "link": "https://twitter.com/wublockchain12/status/1631473402472206337",
           "publishedOn": "2023-03-03T01:55:45.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re 不过 Michael Saylor 未能驳回有关他未能支付华盛顿特区到期的个人所得税、利息和罚款的指控。针对 Saylor 的逃税案的状态会议定于 3 月 10 日举行。",
           "imageUrl": null
         },
@@ -131,58 +191,8 @@
           "description": "吴说获悉，Near 生态 NFT 平台 Few and Far 完成 1050 万美元融资，Pantera Capital 领投，Cypher Capital、Huobi Ventures、Hypersphere、Metaweb、Mantis Partners、K5 Global 等参投。新资金将用于扩展平台功能、提升用户体验并增加 Web3 开发人员的数量。\nhttps://near.org/blog/near-at-ethdenver-highlights/ https://twitter.com/i/web/status/1631473201963499520",
           "link": "https://twitter.com/wublockchain12/status/1631473201963499520",
           "publishedOn": "2023-03-03T01:54:57.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "吴说获悉，Near 生态 NFT 平台 Few and Far 完成 1050 万美元融资，Pantera Capital 领投，Cypher Capital、Huobi Ventures、Hypersphere、Metaweb、Mantis Part...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1631470486814347264",
-          "author": "吴说区块链",
-          "description": "吴说获悉，3月3日上午9时20分，加密市场突然剧烈下跌，以太坊下跌5%，比特币下跌4%；BSV 跌18%，FIL 跌10%。1小时全网爆仓已超过1.7亿美金。https://www.coinglass.com/zh/LiquidationData https://twitter.com/i/web/status/1631470486814347264",
-          "link": "https://twitter.com/wublockchain12/status/1631470486814347264",
-          "publishedOn": "2023-03-03T01:44:09.000Z",
-          "wordCount": 529,
-          "title": "吴说获悉，3月3日上午9时20分，加密市场突然剧烈下跌，以太坊下跌5%，比特币下跌4%；BSV 跌18%，FIL 跌10%。1小时全网爆仓已超过1.7亿美金。https://www.coingla...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1631469729641816064",
-          "author": "吴说区块链",
-          "description": "Re https://twitter.com/TimBeiko/status/1631373281650708481\n\ntimbeiko.eth: @ethereum @parithosh_j @nethermindeth We didn't agree to a mainnet date explicitly, but assuming things go well on Goerli, we'd probably set a date on the next ACDE (Mar 16).",
-          "link": "https://twitter.com/wublockchain12/status/1631469729641816064",
-          "publishedOn": "2023-03-03T01:41:09.000Z",
-          "wordCount": 529,
-          "title": "Re https://twitter.com/TimBeiko/status/1631373281650708481",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1631469620464078850",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，以太坊开发者 TimBeiko 表示，假设 Goerli 测试网一切顺利，我们可能会在下一个 ACDE（3 月 16 日）上设定一个主网上线的日期；团队建议大约下一次 ACDE 4 周后进行潜在的主网分叉（上海升级），需要 1 周的时间来发布 + 测试一个版本，然后 2 周以上的时间让人们升级他们的节点。",
-          "link": "https://twitter.com/wublockchain12/status/1631469620464078850",
-          "publishedOn": "2023-03-03T01:40:43.000Z",
-          "wordCount": 529,
-          "title": "Re 吴说获悉，以太坊开发者 TimBeiko 表示，假设 Goerli 测试网一切顺利，我们可能会在下一个 ACDE（3 月 16 日）上设定一个主网上线的日期；团队建议大约下一次...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1631469480676302848",
-          "author": "吴说区块链",
-          "description": "Re 不过，由于计算其比特币资产的减值的会计错误，Riot 表示将延迟向 SEC 提交财务报表，将在15天内提交并对相关数据进行修改。\nhttps://www.sec.gov/Archives/edgar/data/1167419/000155837023002681/tmb-20221231xnt10k.htm\nhttps://www.riotplatforms.com/investors/sec-filings",
-          "link": "https://twitter.com/wublockchain12/status/1631469480676302848",
-          "publishedOn": "2023-03-03T01:40:10.000Z",
-          "wordCount": 529,
-          "title": "Re 不过，由于计算其比特币资产的减值的会计错误，Riot 表示将延迟向 SEC 提交财务报表，将在15天内提交并对相关数据进行修改。 https://www.sec.gov/Archives/e...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1631469330419560449",
-          "author": "吴说区块链",
-          "description": "吴说获悉，北美最大的矿业公司之一 Riot 发布了2022年全年财报，宣布到 2022 年底拥有约 2.3 亿美元的现金、无长期债务和 6,974 个比特币。报告净亏损 5.096 亿美元，其中包括与 Whinstone 和 ESS 相关的商誉减值 3.356 亿美元，持有的加密货币减值 1.474 亿美元，矿机减值 5550 万美元",
-          "link": "https://twitter.com/wublockchain12/status/1631469330419560449",
-          "publishedOn": "2023-03-03T01:39:34.000Z",
-          "wordCount": 529,
-          "title": "吴说获悉，北美最大的矿业公司之一 Riot 发布了2022年全年财报，宣布到 2022 年底拥有约 2.3 亿美元的现金、无长期债务和 6,974 个比特币。报告净亏损 5.096 亿...",
           "imageUrl": null
         }
       ]
@@ -198,7 +208,7 @@
           "description": "Re @SandyPeng1 @Scroll_ZKP dont fall in love, fall in coffee ?",
           "link": "https://twitter.com/8848Community/status/1631318461480861696",
           "publishedOn": "2023-03-02T15:40:04.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @SandyPeng1 @Scroll_ZKP dont fall in love, fall in coffee ?",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "对于很多新手的话，还是多注册几个Coingecko，反正每天都看行情，每天上去领一下糖果也挺好的，说不定以后又可以拿糖果换其他的币呢\nhttps://www.coingecko.com/account/candy\n嘻嘻嘻",
           "link": "https://twitter.com/8848Community/status/1631314624678346753",
           "publishedOn": "2023-03-02T15:24:49.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "对于很多新手的话，还是多注册几个Coingecko，反正每天都看行情，每天上去领一下糖果也挺好的，说不定以后又可以拿糖果换其他的币呢 https://www.coingecko.com/...",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "wintermute等好几个做市商投的订单部DEX，可以申请一下alpha test，不过要写一段文字，写写作文吧\nhttps://www.mangrove.exchange/contact\n\nMangrove DAO: 🤓 Want to learn more about our series A funding? Check out our latest article!\nhttps://blog.mangrove.exchange/p/mangrove-dao-raises-usd-74-million (7/9)",
           "link": "https://twitter.com/8848Community/status/1631313799449047040",
           "publishedOn": "2023-03-02T15:21:32.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "wintermute等好几个做市商投的订单部DEX，可以申请一下alpha test，不过要写一段文字，写写作文吧 https://www.mangrove.exchange/contact",
           "imageUrl": null
         },
@@ -228,7 +238,7 @@
           "description": "Re @zhudi32 cute",
           "link": "https://twitter.com/8848Community/status/1631306899986710530",
           "publishedOn": "2023-03-02T14:54:07.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re @zhudi32 cute",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "我说我的nft角色没了\n原来是我挂着的NFT怎么被买了\n难怪看到NFT最近在涨，看了下 @Chainflip 网页更新\n原来第二季度要进行LBP发币了 https://t.co/9OFCLvM4hJ",
           "link": "https://twitter.com/8848Community/status/1631306338029699074",
           "publishedOn": "2023-03-02T14:51:53.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "我说我的nft角色没了 原来是我挂着的NFT怎么被买了 难怪看到NFT最近在涨，看了下 @Chainflip 网页更新 原来第二季度要进行LBP发币了 https://t.co/9OFCLvM4hJ",
           "imageUrl": null
         },
@@ -248,7 +258,7 @@
           "description": "我要成为 web3 高手 ！！！ https://t.co/V5UWpsJJ1Y",
           "link": "https://twitter.com/8848Community/status/1631302440548184065",
           "publishedOn": "2023-03-02T14:36:24.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "我要成为 web3 高手 ！！！ https://t.co/V5UWpsJJ1Y",
           "imageUrl": null
         },
@@ -258,7 +268,7 @@
           "description": "RT 妙蛙种子 | CapitalismLab\nSilvergate/SI 暴雷，是什么雷，对 USDC 有什么影响？\n最坏的结果是什么，USDC 会归零吗？\n本 Thread 使用可信信息和数据为你解析👇 (1/n)",
           "link": "https://twitter.com/NintendoDoomed/status/1631301927483965440",
           "publishedOn": "2023-03-02T14:34:22.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT 妙蛙种子 | CapitalismLab: Silvergate/SI 暴雷，是什么雷，对 USDC 有什么影响？ 最坏的结果是什么，USDC 会归零吗？ 本 Thread 使用可信信息和数据为你解析...",
           "imageUrl": null
         },
@@ -268,7 +278,7 @@
           "description": "Re @Rebecca_ATM888 乌梅子酱的味道",
           "link": "https://twitter.com/8848Community/status/1631301135968485376",
           "publishedOn": "2023-03-02T14:31:13.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Rebecca_ATM888 乌梅子酱的味道",
           "imageUrl": null
         },
@@ -278,7 +288,7 @@
           "description": "Re @Rebecca_ATM888 我还是喜欢吃八喜多点，初恋的味道",
           "link": "https://twitter.com/8848Community/status/1631297935907364864",
           "publishedOn": "2023-03-02T14:18:30.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Rebecca_ATM888 我还是喜欢吃八喜多点，初恋的味道",
           "imageUrl": null
         },
@@ -288,7 +298,7 @@
           "description": "Re @Ice_Frog666666 其实我在兼职，我是那个保安",
           "link": "https://twitter.com/8848Community/status/1631295770400784386",
           "publishedOn": "2023-03-02T14:09:54.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Ice_Frog666666 其实我在兼职，我是那个保安",
           "imageUrl": null
         },
@@ -298,7 +308,7 @@
           "description": "感觉撸毛好难，而且项目方都知道PUA，以前还只是拿撸毛大军当做数据去融资的。但是现在很多项目方是拿撸毛大军当发财的工具了，有个项目庆祝融资成功，发NFT庆祝，竟然让撸毛大军花钱mint。项目方现在把撸毛大军当猪圈了。555好难受 https://t.co/pvZ0wVciw6",
           "link": "https://twitter.com/8848Community/status/1631293627908464641",
           "publishedOn": "2023-03-02T14:01:23.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "感觉撸毛好难，而且项目方都知道PUA，以前还只是拿撸毛大军当做数据去融资的。但是现在很多项目方是拿撸毛大军当发财的工具了，有个项目庆祝融资成功，发NFT庆祝...",
           "imageUrl": null
         },
@@ -308,7 +318,7 @@
           "description": "一些英文推特大v的钱包地址归集\n可以追踪起来了\n\nKR - DeFi Researcher: I hope I am not going to jail for these wallet leaks, I feel like it is so illegal to share. \nBut I love CT so here you go 👇🐋 https://t.co/X4vZffGIrj",
           "link": "https://twitter.com/8848Community/status/1631269417588871171",
           "publishedOn": "2023-03-02T12:25:11.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "一些英文推特大v的钱包地址归集 可以追踪起来了",
           "imageUrl": null
         },
@@ -318,7 +328,7 @@
           "description": "Re @buchmanster 胖了",
           "link": "https://twitter.com/8848Community/status/1631241632397008896",
           "publishedOn": "2023-03-02T10:34:46.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @buchmanster 胖了",
           "imageUrl": null
         },
@@ -328,7 +338,7 @@
           "description": "今天是星期四 https://t.co/gVO7lv7ydq",
           "link": "https://twitter.com/8848Community/status/1631174429920362496",
           "publishedOn": "2023-03-02T06:07:44.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "今天是星期四 https://t.co/gVO7lv7ydq",
           "imageUrl": null
         },
@@ -338,7 +348,7 @@
           "description": "大毛 or 小毛？\nParallel 领取啦\nhttps://echelon.io/rewards/ https://t.co/kyMioRd8Np",
           "link": "https://twitter.com/8848Community/status/1630957541495828480",
           "publishedOn": "2023-03-01T15:45:54.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "大毛 or 小毛？ Parallel 领取啦 https://echelon.io/rewards/ https://t.co/kyMioRd8Np",
           "imageUrl": null
         },
@@ -348,7 +358,7 @@
           "description": "希望大家3月发大财~ https://t.co/cWTbZakopD",
           "link": "https://twitter.com/8848Community/status/1630602321435717632",
           "publishedOn": "2023-02-28T16:14:23.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "希望大家3月发大财~ https://t.co/cWTbZakopD",
           "imageUrl": null
         },
@@ -358,7 +368,7 @@
           "description": "Re @NicoleTuan4 \n@MonetaSynthetic\n@Lancele99898485\n@Maymay588\n@nofish666ci\n@aliceforever101\n@fges55\n@brewster_uriah\n@Ren_leilei \n@AbbotBaldwin\n@EmilyLi96188645  \n@ggoodgamegg\n@Arthur34687314\n@Stephan27499573 \n@AprilPo80644198\n恭喜这些群友获得白名单奖励，请速私信我erc20地址",
           "link": "https://twitter.com/8848Community/status/1630536583450591232",
           "publishedOn": "2023-02-28T11:53:10.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @NicoleTuan4 @MonetaSynthetic @Lancele99898485 @Maymay588 @nofish666ci @aliceforever101 @fges55 @brewster_uriah @Ren_leilei @AbbotBaldwin @EmilyLi9...",
           "imageUrl": null
         },
@@ -368,7 +378,7 @@
           "description": "RT Sense Finance\n1/ Huge announcement!\nToday we take a leap towards completing our mission of creating permissionless fixed-rate infrastructure.\nToday YOU can launch your own fixed rate series permissionlessly with our Adapter UI Public Beta!\nhttps://app.sense.finance/eth-mainnet/adapters https://t.co/FYzPnpXqBx",
           "link": "https://twitter.com/senseprotocol/status/1630281707671674880",
           "publishedOn": "2023-02-27T19:00:22.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "RT Sense Finance: 1/ Huge announcement! Today we take a leap towards completing our mission of creating permissionless fixed-rate infrastructure. Toda...",
           "imageUrl": null
         },
@@ -378,7 +388,7 @@
           "description": "RT Scroll 📜\nFor nearly two years, we've built our zkEVM in the open alongside @PrivacyScaling and other contributors, and today, we're taking the next step to Goerli, the final stage before mainnet.\nOur testnet on Goerli is 100% permissionless.\nHere are the details:",
           "link": "https://twitter.com/Scroll_ZKP/status/1630258973856395264",
           "publishedOn": "2023-02-27T17:30:02.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Scroll 📜: For nearly two years, we've built our zkEVM in the open alongside @PrivacyScaling and other contributors, and today, we're taking the ...",
           "imageUrl": null
         },
@@ -388,7 +398,7 @@
           "description": "RT Whospay Intern | 獨眼龍莫蒂\nAndre Cronje, the man behind @FantomFDN just dropped these on Youtube \n- Why he joined crypto\n- Story of Fantom & Yearn\n- State of Defi, community advice & crypto regulation\nI went thru 69 mins of podcast so u dont have to\nHere're 8 insights from Andre u dont want to miss",
           "link": "https://twitter.com/whospay_intern/status/1629875128543883266",
           "publishedOn": "2023-02-26T16:04:46.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Whospay Intern | 獨眼龍莫蒂: Andre Cronje, the man behind @FantomFDN just dropped these on Youtube - Why he joined crypto - Story of Fantom & Yearn...",
           "imageUrl": null
         }
@@ -405,28 +415,28 @@
           "description": "RT Lookonchain\n1/ With the crash of #Silvergate, the crypto market plummeted, and the price of $ETH dropped by 5%.\nBefore $ETH plummeted, the price had a slight increase.\nThe mysterious fund withdrew 312M $USDC from #Circle and transferred to exchanges during the 8 hours of the uptick. https://t.co/KiH3xdgguU",
           "link": "https://twitter.com/lookonchain/status/1631502297258942464",
           "publishedOn": "2023-03-03T03:50:34.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Lookonchain: 1/ With the crash of #Silvergate, the crypto market plummeted, and the price of $ETH dropped by 5%. Before $ETH plummeted, the price h...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1631494964445331456",
           "author": "链求君 | (C,C)",
-          "description": "是不是发现黄推都没了, 什么大作战都没了?   还有你某些朋友也没了....\n\n链求君 | (C,C): 为什么我没关注这个人, 天天都能刷到他.  谁有相同情况? https://t.co/XKgpiMByx9",
+          "description": "是不是发现黄推都没了, 什么大作战都没了?   还有你某些朋友也没了.... https://twitter.com/AntCaveClub/status/1623182014282350592\n\n链求君 | (C,C): 为什么我没关注这个人, 天天都能刷到他.  谁有相同情况? https://t.co/XKgpiMByx9",
           "link": "https://twitter.com/AntCaveClub/status/1631494964445331456",
           "publishedOn": "2023-03-03T03:21:25.000Z",
-          "wordCount": 529,
-          "title": "是不是发现黄推都没了, 什么大作战都没了? 还有你某些朋友也没了....",
+          "wordCount": 496,
+          "title": "是不是发现黄推都没了, 什么大作战都没了? 还有你某些朋友也没了.... https://twitter.com/AntCaveClub/status/1623182014282350592",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1631473079363973120",
           "author": "链求君 | (C,C)",
-          "description": "你盘感确实好 🌝   阿超的钱有着落了 https://t.co/xqwZDkDkM3\n\n\n凉兮嘤嘤嘤: 你看不下去你麻辣隔壁？这傻逼说好的等跌下去让我转给他，结果忽然翻脸说我欠他钱，我操你妈了个逼换作你，你受得了？我跟他来回合作很多次了，那个视频的欠条是9月份的。11月份我就都还他了，后面我出了事才再找他借钱的，欠条也是我让他配合我演戏起诉我，找我爹要钱，拿九月份的视频掐头去尾抹黑 https://t.co/3YBmwZjBXQ",
+          "description": "你盘感确实好 🌝   阿超的钱有着落了 https://twitter.com/liangxied/status/1631111830285484038 https://t.co/xqwZDkDkM3\n\n\n凉兮嘤嘤嘤: 你看不下去你麻辣隔壁？这傻逼说好的等跌下去让我转给他，结果忽然翻脸说我欠他钱，我操你妈了个逼换作你，你受得了？我跟他来回合作很多次了，那个视频的欠条是9月份的。11月份我就都还他了，后面我出了事才再找他借钱的，欠条也是我让他配合我演戏起诉我，找我爹要钱，拿九月份的视频掐头去尾抹黑 https://twitter.com/Bbang36486440/status/1631108573437792256 https://t.co/3YBmwZjBXQ",
           "link": "https://twitter.com/AntCaveClub/status/1631473079363973120",
           "publishedOn": "2023-03-03T01:54:28.000Z",
-          "wordCount": 529,
-          "title": "你盘感确实好 🌝 阿超的钱有着落了 https://t.co/xqwZDkDkM3",
+          "wordCount": 496,
+          "title": "你盘感确实好 🌝 阿超的钱有着落了 https://twitter.com/liangxied/status/1631111830285484038 https://t.co/xqwZDkDkM3",
           "imageUrl": null
         },
         {
@@ -435,7 +445,7 @@
           "description": "Re 这是一条关于 #AI 工具网站分享的内容,  可以很好的提高工作效率. \n#ChatGPT #AI #OpenAI  \n更多内容关注: @AntCaveClub",
           "link": "https://twitter.com/AntCaveClub/status/1631313125822828544",
           "publishedOn": "2023-03-02T15:18:52.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 这是一条关于 #AI 工具网站分享的内容, 可以很好的提高工作效率. #ChatGPT #AI #OpenAI 更多内容关注: @AntCaveClub",
           "imageUrl": null
         },
@@ -445,7 +455,7 @@
           "description": "Re 20/ PromptHero\n类型: 搜索引擎\n链接: https://prompthero.com\n介绍: 通过 DALL-E、Stable Diffusion、Midjourney 等 AI 模型搜索数以百万计的艺术图像......",
           "link": "https://twitter.com/AntCaveClub/status/1631313123205611520",
           "publishedOn": "2023-03-02T15:18:51.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 20/ PromptHero 类型: 搜索引擎 链接: https://prompthero.com 介绍: 通过 DALL-E、Stable Diffusion、Midjourney 等 AI 模型搜索数以百万计的艺术图像......",
           "imageUrl": null
         },
@@ -455,7 +465,7 @@
           "description": "Re 19/ You\n类型: 搜索引擎\n链接: https://you.com\n介绍: 你可以控制的AI搜索引擎。",
           "link": "https://twitter.com/AntCaveClub/status/1631313120575758336",
           "publishedOn": "2023-03-02T15:18:50.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 19/ You 类型: 搜索引擎 链接: https://you.com 介绍: 你可以控制的AI搜索引擎。",
           "imageUrl": null
         },
@@ -465,7 +475,7 @@
           "description": "Re 18/ Perplexity AI\n类型: 图像生成器\n链接: https://perplexity.ai\n介绍: Perplexity AI 是一个人工智能搜索引擎。这是一个受 OpenAI WebGPT 启发的演示，不是商业产品。他们使用大型语言模型（OpenAI API）和搜索引擎。还通过将自然语言转换为 SQL 代码来回答 Twitter 图形查询。",
           "link": "https://twitter.com/AntCaveClub/status/1631313118067568640",
           "publishedOn": "2023-03-02T15:18:50.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 18/ Perplexity AI 类型: 图像生成器 链接: https://perplexity.ai 介绍: Perplexity AI 是一个人工智能搜索引擎。这是一个受 OpenAI WebGPT 启发的演示，不...",
           "imageUrl": null
         },
@@ -475,7 +485,7 @@
           "description": "Re 17/ Krea\n类型: 搜索引擎\n链接: https://krea.ai\n介绍: 探索数百万 AI 生成的图像并创建提示集合。具有稳定的扩散世代。",
           "link": "https://twitter.com/AntCaveClub/status/1631313115706183680",
           "publishedOn": "2023-03-02T15:18:49.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 17/ Krea 类型: 搜索引擎 链接: https://krea.ai 介绍: 探索数百万 AI 生成的图像并创建提示集合。具有稳定的扩散世代。",
           "imageUrl": null
         },
@@ -485,7 +495,7 @@
           "description": "Re 16/ Andi\n类型: 搜索引擎\n链接: https://andisearch.com/\n介绍: Andi 正在使用生成式 AI 寻找下一代。Andi 不仅提供链接，还为您提供答案 - 就像与聪明的朋友交谈一样。",
           "link": "https://twitter.com/AntCaveClub/status/1631313113156046849",
           "publishedOn": "2023-03-02T15:18:49.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 16/ Andi 类型: 搜索引擎 链接: https://andisearch.com/ 介绍: Andi 正在使用生成式 AI 寻找下一代。Andi 不仅提供链接，还为您提供答案 - 就像与聪明的朋友...",
           "imageUrl": null
         },
@@ -495,7 +505,7 @@
           "description": "Re 15/ Diffusion Land\n类型: 图像生成器\n链接: https://diffusion.land\n介绍: Diffusion Land 允许您使用各种 AI 模型来生成图像。他们还有几个预建的概念，您可以使用这些概念来生成某些类型的图像。",
           "link": "https://twitter.com/AntCaveClub/status/1631313110836600834",
           "publishedOn": "2023-03-02T15:18:48.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re 15/ Diffusion Land 类型: 图像生成器 链接: https://diffusion.land 介绍: Diffusion Land 允许您使用各种 AI 模型来生成图像。他们还有几个预建的概念，您...",
           "imageUrl": null
         },
@@ -505,7 +515,7 @@
           "description": "Re 14/ Photoroom\n类型: 图像编辑\n链接: https://photoroom.com\n介绍: 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。",
           "link": "https://twitter.com/AntCaveClub/status/1631313108135464960",
           "publishedOn": "2023-03-02T15:18:47.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 14/ Photoroom 类型: 图像编辑 链接: https://photoroom.com 介绍: 仅使用您的手机创建产品和肖像图片。删除背景、更改背景和展示产品。",
           "imageUrl": null
         },
@@ -515,7 +525,7 @@
           "description": "Re 13/ http://Supermeme.ai\n类型: 趣味工具\n链接: https://supermeme.ai\n介绍: 生成由 AI 提供支持的 110 多种语言的原创模因。使用我们的 AI 模因生成器加强您的模因营销游戏。",
           "link": "https://twitter.com/AntCaveClub/status/1631313105799221251",
           "publishedOn": "2023-03-02T15:18:47.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 13/ http://Supermeme.ai 类型: 趣味工具 链接: https://supermeme.ai 介绍: 生成由 AI 提供支持的 110 多种语言的原创模因。使用我们的 AI 模因生成器加强您...",
           "imageUrl": null
         },
@@ -525,7 +535,7 @@
           "description": "Re 12/ http://GPUX.AI\n类型: 开发者工具\n链接: https://gpux.ai\n介绍: GPU 一切。运行任何 Dockerized。运行自动缩放推理。节省成本50-90%。",
           "link": "https://twitter.com/AntCaveClub/status/1631313102020149249",
           "publishedOn": "2023-03-02T15:18:46.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re 12/ http://GPUX.AI 类型: 开发者工具 链接: https://gpux.ai 介绍: GPU 一切。运行任何 Dockerized。运行自动缩放推理。节省成本50-90%。",
           "imageUrl": null
         },
@@ -535,7 +545,7 @@
           "description": "Re 11/ RunPod\n类型: 开发者工具\n链接: https://runpod.io\n介绍: 以 0.2 美元/小时的价格租用云 GPU。在 GPU 上节省超过 80%。借助用于 PyTorch、Tensorflow 或任何其他 AI 框架的 Jupyter，GPU 租赁变得轻松。",
           "link": "https://twitter.com/AntCaveClub/status/1631313099662979073",
           "publishedOn": "2023-03-02T15:18:45.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 11/ RunPod 类型: 开发者工具 链接: https://runpod.io 介绍: 以 0.2 美元/小时的价格租用云 GPU。在 GPU 上节省超过 80%。借助用于 PyTorch、Tensorflow 或...",
           "imageUrl": null
         },
@@ -545,7 +555,7 @@
           "description": "Re 10/ AI CLI\n类型: 代码助手\n链接: https://github.com/abhagsain/ai-cli\n介绍: 开源 GPT -3 Powered CLI 我们将看看是否可以通过微调改善响应并降低每条命令的成本。",
           "link": "https://twitter.com/AntCaveClub/status/1631313097364480000",
           "publishedOn": "2023-03-02T15:18:45.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 10/ AI CLI 类型: 代码助手 链接: https://github.com/abhagsain/ai-cli 介绍: 开源 GPT -3 Powered CLI 我们将看看是否可以通过微调改善响应并降低每条命令...",
           "imageUrl": null
         },
@@ -555,7 +565,7 @@
           "description": "Re 9/ Fig AI\n类型: 代码助手\n链接: https://fig.io/user-manual/ai\n介绍: 作为现有终端的无缝附加组件，Fig 集成了最流行的终端、shell 和 IDE。",
           "link": "https://twitter.com/AntCaveClub/status/1631313094965358593",
           "publishedOn": "2023-03-02T15:18:44.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re 9/ Fig AI 类型: 代码助手 链接: https://fig.io/user-manual/ai 介绍: 作为现有终端的无缝附加组件，Fig 集成了最流行的终端、shell 和 IDE。",
           "imageUrl": null
         },
@@ -565,7 +575,7 @@
           "description": "Re 8/  http://DreamPic.AI\n类型: AI头像\n链接: https://dreampic.ai/\n介绍: 由 AI 生成的图片为您主演 为您和您的朋友创建 AI 生成的头像、用户图片和个人资料图片。上传您的照片，让 AI 来完成这项工作。由 Stable Diffusion 和 DreamBooth 提供支持。",
           "link": "https://twitter.com/AntCaveClub/status/1631313092637519873",
           "publishedOn": "2023-03-02T15:18:44.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 8/ http://DreamPic.AI 类型: AI头像 链接: https://dreampic.ai/ 介绍: 由 AI 生成的图片为您主演 为您和您的朋友创建 AI 生成的头像、用户图片和个人资料图...",
           "imageUrl": null
         },
@@ -575,7 +585,7 @@
           "description": "Re 7/ Openart\n类型: AI 艺术\n链接: https://openart.ai/\n介绍: 搜索 1000 万+ DALL·E 生成的 AI 艺术图片",
           "link": "https://twitter.com/AntCaveClub/status/1631313090305458176",
           "publishedOn": "2023-03-02T15:18:43.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 7/ Openart 类型: AI 艺术 链接: https://openart.ai/ 介绍: 搜索 1000 万+ DALL·E 生成的 AI 艺术图片",
           "imageUrl": null
         },
@@ -585,7 +595,7 @@
           "description": "Re 6/ PicSo\n类型: AI 艺术\n链接: https://picso.ai/discover\n介绍: 给 AI 艺术创作者的文本。将您的文字变成令人难以置信的高质量艺术品。",
           "link": "https://twitter.com/AntCaveClub/status/1631313088006987776",
           "publishedOn": "2023-03-02T15:18:43.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re 6/ PicSo 类型: AI 艺术 链接: https://picso.ai/discover 介绍: 给 AI 艺术创作者的文本。将您的文字变成令人难以置信的高质量艺术品。",
           "imageUrl": null
         },
@@ -595,7 +605,7 @@
           "description": "Re 5/ Civitai\n类型: AI 艺术\n链接: https://civitai.com\n介绍: Civitai是AI艺术生成社区唯一的模型共享中心！免费使用，开源，并不断改进。",
           "link": "https://twitter.com/AntCaveClub/status/1631313085410725888",
           "publishedOn": "2023-03-02T15:18:42.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re 5/ Civitai 类型: AI 艺术 链接: https://civitai.com 介绍: Civitai是AI艺术生成社区唯一的模型共享中心！免费使用，开源，并不断改进。",
           "imageUrl": null
         }
@@ -609,10 +619,10 @@
         {
           "id": "https://twitter.com/Rewkang/status/1630649875426582548",
           "author": "DeFi Educator",
-          "description": "RT Andrew Kang\nCelsius sending remaining funds and unwrapping $260m BTC\nVoyager & FTX assets being sold, 3AC NFTs being auctioned\nLiquidators taking advantage of recent market conditions?\nWe buy the tail end of liquidations near end of Q1 https://twitter.com/Rewkang/status/1630253152648810496 https://t.co/UfsHgvRqj9\n\n\n\nAndrew Kang: Voyager continuing daily disposal of balance sheet\nFew more liquidations and then up only https://twitter.com/Rewkang/status/1629718250312409088 https://t.co/cNHx5qLaNg",
+          "description": "RT Andrew Kang\nCelsius sending remaining funds and unwrapping $260m BTC\nVoyager & FTX assets being sold, 3AC NFTs being auctioned\nLiquidators taking advantage of recent market conditions?\nWe buy the tail end of liquidations near end of Q1 https://t.co/UfsHgvRqj9\n\n\n\nAndrew Kang: Voyager continuing daily disposal of balance sheet\nFew more liquidations and then up only https://t.co/cNHx5qLaNg",
           "link": "https://twitter.com/Rewkang/status/1630649875426582548",
           "publishedOn": "2023-02-28T19:23:20.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Andrew Kang: Celsius sending remaining funds and unwrapping $260m BTC Voyager & FTX assets being sold, 3AC NFTs being auctioned Liquidators taking ...",
           "imageUrl": null
         },
@@ -622,7 +632,7 @@
           "description": "Re @whospay_intern @tztokchad @FantomFDN Thanks for the write up ser 🙏",
           "link": "https://twitter.com/DeFi_educator/status/1629922430507515904",
           "publishedOn": "2023-02-26T19:12:44.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @whospay_intern @tztokchad @FantomFDN Thanks for the write up ser 🙏",
           "imageUrl": null
         },
@@ -632,7 +642,7 @@
           "description": "Re @bizyugo @crypto_noodles Well done ser! We need more power users to be threaders",
           "link": "https://twitter.com/DeFi_educator/status/1629846793897799680",
           "publishedOn": "2023-02-26T14:12:11.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re @bizyugo @crypto_noodles Well done ser! We need more power users to be threaders",
           "imageUrl": null
         },
@@ -642,18 +652,18 @@
           "description": "Re @TwitterSupport \nWhy am I being shadowbanned? https://t.co/DYrGYi1Aeh",
           "link": "https://twitter.com/DeFi_educator/status/1629648187748147200",
           "publishedOn": "2023-02-26T01:03:00.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @TwitterSupport Why am I being shadowbanned? https://t.co/DYrGYi1Aeh",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/DeFi_educator/status/1629563703837306882",
           "author": "DeFi Educator",
-          "description": "Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
+          "description": "Update https://t.co/AZTxTlJq9i\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
           "link": "https://twitter.com/DeFi_educator/status/1629563703837306882",
           "publishedOn": "2023-02-25T19:27:17.000Z",
-          "wordCount": 529,
-          "title": "Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i",
+          "wordCount": 492,
+          "title": "Update https://t.co/AZTxTlJq9i",
           "imageUrl": null
         },
         {
@@ -662,7 +672,7 @@
           "description": "RT Tom Emmer\nRe The bill does three things: \n1. Prohibits the Fed from issuing a CBDC directly to anyone. \n2. Bars the Fed from using a CBDC to implement monetary policy and control the economy. \n3. Requires the Fed's CBDC projects to be transparent to Congress and the American people",
           "link": "https://twitter.com/GOPMajorityWhip/status/1628397392889249792",
           "publishedOn": "2023-02-22T14:12:47.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Tom Emmer: Re The bill does three things: 1. Prohibits the Fed from issuing a CBDC directly to anyone. 2. Bars the Fed from using a CBDC to impleme...",
           "imageUrl": null
         },
@@ -672,18 +682,18 @@
           "description": "RT Tom Emmer\nToday, I introduced the CBDC Anti-Surveillance State Act to halt efforts of unelected bureaucrats in Washington, DC from stripping Americans of their right to financial privacy. 👇 https://t.co/lONbHFZMk7",
           "link": "https://twitter.com/GOPMajorityWhip/status/1628397390024638466",
           "publishedOn": "2023-02-22T14:12:46.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Tom Emmer: Today, I introduced the CBDC Anti-Surveillance State Act to halt efforts of unelected bureaucrats in Washington, DC from stripping Ameri...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/0xCastor/status/1626631977678897152",
           "author": "DeFi Educator",
-          "description": "RT Lord Castor (✨,💫)\nI guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290\n\nDeFi Educator: How to find a 10-100x shitcoin gems consistently? \nMaking big money in a short amount of time is why hunting micro cap gems can be life changing for small time investors...\nHow to become a gem huntooorrr\nA 🧵",
+          "description": "RT Lord Castor (✨,💫)\nI guarantee you this never gets old 👏✨\n\nDeFi Educator: How to find a 10-100x shitcoin gems consistently? \nMaking big money in a short amount of time is why hunting micro cap gems can be life changing for small time investors...\nHow to become a gem huntooorrr\nA 🧵",
           "link": "https://twitter.com/0xCastor/status/1626631977678897152",
           "publishedOn": "2023-02-17T17:17:39.000Z",
-          "wordCount": 529,
-          "title": "RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨ https://twitter.com/DeFi_educator/status/1509278699597836290",
+          "wordCount": 496,
+          "title": "RT Lord Castor (✨,💫): I guarantee you this never gets old 👏✨",
           "imageUrl": null
         },
         {
@@ -692,7 +702,7 @@
           "description": "Re @punk6529 @threadreaderapp unroll",
           "link": "https://twitter.com/DeFi_educator/status/1626311912618364928",
           "publishedOn": "2023-02-16T20:05:50.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @punk6529 @threadreaderapp unroll",
           "imageUrl": null
         },
@@ -702,7 +712,7 @@
           "description": "RT 6529\n1/ On Taxis\nOr how the world is centralizing all around you, but why you, fellow citizen, have probably not thought about it at all.\n(NYC, 2007 below) https://t.co/1BLTE7uU0R",
           "link": "https://twitter.com/punk6529/status/1626299802156769280",
           "publishedOn": "2023-02-16T19:17:42.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT 6529: 1/ On Taxis Or how the world is centralizing all around you, but why you, fellow citizen, have probably not thought about it at all. (NYC, 20...",
           "imageUrl": null
         },
@@ -712,7 +722,7 @@
           "description": "Re @rxndy444 @yieldaggregator Pleasure working with you my man 🤙",
           "link": "https://twitter.com/DeFi_educator/status/1626052744883716096",
           "publishedOn": "2023-02-16T02:55:59.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @rxndy444 @yieldaggregator Pleasure working with you my man 🤙",
           "imageUrl": null
         },
@@ -722,7 +732,7 @@
           "description": "RT Lyn Alden\nMy February 2023 newsletter is now available, and takes a look at historical periods of inflation and how they were fixed.\nhttps://www.lynalden.com/february-2023-newsletter/ https://t.co/wpAPQb7mxm",
           "link": "https://twitter.com/LynAldenContact/status/1625989382934081537",
           "publishedOn": "2023-02-15T22:44:12.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Lyn Alden: My February 2023 newsletter is now available, and takes a look at historical periods of inflation and how they were fixed. https://www.l...",
           "imageUrl": null
         },
@@ -732,7 +742,7 @@
           "description": "If you missed the bottom on BTC, looks like you're in luck and you may get a second chance to buy sub 20k  in the next few weeks\nhttps://twitter.com/EleanorTerrett/status/1623796900586573826?s=20&t=cNx2yAxe7QHSSXLVlEPEzw\n\nEleanor Terrett: 🚨SCOOP: @GaryGensler is embarking on a \"midnight massacre\" in an attempt to bring all of #crypto under his control. In the coming weeks, the @SECGov, @NYDFS and the @USOCC will be bringing a myriad of enforcement actions against exchanges, banks",
           "link": "https://twitter.com/DeFi_educator/status/1624150067148906506",
           "publishedOn": "2023-02-10T20:55:25.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "If you missed the bottom on BTC, looks like you're in luck and you may get a second chance to buy sub 20k in the next few weeks https://twitter.com/El...",
           "imageUrl": null
         },
@@ -742,7 +752,7 @@
           "description": "RT Meat (🥩,🥩)\nThe SEC complaint against Kraken alleging that its staking program is an illegal offer and sale of securities is available here:\nhttps://www.sec.gov/litigation/complaints/2023/comp-pr2023-25.pdf\nHighlights:",
           "link": "https://twitter.com/MeatTC_/status/1623781993220644869",
           "publishedOn": "2023-02-09T20:32:50.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Meat (🥩,🥩): The SEC complaint against Kraken alleging that its staking program is an illegal offer and sale of securities is available here: ...",
           "imageUrl": null
         },
@@ -752,7 +762,7 @@
           "description": "Re @Cryptik1E Since one of the limiting factors seems to be bet size, what is stopping you from opening different accounts and putting on 10k from 10 diff accounts??",
           "link": "https://twitter.com/DeFi_educator/status/1623727547665027073",
           "publishedOn": "2023-02-09T16:56:29.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Cryptik1E Since one of the limiting factors seems to be bet size, what is stopping you from opening different accounts and putting on 10k from 10 ...",
           "imageUrl": null
         },
@@ -762,7 +772,7 @@
           "description": "Re @Cryptik1E loved this thread, thanks ser",
           "link": "https://twitter.com/DeFi_educator/status/1623717399496122370",
           "publishedOn": "2023-02-09T16:16:09.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Cryptik1E loved this thread, thanks ser",
           "imageUrl": null
         },
@@ -772,7 +782,7 @@
           "description": "Re @Tree_of_Alpha what",
           "link": "https://twitter.com/DeFi_educator/status/1623490516846358532",
           "publishedOn": "2023-02-09T01:14:36.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @Tree_of_Alpha what",
           "imageUrl": null
         },
@@ -782,7 +792,7 @@
           "description": "Re @defiprincess_ Btc is going down only until late spring/ early summer https://t.co/1tFO9YmNKP",
           "link": "https://twitter.com/DeFi_educator/status/1623433068299145216",
           "publishedOn": "2023-02-08T21:26:20.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re @defiprincess_ Btc is going down only until late spring/ early summer https://t.co/1tFO9YmNKP",
           "imageUrl": null
         },
@@ -792,7 +802,7 @@
           "description": "Re @GCRClassic The juice is still worth the squeeze ser\nhttps://twitter.com/tier10k/status/1623088317930561538?s=20&t=wMI6DOz9RjPqF647udpjYA\n\ndb: It just keeps going, Saudis unfadeable https://t.co/2YGdVeVw0u",
           "link": "https://twitter.com/DeFi_educator/status/1623144900341407744",
           "publishedOn": "2023-02-08T02:21:15.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @GCRClassic The juice is still worth the squeeze ser https://twitter.com/tier10k/status/1623088317930561538?s=20&t=wMI6DOz9RjPqF647udpjYA",
           "imageUrl": null
         }
@@ -809,7 +819,7 @@
           "description": "RT Silent Protocol\nPrivacy is required for providing security for user data on public blockchains, and we are trying to make that a reality.\nSilent Protocol is already in private alpha.\nWe will be going live on multiple blockchains in 2023.\nAre you ready?",
           "link": "https://twitter.com/silentdao_/status/1630221055938924546",
           "publishedOn": "2023-02-27T14:59:22.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "RT Silent Protocol: Privacy is required for providing security for user data on public blockchains, and we are trying to make that a reality. Silent P...",
           "imageUrl": null
         },
@@ -819,7 +829,7 @@
           "description": "Re @blocmatesdotcom Been saying the same thing.    “Onboard the next 1bn users” to BaseOHM",
           "link": "https://twitter.com/OnChainWizard/status/1630089592907898880",
           "publishedOn": "2023-02-27T06:16:59.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @blocmatesdotcom Been saying the same thing. “Onboard the next 1bn users” to BaseOHM",
           "imageUrl": null
         },
@@ -829,7 +839,7 @@
           "description": "RT DeFi Surfer\nNew Substack - \nBinance Smart Chain: Sleeping Giant\nIs it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bustling Ecosystem?\nhttps://defisurfer808.substack.com/p/binance-smart-chain-sleeping-giant?sd=pf",
           "link": "https://twitter.com/DeFiSurfer808/status/1630029636116840449",
           "publishedOn": "2023-02-27T02:18:44.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT DeFi Surfer: New Substack - Binance Smart Chain: Sleeping Giant Is it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bus...",
           "imageUrl": null
         },
@@ -839,7 +849,7 @@
           "description": "Re @Thibault_km @ChainEDGE_io Not an expert but only will be a super chain if (1) it’s KYC only for a portion so institutions feel safu on it.   Also how will they attract users/capital without incentives / potential airdrop farming",
           "link": "https://twitter.com/OnChainWizard/status/1628858711362924544",
           "publishedOn": "2023-02-23T20:45:54.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re @Thibault_km @ChainEDGE_io Not an expert but only will be a super chain if (1) it’s KYC only for a portion so institutions feel safu on it. Also h...",
           "imageUrl": null
         },
@@ -849,7 +859,7 @@
           "description": "RT Silent Protocol\nPaving the path to true, fluid privacy. https://t.co/SNV8MfUsOD",
           "link": "https://twitter.com/silentdao_/status/1628388809971834881",
           "publishedOn": "2023-02-22T13:38:40.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "RT Silent Protocol: Paving the path to true, fluid privacy. https://t.co/SNV8MfUsOD",
           "imageUrl": null
         },
@@ -859,7 +869,7 @@
           "description": "RT MrMahogani 🪶 🛡\nI want to put an account on your radar that deserves props for providing A1 alpha in crypto. He has a significant following already, but this is a hat tilt for helping me double my crypto portfolio since November.  The handle @OnChainWizard and platform @ChainEDGE_io.",
           "link": "https://twitter.com/MrMahogani/status/1627905079377539072",
           "publishedOn": "2023-02-21T05:36:30.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "RT MrMahogani 🪶 🛡: I want to put an account on your radar that deserves props for providing A1 alpha in crypto. He has a significant following a...",
           "imageUrl": null
         },
@@ -869,7 +879,7 @@
           "description": "Has anyone created a wash trading filter for all these perp DEXs.    Would love to know which ones are actually getting used",
           "link": "https://twitter.com/OnChainWizard/status/1627820102396542978",
           "publishedOn": "2023-02-20T23:58:50.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Has anyone created a wash trading filter for all these perp DEXs. Would love to know which ones are actually getting used",
           "imageUrl": null
         },
@@ -879,7 +889,7 @@
           "description": "Re @blocmatesdotcom @FactorDAO I tend to agree",
           "link": "https://twitter.com/OnChainWizard/status/1627548644667797504",
           "publishedOn": "2023-02-20T06:00:09.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @blocmatesdotcom @FactorDAO I tend to agree",
           "imageUrl": null
         },
@@ -889,7 +899,7 @@
           "description": "Re @0xkyle__ @ChainEDGE_io Full launch next week.   Happy to demo it wit u",
           "link": "https://twitter.com/OnChainWizard/status/1627118013148274689",
           "publishedOn": "2023-02-19T01:28:59.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @0xkyle__ @ChainEDGE_io Full launch next week. Happy to demo it wit u",
           "imageUrl": null
         },
@@ -899,7 +909,7 @@
           "description": "Re @0xkyle__ @ChainEDGE_io",
           "link": "https://twitter.com/OnChainWizard/status/1627001326986055680",
           "publishedOn": "2023-02-18T17:45:19.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @0xkyle__ @ChainEDGE_io",
           "imageUrl": null
         },
@@ -909,7 +919,7 @@
           "description": "RT ALΞX 🏭 (💙,🧡)\nOne of the most interesting things about @FactorDAO that I don't think people realise is that you can use Factor's infrastructure to quickly and easily build your own protocol. /1",
           "link": "https://twitter.com/CrossChainAlex/status/1626868795905085440",
           "publishedOn": "2023-02-18T08:58:41.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT ALΞX 🏭 (💙,🧡): One of the most interesting things about @FactorDAO that I don't think people realise is that you can use Factor's infrastr...",
           "imageUrl": null
         },
@@ -919,7 +929,7 @@
           "description": "RT Haseeb ＞|＜\nJust read through the SEC case against Do Kwon/Terraform Labs so you don't have to.\nhttps://www.docdroid.net/xC1daxt/kwonzi-scheme-pdf#page=54\nA few takeaways:",
           "link": "https://twitter.com/hosseeb/status/1626359056515616769",
           "publishedOn": "2023-02-16T23:13:10.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Haseeb ＞|＜: Just read through the SEC case against Do Kwon/Terraform Labs so you don't have to. https://www.docdroid.net/xC1daxt/kwonzi-scheme-pd...",
           "imageUrl": null
         },
@@ -929,7 +939,7 @@
           "description": "Re @Carlosc4059 Yes!",
           "link": "https://twitter.com/OnChainWizard/status/1626340567075414016",
           "publishedOn": "2023-02-16T21:59:41.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re @Carlosc4059 Yes!",
           "imageUrl": null
         },
@@ -939,7 +949,7 @@
           "description": "How did smart money trade $BLUR?   Or how did one @ChainEDGE_io smart money trader make over $700k on $LVL?   Find out today in our monthly smart money report:\nhttps://onchainwizard.substack.com/p/smart-money-watching-february-2023",
           "link": "https://twitter.com/OnChainWizard/status/1626285593264107521",
           "publishedOn": "2023-02-16T18:21:15.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "How did smart money trade $BLUR? Or how did one @ChainEDGE_io smart money trader make over $700k on $LVL? Find out today in our monthly smart money re...",
           "imageUrl": null
         },
@@ -949,7 +959,7 @@
           "description": "Re @DeFiSurfer808 @arbitrum Has to be some airdrop farming effects here too.   For instance, rdpx has only ~8600 wallets with greater than $1 balances...",
           "link": "https://twitter.com/OnChainWizard/status/1625352951802875905",
           "publishedOn": "2023-02-14T04:35:15.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re @DeFiSurfer808 @arbitrum Has to be some airdrop farming effects here too. For instance, rdpx has only ~8600 wallets with greater than $1 balances.....",
           "imageUrl": null
         },
@@ -959,7 +969,7 @@
           "description": "RT Silent Protocol\nYou thought the ZK narrative was gone, anon?\nWait until you learn about EZEE (Economical Zero Knowledge Execution Environment).\nFew. https://t.co/8DauXxIefW",
           "link": "https://twitter.com/silentdao_/status/1625108391692759042",
           "publishedOn": "2023-02-13T12:23:28.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "RT Silent Protocol: You thought the ZK narrative was gone, anon? Wait until you learn about EZEE (Economical Zero Knowledge Execution Environment). Fe...",
           "imageUrl": null
         },
@@ -969,7 +979,7 @@
           "description": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=twitter&utm_campaign=auto_share&r=1f6sdv",
           "link": "https://twitter.com/OnChainWizard/status/1624785801950158848",
           "publishedOn": "2023-02-12T15:01:36.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=...",
           "imageUrl": null
         },
@@ -979,7 +989,7 @@
           "description": "Re @0xkyle__ If Warren was 29 today you best believe he would be finding inefficiencies in the gripto market",
           "link": "https://twitter.com/OnChainWizard/status/1622239005554229248",
           "publishedOn": "2023-02-05T14:21:33.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @0xkyle__ If Warren was 29 today you best believe he would be finding inefficiencies in the gripto market",
           "imageUrl": null
         },
@@ -989,7 +999,7 @@
           "description": "Re @0xkyle__ @ChainEDGE_io Gimme 2-3 weeks, and then you'll see a bunch of the features posted.   Have a bunch of cool stuff in the pipeline too.    Our initital data focuses on Smart Money Swap data along with ability to track + bundle wallets you like (any wallet) and monitor/filter their swap data",
           "link": "https://twitter.com/OnChainWizard/status/1622187944076353537",
           "publishedOn": "2023-02-05T10:58:39.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @0xkyle__ @ChainEDGE_io Gimme 2-3 weeks, and then you'll see a bunch of the features posted. Have a bunch of cool stuff in the pipeline too. Our in...",
           "imageUrl": null
         },
@@ -999,7 +1009,7 @@
           "description": "Re @0xkyle__ Mostly internally built stuff for alerts/analytics, and then just doing some case studies on \"adapted\" traders that have hit certain plays in the last 60-90 days.  I'm building a smart money tool @ChainEDGE_io that people should check out when we formally launch in a few weeks",
           "link": "https://twitter.com/OnChainWizard/status/1622185095233785857",
           "publishedOn": "2023-02-05T10:47:20.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re @0xkyle__ Mostly internally built stuff for alerts/analytics, and then just doing some case studies on \"adapted\" traders that have hit certain play...",
           "imageUrl": null
         }
@@ -1016,7 +1026,7 @@
           "description": "Re @DeFi_Made_Here Lvl",
           "link": "https://twitter.com/DeFiSurfer808/status/1631645805303005184",
           "publishedOn": "2023-03-03T13:20:49.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @DeFi_Made_Here Lvl",
           "imageUrl": null
         },
@@ -1026,7 +1036,7 @@
           "description": "Re @DegenSpartan They went far out the bond curve before rates rose. Got absolutely rekt having to sell long duration bonds at a deep discount during the FTX panic",
           "link": "https://twitter.com/DeFiSurfer808/status/1631641553822203904",
           "publishedOn": "2023-03-03T13:03:55.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @DegenSpartan They went far out the bond curve before rates rose. Got absolutely rekt having to sell long duration bonds at a deep discount during ...",
           "imageUrl": null
         },
@@ -1036,7 +1046,7 @@
           "description": "RT Patrick | Dynamo DeFi\nRe @DeFiSurfer808 Super important to investing in crypto too. I think sometimes about where I would be if I had been making enough to invest more than a couple thousand in 2020.\nEven if you find a high conviction investment, without enough income, it's tough to go in with size.",
           "link": "https://twitter.com/Dynamo_Patrick/status/1631641505210281985",
           "publishedOn": "2023-03-03T13:03:43.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "RT Patrick | Dynamo DeFi: Re @DeFiSurfer808 Super important to investing in crypto too. I think sometimes about where I would be if I had been making ...",
           "imageUrl": null
         },
@@ -1046,7 +1056,7 @@
           "description": "Re @BowTiedNarwhal Im sure he was adding to his portfolio when it was down to get back to portfolio ATH\nHealthy income absolutely a must if u want to play in crypto IMO",
           "link": "https://twitter.com/DeFiSurfer808/status/1631638903957475329",
           "publishedOn": "2023-03-03T12:53:23.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @BowTiedNarwhal Im sure he was adding to his portfolio when it was down to get back to portfolio ATH Healthy income absolutely a must if u want to ...",
           "imageUrl": null
         },
@@ -1056,7 +1066,7 @@
           "description": "Kind of amazing this thread leaves out most fundamental, most assured way to GMI:\nHave a high paying job (such as hedge fund analyst) https://twitter.com/louround_/status/1628497683316097025\n\nLouround 🥂: I lost 90% of my net worth due to greed during the last bull run.\n1.5 years later I am sitting at portfolio ATH.\nLet me share with you 5 tips I wish I would have known back then 🥂 https://t.co/LTxWTEsBUC",
           "link": "https://twitter.com/DeFiSurfer808/status/1631634142499680257",
           "publishedOn": "2023-03-03T12:34:28.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Kind of amazing this thread leaves out most fundamental, most assured way to GMI: Have a high paying job (such as hedge fund analyst) https://twitter....",
           "imageUrl": null
         },
@@ -1066,7 +1076,7 @@
           "description": "Re @0xOmnia Gud project",
           "link": "https://twitter.com/DeFiSurfer808/status/1631626205811146752",
           "publishedOn": "2023-03-03T12:02:56.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @0xOmnia Gud project",
           "imageUrl": null
         },
@@ -1076,7 +1086,7 @@
           "description": "Re @crypto_condom @GMX_IO It’s down 5% call down chicka",
           "link": "https://twitter.com/DeFiSurfer808/status/1631499059016941568",
           "publishedOn": "2023-03-03T03:37:42.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @crypto_condom @GMX_IO It’s down 5% call down chicka",
           "imageUrl": null
         },
@@ -1086,7 +1096,7 @@
           "description": "Re @SmallCapScience @chronologyeth @SCSLabsResearch @vela_exchange what's the purpose of a buyback when your fdv to circ ratio is like 20x",
           "link": "https://twitter.com/DeFiSurfer808/status/1631486466139340803",
           "publishedOn": "2023-03-03T02:47:39.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @SmallCapScience @chronologyeth @SCSLabsResearch @vela_exchange what's the purpose of a buyback when your fdv to circ ratio is like 20x",
           "imageUrl": null
         },
@@ -1096,7 +1106,7 @@
           "description": "Cozy holding a protocol growing topline double digits per month trading at 10x profit and buying back 10-20% of its token a year.\nJust wait til it gets liq on a real chain lmao. \n$knk https://twitter.com/kinekobet/status/1631470422167367680 https://t.co/hP8ptyXv3f\n\n\nKineko: Another month, and yet another record month for volumes at Kineko! 🚀\nThe casino entered into 8-figure territory for monthly volumes, and we also saw increased monthly volumes in the sportsbook 🎰🏈\n➡️ See the full update here: https://blog.kineko.io/\n$KNK #Solana #KNK #SPL https://t.co/eulhDyxtHD",
           "link": "https://twitter.com/DeFiSurfer808/status/1631485060053442561",
           "publishedOn": "2023-03-03T02:42:04.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Cozy holding a protocol growing topline double digits per month trading at 10x profit and buying back 10-20% of its token a year. Just wait til it get...",
           "imageUrl": null
         },
@@ -1106,7 +1116,7 @@
           "description": "Re @luisfrmtheblck @GMX_IO Kang got us again!",
           "link": "https://twitter.com/DeFiSurfer808/status/1631483514322386945",
           "publishedOn": "2023-03-03T02:35:55.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @luisfrmtheblck @GMX_IO Kang got us again!",
           "imageUrl": null
         },
@@ -1116,7 +1126,7 @@
           "description": "The triple halving - a supposedly mega bullish supply side event - turned out to be a sell the news event. \nShanghai - a supposedly mega bearish supply side event - will surely be mega bearish?\n@ethereum",
           "link": "https://twitter.com/DeFiSurfer808/status/1631461912553586690",
           "publishedOn": "2023-03-03T01:10:05.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "The triple halving - a supposedly mega bullish supply side event - turned out to be a sell the news event. Shanghai - a supposedly mega bearish supply...",
           "imageUrl": null
         },
@@ -1126,7 +1136,7 @@
           "description": "Re @mynt_josh @GMX_IO Yea sentiments pretty bad rn. Could always get worse of course",
           "link": "https://twitter.com/DeFiSurfer808/status/1631458664786657282",
           "publishedOn": "2023-03-03T00:57:11.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Re @mynt_josh @GMX_IO Yea sentiments pretty bad rn. Could always get worse of course",
           "imageUrl": null
         },
@@ -1136,7 +1146,7 @@
           "description": "Re @SmallCapScience @SCSLabsResearch @vela_exchange Why’re u shilling this dude Vela clearly seems like a get rich quick scheme",
           "link": "https://twitter.com/DeFiSurfer808/status/1631456824074424321",
           "publishedOn": "2023-03-03T00:49:52.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re @SmallCapScience @SCSLabsResearch @vela_exchange Why’re u shilling this dude Vela clearly seems like a get rich quick scheme",
           "imageUrl": null
         },
@@ -1146,7 +1156,7 @@
           "description": "Similar energy https://twitter.com/DavidSacks/status/1631409297979756544 https://t.co/MELotAiJHJ\n\n\nDavid Sacks: Inflation is still not tamed. Rates are up significantly. Earnings are down. The Ukraine war is not going well. We may be on the verge of the Biden collapse.",
           "link": "https://twitter.com/DeFiSurfer808/status/1631452998260981761",
           "publishedOn": "2023-03-03T00:34:40.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Similar energy https://twitter.com/DavidSacks/status/1631409297979756544 https://t.co/MELotAiJHJ",
           "imageUrl": null
         },
@@ -1156,7 +1166,7 @@
           "description": "Last time @GMX_IO traders were this net short was at the November / December bottom. https://t.co/agS5lHmfif",
           "link": "https://twitter.com/DeFiSurfer808/status/1631452305152258048",
           "publishedOn": "2023-03-03T00:31:55.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Last time @GMX_IO traders were this net short was at the November / December bottom. https://t.co/agS5lHmfif",
           "imageUrl": null
         },
@@ -1166,7 +1176,7 @@
           "description": "Re @ChomClaziridis @conorsen 1 hundo p",
           "link": "https://twitter.com/DeFiSurfer808/status/1631450501601525760",
           "publishedOn": "2023-03-03T00:24:45.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @ChomClaziridis @conorsen 1 hundo p",
           "imageUrl": null
         },
@@ -1176,7 +1186,7 @@
           "description": "Bears r looking backwards https://twitter.com/charliebilello/status/1631409384554209281\n\nCharlie Bilello: With 97% of companies reported, S&P 500 Q4 GAAP earnings are down 28% year-over-year, the 3rd straight quarter of negative YoY growth and the largest decline since Q2 2020. $SPX https://t.co/l4CydMzVcm",
           "link": "https://twitter.com/DeFiSurfer808/status/1631442748770250757",
           "publishedOn": "2023-03-02T23:53:56.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "Bears r looking backwards https://twitter.com/charliebilello/status/1631409384554209281",
           "imageUrl": null
         },
@@ -1186,7 +1196,7 @@
           "description": "Re @richwgalvin Lmao it do be like that",
           "link": "https://twitter.com/DeFiSurfer808/status/1631439140519567364",
           "publishedOn": "2023-03-02T23:39:36.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @richwgalvin Lmao it do be like that",
           "imageUrl": null
         },
@@ -1196,7 +1206,7 @@
           "description": "Re @ChadCaff @vela_exchange Why is a two month old project doing buybacks",
           "link": "https://twitter.com/DeFiSurfer808/status/1631435431479857156",
           "publishedOn": "2023-03-02T23:24:52.000Z",
-          "wordCount": 529,
+          "wordCount": 496,
           "title": "Re @ChadCaff @vela_exchange Why is a two month old project doing buybacks",
           "imageUrl": null
         },
@@ -1206,7 +1216,7 @@
           "description": "Re @coin_casanova Man look at that short interest lol",
           "link": "https://twitter.com/DeFiSurfer808/status/1631434251013967873",
           "publishedOn": "2023-03-02T23:20:10.000Z",
-          "wordCount": 492,
+          "wordCount": 496,
           "title": "Re @coin_casanova Man look at that short interest lol",
           "imageUrl": null
         }
