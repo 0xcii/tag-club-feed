@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T17:13:27.337Z</id>
+    <id>urn:2023-03-07T18:18:11.805Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T17:13:27.337Z</updated>
+    <updated>2023-03-07T18:18:11.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，MakerDAO 正在审查一项提议，将其现有的美国国债投资从 5 亿美元扩大到 12.5 亿美元。该策略预计在扣除托管和预期交易成本后，将为 MakerDAO 带来 4.6...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1633127825443274752</id>
+        <link href="https://twitter.com/wublockchain12/status/1633127825443274752"/>
+        <updated>2023-03-07T15:29:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，MakerDAO 正在审查一项提议，将其现有的美国国债投资从 5 亿美元扩大到 12.5 亿美元。该策略预计在扣除托管和预期交易成本后，将为 MakerDAO 带来 4.6% 至 4.5% 的净年化收益率。https://forum.makerdao.com/t/proposal-to-increase-debt-ceiling-for-mip65-by-750m-to-1250m/20060]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 在鲍威尔发表讲话后，CME FedWatch Tool 显示3月22日美联储加息 50 bps 的概率已经从讲话前的 32% 增长为 54%。https://www.cmegroup.com/markets/interest-r...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1633126432741421056</id>
+        <link href="https://twitter.com/wublockchain12/status/1633126432741421056"/>
+        <updated>2023-03-07T15:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Re 在鲍威尔发表讲话后，CME FedWatch Tool 显示3月22日美联储加息 50 bps 的概率已经从讲话前的 32% 增长为 54%。https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，美联储主席鲍威尔发表讲话，称将继续根据即将发布的全部数据以及对增长和通胀前景的影响，逐次会议做出决定；如果有必要美联储准备加快加息步伐；通货...]]></title>
         <id>https://twitter.com/wublockchain12/status/1633122381152788480</id>
@@ -282,28 +302,6 @@ https://www.reuters.com/technology/thailand-offers-tax-breaks-companies-issuing-
         <updated>2023-03-07T11:32:41.000Z</updated>
         <summary type="html"><![CDATA[运动员 NFT 平台 Blockasset 今天宣布，它将离开 Solana，转向Chiliz Chain。超过 40 名运动员通过 Blockasset 提供 NFT。Blockasset 同时将获得 Chiliz 的股权投资，Chiliz 拥有 Socios 粉丝代币和奖励平台。（Decrypt）
 https://decrypt.co/122845/blockasset-athlete-nfts-drop-solana-for-chiliz-sports-platform]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/Blofin_Academy/status/1633041865619668994?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1633068112722665473</id>
-        <link href="https://twitter.com/wublockchain12/status/1633068112722665473"/>
-        <updated>2023-03-07T11:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/Blofin_Academy/status/1633041865619668994?s=20
-
-Blofin Academy: 4/7. Due to the flat market, the volatility smile of BTC and ETH options has also become flat, making the Butterfly Index hit a new low since April 2022. However, the flatter smile also means that traders appear to underestimate tail risk too much. https://t.co/PIZAhdlvnk]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @Blofin_Academy，由于近期市场平淡，BTC 和 ETH 期权的波动率微笑曲线也变得平坦，使得蝶式价差比率创下自 2022 年 4 月以来的新低。但是更平坦的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1633067999279325184</id>
-        <link href="https://twitter.com/wublockchain12/status/1633067999279325184"/>
-        <updated>2023-03-07T11:32:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @Blofin_Academy，由于近期市场平淡，BTC 和 ETH 期权的波动率微笑曲线也变得平坦，使得蝶式价差比率创下自 2022 年 4 月以来的新低。但是更平坦的微笑曲线也意味着交易员可能过于低估尾部风险。另外，由于 IV 较低，大宗交易员开始开放交易 delta 敞口并在低波动率下购买期权，因为随着… https://twitter.com/i/web/status/1633067999279325184]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
