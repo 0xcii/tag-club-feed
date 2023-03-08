@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T07:13:07.715Z</id>
+    <id>urn:2023-03-08T08:18:49.308Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-08T07:13:07.715Z</updated>
+    <updated>2023-03-08T08:18:49.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据韩国经济网，韩国加密交易所 Gopax 已向韩国金融委员会提交了虚拟资产从业者变更申报书，如果监管当局受理此次变更申报，币安将成为近年来最新一轮合规化后首...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1633367365760212993</id>
+        <link href="https://twitter.com/wublockchain12/status/1633367365760212993"/>
+        <updated>2023-03-08T07:21:41.000Z</updated>
+        <summary type="html"><![CDATA[据韩国经济网，韩国加密交易所 Gopax 已向韩国金融委员会提交了虚拟资产从业者变更申报书，如果监管当局受理此次变更申报，币安将成为近年来最新一轮合规化后首个进入韩国市场的全球性加密交易所。币安于 2 月份收购了韩国加密交易所 Gopax 的多数股权。
+https://www.hankyung.com/finance/article/202303071545B https://twitter.com/i/web/status/1633367365760212993]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分Coinbase 用户在社区反映，他们在试图将比特币从币安转移到 Coinbase时遭到了外国资产管制办公室(OFAC)的通知，提示其比特币来自受制裁地址，交易无法进行。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1633345534240104448</id>
+        <link href="https://twitter.com/wublockchain12/status/1633345534240104448"/>
+        <updated>2023-03-08T05:54:56.000Z</updated>
+        <summary type="html"><![CDATA[部分Coinbase 用户在社区反映，他们在试图将比特币从币安转移到 Coinbase时遭到了外国资产管制办公室(OFAC)的通知，提示其比特币来自受制裁地址，交易无法进行。Coinbase 发言人表示，这是一个技术问题，约 100 名用户受到影响，目前问题已得到解决。（CoinDesk）
+https://www.coindesk.com/business/2023/03/08/coinbase-ofac-bug-affected-fewer-than-100-people-and-has-been-fixed/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/PeckShieldAlert/status/1633331891347820544]]></title>
         <id>https://twitter.com/wublockchain12/status/1633339369858945024</id>
@@ -281,41 +303,6 @@ https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitc
         <link href="https://twitter.com/wublockchain12/status/1633273795296493570"/>
         <updated>2023-03-08T01:09:52.000Z</updated>
         <summary type="html"><![CDATA[Conflux 生态项目盘点：作为主打中国区块链的 Conflux 先后与小红书、中国电信等国内大厂达成战略合作，并结合国内政策环境，形成了其他公链所没有的、独特的数藏生态，甚至推出了离岸人民币稳定币。本文将为大家盘点来自于 Conflux 生态项目。阅读全文：https://mp.weixin.qq.com/s/S0EnmzTScrNxG1X3XkF2sQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/avalancheavax/status/1633165703359627266]]></title>
-        <id>https://twitter.com/wublockchain12/status/1633273765663768576</id>
-        <link href="https://twitter.com/wublockchain12/status/1633273765663768576"/>
-        <updated>2023-03-08T01:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/avalancheavax/status/1633165703359627266
-
-Avalanche 🔺: T…S…M! T…S…M! T…S…M!
-@TSM #ChoseAvalanche as their exclusive blockchain partner, and will be launching a Subnet to bring @theblitzapp, the competitive gaming platform, on chain. 
-Buckle up, because this collaboration could revolutionize gaming.
-@GamingOnAvax https://t.co/4NMQMhkugT]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Avalanche 与北美电子竞技战队 TSM 达成合作协议，将作为其独家区块链合作伙伴，并提供一个 Avalanche 自定义子网 Blitz。TSM 此前曾于 FTX 达成 2.1 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1633273763516252160</id>
-        <link href="https://twitter.com/wublockchain12/status/1633273763516252160"/>
-        <updated>2023-03-08T01:09:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Avalanche 与北美电子竞技战队 TSM 达成合作协议，将作为其独家区块链合作伙伴，并提供一个 Avalanche 自定义子网 Blitz。TSM 此前曾于 FTX 达成 2.1 亿美元的冠名权协议，该交易也是电子竞技历史上最大的一笔交易。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENS 计划推出子域名功能，具体方式为 ENS 的 Name Wrapper 智能合约会将现有的 ENS 域名转换为 ERC-1155 Token，然后可用于创建子域名，子域名的各类参数受限于...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1633270344206233600</id>
-        <link href="https://twitter.com/wublockchain12/status/1633270344206233600"/>
-        <updated>2023-03-08T00:56:09.000Z</updated>
-        <summary type="html"><![CDATA[ENS 计划推出子域名功能，具体方式为 ENS 的 Name Wrapper 智能合约会将现有的 ENS 域名转换为 ERC-1155 Token，然后可用于创建子域名，子域名的各类参数受限于父域名。目前该智能合约已在 Goerli 测试网进行测试，并提供漏洞赏金计划。（The Defiant）https://thedefiant.io/ens-name-wrapper-subdomains]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
