@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T08:16:47.298Z</id>
+    <id>urn:2023-03-11T09:12:23.841Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-11T08:16:47.298Z</updated>
+    <updated>2023-03-11T09:12:23.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/bitfish1/status/1634461184836669441]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634462431136165891</id>
+        <link href="https://twitter.com/wublockchain12/status/1634462431136165891"/>
+        <updated>2023-03-11T07:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/bitfish1/status/1634461184836669441
+
+DiscusFish: USDC接下来有2个关键节点：
+1.链上MKR里面有30亿的USDC抵押铸造DAI，目前PSM模块已关，Dai正在跟USDC脱锚，一旦触发清算，链上血流成河；
+2.银行：目前周末银行不工作，coinbase等奕暂停usdc兑换美金，等周一提现潮来临，需要关注挤兑情况。币安目前持有30+亿的USDC，需要关注交易所及做市商动态]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobo 创始人神鱼表示，USDC 有两个关键节点，第一是链上 MKR 里面有30亿的 USDC 抵押铸造 DAI，一旦触发清算将损失惨重；二是周一银行开门提现潮来临，需要关注...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634462283236532224</id>
+        <link href="https://twitter.com/wublockchain12/status/1634462283236532224"/>
+        <updated>2023-03-11T07:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Cobo 创始人神鱼表示，USDC 有两个关键节点，第一是链上 MKR 里面有30亿的 USDC 抵押铸造 DAI，一旦触发清算将损失惨重；二是周一银行开门提现潮来临，需要关注挤兑情况。币安目前持有30+亿的USDC，需要关注交易所及做市商动态。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Lido 在 Polygon 上线 Wrapped Staked Ether (wstETH) 。其用户现在就可以将 Lido 的 wstETH 桥接到 Polygon 网络上。流行的 DeFi 协议 Kyber、Balanc...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634460036108804098</id>
+        <link href="https://twitter.com/wublockchain12/status/1634460036108804098"/>
+        <updated>2023-03-11T07:43:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Lido 在 Polygon 上线 Wrapped Staked Ether (wstETH) 。其用户现在就可以将 Lido 的 wstETH 桥接到 Polygon 网络上。流行的 DeFi 协议 Kyber、Balancer 和 Beefy Finance 将为 Polygon 上的 wstETH 市场提供流动性激励。该消息标志着 Lido 继2020 年 10 月在 Optimism 和 Arbitrum… https://twitter.com/i/web/status/1634460036108804098]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sanyuan2016 有没有一种可能其他银行开始大面积挤兑。 导致USDC的其他风险敞口也被牵扯到。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1634458090740531203</id>
+        <link href="https://twitter.com/AntCaveClub/status/1634458090740531203"/>
+        <updated>2023-03-11T07:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @sanyuan2016 有没有一种可能其他银行开始大面积挤兑。 导致USDC的其他风险敞口也被牵扯到。]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/compgovernance/status/1634409395755929600]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634456638311616512</id>
+        <link href="https://twitter.com/wublockchain12/status/1634456638311616512"/>
+        <updated>2023-03-11T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/compgovernance/status/1634409395755929600
+
+Compound Governance: Due to the volatility of USDC, the Compound v2 Pause Guardian has temporarily disabled USDC supply transactions in Compound v2. Users can still borrow, repay, and withdraw USDC normally.
+Compound v3 features an upgraded risk engine, and is functioning without any issues.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Compound 表示，由于 USDC 的波动性，Compound v2 Pause Guardian 暂时禁用了 Compound v2 中的 USDC 交易。用户仍可正常借、还、提 USDC。Compound v...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634456486049902592</id>
+        <link href="https://twitter.com/wublockchain12/status/1634456486049902592"/>
+        <updated>2023-03-11T07:29:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Compound 表示，由于 USDC 的波动性，Compound v2 Pause Guardian 暂时禁用了 Compound v2 中的 USDC 交易。用户仍可正常借、还、提 USDC。Compound v3 具有升级的风险引擎，并且运行没有任何问题。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近3天最好是时刻关注市场和消息。 搞不好周末玩一圈回来，三年赚的钱都莫名其妙的没了。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1634451764656365571</id>
@@ -24,6 +91,26 @@
         <summary type="html"><![CDATA[https://t.co/Mkpsk1H2Ge]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，当 USDC 链上价格至约 $0.872 时，将有 4530 万美元的 USDC 担保物头寸被清算，该头寸主要是由在 Aave v2 头寸（0x30...Cabe）和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634451085451485186</id>
+        <link href="https://twitter.com/wublockchain12/status/1634451085451485186"/>
+        <updated>2023-03-11T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，当 USDC 链上价格至约 $0.872 时，将有 4530 万美元的 USDC 担保物头寸被清算，该头寸主要是由在 Aave v2 头寸（0x30...Cabe）和在 Compound 头寸（ 0xDf...2E41）构成。Parsec 数据显示，近 24 小时已有价值超过 760 万美元的 https://app.parsec.finance/dashboard… https://twitter.com/i/web/status/1634451085451485186 https://t.co/tIKnpfiDp9]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据彭博社，Brevan Howard 资产管理公司正在接管由加密货币投资公司 Dragonfly Capital 运营的多空对冲基金，其想要通过收购加密基金继续推进数字资产。Dragonfly...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634445385845317632</id>
+        <link href="https://twitter.com/wublockchain12/status/1634445385845317632"/>
+        <updated>2023-03-11T06:45:21.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社，Brevan Howard 资产管理公司正在接管由加密货币投资公司 Dragonfly Capital 运营的多空对冲基金，其想要通过收购加密基金继续推进数字资产。Dragonfly 旗下的对冲基金 Liquid Opportunities 将作为投资公司的加密和数字资产部门 Brevan Howard Digital… https://twitter.com/i/web/status/1634445385845317632]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -182,99 +269,6 @@ Oar.bit(🪬.🪬): usdc出逃或者换成usdt后换法币的！切记！现�
         <summary type="html"><![CDATA[通用汽车，巨大的泵 https://t.co/ij6YgdXKov]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/ScopeProtocol/status/1634400512966799361]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634405542251708416</id>
-        <link href="https://twitter.com/wublockchain12/status/1634405542251708416"/>
-        <updated>2023-03-11T04:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/ScopeProtocol/status/1634400512966799361
-
-0xScope (🪬 . 🪬): . $USDC is on depeg, and stats showing massive panic withdraw/burn:
-1. 7.66B $USDC withdrawn from CEX in 24H
-2. Jump cashed out 150M USDC.
-3. Wintermute/FalconX deposit USDC to #coinbase.
-4. 2.4B $USDC burned in the last 24H.
-Check live stats here:
-https://watchers.pro/liveStatistics?network=eth https://t.co/22cpgUML5v]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，0xScope 数据显示，76.6 亿 USDC 在过去24小时从交易所中提取；JUMP 将 1.5 亿 USDC 换成现金；24 亿 USDC 在过去24小时销毁换为现金。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634405396935847941</id>
-        <link href="https://twitter.com/wublockchain12/status/1634405396935847941"/>
-        <updated>2023-03-11T04:06:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，0xScope 数据显示，76.6 亿 USDC 在过去24小时从交易所中提取；JUMP 将 1.5 亿 USDC 换成现金；24 亿 USDC 在过去24小时销毁换为现金。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，近 24 小时，Bybit USDC/USDT 永续合约交易对交易量超过 6600 万美元，占比 USDC 永续合约交易对交易量的 26%。Coinglass 数据显示，Bybit USDC U 本...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634403512527273984</id>
-        <link href="https://twitter.com/wublockchain12/status/1634403512527273984"/>
-        <updated>2023-03-11T03:58:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，近 24 小时，Bybit USDC/USDT 永续合约交易对交易量超过 6600 万美元，占比 USDC 永续合约交易对交易量的 26%。Coinglass 数据显示，Bybit USDC U 本位永续合约年化资金费率一度超过 50%。https://coinmarketcap.com/currencies/usd-coin/markets/ & https://www.coinglass.com/zh/FundingRate]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/coinbase/status/1634399032767307776]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634400676267585536</id>
-        <link href="https://twitter.com/wublockchain12/status/1634400676267585536"/>
-        <updated>2023-03-11T03:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/coinbase/status/1634399032767307776
-
-Coinbase: We are temporarily pausing USDC:USD conversions over the weekend while banks are closed. During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours. When banks open on Monday, we plan to re-commence conversions.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布将在将在周末银行关闭时暂时暂停 USDC:USD 转换。在活动繁忙期间，转换依赖于银行在正常营业时间内清算的美元转账。当银行周一开门时，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634400475423318017</id>
-        <link href="https://twitter.com/wublockchain12/status/1634400475423318017"/>
-        <updated>2023-03-11T03:46:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布将在将在周末银行关闭时暂时暂停 USDC:USD 转换。在活动繁忙期间，转换依赖于银行在正常营业时间内清算的美元转账。当银行周一开门时，我们计划重新开始转换。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在 Circle 公布硅谷银行的敞口后，OKX 上 USDC/USDT 再度下挫至最低 $0.943。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634398727304540160</id>
-        <link href="https://twitter.com/wublockchain12/status/1634398727304540160"/>
-        <updated>2023-03-11T03:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 在 Circle 公布硅谷银行的敞口后，OKX 上 USDC/USDT 再度下挫至最低 $0.943。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance 发推表示，由于当前市场的状况，USDC 资产大量流入使自动转换的负担加重，已暂停将 USDC 自动转换为 BUSD，并表示这是常规风险管理措施。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634397438298447872</id>
-        <link href="https://twitter.com/wublockchain12/status/1634397438298447872"/>
-        <updated>2023-03-11T03:34:49.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance 发推表示，由于当前市场的状况，USDC 资产大量流入使自动转换的负担加重，已暂停将 USDC 自动转换为 BUSD，并表示这是常规风险管理措施。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Circle 表示，有 33 亿美金现金储存在硅谷银行。这一数字超过此前外界认为 10 亿美金的预期。按照外界对 40% 损失的预估，Circle 损失有可能达到 12 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634393038897426433</id>
-        <link href="https://twitter.com/wublockchain12/status/1634393038897426433"/>
-        <updated>2023-03-11T03:17:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Circle 表示，有 33 亿美金现金储存在硅谷银行。这一数字超过此前外界认为 10 亿美金的预期。按照外界对 40% 损失的预估，Circle 损失有可能达到 12 亿美金。 https://twitter.com/circle/status/1634391505988206592 https://twitter.com/wublockchain12/status/1634355278178136064
-
-吴说区块链: 吴说获悉，Circle 发推表示，硅谷银行是其用于管理约 25% 的 USDC 现金储备的六家银行合作伙伴之一，目前，在等待美国联邦存款保险公司（FDIC）对硅谷银行接管的过程中，Circle 和 USDC 将继续正常运作。
-https://twitter.com/circle/status/1634341007306248199?s=19]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -488,11 +482,11 @@ It didn’t have to go into FDIC receivership like Silicon Valley Bank(rupt).]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/EfRpSzGEZ8]]></title>
+        <title type="html"><![CDATA[https://twitter.com/paoloardoino/status/1634304670184222722 https://t.co/EfRpSzGEZ8]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1634306222353715200</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1634306222353715200"/>
         <updated>2023-03-10T21:32:22.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/EfRpSzGEZ8
+        <summary type="html"><![CDATA[https://twitter.com/paoloardoino/status/1634304670184222722 https://t.co/EfRpSzGEZ8
 
 
 Paolo Ardoino 🍐: #tether doesn't have any exposure to SVB]]></summary>
@@ -943,11 +937,11 @@ Here are 10 free, open-source AI projects that you can learn from, deploy to @ve
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[又一个mantle上的DEX，有空也可以测一测，说是有激励 https://twitter.com/MantleSwap/status/1632280535941910530]]></title>
+        <title type="html"><![CDATA[又一个mantle上的DEX，有空也可以测一测，说是有激励]]></title>
         <id>https://twitter.com/8848Community/status/1633101599202574336</id>
         <link href="https://twitter.com/8848Community/status/1633101599202574336"/>
         <updated>2023-03-07T13:45:37.000Z</updated>
-        <summary type="html"><![CDATA[又一个mantle上的DEX，有空也可以测一测，说是有激励 https://twitter.com/MantleSwap/status/1632280535941910530
+        <summary type="html"><![CDATA[又一个mantle上的DEX，有空也可以测一测，说是有激励
 
 MantleSwap: 🚀 Launch of @MantleSwap Incentivised #Testnet On #Mantle's L2 Test Network.
 Read our Medium for more details - https://mantleswap.medium.com/launch-of-mantleswap-incentivised-testnet-69a28645962d
@@ -1009,25 +1003,6 @@ Whatever your view of ESG, Govt & Institutional Investors need this data. Now we
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 大圣灵: 重新做了个知识整理，方便大家查看，希望对大家有所帮助，大家记得收藏转发噢~ 🎁新人礼包 🌟小白基础 🌟投资逻辑 🌟交易秘诀 🌟NFT数藏 ...]]></title>
-        <id>https://twitter.com/DSL2140/status/1633022129502572544</id>
-        <link href="https://twitter.com/DSL2140/status/1633022129502572544"/>
-        <updated>2023-03-07T08:29:50.000Z</updated>
-        <summary type="html"><![CDATA[RT 大圣灵
-重新做了个知识整理，方便大家查看，希望对大家有所帮助，大家记得收藏转发噢~
-🎁新人礼包
-🌟小白基础
-🌟投资逻辑
-🌟交易秘诀
-🌟NFT数藏
-🌟撸毛系列
-🌟工具分享
- 如下🧵👇]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[通用汽车，巨大的泵 什么时候去月亮？ https://t.co/TRit4u6bHD]]></title>
         <id>https://twitter.com/8848Community/status/1632980668388106240</id>
         <link href="https://twitter.com/8848Community/status/1632980668388106240"/>
@@ -1079,11 +1054,11 @@ https://medium.com/silent-protocol/ezee-the-final-answer-to-the-tango-between-pr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$sis 空投了 https://twitter.com/symbiosis_fi/status/1631665736690307072]]></title>
+        <title type="html"><![CDATA[$sis 空投了]]></title>
         <id>https://twitter.com/8848Community/status/1632752683068305408</id>
         <link href="https://twitter.com/8848Community/status/1632752683068305408"/>
         <updated>2023-03-06T14:39:09.000Z</updated>
-        <summary type="html"><![CDATA[$sis 空投了 https://twitter.com/symbiosis_fi/status/1631665736690307072
+        <summary type="html"><![CDATA[$sis 空投了
 
 Symbiosis: Listen up, Symbotes! #RETRODROP ALERT 👾
 You have been with us for a very long time, so we decided to celebrate this! 💥
