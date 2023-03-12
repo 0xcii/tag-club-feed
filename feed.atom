@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T13:16:58.884Z</id>
+    <id>urn:2023-03-12T14:11:32.025Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-12T13:16:58.884Z</updated>
+    <updated>2023-03-12T14:11:32.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/IOSGVC/status/1634824083308421121]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634872632272199681</id>
-        <link href="https://twitter.com/wublockchain12/status/1634872632272199681"/>
-        <updated>2023-03-12T11:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/IOSGVC/status/1634824083308421121
-
-IOSG Ventures: Regarding the current turbulence after the SVB shutdown:
-The collateral damage has extended and led to the depeg of USDC, wherein, IOSG Ventures has never made any USDC exchanges in the past 7 days and we have zero exposures to both SVB and Silvergate.
-Keep decentralization!]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，针对近期社区 IOSG 相关地址频繁进行交易的传闻，IOSG 创始人 Jocy 回应，IOSG 没有 SVB 和 Silvergate 的敞口，在过去 7 天也没有进行任何 USDC 的交...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1634872488411938816</id>
-        <link href="https://twitter.com/wublockchain12/status/1634872488411938816"/>
-        <updated>2023-03-12T11:02:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，针对近期社区 IOSG 相关地址频繁进行交易的传闻，IOSG 创始人 Jocy 回应，IOSG 没有 SVB 和 Silvergate 的敞口，在过去 7 天也没有进行任何 USDC 的交易。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re OKX 也宣布将于3月12日16:00(HKT)推出 USDC/USDT 永续合约，该合约最高杠杆倍数20倍。https://www.okx.com/support/hc/zh-cn/articles/13923310709389]]></title>
         <id>https://twitter.com/wublockchain12/status/1634839782504427523</id>
@@ -583,6 +559,16 @@ Replenish reserves Monday, peg restored, sivb finds a home, we back]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/Yos1f8URPR]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634565006779125762</id>
+        <link href="https://twitter.com/wublockchain12/status/1634565006779125762"/>
+        <updated>2023-03-11T14:40:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/Yos1f8URPR]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT light: Without harming others with your shitty model, easy way to figure out that USDC at ~0.9 is likely a +EV buy — hard to imagine a market comp...]]></title>
         <id>https://twitter.com/lightcrypto/status/1634562434903216128</id>
         <link href="https://twitter.com/lightcrypto/status/1634562434903216128"/>
@@ -632,6 +618,16 @@ This just in! According to the crew, the portals are ready & on March 14th at 14
 Comment ur fave emoji to let us know you’re ready 🙋⤵️ https://t.co/jcauxqVGKL]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，MakerDAO 发起针对 USDC 的紧急提案，限制 Maker 对可能受损的稳定币和其他风险抵押品的风险敞口，同时保持足够的流动性以防止 DAI 在情况发生变化时...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1634535952105324544</id>
+        <link href="https://twitter.com/wublockchain12/status/1634535952105324544"/>
+        <updated>2023-03-11T12:45:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，MakerDAO 发起针对 USDC 的紧急提案，限制 Maker 对可能受损的稳定币和其他风险抵押品的风险敞口，同时保持足够的流动性以防止 DAI 在情况发生变化时交易价格显着高于 1 美元，并确保有足够的市场流动性来处理加密货币抵押金库的潜在清算。https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
