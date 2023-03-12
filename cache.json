@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1634872632272199681",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/IOSGVC/status/1634824083308421121\n\nIOSG Ventures: Regarding the current turbulence after the SVB shutdown:\nThe collateral damage has extended and led to the depeg of USDC, wherein, IOSG Ventures has never made any USDC exchanges in the past 7 days and we have zero exposures to both SVB and Silvergate.\nKeep decentralization!",
+          "link": "https://twitter.com/wublockchain12/status/1634872632272199681",
+          "publishedOn": "2023-03-12T11:03:04.000Z",
+          "wordCount": 513,
+          "title": "Re https://twitter.com/IOSGVC/status/1634824083308421121",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1634872488411938816",
+          "author": "吴说区块链",
+          "description": "吴说获悉，针对近期社区 IOSG 相关地址频繁进行交易的传闻，IOSG 创始人 Jocy 回应，IOSG 没有 SVB 和 Silvergate 的敞口，在过去 7 天也没有进行任何 USDC 的交易。",
+          "link": "https://twitter.com/wublockchain12/status/1634872488411938816",
+          "publishedOn": "2023-03-12T11:02:30.000Z",
+          "wordCount": 513,
+          "title": "吴说获悉，针对近期社区 IOSG 相关地址频繁进行交易的传闻，IOSG 创始人 Jocy 回应，IOSG 没有 SVB 和 Silvergate 的敞口，在过去 7 天也没有进行任何 USDC 的交...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1634839782504427523",
           "author": "吴说区块链",
           "description": "Re OKX 也宣布将于3月12日16:00(HKT)推出 USDC/USDT 永续合约，该合约最高杠杆倍数20倍。https://www.okx.com/support/hc/zh-cn/articles/13923310709389",
@@ -101,7 +121,7 @@
           "description": "吴说获悉，CoinShares 博客发文指出，在听取 Grayscale 和 SEC 的口头辩论后，认为上诉法院不太可能推翻 SEC 的决定，即将 GBTC 转变为现货 ETF。三名法官中两名是民主党人，从意识形态的角度来看，他们干预 SEC 决策的可能性要小得多。阅读全文：https://blog.coinshares.com/our-view-on-grayscale-vs-the-sec-cfa552c45d22",
           "link": "https://twitter.com/wublockchain12/status/1634748901310754816",
           "publishedOn": "2023-03-12T02:51:24.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "吴说获悉，CoinShares 博客发文指出，在听取 Grayscale 和 SEC 的口头辩论后，认为上诉法院不太可能推翻 SEC 的决定，即将 GBTC 转变为现货 ETF。三名法官中两名...",
           "imageUrl": null
         },
@@ -131,7 +151,7 @@
           "description": "吴说获悉，因对 SVB 破产波及 USDC 的恐慌，昨日稳定币交易活跃，带动了 DEX、借贷等协议费用大幅增长。据 CryptoFees info 数据，Uniswap 费用超过 870 万美元，是自去年 5 月 12 日以来高点；Curve 费用超过 95 万美元，是自去年 11 月 10 日以来高点；Aave https://cryptofees.info/… https://twitter.com/i/web/status/1634739634826534912 https://t.co/GXiJEelO9E",
           "link": "https://twitter.com/wublockchain12/status/1634739634826534912",
           "publishedOn": "2023-03-12T02:14:35.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "吴说获悉，因对 SVB 破产波及 USDC 的恐慌，昨日稳定币交易活跃，带动了 DEX、借贷等协议费用大幅增长。据 CryptoFees info 数据，Uniswap 费用超过 870 万美元...",
           "imageUrl": null
         },
@@ -183,26 +203,6 @@
           "publishedOn": "2023-03-11T15:01:15.000Z",
           "wordCount": 513,
           "title": "观点：USDC 的命运可能取决于硅谷银行能否被收购（作者 @wildPiPiLu）如果有大型金融机构最终选择收购硅谷银行，那么硅谷银行和Circle面临的挤兑狂潮也就迎刃而...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1634565006779125762",
-          "author": "吴说区块链",
-          "description": "吴说每日晚报 https://t.co/Yos1f8URPR",
-          "link": "https://twitter.com/wublockchain12/status/1634565006779125762",
-          "publishedOn": "2023-03-11T14:40:41.000Z",
-          "wordCount": 513,
-          "title": "吴说每日晚报 https://t.co/Yos1f8URPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1634535952105324544",
-          "author": "吴说区块链",
-          "description": "吴说获悉，MakerDAO 发起针对 USDC 的紧急提案，限制 Maker 对可能受损的稳定币和其他风险抵押品的风险敞口，同时保持足够的流动性以防止 DAI 在情况发生变化时交易价格显着高于 1 美元，并确保有足够的市场流动性来处理加密货币抵押金库的潜在清算。https://forum.makerdao.com/t/emergency-proposal-risk-and-governance-parameter-changes-11-march-2023/20125",
-          "link": "https://twitter.com/wublockchain12/status/1634535952105324544",
-          "publishedOn": "2023-03-11T12:45:13.000Z",
-          "wordCount": 513,
-          "title": "吴说获悉，MakerDAO 发起针对 USDC 的紧急提案，限制 Maker 对可能受损的稳定币和其他风险抵押品的风险敞口，同时保持足够的流动性以防止 DAI 在情况发生变化时...",
           "imageUrl": null
         }
       ]
@@ -422,11 +422,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1634761483824533506",
           "author": "链求君 | (C,C)",
-          "description": "哈哈\n\n链游小捕手 CHAOS 🦇🔊: 说脱锚快跑的是你，说抄底挣了的还是你🥲合着好事全让你占了 https://t.co/p9YNX4t8WL",
+          "description": "哈哈 https://twitter.com/iamyourchaos/status/1634757929306841088\n\n链游小捕手 CHAOS 🦇🔊: 说脱锚快跑的是你，说抄底挣了的还是你🥲合着好事全让你占了 https://t.co/p9YNX4t8WL",
           "link": "https://twitter.com/AntCaveClub/status/1634761483824533506",
           "publishedOn": "2023-03-12T03:41:24.000Z",
           "wordCount": 513,
-          "title": "哈哈",
+          "title": "哈哈 https://twitter.com/iamyourchaos/status/1634757929306841088",
           "imageUrl": null
         },
         {
@@ -482,11 +482,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1634257869339258887",
           "author": "链求君 | (C,C)",
-          "description": "推出新功能， 可实现链上数据的webhook推送。\n\nAlchemy | The web3 developer platform: Millions of events happen everyday across blockchains \nCreating tons of valuable data that can enhance your app \nBut sifting through the sea of real-time events has been essentially impossible\nUntil now…\nIntroducing Alchemy Notify’s Custom Webhooks https://t.co/10G52d0JFv",
+          "description": "推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016\n\nAlchemy | The web3 developer platform: Millions of events happen everyday across blockchains \nCreating tons of valuable data that can enhance your app \nBut sifting through the sea of real-time events has been essentially impossible\nUntil now…\nIntroducing Alchemy Notify’s Custom Webhooks https://t.co/10G52d0JFv",
           "link": "https://twitter.com/AntCaveClub/status/1634257869339258887",
           "publishedOn": "2023-03-10T18:20:13.000Z",
           "wordCount": 513,
-          "title": "推出新功能， 可实现链上数据的webhook推送。",
+          "title": "推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016",
           "imageUrl": null
         },
         {
@@ -542,11 +542,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1633436383774900224",
           "author": "链求君 | (C,C)",
-          "description": "😳😳😳  这个真猛\n\n0xskrr: Celt刚完 这波KOL又开始忽悠了喽\n这几个账号来源同个刷粉工作室\nMD 別问我怎么知道🙂\n@qklxsqf \n@xincctnnq \n@EinsteinYipie \n@Atirisvvvvv \n@JackGui14 https://t.co/IyZvCuYGbn",
+          "description": "😳😳😳  这个真猛 https://twitter.com/DegenPub/status/1633429821031325704\n\n0xskrr: Celt刚完 这波KOL又开始忽悠了喽\n这几个账号来源同个刷粉工作室\nMD 別问我怎么知道🙂\n@qklxsqf \n@xincctnnq \n@EinsteinYipie \n@Atirisvvvvv \n@JackGui14 https://t.co/IyZvCuYGbn",
           "link": "https://twitter.com/AntCaveClub/status/1633436383774900224",
           "publishedOn": "2023-03-08T11:55:56.000Z",
           "wordCount": 513,
-          "title": "😳😳😳 这个真猛",
+          "title": "😳😳😳 这个真猛 https://twitter.com/DegenPub/status/1633429821031325704",
           "imageUrl": null
         },
         {
@@ -585,7 +585,7 @@
           "description": "Re @liangxied 然后还发给你。",
           "link": "https://twitter.com/AntCaveClub/status/1633293311791484931",
           "publishedOn": "2023-03-08T02:27:25.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Re @liangxied 然后还发给你。",
           "imageUrl": null
         },
@@ -605,7 +605,7 @@
           "description": "RT Watcher.Guru\nJUST IN: #Binance US gains court approval to acquire bankrupt crypto lender Voyager Digital's assets for $1 billion.",
           "link": "https://twitter.com/WatcherGuru/status/1633227717360459776",
           "publishedOn": "2023-03-07T22:06:46.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "RT Watcher.Guru: JUST IN: #Binance US gains court approval to acquire bankrupt crypto lender Voyager Digital's assets for $1 billion.",
           "imageUrl": null
         },
@@ -639,7 +639,7 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1634646148576165889",
           "author": "DeFi Educator",
-          "description": "In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way for the betterment of society. \nThe alternative is an Orwellian distopy https://twitter.com/punk6529/status/1634638343005777920\n\n6529: 1/ The Global Digital Rights Charter v1 (GDRC 1) is now live.\nIt is a declaration of principles for a world that is highly digital and more so every day.\nPrinciples for how we will live for the next 100 years.",
+          "description": "In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way for the betterment of society. \nThe alternative is an Orwellian distopy\n\n6529: 1/ The Global Digital Rights Charter v1 (GDRC 1) is now live.\nIt is a declaration of principles for a world that is highly digital and more so every day.\nPrinciples for how we will live for the next 100 years.",
           "link": "https://twitter.com/DeFi_educator/status/1634646148576165889",
           "publishedOn": "2023-03-11T20:03:06.000Z",
           "wordCount": 513,
@@ -659,11 +659,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1634619034095288321",
           "author": "DeFi Educator",
-          "description": "👀 https://twitter.com/delete_shitcoin/status/1541642361033203712\n\n☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️: Watch them implode USDC out of pure spite. I am calling it.",
+          "description": "👀\n\n☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️: Watch them implode USDC out of pure spite. I am calling it.",
           "link": "https://twitter.com/DeFi_educator/status/1634619034095288321",
           "publishedOn": "2023-03-11T18:15:22.000Z",
           "wordCount": 513,
-          "title": "👀 https://twitter.com/delete_shitcoin/status/1541642361033203712",
+          "title": "👀",
           "imageUrl": null
         },
         {
@@ -739,7 +739,7 @@
         {
           "id": "https://twitter.com/balajis/status/1634553488700223488",
           "author": "DeFi Educator",
-          "description": "RT Balaji\nThinking this through, it’s the type of government-caused crisis that could lead to a CBDC.\nBecause I don’t know how businesses could practically operate with only a $250k max in each account.\nThey’d have to keep buying and selling T-bills. Instead they’d want to somehow send… https://twitter.com/i/web/status/1634553488700223488\n\nNaval: If businesses lose money on deposit, then every business in the country will move all cash above $250K into Treasuries and we’ll have a system-wide bank run at Twitter speed. \nThey’ll tell their banker, “the only counterparty I want is the US Treasury.” https://twitter.com/DavidSacks/status/1634292056821764099",
+          "description": "RT Balaji\nThinking this through, it’s the type of government-caused crisis that could lead to a CBDC.\nBecause I don’t know how businesses could practically operate with only a $250k max in each account.\nThey’d have to keep buying and selling T-bills. Instead they’d want to somehow send… https://twitter.com/i/web/status/1634553488700223488\n\nNaval: If businesses lose money on deposit, then every business in the country will move all cash above $250K into Treasuries and we’ll have a system-wide bank run at Twitter speed. \nThey’ll tell their banker, “the only counterparty I want is the US Treasury.”",
           "link": "https://twitter.com/balajis/status/1634553488700223488",
           "publishedOn": "2023-03-11T13:54:54.000Z",
           "wordCount": 513,
@@ -759,20 +759,20 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1634529328389038081",
           "author": "DeFi Educator",
-          "description": "LONG $USDC you fucking apes https://twitter.com/Crypto_Joe10/status/1634522344034033664\n\nCryptoJoe: Why you should buy $0.90 for $1\nA USDC 🧵 https://t.co/Aqtb6YqN5r",
+          "description": "LONG $USDC you fucking apes\n\nCryptoJoe: Why you should buy $0.90 for $1\nA USDC 🧵 https://t.co/Aqtb6YqN5r",
           "link": "https://twitter.com/DeFi_educator/status/1634529328389038081",
           "publishedOn": "2023-03-11T12:18:54.000Z",
-          "wordCount": 476,
-          "title": "LONG $USDC you fucking apes https://twitter.com/Crypto_Joe10/status/1634522344034033664",
+          "wordCount": 513,
+          "title": "LONG $USDC you fucking apes",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/DeFi_educator/status/1634527271913488384",
           "author": "DeFi Educator",
-          "description": "Be like Vitalik and swap your usdt back to USDC. \nGreat R/R. \nMarket is completely irrational. \nAt most there's a $3.3bn hole in circles reserves, which means it should be worth >0.95 USDT... On monday peg will be restored... \nFree money https://twitter.com/lookonchain/status/1634503239856168960\n\nLookonchain: vitalik.eth(@VitalikButerin) exchanged 500 $ETH for 150,000 $RAI, then exchanged 150,000 $RAI for 400,359 $USDC and 27,179 $DAI.\nhttps://debank.com/profile/0xd8da6bf26964af9d7eed9e03e53415d37aa96045/history?chain=eth&token= https://twitter.com/i/web/status/1634503239856168960 https://t.co/uJFxO5UFsn",
+          "description": "Be like Vitalik and swap your usdt back to USDC. \nGreat R/R. \nMarket is completely irrational. \nAt most there's a $3.3bn hole in circles reserves, which means it should be worth >0.95 USDT... On monday peg will be restored... \nFree money\n\nLookonchain: vitalik.eth(@VitalikButerin) exchanged 500 $ETH for 150,000 $RAI, then exchanged 150,000 $RAI for 400,359 $USDC and 27,179 $DAI.\nhttps://debank.com/profile/0xd8da6bf26964af9d7eed9e03e53415d37aa96045/history?chain=eth&token= https://twitter.com/i/web/status/1634503239856168960 https://t.co/uJFxO5UFsn",
           "link": "https://twitter.com/DeFi_educator/status/1634527271913488384",
           "publishedOn": "2023-03-11T12:10:44.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Be like Vitalik and swap your usdt back to USDC. Great R/R. Market is completely irrational. At most there's a $3.3bn hole in circles reserves, which ...",
           "imageUrl": null
         },
@@ -839,7 +839,7 @@
           "description": "Doom poasting getting tons of engagement again.    Have seen calls for USDC to go to zero (lol).   Seems like UST/FTX PTSD driving people to lose their minds.",
           "link": "https://twitter.com/OnChainWizard/status/1634623002376654850",
           "publishedOn": "2023-03-11T18:31:08.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Doom poasting getting tons of engagement again. Have seen calls for USDC to go to zero (lol). Seems like UST/FTX PTSD driving people to lose their min...",
           "imageUrl": null
         },
@@ -889,7 +889,7 @@
           "description": "RT DeFi Surfer\nNew Substack - \nBinance Smart Chain: Sleeping Giant\nIs it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bustling Ecosystem?\nhttps://defisurfer808.substack.com/p/binance-smart-chain-sleeping-giant?sd=pf",
           "link": "https://twitter.com/DeFiSurfer808/status/1630029636116840449",
           "publishedOn": "2023-02-27T02:18:44.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "RT DeFi Surfer: New Substack - Binance Smart Chain: Sleeping Giant Is it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bus...",
           "imageUrl": null
         },
@@ -1029,7 +1029,7 @@
           "description": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=twitter&utm_campaign=auto_share&r=1f6sdv",
           "link": "https://twitter.com/OnChainWizard/status/1624785801950158848",
           "publishedOn": "2023-02-12T15:01:36.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=...",
           "imageUrl": null
         }
@@ -1086,7 +1086,7 @@
           "description": "I personally think USDC stuff overblown.\nThey’re good for the money. Peg restored Monday, CT forgets about it in a couple weeks.\nSeems bigger risk is does SIVB kick off more bank runs…",
           "link": "https://twitter.com/DeFiSurfer808/status/1634695223451467778",
           "publishedOn": "2023-03-11T23:18:07.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "I personally think USDC stuff overblown. They’re good for the money. Peg restored Monday, CT forgets about it in a couple weeks. Seems bigger risk is...",
           "imageUrl": null
         },
@@ -1226,7 +1226,7 @@
           "description": "Seems reasonable likelihood USDC issues resolve Monday.",
           "link": "https://twitter.com/DeFiSurfer808/status/1634603482635436032",
           "publishedOn": "2023-03-11T17:13:34.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "Seems reasonable likelihood USDC issues resolve Monday.",
           "imageUrl": null
         },
