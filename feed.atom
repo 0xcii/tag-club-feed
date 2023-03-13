@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T06:18:32.765Z</id>
+    <id>urn:2023-03-13T07:13:33.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-13T06:18:32.765Z</updated>
+    <updated>2023-03-13T07:13:33.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊 zk-rollup 隐私解决方案 Aztec 今日发文宣布将关闭其旗下的隐私基础设施 Aztec Connect，从今日起一周内，http://zk.money 等应用将停止存款功...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635146315436036097</id>
+        <link href="https://twitter.com/wublockchain12/status/1635146315436036097"/>
+        <updated>2023-03-13T05:10:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊 zk-rollup 隐私解决方案 Aztec 今日发文宣布将关闭其旗下的隐私基础设施 Aztec Connect，从今日起一周内，http://zk.money 等应用将停止存款功能，用户在一年内，仍能免费将资金提现。2024 年 3 月 21… https://twitter.com/i/web/status/1635146315436036097]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @safetyth1rd Might’ve been right on this but man was I wrong about signature 😞]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1635144583880540160</id>
@@ -36,6 +46,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，CZ 表示，鉴于稳定币和银行的变化，Binance 将把剩余的 10 亿美元行业复苏计划基金从 BUSD 转换为原生加密货币，包括BTC、BNB和 ETH。一些资金流动将...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635134823718346752</id>
+        <link href="https://twitter.com/wublockchain12/status/1635134823718346752"/>
+        <updated>2023-03-13T04:24:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CZ 表示，鉴于稳定币和银行的变化，Binance 将把剩余的 10 亿美元行业复苏计划基金从 BUSD 转换为原生加密货币，包括BTC、BNB和 ETH。一些资金流动将发生在链上。https://twitter.com/cz_binance/status/1635131601884700674
+
+CZ 🔶 Binance: Given the changes in stable coins and banks, #Binance will convert the remaining of the $1 billion Industry Recovery Initiative funds from BUSD to native crypto, including #BTC, #BNB and ETH. Some fund movements will occur on-chain. Transparency.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @sanyuan2016 还是老哥你会玩, 明天啥打算?]]></title>
         <id>https://twitter.com/AntCaveClub/status/1635134470457266176</id>
         <link href="https://twitter.com/AntCaveClub/status/1635134470457266176"/>
@@ -46,11 +68,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good f’ing question https://twitter.com/dystopiabreaker/status/1635126573555941378]]></title>
+        <title type="html"><![CDATA[Good f’ing question]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1635132609499140096</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1635132609499140096"/>
         <updated>2023-03-13T04:16:08.000Z</updated>
-        <summary type="html"><![CDATA[Good f’ing question https://twitter.com/dystopiabreaker/status/1635126573555941378
+        <summary type="html"><![CDATA[Good f’ing question
 
 ⚡🌙: why was silvergate’s FHLB loan withdrawn suddenly?
 why are they in voluntary liquidation instead of being acquired or otherwise reintegrated as is typical?
@@ -98,11 +120,23 @@ https://zk.money/]]></summary>
         <link href="https://twitter.com/DeFiSurfer808/status/1635125668756480000"/>
         <updated>2023-03-13T03:48:33.000Z</updated>
         <summary type="html"><![CDATA[Lot of smaller banks want in on that crypto action.
-Imagine outside of super hostile regulatory states like New York and California there’s less risk the state will shut you down. https://twitter.com/jerallaire/status/1635114973830725633
+Imagine outside of super hostile regulatory states like New York and California there’s less risk the state will shut you down.
 
 Jeremy Allaire: Circle’s USDC operations will open for business on Monday morning, including with new automated settlement via our new partnership with Cross River Bank. https://www.circle.com/en/pressroom/3.3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes https://twitter.com/i/web/status/1635114973830725633]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Circle 宣布将与 Cross River Bank 的新合作伙伴关系进行新的自动结算。由于 Signature Bank 被关闭，Circle 更换了具有自动铸造和赎回功能的新交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635123099485208577</id>
+        <link href="https://twitter.com/wublockchain12/status/1635123099485208577"/>
+        <updated>2023-03-13T03:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Circle 宣布将与 Cross River Bank 的新合作伙伴关系进行新的自动结算。由于 Signature Bank 被关闭，Circle 更换了具有自动铸造和赎回功能的新交易银行合作伙伴。Cross River Bank 也是一家美国加密友好银行，Coinbase 是其客户之一。https://twitter.com/jerallaire/status/1635114973830725633
+
+Jeremy Allaire: Circle’s USDC operations will open for business on Monday morning, including with new automated settlement via our new partnership with Cross River Bank. https://www.circle.com/en/pressroom/3.3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes https://twitter.com/i/web/status/1635114973830725633]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -162,11 +196,11 @@ Find tooling links here: https://kaustinen.ethpandaops.io https://t.co/CxjGKCdU8
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unreal]]></title>
+        <title type="html"><![CDATA[Unreal https://twitter.com/watcherguru/status/1635106847882625024]]></title>
         <id>https://twitter.com/DeFi_educator/status/1635116003184226305</id>
         <link href="https://twitter.com/DeFi_educator/status/1635116003184226305"/>
         <updated>2023-03-13T03:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Unreal
+        <summary type="html"><![CDATA[Unreal https://twitter.com/watcherguru/status/1635106847882625024
 
 Watcher.Guru: In 2022, Jim Cramer said "you could make a lot of money" with Signature Bank $SBNY. 
 Today, the bank was shut down by regulators, making it the 3rd largest banking failure in US history. https://t.co/8QZvcCXjuv]]></summary>
@@ -207,11 +241,11 @@ Up 10%. https://t.co/kwj8l9vDHW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Based Kraken https://twitter.com/krakenfx/status/1635110555399917568]]></title>
+        <title type="html"><![CDATA[Based Kraken]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1635111696271568897</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1635111696271568897"/>
         <updated>2023-03-13T02:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Based Kraken https://twitter.com/krakenfx/status/1635110555399917568
+        <summary type="html"><![CDATA[Based Kraken
 
 Kraken Exchange: 3/3 Operation Chokepoint 2.0 might have overplayed its hand this time but the threat remains. They will continue to attack the rails, products and companies facilitating direct crypto ownership and DeFi use.
 The People's Money is our peaceful revolution.
@@ -413,44 +447,6 @@ In many ways, crypto has become officially unbanked - sans the big guns.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，CZ 发表观点称，如果对银行进行救助，通过稀释所有公民来“保护消费者”，那么银行管理风险的动力为零。一旦你做了一次救助，你就会陷入进退两难的境...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635061919198629888</id>
-        <link href="https://twitter.com/wublockchain12/status/1635061919198629888"/>
-        <updated>2023-03-12T23:35:14.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CZ 发表观点称，如果对银行进行救助，通过稀释所有公民来“保护消费者”，那么银行管理风险的动力为零。一旦你做了一次救助，你就会陷入进退两难的境地。 https://twitter.com/cz_binance/status/1634991068843311110
-
-CZ 🔶 Binance: Once you do one bailout, you end up in a dilemma.
-If you don't bailout this time, why not? You were suppose to. To "protect consumers", by diluting all your citizens.
-If you do bailouts, then banks have 0 incentive to manage risk. It would be stupid not to take max risk for max… https://twitter.com/i/web/status/1634991068843311110]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 随着今晚宣布关闭 Signature 银行，我们将无法通过 SigNet 处理铸造和赎回，将依靠纽约梅隆银行的结算。最快明天将引入一个具有自动铸造和赎回功能的新交易银...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635060319029694464</id>
-        <link href="https://twitter.com/wublockchain12/status/1635060319029694464"/>
-        <updated>2023-03-12T23:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 随着今晚宣布关闭 Signature 银行，我们将无法通过 SigNet 处理铸造和赎回，将依靠纽约梅隆银行的结算。最快明天将引入一个具有自动铸造和赎回功能的新交易银行合作伙伴。https://twitter.com/jerallaire/status/1635059024050937856
-
-Jeremy Allaire: Update thread on USDC
-We were heartened to see the US government and financial regulators take crucial steps to mitigate risks extending from the fractional banking system.
-100% of deposits from SVB are secure and will be available at banking open tomorrow.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Circle 表示，很高兴看到美国政府和金融监管机构采取关键措施来减轻部分银行系统带来的风险。来自 SVB 的 100% 存款是安全的。100% 的 USDC 储备金也...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635060286427381763</id>
-        <link href="https://twitter.com/wublockchain12/status/1635060286427381763"/>
-        <updated>2023-03-12T23:28:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Circle 表示，很高兴看到美国政府和金融监管机构采取关键措施来减轻部分银行系统带来的风险。来自 SVB 的 100% 存款是安全的。100% 的 USDC 储备金也是安全可靠的，将把剩余的 SVB 现金转移到 BNY Mellon。USDC 的流动性操作将在周一银行开门时恢复。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Clearly Murdered Signature: This feels so targeted just threw in a hey let’s close signature while we’re at it]]></title>
         <id>https://twitter.com/cmsholdings/status/1635047026332434433</id>
         <link href="https://twitter.com/cmsholdings/status/1635047026332434433"/>
@@ -492,11 +488,11 @@ This feels so targeted just threw in a hey let’s close signature while we’re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big if true 👀 https://twitter.com/nanixbt/status/1634991637398171649]]></title>
+        <title type="html"><![CDATA[Big if true 👀]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1635020808509882369</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1635020808509882369"/>
         <updated>2023-03-12T20:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Big if true 👀 https://twitter.com/nanixbt/status/1634991637398171649
+        <summary type="html"><![CDATA[Big if true 👀
 
 nani: 1/ The situation in Ethereum could get real ugly. If $ETH would be worth same as my farts it would put price of $ETH around $10.]]></summary>
         <author>
@@ -577,12 +573,12 @@ Imagine being bearish right now]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Key point 👇👇👇 Crypto stablecoins depeg all the time. USDC will be stronger for this https://twitter.com/0xdoug/status/1634946648416854018]]></title>
+        <title type="html"><![CDATA[Key point 👇👇👇 Crypto stablecoins depeg all the time. USDC will be stronger for this]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1634966676101025792</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1634966676101025792"/>
         <updated>2023-03-12T17:16:46.000Z</updated>
         <summary type="html"><![CDATA[Key point 👇👇👇
-Crypto stablecoins depeg all the time. USDC will be stronger for this https://twitter.com/0xdoug/status/1634946648416854018
+Crypto stablecoins depeg all the time. USDC will be stronger for this
 
 Doug Colkitt (🐊,🐊): Everybody saying a stablecoin depegging to 95 cents for a weekend means nobody will use it ever again...
 Kinda forgetting when UST depegged for a few days then 5X'd TVL in the next year, despite the depegging itself being explicitly caused by it being a non-collateralized ponzi]]></summary>
@@ -601,11 +597,11 @@ Kinda forgetting when UST depegged for a few days then 5X'd TVL in the next year
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hilarious that USDT and Binance seem to be getting stronger thru all this. https://twitter.com/thecryptodog/status/1634770113994842112]]></title>
+        <title type="html"><![CDATA[Hilarious that USDT and Binance seem to be getting stronger thru all this.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1634965637595561984</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1634965637595561984"/>
         <updated>2023-03-12T17:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Hilarious that USDT and Binance seem to be getting stronger thru all this. https://twitter.com/thecryptodog/status/1634770113994842112
+        <summary type="html"><![CDATA[Hilarious that USDT and Binance seem to be getting stronger thru all this.
 
 The Crypto Dog📈: I trust BTC, USDT, and God.]]></summary>
         <author>
@@ -675,7 +671,7 @@ On top of that downside is pretty limited if you do the DD, stay rational, very 
         <link href="https://twitter.com/DeFi_educator/status/1634646148576165889"/>
         <updated>2023-03-11T20:03:06.000Z</updated>
         <summary type="html"><![CDATA[In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way for the betterment of society. 
-The alternative is an Orwellian distopy
+The alternative is an Orwellian distopy https://twitter.com/punk6529/status/1634638343005777920
 
 6529: 1/ The Global Digital Rights Charter v1 (GDRC 1) is now live.
 It is a declaration of principles for a world that is highly digital and more so every day.
@@ -708,11 +704,11 @@ Principles for how we will live for the next 100 years.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀]]></title>
+        <title type="html"><![CDATA[👀 https://twitter.com/delete_shitcoin/status/1541642361033203712]]></title>
         <id>https://twitter.com/DeFi_educator/status/1634619034095288321</id>
         <link href="https://twitter.com/DeFi_educator/status/1634619034095288321"/>
         <updated>2023-03-11T18:15:22.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <summary type="html"><![CDATA[👀 https://twitter.com/delete_shitcoin/status/1541642361033203712
 
 ☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️: Watch them implode USDC out of pure spite. I am calling it.]]></summary>
         <author>
@@ -770,7 +766,7 @@ Because I don’t know how businesses could practically operate with only a $250
 They’d have to keep buying and selling T-bills. Instead they’d want to somehow send… https://twitter.com/i/web/status/1634553488700223488
 
 Naval: If businesses lose money on deposit, then every business in the country will move all cash above $250K into Treasuries and we’ll have a system-wide bank run at Twitter speed. 
-They’ll tell their banker, “the only counterparty I want is the US Treasury.”]]></summary>
+They’ll tell their banker, “the only counterparty I want is the US Treasury.” https://twitter.com/DavidSacks/status/1634292056821764099]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
