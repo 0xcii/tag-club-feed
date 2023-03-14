@@ -21,7 +21,7 @@
           "description": "Re 第三批 3.46 亿 USDC 已销毁。此外有超过 8 亿 USDC 转入 Coinbase，疑似兑换为美金。Coinbase 宣布USDC：美元兑换已恢复，现在可通过 API 和 UI 正常运行。https://whale-alert.io/transaction/ethereum/0xcef0607f97adc5491b8e40003da1c66dcf2d7dda9405dfe1306fc202f014c1e2",
           "link": "https://twitter.com/wublockchain12/status/1635296518839369735",
           "publishedOn": "2023-03-13T15:07:27.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Re 第三批 3.46 亿 USDC 已销毁。此外有超过 8 亿 USDC 转入 Coinbase，疑似兑换为美金。Coinbase 宣布USDC：美元兑换已恢复，现在可通过 API 和 UI 正常运行。h...",
           "imageUrl": null
         },
@@ -38,7 +38,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1635281633053114370",
           "author": "吴说区块链",
-          "description": "吴说获悉，据 BlockSec 分析，Euler 本次被盗的根本原因是由于在 donateToReserves() 函数中缺少对流动性（健康系数）的检查。黑客的攻击逻辑大致如下：1、从 Aave 闪电贷 $30M DAI；2、往 Euler 存入 20M 并获得等额抵押品通证 eDAI；3、利用 Euler 的杠杆借贷，黑客可铸造 195M eDAI 和 200M… https://twitter.com/i/web/status/1635281633053114370\n\nBlockSec: 1/ @eulerfinance is attacked. The root cause is due to the lack of liquidity check in the function donateToReserves()\nhttps://phalcon.xyz/tx/eth/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d?line=471&debugLine=471\nSee the detailed attack steps below. https://twitter.com/BlockSecTeam/status/1635204706703384577 https://t.co/TDbYuzVWHe",
+          "description": "吴说获悉，据 BlockSec 分析，Euler 本次被盗的根本原因是由于在 donateToReserves() 函数中缺少对流动性（健康系数）的检查。黑客的攻击逻辑大致如下：1、从 Aave 闪电贷 $30M DAI；2、往 Euler 存入 20M 并获得等额抵押品通证 eDAI；3、利用 Euler 的杠杆借贷，黑客可铸造 195M eDAI 和 200M… https://twitter.com/i/web/status/1635281633053114370\n\nBlockSec: 1/ @eulerfinance is attacked. The root cause is due to the lack of liquidity check in the function donateToReserves()\nhttps://phalcon.xyz/tx/eth/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d?line=471&debugLine=471\nSee the detailed attack steps below. https://t.co/TDbYuzVWHe",
           "link": "https://twitter.com/wublockchain12/status/1635281633053114370",
           "publishedOn": "2023-03-13T14:08:18.000Z",
           "wordCount": 513,
@@ -118,7 +118,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1635264572994232321",
           "author": "吴说区块链",
-          "description": "Re https://twitter.com/ScopeProtocol/status/1635260868664651777?t=fYq06gtIxrXIJaR6Pd0Y6Q&s=19\n\n0xScope (🪬 . 🪬): The $USDC redemption just begin, 314M burn in 1 tx. https://twitter.com/0xwatchers/status/1635260260272463874",
+          "description": "Re https://twitter.com/ScopeProtocol/status/1635260868664651777?t=fYq06gtIxrXIJaR6Pd0Y6Q&s=19\n\n0xScope (🪬 . 🪬): The $USDC redemption just begin, 314M burn in 1 tx.",
           "link": "https://twitter.com/wublockchain12/status/1635264572994232321",
           "publishedOn": "2023-03-13T13:00:30.000Z",
           "wordCount": 513,
@@ -141,7 +141,7 @@
           "description": "吴说获悉，前贝宝创始人 Flex Yang 今日发推，宣布打造以原生加密资产作为储备的分布式稳定币 HOPE。HOPE 的初期储备池，将由 BTC 与 ETH 构成。HOPE 的短期目标是成为 DeFi、CeFi 与 TradFi 通用的保证金资产，长期目标成为一种无摩擦的支付工具，让每个人都可以透明安全地使用各类金融服务。HOPE… https://twitter.com/i/web/status/1635253177846231041\n\nFlex 🌕 @ HOPE: CEXs, lenders, and now banks, the space has been hit hard by the collapses of centralized players. We're being consistently reminded of the importance of crypto-nativeness and decentralization.\nOur answer is $HOPE⚡️, a distributed stablecoin.\n1/8 The https://hope.money/… https://twitter.com/i/web/status/1635249458844958720 https://t.co/C5OGaVlQ3a",
           "link": "https://twitter.com/wublockchain12/status/1635253177846231041",
           "publishedOn": "2023-03-13T12:15:13.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "吴说获悉，前贝宝创始人 Flex Yang 今日发推，宣布打造以原生加密资产作为储备的分布式稳定币 HOPE。HOPE 的初期储备池，将由 BTC 与 ETH 构成。HOPE 的短期目标...",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1635243726703570945",
           "author": "吴说区块链",
-          "description": "Re 吴说获悉，据 @nake13 采访 @Zac_Aztec 的内容，Aztec 回应关闭 Aztec Connect ：Aztec 未被监管机构联系，关闭是商业层面的考虑，且 Aztec Connect 的维护成本不低； 团队正专注于下一代默认隐私的可编程智能合约协议 Noir，仍然关注于 Layer2，而不是 Layer1；Noir 使用比特币风格的 UTXO… https://twitter.com/i/web/status/1635243726703570945\n\nZhixiong Pan: 作为 http://zk.money 第一批用户，感到非常遗憾。\n于是我采访了 @Zac_Aztec ，想了解公告之外的信息。\nTL;DR:\n1. Aztec 未被监管机构联系，关闭 Connect 是商业上的考虑；\n2. Aztec Connect 的维护成本不低；\n3. 仍然关注于 Layer2，而不是 Layer1。\n等等。\n全文：https://chainfeeds.substack.com/p/aztec-connect-l2-rollup https://twitter.com/aztecnetwork/status/1635211028727496705",
+          "description": "Re 吴说获悉，据 @nake13 采访 @Zac_Aztec 的内容，Aztec 回应关闭 Aztec Connect ：Aztec 未被监管机构联系，关闭是商业层面的考虑，且 Aztec Connect 的维护成本不低； 团队正专注于下一代默认隐私的可编程智能合约协议 Noir，仍然关注于 Layer2，而不是 Layer1；Noir 使用比特币风格的 UTXO… https://twitter.com/i/web/status/1635243726703570945\n\nZhixiong Pan: 作为 http://zk.money 第一批用户，感到非常遗憾。\n于是我采访了 @Zac_Aztec ，想了解公告之外的信息。\nTL;DR:\n1. Aztec 未被监管机构联系，关闭 Connect 是商业上的考虑；\n2. Aztec Connect 的维护成本不低；\n3. 仍然关注于 Layer2，而不是 Layer1。\n等等。\n全文：https://chainfeeds.substack.com/p/aztec-connect-l2-rollup",
           "link": "https://twitter.com/wublockchain12/status/1635243726703570945",
           "publishedOn": "2023-03-13T11:37:40.000Z",
           "wordCount": 513,
@@ -258,7 +258,7 @@
           "description": "巨大的泵面前，汽油不值一提 https://t.co/tq3eIsBnOW",
           "link": "https://twitter.com/8848Community/status/1635139078806196228",
           "publishedOn": "2023-03-13T04:41:50.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "巨大的泵面前，汽油不值一提 https://t.co/tq3eIsBnOW",
           "imageUrl": null
         },
@@ -268,7 +268,7 @@
           "description": "Aztec Network宣布将逐步关停DeFi隐私桥项目Aztec Connect\nhttps://medium.com/aztec-protocol/sunsetting-aztec-connect-a786edce5cae\n1年内时间把你存款取出来！大家记得取出来\nhttps://zk.money/",
           "link": "https://twitter.com/8848Community/status/1635127773814730753",
           "publishedOn": "2023-03-13T03:56:55.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Aztec Network宣布将逐步关停DeFi隐私桥项目Aztec Connect https://medium.com/aztec-protocol/sunsetting-aztec-connect-a786edce5cae 1年内时间把你存款取出来...",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "1/ 昨天一天：：卖了。我卖掉了我所有的一切。我拥有的每一枚硬币都不见了。我完全退出了加密货币市场，我再也受不了了。激进的倾销、操纵，一切都那么激烈。 https://t.co/Ts2IEXLqCd",
           "link": "https://twitter.com/AntCaveClub/status/1635315264496762888",
           "publishedOn": "2023-03-13T16:21:56.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "1/ 昨天一天：：卖了。我卖掉了我所有的一切。我拥有的每一枚硬币都不见了。我完全退出了加密货币市场，我再也受不了了。激进的倾销、操纵，一切都那么激烈。 ht...",
           "imageUrl": null
         },
@@ -565,7 +565,7 @@
           "description": "推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016\n\nAlchemy | The web3 developer platform: Millions of events happen everyday across blockchains \nCreating tons of valuable data that can enhance your app \nBut sifting through the sea of real-time events has been essentially impossible\nUntil now…\nIntroducing Alchemy Notify’s Custom Webhooks https://t.co/10G52d0JFv",
           "link": "https://twitter.com/AntCaveClub/status/1634257869339258887",
           "publishedOn": "2023-03-10T18:20:13.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016",
           "imageUrl": null
         },
@@ -575,7 +575,7 @@
           "description": "RT Nested 🧩\nIt's been a big week.\nIntroducing our new series where we summarise five important crypto stories you need to know about.\nThis week in crypto 🧵 https://t.co/8URkO3KTqI",
           "link": "https://twitter.com/NestedFi/status/1634240278201548800",
           "publishedOn": "2023-03-10T17:10:19.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "RT Nested 🧩: It's been a big week. Introducing our new series where we summarise five important crypto stories you need to know about. This week in...",
           "imageUrl": null
         },
@@ -585,7 +585,7 @@
           "description": "有毒吧. 掉淫窝了吗?  VPN 用香港右边就这样的是吗? https://t.co/iLWIoY77yR",
           "link": "https://twitter.com/AntCaveClub/status/1633810923965272064",
           "publishedOn": "2023-03-09T12:44:13.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "有毒吧. 掉淫窝了吗? VPN 用香港右边就这样的是吗? https://t.co/iLWIoY77yR",
           "imageUrl": null
         },
@@ -679,11 +679,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1635116003184226305",
           "author": "DeFi Educator",
-          "description": "Unreal https://twitter.com/watcherguru/status/1635106847882625024\n\nWatcher.Guru: In 2022, Jim Cramer said \"you could make a lot of money\" with Signature Bank $SBNY. \nToday, the bank was shut down by regulators, making it the 3rd largest banking failure in US history. https://t.co/8QZvcCXjuv",
+          "description": "Unreal\n\nWatcher.Guru: In 2022, Jim Cramer said \"you could make a lot of money\" with Signature Bank $SBNY. \nToday, the bank was shut down by regulators, making it the 3rd largest banking failure in US history. https://t.co/8QZvcCXjuv",
           "link": "https://twitter.com/DeFi_educator/status/1635116003184226305",
           "publishedOn": "2023-03-13T03:10:08.000Z",
           "wordCount": 513,
-          "title": "Unreal https://twitter.com/watcherguru/status/1635106847882625024",
+          "title": "Unreal",
           "imageUrl": null
         },
         {
@@ -762,17 +762,17 @@
           "description": "Re @cryptolad1256 don't think you're taking into account that you can use leverage\nIn the current market, don't see other risk/reward set ups for trades that yield 50% with a 2 day time horizon\nOn top of that downside is pretty limited if you do the DD, stay rational, very diff scenario than UST",
           "link": "https://twitter.com/DeFi_educator/status/1634648024801595392",
           "publishedOn": "2023-03-11T20:10:34.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Re @cryptolad1256 don't think you're taking into account that you can use leverage In the current market, don't see other risk/reward set ups for trad...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/DeFi_educator/status/1634646148576165889",
           "author": "DeFi Educator",
-          "description": "In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way for the betterment of society. \nThe alternative is an Orwellian distopy https://twitter.com/punk6529/status/1634638343005777920\n\n6529: 1/ The Global Digital Rights Charter v1 (GDRC 1) is now live.\nIt is a declaration of principles for a world that is highly digital and more so every day.\nPrinciples for how we will live for the next 100 years.",
+          "description": "In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way for the betterment of society. \nThe alternative is an Orwellian distopy\n\n6529: 1/ The Global Digital Rights Charter v1 (GDRC 1) is now live.\nIt is a declaration of principles for a world that is highly digital and more so every day.\nPrinciples for how we will live for the next 100 years.",
           "link": "https://twitter.com/DeFi_educator/status/1634646148576165889",
           "publishedOn": "2023-03-11T20:03:06.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "In a future where digital money is inevitable, there is a short window of opportunity where we can try to shape it in a constructive and positive way ...",
           "imageUrl": null
         },
@@ -789,11 +789,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1634619034095288321",
           "author": "DeFi Educator",
-          "description": "👀 https://twitter.com/delete_shitcoin/status/1541642361033203712\n\n☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️: Watch them implode USDC out of pure spite. I am calling it.",
+          "description": "👀\n\n☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️: Watch them implode USDC out of pure spite. I am calling it.",
           "link": "https://twitter.com/DeFi_educator/status/1634619034095288321",
           "publishedOn": "2023-03-11T18:15:22.000Z",
           "wordCount": 513,
-          "title": "👀 https://twitter.com/delete_shitcoin/status/1541642361033203712",
+          "title": "👀",
           "imageUrl": null
         },
         {
@@ -809,7 +809,7 @@
         {
           "id": "https://twitter.com/balajis/status/1634553488700223488",
           "author": "DeFi Educator",
-          "description": "RT Balaji\nThinking this through, it’s the type of government-caused crisis that could lead to a CBDC.\nBecause I don’t know how businesses could practically operate with only a $250k max in each account.\nThey’d have to keep buying and selling T-bills. Instead they’d want to somehow send… https://twitter.com/i/web/status/1634553488700223488\n\nNaval: If businesses lose money on deposit, then every business in the country will move all cash above $250K into Treasuries and we’ll have a system-wide bank run at Twitter speed. \nThey’ll tell their banker, “the only counterparty I want is the US Treasury.” https://twitter.com/DavidSacks/status/1634292056821764099",
+          "description": "RT Balaji\nThinking this through, it’s the type of government-caused crisis that could lead to a CBDC.\nBecause I don’t know how businesses could practically operate with only a $250k max in each account.\nThey’d have to keep buying and selling T-bills. Instead they’d want to somehow send… https://twitter.com/i/web/status/1634553488700223488\n\nNaval: If businesses lose money on deposit, then every business in the country will move all cash above $250K into Treasuries and we’ll have a system-wide bank run at Twitter speed. \nThey’ll tell their banker, “the only counterparty I want is the US Treasury.”",
           "link": "https://twitter.com/balajis/status/1634553488700223488",
           "publishedOn": "2023-03-11T13:54:54.000Z",
           "wordCount": 513,
@@ -824,12 +824,22 @@
       "siteUrl": "https://twitter.com/OnChainWizard",
       "articles": [
         {
+          "id": "https://twitter.com/fintechfrank/status/1635343839954350082",
+          "author": "Onchain Wizard",
+          "description": "RT Frank Chaparro\nRegulators shuttered Signature Bank to show 'crypto is toxic,' Barney Frank tells The Block's @Stephanie_murr",
+          "link": "https://twitter.com/fintechfrank/status/1635343839954350082",
+          "publishedOn": "2023-03-13T18:15:29.000Z",
+          "wordCount": 513,
+          "title": "RT Frank Chaparro: Regulators shuttered Signature Bank to show 'crypto is toxic,' Barney Frank tells The Block's @Stephanie_murr",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/OnChainWizard/status/1634623002376654850",
           "author": "Onchain Wizard",
           "description": "Doom poasting getting tons of engagement again.    Have seen calls for USDC to go to zero (lol).   Seems like UST/FTX PTSD driving people to lose their minds.",
           "link": "https://twitter.com/OnChainWizard/status/1634623002376654850",
           "publishedOn": "2023-03-11T18:31:08.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Doom poasting getting tons of engagement again. Have seen calls for USDC to go to zero (lol). Seems like UST/FTX PTSD driving people to lose their min...",
           "imageUrl": null
         },
@@ -869,7 +879,7 @@
           "description": "Re @blocmatesdotcom Been saying the same thing.    “Onboard the next 1bn users” to BaseOHM",
           "link": "https://twitter.com/OnChainWizard/status/1630089592907898880",
           "publishedOn": "2023-02-27T06:16:59.000Z",
-          "wordCount": 513,
+          "wordCount": 476,
           "title": "Re @blocmatesdotcom Been saying the same thing. “Onboard the next 1bn users” to BaseOHM",
           "imageUrl": null
         },
@@ -879,7 +889,7 @@
           "description": "RT DeFi Surfer\nNew Substack - \nBinance Smart Chain: Sleeping Giant\nIs it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bustling Ecosystem?\nhttps://defisurfer808.substack.com/p/binance-smart-chain-sleeping-giant?sd=pf",
           "link": "https://twitter.com/DeFiSurfer808/status/1630029636116840449",
           "publishedOn": "2023-02-27T02:18:44.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "RT DeFi Surfer: New Substack - Binance Smart Chain: Sleeping Giant Is it Just a Matter of Time Before Major BSC DeFi Applications Emerge from this Bus...",
           "imageUrl": null
         },
@@ -1012,16 +1022,6 @@
           "wordCount": 513,
           "title": "RT Silent Protocol: You thought the ZK narrative was gone, anon? Wait until you learn about EZEE (Economical Zero Knowledge Execution Environment). Fe...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1624785801950158848",
-          "author": "Onchain Wizard",
-          "description": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=twitter&utm_campaign=auto_share&r=1f6sdv",
-          "link": "https://twitter.com/OnChainWizard/status/1624785801950158848",
-          "publishedOn": "2023-02-12T15:01:36.000Z",
-          "wordCount": 513,
-          "title": "Onchain Wizard's Cauldron: February Narratives & Catalysts to Watch https://onchainwizard.substack.com/p/february-narratives-and-catalysts?utm_source=...",
-          "imageUrl": null
         }
       ]
     },
@@ -1030,6 +1030,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1635426508146606080",
+          "author": "DeFi Surfer",
+          "description": "Re @RagingVentures They’ve replaced SI and SBNY with other banks already",
+          "link": "https://twitter.com/DeFiSurfer808/status/1635426508146606080",
+          "publishedOn": "2023-03-13T23:43:58.000Z",
+          "wordCount": 513,
+          "title": "Re @RagingVentures They’ve replaced SI and SBNY with other banks already",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AkadoSang/status/1635398829146243072",
+          "author": "DeFi Surfer",
+          "description": "RT Akado アルカード 👨‍🌾🌾\n“There’s no accumulated decades of experience to even atempt to learn from”\nTrend is for ppl to continue to BTFO specially as more complex stuff is created bc most don’t really know what they’re doing.\nA reminder before you start admiring esoteric tweets from 3ac-like people https://t.co/RDjs4auoj1",
+          "link": "https://twitter.com/AkadoSang/status/1635398829146243072",
+          "publishedOn": "2023-03-13T21:53:59.000Z",
+          "wordCount": 513,
+          "title": "RT Akado アルカード 👨‍🌾🌾: “There’s no accumulated decades of experience to even atempt to learn from” Trend is for ppl to continue to BTF...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1635395078033403904",
           "author": "DeFi Surfer",
@@ -1106,7 +1126,7 @@
           "description": "How much is btc’s strength real market buying vs CZ’s TWAP…",
           "link": "https://twitter.com/DeFiSurfer808/status/1635292014328807425",
           "publishedOn": "2023-03-13T14:49:33.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "How much is btc’s strength real market buying vs CZ’s TWAP…",
           "imageUrl": null
         },
@@ -1128,6 +1148,16 @@
           "publishedOn": "2023-03-13T13:20:24.000Z",
           "wordCount": 513,
           "title": "Re @0xAlunara Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/charliebilello/status/1635267819976925185",
+          "author": "DeFi Surfer",
+          "description": "RT Charlie Bilello\nThe 2nd and 3rd largest bank failures in US history happened in the last few days. https://t.co/H25VFqMdse",
+          "link": "https://twitter.com/charliebilello/status/1635267819976925185",
+          "publishedOn": "2023-03-13T13:13:24.000Z",
+          "wordCount": 513,
+          "title": "RT Charlie Bilello: The 2nd and 3rd largest bank failures in US history happened in the last few days. https://t.co/H25VFqMdse",
           "imageUrl": null
         },
         {
@@ -1186,28 +1216,8 @@
           "description": "Based Kraken\n\nKraken Exchange: 3/3 Operation Chokepoint 2.0 might have overplayed its hand this time but the threat remains. They will continue to attack the rails, products and companies facilitating direct crypto ownership and DeFi use.\nThe People's Money is our peaceful revolution.\nThis is why we #Bitcoin",
           "link": "https://twitter.com/DeFiSurfer808/status/1635111696271568897",
           "publishedOn": "2023-03-13T02:53:01.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "Based Kraken",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1635110765316444161",
-          "author": "DeFi Surfer",
-          "description": "Re @OuroborosCap8 If inflation continues to come down and rates drop while the economy holds up I could see money start flowing back into risk assets.",
-          "link": "https://twitter.com/DeFiSurfer808/status/1635110765316444161",
-          "publishedOn": "2023-03-13T02:49:19.000Z",
-          "wordCount": 513,
-          "title": "Re @OuroborosCap8 If inflation continues to come down and rates drop while the economy holds up I could see money start flowing back into risk assets.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1635095265228255233",
-          "author": "DeFi Surfer",
-          "description": "Re @NotChaseColeman @ParrotCapital liquidated... did not have the state regulator shutting down a well capitalized bank on my bingo card\nhope this trade made your year. well done",
-          "link": "https://twitter.com/DeFiSurfer808/status/1635095265228255233",
-          "publishedOn": "2023-03-13T01:47:44.000Z",
-          "wordCount": 513,
-          "title": "Re @NotChaseColeman @ParrotCapital liquidated... did not have the state regulator shutting down a well capitalized bank on my bingo card hope this tra...",
           "imageUrl": null
         },
         {
@@ -1218,16 +1228,6 @@
           "publishedOn": "2023-03-12T22:36:03.000Z",
           "wordCount": 513,
           "title": "RT Clearly Murdered Signature: This feels so targeted just threw in a hey let’s close signature while we’re at it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1635022628242198528",
-          "author": "DeFi Surfer",
-          "description": "Re @fintechfrank Couldn’t have happened to a better guy",
-          "link": "https://twitter.com/DeFiSurfer808/status/1635022628242198528",
-          "publishedOn": "2023-03-12T20:59:06.000Z",
-          "wordCount": 476,
-          "title": "Re @fintechfrank Couldn’t have happened to a better guy",
           "imageUrl": null
         }
       ]
