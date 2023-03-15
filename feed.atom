@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T02:36:33.325Z</id>
+    <id>urn:2023-03-15T03:14:30.552Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T02:36:33.325Z</updated>
+    <updated>2023-03-15T03:14:30.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Token Terminal 数据，链上期权协议 Lyra 在 3 月 13 日（UTC）手续费捕获飙升至达 62.37 万美元，创下历史新高。除了自身期权交易量的增长外，Lyr...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635820315485016064</id>
+        <link href="https://twitter.com/wublockchain12/status/1635820315485016064"/>
+        <updated>2023-03-15T01:48:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Token Terminal 数据，链上期权协议 Lyra 在 3 月 13 日（UTC）手续费捕获飙升至达 62.37 万美元，创下历史新高。除了自身期权交易量的增长外，Lyra 近期与 Kwenta 整合为其提供双边期权流动性并从中获得受益。集成 Synthetix Perps V2 前端的 Kwenta 在近期交易量大幅增长，3 月 13… https://twitter.com/i/web/status/1635820315485016064]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oh sheeeet $gmx]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1635819102789939200</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1635819102789939200"/>
@@ -36,6 +46,40 @@ $gmx
 Tano 🦇🔊: T - 10]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/gabrielleydon/status/1635747190198112256]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635812367266353153</id>
+        <link href="https://twitter.com/wublockchain12/status/1635812367266353153"/>
+        <updated>2023-03-15T01:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/gabrielleydon/status/1635747190198112256
+
+Gabriel Leydon (FREE,OWN): 4/ FreeNFT will continue to be free for developers to launch with.
+In addition to marketing your project and creating content for you, we now offer smart contract services - writing contracts, hosting the mint, and integrating AdventureERC721 & programmable royalty solutions.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，DigiDaigaku 母公司 Limit Break CEO Gabriel Leydon 在推文中表示，该公司收购了 FreeNFT。FreeNFT 是一款 FREE-TO-OWN 模式的 NFT 项目，被收购后仍...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635812365257285633</id>
+        <link href="https://twitter.com/wublockchain12/status/1635812365257285633"/>
+        <updated>2023-03-15T01:17:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，DigiDaigaku 母公司 Limit Break CEO Gabriel Leydon 在推文中表示，该公司收购了 FreeNFT。FreeNFT 是一款 FREE-TO-OWN 模式的 NFT 项目，被收购后仍免费供开发人员使用。Gabriel Leydon 表示，除创建内容外还提供智能合约服务、可编程版税解决方案等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Maker 社区当前正对 PSM 断路器的设置进行投票，如果投票通过，将添加一个债务上限断路器，允许治理通过执行投票将任何已启用的金库类型的债务上限单...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1635809389184708611</id>
+        <link href="https://twitter.com/wublockchain12/status/1635809389184708611"/>
+        <updated>2023-03-15T01:05:24.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Maker 社区当前正对 PSM 断路器的设置进行投票，如果投票通过，将添加一个债务上限断路器，允许治理通过执行投票将任何已启用的金库类型的债务上限单独设置为 0，同时绕过当前 Governance Pause Delay 暂停延迟（当前为 16 小时）。
+https://vote.makerdao.com/executive/template-executive-vote-emergency-psm-changes-march-14-2023#proposal-detail]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -220,7 +264,7 @@ One challenge with testnet validators is that given the ETH is worthless, there'
         <link href="https://twitter.com/wublockchain12/status/1635798799091376129"/>
         <updated>2023-03-15T00:23:20.000Z</updated>
         <summary type="html"><![CDATA[纽约州金融服务部 (NYDFS) 发言人表示，3 月 12 日接管 Signature Bank 的决定与该银行的加密业务无关。 “接管银行并将其移交给 FDIC 的决定是基于银行的现状及其周一以安全稳健的方式开展业务的能力。”（The Block）
-https://www.theblock.co/post/219837/nydfs-pushes-back-against-claim-that-signature-bank-takeover-was-crypto-related?utm_source=rss&utm_medium=rss https://twitter.com/wublockchain12/status/1635444491686666241
+https://www.theblock.co/post/219837/nydfs-pushes-back-against-claim-that-signature-bank-takeover-was-crypto-related?utm_source=rss&utm_medium=rss
 
 吴说区块链: 据 CNBC 报道，Signature Bank 董事会成员、前美国众议员 Barney Frank 表示，该公司被 FDIC 接管的部分原因是监管机构希望发出非常强烈的反加密信息，并没有基于基本面的破产。
 https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html]]></summary>
@@ -516,46 +560,6 @@ The Block: EU Parliament passes smart contract regulation under Data Act https
 https://moverxyz.medium.com/mover-airdrop-151462a08d61]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Amberdata 数据，近 24 小时比特币期权成交量名义价值约 25 亿美元，为历史次高水平，其中 Deribit 达 24 亿美元，到期日为 3 月 31 日和 6 月 30 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635579762969305090</id>
-        <link href="https://twitter.com/wublockchain12/status/1635579762969305090"/>
-        <updated>2023-03-14T09:52:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Amberdata 数据，近 24 小时比特币期权成交量名义价值约 25 亿美元，为历史次高水平，其中 Deribit 达 24 亿美元，到期日为 3 月 31 日和 6 月 30 日的看涨期权成交量最多，均超过 3 亿美元。当前 Deribit 比特币期权持仓量达 33.6 https://metrics.deribit.com/options/BTC… https://twitter.com/i/web/status/1635579762969305090 https://t.co/KKAHl6JY7Z]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OpenAI 首席执行官 Sam Altman 创立的加密初创公司 Worldcoin 宣布推出 World ID 协议和软件开发工具包。Worldcoin 表示 World ID 是一个注重隐私的去...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635575841546702849</id>
-        <link href="https://twitter.com/wublockchain12/status/1635575841546702849"/>
-        <updated>2023-03-14T09:37:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OpenAI 首席执行官 Sam Altman 创立的加密初创公司 Worldcoin 宣布推出 World ID 协议和软件开发工具包。Worldcoin 表示 World ID 是一个注重隐私的去中心化身份协议，用于证明用户是独特、真实的个人，而无需提供电子邮件等身份证明。目前 World ID相关应用 World App… https://twitter.com/i/web/status/1635575841546702849]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据福布斯俄罗斯报道，币安关闭了俄罗斯人通过其 p2p 服务买卖美元和欧元的渠道。此外，该交易所禁止欧盟公民通过 P2P 买卖卢布。此前，由于制裁，币安...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635565128132468737</id>
-        <link href="https://twitter.com/wublockchain12/status/1635565128132468737"/>
-        <updated>2023-03-14T08:54:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据福布斯俄罗斯报道，币安关闭了俄罗斯人通过其 p2p 服务买卖美元和欧元的渠道。此外，该交易所禁止欧盟公民通过 P2P 买卖卢布。此前，由于制裁，币安限制俄罗斯人加密钱包余额的资产最大价值——从 2022 年 4 月起不得超过等值 10,000 欧元。https://www.forbes.ru/investicii/485880-krupnejsaa-kriptobirza-zakryla-dla-rossian-pokupku-dollarov-i-evro-cerez-p2p]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，火币韩国宣布更名为“High Block”。目前大股东是火币韩国董事长赵国峰，疑似从李林手中买下了火币韩国的股份。它计划通过广泛的品牌重塑摆脱其“中国...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1635565029574742016</id>
-        <link href="https://twitter.com/wublockchain12/status/1635565029574742016"/>
-        <updated>2023-03-14T08:54:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，火币韩国宣布更名为“High Block”。目前大股东是火币韩国董事长赵国峰，疑似从李林手中买下了火币韩国的股份。它计划通过广泛的品牌重塑摆脱其“中国交易所”的形象，并将自己打造成一家韩国国内公司。https://it.chosun.com/site/data/html_dir/2023/03/14/2023031401994.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
