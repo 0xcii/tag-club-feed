@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T20:14:58.512Z</id>
+    <id>urn:2023-03-16T21:12:00.239Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T20:14:58.512Z</updated>
+    <updated>2023-03-16T21:12:00.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,19 @@
         <summary type="html"><![CDATA[Re @DeFiMann Wtf?? They just built these positions. Must getting redemptions or something]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Succinct: We're excited to introduce Telepathy, the first decentralized and secure zkSNARK interoperability protocol for Ethereum. Read Ethereum st...]]></title>
+        <id>https://twitter.com/SuccinctLabs/status/1636429568172228609</id>
+        <link href="https://twitter.com/SuccinctLabs/status/1636429568172228609"/>
+        <updated>2023-03-16T18:09:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Succinct
+We're excited to introduce Telepathy, the first decentralized and secure zkSNARK interoperability protocol for Ethereum.
+Read Ethereum state on any chain with the security of Ethereum's light client protocol.
+Live on Mainnet today. https://t.co/BRS1zYqVGs]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -27,11 +40,11 @@ https://finance.yahoo.com/video/u-could-pass-stablecoin-legislation-173544354.ht
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[looks cool https://twitter.com/EclipseFND/status/1636408247921049602]]></title>
+        <title type="html"><![CDATA[looks cool]]></title>
         <id>https://twitter.com/8848Community/status/1636408974152179712</id>
         <link href="https://twitter.com/8848Community/status/1636408974152179712"/>
         <updated>2023-03-16T16:47:57.000Z</updated>
-        <summary type="html"><![CDATA[looks cool https://twitter.com/EclipseFND/status/1636408247921049602
+        <summary type="html"><![CDATA[looks cool
 
 Eclipse 🔜 GDC 👀: Eclipse & @WorldsOrg are launching Worlds EVM 🎉
 Worlds is deploying its own parallelized EVM rollup with Eclipse and @CelestiaOrg as the base layer for data availability.
@@ -52,11 +65,11 @@ https://www.eclipse.builders/blog/worlds-to-build-next-generation-on-chain-game-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近在刷base测试网的也可以刷刷这个，woofi刚支持了base https://twitter.com/WOOnetwork/status/1636352412641292288]]></title>
+        <title type="html"><![CDATA[最近在刷base测试网的也可以刷刷这个，woofi刚支持了base]]></title>
         <id>https://twitter.com/8848Community/status/1636407042280947712</id>
         <link href="https://twitter.com/8848Community/status/1636407042280947712"/>
         <updated>2023-03-16T16:40:16.000Z</updated>
-        <summary type="html"><![CDATA[最近在刷base测试网的也可以刷刷这个，woofi刚支持了base https://twitter.com/WOOnetwork/status/1636352412641292288
+        <summary type="html"><![CDATA[最近在刷base测试网的也可以刷刷这个，woofi刚支持了base
 
 WOO Network: 🔵 @BuildOnBase is committed to onboarding the masses into #Web3. 
 Today we take our first step in supporting this vision as we announce the deployment of WOOFi Swap on Base Goerli Testnet (1/5) 👇 https://t.co/AYJzdBdqYe]]></summary>
@@ -423,11 +436,11 @@ https://www.europarl.europa.eu/news/en/press-room/20230315IPR77508/parliament-re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[记得每天领领糖果啊，闲着的时候 https://twitter.com/coingecko/status/1636125122049261569]]></title>
+        <title type="html"><![CDATA[记得每天领领糖果啊，闲着的时候]]></title>
         <id>https://twitter.com/8848Community/status/1636347273977421829</id>
         <link href="https://twitter.com/8848Community/status/1636347273977421829"/>
         <updated>2023-03-16T12:42:46.000Z</updated>
-        <summary type="html"><![CDATA[记得每天领领糖果啊，闲着的时候 https://twitter.com/coingecko/status/1636125122049261569
+        <summary type="html"><![CDATA[记得每天领领糖果啊，闲着的时候
 
 CoinGecko: 💚 this Tweet if you collected your candies today]]></summary>
         <author>
@@ -445,11 +458,11 @@ CoinGecko: 💚 this Tweet if you collected your candies today]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一堆测试网，可以挑着做 https://twitter.com/atoms_res/status/1633813677500510210]]></title>
+        <title type="html"><![CDATA[一堆测试网，可以挑着做]]></title>
         <id>https://twitter.com/8848Community/status/1636342493964009472</id>
         <link href="https://twitter.com/8848Community/status/1636342493964009472"/>
         <updated>2023-03-16T12:23:46.000Z</updated>
-        <summary type="html"><![CDATA[一堆测试网，可以挑着做 https://twitter.com/atoms_res/status/1633813677500510210
+        <summary type="html"><![CDATA[一堆测试网，可以挑着做
 
 Atoms Research: Only one out of hundreds of testnets has paid off. 
 However, it still presents an easy risk-reward option. 
@@ -587,7 +600,7 @@ Re @willrayvalentin https://t.co/2sxTHv7s1E]]></summary>
         <updated>2023-03-16T10:37:09.000Z</updated>
         <summary type="html"><![CDATA[对 Shardeum 有兴趣的也可以刷下 Daostarter 这个，说是他们项目后面代币空投的证明，顺便也可以复刷下Shardeum
 做几个社交任务领取OAT，然后跟教程交互下他们在Shardeum Sphinx 1.X 测试网的产品，目前还不算卷，31号截止
-https://medium.com/@DAOStarter/daostarter-betatest-on-shardeum-sphinx-1-x-2fe02c345223 https://twitter.com/DaoStarter/status/1631114263623512064 https://t.co/OMyQTTwFOs
+https://medium.com/@DAOStarter/daostarter-betatest-on-shardeum-sphinx-1-x-2fe02c345223 https://t.co/OMyQTTwFOs
 
 
 DaoStarter: Kickstart your Web3 Journey with @shardeum!🚀🚀
@@ -658,17 +671,6 @@ https://medium.com/@DAOStarter/daostarter-betatest-on-shardeum-sphinx-1-x-2fe02c
         <summary type="html"><![CDATA[Re @Yonibologna @PolymarketHQ]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每周都能听到有人说arbitrum下周空投 跟贾跃亭下周回国一样😂😂😂]]></title>
-        <id>https://twitter.com/8848Community/status/1636212815169191936</id>
-        <link href="https://twitter.com/8848Community/status/1636212815169191936"/>
-        <updated>2023-03-16T03:48:29.000Z</updated>
-        <summary type="html"><![CDATA[每周都能听到有人说arbitrum下周空投
-跟贾跃亭下周回国一样😂😂😂]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
