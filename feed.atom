@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T05:12:42.807Z</id>
+    <id>urn:2023-03-17T06:16:25.149Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T05:12:42.807Z</updated>
+    <updated>2023-03-17T06:16:25.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[超 62 万地址获得空投，详解 Arbitrum 空投数据和防女巫策略（编译：月之暗面，PANews）：Offchain Labs、Arbitrum 基金会和 Nansen 共同设计了一个以社区成员在...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1636600152680198144</id>
+        <link href="https://twitter.com/wublockchain12/status/1636600152680198144"/>
+        <updated>2023-03-17T05:27:37.000Z</updated>
+        <summary type="html"><![CDATA[超 62 万地址获得空投，详解 Arbitrum 空投数据和防女巫策略（编译：月之暗面，PANews）：Offchain Labs、Arbitrum 基金会和 Nansen 共同设计了一个以社区成员在 Arbitrum 生态中的参与度为基础的代币分配模型，该分配模式依赖于 Nansen… https://twitter.com/i/web/status/1636600152680198144]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 CoinDesk 报道，美 FDIC 否认会要求 Signature Bank 的买家剥离该银行相关的加密业务。FDIC 发言人表示，“直到银行的所有资产都被出售，针对银行的所有索...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1636596759052034048</id>
+        <link href="https://twitter.com/wublockchain12/status/1636596759052034048"/>
+        <updated>2023-03-17T05:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 CoinDesk 报道，美 FDIC 否认会要求 Signature Bank 的买家剥离该银行相关的加密业务。FDIC 发言人表示，“直到银行的所有资产都被出售，针对银行的所有索赔都得到解决，并且收购方决定了他们的出价条件，接管才会结束。”https://www.coindesk.com/policy/2023/03/17/fdic-denies-report-signature-bank-purchaser-must-divest-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉， 据派盾监测，Euler Finance 攻击者开始转移资产，并向此前攻击 Ronin Bridge 的朝鲜黑客组织 Lazarus Group 地址转账 100 ETH。https://twitter.c...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1636593671998144516</id>
+        <link href="https://twitter.com/wublockchain12/status/1636593671998144516"/>
+        <updated>2023-03-17T05:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉， 据派盾监测，Euler Finance 攻击者开始转移资产，并向此前攻击 Ronin Bridge 的朝鲜黑客组织 Lazarus Group 地址转账 100 ETH。https://twitter.com/PeckShieldAlert/status/1636575858931683328?s=20
+
+PeckShieldAlert: #PeckShieldAlert @eulerfinance exploiter has transferred 100 $ETH to Ronin Bridge Exploiter
+https://etherscan.io/tx/0x202a67d3a1d52e4dd5e1eebe49da511164b6e4a1ebe717dcf4674dd83a2bd457 https://t.co/03kxeF6NrO]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺贝尔经济学家保罗·克鲁曼专栏《矽谷银行危机没想像的那么可怕》：2023年美国经济面临的问题与2008年上一次经济危机中的问题截然不同。彼时我们要面对的银行倒...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1636593380175257600</id>
+        <link href="https://twitter.com/wublockchain12/status/1636593380175257600"/>
+        <updated>2023-03-17T05:00:42.000Z</updated>
+        <summary type="html"><![CDATA[诺贝尔经济学家保罗·克鲁曼专栏《矽谷银行危机没想像的那么可怕》：2023年美国经济面临的问题与2008年上一次经济危机中的问题截然不同。彼时我们要面对的银行倒闭和需求暴跌的困境；而今银行业已是次要问题，最大的困境似乎成了因需求远大于现有供给而导致的通膨。阅读全文：https://cn.nytimes.com/opinion/20230314/silicon-valley-bank-lehman-bailout/zh-hant/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @JackLin9309 那就直接暴露了啊😂]]></title>
         <id>https://twitter.com/8848Community/status/1636582268801286145</id>
@@ -190,16 +233,6 @@ https://medium.com/avalancheavax/ava-labs-accelerates-push-in-asia-with-senior-h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，MakerDAO 通过提案：将美国国债投资上限从 5 亿美元提高至 12.5 亿美元。MakerDAO 将使用锚定稳定模块（PSM）中的 7.5 亿 USDC 购买更多美国国债，从...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636530401186578432</id>
-        <link href="https://twitter.com/wublockchain12/status/1636530401186578432"/>
-        <updated>2023-03-17T00:50:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，MakerDAO 通过提案：将美国国债投资上限从 5 亿美元提高至 12.5 亿美元。MakerDAO 将使用锚定稳定模块（PSM）中的 7.5 亿 USDC 购买更多美国国债，从而使支持 DAI 的流动资产更加多样化。https://vote.makerdao.com/polling/QmNTSr9j]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @avocado_toast2 Maybe some bureaucrat at the Fed is a bitcoiner…]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1636523672973221891</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1636523672973221891"/>
@@ -378,16 +411,6 @@ Today we take our first step in supporting this vision as we announce the deploy
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，此次上线币安 Launchpad 的 Space ID（ID）与早先上线 Binance Launchpool 的 Project Galaxy (GAL) 疑似为同一（或相关）团队。Project Galaxy 团...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636404354998743040</id>
-        <link href="https://twitter.com/wublockchain12/status/1636404354998743040"/>
-        <updated>2023-03-16T16:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，此次上线币安 Launchpad 的 Space ID（ID）与早先上线 Binance Launchpool 的 Project Galaxy (GAL) 疑似为同一（或相关）团队。Project Galaxy 团队来自早先的 Lino network，毕业于加州伯克利，Lino 被孙宇晨收购加入 BitTorrent。Lino 另一位创始人后创立了 CyberConnect。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Ice_Frog666666 没洗脚。松腿，松腿]]></title>
         <id>https://twitter.com/8848Community/status/1636403707901517827</id>
         <link href="https://twitter.com/8848Community/status/1636403707901517827"/>
@@ -419,16 +442,6 @@ Today we take our first step in supporting this vision as we announce the deploy
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Soul Wallet 在种子轮融资中筹集了 300 万美元，用于提供基于 ERC-4337 构建的在线自我托管以太坊钱包。创始人 Jiajun Zeng 为原字节跳动与美团的产品...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636395989715279872</id>
-        <link href="https://twitter.com/wublockchain12/status/1636395989715279872"/>
-        <updated>2023-03-16T15:56:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Soul Wallet 在种子轮融资中筹集了 300 万美元，用于提供基于 ERC-4337 构建的在线自我托管以太坊钱包。创始人 Jiajun Zeng 为原字节跳动与美团的产品经理；曾获得以太坊基金会的 Grant。https://techcrunch.com/2023/03/16/soul-wallet-crypto-wallet/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Cryptopleb4 Seems like [my bags] got a relative large share]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1636385844583092232</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1636385844583092232"/>
@@ -449,11 +462,11 @@ Today we take our first step in supporting this vision as we announce the deploy
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.]]></title>
+        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636380161066303490</id>
         <link href="https://twitter.com/AntCaveClub/status/1636380161066303490"/>
         <updated>2023-03-16T14:53:27.000Z</updated>
-        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.
+        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370
 
 冰蛙: odos 又又又......立功了！]]></summary>
         <author>
@@ -685,11 +698,11 @@ https://medium.com/@DAOStarter/daostarter-betatest-on-shardeum-sphinx-1-x-2fe02c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力...]]></title>
+        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636253896602689537</id>
         <link href="https://twitter.com/AntCaveClub/status/1636253896602689537"/>
         <updated>2023-03-16T06:31:43.000Z</updated>
-        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力...
+        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848
 
 冰蛙: 撸毛圈没有信息差，
 大家缺的是执行力和对玩项目思路的深研，
@@ -1057,21 +1070,21 @@ Imagine being bearish right now]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🌝 网络维权事件频发]]></title>
+        <title type="html"><![CDATA[🌝 网络维权事件频发 https://twitter.com/falconUSA11/status/1634897238144196608]]></title>
         <id>https://twitter.com/AntCaveClub/status/1634925418359959552</id>
         <link href="https://twitter.com/AntCaveClub/status/1634925418359959552"/>
         <updated>2023-03-12T14:32:49.000Z</updated>
-        <summary type="html"><![CDATA[🌝 网络维权事件频发]]></summary>
+        <summary type="html"><![CDATA[🌝 网络维权事件频发 https://twitter.com/falconUSA11/status/1634897238144196608]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[哈哈]]></title>
+        <title type="html"><![CDATA[哈哈 https://twitter.com/iamyourchaos/status/1634757929306841088]]></title>
         <id>https://twitter.com/AntCaveClub/status/1634761483824533506</id>
         <link href="https://twitter.com/AntCaveClub/status/1634761483824533506"/>
         <updated>2023-03-12T03:41:24.000Z</updated>
-        <summary type="html"><![CDATA[哈哈
+        <summary type="html"><![CDATA[哈哈 https://twitter.com/iamyourchaos/status/1634757929306841088
 
 链游小捕手 CHAOS 🦇🔊: 说脱锚快跑的是你，说抄底挣了的还是你🥲合着好事全让你占了 https://t.co/p9YNX4t8WL]]></summary>
         <author>
@@ -1142,11 +1155,11 @@ Imagine being bearish right now]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推出新功能， 可实现链上数据的webhook推送。]]></title>
+        <title type="html"><![CDATA[推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016]]></title>
         <id>https://twitter.com/AntCaveClub/status/1634257869339258887</id>
         <link href="https://twitter.com/AntCaveClub/status/1634257869339258887"/>
         <updated>2023-03-10T18:20:13.000Z</updated>
-        <summary type="html"><![CDATA[推出新功能， 可实现链上数据的webhook推送。
+        <summary type="html"><![CDATA[推出新功能， 可实现链上数据的webhook推送。 https://twitter.com/AlchemyPlatform/status/1633885753133654016
 
 Alchemy | The web3 developer platform: Millions of events happen everyday across blockchains 
 Creating tons of valuable data that can enhance your app 
