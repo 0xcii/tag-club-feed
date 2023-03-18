@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T12:24:39.011Z</id>
+    <id>urn:2023-03-18T13:16:44.959Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-18T12:24:39.011Z</updated>
+    <updated>2023-03-18T13:16:44.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,58 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/evilcos/status/1593588745353060352]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637042750720999425</id>
+        <link href="https://twitter.com/wublockchain12/status/1637042750720999425"/>
+        <updated>2023-03-18T10:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/evilcos/status/1593588745353060352
+
+Cos(余弦)😶‍🌫️: ⚠️🌚继续问：当你看到 @MetaMask 或其它钱包弹出的确认框，注意如图红色标注的内容：
+Security Update
+那么，此时你会如何做….
+会点击“确认”以完成这个 Security Update（安全更新）吗？
+为什么会出现 Security Update？ https://t.co/EYcr17ZzYA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，防钓鱼插件 Scam Sniffer 表示今日地址 0x4f…9267 遭受伪装的“Security Update”钓鱼攻击，损失 287 ETH。慢雾创始人余弦科普，这是由于用户交互的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637042594256670720</id>
+        <link href="https://twitter.com/wublockchain12/status/1637042594256670720"/>
+        <updated>2023-03-18T10:45:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，防钓鱼插件 Scam Sniffer 表示今日地址 0x4f…9267 遭受伪装的“Security Update”钓鱼攻击，损失 287 ETH。慢雾创始人余弦科普，这是由于用户交互的钓鱼合约有一个带 payable 属性的 SecurityUpdate 函数，便可实现转移用户的 ETH 资产；同时 https://mp.weixin.qq.com/s/v9hWgtW7ka0vioiAU8hS4A… https://twitter.com/i/web/status/1637042594256670720]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/bitfinex/status/1636729152412987396?t=AEauoWupr1YqunZKijZtSQ&s=08]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637034836295839745</id>
+        <link href="https://twitter.com/wublockchain12/status/1637034836295839745"/>
+        <updated>2023-03-18T10:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/bitfinex/status/1636729152412987396?t=AEauoWupr1YqunZKijZtSQ&s=08
+
+Bitfinex: Welcome to Istanbul! 
+Bitfinex is proud to be able to offer our platform in Türkiye 🇹🇷
+Believe in #Bitcoin, learn on #Bitfinex, achieve #financialfreedom!
+Help us support the #Bitcoin ethos, join our mission to bring freedom ✅
+http://ow.ly/9nf450Nl4Bi https://t.co/TKoUjUPJvV]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 dunya 报道，土耳其第二大私人银行 Akbank 子公司已向官方机构申请成为加密交易平台 Stablex 的主要股东。目前土耳其的绝大多数加密货币业务均与 A...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637034657496862721</id>
+        <link href="https://twitter.com/wublockchain12/status/1637034657496862721"/>
+        <updated>2023-03-18T10:14:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 dunya 报道，土耳其第二大私人银行 Akbank 子公司已向官方机构申请成为加密交易平台 Stablex 的主要股东。目前土耳其的绝大多数加密货币业务均与 Akbank 合作。此外 Bitfinex 也在昨日宣布在土耳其开始提供服务。https://www.dunya.com/kose-yazisi/akbank-kriptoya-ak-yatirimla-girdi/688694]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @Super4DeFi 今期流行，流行椎名林擒]]></title>
         <id>https://twitter.com/8848Community/status/1637027892822679553</id>
         <link href="https://twitter.com/8848Community/status/1637027892822679553"/>
@@ -43,6 +95,30 @@
         <summary type="html"><![CDATA[Re @Super4DeFi 今期流行，流行椎名林擒]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/sunil_trades/status/1637006314420174849 https://twitter.com/zhusu/status/1637010939605024768]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637027512856502273</id>
+        <link href="https://twitter.com/wublockchain12/status/1637027512856502273"/>
+        <updated>2023-03-18T09:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/sunil_trades/status/1637006314420174849
+https://twitter.com/zhusu/status/1637010939605024768
+
+Zhu Su 朱溯: FTX 2.0 will revitalize capital and give those with capital stuck a second chance
+@OPNX_Official https://twitter.com/sunil_trades/status/1637006314420174849]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据自称 FTX 债权人的推特博主 sunil ，美国跨国独立投资银行与金融服务公司 Jefferies 正在与潜在的 FTX 竞购方接触，以便重启 FTX。三箭资本创始人 Z...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637027376076050433</id>
+        <link href="https://twitter.com/wublockchain12/status/1637027376076050433"/>
+        <updated>2023-03-18T09:45:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据自称 FTX 债权人的推特博主 sunil ，美国跨国独立投资银行与金融服务公司 Jefferies 正在与潜在的 FTX 竞购方接触，以便重启 FTX。三箭资本创始人 Zhu Su 发推表示，FTX 2.0 将重振资本，给那些被资本卡住的人第二次机会。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -377,41 +453,6 @@ We’re developing a simplified approach to serve more compelling tweets, but it
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说周精选：美联储拯救银行、ChipMixer 被关闭、Coinbase 与渣打合作与新闻Top10（0310-0317） https://mp.weixin.qq.com/s/8TV_SBdIIWaYWH6f6s59Dg]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636899962125692929</id>
-        <link href="https://twitter.com/wublockchain12/status/1636899962125692929"/>
-        <updated>2023-03-18T01:18:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：美联储拯救银行、ChipMixer 被关闭、Coinbase 与渣打合作与新闻Top10（0310-0317）
-https://mp.weixin.qq.com/s/8TV_SBdIIWaYWH6f6s59Dg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/Fwiz/status/1636314376692195328]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636883341185282048</id>
-        <link href="https://twitter.com/wublockchain12/status/1636883341185282048"/>
-        <updated>2023-03-18T00:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/Fwiz/status/1636314376692195328
-
-Ryan Wyatt (fwiz.polygon): We are excited to share that @salesforce has launched on @0xPolygon!
-Salesforce will help their clients onboard to Polygon with its management platform to help its clients create token-based loyalty programs. 
-“Most Salesforce customers use Ethereum or Polygon” - Salesforce]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Polygon Labs 总裁 Ryan Wyatt 发推表示，客户关系管理 (CRM) 软件公司 Salesforce 已与 Polygon 合作开展基于 NFT 的忠诚度计划。 Salesforce 将通过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636883203343646720</id>
-        <link href="https://twitter.com/wublockchain12/status/1636883203343646720"/>
-        <updated>2023-03-18T00:12:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Polygon Labs 总裁 Ryan Wyatt 发推表示，客户关系管理 (CRM) 软件公司 Salesforce 已与 Polygon 合作开展基于 NFT 的忠诚度计划。 Salesforce 将通过其管理平台帮助其客户加入 Polygon，以帮助其客户创建基于 Token 的忠诚度计划。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @DeFiMann Bruh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1636879852924989440</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1636879852924989440"/>
@@ -545,36 +586,6 @@ CC @KyleSamani https://t.co/tB3b6FZtpS]]></summary>
         <summary type="html"><![CDATA[Re @EricJhonsa Impressive]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，北京发布《关于推动北京互联网3.0产业创新发展的工作方案（2023-2025年）》的通知，具体领域中人工智能排名第一，强调支持AIGC（人工智能生成内容）技...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636763228750635018</id>
-        <link href="https://twitter.com/wublockchain12/status/1636763228750635018"/>
-        <updated>2023-03-17T16:15:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，北京发布《关于推动北京互联网3.0产业创新发展的工作方案（2023-2025年）》的通知，具体领域中人工智能排名第一，强调支持AIGC（人工智能生成内容）技术发展；区块链排名第二，强调支持开展基于区块链的数字身份、数字监管等技术研发，支撑构 http://kw.beijing.gov.cn/art/2023/3/17/art_736_639986.html… https://twitter.com/i/web/status/1636763228750635018]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据元飞船，字节跳动旗下虚拟时尚社区沸寂发布关停公告。沸寂与幻核一样，专注打造数字藏品，其发行的数字藏品品质均是行业第一梯队。但相对保守，目前...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636762998273638400</id>
-        <link href="https://twitter.com/wublockchain12/status/1636762998273638400"/>
-        <updated>2023-03-17T16:14:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据元飞船，字节跳动旗下虚拟时尚社区沸寂发布关停公告。沸寂与幻核一样，专注打造数字藏品，其发行的数字藏品品质均是行业第一梯队。但相对保守，目前甚至连转赠都未开放。https://mp.weixin.qq.com/s/VGX46sgvIofiCPjlTAXjxA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 据 TheBlock，Coinbase 预计将推出一个离岸交易所，与 Binance 等竞争，上线永续合约等衍生品。目前主要的永续合约衍生品市场被币安 OKX Bybit 等占据，其中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1636762589417050112</id>
-        <link href="https://twitter.com/wublockchain12/status/1636762589417050112"/>
-        <updated>2023-03-17T16:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 据 TheBlock，Coinbase 预计将推出一个离岸交易所，与 Binance 等竞争，上线永续合约等衍生品。目前主要的永续合约衍生品市场被币安 OKX Bybit 等占据，其中币安市场份额超过50%。https://www.theblock.co/post/220853/coinbases-proposed-overseas-trading-venue-would-offer-derivatives-sources]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -762,11 +773,11 @@ Just follow @DegenSpartan to valhalla]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop]]></title>
+        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387]]></title>
         <id>https://twitter.com/OnChainWizard/status/1636377905352835073</id>
         <link href="https://twitter.com/OnChainWizard/status/1636377905352835073"/>
         <updated>2023-03-16T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop
+        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387
 
 Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         <author>
