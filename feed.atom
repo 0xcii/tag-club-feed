@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T21:11:38.040Z</id>
+    <id>urn:2023-03-18T22:12:00.803Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-18T21:11:38.040Z</updated>
+    <updated>2023-03-18T22:12:00.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @EricJhonsa Pretty interesting to observe the divergence in execution btwn Mrvl and avgo]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1637209307908325377</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1637209307908325377"/>
+        <updated>2023-03-18T21:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @EricJhonsa Pretty interesting to observe the divergence in execution btwn Mrvl and avgo]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seems like the market forgot $sq is a $btc play… Have a feeling they’re going to be reminded during next q’s earnings…]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1637206904110829575</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1637206904110829575"/>
+        <updated>2023-03-18T21:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Seems like the market forgot $sq is a $btc play…
+Have a feeling they’re going to be reminded during next q’s earnings…]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @neon___glow @CamelotDEX @arbitrum https://docs.camelot.exchange/tokenomics/token-distribution https://t.co/v7NfjhmeM5]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637198538755981312</id>
@@ -16,11 +37,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://t.co/Rc0ZpeXDDE]]></title>
+        <title type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://twitter.com/dLuxGMI/status/1637194302244749323 https://t.co/Rc0ZpeXDDE]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637195422971179008</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1637195422971179008"/>
         <updated>2023-03-18T20:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://t.co/Rc0ZpeXDDE
+        <summary type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://twitter.com/dLuxGMI/status/1637194302244749323 https://t.co/Rc0ZpeXDDE
 
 
 dLux: @DeFiSurfer808 @CamelotDEX @arbitrum Might have to ape at its ATH 🙃]]></summary>
@@ -59,7 +80,7 @@ Let's talk fundamentals: https://t.co/u9IEG7agVZ]]></summary>
         <updated>2023-03-18T20:38:35.000Z</updated>
         <summary type="html"><![CDATA[Great thread by Ice.
 Out of curiosity I was surprised to learn that @CamelotDEX Is a relatively smol share player on @arbitrum w/ only 4% share of trailing 7 day volumes. 
-Plenty room for that figure to grow as more project launch on the platform. https://t.co/7Jvmah6Iig
+Plenty room for that figure to grow as more project launch on the platform. https://twitter.com/FroyoFren/status/1637170086762139648 https://t.co/7Jvmah6Iig
 
 
 Ice: Let's check in on $GRAIL financials:
@@ -282,17 +303,6 @@ As if they were supposed to know the Fed is full of shit and not buy “safe” 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1637085883513053184</id>
-        <link href="https://twitter.com/AntCaveClub/status/1637085883513053184"/>
-        <updated>2023-03-18T13:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .
-https://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 2/ 交易当天, 别指望各种跨链桥、中心化交易所能够正常高效的运转... 就像早高峰一样. 再加上交易所自己肯定先抛售, 充值可能会很慢. 另外 $ARB Token是发布...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637085881197793285</id>
         <link href="https://twitter.com/AntCaveClub/status/1637085881197793285"/>
@@ -314,17 +324,6 @@ Token 合约地址:  https://docs.arbitrum.foundation/deployment-addresses]]></s
 1/ 这两天先把 ETH 转到 Arbitrum, 当天用作Gas, 而且最好分配在各个子账号上面,  当天一个普通交易可能至少要 5U,  如果你选择等 Gas 降低, 大概率会在山底才卖出, 如果你号很多, 当天分发手续费成本一定很高.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tano 🦇🔊: $GMX will make $1m fees a day a normal occurrence after all the stuff that’s in the pipeline. https://t.co/Bv3dM1aH9N]]></title>
-        <id>https://twitter.com/tanoeth/status/1637075449401548800</id>
-        <link href="https://twitter.com/tanoeth/status/1637075449401548800"/>
-        <updated>2023-03-18T12:56:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Tano 🦇🔊
-$GMX will make $1m fees a day a normal occurrence after all the stuff that’s in the pipeline. https://t.co/Bv3dM1aH9N]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -537,7 +536,7 @@ https://rice-daily.super.site/]]></summary>
         <updated>2023-03-18T06:30:08.000Z</updated>
         <summary type="html"><![CDATA[XANA x BreakingDown 的Freemint白名单活动开始啦！
 BreakingDown是由日本武术家和企业家Mikuru Asakura创立的MMA娱乐公司，每场比赛有超过3亿人次观看，正与领先的Web3.0 Meraverse XANA携手合作。并宣布通过社会媒体渠道分发100个Freemint和500个白名单。
-看着挺有意思，撸一个降低中奖率
+看着挺有意思，撸一个降低中奖率 https://twitter.com/XANAMetaverse/status/1636639052471386114
 
 XANA: 🥊#XANA x #BreakingDown, The largest MMA Entertainment meets the best #Web3 #Meraverse !  
 🚀Launch on 31th March 
@@ -733,26 +732,6 @@ Adam@Greeks.live: 比特币期权持仓量在一周时间内接近翻倍，从
         <link href="https://twitter.com/DeFiSurfer808/status/1636879852924989440"/>
         <updated>2023-03-17T23:59:03.000Z</updated>
         <summary type="html"><![CDATA[Re @DeFiMann Bruh]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @kamikaz_ETH Signed up today. Was super easy]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1636869854106988545</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1636869854106988545"/>
-        <updated>2023-03-17T23:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @kamikaz_ETH Signed up today. Was super easy]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @mynt_josh I feel like the supply side is really starting to take control at same time global liq cycle is turning. Seems like very few folks outsi...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1636868178121719808</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1636868178121719808"/>
-        <updated>2023-03-17T23:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @mynt_josh I feel like the supply side is really starting to take control at same time global liq cycle is turning. Seems like very few folks outside of hardcore bitcoiners follow the Hodl data]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
