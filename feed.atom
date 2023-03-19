@@ -1,20 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T08:16:33.539Z</id>
+    <id>urn:2023-03-19T09:13:03.327Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-19T08:16:33.539Z</updated>
+    <updated>2023-03-19T09:13:03.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[👀]]></title>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/balajis/status/1637025637901938689]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637350152829804544</id>
+        <link href="https://twitter.com/wublockchain12/status/1637350152829804544"/>
+        <updated>2023-03-19T07:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/balajis/status/1637025637901938689
+
+Balaji: @jdcmedlock Yes. Just moving money for the bet. We can do it via smart contract, but for simplicity old-fashioned escrow may work.
+The escrow person would need one BTC address and one ETH address (for the USDC). The assets would sit on chain for 90 days.
+If BTC < $1M in 90 days after… https://twitter.com/i/web/status/1637025637901938689]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，原 Coinbase CTO Balaji Srinivasan 表示，恶性通货膨胀的速度将使人们措手不及；他愿意与 James Medlock 打赌，90 天内 BTC < 100 万美元，对方将获...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637350014661033985</id>
+        <link href="https://twitter.com/wublockchain12/status/1637350014661033985"/>
+        <updated>2023-03-19T07:07:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，原 Coinbase CTO Balaji Srinivasan 表示，恶性通货膨胀的速度将使人们措手不及；他愿意与 James Medlock 打赌，90 天内 BTC < 100 万美元，对方将获胜并获得 1 个 BTC 和 100 万美元的 USDC；如果 BTC 在 90 天内 > 100 万美元，那么他获得 1 个 BTC 和和 100 万美元 USDC。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/GreeksLive/status/1637266230422937600?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637337900043112449</id>
+        <link href="https://twitter.com/wublockchain12/status/1637337900043112449"/>
+        <updated>2023-03-19T06:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/GreeksLive/status/1637266230422937600?s=20
+
+Greeks.live: 【Weekly Market Report】 0311~0317 - Reversing the Market
+It was a miracle week this week as Bitcoin surged 35% in a week, breaking the $27,000 barrier. It is now Bitcoin that is driving the entire crypto market, becoming the brightest asset among speculative products. https://t.co/QQ9WYxAa4A]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -306,11 +343,11 @@ Coinspect Security: 🚨 A high-impact hack recently targeted MyAlgo @myalgo_,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Balaji thesis is incredibly unconvincing]]></title>
+        <title type="html"><![CDATA[This Balaji thesis is incredibly unconvincing https://twitter.com/iiicapital/status/1637251738401996807]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637252531393904640</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1637252531393904640"/>
         <updated>2023-03-19T00:39:56.000Z</updated>
-        <summary type="html"><![CDATA[This Balaji thesis is incredibly unconvincing
+        <summary type="html"><![CDATA[This Balaji thesis is incredibly unconvincing https://twitter.com/iiicapital/status/1637251738401996807
 
 Joe Burnett (🔑)³: I need more #Bitcoin. https://twitter.com/i/spaces/1eaKbrmvLbVKX]]></summary>
         <author>
@@ -318,20 +355,11 @@ Joe Burnett (🔑)³: I need more #Bitcoin. https://twitter.com/i/spaces/1eaKb
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$140B is tiny relative to M2 at $20 trillion…]]></title>
+        <title type="html"><![CDATA[$140B is tiny relative to M2 at $20 trillion… https://twitter.com/balajis/status/1637230228803305473]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637235081818324996</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1637235081818324996"/>
         <updated>2023-03-18T23:30:36.000Z</updated>
-        <summary type="html"><![CDATA[$140B is tiny relative to M2 at $20 trillion…
-
-Balaji: This is the clearest way to see what's happening.
-They've decided to monetize the debt.
-In the messiest way possible.
-By printing $150B+ for insolvent banks.
-To cover an orgy of bank runs.
-The dollar supply is now going vertical.
-And so is the demand for Bitcoin.
-#bitsignal https://t.co/KP27dS8f9r]]></summary>
+        <summary type="html"><![CDATA[$140B is tiny relative to M2 at $20 trillion… https://twitter.com/balajis/status/1637230228803305473]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -378,11 +406,11 @@ Have a feeling they’re going to be reminded during next q’s earnings…]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://t.co/Rc0ZpeXDDE]]></title>
+        <title type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://twitter.com/dLuxGMI/status/1637194302244749323 https://t.co/Rc0ZpeXDDE]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637195422971179008</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1637195422971179008"/>
         <updated>2023-03-18T20:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://t.co/Rc0ZpeXDDE
+        <summary type="html"><![CDATA[Helps to look at it on log scale. Has barely pumped 😜 https://twitter.com/dLuxGMI/status/1637194302244749323 https://t.co/Rc0ZpeXDDE
 
 
 dLux: @DeFiSurfer808 @CamelotDEX @arbitrum Might have to ape at its ATH 🙃]]></summary>
@@ -421,7 +449,7 @@ Let's talk fundamentals: https://t.co/u9IEG7agVZ]]></summary>
         <updated>2023-03-18T20:38:35.000Z</updated>
         <summary type="html"><![CDATA[Great thread by Ice.
 Out of curiosity I was surprised to learn that @CamelotDEX Is a relatively smol share player on @arbitrum w/ only 4% share of trailing 7 day volumes. 
-Plenty room for that figure to grow as more project launch on the platform. https://t.co/7Jvmah6Iig
+Plenty room for that figure to grow as more project launch on the platform. https://twitter.com/FroyoFren/status/1637170086762139648 https://t.co/7Jvmah6Iig
 
 
 Ice: Let's check in on $GRAIL financials:
@@ -457,26 +485,6 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap 社区是如何建立的？（编译 SeeDAO）Uniswap 有选择的去中心化对其有很大帮助。其核心团队选择保留对产品（但不一定是协议）的控制。UNI 代币持有者可以...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637109591707365377</id>
-        <link href="https://twitter.com/wublockchain12/status/1637109591707365377"/>
-        <updated>2023-03-18T15:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap 社区是如何建立的？（编译 SeeDAO）Uniswap 有选择的去中心化对其有很大帮助。其核心团队选择保留对产品（但不一定是协议）的控制。UNI 代币持有者可以根据提案进行投票；与协议有关的任何决定都要经过提案、讨论和投票，其高度透明的治理常被视为业内典范。阅读全文：https://mp.weixin.qq.com/s/e7i1Mf0X2cpWuR0Uw8s8Dg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuidlerDAO：万字长文解析 veToken 经济模型的机制和创新。ve (vote escrow，投票托管)在解决代币如何提供足够的持有动机，且能够让用户和协议的利益在相对长的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637107840036012034</id>
-        <link href="https://twitter.com/wublockchain12/status/1637107840036012034"/>
-        <updated>2023-03-18T15:04:59.000Z</updated>
-        <summary type="html"><![CDATA[BuidlerDAO：万字长文解析 veToken 经济模型的机制和创新。ve (vote escrow，投票托管)在解决代币如何提供足够的持有动机，且能够让用户和协议的利益在相对长的时期内保持一致方面作出了不错的解答。ve https://mp.weixin.qq.com/s/N7B1rdkzi_ZF5MWu8ITRzw… https://twitter.com/i/web/status/1637107840036012034]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Mia.eth: 正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～ #ChatGPT https://t.c...]]></title>
         <id>https://twitter.com/Mia_web3/status/1637107252686626816</id>
         <link href="https://twitter.com/Mia_web3/status/1637107252686626816"/>
@@ -496,16 +504,6 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         <summary type="html"><![CDATA[Re @ColdBloodShill https://t.co/3fVB48mqF1]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据首尔经济日报，目前韩国有17 项加密货币相关法案等待国会通过，其中 IEO 立法已经得到深入讨论，政府已表示愿意推动它；专家认为，进行IEO的交易所...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637095534170365958</id>
-        <link href="https://twitter.com/wublockchain12/status/1637095534170365958"/>
-        <updated>2023-03-18T14:16:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据首尔经济日报，目前韩国有17 项加密货币相关法案等待国会通过，其中 IEO 立法已经得到深入讨论，政府已表示愿意推动它；专家认为，进行IEO的交易所有可能妥善管理项目并提高交易稳定性。https://www.sedaily.com/NewsView/29N1THO48P]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -769,11 +767,11 @@ Arbitrum一役，我感觉我很多老号都不太安全的样子]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解]]></title>
+        <title type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解 https://twitter.com/sanyuan2016/status/1636...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636909512618831872</id>
         <link href="https://twitter.com/AntCaveClub/status/1636909512618831872"/>
         <updated>2023-03-18T01:56:54.000Z</updated>
-        <summary type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解
+        <summary type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解 https://twitter.com/sanyuan2016/status/1636905180716228608
 
 园长 | 三元SanyuanCapital: 改善撸毛焦虑症，推荐阅读这篇撸毛心得：
 相信大家这几天已经被kol们动辄上百个号的arb空投搞焦虑了。
@@ -868,11 +866,11 @@ Thread 🧵 https://t.co/otaly84S2h]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.]]></title>
+        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636380161066303490</id>
         <link href="https://twitter.com/AntCaveClub/status/1636380161066303490"/>
         <updated>2023-03-16T14:53:27.000Z</updated>
-        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.
+        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370
 
 冰蛙: odos 又又又......立功了！]]></summary>
         <author>
@@ -880,11 +878,11 @@ Thread 🧵 https://t.co/otaly84S2h]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop]]></title>
+        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387]]></title>
         <id>https://twitter.com/OnChainWizard/status/1636377905352835073</id>
         <link href="https://twitter.com/OnChainWizard/status/1636377905352835073"/>
         <updated>2023-03-16T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop
+        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387
 
 Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         <author>
@@ -902,11 +900,11 @@ Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力...]]></title>
+        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636253896602689537</id>
         <link href="https://twitter.com/AntCaveClub/status/1636253896602689537"/>
         <updated>2023-03-16T06:31:43.000Z</updated>
-        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力...
+        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848
 
 冰蛙: 撸毛圈没有信息差，
 大家缺的是执行力和对玩项目思路的深研，
