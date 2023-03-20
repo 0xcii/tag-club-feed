@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T15:14:57.049Z</id>
+    <id>urn:2023-03-20T16:19:44.924Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-20T15:14:57.049Z</updated>
+    <updated>2023-03-20T16:19:44.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,56 @@
 How many folks were like “I missed it” with Luna at $1B mkt cap before it sent to $40B? (And subsequently blew up of course lol)]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOSG：FVM 如何全方位解锁Filecoin 创新用例？通过DataDAOs 实现的游戏、社交、去中心化科学等应用场景是 Filecoin 生态的重点。FVM 以社区为中心的模式解锁数据...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637812134871531523</id>
+        <link href="https://twitter.com/wublockchain12/status/1637812134871531523"/>
+        <updated>2023-03-20T13:43:36.000Z</updated>
+        <summary type="html"><![CDATA[IOSG：FVM 如何全方位解锁Filecoin 创新用例？通过DataDAOs 实现的游戏、社交、去中心化科学等应用场景是 Filecoin 生态的重点。FVM 以社区为中心的模式解锁数据变现所需要的基础设施，DataDAO 旨在保护、生成、增强和推广有价值的数据集，著名例子包括Lagrange https://mp.weixin.qq.com/s/C2TpIUsj75-xeYVAsG0j7g… https://twitter.com/i/web/status/1637812134871531523]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安发布文章指出不符合以下特质可能不适合应聘币安，包括无法适应内部变化和充满挑战混乱的外部环境；无法适应高效的远程工作；无法接受问责制；过度...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637808833509851138</id>
+        <link href="https://twitter.com/wublockchain12/status/1637808833509851138"/>
+        <updated>2023-03-20T13:30:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安发布文章指出不符合以下特质可能不适合应聘币安，包括无法适应内部变化和充满挑战混乱的外部环境；无法适应高效的远程工作；无法接受问责制；过度依赖等级制度；对不确定性感到不安；无法进行清晰的沟通与采取主动。阅读全文：https://www.binance.com/en/blog/community/is-binance-the-right-place-for-you-reasons-not-to-join-binance-7101205390056524736]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据比利时金融监管机构宣布的新法规，比利时的加密广告必须准确并警告投资者风险。此外，任何推广数字货币的大众媒体活动都必须提前十天提交给金融服务和市场管理...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637808777822101504</id>
+        <link href="https://twitter.com/wublockchain12/status/1637808777822101504"/>
+        <updated>2023-03-20T13:30:16.000Z</updated>
+        <summary type="html"><![CDATA[据比利时金融监管机构宣布的新法规，比利时的加密广告必须准确并警告投资者风险。此外，任何推广数字货币的大众媒体活动都必须提前十天提交给金融服务和市场管理局（FSMA），以便监管机构在需要时进行干预。（CoinDesk）https://www.coindesk.com/policy/2023/03/20/belgian-crypto-ads-must-warn-of-risks-under-new-rules/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://mantanetwork.medium.com/introducing-zksbts-zknfts-and-npo-89a8e6d77a7f]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637808351735345152</id>
+        <link href="https://twitter.com/wublockchain12/status/1637808351735345152"/>
+        <updated>2023-03-20T13:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Re https://mantanetwork.medium.com/introducing-zksbts-zknfts-and-npo-89a8e6d77a7f]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Manta Network 推出基于 ZK 的隐私 NFT / SBT 发行平台 NPO（NFT Private Offering），开发者无需了解技术或密码学知识即可通过使用 SDK 发行具有即插...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637808320294825984</id>
+        <link href="https://twitter.com/wublockchain12/status/1637808320294825984"/>
+        <updated>2023-03-20T13:28:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Manta Network 推出基于 ZK 的隐私 NFT / SBT 发行平台 NPO（NFT Private Offering），开发者无需了解技术或密码学知识即可通过使用 SDK 发行具有即插即用性的 zkNFT 和 zkSBT，并可将其与 Web2 App 或 Web3 DApp 连接，将链上信息通过 ZK Proof Key 与链下应用绑定。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +84,16 @@ How many folks were like “I missed it” with Luna at $1B mkt cap before it se
         <summary type="html"><![CDATA[Re @resdegen Congrats king]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火爆出圈的“最强 AI” —— GPT 是否能应用到区块链 、Solidity 智能合约的审计中？慢雾团队的测试发现，GPT 对合约代码中的简单漏洞有部分检测能力，且问题解...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1637801414465568771</id>
+        <link href="https://twitter.com/wublockchain12/status/1637801414465568771"/>
+        <updated>2023-03-20T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[火爆出圈的“最强 AI” —— GPT 是否能应用到区块链 、Solidity 智能合约的审计中？慢雾团队的测试发现，GPT 对合约代码中的简单漏洞有部分检测能力，且问题解读具有优良的可读性；但输出不稳定，无形降低了效率，分析能力仍有很大的提升空间。阅读全文：https://mp.weixin.qq.com/s/fQrZzmq1cDw8o57fozne8w]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -244,62 +304,6 @@ Star: OKT Chain will continue be a L1 Chain,the closest launch will be OKTC WA
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，香港财经事务及库务局局长许正宇演讲表示，截至 2023 年 2 月底，投资推广署已收到超过 80 家与虚拟资产相关公司有意来港设立业务；香港金融管理局正...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637737784042749953</id>
-        <link href="https://twitter.com/wublockchain12/status/1637737784042749953"/>
-        <updated>2023-03-20T08:48:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，香港财经事务及库务局局长许正宇演讲表示，截至 2023 年 2 月底，投资推广署已收到超过 80 家与虚拟资产相关公司有意来港设立业务；香港金融管理局正在研究“稳定币”的监管制度，目标是在2024年实施相关监管；政府高度承诺发展该行业，并为初创企业提供全面的支持系统。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1637725751507304449]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637735843048873984</id>
-        <link href="https://twitter.com/wublockchain12/status/1637735843048873984"/>
-        <updated>2023-03-20T08:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1637725751507304449
-
-Adam@Greeks.live: 受本周即将公布的美联储加息结果刺激，周期权的IV明显高于其他期限。
-目前市场认为加息25Bp的可能性最大，如果美联储加息幅度低于25Bp，那么不出意外比特币还是会有一波暴涨，那么现在买入一些浅虚值看涨比较合适。
-目前29000C囤积2200张，接近月度期权持仓量，很多人在赌这个价格。 https://t.co/O7PQImgcLd]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，受本周即将公布的美联储加息结果刺激，周期权的IV明显高于其他期限。目前比特币行权价格为 29000 的看涨期权囤积 2200 张，接近月...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637735793161797633</id>
-        <link href="https://twitter.com/wublockchain12/status/1637735793161797633"/>
-        <updated>2023-03-20T08:40:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，受本周即将公布的美联储加息结果刺激，周期权的IV明显高于其他期限。目前比特币行权价格为 29000 的看涨期权囤积 2200 张，接近月度期权持仓量。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，疑似 Huobi 前 COO 朱嘉伟地址（0x31...dcef，zhujiawei.eth 持有者）于 19 日 18 时向 Huobi 充值地址发送 40 万枚 HT，约合 160 万美元。据 Coingec...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637732482169856000</id>
-        <link href="https://twitter.com/wublockchain12/status/1637732482169856000"/>
-        <updated>2023-03-20T08:27:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，疑似 Huobi 前 COO 朱嘉伟地址（0x31...dcef，zhujiawei.eth 持有者）于 19 日 18 时向 Huobi 充值地址发送 40 万枚 HT，约合 160 万美元。据 Coingecko 数据，目前 Huobi HT 24 小时交易量不足 300 万美元，用户需注意波动风险。
-https://etherscan.io/address/0x317aE07510d655e3bD355D8612e8Dc7C1538dCeF]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 宣布上线 Radiant Capital（RDNT），RDNT /USDT、RDNT /USDC 现货交易于 3 月 21 日 16 时 开放。Radiant 目前是 Arbitrum 头部借贷协议。 https:...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637730067307716610</id>
-        <link href="https://twitter.com/wublockchain12/status/1637730067307716610"/>
-        <updated>2023-03-20T08:17:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 宣布上线 Radiant Capital（RDNT），RDNT /USDT、RDNT /USDC 现货交易于 3 月 21 日 16 时 开放。Radiant 目前是 Arbitrum 头部借贷协议。
-https://www.okx.com/support/hc/en-us/articles/14138447172109-OKX-will-list-Radiant-Capital-RDNT-for-spot-trading]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sei 想做任务的可是搞不到水啊 唉，搞了一晚都还是没水啊 这sei水还不够张津瑜多啊]]></title>
         <id>https://twitter.com/8848Community/status/1637714260787892224</id>
         <link href="https://twitter.com/8848Community/status/1637714260787892224"/>
@@ -433,11 +437,11 @@ Ok https://t.co/TkJG2nAz2n]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[周末的深夜，适合读一点硬核的]]></title>
+        <title type="html"><![CDATA[周末的深夜，适合读一点硬核的 https://twitter.com/jon_charb/status/1637297927554056193]]></title>
         <id>https://twitter.com/8848Community/status/1637495659384414208</id>
         <link href="https://twitter.com/8848Community/status/1637495659384414208"/>
         <updated>2023-03-19T16:46:03.000Z</updated>
-        <summary type="html"><![CDATA[周末的深夜，适合读一点硬核的
+        <summary type="html"><![CDATA[周末的深夜，适合读一点硬核的 https://twitter.com/jon_charb/status/1637297927554056193
 
 Jon Charbonneau: This is the complete guide to:
 - Sequencer decentralization
@@ -524,11 +528,11 @@ Join our telegram: http://t.me/truflation https://t.co/FdooDBv63s]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[额。。。控制了推特的人想发币]]></title>
+        <title type="html"><![CDATA[额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599]]></title>
         <id>https://twitter.com/8848Community/status/1637428654409150466</id>
         <link href="https://twitter.com/8848Community/status/1637428654409150466"/>
         <updated>2023-03-19T12:19:47.000Z</updated>
-        <summary type="html"><![CDATA[额。。。控制了推特的人想发币
+        <summary type="html"><![CDATA[额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599
 
 0xngmi (llamazip arc): The DefiLlama team is forking Defillama
 @Defillama is undergoing a hostile takeover
@@ -539,11 +543,11 @@ Use http://llama.fi and @llamadotfi instead!]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀]]></title>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
@@ -772,7 +776,7 @@ https://rice-daily.super.site/]]></summary>
         <updated>2023-03-18T06:30:08.000Z</updated>
         <summary type="html"><![CDATA[XANA x BreakingDown 的Freemint白名单活动开始啦！
 BreakingDown是由日本武术家和企业家Mikuru Asakura创立的MMA娱乐公司，每场比赛有超过3亿人次观看，正与领先的Web3.0 Meraverse XANA携手合作。并宣布通过社会媒体渠道分发100个Freemint和500个白名单。
-看着挺有意思，撸一个降低中奖率
+看着挺有意思，撸一个降低中奖率 https://twitter.com/XANAMetaverse/status/1636639052471386114
 
 XANA: 🥊#XANA x #BreakingDown, The largest MMA Entertainment meets the best #Web3 #Meraverse !  
 🚀Launch on 31th March 
@@ -823,11 +827,11 @@ discord 跟 tg 也只是偶尔还有发点消息
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解]]></title>
+        <title type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解 https://twitter.com/sanyuan2016/status/1636...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636909512618831872</id>
         <link href="https://twitter.com/AntCaveClub/status/1636909512618831872"/>
         <updated>2023-03-18T01:56:54.000Z</updated>
-        <summary type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解
+        <summary type="html"><![CDATA[目前为止有优质空投项目被证明是通过IP地址过滤批量号的吗？ 指纹浏览器+IP 的组合为什么是有必要的？🌝 不了解 https://twitter.com/sanyuan2016/status/1636905180716228608
 
 园长 | 三元SanyuanCapital: 改善撸毛焦虑症，推荐阅读这篇撸毛心得：
 相信大家这几天已经被kol们动辄上百个号的arb空投搞焦虑了。
@@ -906,11 +910,11 @@ They will help solve:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.]]></title>
+        <title type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636380161066303490</id>
         <link href="https://twitter.com/AntCaveClub/status/1636380161066303490"/>
         <updated>2023-03-16T14:53:27.000Z</updated>
-        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情.
+        <summary type="html"><![CDATA[这个 “!“ 感叹号, 生动形象的表现出了作者, 赢麻了的心情. https://twitter.com/Ice_Frog666666/status/1636359702262202370
 
 冰蛙: odos 又又又......立功了！]]></summary>
         <author>
@@ -940,11 +944,11 @@ Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力...]]></title>
+        <title type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的. 这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636253896602689537</id>
         <link href="https://twitter.com/AntCaveClub/status/1636253896602689537"/>
         <updated>2023-03-16T06:31:43.000Z</updated>
-        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力...
+        <summary type="html"><![CDATA[是啊, 听说还有把美国失业保险金撸走的.  这个执行力... https://twitter.com/Ice_Frog666666/status/1636240854125006848
 
 冰蛙: 撸毛圈没有信息差，
 大家缺的是执行力和对玩项目思路的深研，
