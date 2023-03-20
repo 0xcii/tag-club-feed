@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T18:17:53.520Z</id>
+    <id>urn:2023-03-20T19:11:11.447Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-20T18:17:53.520Z</updated>
+    <updated>2023-03-20T19:11:11.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xChrisL #soon. It’ll be better and worth the wait. Couple weeks]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1637881911115653132</id>
+        <link href="https://twitter.com/OnChainWizard/status/1637881911115653132"/>
+        <updated>2023-03-20T18:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xChrisL #soon.   It’ll be better and worth the wait.   Couple weeks]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can you really call @arbitrum’s longer term growth in activity primarily airdrop farming? As someone who bridged over in mid 2021 and never left, I f...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1637879992976547860</id>
@@ -23,6 +33,35 @@
         <summary type="html"><![CDATA[Re @0xHamz Liquidity is too low on most last I checked to really do much]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Yiyixmb ✊ 还清醒吗？看看这里有多少个手指头]]></title>
+        <id>https://twitter.com/8848Community/status/1637856999328337920</id>
+        <link href="https://twitter.com/8848Community/status/1637856999328337920"/>
+        <updated>2023-03-20T16:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @Yiyixmb ✊ 还清醒吗？看看这里有多少个手指头]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好好休息吧 今晚为 Mike 设酒送行]]></title>
+        <id>https://twitter.com/8848Community/status/1637851936102973441</id>
+        <link href="https://twitter.com/8848Community/status/1637851936102973441"/>
+        <updated>2023-03-20T16:21:46.000Z</updated>
+        <summary type="html"><![CDATA[好好休息吧
+今晚为 Mike 设酒送行
+
+Mike8848: 推特上的仇富，恶意诋毁太多了
+以前我是一个爱分享的人，被喷的不敢分享
+我很尊敬还在坚持分享的人
+但是我还是要说一句，努力赚钱的人真的比很多人努力
+举一个例子，丰密和我认识的9个月以来，每天只睡5小时，其余都在干活。
+今天以后推特封闭了！
+只看，不发了。江湖再见！]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -273,6 +312,21 @@ How many folks were like “I missed it” with Luna at $1B mkt cap before it se
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Manta Network 中文社区: Manta Network 推出基于 ZK 的隐私 NFT/SBT 发行平台 NPO（NFT Private Offering）🚀🚀 1/ NPO 是 NFT 和 SBT Launchpad 平台，...]]></title>
+        <id>https://twitter.com/manta_china/status/1637805878391758850</id>
+        <link href="https://twitter.com/manta_china/status/1637805878391758850"/>
+        <updated>2023-03-20T13:18:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Manta Network 中文社区
+Manta Network 推出基于 ZK 的隐私 NFT/SBT 发行平台 NPO（NFT Private Offering）🚀🚀
+1/ NPO 是 NFT 和 SBT Launchpad 平台，开发者和项目方可直接利用 zkAddress 和 MantaPay 的 ZK 电路，创建 zkAddress 上的隐私 NFTs / SBTs。用户可直接使用公开资产支付 Mint 费用。
+
+Manta Network: Today, we are announcing an expansion of @MantaNetwork's ZK capabilities by enabling privacy support for NFTs and SBTs through zkSBTs and zkNFTs. These assets can be minted through the upcoming NFT Private Offerings (NPO) platform.
+Read more: https://mantanetwork.medium.com/introducing-zksbts-zknfts-and-npo-89a8e6d77a7f https://t.co/QiyblBWusW]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @resdegen Congrats king]]></title>
         <id>https://twitter.com/DeFi_educator/status/1637805568864796677</id>
         <link href="https://twitter.com/DeFi_educator/status/1637805568864796677"/>
@@ -372,9 +426,7 @@ Cliffs: If #BTC holds up, $ALTS are going to send strongly (eventually) https://
         <id>https://twitter.com/wublockchain12/status/1637773455096684544</id>
         <link href="https://twitter.com/wublockchain12/status/1637773455096684544"/>
         <updated>2023-03-20T11:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/star_okx/status/1637749728271298561
-
-Star: OKT Chain will continue be a L1 Chain,the closest launch will be OKTC WASM which allow us develop high performance Dapp through rust or c++. OKB Chain will be a L2 Chain of Ethereum, starting from side chain technology and will develop to ZK technology. Both OKTC and OKBC are on… https://twitter.com/i/web/status/1637749728271298561]]></summary>
+        <summary type="html"><![CDATA[Re https://twitter.com/star_okx/status/1637749728271298561]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -523,11 +575,11 @@ Ok https://t.co/TkJG2nAz2n]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[周末的深夜，适合读一点硬核的 https://twitter.com/jon_charb/status/1637297927554056193]]></title>
+        <title type="html"><![CDATA[周末的深夜，适合读一点硬核的]]></title>
         <id>https://twitter.com/8848Community/status/1637495659384414208</id>
         <link href="https://twitter.com/8848Community/status/1637495659384414208"/>
         <updated>2023-03-19T16:46:03.000Z</updated>
-        <summary type="html"><![CDATA[周末的深夜，适合读一点硬核的 https://twitter.com/jon_charb/status/1637297927554056193
+        <summary type="html"><![CDATA[周末的深夜，适合读一点硬核的
 
 Jon Charbonneau: This is the complete guide to:
 - Sequencer decentralization
@@ -614,11 +666,11 @@ Join our telegram: http://t.me/truflation https://t.co/FdooDBv63s]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599]]></title>
+        <title type="html"><![CDATA[额。。。控制了推特的人想发币]]></title>
         <id>https://twitter.com/8848Community/status/1637428654409150466</id>
         <link href="https://twitter.com/8848Community/status/1637428654409150466"/>
         <updated>2023-03-19T12:19:47.000Z</updated>
-        <summary type="html"><![CDATA[额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599
+        <summary type="html"><![CDATA[额。。。控制了推特的人想发币
 
 0xngmi (llamazip arc): The DefiLlama team is forking Defillama
 @Defillama is undergoing a hostile takeover
@@ -816,41 +868,6 @@ https://rice-daily.super.site/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XANA x BreakingDown 的Freemint白名单活动开始啦！ BreakingDown是由日本武术家和企业家Mikuru Asakura创立的MMA娱乐公司，每场比赛有超过3亿人次观看，正与领...]]></title>
-        <id>https://twitter.com/8848Community/status/1636978271366811648</id>
-        <link href="https://twitter.com/8848Community/status/1636978271366811648"/>
-        <updated>2023-03-18T06:30:08.000Z</updated>
-        <summary type="html"><![CDATA[XANA x BreakingDown 的Freemint白名单活动开始啦！
-BreakingDown是由日本武术家和企业家Mikuru Asakura创立的MMA娱乐公司，每场比赛有超过3亿人次观看，正与领先的Web3.0 Meraverse XANA携手合作。并宣布通过社会媒体渠道分发100个Freemint和500个白名单。
-看着挺有意思，撸一个降低中奖率 https://twitter.com/XANAMetaverse/status/1636639052471386114
-
-XANA: 🥊#XANA x #BreakingDown, The largest MMA Entertainment meets the best #Web3 #Meraverse !  
-🚀Launch on 31th March 
-🎁Win 100x Freemint and 500x AL Spot!
-✅Like & RT 
-✅Follow @XANAMetaverse @rio_noborderz
-✅Join http://discord.gg/xana  
-👉🏻Apply here! https://xana.net/xana-x-breakingdown-nft-freeming-allowlist-campaign-is-now-live https://t.co/1HaOvimIPR]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假的，我们没有验资门槛。 而且我们现在都没怎么建设群了 微信群没做了，剩个老群一些老屁股天天在吹水 discord 跟 tg 也只是偶尔还有发点消息 真的有心的粉丝，...]]></title>
-        <id>https://twitter.com/8848Community/status/1636966999254499328</id>
-        <link href="https://twitter.com/8848Community/status/1636966999254499328"/>
-        <updated>2023-03-18T05:45:20.000Z</updated>
-        <summary type="html"><![CDATA[假的，我们没有验资门槛。
-而且我们现在都没怎么建设群了
-微信群没做了，剩个老群一些老屁股天天在吹水
-discord 跟 tg 也只是偶尔还有发点消息
-真的有心的粉丝，也只好蹲蹲discord或者tg了
-外部环境限制太多，深感抱歉 https://t.co/LqZtMSP8uU]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @sanyuan2016 简单讲, 就是项目方压根不记录IP]]></title>
         <id>https://twitter.com/AntCaveClub/status/1636948025070452738</id>
         <link href="https://twitter.com/AntCaveClub/status/1636948025070452738"/>
@@ -968,11 +985,11 @@ They will help solve:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387]]></title>
+        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop]]></title>
         <id>https://twitter.com/OnChainWizard/status/1636377905352835073</id>
         <link href="https://twitter.com/OnChainWizard/status/1636377905352835073"/>
         <updated>2023-03-16T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387
+        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop
 
 Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         <author>
@@ -1227,16 +1244,6 @@ https://mirror.xyz/0x000002c34bAE6DD7BeC72AcbA6aAAC1e01A359De/VYlRgfOp_-vxwPRsDq
 #zkEVM #DeFi #DEX #L2 #L222]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @blocmatesdotcom Been saying the same thing. “Onboard the next 1bn users” to BaseOHM]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1630089592907898880</id>
-        <link href="https://twitter.com/OnChainWizard/status/1630089592907898880"/>
-        <updated>2023-02-27T06:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @blocmatesdotcom Been saying the same thing.    “Onboard the next 1bn users” to BaseOHM]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
