@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T07:12:06.501Z</id>
+    <id>urn:2023-03-21T08:17:13.259Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T07:12:06.501Z</updated>
+    <updated>2023-03-21T08:17:13.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[泵还在吗 巨大的泵没了，只剩马桶泵了 https://t.co/M1zUOF5iOn]]></title>
+        <id>https://twitter.com/8848Community/status/1638091087423361025</id>
+        <link href="https://twitter.com/8848Community/status/1638091087423361025"/>
+        <updated>2023-03-21T08:12:04.000Z</updated>
+        <summary type="html"><![CDATA[泵还在吗
+巨大的泵没了，只剩马桶泵了 https://t.co/M1zUOF5iOn]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alexliko @pudgyray Your too kind]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1638083786222051330</id>
+        <link href="https://twitter.com/OnChainWizard/status/1638083786222051330"/>
+        <updated>2023-03-21T07:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @alexliko @pudgyray Your too kind]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/ArkhamIntel/status/1637759733737177091?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638068637880971264</id>
+        <link href="https://twitter.com/wublockchain12/status/1638068637880971264"/>
+        <updated>2023-03-21T06:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/ArkhamIntel/status/1637759733737177091?s=20
+
+Arkham: gm
+A reported hacker on Arbitrum has been sending money over the past 12 hours to around 2400 presumably compromised wallets.
+These wallets then approve the ARB token in anticipation of receiving the airdrop.
+address - 0x59d4087f3ff91da6a492b596cbde7140c34afb19
+Stay safe!]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 黑客以某种方式获得了这些钱包的访问权限/私钥，并已提前对 ARB 进行了授权。Arkham 表示，目前最好的方案是撤销黑客提前批准的 ARB 授权，如果在空投申领前...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638068636240994306</id>
+        <link href="https://twitter.com/wublockchain12/status/1638068636240994306"/>
+        <updated>2023-03-21T06:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 黑客以某种方式获得了这些钱包的访问权限/私钥，并已提前对 ARB 进行了授权。Arkham 表示，目前最好的方案是撤销黑客提前批准的 ARB 授权，如果在空投申领前再次出现则再次撤销；若黑客有私钥，他们总是可以通过手动将用户的 ARB 空投转出，但无法使用智能合约来自动完成。https://arbiscan.io/address/0x59d4087f3ff91da6a492b596cbde7140c34afb19]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 监测，被 Nansen 标记为 Arbitrum Airdrop Exploiter 的黑客地址（0x59d4087f3ff91da6a492b596cbde7140c34afb19）在过去两天里向 2400 个 A...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638068634793971712</id>
+        <link href="https://twitter.com/wublockchain12/status/1638068634793971712"/>
+        <updated>2023-03-21T06:42:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 监测，被 Nansen 标记为 Arbitrum Airdrop Exploiter 的黑客地址（0x59d4087f3ff91da6a492b596cbde7140c34afb19）在过去两天里向 2400 个 Arbitrum 链上钱包转入 Gas 以准备第一时间领取并转移即将到来的 ARB 空投（至少 150  万枚 ARB 空投受此影响）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，BNB Chain 公布 BNB Chain Builder Grant 2 月份获胜项目：FranklinDAO 和 identity。FranklinDAO 由超过 100名对区块链和DeFi 感兴趣的宾夕法尼亚大...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638064566839156736</id>
+        <link href="https://twitter.com/wublockchain12/status/1638064566839156736"/>
+        <updated>2023-03-21T06:26:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，BNB Chain 公布 BNB Chain Builder Grant 2 月份获胜项目：FranklinDAO 和 identity。FranklinDAO 由超过 100名对区块链和DeFi 感兴趣的宾夕法尼亚大学的学生组成，该团队计划为其成员提供有趣的教育体验。Identity… https://twitter.com/i/web/status/1638064566839156736]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Render Network Foundation 发文建议投入资源在 Solana 上进行构建，文章称Rust 可以为渲染网络提供比 Solidity 更快的速度和灵活性。Render Network ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638061200994095104</id>
+        <link href="https://twitter.com/wublockchain12/status/1638061200994095104"/>
+        <updated>2023-03-21T06:13:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Render Network Foundation 发文建议投入资源在 Solana 上进行构建，文章称Rust 可以为渲染网络提供比 Solidity 更快的速度和灵活性。Render Network 是一家为 NFT 和元宇宙项目提供渲染工具的加密初创公司，此前获得了来自 Multicoin Capital、Alameda Research、Solana Foundation… https://twitter.com/i/web/status/1638061200994095104]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 向 SEC 提交评论信，解释质押服务不是证券发行，只是软件服务，核心质押服务未能通过 Howey 测试的每一个分支；要求美国 SEC 澄清质押服务不...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638061045293137921</id>
+        <link href="https://twitter.com/wublockchain12/status/1638061045293137921"/>
+        <updated>2023-03-21T06:12:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 向 SEC 提交评论信，解释质押服务不是证券发行，只是软件服务，核心质押服务未能通过 Howey 测试的每一个分支；要求美国 SEC 澄清质押服务不是证券这一事实。https://assets.ctfassets.net/c5bd0wqjc7v0/37LaXLBCdgLHa7GE4TPnmw/7824df367e12f4136951db794a5df63d/Staking_Comment_Letter_3-20-2023_FINAL.pdf]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @LabSpeculation 所以还是得🐻是吧。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638056445102157825</id>
@@ -13,6 +100,39 @@
         <summary type="html"><![CDATA[Re @LabSpeculation 所以还是得🐻是吧。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 0xScope 监测，一地址（0xa8...7a49）在 Immutable 发布公告前两个小时将 150 万枚 IMX 存入币安，这些 IMX 是其 10 天前从币安提取，当时价格为 0...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638054242408861702</id>
+        <link href="https://twitter.com/wublockchain12/status/1638054242408861702"/>
+        <updated>2023-03-21T05:45:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 0xScope 监测，一地址（0xa8...7a49）在 Immutable 发布公告前两个小时将 150 万枚 IMX 存入币安，这些 IMX 是其 10 天前从币安提取，当时价格为 0.95 美元。预计该行为将为其带来 75 万美元的收益。
+https://twitter.com/ScopeProtocol/status/1638045502385328129
+
+吴说区块链: 吴说获悉，以太坊二层扩容方案 Immutable X 开发团队 Immutable 宣布与 Polygon Labs 建立战略合作伙伴关系，创建由 Polygon 提供支持的 Immutable zkEVM，IMX 成为 Immutable zkEVM 的原生 gas Token。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 按数量来看，前五大是： Coinbase、DCG、NGC、AU21 和 Animoca。过去12个月最活跃的是：Big Brain Holdings、Shima Capital、Infinity Ventures、GSR 和 MH V...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638051871536611328</id>
+        <link href="https://twitter.com/wublockchain12/status/1638051871536611328"/>
+        <updated>2023-03-21T05:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 按数量来看，前五大是： Coinbase、DCG、NGC、AU21 和 Animoca。过去12个月最活跃的是：Big Brain Holdings、Shima Capital、Infinity Ventures、GSR 和 MH Ventures。https://m.techflowpost.com/article/2280]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《2023 年 Crypto VC 名录：全球 300 家加密基金中谁最活跃？》（作者：Ryan Allis 等 编译：深潮）按基金规模来看，最大加密 VC 是： A16Z Crypto、Binance Lab...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638051869749825536</id>
+        <link href="https://twitter.com/wublockchain12/status/1638051869749825536"/>
+        <updated>2023-03-21T05:36:13.000Z</updated>
+        <summary type="html"><![CDATA[《2023 年 Crypto VC 名录：全球 300 家加密基金中谁最活跃？》（作者：Ryan Allis 等 编译：深潮）按基金规模来看，最大加密 VC 是： A16Z Crypto、Binance Labs、Multicoin、Pantera 和 Paradigm。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -173,36 +293,6 @@ https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SocialFi 项目 BBS Network 解读：币安 DCG Polychain 等顶级投资方，试图打造去中心化的 Reddit；每个帖子实际上都是一个 NFT，用户可以在自己帖子的广告位中进...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637990980711485443</id>
-        <link href="https://twitter.com/wublockchain12/status/1637990980711485443"/>
-        <updated>2023-03-21T01:34:16.000Z</updated>
-        <summary type="html"><![CDATA[SocialFi 项目 BBS Network 解读：币安 DCG Polychain 等顶级投资方，试图打造去中心化的 Reddit；每个帖子实际上都是一个 NFT，用户可以在自己帖子的广告位中进行创作、购买、销售和收益。所有广告和 NFT https://mp.weixin.qq.com/s/JLAIzygDFuGd1iz_SPwEzw… https://twitter.com/i/web/status/1637990980711485443]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介绍 Oasis Origin：Web3 社交黑客松头奖得主，通过世界、广场和俱乐部等三种模式，不仅能为用户提供了公共社交，也可以打造了一个私密场所；迎合 Z 世代需求，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637990947656208384</id>
-        <link href="https://twitter.com/wublockchain12/status/1637990947656208384"/>
-        <updated>2023-03-21T01:34:08.000Z</updated>
-        <summary type="html"><![CDATA[介绍 Oasis Origin：Web3 社交黑客松头奖得主，通过世界、广场和俱乐部等三种模式，不仅能为用户提供了公共社交，也可以打造了一个私密场所；迎合 Z 世代需求，提供个性化、定制化的展示机会；近期接入了 GPT4 的 API，打造一个与 AI 共存的元宇宙。阅读全文：https://mp.weixin.qq.com/s/XsRCMlSEpalSdsLMi7JJjA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Fortune 报道，Coinbase 曾在 SVB 破产后向 Circle 提供了约 30 亿美元的即时信贷额度，以确保稳定币可以在 SVB 破产后的周一（3 月 13 日）早上兑换成美元，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637988032686198785</id>
-        <link href="https://twitter.com/wublockchain12/status/1637988032686198785"/>
-        <updated>2023-03-21T01:22:33.000Z</updated>
-        <summary type="html"><![CDATA[据 Fortune 报道，Coinbase 曾在 SVB 破产后向 Circle 提供了约 30 亿美元的即时信贷额度，以确保稳定币可以在 SVB 破产后的周一（3 月 13 日）早上兑换成美元，保证 USDC 储备的全部流动性。此前 Circle 在破产的 SVB 中储存了 33 亿美元，由于市场担心该部分资产的损失，USDC 一度跌至 0.88… https://twitter.com/i/web/status/1637988032686198785]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @knlae_ @cburniske bidding]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1637987524499894272</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1637987524499894272"/>
@@ -210,71 +300,6 @@ https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-com
         <summary type="html"><![CDATA[Re @knlae_ @cburniske bidding]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Luxor 数据，过去两个月中，效率最高的比特币矿机的价格上涨了 9%。比特币价格上涨的同时，矿工们终于看到电价暴跌——这基本上扭转了去年挤压他们利润率并导...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637986098302566400</id>
-        <link href="https://twitter.com/wublockchain12/status/1637986098302566400"/>
-        <updated>2023-03-21T01:14:52.000Z</updated>
-        <summary type="html"><![CDATA[据 Luxor 数据，过去两个月中，效率最高的比特币矿机的价格上涨了 9%。比特币价格上涨的同时，矿工们终于看到电价暴跌——这基本上扭转了去年挤压他们利润率并导致一些人破产的趋势。公司筹集股权资本变得越来越容易，从而使他们能够去杠杆化。（TheBlock）https://www.theblock.co/post/221222/bitcoin-rally-is-pure-gravy-for-miners-finally-seeing-a-light-at-the-end-of-the-tunnel?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密交易公司 Auros Global 筹集 1700 万美元新投资，传统高频交易公司 Vivienne Court Trading 和比特币矿企 Bit Digital 领投。由于 2000 万美元困住 FTX 中无...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637983985543557121</id>
-        <link href="https://twitter.com/wublockchain12/status/1637983985543557121"/>
-        <updated>2023-03-21T01:06:29.000Z</updated>
-        <summary type="html"><![CDATA[加密交易公司 Auros Global 筹集 1700 万美元新投资，传统高频交易公司 Vivienne Court Trading 和比特币矿企 Bit Digital 领投。由于 2000 万美元困住 FTX 中无法提出，Auros 在 FTX 崩盘后面临流动性危机，并进行了重大债务重组。（CoinDesk）
-https://www.coindesk.com/business/2023/03/21/crypto-trading-firm-auros-secures-17m-investment-as-it-recovers-from-ftx-woes/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外 Immutable 还公布了费用更新计划，平台费用 20% 必须以 IMX 支付。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637982776707231745</id>
-        <link href="https://twitter.com/wublockchain12/status/1637982776707231745"/>
-        <updated>2023-03-21T01:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外 Immutable 还公布了费用更新计划，平台费用 20% 必须以 IMX 支付。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1637978108128276480]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637981774914650113</id>
-        <link href="https://twitter.com/wublockchain12/status/1637981774914650113"/>
-        <updated>2023-03-21T00:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1637978108128276480
-
-Adam@Greeks.live: 比特币和以太坊今天均出现了近五成大宗成交，其中比特币看涨牛市价差和看涨日历价差为主，以太坊以卖出中等期限看涨为主。
-相关期限隐含波动率IV下降明显，订单数据看，巨鲸看淡后市的波动水平，选择在Fomc之前加仓说明想抢在其他人之前做空波动率。 https://t.co/x143O2oYhw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，比特币和以太坊今天均出现了近五成大宗成交，其中比特币以看涨牛市价差和看涨日历价差为主，以太坊以卖出中等期限看涨为主。相关期...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637981773102747649</id>
-        <link href="https://twitter.com/wublockchain12/status/1637981773102747649"/>
-        <updated>2023-03-21T00:57:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，比特币和以太坊今天均出现了近五成大宗成交，其中比特币以看涨牛市价差和看涨日历价差为主，以太坊以卖出中等期限看涨为主。相关期限隐含波动率 IV 下降明显，订单数据看，巨鲸看淡后市的波动水平，选择在 Fomc 之前加仓说明想抢在其他人之前做空波动率。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布将在 BTC 市场中新增 MAGIC，仅支持来自 Arbitrum 网络的存款，预计交易于 3 月 21 日 16 时开放。MAGIC 是建立在 Arbitrum...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1637981356150931459</id>
-        <link href="https://twitter.com/wublockchain12/status/1637981356150931459"/>
-        <updated>2023-03-21T00:56:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布将在 BTC 市场中新增 MAGIC，仅支持来自 Arbitrum 网络的存款，预计交易于 3 月 21 日 16 时开放。MAGIC 是建立在 Arbitrum 的游戏平台及生态项目 Treasure 的代币，此前已上线币安等交易所。
-https://upbit.com/service_center/notice?id=3396]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -403,7 +428,7 @@ https://upbit.com/service_center/notice?id=3396]]></summary>
         <link href="https://twitter.com/DeFiSurfer808/status/1637905140798701571"/>
         <updated>2023-03-20T19:53:11.000Z</updated>
         <summary type="html"><![CDATA[We need a @CommunityNotes @elonmusk. 
-If @SenatorBraun is right this is an insane misrepresentation of what the bill Biden vetoed actually is. https://t.co/dCalBCNpYG
+If @SenatorBraun is right this is an insane misrepresentation of what the bill Biden vetoed actually is. https://twitter.com/potus/status/1637860509432045591 https://t.co/dCalBCNpYG
 
 
 President Biden: I just vetoed my first bill.
@@ -721,7 +746,7 @@ https://joncharbonneau.substack.com/p/rollups-arent-real]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/cryptocapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -786,7 +811,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
@@ -1126,7 +1151,7 @@ https://t.co/Rjut5qJajJ]]></summary>
         <summary type="html"><![CDATA[RT Curve Finance
 > Smart contract developers may need to design reset possibilities to allow termination or interruption of transactions.
 > The European Parliament adopted legislation under the Data Act on Tuesday, with 500 votes in favor and 23 against.
-Fire them all. Impossible to comply here https://twitter.com/TheBlock__/status/1635609112363892736
+Fire them all. Impossible to comply here
 
 The Block: EU Parliament passes smart contract regulation under Data Act https://www.theblock.co/post/219590/eu-parliament-passes-smart-contract-regulation-under-data-act?utm_source=twitter&utm_medium=social]]></summary>
         <author>
@@ -1220,16 +1245,6 @@ Got #Bitcoin? https://t.co/niE9Vz5iSs]]></summary>
         <summary type="html"><![CDATA[RT Silent Protocol
 ‘EZEE’: The final answer to the tango between private and public systems- Part B.
 https://medium.com/silent-protocol/ezee-the-final-answer-to-the-tango-between-private-and-public-systems-part-b-8dd2198b9842]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @zec_jay @ChainEDGE_io Down bc we are pushing our upgrade into production!]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1632385474630152193</id>
-        <link href="https://twitter.com/OnChainWizard/status/1632385474630152193"/>
-        <updated>2023-03-05T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @zec_jay @ChainEDGE_io Down bc we are pushing our upgrade into production!]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
