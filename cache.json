@@ -6,56 +6,6 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
-          "id": "https://twitter.com/wublockchain12/status/1638472889396776960",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Coinbase 主管 @jconorgrogan 研究，目前约 4075 万个地址持有余额小于 0.0005 ETH。由于在 20 gwei 情况下需要大约 0.0005 ETH Gas 做一次交互，一般来说用户不值得将其发送到交易所并出售，因此这实际相当于约 1150 万美元（6,242 ETH）退出流通领域。另外，大约 7950… https://twitter.com/i/web/status/1638472889396776960\n\n吴说区块链: 吴说获悉，Coinbase 主管 Conor 在推文中表示，他对数千个因用户错误、合约错误的合约进行了分类，已发现 63.6 万枚 ETH （约合 11.5 亿美元）永远遗失，约占流通供应量的 0.5%。其中有一半（约 36 万枚）是由于 2017 年 Parity 加密钱包中的一个漏洞造成的。",
-          "link": "https://twitter.com/wublockchain12/status/1638472889396776960",
-          "publishedOn": "2023-03-22T09:29:12.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 Coinbase 主管 @jconorgrogan 研究，目前约 4075 万个地址持有余额小于 0.0005 ETH。由于在 20 gwei 情况下需要大约 0.0005 ETH Gas 做一次交互，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1638470475465773056",
-          "author": "吴说区块链",
-          "description": "据彭博社，华尔街和美国官员正在讨论对第一共和银行 First Republic  进行干预，他们正在探索政府支持的可能性，以鼓励达成一项能够支撑该银行的交易。财政部长耶伦周二表示，如果其他小银行受到威胁，美国可能会采取额外的非常规行动。https://www.bloomberg.com/news/articles/2023-03-21/first-republic-rescue-may-rely-on-us-backing-to-facilitate-deal",
-          "link": "https://twitter.com/wublockchain12/status/1638470475465773056",
-          "publishedOn": "2023-03-22T09:19:37.000Z",
-          "wordCount": 509,
-          "title": "据彭博社，华尔街和美国官员正在讨论对第一共和银行 First Republic 进行干预，他们正在探索政府支持的可能性，以鼓励达成一项能够支撑该银行的交易。财政部长耶...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1638469031987646464",
-          "author": "吴说区块链",
-          "description": "Re 主要原因是 Arbitrum 的防女巫规则没有对以下四种类型进行防范：少于20个地址；通过交易所、跨链桥、智能合约存取款；快照后有明显收集 NFT 或资金行为；Optimism、Ethereum 等其他链上有明显批量操作行为。阅读全文：https://twitter.com/x_explore_eth/status/1638452183682416641\n\nX-explore: 1/8  We found Arbitrum Sybil detection rules cause loopholes. Through our same-person/Sybil address recognition model, we identified more than 279,328 same-person and 148,595 Sybil airdrop addresses. @arbitrum is welcome to contact us.\nDetail in our Mirror:https://mirror.xyz/x-explore.eth/AFroG11e24I6S1oDvTitNdQSDh8lN5bz9VZAink8lZ4",
-          "link": "https://twitter.com/wublockchain12/status/1638469031987646464",
-          "publishedOn": "2023-03-22T09:13:53.000Z",
-          "wordCount": 509,
-          "title": "Re 主要原因是 Arbitrum 的防女巫规则没有对以下四种类型进行防范：少于20个地址；通过交易所、跨链桥、智能合约存取款；快照后有明显收集 NFT 或资金行为；Opti...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1638469030318317568",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 @x_explore_eth 研究，Arbitrum 空投的防女巫策略存在重大漏洞，导致出现了超过 15 万个女巫地址与超过 4000 个女巫社区参与其中，女巫地址总收益超过 2.53 亿个代币，占空投代币总数的 21.8%。",
-          "link": "https://twitter.com/wublockchain12/status/1638469030318317568",
-          "publishedOn": "2023-03-22T09:13:52.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 @x_explore_eth 研究，Arbitrum 空投的防女巫策略存在重大漏洞，导致出现了超过 15 万个女巫地址与超过 4000 个女巫社区参与其中，女巫地址总收益...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1638457706343460864",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，安全审计团队 Supremacy 发推表示，韩流明星权志龙名下品牌 Peaceminusone 发行的 NFT 合约存在 Supremacy 先前所披露的CVE-2022-38217 通用型安全漏洞。此漏洞可导致该项目的所有 NFT 的元数据遭到提前泄露，黑客可预先筛选有价值的 NFT，之后通过监测 Mempool 的方式定向 mint 指定的NFT… https://twitter.com/i/web/status/1638457706343460864\n\nSupremacy | We're Hiring: 👀 It seems that the \"PEACEMINUSONE (PMO)\" NFT series issued by @IBGDRGN has the CVE-2022-38217 generic vulnerability we previously disclosed.\nThe possibility of having been used in the wild cannot be ruled out. https://t.co/866KyLBuSo",
-          "link": "https://twitter.com/wublockchain12/status/1638457706343460864",
-          "publishedOn": "2023-03-22T08:28:52.000Z",
-          "wordCount": 509,
-          "title": "Re 吴说获悉，安全审计团队 Supremacy 发推表示，韩流明星权志龙名下品牌 Peaceminusone 发行的 NFT 合约存在 Supremacy 先前所披露的CVE-2022-38217 通用型安全...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/wublockchain12/status/1638440642459353088",
           "author": "吴说区块链",
           "description": "据 AFR 报道，澳大利亚审慎监管局 (APRA) 要求该国银行报告其对初创企业和加密货币相关业务的风险敞口，在某些情况下，银行需要每天报告一次。银行还被告知“改进他们关于加密资产的报告”，因为 APRA 在最近加密银行倒闭后寻求更深入地了解系统中的风险和漏洞。https://www.afr.com/companies/financial-services/banks-told-to-report-on-crypto-start-up-risks-20230321-p5cu04",
@@ -204,6 +154,56 @@
           "wordCount": 509,
           "title": "美国参议员伊丽莎白沃伦和另一位知名同事敦促美国审计监督机构对加密货币公司的 \"虚假审计 \"采取行动，理由是此类审计对美国银行系统近期的压力造成了影响。此前...",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1638341153761406977",
+          "author": "吴说区块链",
+          "description": "Cathie Wood（木头姐） 的 ARK Fintech Innovation ETF 出售了价值 1350 万美元的 Coinbase 股票，这是其自 2022 年 7 月以后首次出售大量 Coinbase 股票。此前 Ark Invest 旗下基金已多次购买大量 Coinbase、Block 等加密企业股票，自 2 月以来累计增持超 6000 万美元。（The Block）… https://twitter.com/i/web/status/1638341153761406977",
+          "link": "https://twitter.com/wublockchain12/status/1638341153761406977",
+          "publishedOn": "2023-03-22T00:45:44.000Z",
+          "wordCount": 509,
+          "title": "Cathie Wood（木头姐） 的 ARK Fintech Innovation ETF 出售了价值 1350 万美元的 Coinbase 股票，这是其自 2022 年 7 月以后首次出售大量 Coinbase 股票。此前 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1638339160179376128",
+          "author": "吴说区块链",
+          "description": "钱包应用 Turnkey 从红杉资本和 Coinbase 等投资者那里筹集了 750 万美元，该应用的目标是成为开发人员优先的工具，允许用户“生成数百个钱包并在任何链上签署数千笔交易，且具有灵活、可编程的权限，以确保用户只签署其想要的内容。”（The Block）\nhttps://www.theblock.co/post/221669/coinbase-variant-backed-startup-ushers-in-crypto-security-renaissance?utm_source=rss&utm_medium=rss",
+          "link": "https://twitter.com/wublockchain12/status/1638339160179376128",
+          "publishedOn": "2023-03-22T00:37:49.000Z",
+          "wordCount": 509,
+          "title": "钱包应用 Turnkey 从红杉资本和 Coinbase 等投资者那里筹集了 750 万美元，该应用的目标是成为开发人员优先的工具，允许用户“生成数百个钱包并在任何链上签署数...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1638337740260651008",
+          "author": "吴说区块链",
+          "description": "游戏巨头 Sony 上周提交了一份专利申请文件，将允许消费者在索尼生态系统内外使用 NFT。文件还表示“NFT 的所有权也可能随后转移给其他用户，供他们自己在不同的平台上使用。”Sony 在 2022 年 11 月也申请了 NFT 专利，但因未能“将抽象概念融入实际应用”而被驳回。（The Block）… https://twitter.com/i/web/status/1638337740260651008",
+          "link": "https://twitter.com/wublockchain12/status/1638337740260651008",
+          "publishedOn": "2023-03-22T00:32:10.000Z",
+          "wordCount": 509,
+          "title": "游戏巨头 Sony 上周提交了一份专利申请文件，将允许消费者在索尼生态系统内外使用 NFT。文件还表示“NFT 的所有权也可能随后转移给其他用户，供他们自己在不同的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1638336113030078464",
+          "author": "吴说区块链",
+          "description": "吴说获悉，SushiSwap 现任 CEO Jared Grey 在社区提案建议设立 Sushi DAO 法律辩护基金，由 Sushi DAO 提供 300 万 USDT 的资金支持，原因是 Sushi 和 Jared Grey 收到了 SEC 的传票。该辩护基金将支付针对核心贡献者的查询、诉讼和其他问题的法律费用。\nhttps://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813",
+          "link": "https://twitter.com/wublockchain12/status/1638336113030078464",
+          "publishedOn": "2023-03-22T00:25:42.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，SushiSwap 现任 CEO Jared Grey 在社区提案建议设立 Sushi DAO 法律辩护基金，由 Sushi DAO 提供 300 万 USDT 的资金支持，原因是 Sushi 和 Jared Gre...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1638334789404233728",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Magic Eden 宣布推出一个经过审计的比特币 NFT 市场，交易者可以购买铭文，或其他在比特币网络中用 satoshis 铸造的 NFT。Magic Eden 宣布与比特币钱包 Hiro 和 Xverse 合作，以允许交易者列出、购买和出售 Ordinal NFT。\nhttps://blog.magiceden.io/bitcoin-marketplace?utm_source=magiceden&utm_medium=organic&utm_term=bitcoin&utm_content=&utm_campaign=product-marketing-marketplace",
+          "link": "https://twitter.com/wublockchain12/status/1638334789404233728",
+          "publishedOn": "2023-03-22T00:20:27.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，Magic Eden 宣布推出一个经过审计的比特币 NFT 市场，交易者可以购买铭文，或其他在比特币网络中用 satoshis 铸造的 NFT。Magic Eden 宣布与比特币钱...",
+          "imageUrl": null
         }
       ]
     },
@@ -235,31 +235,31 @@
         {
           "id": "https://twitter.com/8848Community/status/1638416926610456577",
           "author": "8848 社区（8848 Community）",
-          "description": "😂😂😂怎么感觉有点好笑\n好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投 https://twitter.com/kaisun55704098/status/1638336588165029889\n\nimayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf https://twitter.com/arbitrumnewsdao/status/1638212692078137344",
+          "description": "😂😂😂怎么感觉有点好笑\n好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投\n\nimayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf",
           "link": "https://twitter.com/8848Community/status/1638416926610456577",
           "publishedOn": "2023-03-22T05:46:50.000Z",
           "wordCount": 509,
-          "title": "😂😂😂怎么感觉有点好笑 好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投 https://twitter.com/kaisun55704098/status/163833658816...",
+          "title": "😂😂😂怎么感觉有点好笑 好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1638414767571501056",
           "author": "8848 社区（8848 Community）",
-          "description": "十万大军下江南 https://twitter.com/Monica_xiaoM/status/1638295652219375617\n\n加密小师妹|Monica: 有关SUI的信息来自官方推特SPACE：\n1.联合创始人兼CEO确认有10万+用户进入白名单，白名单可以以非常低的价格购买代币\n2.白名单的成员包括参与测试Dapps，提供过有价值反馈，或者活跃于DC的成员，验证者等等\n3.三测马上要开了，主网预计Q2。",
+          "description": "十万大军下江南\n\n加密小师妹|Monica: 有关SUI的信息来自官方推特SPACE：\n1.联合创始人兼CEO确认有10万+用户进入白名单，白名单可以以非常低的价格购买代币\n2.白名单的成员包括参与测试Dapps，提供过有价值反馈，或者活跃于DC的成员，验证者等等\n3.三测马上要开了，主网预计Q2。",
           "link": "https://twitter.com/8848Community/status/1638414767571501056",
           "publishedOn": "2023-03-22T05:38:15.000Z",
           "wordCount": 509,
-          "title": "十万大军下江南 https://twitter.com/Monica_xiaoM/status/1638295652219375617",
+          "title": "十万大军下江南",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1638215364294365184",
           "author": "8848 社区（8848 Community）",
-          "description": "Chainflip 公布代币分配细节，参与20/21年 节点计划的有空投，社区NFT持有者没有空投 https://twitter.com/Chainflip/status/1638205061175078919\n\nCHAINFLIP LABS: You asked \"wen token\". \nHere is part one to that answer.\nEnjoy the new $flip token page. On it, check out: \n-  Its utility within the protocol.\n-  Information about the supply metrics.\n-  The distribution & release of the token at TGE.\nhttps://chainflip.io/token https://t.co/nefLkmAnVK",
+          "description": "Chainflip 公布代币分配细节，参与20/21年 节点计划的有空投，社区NFT持有者没有空投\n\nCHAINFLIP LABS: You asked \"wen token\". \nHere is part one to that answer.\nEnjoy the new $flip token page. On it, check out: \n-  Its utility within the protocol.\n-  Information about the supply metrics.\n-  The distribution & release of the token at TGE.\nhttps://chainflip.io/token https://t.co/nefLkmAnVK",
           "link": "https://twitter.com/8848Community/status/1638215364294365184",
           "publishedOn": "2023-03-21T16:25:54.000Z",
           "wordCount": 509,
-          "title": "Chainflip 公布代币分配细节，参与20/21年 节点计划的有空投，社区NFT持有者没有空投 https://twitter.com/Chainflip/status/1638205061175078919",
+          "title": "Chainflip 公布代币分配细节，参与20/21年 节点计划的有空投，社区NFT持有者没有空投",
           "imageUrl": null
         },
         {
@@ -285,11 +285,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1637851936102973441",
           "author": "8848 社区（8848 Community）",
-          "description": "好好休息吧\n今晚为 Mike 设酒送行 https://twitter.com/Mikemoo75197959/status/1637846533759709185\n\nMike8848: 推特上的仇富，恶意诋毁太多了\n以前我是一个爱分享的人，被喷的不敢分享\n我很尊敬还在坚持分享的人\n但是我还是要说一句，努力赚钱的人真的比很多人努力\n举一个例子，丰密和我认识的9个月以来，每天只睡5小时，其余都在干活。\n今天以后推特封闭了！\n只看，不发了。江湖再见！",
+          "description": "好好休息吧\n今晚为 Mike 设酒送行\n\nMike8848: 推特上的仇富，恶意诋毁太多了\n以前我是一个爱分享的人，被喷的不敢分享\n我很尊敬还在坚持分享的人\n但是我还是要说一句，努力赚钱的人真的比很多人努力\n举一个例子，丰密和我认识的9个月以来，每天只睡5小时，其余都在干活。\n今天以后推特封闭了！\n只看，不发了。江湖再见！",
           "link": "https://twitter.com/8848Community/status/1637851936102973441",
           "publishedOn": "2023-03-20T16:21:46.000Z",
           "wordCount": 509,
-          "title": "好好休息吧 今晚为 Mike 设酒送行 https://twitter.com/Mikemoo75197959/status/1637846533759709185",
+          "title": "好好休息吧 今晚为 Mike 设酒送行",
           "imageUrl": null
         },
         {
@@ -325,11 +325,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1637428654409150466",
           "author": "8848 社区（8848 Community）",
-          "description": "额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599",
+          "description": "额。。。控制了推特的人想发币",
           "link": "https://twitter.com/8848Community/status/1637428654409150466",
           "publishedOn": "2023-03-19T12:19:47.000Z",
           "wordCount": 509,
-          "title": "额。。。控制了推特的人想发币 https://twitter.com/0xngmi/status/1637425043482222599",
+          "title": "额。。。控制了推特的人想发币",
           "imageUrl": null
         },
         {
@@ -539,11 +539,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1638353371328331777",
           "author": "DeFi Educator",
-          "description": "This is how in-depth the report by the US government is on crypto... \nYou can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928\n\nJandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk",
+          "description": "This is how in-depth the report by the US government is on crypto... \nYou can see they've really done their homework\n\nJandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk",
           "link": "https://twitter.com/DeFi_educator/status/1638353371328331777",
           "publishedOn": "2023-03-22T01:34:17.000Z",
           "wordCount": 509,
-          "title": "This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...",
+          "title": "This is how in-depth the report by the US government is on crypto... You can see they've really done their homework",
           "imageUrl": null
         },
         {
@@ -587,19 +587,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/Darrenlautf/status/1637446918589804545",
-          "author": "DeFi Educator",
-          "description": "RT Darren Lau (Lau, Lau) 👘\nRe ok what i found so far \nDefillama twitter hints at airdrop yesterday\nhttps://twitter.com/DefiLlama/status/1637170555605377024\nThe twitter and domain are owned by a cofounder\nhttps://twitter.com/0xKofi/status/1637429728091992064\nAcc to ratwell, https://twitter.com/0xLlam4 is the one pushing for the token\nhttps://twitter.com/ratwell0x/status/1637439386110287873",
-          "link": "https://twitter.com/Darrenlautf/status/1637446918589804545",
-          "publishedOn": "2023-03-19T13:32:22.000Z",
-          "wordCount": 509,
-          "title": "RT Darren Lau (Lau, Lau) 👘: Re ok what i found so far Defillama twitter hints at airdrop yesterday https://twitter.com/DefiLlama/status/16371705556...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/DeFi_educator/status/1637444866224398336",
           "author": "DeFi Educator",
-          "description": "Here’s what’s wrong with Capo;\n- As a trader strong opinions, should be loosely held. \n- Ask yourself what would I need to see to prove me wrong? \nIf you don’t define your invalidation, you’re never wrong. \nDo you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617\n\nil Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:\nThis time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617",
+          "description": "Here’s what’s wrong with Capo;\n- As a trader strong opinions, should be loosely held. \n- Ask yourself what would I need to see to prove me wrong? \nIf you don’t define your invalidation, you’re never wrong. \nDo you want to be right or make money? Can’t do both…\n\nil Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:\nThis time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617",
           "link": "https://twitter.com/DeFi_educator/status/1637444866224398336",
           "publishedOn": "2023-03-19T13:24:13.000Z",
           "wordCount": 509,
@@ -609,7 +599,7 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1637114511525019648",
           "author": "DeFi Educator",
-          "description": "If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.\nExample. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520\n\nBalaji: I will take that bet.\nYou buy 1 BTC.\nI will send $1M USD.\nThis is ~40:1 odds as 1 BTC is worth ~$26k.\nThe term is 90 days.\nAll we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.\nIf someone knows how to do this… https://twitter.com/i/web/status/1636797265317867520 https://t.co/6Aav9KeJpe",
+          "description": "If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.\nExample. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.\n\nBalaji: I will take that bet.\nYou buy 1 BTC.\nI will send $1M USD.\nThis is ~40:1 odds as 1 BTC is worth ~$26k.\nThe term is 90 days.\nAll we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.\nIf someone knows how to do this… https://twitter.com/i/web/status/1636797265317867520 https://t.co/6Aav9KeJpe",
           "link": "https://twitter.com/DeFi_educator/status/1637114511525019648",
           "publishedOn": "2023-03-18T15:31:30.000Z",
           "wordCount": 509,
@@ -699,7 +689,7 @@
         {
           "id": "https://twitter.com/CurveFinance/status/1635615657487134722",
           "author": "DeFi Educator",
-          "description": "RT Curve Finance\n> Smart contract developers may need to design reset possibilities to allow termination or interruption of transactions.\n> The European Parliament adopted legislation under the Data Act on Tuesday, with 500 votes in favor and 23 against.\nFire them all. Impossible to comply here https://twitter.com/TheBlock__/status/1635609112363892736\n\nThe Block: EU Parliament passes smart contract regulation under Data Act https://www.theblock.co/post/219590/eu-parliament-passes-smart-contract-regulation-under-data-act?utm_source=twitter&utm_medium=social",
+          "description": "RT Curve Finance\n> Smart contract developers may need to design reset possibilities to allow termination or interruption of transactions.\n> The European Parliament adopted legislation under the Data Act on Tuesday, with 500 votes in favor and 23 against.\nFire them all. Impossible to comply here\n\nThe Block: EU Parliament passes smart contract regulation under Data Act https://www.theblock.co/post/219590/eu-parliament-passes-smart-contract-regulation-under-data-act?utm_source=twitter&utm_medium=social",
           "link": "https://twitter.com/CurveFinance/status/1635615657487134722",
           "publishedOn": "2023-03-14T12:15:35.000Z",
           "wordCount": 509,
@@ -876,11 +866,11 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1636377905352835073",
           "author": "Onchain Wizard",
-          "description": "Looks like they did know.   ARB szn incoming.   Pretty gud airdrop\n\nOnchain Wizard: What do they know? https://t.co/FOKc1r6ZkO",
+          "description": "Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387\n\nOnchain Wizard: What do they know? https://t.co/FOKc1r6ZkO",
           "link": "https://twitter.com/OnChainWizard/status/1636377905352835073",
           "publishedOn": "2023-03-16T14:44:29.000Z",
           "wordCount": 509,
-          "title": "Looks like they did know. ARB szn incoming. Pretty gud airdrop",
+          "title": "Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387",
           "imageUrl": null
         },
         {
