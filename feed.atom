@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T09:13:17.869Z</id>
+    <id>urn:2023-03-23T10:14:25.683Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T09:13:17.869Z</updated>
+    <updated>2023-03-23T10:14:25.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @levels_crypto 发现，Uniswap Info 数据显示，用户地址（0x64…9545）在 Arbitrum Uniswap V3 上添加了 400 WETH 和超过 9500 万虚假 ARB 流动性...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1638818603968634880</id>
+        <link href="https://twitter.com/wublockchain12/status/1638818603968634880"/>
+        <updated>2023-03-23T08:22:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @levels_crypto 发现，Uniswap Info 数据显示，用户地址（0x64…9545）在 Arbitrum Uniswap V3 上添加了 400 WETH 和超过 9500 万虚假 ARB 流动性组成的虚假 ETH/ARB Pool。由于虚假 ARB 价格达 $0.7，该池 TVL 名义价值超过了 6700 万美元，超过了目前任一一个单边池，以致于在 Uniswap… https://twitter.com/i/web/status/1638818603968634880 https://t.co/0uhopEEFor
+
+
+levels 🏹: someone added 400ETH + 95m fake ARB in liquidity on uni
+careful fellas
+the correct contract address is 0x912CE59144191C1204E64559FE8253a0e49E6548 https://t.co/juRAZ3B7qT]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新chatgpt镜像站，🪜访问比较麻烦的可以使用如下 可用 免费 免登录 免KEY 部分速度快 https://theb.ai/ http://newb.site/ https://qachat.cn/ https://free...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638806743584219137</id>
@@ -264,18 +279,6 @@ Kevin Sekniqi 🔺: @wilburforce_ @HsakaTrades Huh? Absolutely not, network be
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/FanLong16/status/1638701423251853313]]></title>
-        <id>https://twitter.com/wublockchain12/status/1638708361670844417</id>
-        <link href="https://twitter.com/wublockchain12/status/1638708361670844417"/>
-        <updated>2023-03-23T01:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/FanLong16/status/1638701423251853313
-
-Fan Long: @K4i_umi Feeling puzzled by society's acceptance of blockchain outages as the norm. It seems like no one reports or even cares about it. Are we only fixated on coin prices now?🙄]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Rewkang - Gold’s pumping]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1638702310640476161</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1638702310640476161"/>
@@ -463,12 +466,12 @@ Re @DeFiSurfer808 Just the usual https://t.co/Q9rt1jVUcw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -898,7 +901,7 @@ Mike8848: 推特上的仇富，恶意诋毁太多了
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚.
+现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1087,6 +1090,18 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
+        <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
+        <updated>2023-03-19T07:32:17.000Z</updated>
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
+
+冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Conor: cryptocp0x.nft could be the best airdrop hunter in all of crypto: -Has claimed more significant airdrops than any other address on Ethereum ...]]></title>
         <id>https://twitter.com/jconorgrogan/status/1637299914282618880</id>
         <link href="https://twitter.com/jconorgrogan/status/1637299914282618880"/>
@@ -1130,6 +1145,18 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Mia.eth: 正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～ #ChatGPT https://t.c...]]></title>
+        <id>https://twitter.com/Mia_web3/status/1637107252686626816</id>
+        <link href="https://twitter.com/Mia_web3/status/1637107252686626816"/>
+        <updated>2023-03-18T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Mia.eth
+正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～
+#ChatGPT https://t.co/TazqEArcqt]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @ColdBloodShill https://t.co/3fVB48mqF1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1637102304745725952</id>
         <link href="https://twitter.com/DeFi_educator/status/1637102304745725952"/>
@@ -1146,6 +1173,17 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         <updated>2023-03-18T13:37:45.000Z</updated>
         <summary type="html"><![CDATA[Re 4/  关于诈骗, 最好的途径是点击官方推特提供点链接 @arbitrum 
 貌似已经有人开始模仿官方发布假的 ARB Token https://t.co/HCtvK34rPt]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1637085883513053184</id>
+        <link href="https://twitter.com/AntCaveClub/status/1637085883513053184"/>
+        <updated>2023-03-18T13:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .
+https://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
