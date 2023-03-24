@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T22:12:27.236Z</id>
+    <id>urn:2023-03-24T23:12:40.403Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T22:12:27.236Z</updated>
+    <updated>2023-03-24T23:12:40.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -88,7 +88,7 @@ https://forkmonitor.info/stale/btc/782129 https://t.co/4JS75focFt]]></summary>
 https://twitter.com/evilcos/status/1639263634831425546    
 https://mp.weixin.qq.com/s/zYwoFK1UX8aphuDdC9rLsQ
 
-Cos(余弦)😶‍🌫️: 这人被钓走了 400 多万美金(DAI+USDC)，Permit 签名…🤯 https://twitter.com/realscamsniffer/status/1639260170021740545]]></summary>
+Cos(余弦)😶‍🌫️: 这人被钓走了 400 多万美金(DAI+USDC)，Permit 签名…🤯]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -282,7 +282,7 @@ https://www.okx.com/cn/help-center/okb-buy-back-and-burn-report-2022-12-01-2023-
         <summary type="html"><![CDATA[Re CZ 表示，初步分析表明匹配引擎在追踪止损订单上遇到了一个错误（一个奇怪的错误）。正在恢复。估计 30-120 分钟左右。等待更精确的预计到达时间。作为 SOP（标准操作程序）暂停存款和取款。资金是安全的。https://twitter.com/cz_binance/status/1639235255054860290
 
 CZ 🔶 Binance: Initial analysis indicates matching engine encountered a bug on a trailing stop order (a weird one). Recovering. Est 30-120 min ish. Waiting for more precise ETA. 
-Deposits & withdrawals are paused as a SOP (standard operating procedure). Funds are #SAFU. 🙏 https://twitter.com/binance/status/1639230280119775234]]></summary>
+Deposits & withdrawals are paused as a SOP (standard operating procedure). Funds are #SAFU. 🙏]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -802,7 +802,7 @@ https://guild.xyz/asmatch]]></summary>
         <summary type="html"><![CDATA[😂😂😂怎么感觉有点好笑
 好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投 https://twitter.com/kaisun55704098/status/1638336588165029889
 
-imayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf https://twitter.com/ArbitrumNewsDAO/status/1638212692078137344]]></summary>
+imayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf https://twitter.com/arbitrumnewsdao/status/1638212692078137344]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1272,6 +1272,17 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         <updated>2023-03-18T13:37:45.000Z</updated>
         <summary type="html"><![CDATA[Re 4/  关于诈骗, 最好的途径是点击官方推特提供点链接 @arbitrum 
 貌似已经有人开始模仿官方发布假的 ARB Token https://t.co/HCtvK34rPt]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1637085883513053184</id>
+        <link href="https://twitter.com/AntCaveClub/status/1637085883513053184"/>
+        <updated>2023-03-18T13:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .
+https://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
