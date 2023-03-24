@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T09:13:15.918Z</id>
+    <id>urn:2023-03-24T10:14:02.118Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T09:13:15.918Z</updated>
+    <updated>2023-03-24T10:14:02.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT CCDAO: 这哪里是 #撸毛 这是公司上市。 @Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并...]]></title>
+        <id>https://twitter.com/ccdaoclub/status/1639206804877119488</id>
+        <link href="https://twitter.com/ccdaoclub/status/1639206804877119488"/>
+        <updated>2023-03-24T10:05:31.000Z</updated>
+        <summary type="html"><![CDATA[RT CCDAO
+这哪里是 #撸毛  这是公司上市。
+@Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并将所有140万枚ARB添加到Uniswap以提供流动性。此外，0xbd4e开头的地址通过630个地址收到933,375枚ARB空投代币。
+#Airdrops #CCDAO]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[显在人声罕寂 隐在人声鼎沸 当大家都在分享撸毛教程 我想我也是时候隐寂一段时间了]]></title>
         <id>https://twitter.com/8848Community/status/1639184867434037251</id>
@@ -16,6 +29,51 @@
 我想我也是时候隐寂一段时间了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Starkscan 浏览器，当前 StarkNet 积压交易数量超过 3000 笔，每笔交易预计时间约 16 分钟，链上交易十分拥堵，此外 StarkNet 链上 TPS（1.75）、M...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1639181801922121728</id>
+        <link href="https://twitter.com/wublockchain12/status/1639181801922121728"/>
+        <updated>2023-03-24T08:26:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Starkscan 浏览器，当前 StarkNet 积压交易数量超过 3000 笔，每笔交易预计时间约 16 分钟，链上交易十分拥堵，此外 StarkNet 链上 TPS（1.75）、MCPS（2.73）、SPS（9605）均创下历史新高。https://starkscan.co/stats#speed https://t.co/BgLfvahFgZ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 慢雾创始人余弦表示，MetaMask 支持 EIP-4361 将大幅减少钓鱼的可能性，由于“域名绑定验证 - 钱包必须检查域是否与实际签名请求源匹配”。https://twitter.c...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1639174132091998209</id>
+        <link href="https://twitter.com/wublockchain12/status/1639174132091998209"/>
+        <updated>2023-03-24T07:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 慢雾创始人余弦表示，MetaMask 支持 EIP-4361 将大幅减少钓鱼的可能性，由于“域名绑定验证 - 钱包必须检查域是否与实际签名请求源匹配”。https://twitter.com/evilcos/status/1639091781374717953
+
+Cos(余弦)😶‍🌫️: 这个绝对重磅了...之前和朋友们聊了很久的 EIP-4361，小狐狸居然开始支持了，其他钱包还不快点跟上？
+这个 EIP，我最关注的就是 Verification of domain binding 这部分：
+- Wallets MUST check that the domain matches the actual signing request source.
+这意味着，钓鱼们以后要头疼了...:)]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 CNBC 报道，Tether CTO Paolo Ardoino 表示，预计将在本季度实现 7 亿美元的利润，使其超额储备总额超过 10 亿美元。 本月所有流通的 USDT 价值从 3 月 1 日...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1639173863492980737</id>
+        <link href="https://twitter.com/wublockchain12/status/1639173863492980737"/>
+        <updated>2023-03-24T07:54:38.000Z</updated>
+        <summary type="html"><![CDATA[据 CNBC 报道，Tether CTO Paolo Ardoino 表示，预计将在本季度实现 7 亿美元的利润，使其超额储备总额超过 10 亿美元。 本月所有流通的 USDT 价值从 3 月 1 日的 709.8 亿美元大幅增长至周四的 781.4 亿美元。https://www.cnbc.com/2023/03/24/tether-estimates-around-1point6-billion-in-excess-reserves-to-back-usdt-.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，由于空投领取导致 Gas 费用飙升，3 月 23 日 Arbitrum 链上费用达 181 万美元，减去在 L1 中发送的成本其收入达 149 万美元，均创...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1639165897985363968</id>
+        <link href="https://twitter.com/wublockchain12/status/1639165897985363968"/>
+        <updated>2023-03-24T07:22:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，由于空投领取导致 Gas 费用飙升，3 月 23 日 Arbitrum 链上费用达 181 万美元，减去在 L1 中发送的成本其收入达 149 万美元，均创历史新高，成为同日仅次于 Uniswap 和 Ethereum 费用最高的协议。此外，昨日有超过 1.65… https://twitter.com/i/web/status/1639165897985363968]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -61,7 +119,7 @@ Solv V3 第一笔基金发售，@izumi_finance 会在 #SolvV3 发售 135 万美�
 💰总量：$1.35 M
 📈APR: 11%
 📅发售日期：北京时间 3 月 24日，2PM
-https://solvprotocol.medium.com/izumi-finance-issues-1-35m-fund-on-solv-v3-for-market-making-95df0a166578 https://twitter.com/SolvProtocol/status/1638840434142359553]]></summary>
+https://solvprotocol.medium.com/izumi-finance-issues-1-35m-fund-on-solv-v3-for-market-making-95df0a166578]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -211,36 +269,6 @@ This is part of our ongoing effort to make confirmations more legible to our com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 cryptoslate，加密货币交易平台 Uphold 已向客户发送电子邮件，表示将于 2023 年 4 月 27 日结束对美国客户的质押服务。Uphold 宣布它“不能忽视最...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1639067813938868224</id>
-        <link href="https://twitter.com/wublockchain12/status/1639067813938868224"/>
-        <updated>2023-03-24T00:53:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 cryptoslate，加密货币交易平台 Uphold 已向客户发送电子邮件，表示将于 2023 年 4 月 27 日结束对美国客户的质押服务。Uphold 宣布它“不能忽视最近美国证券交易委员会关于质押的指导”，因此先发制人地终止其质押服务。https://cryptoslate.com/uphold-ends-staking-for-us-customers-following-sec-guidance/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据法庭文件，Sui 开发团队 Mysten Labs 周三与 FTX 达成协议，以 9630 万美元现金购买 FTX 在 Mysten Labs 的股权投资和 SUI 代币认股权证。FTX 在去年 8 月以约...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1639067702924054528</id>
-        <link href="https://twitter.com/wublockchain12/status/1639067702924054528"/>
-        <updated>2023-03-24T00:52:47.000Z</updated>
-        <summary type="html"><![CDATA[据法庭文件，Sui 开发团队 Mysten Labs 周三与 FTX 达成协议，以 9630 万美元现金购买 FTX 在 Mysten Labs 的股权投资和 SUI 代币认股权证。FTX 在去年 8 月以约 1.01 亿美元购买这些优先股， 11 月申请破产保护后，债权人正在争夺 FTX 及其附属公司持有的资产。（WSJ） https://www.wsj.com/articles/ftx-agrees-to-sell-back-stake-in-crypto-startup-mysten-for-95-million-ec740b32?mod=business_minor_pos5 https://twitter.com/i/web/status/1639067702924054528]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，韩国区块链游戏巨头 Wemade 宣布与 Near Protocol 建立战略合作伙伴关系，将共同举办黑客马拉松并寻找潜在的 web3 商机等。该公司还宣布通过其主网“W...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1639066629568090112</id>
-        <link href="https://twitter.com/wublockchain12/status/1639066629568090112"/>
-        <updated>2023-03-24T00:48:31.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，韩国区块链游戏巨头 Wemade 宣布与 Near Protocol 建立战略合作伙伴关系，将共同举办黑客马拉松并寻找潜在的 web3 商机等。该公司还宣布通过其主网“WEMIX 3.0”推出先进的区块链服务。https://www.nftgators.com/wemade-teams-up-with-near-protocol-to-lead-korean-web3-gaming-industry/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ethereanbull Poorly]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1639063618338603008</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1639063618338603008"/>
@@ -259,9 +287,7 @@ This is part of our ongoing effort to make confirmations more legible to our com
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784
-
-xlr8harder: It's weird how we don't talk more about that time in 1933 when FDR signed executive order 6102 and forced US citizens to sell nearly all privately held gold to the government at $20/oz or face up to ten years in prison. https://t.co/VXTvbtCujr]]></summary>
+Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -578,12 +604,12 @@ they still havent done shit to brad garlicbread after three years and you think 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -731,7 +757,9 @@ https://guild.xyz/asmatch]]></summary>
         <link href="https://twitter.com/8848Community/status/1638416926610456577"/>
         <updated>2023-03-22T05:46:50.000Z</updated>
         <summary type="html"><![CDATA[😂😂😂怎么感觉有点好笑
-好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投]]></summary>
+好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投
+
+imayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1003,7 +1031,7 @@ Mike8848: 推特上的仇富，恶意诋毁太多了
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚.
+现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1134,6 +1162,18 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
+        <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
+        <updated>2023-03-19T07:32:17.000Z</updated>
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
+
+冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Conor: cryptocp0x.nft could be the best airdrop hunter in all of crypto: -Has claimed more significant airdrops than any other address on Ethereum ...]]></title>
         <id>https://twitter.com/jconorgrogan/status/1637299914282618880</id>
         <link href="https://twitter.com/jconorgrogan/status/1637299914282618880"/>
@@ -1177,6 +1217,18 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Mia.eth: 正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～ #ChatGPT https://t.c...]]></title>
+        <id>https://twitter.com/Mia_web3/status/1637107252686626816</id>
+        <link href="https://twitter.com/Mia_web3/status/1637107252686626816"/>
+        <updated>2023-03-18T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Mia.eth
+正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～
+#ChatGPT https://t.co/TazqEArcqt]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @ColdBloodShill https://t.co/3fVB48mqF1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1637102304745725952</id>
         <link href="https://twitter.com/DeFi_educator/status/1637102304745725952"/>
@@ -1198,6 +1250,17 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1637085883513053184</id>
+        <link href="https://twitter.com/AntCaveClub/status/1637085883513053184"/>
+        <updated>2023-03-18T13:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .
+https://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re 2/ 交易当天, 别指望各种跨链桥、中心化交易所能够正常高效的运转... 就像早高峰一样. 再加上交易所自己肯定先抛售, 充值可能会很慢. 另外 $ARB Token是发布...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637085881197793285</id>
         <link href="https://twitter.com/AntCaveClub/status/1637085881197793285"/>
@@ -1205,18 +1268,6 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         <summary type="html"><![CDATA[Re 2/ 交易当天, 别指望各种跨链桥、中心化交易所能够正常高效的运转...  就像早高峰一样. 再加上交易所自己肯定先抛售, 充值可能会很慢. 
 另外 $ARB Token是发布在三条链上的:   Arb One 、Ethereum、Nova 
 Token 合约地址:  https://docs.arbitrum.foundation/deployment-addresses]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友情提示 #ARB 空投前准备. 毕竟撸的好, 你不如卖的好? 1/ 这两天先把 ETH 转到 Arbitrum, 当天用作Gas, 而且最好分配在各个子账号上面, 当天一个普通交易可能至...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1637085879033556992</id>
-        <link href="https://twitter.com/AntCaveClub/status/1637085879033556992"/>
-        <updated>2023-03-18T13:37:43.000Z</updated>
-        <summary type="html"><![CDATA[友情提示 #ARB   空投前准备.
-毕竟撸的好, 你不如卖的好?  
-1/ 这两天先把 ETH 转到 Arbitrum, 当天用作Gas, 而且最好分配在各个子账号上面,  当天一个普通交易可能至少要 5U,  如果你选择等 Gas 降低, 大概率会在山底才卖出, 如果你号很多, 当天分发手续费成本一定很高.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
@@ -1264,11 +1315,11 @@ https://robbiebent.substack.com/p/building-the-othership-episode-1?s=r]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop]]></title>
+        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387]]></title>
         <id>https://twitter.com/OnChainWizard/status/1636377905352835073</id>
         <link href="https://twitter.com/OnChainWizard/status/1636377905352835073"/>
         <updated>2023-03-16T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop
+        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387
 
 Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         <author>

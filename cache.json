@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1639181801922121728",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Starkscan 浏览器，当前 StarkNet 积压交易数量超过 3000 笔，每笔交易预计时间约 16 分钟，链上交易十分拥堵，此外 StarkNet 链上 TPS（1.75）、MCPS（2.73）、SPS（9605）均创下历史新高。https://starkscan.co/stats#speed https://t.co/BgLfvahFgZ",
+          "link": "https://twitter.com/wublockchain12/status/1639181801922121728",
+          "publishedOn": "2023-03-24T08:26:10.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据 Starkscan 浏览器，当前 StarkNet 积压交易数量超过 3000 笔，每笔交易预计时间约 16 分钟，链上交易十分拥堵，此外 StarkNet 链上 TPS（1.75）、M...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1639174132091998209",
+          "author": "吴说区块链",
+          "description": "Re 慢雾创始人余弦表示，MetaMask 支持 EIP-4361 将大幅减少钓鱼的可能性，由于“域名绑定验证 - 钱包必须检查域是否与实际签名请求源匹配”。https://twitter.com/evilcos/status/1639091781374717953\n\nCos(余弦)😶‍🌫️: 这个绝对重磅了...之前和朋友们聊了很久的 EIP-4361，小狐狸居然开始支持了，其他钱包还不快点跟上？\n这个 EIP，我最关注的就是 Verification of domain binding 这部分：\n- Wallets MUST check that the domain matches the actual signing request source.\n这意味着，钓鱼们以后要头疼了...:)",
+          "link": "https://twitter.com/wublockchain12/status/1639174132091998209",
+          "publishedOn": "2023-03-24T07:55:42.000Z",
+          "wordCount": 509,
+          "title": "Re 慢雾创始人余弦表示，MetaMask 支持 EIP-4361 将大幅减少钓鱼的可能性，由于“域名绑定验证 - 钱包必须检查域是否与实际签名请求源匹配”。https://twitter.c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1639173863492980737",
+          "author": "吴说区块链",
+          "description": "据 CNBC 报道，Tether CTO Paolo Ardoino 表示，预计将在本季度实现 7 亿美元的利润，使其超额储备总额超过 10 亿美元。 本月所有流通的 USDT 价值从 3 月 1 日的 709.8 亿美元大幅增长至周四的 781.4 亿美元。https://www.cnbc.com/2023/03/24/tether-estimates-around-1point6-billion-in-excess-reserves-to-back-usdt-.html",
+          "link": "https://twitter.com/wublockchain12/status/1639173863492980737",
+          "publishedOn": "2023-03-24T07:54:38.000Z",
+          "wordCount": 509,
+          "title": "据 CNBC 报道，Tether CTO Paolo Ardoino 表示，预计将在本季度实现 7 亿美元的利润，使其超额储备总额超过 10 亿美元。 本月所有流通的 USDT 价值从 3 月 1 日...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1639165897985363968",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 DeFiLlama 数据，由于空投领取导致 Gas 费用飙升，3 月 23 日 Arbitrum 链上费用达 181 万美元，减去在 L1 中发送的成本其收入达 149 万美元，均创历史新高，成为同日仅次于 Uniswap 和 Ethereum 费用最高的协议。此外，昨日有超过 1.65… https://twitter.com/i/web/status/1639165897985363968",
+          "link": "https://twitter.com/wublockchain12/status/1639165897985363968",
+          "publishedOn": "2023-03-24T07:22:58.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据 DeFiLlama 数据，由于空投领取导致 Gas 费用飙升，3 月 23 日 Arbitrum 链上费用达 181 万美元，减去在 L1 中发送的成本其收入达 149 万美元，均创...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1639148718523056134",
           "author": "吴说区块链",
           "description": "吴说获悉，据 @apes_prologue 分析，用户地址（0x88…7f49）完成了在 Uniswap ARB/USDC pool 中第一笔交易，其 6250 ARB 以 $10.27 均价兑换了 64,226.56 USDC，也创造了链上最高的 ARB 成交价格。\n0x88 与 0xd520 智能合约地址互动，在同一笔交易中领取并出售 ARB；21 分钟后，另一个 EOA 地址 0x07d5… https://twitter.com/i/web/status/1639148718523056134",
@@ -38,7 +78,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1639109658593075200",
           "author": "吴说区块链",
-          "description": "Re https://twitter.com/solv_ch/status/1638844961016942594\n\nSolv华语社区: 1/iZUMi Market Making 202301\nSolv V3 第一笔基金发售，@izumi_finance 会在 #SolvV3 发售 135 万美元基金，用于在 @arbitrum 和 @BNBCHAIN 上的 DEX 做市。\n💰总量：$1.35 M\n📈APR: 11%\n📅发售日期：北京时间 3 月 24日，2PM\nhttps://solvprotocol.medium.com/izumi-finance-issues-1-35m-fund-on-solv-v3-for-market-making-95df0a166578 https://twitter.com/SolvProtocol/status/1638840434142359553",
+          "description": "Re https://twitter.com/solv_ch/status/1638844961016942594\n\nSolv华语社区: 1/iZUMi Market Making 202301\nSolv V3 第一笔基金发售，@izumi_finance 会在 #SolvV3 发售 135 万美元基金，用于在 @arbitrum 和 @BNBCHAIN 上的 DEX 做市。\n💰总量：$1.35 M\n📈APR: 11%\n📅发售日期：北京时间 3 月 24日，2PM\nhttps://solvprotocol.medium.com/izumi-finance-issues-1-35m-fund-on-solv-v3-for-market-making-95df0a166578",
           "link": "https://twitter.com/wublockchain12/status/1639109658593075200",
           "publishedOn": "2023-03-24T03:39:30.000Z",
           "wordCount": 509,
@@ -153,36 +193,6 @@
           "publishedOn": "2023-03-24T00:55:46.000Z",
           "wordCount": 509,
           "title": "吴说获悉，MetaMask 宣布已兼容 EIP-4361，即可用 Ethereum 登陆，还提供了“域绑定”功能以检测来自恶意 URL 的签名 / 批准。该功能是通过与数字身份认证公司 S...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1639067813938868224",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 cryptoslate，加密货币交易平台 Uphold 已向客户发送电子邮件，表示将于 2023 年 4 月 27 日结束对美国客户的质押服务。Uphold 宣布它“不能忽视最近美国证券交易委员会关于质押的指导”，因此先发制人地终止其质押服务。https://cryptoslate.com/uphold-ends-staking-for-us-customers-following-sec-guidance/",
-          "link": "https://twitter.com/wublockchain12/status/1639067813938868224",
-          "publishedOn": "2023-03-24T00:53:13.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 cryptoslate，加密货币交易平台 Uphold 已向客户发送电子邮件，表示将于 2023 年 4 月 27 日结束对美国客户的质押服务。Uphold 宣布它“不能忽视最...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1639067702924054528",
-          "author": "吴说区块链",
-          "description": "据法庭文件，Sui 开发团队 Mysten Labs 周三与 FTX 达成协议，以 9630 万美元现金购买 FTX 在 Mysten Labs 的股权投资和 SUI 代币认股权证。FTX 在去年 8 月以约 1.01 亿美元购买这些优先股， 11 月申请破产保护后，债权人正在争夺 FTX 及其附属公司持有的资产。（WSJ） https://www.wsj.com/articles/ftx-agrees-to-sell-back-stake-in-crypto-startup-mysten-for-95-million-ec740b32?mod=business_minor_pos5 https://twitter.com/i/web/status/1639067702924054528",
-          "link": "https://twitter.com/wublockchain12/status/1639067702924054528",
-          "publishedOn": "2023-03-24T00:52:47.000Z",
-          "wordCount": 509,
-          "title": "据法庭文件，Sui 开发团队 Mysten Labs 周三与 FTX 达成协议，以 9630 万美元现金购买 FTX 在 Mysten Labs 的股权投资和 SUI 代币认股权证。FTX 在去年 8 月以约...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1639066629568090112",
-          "author": "吴说区块链",
-          "description": "吴说获悉，韩国区块链游戏巨头 Wemade 宣布与 Near Protocol 建立战略合作伙伴关系，将共同举办黑客马拉松并寻找潜在的 web3 商机等。该公司还宣布通过其主网“WEMIX 3.0”推出先进的区块链服务。https://www.nftgators.com/wemade-teams-up-with-near-protocol-to-lead-korean-web3-gaming-industry/",
-          "link": "https://twitter.com/wublockchain12/status/1639066629568090112",
-          "publishedOn": "2023-03-24T00:48:31.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，韩国区块链游戏巨头 Wemade 宣布与 Near Protocol 建立战略合作伙伴关系，将共同举办黑客马拉松并寻找潜在的 web3 商机等。该公司还宣布通过其主网“W...",
           "imageUrl": null
         }
       ]
@@ -315,7 +325,7 @@
         {
           "id": "https://twitter.com/8848Community/status/1638416926610456577",
           "author": "8848 社区（8848 Community）",
-          "description": "😂😂😂怎么感觉有点好笑\n好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投",
+          "description": "😂😂😂怎么感觉有点好笑\n好惨的大嘴鸟，支持得这么早，结果因为自己没有DAO没有得到ARB项目空投\n\nimayday.lens (💙,🧡)🌟🛸 🌘 (🐈,🚀): 巨嘴鸟错过了 #arbitrum 的DAO空投，一百多个名单都没他！营销团队放下自己“清高的”自傲，开始征集社区DAO治理投票：https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf",
           "link": "https://twitter.com/8848Community/status/1638416926610456577",
           "publishedOn": "2023-03-22T05:46:50.000Z",
           "wordCount": 509,
@@ -390,6 +400,16 @@
       "siteUrl": "https://twitter.com/AntCaveClub",
       "articles": [
         {
+          "id": "https://twitter.com/ccdaoclub/status/1639206804877119488",
+          "author": "链求君 | (C,C)",
+          "description": "RT CCDAO\n这哪里是 #撸毛  这是公司上市。\n@Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并将所有140万枚ARB添加到Uniswap以提供流动性。此外，0xbd4e开头的地址通过630个地址收到933,375枚ARB空投代币。\n#Airdrops #CCDAO",
+          "link": "https://twitter.com/ccdaoclub/status/1639206804877119488",
+          "publishedOn": "2023-03-24T10:05:31.000Z",
+          "wordCount": 509,
+          "title": "RT CCDAO: 这哪里是 #撸毛 这是公司上市。 @Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/AntCaveClub/status/1638951791093223425",
           "author": "链求君 | (C,C)",
           "description": "$ARB 的正确领取方式： TP 钱包 👍 \n其它能崩的都蹦了。",
@@ -432,11 +452,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1638569777731080192",
           "author": "链求君 | (C,C)",
-          "description": "撸毛的本质可能是对代币激励的捕捉和预测。 \n这不就来了吗？ 用你的$ARB 撸 $JOE  👇\n\nTrader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: \n💙 $ARB - $ETH\n💙 $ARB - $USDC\n💙 $ETH - $USDC\nNew markets will open soon - prepare your $ARB 💙 https://t.co/wIW1wvJcl5",
+          "description": "撸毛的本质可能是对代币激励的捕捉和预测。 \n这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736\n\nTrader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: \n💙 $ARB - $ETH\n💙 $ARB - $USDC\n💙 $ETH - $USDC\nNew markets will open soon - prepare your $ARB 💙 https://t.co/wIW1wvJcl5",
           "link": "https://twitter.com/AntCaveClub/status/1638569777731080192",
           "publishedOn": "2023-03-22T15:54:12.000Z",
           "wordCount": 509,
-          "title": "撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇",
+          "title": "撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736",
           "imageUrl": null
         },
         {
@@ -522,11 +542,31 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1637851494631485440",
           "author": "链求君 | (C,C)",
-          "description": "再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ \n聚合器Dex的聚合器, 所以用着一个就够了. \n重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. \n现在用应该为时不晚.\n\nDefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!\nHere's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1",
+          "description": "再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ \n聚合器Dex的聚合器, 所以用着一个就够了. \n重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. \n现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922\n\nDefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!\nHere's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1",
           "link": "https://twitter.com/AntCaveClub/status/1637851494631485440",
           "publishedOn": "2023-03-20T16:20:00.000Z",
           "wordCount": 509,
           "title": "再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 聚合器Dex的聚合器, 所以用着一个就够了. 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1637356301260054529",
+          "author": "链求君 | (C,C)",
+          "description": "👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728\n\n冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……",
+          "link": "https://twitter.com/AntCaveClub/status/1637356301260054529",
+          "publishedOn": "2023-03-19T07:32:17.000Z",
+          "wordCount": 509,
+          "title": "👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Mia_web3/status/1637107252686626816",
+          "author": "链求君 | (C,C)",
+          "description": "RT Mia.eth\n正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～\n#ChatGPT https://t.co/TazqEArcqt",
+          "link": "https://twitter.com/Mia_web3/status/1637107252686626816",
+          "publishedOn": "2023-03-18T15:02:39.000Z",
+          "wordCount": 509,
+          "title": "RT Mia.eth: 正好和最近大火的人工智能 ChatGPT 一个思路，推荐感兴趣的朋友去电影院看看，不是正统的恐怖片，但也是人工智能的一个极端～ #ChatGPT https://t.c...",
           "imageUrl": null
         },
         {
@@ -540,6 +580,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/AntCaveClub/status/1637085883513053184",
+          "author": "链求君 | (C,C)",
+          "description": "Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .\nhttps://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0",
+          "link": "https://twitter.com/AntCaveClub/status/1637085883513053184",
+          "publishedOn": "2023-03-18T13:37:44.000Z",
+          "wordCount": 509,
+          "title": "Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/AntCaveClub/status/1637085881197793285",
           "author": "链求君 | (C,C)",
           "description": "Re 2/ 交易当天, 别指望各种跨链桥、中心化交易所能够正常高效的运转...  就像早高峰一样. 再加上交易所自己肯定先抛售, 充值可能会很慢. \n另外 $ARB Token是发布在三条链上的:   Arb One 、Ethereum、Nova \nToken 合约地址:  https://docs.arbitrum.foundation/deployment-addresses",
@@ -547,16 +597,6 @@
           "publishedOn": "2023-03-18T13:37:44.000Z",
           "wordCount": 509,
           "title": "Re 2/ 交易当天, 别指望各种跨链桥、中心化交易所能够正常高效的运转... 就像早高峰一样. 再加上交易所自己肯定先抛售, 充值可能会很慢. 另外 $ARB Token是发布...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1637085879033556992",
-          "author": "链求君 | (C,C)",
-          "description": "友情提示 #ARB   空投前准备.\n毕竟撸的好, 你不如卖的好?  \n1/ 这两天先把 ETH 转到 Arbitrum, 当天用作Gas, 而且最好分配在各个子账号上面,  当天一个普通交易可能至少要 5U,  如果你选择等 Gas 降低, 大概率会在山底才卖出, 如果你号很多, 当天分发手续费成本一定很高.",
-          "link": "https://twitter.com/AntCaveClub/status/1637085879033556992",
-          "publishedOn": "2023-03-18T13:37:43.000Z",
-          "wordCount": 509,
-          "title": "友情提示 #ARB 空投前准备. 毕竟撸的好, 你不如卖的好? 1/ 这两天先把 ETH 转到 Arbitrum, 当天用作Gas, 而且最好分配在各个子账号上面, 当天一个普通交易可能至...",
           "imageUrl": null
         }
       ]
@@ -579,7 +619,7 @@
         {
           "id": "https://twitter.com/gladstein/status/1639061780734541824",
           "author": "DeFi Educator",
-          "description": "RT Alex Gladstein 🌋 ⚡\nSomething that blew my mind when I first learned it:\nBitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards\nAlso Satoshi chose as a birthday April 5, same day FDR issued 6102\nBitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784\n\nxlr8harder: It's weird how we don't talk more about that time in 1933 when FDR signed executive order 6102 and forced US citizens to sell nearly all privately held gold to the government at $20/oz or face up to ten years in prison. https://t.co/VXTvbtCujr",
+          "description": "RT Alex Gladstein 🌋 ⚡\nSomething that blew my mind when I first learned it:\nBitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards\nAlso Satoshi chose as a birthday April 5, same day FDR issued 6102\nBitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784",
           "link": "https://twitter.com/gladstein/status/1639061780734541824",
           "publishedOn": "2023-03-24T00:29:15.000Z",
           "wordCount": 509,
@@ -936,11 +976,11 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1636377905352835073",
           "author": "Onchain Wizard",
-          "description": "Looks like they did know.   ARB szn incoming.   Pretty gud airdrop\n\nOnchain Wizard: What do they know? https://t.co/FOKc1r6ZkO",
+          "description": "Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387\n\nOnchain Wizard: What do they know? https://t.co/FOKc1r6ZkO",
           "link": "https://twitter.com/OnChainWizard/status/1636377905352835073",
           "publishedOn": "2023-03-16T14:44:29.000Z",
           "wordCount": 509,
-          "title": "Looks like they did know. ARB szn incoming. Pretty gud airdrop",
+          "title": "Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387",
           "imageUrl": null
         },
         {
