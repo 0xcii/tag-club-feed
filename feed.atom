@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T10:14:50.480Z</id>
+    <id>urn:2023-03-27T11:11:18.382Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-27T10:14:50.480Z</updated>
+    <updated>2023-03-27T11:11:18.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[根据欧盟成员国周一公布的欧盟数据法修订版，智能合约必须包含一个终止开关。要求智能合约能够中断或终止其活动的拟议立法引起了区块链社区的担忧，担心破坏本应...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640303495269203968</id>
+        <link href="https://twitter.com/wublockchain12/status/1640303495269203968"/>
+        <updated>2023-03-27T10:43:23.000Z</updated>
+        <summary type="html"><![CDATA[根据欧盟成员国周一公布的欧盟数据法修订版，智能合约必须包含一个终止开关。要求智能合约能够中断或终止其活动的拟议立法引起了区块链社区的担忧，担心破坏本应是自动化和不可更改的程序。（CoinDesk）https://www.coindesk.com/policy/2023/03/27/eu-smart-contract-regulations-included-in-councils-data-act-draft/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CoinShares Blog，上周数字资产投资产品的资金流入总额为 1.6 亿美元，为 2022 年 7 月以来的最大流入量。比特币是主要受益者，流入了 1.28 亿美元...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640302885547421697</id>
+        <link href="https://twitter.com/wublockchain12/status/1640302885547421697"/>
+        <updated>2023-03-27T10:40:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CoinShares Blog，上周数字资产投资产品的资金流入总额为 1.6 亿美元，为 2022 年 7 月以来的最大流入量。比特币是主要受益者，流入了 1.28 亿美元。这可能是由于投资者对传统金融领域稳定性的担忧加剧。https://blog.coinshares.com/volume-124-digital-asset-fund-flows-weekly-report-85c669f9a6d8]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 未来将规范智能合约发布流程，以指定所有部署之前都有一个发布候选版本，在部署到链上至少两周前发布，并在论坛公布。https://discuss.ens.domains/t/new-dns...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640293677758296064</id>
+        <link href="https://twitter.com/wublockchain12/status/1640293677758296064"/>
+        <updated>2023-03-27T10:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 未来将规范智能合约发布流程，以指定所有部署之前都有一个发布候选版本，在部署到链上至少两周前发布，并在论坛公布。https://discuss.ens.domains/t/new-dnssec-registrar-bounty/16746]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，ENS 创始人兼核心开发人员 Nick Johnson 表示，推荐支付 10 万美金的赏金，以奖励在未部署的 DNSSEC 代码版本中发现的漏洞。这是一个在代码部署到链上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640293676114137088</id>
+        <link href="https://twitter.com/wublockchain12/status/1640293676114137088"/>
+        <updated>2023-03-27T10:04:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，ENS 创始人兼核心开发人员 Nick Johnson 表示，推荐支付 10 万美金的赏金，以奖励在未部署的 DNSSEC 代码版本中发现的漏洞。这是一个在代码部署到链上或激活之前发现的错误；没有用户直接受其影响，但如果部署的话将是灾难性的。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，中国上市工程机械公司徐工集团表示与 Conflux、Zen Spark Technology 建立合作伙伴关系公司。早先徐工集团宣布其持有的 BAYC 3489 为元宇宙大使，推出...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640292003656396802</id>
+        <link href="https://twitter.com/wublockchain12/status/1640292003656396802"/>
+        <updated>2023-03-27T09:57:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，中国上市工程机械公司徐工集团表示与 Conflux、Zen Spark Technology 建立合作伙伴关系公司。早先徐工集团宣布其持有的 BAYC 3489 为元宇宙大使，推出以太坊上的 For Real NFT 系列。https://chainwire.org/2023/03/27/construction-giant-xcmg-chooses-conflux-for-nfts-and-future-global-blockchain-applications/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re “在格鲁吉亚开设中心是我们去年与政府开始对话的延续。得益于该中心，我们将加强该国招聘计划的发展，并更加关注币安的区域影响力。” https://www.binance....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640289280282202113</id>
+        <link href="https://twitter.com/wublockchain12/status/1640289280282202113"/>
+        <updated>2023-03-27T09:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Re “在格鲁吉亚开设中心是我们去年与政府开始对话的延续。得益于该中心，我们将加强该国招聘计划的发展，并更加关注币安的区域影响力。”
+https://www.binance.com/en/blog/community/binance-opens-a-regional-hub-in-georgia-8854914046327976377]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安在格鲁吉亚开设了一个全新的区块链中心，旨在加强人才招聘，促进与数字金融相关的教育计划，并进一步推动格鲁吉亚加密产业的发展。币安总经理 Gio...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640289278625460225</id>
+        <link href="https://twitter.com/wublockchain12/status/1640289278625460225"/>
+        <updated>2023-03-27T09:46:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安在格鲁吉亚开设了一个全新的区块链中心，旨在加强人才招聘，促进与数字金融相关的教育计划，并进一步推动格鲁吉亚加密产业的发展。币安总经理 Giorgi Chagelishvili 表示，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re V2 版本会将其升级为以太坊原生 ZK Rollup 平台，提供图灵完备的ZKVM。V3 版本打通 ZK Rollup 之间的跨链通信，并提出基于 V2 平台的专项应用解决方案。 http...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640287932853682177</id>
+        <link href="https://twitter.com/wublockchain12/status/1640287932853682177"/>
+        <updated>2023-03-27T09:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Re V2 版本会将其升级为以太坊原生 ZK Rollup 平台，提供图灵完备的ZKVM。V3 版本打通 ZK Rollup 之间的跨链通信，并提出基于 V2 平台的专项应用解决方案。
+https://mirror.xyz/0x719A9C353d11B99ad57c8C24222fE7C7A49717f9/1HkeVBVDtF265uzd86puvZY9e6N29wcSy6zRY6OWVsU]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 发布 OKB Chain（OKBC）发展路线图，OKBC 将从侧链过渡至 Layer 2 网络， Layer 1 公链 OKT Chain（OKTC）也会同步发展。OKBC 将分为三个版本陆续...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1640287931234676737</id>
+        <link href="https://twitter.com/wublockchain12/status/1640287931234676737"/>
+        <updated>2023-03-27T09:41:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 发布 OKB Chain（OKBC）发展路线图，OKBC 将从侧链过渡至 Layer 2 网络， Layer 1 公链 OKT Chain（OKTC）也会同步发展。OKBC 将分为三个版本陆续推出，V1 版本为以太坊 PoA 侧链，专注于提供高性能和低交易费用，兼容EVM与Wasm各个生态。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不得不说 我还是有点慌 https://t.co/i7l6DdqXj9]]></title>
         <id>https://twitter.com/8848Community/status/1640276862185402374</id>
@@ -54,16 +146,6 @@ https://alchemypay.org/news-and-press/burger-king-in-paris-welcomes-crypto-payme
         <updated>2023-03-27T08:32:37.000Z</updated>
         <summary type="html"><![CDATA[Re 得益于该中心，我们将加强该国招聘计划的发展，并更加关注币安的区域影响力。”
 https://www.binance.com/en/blog/community/binance-opens-a-regional-hub-in-georgia-8854914046327976377]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安在佐治亚州开设了一个全新的区块链中心，旨在加强人才招聘，促进与数字金融相关的教育计划，并进一步推动格鲁吉亚加密产业的发展。币安佐治亚州总...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640270585677910016</id>
-        <link href="https://twitter.com/wublockchain12/status/1640270585677910016"/>
-        <updated>2023-03-27T08:32:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安在佐治亚州开设了一个全新的区块链中心，旨在加强人才招聘，促进与数字金融相关的教育计划，并进一步推动格鲁吉亚加密产业的发展。币安佐治亚州总经理 Giorgi Chagelishvili 表示，“在格鲁吉亚开设中心是我们去年与政府开始对话的延续。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -250,52 +332,6 @@ https://www.businessoffashion.com/articles/technology/gucci-teams-up-with-compan
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 此外，硅谷银行危机导致的存款保险基金成本约为 200 亿美元，硅谷银行过渡银行的总资产约为 1670 亿美元。 https://twitter.com/FDICgov/status/164021600133...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640222939818901505</id>
-        <link href="https://twitter.com/wublockchain12/status/1640222939818901505"/>
-        <updated>2023-03-27T05:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，硅谷银行危机导致的存款保险基金成本约为 200 亿美元，硅谷银行过渡银行的总资产约为 1670 亿美元。
-https://twitter.com/FDICgov/status/1640216001332625410?s=19
-
-FDIC: Today, we entered into an agreement with First-Citizens Bank & Trust Company to purchase and assume all deposits and loans of Silicon Valley Bridge Bank, N.A.
-https://www.fdic.gov/news/press-releases/2023/pr23023.html https://t.co/MI5lXN5y6r]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国联邦存款保险公司（FDIC）发推表示，硅谷银行已被出售给 First Citizens BancShares Inc.，FDIC 获得价值高达 5 亿美元的 First Citizens 普通股...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640222936836759552</id>
-        <link href="https://twitter.com/wublockchain12/status/1640222936836759552"/>
-        <updated>2023-03-27T05:23:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国联邦存款保险公司（FDIC）发推表示，硅谷银行已被出售给 First Citizens BancShares Inc.，FDIC 获得价值高达 5 亿美元的 First Citizens 普通股。First Citizens 将承担硅谷银行的所有存款和贷款。 https://twitter.com/wublockchain12/status/1640179944553857024
-
-吴说区块链: 吴说获悉，据华尔街日报，First Citizens BancShares Inc.即将达成协议，将从美国联邦存款保险公司手中收购破产的硅谷银行(Silicon Valley Bank)。协议最快可能在当地时间周日晚上宣布，但尚未做出最后决定。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时，Ark 还购买了价值 1810 万美元 Block (SQ) 股票。（CoinDesk） https://www.coindesk.com/markets/2023/03/27/ark-invest-scoops-up-coinbase-block-sh...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640203506895433730</id>
-        <link href="https://twitter.com/wublockchain12/status/1640203506895433730"/>
-        <updated>2023-03-27T04:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时，Ark 还购买了价值 1810 万美元 Block (SQ) 股票。（CoinDesk） https://www.coindesk.com/markets/2023/03/27/ark-invest-scoops-up-coinbase-block-shares-for-second-straight-day/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cathie Wood 旗下 Ark Invest 3 月 24 日再次购买价值 1260 万美元 Coinbase (COIN) 股票，其中 155,833 股流向 ARK Innovation EFT（ARKK），26,395 股流向 ARK...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640203501585453056</id>
-        <link href="https://twitter.com/wublockchain12/status/1640203501585453056"/>
-        <updated>2023-03-27T04:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Cathie Wood 旗下 Ark Invest  3 月 24 日再次购买价值 1260 万美元 Coinbase (COIN) 股票，其中 155,833 股流向 ARK Innovation EFT（ARKK），26,395 股流向 ARK Next Generation Internet EFT（ARKW）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Manta Network 中文社区: 随着主网上线临近，Manta Network 发布 MantaPay 上线、NPO 平台发布、生态项目上线、开发者 Grants 资助基金等多个重大进展。🚀...]]></title>
         <id>https://twitter.com/manta_china/status/1640193535222906882</id>
         <link href="https://twitter.com/manta_china/status/1640193535222906882"/>
@@ -305,47 +341,6 @@ https://www.fdic.gov/news/press-releases/2023/pr23023.html https://t.co/MI5lXN5y
 接下来，让我们回顾近期重要进展👇👇]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 但被他用于购买大量法拉利、兰博基尼等豪车，花费超过 1600 万美元。（Decrypt）https://decrypt.co/124605/canadas-bankrupt-crypto-king-kidnapped-torture...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640182336766746626</id>
-        <link href="https://twitter.com/wublockchain12/status/1640182336766746626"/>
-        <updated>2023-03-27T02:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 但被他用于购买大量法拉利、兰博基尼等豪车，花费超过 1600 万美元。（Decrypt）https://decrypt.co/124605/canadas-bankrupt-crypto-king-kidnapped-tortured-held-for-3-million-ransom]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月早些时候提交的法庭文件称，加拿大自称为“加密货币之王”的 Aiden Pleterski 在涉嫌骗取投资者资金后遭到绑架、酷刑和勒索赎金。去年 8 月，Pleterski 被申...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640182328973758464</id>
-        <link href="https://twitter.com/wublockchain12/status/1640182328973758464"/>
-        <updated>2023-03-27T02:41:54.000Z</updated>
-        <summary type="html"><![CDATA[本月早些时候提交的法庭文件称，加拿大自称为“加密货币之王”的 Aiden Pleterski 在涉嫌骗取投资者资金后遭到绑架、酷刑和勒索赎金。去年 8 月，Pleterski 被申请破产，之前曾募资 4150 万美金并欺骗投资者进行加密货币投资，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re First Citizens 总部位于北卡罗来纳州，2009年以来已收购了20家破产银行。First Citizens 拥有约 1090 亿美元的资产和 894 亿美元的总存款。Valley National ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640179946697129986</id>
-        <link href="https://twitter.com/wublockchain12/status/1640179946697129986"/>
-        <updated>2023-03-27T02:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Re First Citizens 总部位于北卡罗来纳州，2009年以来已收购了20家破产银行。First Citizens 拥有约 1090 亿美元的资产和 894 亿美元的总存款。Valley National Bancorp 也是硅谷银行的竞购者。
-https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-first-citizens%E5%8D%B3%E5%B0%86%E8%BE%BE%E6%88%90%E6%94%B6%E8%B4%AD%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%E7%9A%84%E4%BA%A4%E6%98%93-19d6d028]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据华尔街日报，First Citizens BancShares Inc.即将达成协议，将从美国联邦存款保险公司手中收购破产的硅谷银行(Silicon Valley Bank)。协议最快可能...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1640179944553857024</id>
-        <link href="https://twitter.com/wublockchain12/status/1640179944553857024"/>
-        <updated>2023-03-27T02:32:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据华尔街日报，First Citizens BancShares Inc.即将达成协议，将从美国联邦存款保险公司手中收购破产的硅谷银行(Silicon Valley Bank)。协议最快可能在当地时间周日晚上宣布，但尚未做出最后决定。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -810,12 +805,12 @@ https://swap.defillama.com/arb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -1063,7 +1058,7 @@ https://eth.antcave.club/arb-arb]]></summary>
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚.
+现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1194,11 +1189,11 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀]]></title>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
@@ -1347,11 +1342,11 @@ https://robbiebent.substack.com/p/building-the-othership-episode-1?s=r]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387]]></title>
+        <title type="html"><![CDATA[Looks like they did know. ARB szn incoming. Pretty gud airdrop]]></title>
         <id>https://twitter.com/OnChainWizard/status/1636377905352835073</id>
         <link href="https://twitter.com/OnChainWizard/status/1636377905352835073"/>
         <updated>2023-03-16T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop https://twitter.com/OnChainWizard/status/1636208420805136387
+        <summary type="html"><![CDATA[Looks like they did know.   ARB szn incoming.   Pretty gud airdrop
 
 Onchain Wizard: What do they know? https://t.co/FOKc1r6ZkO]]></summary>
         <author>
