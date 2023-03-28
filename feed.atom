@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T02:33:11.429Z</id>
+    <id>urn:2023-03-28T03:14:20.160Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T02:33:11.429Z</updated>
+    <updated>2023-03-28T03:14:20.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[那是他的损失😆]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1640550953693876224</id>
+        <link href="https://twitter.com/AntCaveClub/status/1640550953693876224"/>
+        <updated>2023-03-28T03:06:41.000Z</updated>
+        <summary type="html"><![CDATA[那是他的损失😆
+
+crypto指南针: 擦，能不能不要这么玻璃心
+兄弟们，我还在出差
+今晚到家私信我会一一回复
+晚上一对一审核拉群 https://t.co/ktNJgbUkXK]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @fallacyalarm ndx up 20% ytd. btc up 60%?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1640531613749776387</id>
@@ -1276,17 +1291,6 @@ If someone knows how to do this… https://twitter.com/i/web/status/163679726531
         <updated>2023-03-18T13:37:45.000Z</updated>
         <summary type="html"><![CDATA[Re 4/  关于诈骗, 最好的途径是点击官方推特提供点链接 @arbitrum 
 貌似已经有人开始模仿官方发布假的 ARB Token https://t.co/HCtvK34rPt]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3/ $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的, 就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1637085883513053184</id>
-        <link href="https://twitter.com/AntCaveClub/status/1637085883513053184"/>
-        <updated>2023-03-18T13:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/  $ARB 的 Claim 合约是部署在 Arbitrum One 网络上的,  就目前来看已经有大约 1500+ 笔 Claim 失败交易, 应该是用户尝试提前将 Claim 的过程用脚本实现, 方便当天批量 Claim .
-https://arbiscan.io/address/0x67a24CE4321aB3aF51c2D0a4801c3E111D88C9d9 https://t.co/lRrw1GBjO0]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
