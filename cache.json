@@ -138,7 +138,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1640869489385549824",
           "author": "吴说区块链",
-          "description": "Re https://twitter.com/safemoon/status/1640825402795991048\nhttps://twitter.com/peckshield/status/1640855857910149122?s=20\n\nPeckShield Inc.: Hi @safemoon The upgrade, with the exploited public burn bug, was initiated by the official SafeMoon: Deployer. (Admin key leak?) And here comes the upgrade tx.  https://bscscan.com/tx/0x71273e731752457892f73d2ad8b89060bd4f0bf131ed403d5dfc149319c1c01d https://twitter.com/peckshield/status/1640847953098334208 https://t.co/9CQhseircP",
+          "description": "Re https://twitter.com/safemoon/status/1640825402795991048\nhttps://twitter.com/peckshield/status/1640855857910149122?s=20\n\nPeckShield Inc.: Hi @safemoon The upgrade, with the exploited public burn bug, was initiated by the official SafeMoon: Deployer. (Admin key leak?) And here comes the upgrade tx.  https://bscscan.com/tx/0x71273e731752457892f73d2ad8b89060bd4f0bf131ed403d5dfc149319c1c01d https://t.co/9CQhseircP",
           "link": "https://twitter.com/wublockchain12/status/1640869489385549824",
           "publishedOn": "2023-03-29T00:12:26.000Z",
           "wordCount": 509,
@@ -183,6 +183,36 @@
       "siteUrl": "https://twitter.com/8848Community",
       "articles": [
         {
+          "id": "https://twitter.com/8848Community/status/1640966154016669696",
+          "author": "8848 社区（8848 Community）",
+          "description": "interesting https://twitter.com/forgivenever/status/1640907507341365248\n\nForgiven: Arbitrum 空投之夜停机之谜\n日前主任怒锤一波以太神教只搞迷信,不重视技术,激发了大量声讨,调查结果：\n1. 负载最重时,出快正常,但排序器出现问题,性能严重下降,官方RPC和Airdop前端宕机,区块浏览器20mins未更新数据\n2. 排序器每秒700万Gas是软限制,之后Gas Price会飙升限流,真实环境极限120～150TPS",
+          "link": "https://twitter.com/8848Community/status/1640966154016669696",
+          "publishedOn": "2023-03-29T06:36:33.000Z",
+          "wordCount": 509,
+          "title": "interesting https://twitter.com/forgivenever/status/1640907507341365248",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1640965362488610816",
+          "author": "8848 社区（8848 Community）",
+          "description": "Gas越高\n鱼越贵 https://t.co/uMERGWg0SF",
+          "link": "https://twitter.com/8848Community/status/1640965362488610816",
+          "publishedOn": "2023-03-29T06:33:24.000Z",
+          "wordCount": 509,
+          "title": "Gas越高 鱼越贵 https://t.co/uMERGWg0SF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1640949456454701056",
+          "author": "8848 社区（8848 Community）",
+          "description": "慌不慌 https://twitter.com/HopProtocol/status/1640816424506757122\n\nHopProtocol: We are happy to support @LineaBuild Goerli testnet on day 1 🤝\nYou can now send your Goerli ETH and USDC from any supported testnet chain into Linea https://twitter.com/LineaBuild/status/1640650523433992193",
+          "link": "https://twitter.com/8848Community/status/1640949456454701056",
+          "publishedOn": "2023-03-29T05:30:12.000Z",
+          "wordCount": 509,
+          "title": "慌不慌 https://twitter.com/HopProtocol/status/1640816424506757122",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/8848Community/status/1640930406353756160",
           "author": "8848 社区（8848 Community）",
           "description": "Re @lorenhuang22 @cega_fi 好久了以前mint过他们nft",
@@ -195,11 +225,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1640777516163162112",
           "author": "8848 社区（8848 Community）",
-          "description": "别啊  让他们再刷刷呗\n\nMetaMask 🦊💙: 🚨There are quite a few false rumors going around about a MetaMask snapshot/airdrop/etc. on March 31.\nThese rumors are not only false, but they are dangerous. They create opportunities for scammers and phishers.\nPlease be on the lookout for fake sites in the coming days🙏",
+          "description": "别啊  让他们再刷刷呗 https://twitter.com/MetaMask/status/1640763000947703833\n\nMetaMask 🦊💙: 🚨There are quite a few false rumors going around about a MetaMask snapshot/airdrop/etc. on March 31.\nThese rumors are not only false, but they are dangerous. They create opportunities for scammers and phishers.\nPlease be on the lookout for fake sites in the coming days🙏",
           "link": "https://twitter.com/8848Community/status/1640777516163162112",
           "publishedOn": "2023-03-28T18:06:58.000Z",
           "wordCount": 509,
-          "title": "别啊 让他们再刷刷呗",
+          "title": "别啊 让他们再刷刷呗 https://twitter.com/MetaMask/status/1640763000947703833",
           "imageUrl": null
         },
         {
@@ -210,6 +240,16 @@
           "publishedOn": "2023-03-28T12:43:55.000Z",
           "wordCount": 509,
           "title": "RT Miles Deutscher: I just interviewed @0xWangarian, co-founder of Tangent Ventures with @mrjasonchoi. Over an alpha-packed 70 minutes, we discussed: ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/circle/status/1640695177651056640",
+          "author": "8848 社区（8848 Community）",
+          "description": "RT Circle\nWe're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC https://twitter.com/noble_xyz/status/1640670151644180480\n\nNoble: We are excited to announce that Noble is bringing native #USDC to the @Cosmos and boundless Inter-Blockchain Communication (IBC) ecosystem in partnership with @Circle! ✨ \nhttps://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk",
+          "link": "https://twitter.com/circle/status/1640695177651056640",
+          "publishedOn": "2023-03-28T12:39:47.000Z",
+          "wordCount": 509,
+          "title": "RT Circle: We're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC https://twitter.com/nob...",
           "imageUrl": null
         },
         {
@@ -225,11 +265,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1640615924498591744",
           "author": "8848 社区（8848 Community）",
-          "description": "做爱做的事\n交配交之app\n干起来",
+          "description": "做爱做的事\n交配交之app\n干起来 https://twitter.com/0xMonkeyboy/status/1640613038117240833",
           "link": "https://twitter.com/8848Community/status/1640615924498591744",
           "publishedOn": "2023-03-28T07:24:52.000Z",
           "wordCount": 509,
-          "title": "做爱做的事 交配交之app 干起来",
+          "title": "做爱做的事 交配交之app 干起来 https://twitter.com/0xMonkeyboy/status/1640613038117240833",
           "imageUrl": null
         },
         {
@@ -315,11 +355,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1640255249125605376",
           "author": "8848 社区（8848 Community）",
-          "description": "哇。原来我还是这么幸运\n给自己加个油\n\n區塊先生 ⚠️ (rock #58): 別對自己太苛刻，你挺過這些：\n- $ETH 從 $4800 跌至 $900\n- $BTC 從 $6.9萬 跌至 $1.5萬\n- $LUNA 歸零\n- BlockFi，Celsius 和 Voyager 垮台\n- 三箭資本 關閉\n- FTX 和 Alameda 滅頂\n- 各種 rugpull 和 exploits\n- 穩定幣脫鉤 \n- 矽谷銀行，Silvergate，Signature 和瑞士信貸(Credit Suisse) 倒閉… https://twitter.com/i/web/status/1640247950080356352 https://t.co/H24sVqQ8ZL",
+          "description": "哇。原来我还是这么幸运\n给自己加个油 https://twitter.com/mrblocktw/status/1640247950080356352\n\n區塊先生 ⚠️ (rock #58): 別對自己太苛刻，你挺過這些：\n- $ETH 從 $4800 跌至 $900\n- $BTC 從 $6.9萬 跌至 $1.5萬\n- $LUNA 歸零\n- BlockFi，Celsius 和 Voyager 垮台\n- 三箭資本 關閉\n- FTX 和 Alameda 滅頂\n- 各種 rugpull 和 exploits\n- 穩定幣脫鉤 \n- 矽谷銀行，Silvergate，Signature 和瑞士信貸(Credit Suisse) 倒閉… https://twitter.com/i/web/status/1640247950080356352 https://t.co/H24sVqQ8ZL",
           "link": "https://twitter.com/8848Community/status/1640255249125605376",
           "publishedOn": "2023-03-27T07:31:40.000Z",
           "wordCount": 509,
-          "title": "哇。原来我还是这么幸运 给自己加个油",
+          "title": "哇。原来我还是这么幸运 给自己加个油 https://twitter.com/mrblocktw/status/1640247950080356352",
           "imageUrl": null
         },
         {
@@ -333,36 +373,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/8848Community/status/1640252499021160448",
-          "author": "8848 社区（8848 Community）",
-          "description": "现在撸毛工作室是一天换一个热点吗\n前几天刷zksync跟stark，整卡了，zigzag都不能用\n昨天刷小狐狸钱包，顶着高手续费硬上\n今天又轮到搞Layerzero了？\n扛不住了啊我这个真实用户\nLayerzero 之前我2分钟能完成的交易，今天30分钟+了还在排队确认中 https://t.co/6buaZPcbvv",
-          "link": "https://twitter.com/8848Community/status/1640252499021160448",
-          "publishedOn": "2023-03-27T07:20:44.000Z",
-          "wordCount": 509,
-          "title": "现在撸毛工作室是一天换一个热点吗 前几天刷zksync跟stark，整卡了，zigzag都不能用 昨天刷小狐狸钱包，顶着高手续费硬上 今天又轮到搞Layerzero了？ 扛不住了啊...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1640249948330668033",
-          "author": "8848 社区（8848 Community）",
-          "description": "Layerzero 扛不住啊\n被你们刷卡了\n那个。。。。\n我是正常用的\n被影响到了 https://t.co/1gY6UkqfYn",
-          "link": "https://twitter.com/8848Community/status/1640249948330668033",
-          "publishedOn": "2023-03-27T07:10:36.000Z",
-          "wordCount": 509,
-          "title": "Layerzero 扛不住啊 被你们刷卡了 那个。。。。 我是正常用的 被影响到了 https://t.co/1gY6UkqfYn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1640231416113029120",
-          "author": "8848 社区（8848 Community）",
-          "description": "arb发空投后的第四天\n我已经开始疲倦了\n不想刷空投了 https://t.co/fAr47GdeLb",
-          "link": "https://twitter.com/8848Community/status/1640231416113029120",
-          "publishedOn": "2023-03-27T05:56:58.000Z",
-          "wordCount": 509,
-          "title": "arb发空投后的第四天 我已经开始疲倦了 不想刷空投了 https://t.co/fAr47GdeLb",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/manta_china/status/1640193535222906882",
           "author": "8848 社区（8848 Community）",
           "description": "RT Manta Network 中文社区（🔱,🔱）\n随着主网上线临近，Manta Network 发布 MantaPay 上线、NPO 平台发布、生态项目上线、开发者 Grants 资助基金等多个重大进展。🚀🚀  #MantaNetwork #ZKP \n接下来，让我们回顾近期重要进展👇👇",
@@ -370,16 +380,6 @@
           "publishedOn": "2023-03-27T03:26:26.000Z",
           "wordCount": 509,
           "title": "RT Manta Network 中文社区（🔱,🔱）: 随着主网上线临近，Manta Network 发布 MantaPay 上线、NPO 平台发布、生态项目上线、开发者 Grants 资助基金等多个重...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1639952368182898688",
-          "author": "8848 社区（8848 Community）",
-          "description": "怎么回事？\n怎么我出去吃个饭大家都在刷小狐狸🦊钱包的交易功能了？\n还顶着这么高的手续费刷？ https://t.co/BhfRvSgAli",
-          "link": "https://twitter.com/8848Community/status/1639952368182898688",
-          "publishedOn": "2023-03-26T11:28:08.000Z",
-          "wordCount": 509,
-          "title": "怎么回事？ 怎么我出去吃个饭大家都在刷小狐狸🦊钱包的交易功能了？ 还顶着这么高的手续费刷？ https://t.co/BhfRvSgAli",
           "imageUrl": null
         }
       ]
