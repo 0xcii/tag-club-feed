@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T05:12:20.275Z</id>
+    <id>urn:2023-03-31T06:17:20.502Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T05:12:20.275Z</updated>
+    <updated>2023-03-31T06:17:20.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，一巨鲸通过 Abyss Finance 抵押了其全部 53,024 枚 ETH（约 9550 万美元），通过链上数据追踪，发现其 ETH 是在 2017 年和 2018...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1641680030161043457</id>
+        <link href="https://twitter.com/wublockchain12/status/1641680030161043457"/>
+        <updated>2023-03-31T05:53:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，一巨鲸通过 Abyss Finance 抵押了其全部 53,024 枚 ETH（约 9550 万美元），通过链上数据追踪，发现其 ETH 是在 2017 年和 2018 年从 Poloniex、Gemini、 Bittrex 等交易所买入的，平均买入成本为约 $368。https://twitter.com/lookonchain/status/1641676410522836994?s=46&t=6rZmfx2vXmwvDkmLn7gSeQ
+
+Lookonchain: A whale staked all 53,024 $ETH ($95.5M) through Abyss Finance 2 hrs ago.
+Through on-chain data tracking, we found that the $ETH of the whale was bought from #Poloniex, #Gemini, #Bittrex and other exchanges in 2017 and 2018, with an average buying cost of ~$368. https://t.co/BgdOAOikNI]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 0xScope 监测，过去一天，一 EOA 地址一直在收集大量 ARB 代币，现其持有 5900 万枚（约 8440 万美元） ARB，根据活动情况，它可能是 Upbit 的热钱...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1641655725603819520</id>
+        <link href="https://twitter.com/wublockchain12/status/1641655725603819520"/>
+        <updated>2023-03-31T04:16:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 0xScope 监测，过去一天，一 EOA 地址一直在收集大量 ARB 代币，现其持有 5900 万枚（约 8440 万美元） ARB，根据活动情况，它可能是 Upbit 的热钱包。 Upbit 是韩国最大的交易所，现持 ARB 数额仅次于币安。https://twitter.com/ScopeProtocol/status/1641651816751579137?s=20 https://twitter.com/i/web/status/1641655725603819520
+
+0xScope (🪬 . 🪬): 🚨An EOA address has been collecting a massive $ARB for the past day.
+Now it holds 59M ($84.4M) $ARB, based on the activity, we think it might be #Upbit 's hot wallet.
+If it is true, Upbit now holds the second most $ARB after #binance.
+Kimchi Premium?
+https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548?a=0xf7f468b184a48f6ca37eeffe12733ee1c16b6e26 https://t.co/RRleoPOXNU]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CoinDesk 发布社论，称如果拜登政府不做出重大改变，美国反对加密货币的观点很快就会变得根深蒂固无法根除。美国政府的大部分行动都是惩罚性的，而不...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1641654416129560578</id>
+        <link href="https://twitter.com/wublockchain12/status/1641654416129560578"/>
+        <updated>2023-03-31T04:11:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CoinDesk 发布社论，称如果拜登政府不做出重大改变，美国反对加密货币的观点很快就会变得根深蒂固无法根除。美国政府的大部分行动都是惩罚性的，而不是建设性的。打击行动超出了现行法律规定的监管机构的权限，并且违反了支撑美国和加密货币世界的自由和创新精神。https://www.coindesk.com/consensus-magazine/2023/03/30/coindesk-editorial-it-sure-looks-like-the-us-is-trying-to-kill-crypto/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭秘 Trader Joe V2 的机制（作者：CapitalismLab）： Joe V2 是 AMM 类似订单簿，使用非连续流动性，最小价格精度基于比例而非固定数值，优势在于垂直聚合流动...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1641654081042419712</id>
+        <link href="https://twitter.com/wublockchain12/status/1641654081042419712"/>
+        <updated>2023-03-31T04:10:08.000Z</updated>
+        <summary type="html"><![CDATA[揭秘 Trader Joe V2 的机制（作者：CapitalismLab）： Joe V2 是 AMM 类似订单簿，使用非连续流动性，最小价格精度基于比例而非固定数值，优势在于垂直聚合流动性带来高可组合性且高效率和支持激励。高波动率下的经常性汇率优势和相对较低的费率，使得 Joe V2 在 $ARB… https://twitter.com/i/web/status/1641654081042419712]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，dYdX 近日发文声明会解决 dYdX v4 应用链潜在的 MEV 问题。文章表示，dYdX v4 应用链的去中心化高性能内存订单簿可能会导致 MEV 价值攫取问题。不过，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1641653969700409346</id>
+        <link href="https://twitter.com/wublockchain12/status/1641653969700409346"/>
+        <updated>2023-03-31T04:09:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，dYdX 近日发文声明会解决 dYdX v4 应用链潜在的 MEV 问题。文章表示，dYdX v4 应用链的去中心化高性能内存订单簿可能会导致 MEV 价值攫取问题。不过，不像通用智能合约环境，Cosmos 基础设施使得 dYdX 能够构建独特的 MEV 解决方案，协调好验证者和用户之间的激励问题，dYdX 认为 MEV… https://twitter.com/i/web/status/1641653969700409346]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据以太坊开发者 timbeiko，以太坊上海升级测试进入最后阶段，最后一个主网影子分叉计划于下周进行，并对最新版本进行跨客户端 EVM 模糊测试。EOF（EVM...]]></title>
         <id>https://twitter.com/wublockchain12/status/1641642554855919616</id>
@@ -144,58 +203,6 @@ Nick Timiraos: This chart shows why the amount of new reserves being created b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Aave 社区在 zkEVM 主网上部署 Aave V3 的 MVP 版本的提案的初步民意调查几乎获全票支持，现将进入正式的链上投票。该提案建议仅加入三种抵押品（WETH...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641602970554073088</id>
-        <link href="https://twitter.com/wublockchain12/status/1641602970554073088"/>
-        <updated>2023-03-31T00:47:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Aave 社区在 zkEVM 主网上部署 Aave V3 的 MVP 版本的提案的初步民意调查几乎获全票支持，现将进入正式的链上投票。该提案建议仅加入三种抵押品（WETH、WMATIC 和 USDC）和一种可借入资产（USDC）以降低风险敞口，旨在尽早建立 Aave 在 L2 网络的战略地位。https://signal.aave.com/#/proposal/0x0777eb4701023508c03825e2779e6189326ed9b3d1eb6e187d1f6e0f8d154605]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对蓝筹 NFT 胖企鹅的研究（作者：web3brand）：构建一个可持续的，可增长的收入来源；PFP 的终局是 IP（衍生品销售、游戏、 影视票房）；精力放在 Instagram 等...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641602888043761665</id>
-        <link href="https://twitter.com/wublockchain12/status/1641602888043761665"/>
-        <updated>2023-03-31T00:46:42.000Z</updated>
-        <summary type="html"><![CDATA[对蓝筹 NFT 胖企鹅的研究（作者：web3brand）：构建一个可持续的，可增长的收入来源；PFP 的终局是 IP（衍生品销售、游戏、 影视票房）；精力放在 Instagram 等传统 WEB2 平台；抓住5000-10000人的注意力，并且让他们成为你品牌的支持者；NFT 会获得大规模采用是来自于用户对 IP… https://twitter.com/i/web/status/1641602888043761665]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布扩张加拿大计划，聘请 Shopify 前高管 Lucas Matheson 任加拿大地区业务总监。Coinbase Canada 于上周与加拿大监管机构签署了增强版预注...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641600481633120256</id>
-        <link href="https://twitter.com/wublockchain12/status/1641600481633120256"/>
-        <updated>2023-03-31T00:37:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布扩张加拿大计划，聘请 Shopify 前高管 Lucas Matheson 任加拿大地区业务总监。Coinbase Canada 于上周与加拿大监管机构签署了增强版预注册承诺 (PRU)，并将建立一个拥有 200 多名工程师的本地技术中心。由于新规监管收紧， OKX、Deribit… https://twitter.com/i/web/status/1641600481633120256]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/FTX_Committee/status/1641569407007707137]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641595254179758080</id>
-        <link href="https://twitter.com/wublockchain12/status/1641595254179758080"/>
-        <updated>2023-03-31T00:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/FTX_Committee/status/1641569407007707137
-
-Official Committee of Unsecured Creditors of FTX: If you believe you have a net positive account balance on FTX’s exchanges and have not yet received your unique Customer Code from FTX’s claims agent, Kroll, please email FTXInfo@ra.kroll.com.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，FTX 债权人委员会表示，如果您认为您在 FTX 交易所的账户余额为正净额，但尚未从 FTX 的理赔代理人 Kroll 处收到您的唯一客户代码，请发送电子邮件至 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641595130380697601</id>
-        <link href="https://twitter.com/wublockchain12/status/1641595130380697601"/>
-        <updated>2023-03-31T00:15:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，FTX 债权人委员会表示，如果您认为您在 FTX 交易所的账户余额为正净额，但尚未从 FTX 的理赔代理人 Kroll 处收到您的唯一客户代码，请发送电子邮件至 FTXInfo@ra.kroll.com。请不要与任何第三方分享您的客户代码，并提防任何网络钓鱼计划或与非 FTX 数据库相关的其他潜在欺诈行为。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @EricJhonsa Based]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1641591624856641538</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1641591624856641538"/>
@@ -271,16 +278,6 @@ Elizabeth Warren: I’m in this fight to put our government on the side of wor
 hentai avenger: big week. https://t.co/OFaCEMWTIz]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Protos，黑山的一名刑事辩护律师表示，Do Kwon 隔离完成后将进入综合拘留所，房间只有8平米、10-11个人，甚至没有床；该律师认为，至少需要一年才...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641475118785515520</id>
-        <link href="https://twitter.com/wublockchain12/status/1641475118785515520"/>
-        <updated>2023-03-30T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Protos，黑山的一名刑事辩护律师表示，Do Kwon 隔离完成后将进入综合拘留所，房间只有8平米、10-11个人，甚至没有床；该律师认为，至少需要一年才能达成引渡协议；目前引渡到韩国的概率最大。https://protos.com/do-kwon-faces-grim-year-in-montenegro-jail-lawyer-says/]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -370,11 +367,11 @@ ht @Jon_Hartley_ for the charts. https://t.co/9QQ1IA1Q0B]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330]]></title>
+        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了]]></title>
         <id>https://twitter.com/8848Community/status/1641328944891953152</id>
         <link href="https://twitter.com/8848Community/status/1641328944891953152"/>
         <updated>2023-03-30T06:38:09.000Z</updated>
-        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330
+        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了
 
 BlockBeats｜We're hiring!: Polygon zkEVM 主网将不会发行单独代币了。
 Polygon 在其官方文档更新 Polygon zkEVM 主网相关事项。其中指出，Polygon zkEVM 主网将不会发行单独的代币，ETH 将用于支付网络 gas 费，预计未来 MATIC 将用于 Polygon zkEVM 中的质押和治理。
@@ -384,11 +381,11 @@ Polygon 在其官方文档更新 Polygon zkEVM 主网相关事项。其中指出
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild https://twitter.com/ConnextNetwork/status/1641194825406922753]]></title>
+        <title type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild]]></title>
         <id>https://twitter.com/8848Community/status/1641328496554426371</id>
         <link href="https://twitter.com/8848Community/status/1641328496554426371"/>
         <updated>2023-03-30T06:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild https://twitter.com/ConnextNetwork/status/1641194825406922753
+        <summary type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild
 
 Connext | Maximum ❎Chain Security: Connext is delighted to announce the integration and partnership with @LineaBuild, the zk Layer 2 built on top of @ethereum by @ConsenSys https://t.co/SrsC6FtJ4U]]></summary>
         <author>
@@ -579,11 +576,11 @@ L2的意思是gas是主网的2倍]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[interesting https://twitter.com/forgivenever/status/1640907507341365248]]></title>
+        <title type="html"><![CDATA[interesting]]></title>
         <id>https://twitter.com/8848Community/status/1640966154016669696</id>
         <link href="https://twitter.com/8848Community/status/1640966154016669696"/>
         <updated>2023-03-29T06:36:33.000Z</updated>
-        <summary type="html"><![CDATA[interesting https://twitter.com/forgivenever/status/1640907507341365248
+        <summary type="html"><![CDATA[interesting
 
 Forgiven: Arbitrum 空投之夜停机之谜
 日前主任怒锤一波以太神教只搞迷信,不重视技术,激发了大量声讨,调查结果：
@@ -605,14 +602,14 @@ Forgiven: Arbitrum 空投之夜停机之谜
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慌不慌 https://twitter.com/HopProtocol/status/1640816424506757122]]></title>
+        <title type="html"><![CDATA[慌不慌]]></title>
         <id>https://twitter.com/8848Community/status/1640949456454701056</id>
         <link href="https://twitter.com/8848Community/status/1640949456454701056"/>
         <updated>2023-03-29T05:30:12.000Z</updated>
-        <summary type="html"><![CDATA[慌不慌 https://twitter.com/HopProtocol/status/1640816424506757122
+        <summary type="html"><![CDATA[慌不慌
 
 HopProtocol: We are happy to support @LineaBuild Goerli testnet on day 1 🤝
-You can now send your Goerli ETH and USDC from any supported testnet chain into Linea https://twitter.com/LineaBuild/status/1640650523433992193]]></summary>
+You can now send your Goerli ETH and USDC from any supported testnet chain into Linea]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -648,11 +645,11 @@ You can now send your Goerli ETH and USDC from any supported testnet chain into 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别啊 让他们再刷刷呗 https://twitter.com/MetaMask/status/1640763000947703833]]></title>
+        <title type="html"><![CDATA[别啊 让他们再刷刷呗]]></title>
         <id>https://twitter.com/8848Community/status/1640777516163162112</id>
         <link href="https://twitter.com/8848Community/status/1640777516163162112"/>
         <updated>2023-03-28T18:06:58.000Z</updated>
-        <summary type="html"><![CDATA[别啊  让他们再刷刷呗 https://twitter.com/MetaMask/status/1640763000947703833
+        <summary type="html"><![CDATA[别啊  让他们再刷刷呗
 
 MetaMask 🦊💙: 🚨There are quite a few false rumors going around about a MetaMask snapshot/airdrop/etc. on March 31.
 These rumors are not only false, but they are dangerous. They create opportunities for scammers and phishers.
@@ -693,12 +690,12 @@ Here are the 13 most important takeaways.👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Circle: We're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC https://twitter.com/nob...]]></title>
+        <title type="html"><![CDATA[RT Circle: We're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC]]></title>
         <id>https://twitter.com/circle/status/1640695177651056640</id>
         <link href="https://twitter.com/circle/status/1640695177651056640"/>
         <updated>2023-03-28T12:39:47.000Z</updated>
         <summary type="html"><![CDATA[RT Circle
-We're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC https://twitter.com/noble_xyz/status/1640670151644180480
+We're excited to bring USDC to @Cosmos! USDC is expected to launch on @noble_xyz soon, stay tuned for details. #IBC
 
 Noble: We are excited to announce that Noble is bringing native #USDC to the @Cosmos and boundless Inter-Blockchain Communication (IBC) ecosystem in partnership with @Circle! ✨ 
 https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk]]></summary>
@@ -730,13 +727,13 @@ https://linea.mirror.xyz/6G30hwV2wPs_wPv0VEgHYaIdghMkIQaad-OI_0br1hM]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[做爱做的事 交配交之app 干起来 https://twitter.com/0xMonkeyboy/status/1640613038117240833]]></title>
+        <title type="html"><![CDATA[做爱做的事 交配交之app 干起来]]></title>
         <id>https://twitter.com/8848Community/status/1640615924498591744</id>
         <link href="https://twitter.com/8848Community/status/1640615924498591744"/>
         <updated>2023-03-28T07:24:52.000Z</updated>
         <summary type="html"><![CDATA[做爱做的事
 交配交之app
-干起来 https://twitter.com/0xMonkeyboy/status/1640613038117240833]]></summary>
+干起来]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -754,11 +751,11 @@ CZ一个亚裔直男顶不住滴
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000]]></title>
+        <title type="html"><![CDATA[那是他的损失😆]]></title>
         <id>https://twitter.com/AntCaveClub/status/1640550953693876224</id>
         <link href="https://twitter.com/AntCaveClub/status/1640550953693876224"/>
         <updated>2023-03-28T03:06:41.000Z</updated>
-        <summary type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000
+        <summary type="html"><![CDATA[那是他的损失😆
 
 crypto指南针: 擦，能不能不要这么玻璃心
 兄弟们，我还在出差
@@ -933,12 +930,12 @@ https://swap.defillama.com/arb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -1186,7 +1183,7 @@ https://eth.antcave.club/arb-arb]]></summary>
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
+现在用应该为时不晚.
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1317,11 +1314,11 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
+        <title type="html"><![CDATA[👀]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
+        <summary type="html"><![CDATA[👀
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
