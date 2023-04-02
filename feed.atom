@@ -1,10 +1,239 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T02:28:33.024Z</id>
+    <id>urn:2023-04-02T03:12:28.787Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-02T02:28:33.024Z</updated>
+    <updated>2023-04-02T03:12:28.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/peckshield/status/1642356701100916736]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642361520041660417</id>
+        <link href="https://twitter.com/wublockchain12/status/1642361520041660417"/>
+        <updated>2023-04-02T03:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/peckshield/status/1642356701100916736
+
+PeckShield Inc.: The @Allbridge_io hack results in the loss of ~$570K (282,889 BUSD + 290,868 USDT). The root cause appears to be the manipulation of pool's swap price. The actor plays dual roles of acting as LP and swapper to manipulate the price and then drain the pool funds. https://twitter.com/peckshield/status/1642341974878584840 https://t.co/FY2wwA6IHm]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，PeckShield 发推称，跨链桥 Allbridge 被黑客攻击导致损失约 57 万美元，其中包括 282,889 BUSD 与 290,868 USDT。其被攻击的根本原因是资金池的 Swap...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642361380711038976</id>
+        <link href="https://twitter.com/wublockchain12/status/1642361380711038976"/>
+        <updated>2023-04-02T03:00:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，PeckShield 发推称，跨链桥 Allbridge 被黑客攻击导致损失约 57 万美元，其中包括 282,889 BUSD 与 290,868 USDT。其被攻击的根本原因是资金池的 Swap 价格被篡改。黑客充当了 LP 与 Swapper，操纵价格并耗尽资金池的资金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说VC月报：3月加密项目融资数量与金额均大幅下降。3 月加密 VC 公开的投资项目共 84 个，环比下降 31%；总融资金额为 7.7 亿美元，环比下降 19%；融资金额结束...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642357661097402368</id>
+        <link href="https://twitter.com/wublockchain12/status/1642357661097402368"/>
+        <updated>2023-04-02T02:45:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说VC月报：3月加密项目融资数量与金额均大幅下降。3 月加密 VC 公开的投资项目共 84 个，环比下降 31%；总融资金额为 7.7 亿美元，环比下降 19%；融资金额结束了三个月的上升趋势。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=12989 https://t.co/l3KiPVuCtm]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Web3 游戏提供了两全其美的优势：为开发人员和公司开发分散式游戏，以及为希望与世界各地的人们竞争和联系的游戏玩家提供社会和经济价值。阅读全文： https:/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642356160882970628</id>
+        <link href="https://twitter.com/wublockchain12/status/1642356160882970628"/>
+        <updated>2023-04-02T02:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Re Web3 游戏提供了两全其美的优势：为开发人员和公司开发分散式游戏，以及为希望与世界各地的人们竞争和联系的游戏玩家提供社会和经济价值。阅读全文：
+https://decrypt.co/124932/aptos-op-ed-web2-web3-gaming-advantages-global-ownership]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Web3 游戏可以为（至少）40% 的世界人口提供什么》：预计到 2026 年，全球游戏产业价值将达到 3210 亿美元，众多玩家将涌入该市场。游戏开发中最重要的因素是...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642356158622208000</id>
+        <link href="https://twitter.com/wublockchain12/status/1642356158622208000"/>
+        <updated>2023-04-02T02:39:56.000Z</updated>
+        <summary type="html"><![CDATA[《Web3 游戏可以为（至少）40% 的世界人口提供什么》：预计到 2026 年，全球游戏产业价值将达到 3210 亿美元，众多玩家将涌入该市场。游戏开发中最重要的因素是游戏为大约 32 亿游戏玩家（占世界人口的 40%）提供的社区意识和共享体验。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 总体上，大约 52.4% 的比特币挖矿依赖可再生能源来满足其电力需求。 https://cryptoslate.com/more-than-50-of-bitcoin-mining-uses-renewable-energy/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642351509932511233</id>
+        <link href="https://twitter.com/wublockchain12/status/1642351509932511233"/>
+        <updated>2023-04-02T02:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Re 总体上，大约 52.4% 的比特币挖矿依赖可再生能源来满足其电力需求。
+https://cryptoslate.com/more-than-50-of-bitcoin-mining-uses-renewable-energy/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 ESG 分析师和投资者 Daniel Batten 的研究，比特币挖矿中使用的大部分电力是来自可再生能源。水电占采矿业使用的所有能源的 23.12%。此外，风能、...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642351508049244161</id>
+        <link href="https://twitter.com/wublockchain12/status/1642351508049244161"/>
+        <updated>2023-04-02T02:21:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 ESG 分析师和投资者 Daniel Batten 的研究，比特币挖矿中使用的大部分电力是来自可再生能源。水电占采矿业使用的所有能源的 23.12%。此外，风能、核能和太阳能分别占挖矿所有电力的 13.98% 、7.94% 和 4.98%。其他可再生能源用于约 2.40% 的比特币挖矿。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，Lowery 得出结论，比特币代表了美国应尽快支持和采用的国家战略要务，否则美国可能会失去其在 21 世纪作为全球超级大国的领先地位。 https://blockwork...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642347199689555968</id>
+        <link href="https://twitter.com/wublockchain12/status/1642347199689555968"/>
+        <updated>2023-04-02T02:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，Lowery 得出结论，比特币代表了美国应尽快支持和采用的国家战略要务，否则美国可能会失去其在 21 世纪作为全球超级大国的领先地位。
+https://blockworks.co/news/pentagon-mine-bitcoin-space-force]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国太空部队宇航工程师和麻省理工学院的美国国防研究员 Jason Lowery 在论文中表示，比特币不仅是一种互联网货币形式，也是五角大楼在现代战争中使用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642347197848256513</id>
+        <link href="https://twitter.com/wublockchain12/status/1642347197848256513"/>
+        <updated>2023-04-02T02:04:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国太空部队宇航工程师和麻省理工学院的美国国防研究员 Jason Lowery 在论文中表示，比特币不仅是一种互联网货币形式，也是五角大楼在现代战争中使用的武器。 Lowery 声称比特币的工作量证明共识机制为世界大国发动战争的方式带来了巨大转变。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据报告，G-7 成员将在领导人声明中阐明他们对更严格的加密货币政策的共同意图。（CoinDesk） https://www.coindesk.com/policy/2023/03/27/g-7-will-push-for...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642344217837191169</id>
+        <link href="https://twitter.com/wublockchain12/status/1642344217837191169"/>
+        <updated>2023-04-02T01:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 据报告，G-7 成员将在领导人声明中阐明他们对更严格的加密货币政策的共同意图。（CoinDesk）
+https://www.coindesk.com/policy/2023/03/27/g-7-will-push-for-tighter-global-crypto-regulations-kyodo/?utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter&utm_term=organic&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七国集团（G-7）将加强全球加密监管，重点是提高商业透明度和消费者保护。在 5 月中旬各国财长和央行行长会议召开之前，关于监管加密货币的讨论G-7将加速进行。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642344216016863232</id>
+        <link href="https://twitter.com/wublockchain12/status/1642344216016863232"/>
+        <updated>2023-04-02T01:52:29.000Z</updated>
+        <summary type="html"><![CDATA[七国集团（G-7）将加强全球加密监管，重点是提高商业透明度和消费者保护。在 5 月中旬各国财长和央行行长会议召开之前，关于监管加密货币的讨论G-7将加速进行。日本首相岸田文雄今年将在广岛主持 G-7 峰会。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/zksync/status/1642277357368090626]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642343238211346434</id>
+        <link href="https://twitter.com/wublockchain12/status/1642343238211346434"/>
+        <updated>2023-04-02T01:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/zksync/status/1642277357368090626
+
+zkSync ∎: Protocol liveness is @zksync's second top priority after security.
+We want to share, with full transparency, the details of this incident with our community. Here's an overview of what happened, the reasons behind it, our response, and future plans to prevent liveness issues. https://twitter.com/zksync/status/1642078325404467202]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，zkSync 分析昨日宕机原因：区块队列的数据库出现故障，导致区块生产停止；数据库运行状况警报未触发，因为它无法连接到它以收集指标；由于团队当时所...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642343236365864961</id>
+        <link href="https://twitter.com/wublockchain12/status/1642343236365864961"/>
+        <updated>2023-04-02T01:48:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，zkSync 分析昨日宕机原因：区块队列的数据库出现故障，导致区块生产停止；数据库运行状况警报未触发，因为它无法连接到它以收集指标；由于团队当时所处时区为凌晨2点，所以没有及时处理；长期解决方案是去中心化。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upon further the review, the NDX's valuation doesn't look *that* crazy. Vs. the SPX and vs. Bonds it's not as cheap as it was for the 10 years prior t...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1642340997777563649</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1642340997777563649"/>
+        <updated>2023-04-02T01:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Upon further the review, the NDX's valuation doesn't look *that* crazy.
+Vs. the SPX and vs. Bonds it's not as cheap as it was for the 10 years prior to COVID. 
+However it's also not nearly as expensive as it was during the 2000's while its quality is *much* higher. https://t.co/DHLZouFJW1
+
+
+Cameron Dawson: Tech’s PE has now jumped so much that it now trades at a 38% premium to the S&P. This is even higher than at the pandemic bubble peak in late 2021!
+Wild to think that pre-Powell pivot in 2019, tech traded at just a 4% premium to the market. https://t.co/37qLb3zWXl]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DrgStefanescu @0xfoobar Yup]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1642340939543764992</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1642340939543764992"/>
+        <updated>2023-04-02T01:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrgStefanescu @0xfoobar Yup
+
+Token Terminal: DAUs: Bitcoin vs. Ethereum https://t.co/XVpvzSO3DF]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 这是因为集中式 Arbitrum 基金会在 ARB 持有者塑造区块链及其生态系统的过程中不需要将其赠款分配置于“完全链上治理”。（CoinDesk） https://www.coindesk....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642337959386181633</id>
+        <link href="https://twitter.com/wublockchain12/status/1642337959386181633"/>
+        <updated>2023-04-02T01:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Re 这是因为集中式 Arbitrum 基金会在 ARB 持有者塑造区块链及其生态系统的过程中不需要将其赠款分配置于“完全链上治理”。（CoinDesk）
+https://www.coindesk.com/business/2023/04/01/arbitrums-first-governance-proposal-turns-messy-with-1b-arb-tokens-at-stake/?utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter&utm_term=organic]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum 区块链的首次治理尝试变得混乱，原因是一项提议让 Arbitrum 基金会控制 7.5 亿个 ARB 代币（近 10 亿美元）。这些代币将资助一项旨在促进 Arbitrum 增...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642337957444194310</id>
+        <link href="https://twitter.com/wublockchain12/status/1642337957444194310"/>
+        <updated>2023-04-02T01:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum 区块链的首次治理尝试变得混乱，原因是一项提议让 Arbitrum 基金会控制 7.5 亿个 ARB 代币（近 10 亿美元）。这些代币将资助一项旨在促进 Arbitrum 增长的“特别赠款”计划。但根据 AIP-1 提案，ARB 持有人无法决定 Arbitrum 基金会将近 10 亿美元的资金分配。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 这些联系有多深？Peter Thiel 真的知道中本聪的真实身份吗？阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=12981]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642335180533956609</id>
+        <link href="https://twitter.com/wublockchain12/status/1642335180533956609"/>
+        <updated>2023-04-02T01:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 这些联系有多深？Peter Thiel 真的知道中本聪的真实身份吗？阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=12981]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周日荐读｜寻找中本聪：从 Peter Thiel 到 Elon Musk。Peter Thiel 和中本聪有着相同的社交圈子：与 Elon Musk 合作，见过 E-Gold 的创始人，成为 PayPal 黑帮的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642335178617159681</id>
+        <link href="https://twitter.com/wublockchain12/status/1642335178617159681"/>
+        <updated>2023-04-02T01:16:34.000Z</updated>
+        <summary type="html"><![CDATA[周日荐读｜寻找中本聪：从 Peter Thiel 到 Elon Musk。Peter Thiel 和中本聪有着相同的社交圈子：与 Elon Musk 合作，见过 E-Gold 的创始人，成为 PayPal 黑帮的成员，与 Srinivasan 和第一本比特币杂志的创始人 Vitalik Buterin 交友。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 他们声称这为 Musk 带来了数十亿美元的利润，而其他狗狗币投资者则蒙受损失。 https://news.bitcoin.com/elon-musk-asks-judge-to-dismiss-258b-dogecoin-law...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642321778210111488</id>
+        <link href="https://twitter.com/wublockchain12/status/1642321778210111488"/>
+        <updated>2023-04-02T00:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 他们声称这为 Musk 带来了数十亿美元的利润，而其他狗狗币投资者则蒙受损失。
+https://news.bitcoin.com/elon-musk-asks-judge-to-dismiss-258b-dogecoin-lawsuit-insists-tweeting-support-for-doge-isnt-unlawful/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，特斯拉和 Twitter 首席执行官 Elon Musk 要求美国法官驳回一项价值 2580 亿美元的诉讼。该诉讼指控他经营金字塔计划以推广 meme 加密货币狗狗币 (DOGE...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642321776364650496</id>
+        <link href="https://twitter.com/wublockchain12/status/1642321776364650496"/>
+        <updated>2023-04-02T00:23:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，特斯拉和 Twitter 首席执行官 Elon Musk 要求美国法官驳回一项价值 2580 亿美元的诉讼。该诉讼指控他经营金字塔计划以推广 meme 加密货币狗狗币 (DOGE)。据投资者称，Musk 故意在两年内将狗狗币的价值推高了 36,000% 以上，但随后却让它崩盘。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xfoobar Unfortunately btc has more DAUs than eth]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1642303334915661826</id>
@@ -26,11 +255,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phew… this is very different than early 2019. https://twitter.com/camerondawson/status/1642230879505334272]]></title>
+        <title type="html"><![CDATA[Phew… this is very different than early 2019.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1642262615870042114</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1642262615870042114"/>
         <updated>2023-04-01T20:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Phew… this is very different than early 2019. https://twitter.com/camerondawson/status/1642230879505334272
+        <summary type="html"><![CDATA[Phew… this is very different than early 2019.
 
 Cameron Dawson: Tech’s PE has now jumped so much that it now trades at a 38% premium to the S&P. This is even higher than at the pandemic bubble peak in late 2021!
 Wild to think that pre-Powell pivot in 2019, tech traded at just a 4% premium to the market. https://t.co/37qLb3zWXl]]></summary>
@@ -118,54 +347,6 @@ Scott Johnsson: @DeFiSurfer808 Counterpoints:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Ripple 首席执行官 Brad Garlinghouse 发推抨击 SEC 主席 Gensler 指示哪些加密代币是证券，“美国证券交易委员会主席断言他决定什么是证券 - 而不是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642160941432446978</id>
-        <link href="https://twitter.com/wublockchain12/status/1642160941432446978"/>
-        <updated>2023-04-01T13:44:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Ripple 首席执行官 Brad Garlinghouse 发推抨击 SEC 主席 Gensler 指示哪些加密代币是证券，“美国证券交易委员会主席断言他决定什么是证券 - 而不是赋予其所在机构权力的立法决定的 - 这是无法理解的。… https://twitter.com/i/web/status/1642160941432446978]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据节点监控工具 ForkMonitor 显示，比特币网络区块高度 783426 产出了两个区块。BitMex Research 表示，疑似是 F2pool 产出了一个无效区块，具体原因...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642159542720151553</id>
-        <link href="https://twitter.com/wublockchain12/status/1642159542720151553"/>
-        <updated>2023-04-01T13:38:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据节点监控工具 ForkMonitor 显示，比特币网络区块高度 783426 产出了两个区块。BitMex Research 表示，疑似是 F2pool 产出了一个无效区块，具体原因目前尚在研究中。https://twitter.com/bitmexresearch/status/1642151592609607685?s=46&t=xT3btuMDjkxjPWa9NKbSHQ
-
-BitMEX Research: F2pool seems to have produced an invalid Bitcoin block today, at height 783426.
-The hash for the invalid block is
-00000000000000000002ec935e245f8ae70fc68cc828f05bf4cfa002668599e4]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国纽约南区地方法院法官 Jennifer Rearden 周五表示，美国政府在试图撤销 http://Binance.US 购买 Voyager 资产的 10 亿美元交易时，有“实质性案情...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642159203455496192</id>
-        <link href="https://twitter.com/wublockchain12/status/1642159203455496192"/>
-        <updated>2023-04-01T13:37:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国纽约南区地方法院法官 Jennifer Rearden 周五表示，美国政府在试图撤销 http://Binance.US 购买 Voyager 资产的 10 亿美元交易时，有“实质性案情”。并表示其会加快上诉，因为延误可能导致每月损失高达 1000 万美元。此前该法官批准了司法部提出的暂缓 Voyager 将其资产出售给… https://twitter.com/i/web/status/1642159203455496192]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据华尔街日报记者 @NickTimiraos，截至 3 月 22 日的一周，美国银行存款较前一周减少了 1260 亿美元。小型银行净流入 60 亿美金；大型银行流出 900 亿...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642151218289213440</id>
-        <link href="https://twitter.com/wublockchain12/status/1642151218289213440"/>
-        <updated>2023-04-01T13:05:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据华尔街日报记者 @NickTimiraos，截至 3 月 22 日的一周，美国银行存款较前一周减少了 1260 亿美元。小型银行净流入 60 亿美金；大型银行流出 900 亿美金；截至 3 月 15 日的一周，小型银行存款流出 1,960 亿美元。https://twitter.com/NickTimiraos/status/1641900163449905154
-
-Nick Timiraos: U.S. bank deposits declined $126 billion for the week ending March 22 from the previous week. 
-Small banks saw net *inflows* of $6 billion, while large banks saw $90 billion in *outflows*
-But do note there have been big revisions to the previous week https://www.federalreserve.gov/releases/h8/current/default.htm https://t.co/0FIPewMxZE]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Fed pivoted ALL IN 🚀]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1642146155600527360</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1642146155600527360"/>
@@ -174,26 +355,6 @@ But do note there have been big revisions to the previous week https://www.feder
 ALL IN 🚀]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 其中，EOF 是一组需要在 EVM 中升级的代码更改，由于 EOF 的改动也较大，目前开发者社区倾向于将其置于上海升级以及 Cancun（EIP4844） 升级之后，作为一次独...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642123474524311552</id>
-        <link href="https://twitter.com/wublockchain12/status/1642123474524311552"/>
-        <updated>2023-04-01T11:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 其中，EOF 是一组需要在 EVM 中升级的代码更改，由于 EOF 的改动也较大，目前开发者社区倾向于将其置于上海升级以及 Cancun（EIP4844） 升级之后，作为一次独立的硬分叉。https://www.galaxy.com/research/insights/ethereum-all-core-developers-execution-call-158/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对以太坊执行层全核心开发者电话会议158（ACDE）的总结，本次会议开发人员讨论了几个长期计划的进展...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642123330265419776</id>
-        <link href="https://twitter.com/wublockchain12/status/1642123330265419776"/>
-        <updated>2023-04-01T11:14:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对以太坊执行层全核心开发者电话会议158（ACDE）的总结，本次会议开发人员讨论了几个长期计划的进展，包括 EVM 对象格式（EOF）、弃用 self-destruct 函数 、EL 客户端的回退机制以及 verkle 树。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -207,46 +368,6 @@ ALL IN 🚀]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Blockworks Research：解读 ArbitrumDAO 成立提案，为何说这是 DAO 治理的退步？这些代币似乎将在 Arbitrum 基金会的控制下由 3 位初始董事管理。7.5 亿枚 AR...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642105958984978432</id>
-        <link href="https://twitter.com/wublockchain12/status/1642105958984978432"/>
-        <updated>2023-04-01T10:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Re Blockworks Research：解读 ArbitrumDAO 成立提案，为何说这是 DAO 治理的退步？这些代币似乎将在 Arbitrum 基金会的控制下由 3 位初始董事管理。7.5 亿枚 ARB 代币占总供应量的很大一部分，在没有进一步明确拨款程序，资金如何持有，有哪些监督情况下，这个提案不应该被通过。不太能理解 Arbitrum… https://twitter.com/i/web/status/1642105958984978432]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 coinpaper，欧洲议会议员批准了三项法案草案中包括将匿名加密货币转账限制在 1,000 欧元以内。新法规将补充进加密资产市场规则 (MiCA) 法案。https...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642103708841562112</id>
-        <link href="https://twitter.com/wublockchain12/status/1642103708841562112"/>
-        <updated>2023-04-01T09:56:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 coinpaper，欧洲议会议员批准了三项法案草案中包括将匿名加密货币转账限制在 1,000 欧元以内。新法规将补充进加密资产市场规则 (MiCA) 法案。https://coinpaper.com/1292/eu-to-ban-anonymous-crypto-transfers-of-over-1-000-euro]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-04-01/justin-sun-is-said-to-have-discussed-stake-sale-in-huobi-global?utm_medium=social&utm_content=cr...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642065016412327937</id>
-        <link href="https://twitter.com/wublockchain12/status/1642065016412327937"/>
-        <updated>2023-04-01T07:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.bloomberg.com/news/articles/2023-04-01/justin-sun-is-said-to-have-discussed-stake-sale-in-huobi-global?utm_medium=social&utm_content=crypto&utm_campaign=socialflow-organic&utm_source=twitter]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，孙宇晨已经就出售 Huobi 进行了谈判，孙宇晨在过去几周试探了潜在投资者的意见。孙宇晨向彭博社否认了这一消息。早先孙宇晨支付了约10亿美...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642064984262995969</id>
-        <link href="https://twitter.com/wublockchain12/status/1642064984262995969"/>
-        <updated>2023-04-01T07:22:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，孙宇晨已经就出售 Huobi 进行了谈判，孙宇晨在过去几周试探了潜在投资者的意见。孙宇晨向彭博社否认了这一消息。早先孙宇晨支付了约10亿美金，从李林等手中购买了 Huobi 交易所。但此后孙宇晨营销为主的打法在火币上难以起到作用，目前24小时交易量已跌出前十。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @lorenhuang22 他们甚至连交易所，流动性都不愿意弄下，也是奇葩了]]></title>
         <id>https://twitter.com/8848Community/status/1642056003079536641</id>
         <link href="https://twitter.com/8848Community/status/1642056003079536641"/>
@@ -254,29 +375,6 @@ ALL IN 🚀]]></summary>
         <summary type="html"><![CDATA[Re @lorenhuang22 他们甚至连交易所，流动性都不愿意弄下，也是奇葩了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Offchain Labs 表示，今天将有一大笔 ARB 代币转移给托管人。这些代币保持锁定状态，只能在 4 年后转让。https://twitter.com/OffchainLabs/status/164185388...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642049003708899330</id>
-        <link href="https://twitter.com/wublockchain12/status/1642049003708899330"/>
-        <updated>2023-04-01T06:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Re Offchain Labs 表示，今天将有一大笔 ARB 代币转移给托管人。这些代币保持锁定状态，只能在 4 年后转让。https://twitter.com/OffchainLabs/status/1641853889971355666
-
-Offchain Labs: As a heads-up to the community, a large sum of $ARB tokens will be transferred to a custodian today. 
-These tokens remain locked and will only become transferable over a 4 year period]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，CoinFlex 表示，已经接近可以开始根据批准的重组条款向债权人分配“综合”资产，包括 rvUSD 代币、股权与 USDC/USDT，预计将于下周支付；将与 SmartBC...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642048354833305602</id>
-        <link href="https://twitter.com/wublockchain12/status/1642048354833305602"/>
-        <updated>2023-04-01T06:16:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CoinFlex 表示，已经接近可以开始根据批准的重组条款向债权人分配“综合”资产，包括 rvUSD 代币、股权与 USDC/USDT，预计将于下周支付；将与 SmartBCH 保持沟通，致力于恢复跨链桥并尽快完成。https://coinflex.com/blog/composite-distribution-notice-and-suspension-of-lusd-trading]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -289,66 +387,6 @@ These tokens remain locked and will only become transferable over a 4 year perio
 我都不知道你拿啥去赚钱 https://t.co/nR3ozFhYJg]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，2023年3月中国统计局制造业PMI回落0.7个百分点至51.9%，非制造业商务活动指数回升1.9个百分点至58.2%，综合PMI产出指数回升0.6个百分点至57.0%。但这...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642035970018271235</id>
-        <link href="https://twitter.com/wublockchain12/status/1642035970018271235"/>
-        <updated>2023-04-01T05:27:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，2023年3月中国统计局制造业PMI回落0.7个百分点至51.9%，非制造业商务活动指数回升1.9个百分点至58.2%，综合PMI产出指数回升0.6个百分点至57.0%。但这周中稍早发布的1-2月份的数据，显示企业利润同比下降了22.9%，进一步大幅收缩。https://opinion.caixin.com/2023-03-31/102014386.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，贝宝金融的联合创始人 Flex Yang 表示，新加坡法院拒绝就 Babel Finance 要求延长债权人保护的请求作出更明确的决定，在债权人 Deribit 反对后要求提...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642024519975198720</id>
-        <link href="https://twitter.com/wublockchain12/status/1642024519975198720"/>
-        <updated>2023-04-01T04:42:07.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，贝宝金融的联合创始人  Flex Yang 表示，新加坡法院拒绝就 Babel Finance 要求延长债权人保护的请求作出更明确的决定，在债权人 Deribit 反对后要求提供更具体的信息。Flex 表示，Babel 欠债权人约 7.5 亿至 8 亿美元，其针对债权人行动的持续暂停保护将于 4 月 5 日结束。Flex 于 2021… https://twitter.com/i/web/status/1642024519975198720]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re zkSync Era 主网目前已恢复运行。今日上午 zkSync Era 宕机了 4 个多小时。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642018694401511424</id>
-        <link href="https://twitter.com/wublockchain12/status/1642018694401511424"/>
-        <updated>2023-04-01T04:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Re zkSync Era 主网目前已恢复运行。今日上午 zkSync Era 宕机了 4 个多小时。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 官方管理员在社区表示，团队已经知道了 zkSync era 主网存在的问题。 现在尽量不要发起交易，等待主网恢复。 资金是安全的。请等待团队修复。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641996016584122368</id>
-        <link href="https://twitter.com/wublockchain12/status/1641996016584122368"/>
-        <updated>2023-04-01T02:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Re 官方管理员在社区表示，团队已经知道了 zkSync era 主网存在的问题。 现在尽量不要发起交易，等待主网恢复。 资金是安全的。请等待团队修复。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken 本周早些时候宣布与 Williams Racing 合作成为其首个官方加​​密货币和 web3 合作伙伴，并将九页比特币白皮书的开头摘录放在 Williams Racing 赛车上，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641993002825687040</id>
-        <link href="https://twitter.com/wublockchain12/status/1641993002825687040"/>
-        <updated>2023-04-01T02:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Kraken 本周早些时候宣布与 Williams Racing 合作成为其首个官方加​​密货币和 web3 合作伙伴，并将九页比特币白皮书的开头摘录放在 Williams Racing 赛车上，该赛车将于本周末参加澳大利亚大奖赛。 Kraken 希望通过此举在这项每年穿越 20 个国家、吸引 16… https://twitter.com/i/web/status/1641993002825687040]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 zkSync Era 区块浏览器，zkSync Era 疑似停止运作，最新的交易停留在 3 个小时前。官方没有进行任何回应。近期 Avalanche 也多次出现无法出块的故...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1641990951538401281</id>
-        <link href="https://twitter.com/wublockchain12/status/1641990951538401281"/>
-        <updated>2023-04-01T02:28:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 zkSync Era 区块浏览器，zkSync Era 疑似停止运作，最新的交易停留在 3 个小时前。官方没有进行任何回应。近期 Avalanche 也多次出现无法出块的故障。3月24日 zkSync Era 宣布主网上线。https://explorer.zksync.io/ https://twitter.com/i/web/status/1641990951538401281]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -368,7 +406,7 @@ These tokens remain locked and will only become transferable over a 4 year perio
         <updated>2023-04-01T00:31:12.000Z</updated>
         <summary type="html"><![CDATA[A sitting Senator @ewarren conspired w/ a short seller @AlderLaneEggs to take down two publicly-traded banks.
 The short seller - Marc Cohodes - profited handsomely off of their teamwork.
-Is that even legal? https://twitter.com/scott_lew_is/status/1641943575926824960
+Is that even legal?
 
 scott➕: Forbes is reporting that Elizabeth Warren collaborated with a DC-connected short seller to collapse two American banks.
 Absolute corruption. https://t.co/q3qSqKv1qH]]></summary>
@@ -444,26 +482,6 @@ Haven't sold any crypto to be fair but could easily see all three of… https://
         <link href="https://twitter.com/DeFiSurfer808/status/1641936012426313735"/>
         <updated>2023-03-31T22:50:25.000Z</updated>
         <summary type="html"><![CDATA[Re @BobEUnlimited @gladstein Seems pretty obvious the dollar isn’t going anywhere]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @xcurveth @DefiLlama no doubt]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1641908204836642820</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1641908204836642820"/>
-        <updated>2023-03-31T20:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @xcurveth @DefiLlama no doubt]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @VaughnOkumura Vaughn where u been]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1641901233391689736</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1641901233391689736"/>
-        <updated>2023-03-31T20:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @VaughnOkumura Vaughn where u been]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -824,7 +842,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -996,12 +1014,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1276,7 +1294,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1326,7 +1344,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
