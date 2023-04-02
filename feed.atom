@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T09:11:14.081Z</id>
+    <id>urn:2023-04-02T10:12:22.822Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-02T09:11:14.081Z</updated>
+    <updated>2023-04-02T10:12:22.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -17,6 +17,29 @@
 BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查 BNB Chain 资金池现状。在调查期间，该桥已暂时关闭。跨链桥 Allbridge 黑客攻击导致损失约 57 万美元（其中包括 282,889 BUSD 和 290,868 USDT）。根本原因似乎是资金池的 Swap 价格被篡改。 https://t.co/5tz2YcL2mB]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前该案件正在进一步调查和审理中。 https://twitter.com/bitrace_team/status/1642403165495787521]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642438081071702021</id>
+        <link href="https://twitter.com/wublockchain12/status/1642438081071702021"/>
+        <updated>2023-04-02T08:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前该案件正在进一步调查和审理中。
+https://twitter.com/bitrace_team/status/1642403165495787521
+
+币追Bitrace: #币追Bitrace 近期协助山西警方成功打击了一个制造并分销假钱包的团伙。该团伙长期以来一直通过Telegram、微信群等方式分发假钱包APK安装包，并在搜索引擎上购买广告服务，仿冒@TokenPocket_TP 官方网站，诱导受害者下载并安装假钱包后盗取加密资产，目前，该案件正在进一步调查和审理中。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据币追消息，近日，其协助山西警方查处了一个制造并分销假钱包的团伙。该团伙一直通过 Telegram、微信群等方式分发假钱包 APK 安装包，并在搜索引擎上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642438079221993476</id>
+        <link href="https://twitter.com/wublockchain12/status/1642438079221993476"/>
+        <updated>2023-04-02T08:05:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据币追消息，近日，其协助山西警方查处了一个制造并分销假钱包的团伙。该团伙一直通过 Telegram、微信群等方式分发假钱包 APK 安装包，并在搜索引擎上购买广告服务，仿冒 TokenPocket 官方网站，诱导受害者下载并安装假钱包后盗取加密资产。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -62,7 +85,7 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=12991]]></
         <updated>2023-04-02T03:01:14.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/peckshield/status/1642356701100916736
 
-PeckShield Inc.: The @Allbridge_io hack results in the loss of ~$570K (282,889 BUSD + 290,868 USDT). The root cause appears to be the manipulation of pool's swap price. The actor plays dual roles of acting as LP and swapper to manipulate the price and then drain the pool funds. https://twitter.com/peckshield/status/1642341974878584840 https://t.co/FY2wwA6IHm]]></summary>
+PeckShield Inc.: The @Allbridge_io hack results in the loss of ~$570K (282,889 BUSD + 290,868 USDT). The root cause appears to be the manipulation of pool's swap price. The actor plays dual roles of acting as LP and swapper to manipulate the price and then drain the pool funds. https://t.co/FY2wwA6IHm]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -179,7 +202,7 @@ https://www.coindesk.com/policy/2023/03/27/g-7-will-push-for-tighter-global-cryp
         <summary type="html"><![CDATA[Re https://twitter.com/zksync/status/1642277357368090626
 
 zkSync ∎: Protocol liveness is @zksync's second top priority after security.
-We want to share, with full transparency, the details of this incident with our community. Here's an overview of what happened, the reasons behind it, our response, and future plans to prevent liveness issues. https://twitter.com/zksync/status/1642078325404467202]]></summary>
+We want to share, with full transparency, the details of this incident with our community. Here's an overview of what happened, the reasons behind it, our response, and future plans to prevent liveness issues.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -259,27 +282,6 @@ https://www.coindesk.com/business/2023/04/01/arbitrums-first-governance-proposal
         <link href="https://twitter.com/wublockchain12/status/1642335178617159681"/>
         <updated>2023-04-02T01:16:34.000Z</updated>
         <summary type="html"><![CDATA[周日荐读｜寻找中本聪：从 Peter Thiel 到 Elon Musk。Peter Thiel 和中本聪有着相同的社交圈子：与 Elon Musk 合作，见过 E-Gold 的创始人，成为 PayPal 黑帮的成员，与 Srinivasan 和第一本比特币杂志的创始人 Vitalik Buterin 交友。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 他们声称这为 Musk 带来了数十亿美元的利润，而其他狗狗币投资者则蒙受损失。 https://news.bitcoin.com/elon-musk-asks-judge-to-dismiss-258b-dogecoin-law...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642321778210111488</id>
-        <link href="https://twitter.com/wublockchain12/status/1642321778210111488"/>
-        <updated>2023-04-02T00:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Re 他们声称这为 Musk 带来了数十亿美元的利润，而其他狗狗币投资者则蒙受损失。
-https://news.bitcoin.com/elon-musk-asks-judge-to-dismiss-258b-dogecoin-lawsuit-insists-tweeting-support-for-doge-isnt-unlawful/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，特斯拉和 Twitter 首席执行官 Elon Musk 要求美国法官驳回一项价值 2580 亿美元的诉讼。该诉讼指控他经营金字塔计划以推广 meme 加密货币狗狗币 (DOGE...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642321776364650496</id>
-        <link href="https://twitter.com/wublockchain12/status/1642321776364650496"/>
-        <updated>2023-04-02T00:23:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，特斯拉和 Twitter 首席执行官 Elon Musk 要求美国法官驳回一项价值 2580 亿美元的诉讼。该诉讼指控他经营金字塔计划以推广 meme 加密货币狗狗币 (DOGE)。据投资者称，Musk 故意在两年内将狗狗币的价值推高了 36,000% 以上，但随后却让它崩盘。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
