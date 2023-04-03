@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T19:10:07.989Z</id>
+    <id>urn:2023-04-03T20:13:14.622Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T19:10:07.989Z</updated>
+    <updated>2023-04-03T20:13:14.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Re @ThisIsNuse Gib]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，PancakeSwap V3 宣布已在 BNBChain 和以太坊上正式上线；与 V2 的 0.25% 相比，V3 将有四个不同的交易费等级，分别为 0.01%、0.05%、0.25% 和 1%；Pan...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642921012772876294</id>
+        <link href="https://twitter.com/wublockchain12/status/1642921012772876294"/>
+        <updated>2023-04-03T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，PancakeSwap V3 宣布已在 BNBChain 和以太坊上正式上线；与 V2 的 0.25% 相比，V3 将有四个不同的交易费等级，分别为 0.01%、0.05%、0.25% 和 1%；PancakeSwap V3 建立在 Uniswap V3 之上，并进行了改进，流动性提供者现在可以将他们的资金“集中”到更小的价格区间。https://blog.pancakeswap.finance/articles/introducing-pancake-swap-v3-a-more-efficient-and-user-friendly-dex-on-bnb-chain-and-ethereum]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -224,16 +234,6 @@ Also, crypto payments are booked as cash if converted immediately. https://t.co/
         <link href="https://twitter.com/wublockchain12/status/1642881049184157699"/>
         <updated>2023-04-03T13:25:40.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 Protos，美 SEC 诉 Ripple 案的简易判决预计将于 4 月作出。Ripple 通过其 XRP 代币销售筹集了 13 亿美元，SEC 在其民事诉讼中指控其产品存在各种违法行为，主审是美国纽约南区地方法院。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 中国太保投资管理（香港）有限公司持有中国香港证监会第四类（就证券提供意见）和第九类 （提供资产管理）牌照。https://36kr.com/p/2193698945518216?channe...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642880360953565184</id>
-        <link href="https://twitter.com/wublockchain12/status/1642880360953565184"/>
-        <updated>2023-04-03T13:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 中国太保投资管理（香港）有限公司持有中国香港证监会第四类（就证券提供意见）和第九类 （提供资产管理）牌照。https://36kr.com/p/2193698945518216?channel=copy_url]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
