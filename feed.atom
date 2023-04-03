@@ -1,76 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T08:16:48.963Z</id>
+    <id>urn:2023-04-03T09:13:09.775Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T08:16:48.963Z</updated>
+    <updated>2023-04-03T09:13:09.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re 此次攻击可能是一场精心策划的攻击，攻击者在 18 天前已经成为验证者，并准备好相关 token，相关资金来源从隐私方案 Aztec 提取而来。https://twitter.com/pu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642796631073648645</id>
-        <link href="https://twitter.com/wublockchain12/status/1642796631073648645"/>
-        <updated>2023-04-03T07:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 此次攻击可能是一场精心策划的攻击，攻击者在 18 天前已经成为验证者，并准备好相关 token，相关资金来源从隐私方案 Aztec 提取而来。https://twitter.com/punk3155/status/1642771856758546434
-
-3155.eth: Dusk for sandwich bots? A few top mev bots were targetted in block
-https://etherscan.io/txs?block=16964664
-@peckshield @BlockSecTeam @bertcmiller @samczsun @bbbb https://twitter.com/i/web/status/1642771856758546434]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @punk3155 消息，疑似有恶意以太坊验证者对部分 MEV Bots 的交易在区块内进行夹击，将 MEV Bots 的交易作废并用自己的交易替代。据 PeckShield 统...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642796571917180929</id>
-        <link href="https://twitter.com/wublockchain12/status/1642796571917180929"/>
-        <updated>2023-04-03T07:49:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @punk3155 消息，疑似有恶意以太坊验证者对部分 MEV Bots 的交易在区块内进行夹击，将 MEV Bots 的交易作废并用自己的交易替代。据 PeckShield 统计，目前相关 MEV Bots 损失约 2500 万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 KBS 报道，韩国检方为收回 Terraform Labs 联合创始人 Daniel Shin 和早期员工等 8 人的不正当利益所得，查处并扣押其约 2700 亿韩元（约合 2.05 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642776807748567042</id>
-        <link href="https://twitter.com/wublockchain12/status/1642776807748567042"/>
-        <updated>2023-04-03T06:31:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 KBS 报道，韩国检方为收回 Terraform Labs 联合创始人 Daniel Shin 和早期员工等 8 人的不正当利益所得，查处并扣押其约 2700 亿韩元（约合 2.05 亿美元）的财产，包括价值 1541 亿韩元、791 亿韩元以及 409 亿韩元的三处房产。https://news.kbs.co.kr/news/view.do?ncd=7641578]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Allbridge 发推表示，该漏洞针对 BNB 链上的 BUSD/USDT 矿池，提出对回收资产的白帽赏金，目前只有 BNB Chain 矿池受影响， 但可能会扩展到其他池，因此该跨...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642771089276411904</id>
-        <link href="https://twitter.com/wublockchain12/status/1642771089276411904"/>
-        <updated>2023-04-03T06:08:43.000Z</updated>
-        <summary type="html"><![CDATA[Re Allbridge 发推表示，该漏洞针对 BNB 链上的 BUSD/USDT 矿池，提出对回收资产的白帽赏金，目前只有 BNB Chain 矿池受影响， 但可能会扩展到其他池，因此该跨链桥已关闭，待漏洞修复后开放。此外，Allbridge 已为流动性提供者部署一个 Web… https://twitter.com/i/web/status/1642771089276411904]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/im_23pds/status/1642736440399519744?s=46&t=KhupKEoiyZ8SLyKkwu7lbw]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642759961704022016</id>
-        <link href="https://twitter.com/wublockchain12/status/1642759961704022016"/>
-        <updated>2023-04-03T05:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/im_23pds/status/1642736440399519744?s=46&t=KhupKEoiyZ8SLyKkwu7lbw
-
-23pds: @0xAA_Science 目测跟向日葵没啥关系]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，部分社区成员钱包被盗，怀疑被盗原因为远程桌面软件向日葵存在安全漏洞，并猜测0xbb3fd383d1c5540e52ef0a7bcb9433375793aeaf 为黑客的币安充值地址。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642759832838230016</id>
-        <link href="https://twitter.com/wublockchain12/status/1642759832838230016"/>
-        <updated>2023-04-03T05:23:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，部分社区成员钱包被盗，怀疑被盗原因为远程桌面软件向日葵存在安全漏洞，并猜测0xbb3fd383d1c5540e52ef0a7bcb9433375793aeaf 为黑客的币安充值地址。慢雾安全研究员 @IM_23pds 表示该地址是simpleswap 的热钱包，此次用户钱包被盗事件应与向日葵无关。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[哎，我好矛盾，我又觉得景甜是受害者，不忍看她的视频被传播。但是。。。。我真的好想看视频]]></title>
         <id>https://twitter.com/8848Community/status/1642728844913442817</id>
@@ -369,6 +303,39 @@ https://www.nftgators.com/march-nft-report-blur-dominates-nft-market-volume-as-t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 中文翻译全文（万物岛翻译）：https://mp.weixin.qq.com/s/VWItmR7bkIzI5Ad28bD-Qg]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642535244233596932</id>
+        <link href="https://twitter.com/wublockchain12/status/1642535244233596932"/>
+        <updated>2023-04-02T14:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 中文翻译全文（万物岛翻译）：https://mp.weixin.qq.com/s/VWItmR7bkIzI5Ad28bD-Qg]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/jconorgrogan/status/1642520251135827969]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642531145815588864</id>
+        <link href="https://twitter.com/wublockchain12/status/1642531145815588864"/>
+        <updated>2023-04-02T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/jconorgrogan/status/1642520251135827969
+
+Conor: Of this 50.5M of ARB "spent" by the DAO, it looks like
+50M was sent to Wintermute (majority via Binance deposit address) and 500K was sent to a Gnosis Safe where it sits today https://t.co/7pcoeG9Qdv]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，海外社区激烈讨论 Arbitrum 基金会在上币当天向币安转移了 5000 万个 ARB，并批评基金会已经卖出了 5050 万个 ARB；Coinbase Conor 指出这 5000 万个 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642530997320425474</id>
+        <link href="https://twitter.com/wublockchain12/status/1642530997320425474"/>
+        <updated>2023-04-02T14:14:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，海外社区激烈讨论 Arbitrum 基金会在上币当天向币安转移了 5000 万个 ARB，并批评基金会已经卖出了 5050 万个 ARB；Coinbase Conor 指出这 5000 万个 ARB 应该是转给 Wintermute 做市商进行流动性管理；另外 50 万个则发送到 Gnosis Safe。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @Anointed_Ape @INArteCarloDoss Lol maybe 🤷‍♂️]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1642526467211886594</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1642526467211886594"/>
@@ -451,6 +418,36 @@ Investors and traders should be "eyes wide open" regarding the immense *and* inh
 周末愉快 https://t.co/HxnUNf919t]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，区块链数据分析网站 Dune 发布第一个 LLM AI 功能，用户将能够用简单的英语提问和查询 Dune 的海量数据集。大型语言模型 (LLM) AI 是一个术语，指的是...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642472383046111232</id>
+        <link href="https://twitter.com/wublockchain12/status/1642472383046111232"/>
+        <updated>2023-04-02T10:21:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，区块链数据分析网站 Dune 发布第一个 LLM AI 功能，用户将能够用简单的英语提问和查询 Dune 的海量数据集。大型语言模型 (LLM) AI 是一个术语，指的是可以从大量数据中生成自然语言文本的 AI 模型。https://dune.com/blog/llm-roadmap]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re BscScan 区块浏览器显示，地址：0x8E…3c3c 在 13:06-13:32 间在 WDZOO 开箱中销毁了约 200 万枚 DZOO（约 5.8 万美元），显示异常情况。https://t.me/degen_...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642471917428027398</id>
+        <link href="https://twitter.com/wublockchain12/status/1642471917428027398"/>
+        <updated>2023-04-02T10:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Re BscScan 区块浏览器显示，地址：0x8E…3c3c 在 13:06-13:32 间在 WDZOO 开箱中销毁了约 200 万枚 DZOO（约 5.8 万美元），显示异常情况。https://t.me/degen_zoo/362359 & https://bscscan.com/tokentxns?a=0x6bee79f76db83b3d9d49ba8325624d5afc993beb]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，DAO Maker 项目 Degen Zoo 疑似在 Binance Oracle 上被黑客攻击。项目团队在 TG 社区上表示，已暂停游戏，并启动调查，声称截至 14 时尚未发现任何的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642471915788058624</id>
+        <link href="https://twitter.com/wublockchain12/status/1642471915788058624"/>
+        <updated>2023-04-02T10:19:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，DAO Maker 项目 Degen Zoo 疑似在 Binance Oracle 上被黑客攻击。项目团队在 TG 社区上表示，已暂停游戏，并启动调查，声称截至 14 时尚未发现任何的漏洞，并且没有办法通过智能合约的错误来孵化更好的动物。目前 TG 社区已被禁言。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -831,7 +828,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources]]></summary>
+Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1003,12 +1000,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework
+You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1283,7 +1280,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both…
+Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1333,7 +1330,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
 
 Balaji: I will take that bet.
 You buy 1 BTC.
