@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T04:15:27.886Z</id>
+    <id>urn:2023-04-03T05:11:57.215Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T04:15:27.886Z</updated>
+    <updated>2023-04-03T05:11:57.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[哎，我好矛盾，我又觉得景甜是受害者，不忍看她的视频被传播。但是。。。。我真的好想看视频]]></title>
+        <id>https://twitter.com/8848Community/status/1642728844913442817</id>
+        <link href="https://twitter.com/8848Community/status/1642728844913442817"/>
+        <updated>2023-04-03T03:20:51.000Z</updated>
+        <summary type="html"><![CDATA[哎，我好矛盾，我又觉得景甜是受害者，不忍看她的视频被传播。但是。。。。我真的好想看视频]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据华尔街日报，总部位于迪拜的加密货币交易所 Bybit 表示，它正在努力在香港建立其核心亚洲业务，并计划将其部分研发和营销团队安置在香港。该交易所...]]></title>
         <id>https://twitter.com/wublockchain12/status/1642726335960477696</id>
@@ -676,21 +686,6 @@ L2的意思是gas是主网的2倍]]></summary>
         <summary type="html"><![CDATA[春江水暖鸭先知？
 17年底的牛市，上海的KTV小姐的价格涨得飞起
 现在香港大搞WEB3概念，也拉起来了相关行业？ https://t.co/yQczD4QS5Z]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[interesting https://twitter.com/forgivenever/status/1640907507341365248]]></title>
-        <id>https://twitter.com/8848Community/status/1640966154016669696</id>
-        <link href="https://twitter.com/8848Community/status/1640966154016669696"/>
-        <updated>2023-03-29T06:36:33.000Z</updated>
-        <summary type="html"><![CDATA[interesting https://twitter.com/forgivenever/status/1640907507341365248
-
-Forgiven: Arbitrum 空投之夜停机之谜
-日前主任怒锤一波以太神教只搞迷信,不重视技术,激发了大量声讨,调查结果：
-1. 负载最重时,出快正常,但排序器出现问题,性能严重下降,官方RPC和Airdop前端宕机,区块浏览器20mins未更新数据
-2. 排序器每秒700万Gas是软限制,之后Gas Price会飙升限流,真实环境极限120～150TPS]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
