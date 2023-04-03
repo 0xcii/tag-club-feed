@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T12:24:55.161Z</id>
+    <id>urn:2023-04-03T13:16:30.003Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-03T12:24:55.161Z</updated>
+    <updated>2023-04-03T13:16:30.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Coinshares，上周数字资产投资产品净流入 250 万美元，环比下降 33%。其中比特币投资产品净流入 880 万美元，做空比特币的投资产品净流出 250 万美...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642840374225014785</id>
-        <link href="https://twitter.com/wublockchain12/status/1642840374225014785"/>
-        <updated>2023-04-03T10:44:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Coinshares，上周数字资产投资产品净流入 250 万美元，环比下降 33%。其中比特币投资产品净流入 880 万美元，做空比特币的投资产品净流出 250 万美元，表明比特币的情绪积极；以太坊投资产品净流出 280 万美元，表明投资者仍对即将到来的上海升级感到担忧。https://blog.coinshares.com/volume-125-digital-asset-fund-flows-weekly-report-1eccb7e00b3]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Greekslive，过去半小时内成交名义价值 8000 万美元的大宗看跌期权，近三千张当月浅虚值期权，主要以23000-25000-27000的蝶式成交。近期如此大手笔...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1642837157894303747</id>
-        <link href="https://twitter.com/wublockchain12/status/1642837157894303747"/>
-        <updated>2023-04-03T10:31:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，过去半小时内成交名义价值 8000 万美元的大宗看跌期权，近三千张当月浅虚值期权，主要以23000-25000-27000的蝶式成交。近期如此大手笔的看跌期权成交比较少见，一笔成交占据了当日20%的成交量。https://twitter.com/BTC__options/status/1642832138402930688
-
-Adam@Greeks.live: 在过去的半小时里，比特币大宗看跌成交了近三千张当月浅虚值期权，主要以23000-25000-27000的蝶式成交。
-近期如此大手笔的大跌期权成交比较少见，一笔成交占据了当日20%的成交量，而且是在押注比特币不会大幅下跌。 https://t.co/XDpziX4jgA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，视频网站 Bilibili 上线用于链上资产管理的“高能链” App，具有链地址管理、链上资产查看 / 搜索等功能，用户可一站式管理自己拥有的链上资产，同时...]]></title>
         <id>https://twitter.com/wublockchain12/status/1642809353232330752</id>
@@ -233,6 +210,16 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=12998]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说本周宏观指标与分析：上周美国2月核心PCE低于预期，美联储官员言论透露降通胀和稳经济鱼和熊掌都要，不过随着进入Q2，市场似乎继续谈起衰退预期。因此，本周...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642681357397811200</id>
+        <link href="https://twitter.com/wublockchain12/status/1642681357397811200"/>
+        <updated>2023-04-03T00:12:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周美国2月核心PCE低于预期，美联储官员言论透露降通胀和稳经济鱼和熊掌都要，不过随着进入Q2，市场似乎继续谈起衰退预期。因此，本周美国的相关就业失业数据（ADP、失业率、非农就业）值得密切关注，同时可了解中美欧元区等 PMI 数据。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=12997]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Not a bad response]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1642655189965340673</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1642655189965340673"/>
@@ -321,6 +308,18 @@ Arbitrum (💙,🧡): 1/ There's a very lively discussion on the Arbitrum gove
 Also seems like CT always overreacts.]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Arbitrum 官方推特表示，关于 5000 万 ARB 代币的链上转移，4000 万 ARB 已作为贷款分配给金融市场领域的参与者（做市商）；剩余的 1000 万已转换为法...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1642573484055494656</id>
+        <link href="https://twitter.com/wublockchain12/status/1642573484055494656"/>
+        <updated>2023-04-02T17:03:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Arbitrum 官方推特表示，关于 5000 万 ARB 代币的链上转移，4000 万 ARB 已作为贷款分配给金融市场领域的参与者（做市商）；剩余的 1000 万已转换为法定货币并专用于运营成本。此外 Arbitrum 强调与 Polygon、Starknet、Solana、Optimism、Avalanche… https://twitter.com/i/web/status/1642573484055494656
+
+吴说区块链: 吴说获悉，海外社区激烈讨论 Arbitrum 基金会在上币当天向币安转移了 5000 万个 ARB，并批评基金会已经卖出了 5050 万个 ARB；Coinbase Conor 指出这 5000 万个 ARB 应该是转给 Wintermute 做市商进行流动性管理；另外 50 万个则发送到 Gnosis Safe。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -445,13 +444,13 @@ Investors and traders should be "eyes wide open" regarding the immense *and* inh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[讲点正能量的吧 之前刷过allbridge，存了LP 555 我被黑了2000U https://twitter.com/BlockBeatsAsia/status/1642414668059938818]]></title>
+        <title type="html"><![CDATA[讲点正能量的吧 之前刷过allbridge，存了LP 555 我被黑了2000U]]></title>
         <id>https://twitter.com/8848Community/status/1642443051259035648</id>
         <link href="https://twitter.com/8848Community/status/1642443051259035648"/>
         <updated>2023-04-02T08:25:13.000Z</updated>
         <summary type="html"><![CDATA[讲点正能量的吧
 之前刷过allbridge，存了LP
-555 我被黑了2000U https://twitter.com/BlockBeatsAsia/status/1642414668059938818
+555 我被黑了2000U
 
 BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查 BNB Chain 资金池现状。在调查期间，该桥已暂时关闭。跨链桥 Allbridge 黑客攻击导致损失约 57 万美元（其中包括 282,889 BUSD 和 290,868 USDT）。根本原因似乎是资金池的 Swap 价格被篡改。 https://t.co/5tz2YcL2mB]]></summary>
         <author>
@@ -469,14 +468,14 @@ BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。 只是4月1日的愚人节玩笑，而且请注意安全 多上网，多了解下最近互联网的梗 真的真的币圈人都要多注意自身安全 https://...]]></title>
+        <title type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。 只是4月1日的愚人节玩笑，而且请注意安全 多上网，多了解下最近互联网的梗 真的真的币圈人都要多注意自身安全]]></title>
         <id>https://twitter.com/8848Community/status/1642420707153047552</id>
         <link href="https://twitter.com/8848Community/status/1642420707153047552"/>
         <updated>2023-04-02T06:56:25.000Z</updated>
         <summary type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。
 只是4月1日的愚人节玩笑，而且请注意安全
 多上网，多了解下最近互联网的梗
-真的真的币圈人都要多注意自身安全 https://twitter.com/8848Community/status/1642116507240124418
+真的真的币圈人都要多注意自身安全
 
 8848 社区（8848 Community）: 招专业撸空投的， 月薪3w➕空投金额20%， 工作地点新加坡顶级写字楼(包食宿，可提供精英签证)，需要从缅甸转机，有兴趣的私聊我]]></summary>
         <author>
@@ -557,11 +556,11 @@ Token Terminal: DAUs: Bitcoin vs. Ethereum https://t.co/XVpvzSO3DF]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[感谢邀请~ go frog~ https://twitter.com/theFrogmasters/status/1641661727933894656]]></title>
+        <title type="html"><![CDATA[感谢邀请~ go frog~]]></title>
         <id>https://twitter.com/8848Community/status/1641704056111632386</id>
         <link href="https://twitter.com/8848Community/status/1641704056111632386"/>
         <updated>2023-03-31T07:28:43.000Z</updated>
-        <summary type="html"><![CDATA[感谢邀请~ go frog~ https://twitter.com/theFrogmasters/status/1641661727933894656
+        <summary type="html"><![CDATA[感谢邀请~ go frog~
 
 Frog Masters: "Swift as the wind, steady as a forest, ferocious as fire, and immovable as a mountain."
 The #Froggang Parliament invites @8848Community to be the master leader of our army. Together, we are strong. https://t.co/wD5L9QXEUF]]></summary>
@@ -591,11 +590,11 @@ The #Froggang Parliament invites @8848Community to be the master leader of our a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330]]></title>
+        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了]]></title>
         <id>https://twitter.com/8848Community/status/1641328944891953152</id>
         <link href="https://twitter.com/8848Community/status/1641328944891953152"/>
         <updated>2023-03-30T06:38:09.000Z</updated>
-        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330
+        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了
 
 BlockBeats｜We're hiring!: Polygon zkEVM 主网将不会发行单独代币了。
 Polygon 在其官方文档更新 Polygon zkEVM 主网相关事项。其中指出，Polygon zkEVM 主网将不会发行单独的代币，ETH 将用于支付网络 gas 费，预计未来 MATIC 将用于 Polygon zkEVM 中的质押和治理。
@@ -605,11 +604,11 @@ Polygon 在其官方文档更新 Polygon zkEVM 主网相关事项。其中指出
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild https://twitter.com/ConnextNetwork/status/1641194825406922753]]></title>
+        <title type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild]]></title>
         <id>https://twitter.com/8848Community/status/1641328496554426371</id>
         <link href="https://twitter.com/8848Community/status/1641328496554426371"/>
         <updated>2023-03-30T06:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild https://twitter.com/ConnextNetwork/status/1641194825406922753
+        <summary type="html"><![CDATA[Re @ConnextNetwork 已经支持 @LineaBuild
 
 Connext: Connext is delighted to announce the integration and partnership with @LineaBuild, the zk Layer 2 built on top of @ethereum by @ConsenSys https://t.co/SrsC6FtJ4U]]></summary>
         <author>
@@ -730,11 +729,11 @@ If ur not on Nostr (@nvk) to get @woonomic's thoughts on the market, what are yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000]]></title>
+        <title type="html"><![CDATA[那是他的损失😆]]></title>
         <id>https://twitter.com/AntCaveClub/status/1640550953693876224</id>
         <link href="https://twitter.com/AntCaveClub/status/1640550953693876224"/>
         <updated>2023-03-28T03:06:41.000Z</updated>
-        <summary type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000
+        <summary type="html"><![CDATA[那是他的损失😆
 
 crypto指南针: 擦，能不能不要这么玻璃心
 兄弟们，我还在出差
@@ -899,12 +898,12 @@ https://swap.defillama.com/arb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -1152,7 +1151,7 @@ https://eth.antcave.club/arb-arb]]></summary>
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
+现在用应该为时不晚.
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1283,11 +1282,11 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
+        <title type="html"><![CDATA[👀]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
+        <summary type="html"><![CDATA[👀
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
