@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1643124888935485441",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Arbitrum DAO 提出的 AIP-1 整体框架提案，因为反对票达到 76% 未通过；此前 Arbitrum 基金会表示，在本周初提出新的 AIP 并参与公开讨论；将把 AIP 拆分为多个部分，允许社区对不同的小节进行讨论和投票。https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x3be7368a662d1cf12fa4da768d626edbc013be0dc7b994fef2e24d9a54e4033a",
+          "link": "https://twitter.com/wublockchain12/status/1643124888935485441",
+          "publishedOn": "2023-04-04T05:34:35.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，Arbitrum DAO 提出的 AIP-1 整体框架提案，因为反对票达到 76% 未通过；此前 Arbitrum 基金会表示，在本周初提出新的 AIP 并参与公开讨论；将把 AIP ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1643123234458714115",
+          "author": "吴说区块链",
+          "description": "吴说获悉，北美最大上市矿企之一 Marathon 宣布一季度挖出比特币 2195 枚，是该公司历史上最高的一个季度；目前持有 1.249 亿美金的现金与 11466 个比特币；Marathon 在 3 月份出售 750 个 BTC，并打算在未来期间出售其持有的部分比特币，以支持每月运营。https://www.globenewswire.com/news-release/2023/04/03/2640170/0/en/Marathon-Digital-Holdings-Announces-Bitcoin-Production-and-Mining-Operation-Updates-for-March-2023.html",
+          "link": "https://twitter.com/wublockchain12/status/1643123234458714115",
+          "publishedOn": "2023-04-04T05:28:01.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，北美最大上市矿企之一 Marathon 宣布一季度挖出比特币 2195 枚，是该公司历史上最高的一个季度；目前持有 1.249 亿美金的现金与 11466 个比特币；Mara...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1643110828995125248",
           "author": "吴说区块链",
           "description": "Re 攻击者利用此问题恶意构造无效区块，使得该区块无法得到验证，阻止中继器进行广播（状态码为202），从而提前获取交易内容。目前 Mev-boost-relay 已经紧急发布了一个新版本来解决这个问题，建议中继器及时升级。https://twitter.com/slowmist_team/status/1643101520454627328?s=46&t=dcyglSWGyOCv58ARyPSHwA\n\nSlowMist: Follow up👇\nThe root cause is that the relay still returns the payload to the proposer even if the beacon block is incorrect, allowing the proposer to access the block content before another block is finalized. Attackers exploit this issue by maliciously constructing invalid… https://twitter.com/i/web/status/1643101520454627328",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-04-04T01:18:06.000Z",
           "wordCount": 509,
           "title": "Re https://twitter.com/rubywxt1/status/1643040722621464576",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1643060337485426689",
-          "author": "吴说区块链",
-          "description": "吴说获悉，美国票务公司 Ticketmaster 3 月 28 日宣布与流行金属乐队 Avenged Sevenfold 合作开发 NFT 门控功能。CryptoNatty 负责人认为票务与 NFT 结合将带来诸多好处，包括艺人权益发放、防黄牛、链上验证解决假票、二手交易创造版、数字身份构建。",
-          "link": "https://twitter.com/wublockchain12/status/1643060337485426689",
-          "publishedOn": "2023-04-04T01:18:05.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，美国票务公司 Ticketmaster 3 月 28 日宣布与流行金属乐队 Avenged Sevenfold 合作开发 NFT 门控功能。CryptoNatty 负责人认为票务与 NFT 结合将带来...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1643056894247059456",
-          "author": "吴说区块链",
-          "description": "DeFi 项目 http://Li.Fi 宣布在 CoinFund 和 Superscrypt 共同领投的 A 轮融资中筹集了1750 万美元，Circle 等参投。资金将用于执行其长期战略，即通过使 Token 和订单进行无缝跨链以吸引更多用户使用 Web3。（CoinDesk）\nhttps://www.coindesk.com/business/2023/04/03/crypto-startup-lifi-raises-175m-in-funding-round/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "link": "https://twitter.com/wublockchain12/status/1643056894247059456",
-          "publishedOn": "2023-04-04T01:04:24.000Z",
-          "wordCount": 509,
-          "title": "DeFi 项目 http://Li.Fi 宣布在 CoinFund 和 Superscrypt 共同领投的 A 轮融资中筹集了1750 万美元，Circle 等参投。资金将用于执行其长期战略，即通过使 Token ...",
           "imageUrl": null
         }
       ]
@@ -679,7 +679,7 @@
         {
           "id": "https://twitter.com/gladstein/status/1639061780734541824",
           "author": "DeFi Educator",
-          "description": "RT Alex Gladstein 🌋 ⚡\nSomething that blew my mind when I first learned it:\nBitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards\nAlso Satoshi chose as a birthday April 5, same day FDR issued 6102\nBitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784",
+          "description": "RT Alex Gladstein 🌋 ⚡\nSomething that blew my mind when I first learned it:\nBitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards\nAlso Satoshi chose as a birthday April 5, same day FDR issued 6102\nBitcoin was invented to stop government theft of citizen resources",
           "link": "https://twitter.com/gladstein/status/1639061780734541824",
           "publishedOn": "2023-03-24T00:29:15.000Z",
           "wordCount": 509,
@@ -699,11 +699,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1638353371328331777",
           "author": "DeFi Educator",
-          "description": "This is how in-depth the report by the US government is on crypto... \nYou can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928\n\nJandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk",
+          "description": "This is how in-depth the report by the US government is on crypto... \nYou can see they've really done their homework\n\nJandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk",
           "link": "https://twitter.com/DeFi_educator/status/1638353371328331777",
           "publishedOn": "2023-03-22T01:34:17.000Z",
           "wordCount": 509,
-          "title": "This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...",
+          "title": "This is how in-depth the report by the US government is on crypto... You can see they've really done their homework",
           "imageUrl": null
         },
         {
@@ -759,7 +759,7 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1637444866224398336",
           "author": "DeFi Educator",
-          "description": "Here’s what’s wrong with Capo;\n- As a trader strong opinions, should be loosely held. \n- Ask yourself what would I need to see to prove me wrong? \nIf you don’t define your invalidation, you’re never wrong. \nDo you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617\n\nil Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:\nThis time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617",
+          "description": "Here’s what’s wrong with Capo;\n- As a trader strong opinions, should be loosely held. \n- Ask yourself what would I need to see to prove me wrong? \nIf you don’t define your invalidation, you’re never wrong. \nDo you want to be right or make money? Can’t do both…\n\nil Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:\nThis time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617",
           "link": "https://twitter.com/DeFi_educator/status/1637444866224398336",
           "publishedOn": "2023-03-19T13:24:13.000Z",
           "wordCount": 509,
@@ -769,7 +769,7 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1637114511525019648",
           "author": "DeFi Educator",
-          "description": "If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.\nExample. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520\n\nBalaji: I will take that bet.\nYou buy 1 BTC.\nI will send $1M USD.\nThis is ~40:1 odds as 1 BTC is worth ~$26k.\nThe term is 90 days.\nAll we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.\nIf someone knows how to do this… https://twitter.com/i/web/status/1636797265317867520 https://t.co/6Aav9KeJpe",
+          "description": "If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.\nExample. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.\n\nBalaji: I will take that bet.\nYou buy 1 BTC.\nI will send $1M USD.\nThis is ~40:1 odds as 1 BTC is worth ~$26k.\nThe term is 90 days.\nAll we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.\nIf someone knows how to do this… https://twitter.com/i/web/status/1636797265317867520 https://t.co/6Aav9KeJpe",
           "link": "https://twitter.com/DeFi_educator/status/1637114511525019648",
           "publishedOn": "2023-03-18T15:31:30.000Z",
           "wordCount": 509,

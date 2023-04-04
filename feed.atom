@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T07:11:31.760Z</id>
+    <id>urn:2023-04-04T08:16:47.726Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-04T07:11:31.760Z</updated>
+    <updated>2023-04-04T08:16:47.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Arbitrum DAO 提出的 AIP-1 整体框架提案，因为反对票达到 76% 未通过；此前 Arbitrum 基金会表示，在本周初提出新的 AIP 并参与公开讨论；将把 AIP ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643124888935485441</id>
+        <link href="https://twitter.com/wublockchain12/status/1643124888935485441"/>
+        <updated>2023-04-04T05:34:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Arbitrum DAO 提出的 AIP-1 整体框架提案，因为反对票达到 76% 未通过；此前 Arbitrum 基金会表示，在本周初提出新的 AIP 并参与公开讨论；将把 AIP 拆分为多个部分，允许社区对不同的小节进行讨论和投票。https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x3be7368a662d1cf12fa4da768d626edbc013be0dc7b994fef2e24d9a54e4033a]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，北美最大上市矿企之一 Marathon 宣布一季度挖出比特币 2195 枚，是该公司历史上最高的一个季度；目前持有 1.249 亿美金的现金与 11466 个比特币；Mara...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643123234458714115</id>
+        <link href="https://twitter.com/wublockchain12/status/1643123234458714115"/>
+        <updated>2023-04-04T05:28:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，北美最大上市矿企之一 Marathon 宣布一季度挖出比特币 2195 枚，是该公司历史上最高的一个季度；目前持有 1.249 亿美金的现金与 11466 个比特币；Marathon 在 3 月份出售 750 个 BTC，并打算在未来期间出售其持有的部分比特币，以支持每月运营。https://www.globenewswire.com/news-release/2023/04/03/2640170/0/en/Marathon-Digital-Holdings-Announces-Bitcoin-Production-and-Mining-Operation-Updates-for-March-2023.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 攻击者利用此问题恶意构造无效区块，使得该区块无法得到验证，阻止中继器进行广播（状态码为202），从而提前获取交易内容。目前 Mev-boost-relay 已经紧急发...]]></title>
         <id>https://twitter.com/wublockchain12/status/1643110828995125248</id>
@@ -220,16 +240,6 @@ Rubywang.eth🍻 ⛩️ 🔮: 票务🎟️是极有可能将1亿用户带入w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国票务公司 Ticketmaster 3 月 28 日宣布与流行金属乐队 Avenged Sevenfold 合作开发 NFT 门控功能。CryptoNatty 负责人认为票务与 NFT 结合将带来...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643060337485426689</id>
-        <link href="https://twitter.com/wublockchain12/status/1643060337485426689"/>
-        <updated>2023-04-04T01:18:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国票务公司 Ticketmaster 3 月 28 日宣布与流行金属乐队 Avenged Sevenfold 合作开发 NFT 门控功能。CryptoNatty 负责人认为票务与 NFT 结合将带来诸多好处，包括艺人权益发放、防黄牛、链上验证解决假票、二手交易创造版、数字身份构建。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Cosmo Jiang: Coinbase Institutional Survey on client ETH staking behavior Everyone can update their withdrawal models to nearly zero for the instit...]]></title>
         <id>https://twitter.com/cosmo_jiang/status/1643057357025337348</id>
         <link href="https://twitter.com/cosmo_jiang/status/1643057357025337348"/>
@@ -239,17 +249,6 @@ Coinbase Institutional Survey on client ETH staking behavior
 Everyone can update their withdrawal models to nearly zero for the institutional bucket unstaking post #Shapella https://t.co/r0RRwh63oY]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi 项目 http://Li.Fi 宣布在 CoinFund 和 Superscrypt 共同领投的 A 轮融资中筹集了1750 万美元，Circle 等参投。资金将用于执行其长期战略，即通过使 Token ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643056894247059456</id>
-        <link href="https://twitter.com/wublockchain12/status/1643056894247059456"/>
-        <updated>2023-04-04T01:04:24.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 项目 http://Li.Fi 宣布在 CoinFund 和 Superscrypt 共同领投的 A 轮融资中筹集了1750 万美元，Circle 等参投。资金将用于执行其长期战略，即通过使 Token 和订单进行无缝跨链以吸引更多用户使用 Web3。（CoinDesk）
-https://www.coindesk.com/business/2023/04/03/crypto-startup-lifi-raises-175m-in-funding-round/?utm_medium=referral&utm_source=rss&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -883,7 +882,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1055,12 +1054,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1335,7 +1334,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1385,7 +1384,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
