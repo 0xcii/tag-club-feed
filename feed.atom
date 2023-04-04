@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T04:15:29.606Z</id>
+    <id>urn:2023-04-04T05:12:06.316Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-04T04:15:29.606Z</updated>
+    <updated>2023-04-04T05:12:06.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 攻击者利用此问题恶意构造无效区块，使得该区块无法得到验证，阻止中继器进行广播（状态码为202），从而提前获取交易内容。目前 Mev-boost-relay 已经紧急发...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643110828995125248</id>
+        <link href="https://twitter.com/wublockchain12/status/1643110828995125248"/>
+        <updated>2023-04-04T04:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 攻击者利用此问题恶意构造无效区块，使得该区块无法得到验证，阻止中继器进行广播（状态码为202），从而提前获取交易内容。目前 Mev-boost-relay 已经紧急发布了一个新版本来解决这个问题，建议中继器及时升级。https://twitter.com/slowmist_team/status/1643101520454627328?s=46&t=dcyglSWGyOCv58ARyPSHwA
+
+SlowMist: Follow up👇
+The root cause is that the relay still returns the payload to the proposer even if the beacon block is incorrect, allowing the proposer to access the block content before another block is finalized. Attackers exploit this issue by maliciously constructing invalid… https://twitter.com/i/web/status/1643101520454627328]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据慢雾分析，昨日恶意验证者对 MEV Bots 的攻击的根本原因可能在于 Flashbot 的 mev-boost-relay 机制存在漏洞，即使信标链区块有误，中继器（relayer...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643110827095113729</id>
+        <link href="https://twitter.com/wublockchain12/status/1643110827095113729"/>
+        <updated>2023-04-04T04:38:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据慢雾分析，昨日恶意验证者对 MEV Bots 的攻击的根本原因可能在于 Flashbot 的 mev-boost-relay 机制存在漏洞，即使信标链区块有误，中继器（relayer）仍会将有效负载（payload）返回给提议者，这使得提议者能够在另一个区块被最终确认之前访问区块内容。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/JieData_Com/status/1642790106145898496]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643109549904371712</id>
+        <link href="https://twitter.com/wublockchain12/status/1643109549904371712"/>
+        <updated>2023-04-04T04:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/JieData_Com/status/1642790106145898496
+
+JieData_CN: 四月有大额代币解锁🔓，有： $DYDX 、 $APT 、 $BIT 、 $APE 、 $AXS 、 $IMX 、 $YGG 、 $RON 等，解锁价值超2.7亿美元。#JieData #FOMO #Crypto #cryptocurrency  #NFA https://t.co/CdhMHdPiCW]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 JieData 统计，四月大额解锁有 $DYDX 、 $APT 、 $BIT 、 $APE 、 $AXS 、 $IMX 、 $YGG 、 $RON 等，解锁价值超 2.7 亿美元。 https://t.co/ayoM9...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643109547886907392</id>
+        <link href="https://twitter.com/wublockchain12/status/1643109547886907392"/>
+        <updated>2023-04-04T04:33:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 JieData 统计，四月大额解锁有 $DYDX 、 $APT 、 $BIT 、 $APE 、 $AXS 、 $IMX 、 $YGG 、 $RON 等，解锁价值超 2.7 亿美元。 https://t.co/ayoM9YqFuP]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Aave 发起在 Starknet 上启动 Aave V3 的投票。Aave 与 Starknet 的集成计划分两个阶段进行，第一阶段在以太坊和 Starknet 之间建立 aToken 的跨链桥...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643104649136971776</id>
+        <link href="https://twitter.com/wublockchain12/status/1643104649136971776"/>
+        <updated>2023-04-04T04:14:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Aave 发起在 Starknet 上启动 Aave V3 的投票。Aave 与 Starknet 的集成计划分两个阶段进行，第一阶段在以太坊和 Starknet 之间建立 aToken 的跨链桥，第二阶段即在 Starknet 上全面部署 Aave 协议。此前关于第一阶段的投票已获得压倒性票数通过。
+https://snapshot.org/#/aave.eth/proposal/0xde90f4d29c4c5dd55cba023b29bdde8c49e37f70c3398668a78e2f173a61b4e6]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1643081578606886912]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643088075910967297</id>
+        <link href="https://twitter.com/wublockchain12/status/1643088075910967297"/>
+        <updated>2023-04-04T03:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1643081578606886912
+
+Adam@Greeks.live: 在过去的一天里，期权大宗市场情绪高涨。
+比特币大宗交易成交了超3.5亿美元，其中大宗看跌期权成交占据了大部分成交。
+以太坊大宗交易虽然也成交了近2.3亿美元，但主要以卖出看涨为主。
+季度交割结束后，IV持续承受下跌压力，另一方面市场整体看淡短期波动，横盘可能持续。 https://t.co/05wFQaYnOe]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，过去一天中期权大宗市场情绪高涨，比特币大宗交易成交了超 3.5 亿美元，其中大宗看跌期权成交占据了大部分成交。以太坊大宗交易虽...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643088074396831745</id>
+        <link href="https://twitter.com/wublockchain12/status/1643088074396831745"/>
+        <updated>2023-04-04T03:08:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，过去一天中期权大宗市场情绪高涨，比特币大宗交易成交了超 3.5 亿美元，其中大宗看跌期权成交占据了大部分成交。以太坊大宗交易虽然也成交了近 2.3 亿美元，但主要以卖出看涨为主。季度交割结束后，IV 持续承受下跌压力，另一方面市场整体看淡短期波动，横盘可能持续。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，据 Lookonchain监测，DOGE 第五大持仓地址（DDuXGMFNGpGjaAqyDunSMvceMBruc1wwKF）在 DOGE 价格上涨后转出 6.5 亿枚 DOGE（约 6130 万美元），目前...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643086170740658177</id>
+        <link href="https://twitter.com/wublockchain12/status/1643086170740658177"/>
+        <updated>2023-04-04T03:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，据 Lookonchain监测，DOGE 第五大持仓地址（DDuXGMFNGpGjaAqyDunSMvceMBruc1wwKF）在 DOGE 价格上涨后转出 6.5 亿枚 DOGE（约 6130 万美元），目前余额 37.86 亿枚（约合 3.7 亿美元）。
+https://twitter.com/lookonchain/status/1643078424293150720
+
+Lookonchain: After Twitter changed the webpage logo icon to #DOGE's avatar, the price of $DOGE increased by ~30%.
+The 5th holder of $DOGE transferred 650M $DOGE ($61.3M) out after the price of $DOGE increased. @elonmusk #Dogecoin 
+https://bitinfocharts.com/dogecoin/address/DDuXGMFNGpGjaAqyDunSMvceMBruc1wwKF https://t.co/Sd7T50aOZx]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据 @gm365 的 Dune 数据面板，自 3 月 24 日 zkSync Era 上线主网以来，已有 264,011 个独立地址，总跨链金额约 6.3 万枚 ETH，平均跨链金额约 0.24 E...]]></title>
         <id>https://twitter.com/wublockchain12/status/1643075189134204928</id>
@@ -167,27 +263,6 @@ https://www.coindesk.com/business/2023/04/03/crypto-startup-lifi-raises-175m-in-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OKX 加入加密资产托管公司 Copper 的 ClearLoop 平台，允许机构客户将资产保留在托管公司的基础设施中并进行场外结算。此前加密交易所 BitMart 已于一月份加入 C...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643055539327500290</id>
-        <link href="https://twitter.com/wublockchain12/status/1643055539327500290"/>
-        <updated>2023-04-04T00:59:01.000Z</updated>
-        <summary type="html"><![CDATA[OKX 加入加密资产托管公司  Copper 的 ClearLoop 平台，允许机构客户将资产保留在托管公司的基础设施中并进行场外结算。此前加密交易所 BitMart 已于一月份加入 ClearLoop 网络。（CoinDesk）
-https://www.coindesk.com/business/2023/01/19/crypto-exchange-bitmart-to-join-custodian-coppers-clearloop-network/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，加拿大加密货币交易所 WonderFi (WNDR)、Coinsquare 和 CoinSmart 确认了合并计划，创建世界上最大的加密货币交易平台之一，公告发布后，Kevin O'Lear...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643054050429247488</id>
-        <link href="https://twitter.com/wublockchain12/status/1643054050429247488"/>
-        <updated>2023-04-04T00:53:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加拿大加密货币交易所 WonderFi (WNDR)、Coinsquare 和 CoinSmart 确认了合并计划，创建世界上最大的加密货币交易平台之一，公告发布后，Kevin O'Leary 支持的 WonderFi 的股价飙升了近 50%。据悉，这三家公司拥有 165 万用户和超过 6 亿美元的托管资产。https://www.newsfilecorp.com/release/161003]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh god rugpal is pitching eth now 😭 https://twitter.com/raoulgmi/status/1643045641973579778]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643053612925321217</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643053612925321217"/>
@@ -200,27 +275,6 @@ Raoul Pal: Tasty chart of ETH...eventually the 1850 level will go and it will 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 参与者必须持有 Koda 或 Vessel NFT，购买后原 NFT 的视觉效果将会更新，显示佩戴 KodaPendant 和 Gucci 品牌镜框。Gucci 于 3 月 27 日宣布与 Yuga Labs 建...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643052489955237888</id>
-        <link href="https://twitter.com/wublockchain12/status/1643052489955237888"/>
-        <updated>2023-04-04T00:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Re 参与者必须持有 Koda 或 Vessel NFT，购买后原 NFT 的视觉效果将会更新，显示佩戴 KodaPendant 和 Gucci 品牌镜框。Gucci 于 3 月 27 日宣布与 Yuga Labs 建立合作关系，以共同探索元宇宙。
-https://news.yuga.com/otherside-relics]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，奢侈品牌 Gucci 宣布与 Otherside 合作推出 KodaPendant NFT 系列以及实物项链，NFT 总量 3,333 枚，计划于 4 月 7 日 6 时开始发售，发售时间 24 小...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643052487874850816</id>
-        <link href="https://twitter.com/wublockchain12/status/1643052487874850816"/>
-        <updated>2023-04-04T00:46:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，奢侈品牌 Gucci 宣布与 Otherside 合作推出 KodaPendant NFT 系列以及实物项链，NFT 总量 3,333 枚，计划于 4 月 7 日 6 时开始发售，发售时间 24 小时，定价为 450 APE。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Anointed_Ape lol. It wasn’t just a supply chain problem. Ur forgetting excess demand I’m looking at real time inflation indicators suggesting in...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643051510534750213</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643051510534750213"/>
@@ -229,28 +283,6 @@ https://news.yuga.com/otherside-relics]]></summary>
 I’m looking at real time inflation indicators suggesting inflation is stubbornly high https://truflation.com/]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1643016206083936262]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643050269679456256</id>
-        <link href="https://twitter.com/wublockchain12/status/1643050269679456256"/>
-        <updated>2023-04-04T00:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1643016206083936262
-
-CZ 🔶 Binance: How FUD starts, then… https://t.co/spg9iiI8As]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，今日凌晨部分推特用户散播关于“国际刑警组织发布针对 CZ 的红色通缉令”这一传言，BNB 受此影响短时下跌超过 3%。CZ 指出图像是经过 PS 修改的，且传...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643050267745853449</id>
-        <link href="https://twitter.com/wublockchain12/status/1643050267745853449"/>
-        <updated>2023-04-04T00:38:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，今日凌晨部分推特用户散播关于“国际刑警组织发布针对 CZ 的红色通缉令”这一传言，BNB 受此影响短时下跌超过 3%。CZ 指出图像是经过 PS 修改的，且传言推文目前已删除。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -271,28 +303,6 @@ CZ 🔶 Binance: How FUD starts, then… https://t.co/spg9iiI8As]]></summary>
         <summary type="html"><![CDATA[Re @Anointed_Ape How does supply chains explain housing inflation]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/eulerfinance/status/1643027386802270210]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643048040998268928</id>
-        <link href="https://twitter.com/wublockchain12/status/1643048040998268928"/>
-        <updated>2023-04-04T00:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/eulerfinance/status/1643027386802270210
-
-Euler Labs: Following successful negotiations, all of the recoverable funds taken from the Euler protocol on March 13th have now been successfully returned by the exploiter.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Euler Finance 宣布经过协商，黑客已经盗取资金全部归还，Euler Foundation 此前发布的 100 万美元悬赏计划不再接受新的信息。Euler Finance 在 3 月 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643048039056310272</id>
-        <link href="https://twitter.com/wublockchain12/status/1643048039056310272"/>
-        <updated>2023-04-04T00:29:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Euler Finance 宣布经过协商，黑客已经盗取资金全部归还，Euler Foundation 此前发布的 100 万美元悬赏计划不再接受新的信息。Euler Finance 在 3 月 13 日遭黑客攻击，资金损失约为 1.95 亿美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -873,7 +883,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1045,12 +1055,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1325,7 +1335,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1375,7 +1385,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
