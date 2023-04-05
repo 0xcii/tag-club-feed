@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T15:15:06.975Z</id>
+    <id>urn:2023-04-05T16:21:02.370Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T15:15:06.975Z</updated>
+    <updated>2023-04-05T16:21:02.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 如果获得批准，该提案将在 2023 年 4 月 3 日至 6 月 12 日之间进入为期 10 周的执行阶段。 https://twitter.com/vita_dao/status/1643584117475508224 有关 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643644545639522304</id>
+        <link href="https://twitter.com/wublockchain12/status/1643644545639522304"/>
+        <updated>2023-04-05T15:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Re 如果获得批准，该提案将在 2023 年 4 月 3 日至 6 月 12 日之间进入为期 10 周的执行阶段。
+https://twitter.com/vita_dao/status/1643584117475508224
+有关 VitaDAO 的介绍可阅读吴说此前文章：https://mp.weixin.qq.com/s/Pkln8kPJzrHtjhOcoNjU8g
+
+VitaDAO 💛: To make up for this shortfall, we are currently discussing a proposal to establish a for-profit US-based company that will bridge the gap between research and commercialization.
+The company, to be named VitaTech, will operate as a subsidiary/affiliate of VitaDAO.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，辉瑞投资的长寿研究 VitaDAO 正在投票决定是否创建一家营利性公司来确保和分配长寿研究的资金。该公司将命名为 VitaTech，作为 VitaDAO 的子公司/附属...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643644543785639936</id>
+        <link href="https://twitter.com/wublockchain12/status/1643644543785639936"/>
+        <updated>2023-04-05T15:59:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，辉瑞投资的长寿研究 VitaDAO 正在投票决定是否创建一家营利性公司来确保和分配长寿研究的资金。该公司将命名为 VitaTech，作为 VitaDAO 的子公司/附属公司运营，它将利用公共资金来授权美国大学开发的长寿技术，并支持它们的持续发展。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 另外，0x00 和 0x01 是两种不同的取款凭证，前者为默认取款凭证，在取款时可以无需指定取款地址；后者在取款时则需要在提现请求中指定取款地址。https://twit...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643641104594767872</id>
+        <link href="https://twitter.com/wublockchain12/status/1643641104594767872"/>
+        <updated>2023-04-05T15:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 另外，0x00 和 0x01 是两种不同的取款凭证，前者为默认取款凭证，在取款时可以无需指定取款地址；后者在取款时则需要在提现请求中指定取款地址。https://twitter.com/LidoFinance/status/1643597930945818626
+
+Lido: A Lido V2 update 💧
+TLDR:
+Withdrawal key-rotation ceremony completed: all withdrawal credential messages have been successfully signed (from 0x00 to 0x01), and are now ready to be broadcasted to the Ethereum network post Shapella hard fork (April 12th).
+🧵]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Lido 发布 v2 版本进度更新：取款凭证的更换准备工作已经完成，所有提取凭证消息已经成功签名（从 0x00 凭证更换为 0x01），届时上海升级完成后，便可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643641102573137921</id>
+        <link href="https://twitter.com/wublockchain12/status/1643641102573137921"/>
+        <updated>2023-04-05T15:45:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Lido 发布 v2 版本进度更新：取款凭证的更换准备工作已经完成，所有提取凭证消息已经成功签名（从 0x00 凭证更换为 0x01），届时上海升级完成后，便可进行消息广播以完成凭证的更换。据了解，取款凭证的更换和 Staking Router 为 Lido v2 的两大重点。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前与加密行业密切相关的三家银行 Signature、SVB、Silvergate 关闭后，有观点认为美国监管机构协调努力，将加密货币行业与银行系统隔离开来，并称之为“窒...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643639670037725184</id>
+        <link href="https://twitter.com/wublockchain12/status/1643639670037725184"/>
+        <updated>2023-04-05T15:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前与加密行业密切相关的三家银行 Signature、SVB、Silvergate 关闭后，有观点认为美国监管机构协调努力，将加密货币行业与银行系统隔离开来，并称之为“窒息点行动2.0”，Adrienne Harris 称这个想法“荒谬可笑”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约金融服务部 (NYDFS) 主管 Adrienne Harris 周三表示，介入并关闭 Signature 的决定与加密货币完全无关，并表示监管机构试图让加密货币去银行化的想法是“愚...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643639667802140675</id>
+        <link href="https://twitter.com/wublockchain12/status/1643639667802140675"/>
+        <updated>2023-04-05T15:40:08.000Z</updated>
+        <summary type="html"><![CDATA[纽约金融服务部 (NYDFS) 主管 Adrienne Harris 周三表示，介入并关闭 Signature 的决定与加密货币完全无关，并表示监管机构试图让加密货币去银行化的想法是“愚蠢的”。（CoinDesk）
+https://www.coindesk.com/policy/2023/04/05/nydfs-chief-dismisses-choke-point-20-theory-of-signatures-closure-as-ludicrous/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPNX 自上线以来交易量极低，目前仅执行两笔交易，总价值为 1.26 美元。交易所的原生Token FLEX 在过去 24 小时内下跌了 28%。Su Zhu 在推文中表示，OPNX 交易所...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643630712438898688</id>
+        <link href="https://twitter.com/wublockchain12/status/1643630712438898688"/>
+        <updated>2023-04-05T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[OPNX 自上线以来交易量极低，目前仅执行两笔交易，总价值为 1.26 美元。交易所的原生Token FLEX 在过去 24 小时内下跌了 28%。Su Zhu 在推文中表示，OPNX 交易所从 FTX 事件中吸取教学，不会有内部做市商，流动性将缓慢积累。（CoinDesk）
+https://www.coindesk.com/business/2023/04/05/bankruptcy-exchange-opnx-stumbles-out-of-the-gate-flex-token-slumps-28/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines
+
+吴说区块链: 吴说获悉，三箭资本两位创始人创立的交易所 OPNX 已上线，目前包括 13 个现货交易对和 12 个期货交易对；此前主打的债权交易目前尚未在官网列出；配合平台币 FLEX 将获得最高达到 50% 的手续费折扣。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Gemini 交易所公布 Gemini dollar (GUSD) 储备信息，包括储备资金数量、到期日、加权平均到期日和资金的总市值。Gemini 表示，所有支持 GUSD 的国库债...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643629149800595465</id>
+        <link href="https://twitter.com/wublockchain12/status/1643629149800595465"/>
+        <updated>2023-04-05T14:58:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Gemini 交易所公布 Gemini dollar (GUSD) 储备信息，包括储备资金数量、到期日、加权平均到期日和资金的总市值。Gemini 表示，所有支持 GUSD 的国库债券均为小于三个月的短期债券，自 2018 年首次发行以来，GUSD 一直受到 NYDFS 的监管。GUSD 当前市值约 6.1 亿美元。… https://twitter.com/i/web/status/1643629149800595465]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re MEV Blocker RPC 是一个路由用户交易到“搜索器”网络而不是公共内存池的工具，这些搜索器通过竞标获取反向运行交易的权利，保护用户免受抢先交易和三明治攻...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643621222020792320</id>
+        <link href="https://twitter.com/wublockchain12/status/1643621222020792320"/>
+        <updated>2023-04-05T14:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Re MEV Blocker RPC 是一个路由用户交易到“搜索器”网络而不是公共内存池的工具，这些搜索器通过竞标获取反向运行交易的权利，保护用户免受抢先交易和三明治攻击。https://twitter.com/CoWSwap/status/1643614395002499073?s=20
+
+CoW Swap | Better than the best prices: CoW Swap, in collaboration with @beaverbuild and Agnostic Relayer, is proud to announce MEV Blocker. https://MEVBlocker.io ⛱️
+MEV Blocker is a free RPC endpoint that *pays users* to protect themselves from MEV across a wide variety of use cases in DeFi, NFTs, and dApps. https://t.co/Fa6cRNjrxf]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CoW Swap、Balancer、1inch 等超过 30 个以太坊项目合作推出了 MEV Blocker RPC，该工具旨在保护用户免受各种类型的 MEV 攻击。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643621220045209600</id>
+        <link href="https://twitter.com/wublockchain12/status/1643621220045209600"/>
+        <updated>2023-04-05T14:26:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CoW Swap、Balancer、1inch 等超过 30 个以太坊项目合作推出了 MEV Blocker RPC，该工具旨在保护用户免受各种类型的 MEV 攻击。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据彭博社，迪拜虚拟资产监管局（VARA）的官员最近几周要求币安提供更多关于其所有权结构、治理和审计程序的信息；VARA 要求所有寻求许可的国际公司提...]]></title>
         <id>https://twitter.com/wublockchain12/status/1643610038420766720</id>
@@ -99,16 +216,6 @@ https://opensea.io/blog/articles/opensea-pro]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沃日，我还没mint呢 https://t.co/gT2qUebD7W]]></title>
-        <id>https://twitter.com/8848Community/status/1643595104580669440</id>
-        <link href="https://twitter.com/8848Community/status/1643595104580669440"/>
-        <updated>2023-04-05T12:43:04.000Z</updated>
-        <summary type="html"><![CDATA[沃日，我还没mint呢 https://t.co/gT2qUebD7W]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这是哪位群友？ https://t.co/HpdtgEvlRW]]></title>
         <id>https://twitter.com/8848Community/status/1643590796929802242</id>
         <link href="https://twitter.com/8848Community/status/1643590796929802242"/>
@@ -131,81 +238,6 @@ Michael Saylor⚡️: MicroStrategy has acquired an additional 1,045 #bitcoin 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，MicroStrategy 宣布以 28,016 美元的均价再次购买 1045 枚 BTC，共计 2930 万美元。截至 4 月 4 日 MicroStrategy 持有 140,000 个比特币，平均购买价...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643589310648844289</id>
-        <link href="https://twitter.com/wublockchain12/status/1643589310648844289"/>
-        <updated>2023-04-05T12:20:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，MicroStrategy 宣布以 28,016 美元的均价再次购买 1045 枚 BTC，共计 2930 万美元。截至 4 月 4 日 MicroStrategy 持有 140,000 个比特币，平均购买价格为 29,803 美元，约合 41.7 亿美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSW（Craig Wright）因其涉嫌违反英国法院禁令而面临的藐视法庭诉讼已被撤销。法官表示，他们无法在事实存有争议的情况下进行诉讼，继续追究 CSW 的责任已不符合...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643578565529862144</id>
-        <link href="https://twitter.com/wublockchain12/status/1643578565529862144"/>
-        <updated>2023-04-05T11:37:20.000Z</updated>
-        <summary type="html"><![CDATA[CSW（Craig Wright）因其涉嫌违反英国法院禁令而面临的藐视法庭诉讼已被撤销。法官表示，他们无法在事实存有争议的情况下进行诉讼，继续追究 CSW 的责任已不符合公众利益。此前英国高等法院判定 Craig Wright 泄露了法庭未公布的判决书，并认为存在违反法庭禁令的初步证据。(CoinDesk)… https://twitter.com/i/web/status/1643578565529862144]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Protos，Bob Lee 职务包括加密货币 MobileCoin 和支付服务 Cash App 的创始人以及 Square 的前首席技术官；Lee 最近搬到了迈阿密，并在旧金山出差...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643574258243899396</id>
-        <link href="https://twitter.com/wublockchain12/status/1643574258243899396"/>
-        <updated>2023-04-05T11:20:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Protos，Bob Lee 职务包括加密货币 MobileCoin 和支付服务 Cash App 的创始人以及 Square 的前首席技术官；Lee 最近搬到了迈阿密，并在旧金山出差；警方在该市 Rincon Hill 街区附近发现 Lee 身上有多处刀伤；医务人员试图治疗 43 岁的 Lee… https://twitter.com/i/web/status/1643574258243899396
-
-吴说区块链: 吴说获悉，据 Sfgate 报道，当地时间 4 月 4 日凌晨，支付公司 Block（前身为 Square）前首席技术官兼 Cash App 的创始人 Bob Lee 在旧金山因刺伤身亡。旧金山警察局在凌晨 2 点 35 分左右接到了一起刺伤报告，受害人被送往当地一家医院，但因伤势过重而死亡。
-https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可定制的 Rollup 解决方案 Eclipse（撰文：100y 编译：Foresight News）：Eclipse 提供了可定制的特性，例如执行环境和数据可用性层。通过 Eclipse 创建的 Rollu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643562367555624961</id>
-        <link href="https://twitter.com/wublockchain12/status/1643562367555624961"/>
-        <updated>2023-04-05T10:32:58.000Z</updated>
-        <summary type="html"><![CDATA[可定制的 Rollup 解决方案 Eclipse（撰文：100y 编译：Foresight News）：Eclipse 提供了可定制的特性，例如执行环境和数据可用性层。通过 Eclipse 创建的 Rollups 共享一个单一的 Eclipse 结算层，促进了多样化的生态系统。此外 Eclipse 结算层支持通过 IBC 与其他 Cosmos 链进行通信，允许 Solana… https://twitter.com/i/web/status/1643562367555624961]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CapitalismLab 解读 GMX V2：每个交易对都有对应的 LP，有利于上线更多资产；可以交易链上没有的资产；新增 Funding Fee，Borrow Fee, Price Impact 三重费用；...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643561087940595713</id>
-        <link href="https://twitter.com/wublockchain12/status/1643561087940595713"/>
-        <updated>2023-04-05T10:27:53.000Z</updated>
-        <summary type="html"><![CDATA[CapitalismLab 解读 GMX V2：每个交易对都有对应的 LP，有利于上线更多资产；可以交易链上没有的资产；新增 Funding Fee，Borrow Fee, Price Impact 三重费用；优化了限价单和止损单的机制，支持了现货限价单等。阅读全文：
-https://capitalismlab.substack.com/p/gmx-v2?r=1ly7b3&utm_campaign=post&utm_medium=web]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re BTG Pactual 对 BTG Dol 进行担保和管理，为该资产提供整个安全框架，包括尽职调查、反洗钱和合规流程等。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643557321593982981</id>
-        <link href="https://twitter.com/wublockchain12/status/1643557321593982981"/>
-        <updated>2023-04-05T10:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Re BTG Pactual 对 BTG Dol 进行担保和管理，为该资产提供整个安全框架，包括尽职调查、反洗钱和合规流程等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，拉丁美洲最大的投资银行 BTG Pactual 宣布通过该银行的加密平台 Mynt 推出其首个美元稳定币 BTG Dol。BTG Pactual 声称 BTG Dol 是世界上第一个由银行...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643556658923335681</id>
-        <link href="https://twitter.com/wublockchain12/status/1643556658923335681"/>
-        <updated>2023-04-05T10:10:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，拉丁美洲最大的投资银行 BTG Pactual 宣布通过该银行的加密平台 Mynt 推出其首个美元稳定币 BTG Dol。BTG Pactual 声称 BTG Dol 是世界上第一个由银行发行的美元支持的稳定币。
-https://www.prnewswire.com/news-releases/btg-pactual-launches-btg-dol-the-worlds-first-dollar-backed-stablecoin-from-a-bank-301789477.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Halls Of Olympia: (THOON) is about to become "Now" Get ready, warriors - alpha test 1 begins in approx ONE day Check out http://discord.gg/hoolympi...]]></title>
         <id>https://twitter.com/HallsofOlympia/status/1643547267142492160</id>
         <link href="https://twitter.com/HallsofOlympia/status/1643547267142492160"/>
@@ -216,39 +248,6 @@ Get ready, warriors - alpha test 1 begins in approx ONE day
 Check out http://discord.gg/hoolympia for details https://t.co/r3caWuSHkz]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4 月 14 日 起不再生成次周交割合约； 6 月 16 日起不再生成次季交割合约；已经上线交易的合约不受影响可正常交易。 https://www.okx.com/cn/help-center/del...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643531411352358912</id>
-        <link href="https://twitter.com/wublockchain12/status/1643531411352358912"/>
-        <updated>2023-04-05T08:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Re 4 月 14 日  起不再生成次周交割合约； 6 月 16 日起不再生成次季交割合约；已经上线交易的合约不受影响可正常交易。
-https://www.okx.com/cn/help-center/delisting-plan-of-trx-futures-contracts]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 发布 TRX 交割合约下线的公告。OKX 表示，考虑到市场原因和用户需求，计划于近期逐步停止 TRX 币本位及 U 本位交割合约的生成，并于 2023 年 9 月...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643531409955651584</id>
-        <link href="https://twitter.com/wublockchain12/status/1643531409955651584"/>
-        <updated>2023-04-05T08:29:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 发布 TRX 交割合约下线的公告。OKX 表示，考虑到市场原因和用户需求，计划于近期逐步停止 TRX 币本位及 U 本位交割合约的生成，并于 2023 年 9 月 30 日下午 4 : 00 (UTC+8) 正式下线 TRX 交割合约。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1643498749803786240]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643523178285907968</id>
-        <link href="https://twitter.com/wublockchain12/status/1643523178285907968"/>
-        <updated>2023-04-05T07:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1643498749803786240
-
-23pds: 其实除了我们一直提的交互时eth_sign风险,我发现钱包、交易App 都存在一个通用性安全问题：钱包、交易App 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到别的设备就有被运行的风险。 这个问题似乎 99% 的钱包、交易App都没做安全设计。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -730,6 +729,17 @@ https://www.binance.com/zh-CN/nft/bicasso https://t.co/roQ4lotDwI]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[L2的gas咋越来越高了? L2的意思是gas是主网的2倍]]></title>
+        <id>https://twitter.com/8848Community/status/1641064881490362369</id>
+        <link href="https://twitter.com/8848Community/status/1641064881490362369"/>
+        <updated>2023-03-29T13:08:51.000Z</updated>
+        <summary type="html"><![CDATA[L2的gas咋越来越高了?
+L2的意思是gas是主网的2倍]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @PC_PR1NCIPAL Gm]]></title>
         <id>https://twitter.com/OnChainWizard/status/1640898614535880704</id>
         <link href="https://twitter.com/OnChainWizard/status/1640898614535880704"/>
@@ -867,7 +877,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources]]></summary>
+Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1039,12 +1049,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework
+You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1319,7 +1329,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both…
+Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1369,7 +1379,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
 
 Balaji: I will take that bet.
 You buy 1 BTC.
