@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T11:11:45.734Z</id>
+    <id>urn:2023-04-05T12:31:02.888Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T11:11:45.734Z</updated>
+    <updated>2023-04-05T12:31:02.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[可定制的 Rollup 解决方案 Eclipse（撰文：100y 编译：Foresight News）：Eclipse 提供了可定制的特性，例如执行环境和数据可用性层。通过 Eclipse 创建的 Rollu...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643562367555624961</id>
+        <link href="https://twitter.com/wublockchain12/status/1643562367555624961"/>
+        <updated>2023-04-05T10:32:58.000Z</updated>
+        <summary type="html"><![CDATA[可定制的 Rollup 解决方案 Eclipse（撰文：100y 编译：Foresight News）：Eclipse 提供了可定制的特性，例如执行环境和数据可用性层。通过 Eclipse 创建的 Rollups 共享一个单一的 Eclipse 结算层，促进了多样化的生态系统。此外 Eclipse 结算层支持通过 IBC 与其他 Cosmos 链进行通信，允许 Solana… https://twitter.com/i/web/status/1643562367555624961]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CapitalismLab 解读 GMX V2：每个交易对都有对应的 LP，有利于上线更多资产；可以交易链上没有的资产；新增 Funding Fee，Borrow Fee, Price Impact 三重费用；...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643561087940595713</id>
+        <link href="https://twitter.com/wublockchain12/status/1643561087940595713"/>
+        <updated>2023-04-05T10:27:53.000Z</updated>
+        <summary type="html"><![CDATA[CapitalismLab 解读 GMX V2：每个交易对都有对应的 LP，有利于上线更多资产；可以交易链上没有的资产；新增 Funding Fee，Borrow Fee, Price Impact 三重费用；优化了限价单和止损单的机制，支持了现货限价单等。阅读全文：
+https://capitalismlab.substack.com/p/gmx-v2?r=1ly7b3&utm_campaign=post&utm_medium=web]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re BTG Pactual 对 BTG Dol 进行担保和管理，为该资产提供整个安全框架，包括尽职调查、反洗钱和合规流程等。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643557321593982981</id>
+        <link href="https://twitter.com/wublockchain12/status/1643557321593982981"/>
+        <updated>2023-04-05T10:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Re BTG Pactual 对 BTG Dol 进行担保和管理，为该资产提供整个安全框架，包括尽职调查、反洗钱和合规流程等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，拉丁美洲最大的投资银行 BTG Pactual 宣布通过该银行的加密平台 Mynt 推出其首个美元稳定币 BTG Dol。BTG Pactual 声称 BTG Dol 是世界上第一个由银行...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643556658923335681</id>
+        <link href="https://twitter.com/wublockchain12/status/1643556658923335681"/>
+        <updated>2023-04-05T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，拉丁美洲最大的投资银行 BTG Pactual 宣布通过该银行的加密平台 Mynt 推出其首个美元稳定币 BTG Dol。BTG Pactual 声称 BTG Dol 是世界上第一个由银行发行的美元支持的稳定币。
+https://www.prnewswire.com/news-releases/btg-pactual-launches-btg-dol-the-worlds-first-dollar-backed-stablecoin-from-a-bank-301789477.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 值得在意的是，Gemesis 7432 被用户地址：0x97...6a20 于早间在 Blur 上以 100 ETH 价格购买，这可能是在 bid 时操作不当所造成的；该地址是 Blur 积分大户，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643554384905920515</id>
+        <link href="https://twitter.com/wublockchain12/status/1643554384905920515"/>
+        <updated>2023-04-05T10:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Re 值得在意的是，Gemesis 7432 被用户地址：0x97...6a20 于早间在 Blur 上以 100 ETH 价格购买，这可能是在 bid 时操作不当所造成的；该地址是 Blur 积分大户，目前在榜上排名第 7。https://etherscan.io/tx/0xb1930aab05c56ec8e54b7794d67e53075bbf06217e954bdb6446b8412f29ba19]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 对比铸造时所仅需约 $10 的 Gas 费用成本，其回报超过了 10 倍。该 NFT 也被社区解读为可能与 OpenSea 或 Gem 的潜在空投有关，于是引起 Fomo。https://opens...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643554382968131585</id>
+        <link href="https://twitter.com/wublockchain12/status/1643554382968131585"/>
+        <updated>2023-04-05T10:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Re 对比铸造时所仅需约 $10 的 Gas 费用成本，其回报超过了 10 倍。该 NFT 也被社区解读为可能与 OpenSea 或 Gem 的潜在空投有关，于是引起 Fomo。https://opensea.io/collection/gemesis]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OpenSea 数据显示，截至 17：50，总量 18,000 个的 Gemesis NFT 已铸造约 35.5%，当前地板价约 0.045ETH（约 $116），并产生了超过 2,000 ETH 交易量...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643554381495959552</id>
+        <link href="https://twitter.com/wublockchain12/status/1643554381495959552"/>
+        <updated>2023-04-05T10:01:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OpenSea 数据显示，截至 17：50，总量 18,000 个的 Gemesis NFT 已铸造约 35.5%，当前地板价约 0.045ETH（约 $116），并产生了超过 2,000 ETH 交易量，在本日早间地板价曾一度超过 0.08ETH。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Halls Of Olympia: (THOON) is about to become "Now" Get ready, warriors - alpha test 1 begins in approx ONE day Check out http://discord.gg/hoolympi...]]></title>
+        <id>https://twitter.com/HallsofOlympia/status/1643547267142492160</id>
+        <link href="https://twitter.com/HallsofOlympia/status/1643547267142492160"/>
+        <updated>2023-04-05T09:32:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Halls Of Olympia
+(THOON) is about to become "Now"
+Get ready, warriors - alpha test 1 begins in approx ONE day
+Check out http://discord.gg/hoolympia for details https://t.co/r3caWuSHkz]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 4 月 14 日 起不再生成次周交割合约； 6 月 16 日起不再生成次季交割合约；已经上线交易的合约不受影响可正常交易。 https://www.okx.com/cn/help-center/del...]]></title>
         <id>https://twitter.com/wublockchain12/status/1643531411352358912</id>
@@ -33,7 +118,7 @@ https://www.okx.com/cn/help-center/delisting-plan-of-trx-futures-contracts]]></s
         <updated>2023-04-05T07:57:15.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1643498749803786240
 
-23pds: 其实除了我们一直提的交互时eth_sign风险,我发现钱包、交易App 都存在一个通用性安全问题：钱包、交易App 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到别的设备就有被运行的风险。 这个问题似乎 99% 的钱包、交易App都没做安全设计。 https://twitter.com/evilcos/status/1643410971409670145]]></summary>
+23pds: 其实除了我们一直提的交互时eth_sign风险,我发现钱包、交易App 都存在一个通用性安全问题：钱包、交易App 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到别的设备就有被运行的风险。 这个问题似乎 99% 的钱包、交易App都没做安全设计。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -142,78 +227,6 @@ https://www.coindesk.com/business/2023/04/05/deribit-parent-company-leads-44m-se
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前沿项目追踪：《社交游戏平台 Phi：使用 ENS 生成一个虚拟世界》Phi 是基于 ENS 域名系统构建且专注于链上活动的沉浸式社交游戏平台，其专注于区块链本身的游戏...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643456678023823361</id>
-        <link href="https://twitter.com/wublockchain12/status/1643456678023823361"/>
-        <updated>2023-04-05T03:33:00.000Z</updated>
-        <summary type="html"><![CDATA[前沿项目追踪：《社交游戏平台 Phi：使用 ENS 生成一个虚拟世界》Phi 是基于 ENS 域名系统构建且专注于链上活动的沉浸式社交游戏平台，其专注于区块链本身的游戏化，并致力于实现“链上身份”的轻松可视化。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在此背景下，一款名为 Parcl 的去中心化房地产投资平台应运而生，其旨在通过将 NFT、DeFi 和房地产等资产元素相结合，打破传统不动产投资的地域限制。阅读全...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643456163881832448</id>
-        <link href="https://twitter.com/wublockchain12/status/1643456163881832448"/>
-        <updated>2023-04-05T03:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Re 在此背景下，一款名为 Parcl 的去中心化房地产投资平台应运而生，其旨在通过将 NFT、DeFi 和房地产等资产元素相结合，打破传统不动产投资的地域限制。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=40&id=13072]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前沿项目追踪：《去中心化房地产项目 Parcl：将 NFT、DeFi 和房屋买卖结合》作为兼具实体属性和金融属性的特殊产品，房地产一直颇受投资群体的追捧。因本身不可...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643456162313175040</id>
-        <link href="https://twitter.com/wublockchain12/status/1643456162313175040"/>
-        <updated>2023-04-05T03:30:57.000Z</updated>
-        <summary type="html"><![CDATA[前沿项目追踪：《去中心化房地产项目 Parcl：将 NFT、DeFi 和房屋买卖结合》作为兼具实体属性和金融属性的特殊产品，房地产一直颇受投资群体的追捧。因本身不可移动的属性以及物理上的限制，导致人们投资范围的局限。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在 LayerZero 宣布完成 B 轮融资后，昨日基于 L0 的跨链协议 Stargate 交易笔数超过 5.5 万笔，创下历史新高，但交易量几乎没有太明显的变化。据 @mmy...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643439500159483904</id>
-        <link href="https://twitter.com/wublockchain12/status/1643439500159483904"/>
-        <updated>2023-04-05T02:24:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在 LayerZero 宣布完成 B 轮融资后，昨日基于 L0 的跨链协议 Stargate 交易笔数超过 5.5 万笔，创下历史新高，但交易量几乎没有太明显的变化。据 @mmyevyn 数据面板，当前 LayerZero 拥有超过 75 万个独立地址，但约 50% 的地址仅完成过一笔交易。https://stargate.finance/overview &… https://twitter.com/i/web/status/1643439500159483904]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在 5 月 31 日之前有自主使用 POAP 历史的发行人可以选择加入商业定价，每 100 个 POAP 的价格为 25 美元。 https://discourse.poap.xyz/t/a-discussion-on-t...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643432210798899200</id>
-        <link href="https://twitter.com/wublockchain12/status/1643432210798899200"/>
-        <updated>2023-04-05T01:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 在 5 月 31 日之前有自主使用 POAP 历史的发行人可以选择加入商业定价，每 100 个 POAP 的价格为 25 美元。
-https://discourse.poap.xyz/t/a-discussion-on-the-poap-commercial-use-policy/9668/1]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，POAP 社区正在就 4 月 17 日引入的商业使用政策进行探讨。当新模块推出后，Proof of Attendance Protocol（出席证明协议）将保持个人使用免费，所有相...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643432209188290561</id>
-        <link href="https://twitter.com/wublockchain12/status/1643432209188290561"/>
-        <updated>2023-04-05T01:55:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，POAP 社区正在就 4 月 17 日引入的商业使用政策进行探讨。当新模块推出后，Proof of Attendance Protocol（出席证明协议）将保持个人使用免费，所有相关成本由 POAP 公司资助，执行大规模商业空投的发行人将被要求付费使用。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 当监管机构对灰色地带持不同意见时，可以预期的是“下不为例。但至少你会有一些回旋余地”，“在加密货币领域却没有了讨论空间，直接收到一份威尔斯通知或更...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643430181250686977</id>
-        <link href="https://twitter.com/wublockchain12/status/1643430181250686977"/>
-        <updated>2023-04-05T01:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 当监管机构对灰色地带持不同意见时，可以预期的是“下不为例。但至少你会有一些回旋余地”，“在加密货币领域却没有了讨论空间，直接收到一份威尔斯通知或更糟糕的情况。”
-https://cn.wsj.com/articles/%E5%B8%81%E5%AE%89%E6%96%B0%E4%BB%BB%E9%A6%96%E5%B8%AD%E5%90%88%E8%A7%84%E5%AE%98%E7%A7%B0%E5%85%B6%E5%B7%A5%E4%BD%9C%E9%9D%A2%E4%B8%B4%E5%B7%A8%E5%A4%A7%E6%8C%91%E6%88%98-2fef07b7]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @cplimon Lolz!]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643418903488393219</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643418903488393219"/>
@@ -268,11 +281,11 @@ Fireworks either way 🧨]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What do we think lads]]></title>
+        <title type="html"><![CDATA[What do we think lads https://twitter.com/bluntz_capital/status/1643400482625576961]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643406016220999681</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643406016220999681"/>
         <updated>2023-04-05T00:11:41.000Z</updated>
-        <summary type="html"><![CDATA[What do we think lads
+        <summary type="html"><![CDATA[What do we think lads https://twitter.com/bluntz_capital/status/1643400482625576961
 
 Bluntz: when $eth inevitably breaks out from $2k you'll want to be positioned accordingly because unfortunately i doubt there will be retests.
 it'll most likely be a straight up GOD candle candle like #btc in 2019. https://t.co/YJGSTRZz3Y]]></summary>
@@ -291,12 +304,12 @@ it'll most likely be a straight up GOD candle candle like #btc in 2019. https://
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing out as predicted: https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA]]></title>
+        <title type="html"><![CDATA[Playing out as predicted: https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA https://twitter.com/dynamo_patric...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643393285707235331</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643393285707235331"/>
         <updated>2023-04-04T23:21:06.000Z</updated>
         <summary type="html"><![CDATA[Playing out as predicted: 
-https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA
+https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA https://twitter.com/dynamo_patrick/status/1643377145954160641
 
 Patrick | Dynamo DeFi: Solidity dominance of TVL smart contract language is now over 91%. The last time it was this high was in August 2020, when total DeFi TVL was under $5B.]]></summary>
         <author>
@@ -334,11 +347,11 @@ Patrick | Dynamo DeFi: Solidity dominance of TVL smart contract language is no
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right.]]></title>
+        <title type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right. https://twitter.com/econberger/status/1643309651952533505]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643384464448401408</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643384464448401408"/>
         <updated>2023-04-04T22:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right.
+        <summary type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right. https://twitter.com/econberger/status/1643309651952533505
 
 Guy Berger: 3/ Hiring is still a little elevated relative to what we'd expect given the unemployment rate, but much less than a year ago.  Hires rate is consistent with an unemployment rate ~2.8%.  A year ago, I would have said "consistent with an unemployment rate less than 1%"! https://t.co/1A7VGXvFGS]]></summary>
         <author>
@@ -373,11 +386,11 @@ Investors and traders should be "eyes wide open" regarding the immense *and* inh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains.]]></title>
+        <title type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains. https://twitter.com/zerohedge/sta...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643323550202310656</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643323550202310656"/>
         <updated>2023-04-04T18:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains.
+        <summary type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains. https://twitter.com/zerohedge/status/1643256890669907969
 
 zerohedge: With the huge downward revision to Jan JOLTS, the 2-month drop (1.3MM) was the 2nd highest on record, only behind the covid economic collapse. This was at a time when the US was still supposedly creating 300K jobs https://t.co/PQ4O5ncDgM]]></summary>
         <author>
@@ -443,21 +456,6 @@ Economy is rolling over -> flight to safety]]></summary>
         <updated>2023-04-04T14:08:05.000Z</updated>
         <summary type="html"><![CDATA[RT Le Sideline Shrub🌳🔥🇺🇦
 Before you all get too excited about rate cuts, JOLTs are very elevated historically... https://t.co/gt8KRRjAGJ]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peak AI?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1643251791209852928</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1643251791209852928"/>
-        <updated>2023-04-04T13:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Peak AI?
-
-Mat Roiss - NVDA RocketBear🚀🐻: $NVDA now worth as much as $TSM and $AMD combined. This makes sense because AMD and TSM only have 7x the net income of NVDA with less earnings contraction. 
-Also $TSM surely irrelevant for AI.
-For everyone that didnt get it last time
-🚨🚨🚨 SARCASM ALERT 🚨🚨🚨]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -833,11 +831,11 @@ up 25% since the FTX collapse
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT CCDAO: 这哪里是 #撸毛 这是公司上市。 @Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并...]]></title>
+        <title type="html"><![CDATA[RT CCDAO 构建者社区: 这哪里是 #撸毛 这是公司上市。 @Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB...]]></title>
         <id>https://twitter.com/ccdaoclub/status/1639206804877119488</id>
         <link href="https://twitter.com/ccdaoclub/status/1639206804877119488"/>
         <updated>2023-03-24T10:05:31.000Z</updated>
-        <summary type="html"><![CDATA[RT CCDAO
+        <summary type="html"><![CDATA[RT CCDAO 构建者社区
 这哪里是 #撸毛  这是公司上市。
 @Lookonchain称其监测到关于ARB代币的2个“空投猎人”，0xe1e2开头的地址通过866个地址收到了 140万枚ARB空投代币，并将所有140万枚ARB添加到Uniswap以提供流动性。此外，0xbd4e开头的地址通过630个地址收到933,375枚ARB空投代币。
 #Airdrops #CCDAO]]></summary>
