@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T09:14:16.796Z</id>
+    <id>urn:2023-04-05T10:15:42.710Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T09:14:16.796Z</updated>
+    <updated>2023-04-05T10:15:42.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 4 月 14 日 起不再生成次周交割合约； 6 月 16 日起不再生成次季交割合约；已经上线交易的合约不受影响可正常交易。 https://www.okx.com/cn/help-center/del...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643531411352358912</id>
+        <link href="https://twitter.com/wublockchain12/status/1643531411352358912"/>
+        <updated>2023-04-05T08:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Re 4 月 14 日  起不再生成次周交割合约； 6 月 16 日起不再生成次季交割合约；已经上线交易的合约不受影响可正常交易。
+https://www.okx.com/cn/help-center/delisting-plan-of-trx-futures-contracts]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 发布 TRX 交割合约下线的公告。OKX 表示，考虑到市场原因和用户需求，计划于近期逐步停止 TRX 币本位及 U 本位交割合约的生成，并于 2023 年 9 月...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643531409955651584</id>
+        <link href="https://twitter.com/wublockchain12/status/1643531409955651584"/>
+        <updated>2023-04-05T08:29:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 发布 TRX 交割合约下线的公告。OKX 表示，考虑到市场原因和用户需求，计划于近期逐步停止 TRX 币本位及 U 本位交割合约的生成，并于 2023 年 9 月 30 日下午 4 : 00 (UTC+8) 正式下线 TRX 交割合约。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1643498749803786240]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643523178285907968</id>
+        <link href="https://twitter.com/wublockchain12/status/1643523178285907968"/>
+        <updated>2023-04-05T07:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/IM_23pds/status/1643498749803786240
+
+23pds: 其实除了我们一直提的交互时eth_sign风险,我发现钱包、交易App 都存在一个通用性安全问题：钱包、交易App 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到别的设备就有被运行的风险。 这个问题似乎 99% 的钱包、交易App都没做安全设计。 https://twitter.com/evilcos/status/1643410971409670145]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，慢雾 CISO 23pbs 发文指，钱包、交易App 都存在一个通用性安全问题：钱包、交易 APP 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1643523176784351232</id>
+        <link href="https://twitter.com/wublockchain12/status/1643523176784351232"/>
+        <updated>2023-04-05T07:57:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，慢雾 CISO 23pbs 发文指，钱包、交易App 都存在一个通用性安全问题：钱包、交易 APP 如果没有引入设备特征做加密，那么一旦攻击者把本地文件拖走放到别的设备，就有被运行的风险。这个问题似乎 99% 的钱包、交易 APP 都没做安全相关的设计。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Jack Dorsey 在 Nostr 上证实了 Lee 的死讯，Jack Dorsey 是 Block 的创始人。https://snort.social/e/note12k5g2nenm5d9vcy4yxyera5s00rud2sy4akd7wwpvl6kla...]]></title>
         <id>https://twitter.com/wublockchain12/status/1643502962394923008</id>
@@ -171,48 +214,6 @@ https://cn.wsj.com/articles/%E5%B8%81%E5%AE%89%E6%96%B0%E4%BB%BB%E9%A6%96%E5%B8%
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 WSJ，币安新上任的全球首席合规官 Noah Perlman 表示，由于规范加密货币行业的规则往往并不明确，要在不惹到监管机构的情况下运作是很困难的事，造...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643430179203842049</id>
-        <link href="https://twitter.com/wublockchain12/status/1643430179203842049"/>
-        <updated>2023-04-05T01:47:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 WSJ，币安新上任的全球首席合规官 Noah Perlman 表示，由于规范加密货币行业的规则往往并不明确，要在不惹到监管机构的情况下运作是很困难的事，造成这种情况的一个原因是美国采取的“执法监管”作法。传统金融机构已建立了规则和记录来指引合规官员的工作。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模块化区块链 Astria 已筹集 550 万美元的种子资金， Maven 11 领投，1kx、Delphi Ventures 等参投。Astria 的目标是让任何人都可以部署自己的抗审查汇总，而无...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643429574116794368</id>
-        <link href="https://twitter.com/wublockchain12/status/1643429574116794368"/>
-        <updated>2023-04-05T01:45:18.000Z</updated>
-        <summary type="html"><![CDATA[模块化区块链 Astria 已筹集 550 万美元的种子资金， Maven 11 领投，1kx、Delphi Ventures 等参投。Astria 的目标是让任何人都可以部署自己的抗审查汇总，而无需依赖集中式排序器。Astria 还在开发其 Astria EVM，该 EVM 由共享排序器网络提供支持，并计划作为 Celestia 数据可用性层的… https://twitter.com/i/web/status/1643429574116794368]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/PeckShieldAlert/status/1643423875064270848]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643428293281202179</id>
-        <link href="https://twitter.com/wublockchain12/status/1643428293281202179"/>
-        <updated>2023-04-05T01:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/PeckShieldAlert/status/1643423875064270848
-
-PeckShieldAlert: The total loss is ~$1M. Here comes the flow of stolen funds. https://t.co/x4XjmugkTR]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 PeckShield 监测，Arbitrum 上借贷协议 Sentiment 在今日凌晨被盗约 100 万美元，已知的根本原因在于 Balancer 的只读可重入性。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643428291771244546</id>
-        <link href="https://twitter.com/wublockchain12/status/1643428291771244546"/>
-        <updated>2023-04-05T01:40:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 PeckShield 监测，Arbitrum 上借贷协议 Sentiment 在今日凌晨被盗约 100 万美元，已知的根本原因在于 Balancer 的只读可重入性。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @cplimon Lolz!]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643418903488393219</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643418903488393219"/>
@@ -267,11 +268,11 @@ Fireworks either way 🧨]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What do we think lads]]></title>
+        <title type="html"><![CDATA[What do we think lads https://twitter.com/bluntz_capital/status/1643400482625576961]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643406016220999681</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643406016220999681"/>
         <updated>2023-04-05T00:11:41.000Z</updated>
-        <summary type="html"><![CDATA[What do we think lads
+        <summary type="html"><![CDATA[What do we think lads https://twitter.com/bluntz_capital/status/1643400482625576961
 
 Bluntz: when $eth inevitably breaks out from $2k you'll want to be positioned accordingly because unfortunately i doubt there will be retests.
 it'll most likely be a straight up GOD candle candle like #btc in 2019. https://t.co/YJGSTRZz3Y]]></summary>
@@ -290,12 +291,12 @@ it'll most likely be a straight up GOD candle candle like #btc in 2019. https://
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing out as predicted: https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA]]></title>
+        <title type="html"><![CDATA[Playing out as predicted: https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA https://twitter.com/dynamo_patric...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643393285707235331</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643393285707235331"/>
         <updated>2023-04-04T23:21:06.000Z</updated>
         <summary type="html"><![CDATA[Playing out as predicted: 
-https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA
+https://twitter.com/defisurfer808/status/1531466758384672768?s=46&t=_sZ6xyyOBuoMYsKE6B_heA https://twitter.com/dynamo_patrick/status/1643377145954160641
 
 Patrick | Dynamo DeFi: Solidity dominance of TVL smart contract language is now over 91%. The last time it was this high was in August 2020, when total DeFi TVL was under $5B.]]></summary>
         <author>
@@ -333,11 +334,11 @@ Patrick | Dynamo DeFi: Solidity dominance of TVL smart contract language is no
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right.]]></title>
+        <title type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right. https://twitter.com/econberger/status/1643309651952533505]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643384464448401408</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643384464448401408"/>
         <updated>2023-04-04T22:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right.
+        <summary type="html"><![CDATA[Labor market still tight. Not sure the bond market has this one right. https://twitter.com/econberger/status/1643309651952533505
 
 Guy Berger: 3/ Hiring is still a little elevated relative to what we'd expect given the unemployment rate, but much less than a year ago.  Hires rate is consistent with an unemployment rate ~2.8%.  A year ago, I would have said "consistent with an unemployment rate less than 1%"! https://t.co/1A7VGXvFGS]]></summary>
         <author>
@@ -372,11 +373,11 @@ Investors and traders should be "eyes wide open" regarding the immense *and* inh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains.]]></title>
+        <title type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains. https://twitter.com/zerohedge/sta...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643323550202310656</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643323550202310656"/>
         <updated>2023-04-04T18:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains.
+        <summary type="html"><![CDATA[Note how Zerohedge’s commentary fails to call out how high above pre pandemic levels the job openings data remains. https://twitter.com/zerohedge/status/1643256890669907969
 
 zerohedge: With the huge downward revision to Jan JOLTS, the 2-month drop (1.3MM) was the 2nd highest on record, only behind the covid economic collapse. This was at a time when the US was still supposedly creating 300K jobs https://t.co/PQ4O5ncDgM]]></summary>
         <author>
@@ -447,11 +448,11 @@ Before you all get too excited about rate cuts, JOLTs are very elevated historic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peak AI?]]></title>
+        <title type="html"><![CDATA[Peak AI? https://twitter.com/investroiss/status/1643228780951920641]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643251791209852928</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643251791209852928"/>
         <updated>2023-04-04T13:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Peak AI?
+        <summary type="html"><![CDATA[Peak AI? https://twitter.com/investroiss/status/1643228780951920641
 
 Mat Roiss - NVDA RocketBear🚀🐻: $NVDA now worth as much as $TSM and $AMD combined. This makes sense because AMD and TSM only have 7x the net income of NVDA with less earnings contraction. 
 Also $TSM surely irrelevant for AI.
@@ -864,7 +865,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1036,12 +1037,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1316,7 +1317,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1366,7 +1367,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
