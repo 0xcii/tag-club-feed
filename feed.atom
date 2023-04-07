@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T05:12:05.772Z</id>
+    <id>urn:2023-04-07T06:16:23.351Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T05:12:05.772Z</updated>
+    <updated>2023-04-07T06:16:23.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据韩国 KBS 报道，Terra 犯罪涉案总额为 3.14 亿美元，Do Kwon 涉案金额为 6900 万美元；Do Kwon 可能将很大一部分财产换成比特币，转移到海外交易所...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644201956326670336</id>
+        <link href="https://twitter.com/wublockchain12/status/1644201956326670336"/>
+        <updated>2023-04-07T04:54:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据韩国 KBS 报道，Terra 犯罪涉案总额为 3.14 亿美元，Do Kwon 涉案金额为 6900 万美元；Do Kwon 可能将很大一部分财产换成比特币，转移到海外交易所；检察官已要求币安阻止 Do Kwon 提取加密货币。 https://news.kbs.co.kr/news/view.do?ncd=7645579]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/lookonchain/status/1644172107906179072?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644188363556278272</id>
+        <link href="https://twitter.com/wublockchain12/status/1644188363556278272"/>
+        <updated>2023-04-07T04:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/lookonchain/status/1644172107906179072?s=20
+
+Lookonchain: On Apr 4, @elonmusk changed the Bluebird to dog, the price of $DOGE increased by ~30%.
+On Apr 7, he changed the logo back to Bluebird, the price of $DOGE decreased by ~6%.
+During this period, 2 whales among the top 5 holders reduced their holdings by ~1.4B $DOGE ($121M). https://t.co/k4whKR2s1u]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@lookonchain，今日推特图标由 DOGE coin LOGO 改回蓝鸟标志时$DOGE 价格短线下跌 6%。而在4月4日-4月7日图标更换期间，前 5 大 DOGE 持有者中的 2 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644188205045149698</id>
+        <link href="https://twitter.com/wublockchain12/status/1644188205045149698"/>
+        <updated>2023-04-07T03:59:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@lookonchain，今日推特图标由 DOGE coin LOGO 改回蓝鸟标志时$DOGE 价格短线下跌 6%。而在4月4日-4月7日图标更换期间，前 5 大 DOGE 持有者中的 2 名巨鲸共减持了约 14 亿枚 DOGE（约和 1.21 亿美元）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @primalpoly @daveg Works pretty well for china tbh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1644184755502473216</id>
@@ -13,6 +47,37 @@
         <summary type="html"><![CDATA[Re @primalpoly @daveg Works pretty well for china tbh]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Mina Protocol 发布路线图，路线图分为 5 个轨道：信任最小化、ZK-可编程性、结算层性能、递归 Rollups 和 DAO 化之路。今年Mina 将在主网上启用改进...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644182996201897986</id>
+        <link href="https://twitter.com/wublockchain12/status/1644182996201897986"/>
+        <updated>2023-04-07T03:39:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Mina Protocol 发布路线图，路线图分为 5 个轨道：信任最小化、ZK-可编程性、结算层性能、递归 Rollups 和 DAO 化之路。今年Mina 将在主网上启用改进的 zkApp 可编程性。https://minaprotocol.com/roadmap#trust-minimization]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前的产品有两个方面：一个允许集体启动无需信任的共享钱包的协议，以及一个支持购买后进一步协调和利用的平台。在规模上，Lore 是一个由各种形式和规模的社...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644181597472817153</id>
+        <link href="https://twitter.com/wublockchain12/status/1644181597472817153"/>
+        <updated>2023-04-07T03:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前的产品有两个方面：一个允许集体启动无需信任的共享钱包的协议，以及一个支持购买后进一步协调和利用的平台。在规模上，Lore 是一个由各种形式和规模的社区组成的网络，包括媒体集体、游戏公会和基于共同兴趣和长期目标的全新类型的 web3 集体。https://www.coindesk.com/business/2023/04/06/multicoin-leads-4m-strategic-round-for-web3-co-ownership-platform-lore/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines
+https://multicoin.capital/2023/04/06/multiplayer-mode/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Web3 共同所有权平台 Lore获 400 万美元战略融资，Multicoin Capital 领投，Seed Club Ventures、North Island Ventures、Balaji Srinivasan、Zeneca ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644181496130068480</id>
+        <link href="https://twitter.com/wublockchain12/status/1644181496130068480"/>
+        <updated>2023-04-07T03:33:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Web3 共同所有权平台 Lore获 400 万美元战略融资，Multicoin Capital 领投，Seed Club Ventures、North Island Ventures、Balaji Srinivasan、Zeneca 等参投。据悉，Lore 正在构建重要的共同所有权基础设施，使互联网原生社区能够无缝地汇集资源、共同购买和共同使用数字资产。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -329,27 +394,6 @@ Breaking Market News: FED'S BULLARD: RATES ARE CURRENTLY AT THE LOW END OF A S
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Avalanche C 链在 3 月 23 日、26 日两次出现停止出块事件。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643997617108684804</id>
-        <link href="https://twitter.com/wublockchain12/status/1643997617108684804"/>
-        <updated>2023-04-06T15:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Re Avalanche C 链在 3 月 23 日、26 日两次出现停止出块事件。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Avalanche 宣布推出 Evergreen Subnets 子网，这是一套专为金融服务行业的公司特定需求和行业需求而设计的机构级区块链部署、定制和工具套件。目前Ava...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643997615284195332</id>
-        <link href="https://twitter.com/wublockchain12/status/1643997615284195332"/>
-        <updated>2023-04-06T15:22:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Avalanche 宣布推出 Evergreen Subnets 子网，这是一套专为金融服务行业的公司特定需求和行业需求而设计的机构级区块链部署、定制和工具套件。目前Avalanche 已在主网和测试网上部署了多个基于 EVM 的子网，包括 Intain 、Dexalot 、Deloitte 等子网。
-https://medium.com/avalancheavax/avalanche-launches-evergreen-subnets-for-institutional-blockchain-deployments-8cb75cfcc151]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @SteveFig22 Could u imagine]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643994828001226752</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643994828001226752"/>
@@ -357,51 +401,6 @@ https://medium.com/avalancheavax/avalanche-launches-evergreen-subnets-for-instit
         <summary type="html"><![CDATA[Re @SteveFig22 Could u imagine]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 财政部正在努⼒提⾼虚拟资产领域 AML/CFT 监管框架和制裁合规计划的整体有效性，并将与私营部⻔合作，⽀持 DeFi 领域负责任的创新。报告也强调，DeFi 领域仍...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643988051084066816</id>
-        <link href="https://twitter.com/wublockchain12/status/1643988051084066816"/>
-        <updated>2023-04-06T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Re 财政部正在努⼒提⾼虚拟资产领域 AML/CFT 监管框架和制裁合规计划的整体有效性，并将与私营部⻔合作，⽀持 DeFi 领域负责任的创新。报告也强调，DeFi 领域仍然是整个虚拟资产⽣态系统的⼀⼩部分。洗钱、扩散融资和恐怖主义融资最常发⽣在使⽤法定货币或其他传统资产，⽽不是虚拟资产。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 宣布对有触及下线规则以及可能存在高风险类项目进行集中下线处理，包括 RNT、CMT、NAS、YOYO、PST、LBA、INX、YEE、MOF、DNA、FAIR、HDAO、ABT、A...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643985400531402757</id>
-        <link href="https://twitter.com/wublockchain12/status/1643985400531402757"/>
-        <updated>2023-04-06T14:33:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 宣布对有触及下线规则以及可能存在高风险类项目进行集中下线处理，包括 RNT、CMT、NAS、YOYO、PST、LBA、INX、YEE、MOF、DNA、FAIR、HDAO、ABT、ARK、KAN、WNXM 等。https://www.okx.com/cn/help-center/okx-to-delist-several-spot-trading-pairs]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re CZ 回应称，币安澳大利亚主动要求取消衍生品牌照。截至昨天，该平台只有 104 名用户。币安澳大利亚将继续在澳大利亚运营现货交易。https://twitter.com/cz_bi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643982766449758209</id>
-        <link href="https://twitter.com/wublockchain12/status/1643982766449758209"/>
-        <updated>2023-04-06T14:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Re CZ 回应称，币安澳大利亚主动要求取消衍生品牌照。截至昨天，该平台只有 104 名用户。币安澳大利亚将继续在澳大利亚运营现货交易。https://twitter.com/cz_binance/status/1643980400853921796
-
-CZ 🔶 Binance: There are some misinformation (and confusion) about #Binance Australia.
-@Binance_AUS requested to cancel the derivatives license yesterday. The platform had exactly 104 users as of yesterday.
-@Binance_AUS will CONTINUE to operate the spot exchange in AU. 🙏 https://t.co/nEExtG4U90]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 私营部门应利用本次评估的结果来制定自己的风险缓解策略，并根据 AML/CFT 法规和制裁义务采取明确措施，以防止非法行为者滥用 DeFi 服务。 https://home.trea...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643982337410236420</id>
-        <link href="https://twitter.com/wublockchain12/status/1643982337410236420"/>
-        <updated>2023-04-06T14:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 私营部门应利用本次评估的结果来制定自己的风险缓解策略，并根据 AML/CFT 法规和制裁义务采取明确措施，以防止非法行为者滥用 DeFi 服务。
-https://home.treasury.gov/news/press-releases/jy1391]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -781,11 +780,11 @@ If ur not on Nostr (@nvk) to get @woonomic's thoughts on the market, what are yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[那是他的损失😆]]></title>
+        <title type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000]]></title>
         <id>https://twitter.com/AntCaveClub/status/1640550953693876224</id>
         <link href="https://twitter.com/AntCaveClub/status/1640550953693876224"/>
         <updated>2023-03-28T03:06:41.000Z</updated>
-        <summary type="html"><![CDATA[那是他的损失😆
+        <summary type="html"><![CDATA[那是他的损失😆 https://twitter.com/bishengkegs/status/1640548011716608000
 
 crypto指南针: 擦，能不能不要这么玻璃心
 兄弟们，我还在出差
@@ -950,12 +949,12 @@ https://swap.defillama.com/arb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇]]></title>
+        <title type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 这不就来了吗？ 用你的$ARB 撸 $JOE 👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736]]></title>
         <id>https://twitter.com/AntCaveClub/status/1638569777731080192</id>
         <link href="https://twitter.com/AntCaveClub/status/1638569777731080192"/>
         <updated>2023-03-22T15:54:12.000Z</updated>
         <summary type="html"><![CDATA[撸毛的本质可能是对代币激励的捕捉和预测。 
-这不就来了吗？ 用你的$ARB 撸 $JOE  👇
+这不就来了吗？ 用你的$ARB 撸 $JOE  👇 https://twitter.com/traderjoe_xyz/status/1638261630701129736
 
 Trader Joe🔺💙🔶 | 🌊📘: Supercharge your $ARB with $JOE rewards in the following markets: 
 💙 $ARB - $ETH
@@ -1203,7 +1202,7 @@ https://eth.antcave.club/arb-arb]]></summary>
         <summary type="html"><![CDATA[再次推荐一次 DefiLlama 的 聚合Swap : https://swap.defillama.com/ 
 聚合器Dex的聚合器, 所以用着一个就够了. 
 重点是 DefiLlama 不仅仅是一个看板, 现在拥有一些好用的 DeFi功能必然Swap.  多签钱包创建、去中心化还有这个🪂 图标.... 都说的很明白了, 空投在路上. 
-现在用应该为时不晚.
+现在用应该为时不晚. https://twitter.com/DefiLlama/status/1637170543227985922
 
 DefiLlama.com: 🧵 The DeFiLlama aggregator launched in early January this year and has reached $5b in volume today!!
 Here's some data about activity on the most popular DEX aggregator out there and what's next for the aggregator and DeFiLlama. More below 👇 https://t.co/tN8bEhahX1]]></summary>
@@ -1334,11 +1333,11 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀]]></title>
+        <title type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728]]></title>
         <id>https://twitter.com/AntCaveClub/status/1637356301260054529</id>
         <link href="https://twitter.com/AntCaveClub/status/1637356301260054529"/>
         <updated>2023-03-19T07:32:17.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <summary type="html"><![CDATA[👀 https://twitter.com/Ice_Frog666666/status/1637342518047305728
 
 冰蛙: 一边嘲讽批量撸毛，安慰自己手动挡不会被女巫，一边大举组建工作室……]]></summary>
         <author>
