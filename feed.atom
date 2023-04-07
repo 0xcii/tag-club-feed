@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T03:13:16.395Z</id>
+    <id>urn:2023-04-07T04:15:33.051Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T03:13:16.395Z</updated>
+    <updated>2023-04-07T04:15:33.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @primalpoly @daveg Works pretty well for china tbh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1644184755502473216</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1644184755502473216"/>
+        <updated>2023-04-07T03:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @primalpoly @daveg Works pretty well for china tbh]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 BTC. com，比特币挖矿在区块高度 784224 处迎来了挖矿难度调整，挖矿难度在历史前高基础上小幅上调 2.23% 至 47.89 T，再创历史新高，目前全网平均...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644169579097378822</id>
+        <link href="https://twitter.com/wublockchain12/status/1644169579097378822"/>
+        <updated>2023-04-07T02:45:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 BTC. com，比特币挖矿在区块高度 784224 处迎来了挖矿难度调整，挖矿难度在历史前高基础上小幅上调 2.23% 至 47.89 T，再创历史新高，目前全网平均算力为 342.19 EH/s。https://btc.com/stats/diff]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 parsec 数据，随着最近由 Gemini 前亚太区员工成立的 OpenEden 推出了代币化国债（TBILL）敞口，链上国债市场的竞争正在升温，其主要竞争对手——...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644167587855765506</id>
+        <link href="https://twitter.com/wublockchain12/status/1644167587855765506"/>
+        <updated>2023-04-07T02:37:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 parsec 数据，随着最近由 Gemini 前亚太区员工成立的 OpenEden 推出了代币化国债（TBILL）敞口，链上国债市场的竞争正在升温，其主要竞争对手——由 Ondo Finance 推出的基于短期美债基金的 OUSG 当前规模已超过 7 千万美元，持续创下新高，提供约 4.65% APY。https://app.parsec.finance/layout/wilburforce/jwQStKtF]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @pcaversaccio 数据面板，在主要的 EVM 公链中，智能合约部署数量已超过 5 亿个，其中 BNB Chain 超过 2 亿个，Polygon 达 1.9 亿个，Ethereum 达 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644162544582660096</id>
+        <link href="https://twitter.com/wublockchain12/status/1644162544582660096"/>
+        <updated>2023-04-07T02:17:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @pcaversaccio 数据面板，在主要的 EVM 公链中，智能合约部署数量已超过 5 亿个，其中 BNB Chain 超过 2 亿个，Polygon 达 1.9 亿个，Ethereum 达 5600 万个，Fantom 达 4400 万个等。https://dune.com/pcaversaccio/smart-contract-deployment-statistics]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据了解，由于 zksync 并非 EVM 等效的，所以 transfer 函数不适用于 zkSync， 对于相关EVM 链的 fork 项目，并不可以直接上线部署，需要了解检查不兼容的地方...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644157382539501568</id>
+        <link href="https://twitter.com/wublockchain12/status/1644157382539501568"/>
+        <updated>2023-04-07T01:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 据了解，由于 zksync 并非 EVM 等效的，所以 transfer 函数不适用于 zkSync， 对于相关EVM 链的 fork 项目，并不可以直接上线部署，需要了解检查不兼容的地方。https://twitter.com/zksync/status/1644139364270878720
+
+zkSync ∎: @GemholicECO, who ran into a problem with their smart contract on zkSync Era, has reached out to us for support, which we provided.
+We'd like to give the community an update and further context on their issue in full transparency, as we always have and always will.
+🧵👇]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，zkSync 生态项目 Gemholic 的 921 枚 ETH IDO 资金由于 zkSync 对 transfer 函数的不兼容而被卡在智能合约中，不过当前项目方已经在联系 zkSync 官方...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644157227362844673</id>
+        <link href="https://twitter.com/wublockchain12/status/1644157227362844673"/>
+        <updated>2023-04-07T01:56:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，zkSync 生态项目 Gemholic 的 921 枚 ETH IDO 资金由于 zkSync 对 transfer 函数的不兼容而被卡在智能合约中，不过当前项目方已经在联系 zkSync 官方进行协调，zkSync 官方也表示会协助找回资金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BobEUnlimited Surprised it’s not falling faster tbh. That’s expensive funding]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1644153234246729729</id>
@@ -13,6 +77,41 @@
         <summary type="html"><![CDATA[Re @BobEUnlimited Surprised it’s not falling faster tbh. That’s expensive funding]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 临近上海升级，以太坊期权的交易热度一个多月以来首次超过比特币。 https://twitter.com/BTC__options/status/1644141582646657024]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644145546716930049</id>
+        <link href="https://twitter.com/wublockchain12/status/1644145546716930049"/>
+        <updated>2023-04-07T01:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 临近上海升级，以太坊期权的交易热度一个多月以来首次超过比特币。
+https://twitter.com/BTC__options/status/1644141582646657024
+
+Adam@Greeks.live: 3.7万张BTC期权即将到期，Put Call Ratio为0.51，最大痛点28000美元，名义价值10.5亿美元。 
+25.6万张ETH期权即将到期，Put Call Ratio为1.09，最大痛点1800美元，名义价值4.8亿美元。
+上海升级即将来临，以太坊期权的交易热度一个多月以来首次超过比特币。 https://t.co/MnMnoaLf67]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，3.7 万张 BTC 期权即将到期，Put Call Ratio 为 0.51，最大痛点 28000 美元，名义价值 10.5 亿美元。 25.6 万张 ETH 期权即将到期...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644145400407003137</id>
+        <link href="https://twitter.com/wublockchain12/status/1644145400407003137"/>
+        <updated>2023-04-07T01:09:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，3.7 万张 BTC 期权即将到期，Put Call Ratio 为 0.51，最大痛点 28000 美元，名义价值 10.5 亿美元。 25.6 万张 ETH 期权即将到期，Put Call Ratio 为 1.09，最大痛点 1800 美元，名义价值 4.8 亿美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCG 旗下矿池与挖矿服务公司 Foundry 将开始向用户收取其比特币矿池的费用。它自 2019 年推出矿池以来一直免费提供服务。Foundry 的“零费用”定价结构帮助推动...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1644141750007795713</id>
+        <link href="https://twitter.com/wublockchain12/status/1644141750007795713"/>
+        <updated>2023-04-07T00:55:14.000Z</updated>
+        <summary type="html"><![CDATA[DCG 旗下矿池与挖矿服务公司 Foundry 将开始向用户收取其比特币矿池的费用。它自 2019 年推出矿池以来一直免费提供服务。Foundry 的“零费用”定价结构帮助推动其成为最大的比特币矿池，网络份额约为 36%，该公司还提供加密质押服务。（彭博社）https://www.bloomberg.com/news/articles/2023-04-06/dcg-s-bitcoin-mining-firm-foundry-to-stop-offering-free-services?srnd=all&leadSource=uverify%20wall]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -116,7 +215,7 @@ Complacency]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There’s a lot of risk over coming weeks: - duration trade extended - hot jobs report - hot CPI - debt ceiling - more crypto reg action https://t.co/Q...]]></title>
+        <title type="html"><![CDATA[There’s a lot of risk over coming weeks: - duration trade extended - hot jobs report - hot CPI - debt ceiling - more crypto reg action https://twitte...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1644105936221483008</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1644105936221483008"/>
         <updated>2023-04-06T22:32:55.000Z</updated>
@@ -125,7 +224,7 @@ Complacency]]></summary>
 - hot jobs report
 - hot CPI
 - debt ceiling
-- more crypto reg action https://t.co/QwLHDp382l
+- more crypto reg action https://twitter.com/pool2paulie/status/1644084462039322624 https://t.co/QwLHDp382l
 
 
 Pool 2. Paulie: Complacency. Breath it in. https://t.co/lO2YoGKClo]]></summary>
@@ -186,11 +285,11 @@ Surfer shares his thoughts on $GLP and entertains what would happen if @Rewkang 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The market to Bullard: https://t.co/15GkmmtTot]]></title>
+        <title type="html"><![CDATA[The market to Bullard: https://twitter.com/financialjuice/status/1643992251876671490 https://t.co/15GkmmtTot]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1644065284263759900</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1644065284263759900"/>
         <updated>2023-04-06T19:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The market to Bullard: https://t.co/15GkmmtTot
+        <summary type="html"><![CDATA[The market to Bullard: https://twitter.com/financialjuice/status/1643992251876671490 https://t.co/15GkmmtTot
 
 
 Breaking Market News: FED'S BULLARD: RATES ARE CURRENTLY AT THE LOW END OF A SUFFICIENTLY RESTRICTIVE RANGE.]]></summary>
@@ -295,68 +394,6 @@ https://home.treasury.gov/news/press-releases/jy1391]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国财政部发布了 2023 年 DeFi 非法金融风险评估，这是世界上第一个针对DeFi 进行的非法金融风险评估。评估称：朝鲜、网络犯罪分子、勒索软件攻击者...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643982335724113921</id>
-        <link href="https://twitter.com/wublockchain12/status/1643982335724113921"/>
-        <updated>2023-04-06T14:21:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国财政部发布了 2023 年 DeFi 非法金融风险评估，这是世界上第一个针对DeFi 进行的非法金融风险评估。评估称：朝鲜、网络犯罪分子、勒索软件攻击者、窃贼和骗子等行为者正在使用 DeFi 服务转移和清洗他们的非法收益。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Solana 宣布其生态系统中的团队已经在使用状态压缩来支持大型、用户友好的 NFT 体验：铸造 1 亿个压缩的 NFT 在链上存储的成本只需要 1193 美金。状态...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643981161147023360</id>
-        <link href="https://twitter.com/wublockchain12/status/1643981161147023360"/>
-        <updated>2023-04-06T14:17:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Solana 宣布其生态系统中的团队已经在使用状态压缩来支持大型、用户友好的 NFT 体验：铸造 1 亿个压缩的 NFT 在链上存储的成本只需要 1193 美金。状态压缩可用于在链上存储任何类型的数据，第一个用途是压缩 NFT。https://solana.com/news/state-compression-compressed-nfts-solana]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/aLRzshDAID]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643979165228752906</id>
-        <link href="https://twitter.com/wublockchain12/status/1643979165228752906"/>
-        <updated>2023-04-06T14:09:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/aLRzshDAID]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Arthur Hayes 曾在 2 月 4 日表示，Kyle 和 Zhu Su 完成了对新交易所 GTX（应为现 OPNX ） 2500 万美金融资，GTX 的侧重点包括可交易 FTX 的债权以及填补 FTX...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643976152254652418</id>
-        <link href="https://twitter.com/wublockchain12/status/1643976152254652418"/>
-        <updated>2023-04-06T13:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Re Arthur Hayes 曾在 2 月 4 日表示，Kyle 和 Zhu Su 完成了对新交易所 GTX（应为现 OPNX ） 2500 万美金融资，GTX 的侧重点包括可交易 FTX 的债权以及填补 FTX 离开后的市场空缺。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/CryptoHayes/status/1643943518073937920?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643973625073274880</id>
-        <link href="https://twitter.com/wublockchain12/status/1643973625073274880"/>
-        <updated>2023-04-06T13:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/CryptoHayes/status/1643943518073937920?s=20
-
-Arthur Hayes: A little birdie told me @zhusu & @KyleLDavies raised big money from Bahrain SWF. They are trading via Tai Ping Shan. Be Warned. I want my fucking money.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Arthur Hayes 发文称，3AC 联合创始人 Zhu Su 和 Kyle Davies 从巴林主权财富基金筹集了大量资金，他们通过原 3AC 场外交易平台 Tai Ping Shan Capita...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643973623236165634</id>
-        <link href="https://twitter.com/wublockchain12/status/1643973623236165634"/>
-        <updated>2023-04-06T13:47:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Arthur Hayes 发文称，3AC 联合创始人 Zhu Su 和 Kyle Davies 从巴林主权财富基金筹集了大量资金，他们通过原 3AC 场外交易平台 Tai Ping Shan Capital 进行了交易。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BobEUnlimited Have u done any work on “secularly tight labor market” narrative vs excess consumer savings? My intuition is telling me once these...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643973552813801473</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643973552813801473"/>
@@ -364,30 +401,6 @@ Arthur Hayes: A little birdie told me @zhusu & @KyleLDavies raised big money f
         <summary type="html"><![CDATA[Re @BobEUnlimited Have u done any work on “secularly tight labor market” narrative vs excess consumer savings? My intuition is telling me once these excess consumer savings dries up we’ll see a lot of “secular” labor demand was in fact fleeting]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 以上时间估计都是条件性的，前提是没有退出队列、没有主要惩罚事件或其他不可预见的尾部风险场景。 https://twitter.com/LidoFinance/status/164396122483969...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643971041382006786</id>
-        <link href="https://twitter.com/wublockchain12/status/1643971041382006786"/>
-        <updated>2023-04-06T13:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Re 以上时间估计都是条件性的，前提是没有退出队列、没有主要惩罚事件或其他不可预见的尾部风险场景。
-https://twitter.com/LidoFinance/status/1643961224839692288
-
-Lido: Just how fast are Ethereum withdrawals expected to be using Lido?
-(Full research post out soon) https://t.co/WujpmATPl5]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Lido 预计持有少于 1000 个 stETH 的用户的提款请求可在一天内完成（标准的以太坊提款需要2-6天），1000 到 5000 的用户需要 2 天左右，5000 到 10000...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1643971039419052032</id>
-        <link href="https://twitter.com/wublockchain12/status/1643971039419052032"/>
-        <updated>2023-04-06T13:36:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Lido 预计持有少于 1000 个 stETH 的用户的提款请求可在一天内完成（标准的以太坊提款需要2-6天），1000 到 5000 的用户需要 2 天左右，5000 到 10000 的用户需要 4-10 天，大于 1 万的用户需要 2 周才能完成。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -411,12 +424,12 @@ Lido: Just how fast are Ethereum withdrawals expected to be using Lido?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla looks like most obvious short in the market IMO… @Zerosumgame33]]></title>
+        <title type="html"><![CDATA[Tesla looks like most obvious short in the market IMO… @Zerosumgame33 https://twitter.com/riley_gmi/status/1643955916331446274]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1643967986921885697</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1643967986921885697"/>
         <updated>2023-04-06T13:24:46.000Z</updated>
         <summary type="html"><![CDATA[Tesla looks like most obvious short in the market IMO…
-@Zerosumgame33
+@Zerosumgame33 https://twitter.com/riley_gmi/status/1643955916331446274
 
 R🃏: Great algo 
 @Pool2Paulie https://t.co/h4GaB4phkD]]></summary>
@@ -442,16 +455,6 @@ I'll use $STRP & $ZERO as examples in this case. https://t.co/iuHBP8zQGh]]></sum
         <link href="https://twitter.com/DeFiSurfer808/status/1643958418418409473"/>
         <updated>2023-04-06T12:46:44.000Z</updated>
         <summary type="html"><![CDATA[Re @0xWolff Know where I can find $2M of Gmx https://t.co/sSLFWuYew6]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChadCaff @saylor @BitcoinSapiens Lmao]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1643957093647409155</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1643957093647409155"/>
-        <updated>2023-04-06T12:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChadCaff @saylor @BitcoinSapiens Lmao]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -590,13 +593,13 @@ So, if you've followed me for awhile you know a lot of my investment thesis for 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[讲点正能量的吧 之前刷过allbridge，存了LP 555 我被黑了2000U]]></title>
+        <title type="html"><![CDATA[讲点正能量的吧 之前刷过allbridge，存了LP 555 我被黑了2000U https://twitter.com/BlockBeatsAsia/status/1642414668059938818]]></title>
         <id>https://twitter.com/8848Community/status/1642443051259035648</id>
         <link href="https://twitter.com/8848Community/status/1642443051259035648"/>
         <updated>2023-04-02T08:25:13.000Z</updated>
         <summary type="html"><![CDATA[讲点正能量的吧
 之前刷过allbridge，存了LP
-555 我被黑了2000U
+555 我被黑了2000U https://twitter.com/BlockBeatsAsia/status/1642414668059938818
 
 BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查 BNB Chain 资金池现状。在调查期间，该桥已暂时关闭。跨链桥 Allbridge 黑客攻击导致损失约 57 万美元（其中包括 282,889 BUSD 和 290,868 USDT）。根本原因似乎是资金池的 Swap 价格被篡改。 https://t.co/5tz2YcL2mB]]></summary>
         <author>
@@ -614,14 +617,14 @@ BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。 只是4月1日的愚人节玩笑，而且请注意安全 多上网，多了解下最近互联网的梗 真的真的币圈人都要多注意自身安全]]></title>
+        <title type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。 只是4月1日的愚人节玩笑，而且请注意安全 多上网，多了解下最近互联网的梗 真的真的币圈人都要多注意自身安全 https://...]]></title>
         <id>https://twitter.com/8848Community/status/1642420707153047552</id>
         <link href="https://twitter.com/8848Community/status/1642420707153047552"/>
         <updated>2023-04-02T06:56:25.000Z</updated>
         <summary type="html"><![CDATA[我看好多人私信我怎么去缅甸转机的。。。
 只是4月1日的愚人节玩笑，而且请注意安全
 多上网，多了解下最近互联网的梗
-真的真的币圈人都要多注意自身安全
+真的真的币圈人都要多注意自身安全 https://twitter.com/8848Community/status/1642116507240124418
 
 8848 社区（8848 Community）: 招专业撸空投的， 月薪3w➕空投金额20%， 工作地点新加坡顶级写字楼(包食宿，可提供精英签证)，需要从缅甸转机，有兴趣的私聊我]]></summary>
         <author>
@@ -674,11 +677,11 @@ BlockBeats｜We're hiring!: 跨链桥 Allbridge 发布公告称，正在调查
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[感谢邀请~ go frog~]]></title>
+        <title type="html"><![CDATA[感谢邀请~ go frog~ https://twitter.com/theFrogmasters/status/1641661727933894656]]></title>
         <id>https://twitter.com/8848Community/status/1641704056111632386</id>
         <link href="https://twitter.com/8848Community/status/1641704056111632386"/>
         <updated>2023-03-31T07:28:43.000Z</updated>
-        <summary type="html"><![CDATA[感谢邀请~ go frog~
+        <summary type="html"><![CDATA[感谢邀请~ go frog~ https://twitter.com/theFrogmasters/status/1641661727933894656
 
 Frog Masters: "Swift as the wind, steady as a forest, ferocious as fire, and immovable as a mountain."
 The #Froggang Parliament invites @8848Community to be the master leader of our army. Together, we are strong. https://t.co/wD5L9QXEUF]]></summary>
@@ -708,11 +711,11 @@ The #Froggang Parliament invites @8848Community to be the master leader of our a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了]]></title>
+        <title type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330]]></title>
         <id>https://twitter.com/8848Community/status/1641328944891953152</id>
         <link href="https://twitter.com/8848Community/status/1641328944891953152"/>
         <updated>2023-03-30T06:38:09.000Z</updated>
-        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了
+        <summary type="html"><![CDATA[完蛋了。我刷了100个号了，被反撸了 https://twitter.com/BlockBeatsAsia/status/1641328058929123330
 
 BlockBeats｜We're hiring!: Polygon zkEVM 主网将不会发行单独代币了。
 Polygon 在其官方文档更新 Polygon zkEVM 主网相关事项。其中指出，Polygon zkEVM 主网将不会发行单独的代币，ETH 将用于支付网络 gas 费，预计未来 MATIC 将用于 Polygon zkEVM 中的质押和治理。
@@ -873,7 +876,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources]]></summary>
+Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1045,12 +1048,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework
+You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1325,7 +1328,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both…
+Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1375,7 +1378,7 @@ IMO its far better ROI to track folks like this on-chain vs follow the airdrop i
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
 
 Balaji: I will take that bet.
 You buy 1 BTC.
