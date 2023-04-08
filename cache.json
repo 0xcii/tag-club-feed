@@ -6,9 +6,39 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1644658673220993026",
+          "author": "吴说区块链",
+          "description": "Re 另外，ABCDE Capital 目前正在着手构建开发者脚手架工具库Moss，首个工具为 Sequencer 压力测试工具，目前对应 Github 库处于私有状态，未来将开源公开。https://github.com/ABCDEcapital/parallel-go-ethereum",
+          "link": "https://twitter.com/wublockchain12/status/1644658673220993026",
+          "publishedOn": "2023-04-08T11:09:18.000Z",
+          "wordCount": 476,
+          "title": "Re 另外，ABCDE Capital 目前正在着手构建开发者脚手架工具库Moss，首个工具为 Sequencer 压力测试工具，目前对应 Github 库处于私有状态，未来将开源公开。http...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644658671673315328",
+          "author": "吴说区块链",
+          "description": "Re paraSequencer 比单线程串行 Sequencer 性能提高数百倍。不过值得注意的是，paraSequencer 目前只是一个 PoC 验证的库，主要用于验证一些设计的可行性，还不是一个可以在生产环境中使用的库，并且尚未实现支持通用交易（如合约交易）层面的并行。",
+          "link": "https://twitter.com/wublockchain12/status/1644658671673315328",
+          "publishedOn": "2023-04-08T11:09:18.000Z",
+          "wordCount": 476,
+          "title": "Re paraSequencer 比单线程串行 Sequencer 性能提高数百倍。不过值得注意的是，paraSequencer 目前只是一个 PoC 验证的库，主要用于验证一些设计的可行性，还不...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644658669962006528",
+          "author": "吴说区块链",
+          "description": "吴说获悉，ABCDE Capital 今日发布开源的并行 Sequencer 验证项目 paraSequencer，旨在通过并行处理的方式提高基于 Geth 的 Layer2、ZKRollup、ZKevm 项目 Sequencer 性能，根据其 Github 库的陈述，在目前的 POC 版本中，针对 ERC-20 转账类的交易，",
+          "link": "https://twitter.com/wublockchain12/status/1644658669962006528",
+          "publishedOn": "2023-04-08T11:09:17.000Z",
+          "wordCount": 476,
+          "title": "吴说获悉，ABCDE Capital 今日发布开源的并行 Sequencer 验证项目 paraSequencer，旨在通过并行处理的方式提高基于 Geth 的 Layer2、ZKRollup、ZKevm 项目 Seque...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1644644329506623489",
           "author": "吴说区块链",
-          "description": "吴说获悉，Facebook 与 Instagram 将在4月11日停止对 NFT 的支持；Instagram 表示将不再与第三方数字钱包保持连接或关联；将开始删除我们系统中的数字收藏品数据包括钱包地址。https://help.instagram.com/1824155514623095 https://twitter.com/wublockchain12/status/1635433575016431618\n\n吴说区块链: 吴说获悉，Meta 商业和金融技术主管 Stephane Kasriel 在推文中表示，该公司将逐步减少其 NFT 相关的工作，以专注于支持创作者、个人和企业的其他方式。此前 Meta 旗下 Instagram 宣布了一个由 Polygon 支持的 NFT 市场的计划，并允许用户在 Instagram 上展示他们购买或创建的 NFT。",
+          "description": "吴说获悉，Facebook 与 Instagram 将在4月11日停止对 NFT 的支持；Instagram 表示将不再与第三方数字钱包保持连接或关联；将开始删除我们系统中的数字收藏品数据包括钱包地址。https://help.instagram.com/1824155514623095\n\n吴说区块链: 吴说获悉，Meta 商业和金融技术主管 Stephane Kasriel 在推文中表示，该公司将逐步减少其 NFT 相关的工作，以专注于支持创作者、个人和企业的其他方式。此前 Meta 旗下 Instagram 宣布了一个由 Polygon 支持的 NFT 市场的计划，并允许用户在 Instagram 上展示他们购买或创建的 NFT。",
           "link": "https://twitter.com/wublockchain12/status/1644644329506623489",
           "publishedOn": "2023-04-08T10:12:18.000Z",
           "wordCount": 476,
@@ -173,36 +203,6 @@
           "publishedOn": "2023-04-08T01:43:49.000Z",
           "wordCount": 476,
           "title": "吴说获悉，据 @pmcgoohanCrypto 消息，MEV-boost 如今其实属于半无需许可（semi-permissioned）状态，在本周 Mev-boost-relay 发布的解决恶意验证者攻击漏洞的新...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644513910635253760",
-          "author": "吴说区块链",
-          "description": "吴说获悉，慢雾安全团队开源了 Web3 项目安全实践要求来持续性帮助区块链生态中的项目方团队掌握相应的 Web3 项目的安全技能，希望项目方团队能够基于 Web3 项目安全实践要求建立和完善属于自己的安全体系，在审计之后也能具备一定的安全能力。阅读全文：https://web3caff.com/zh/archives/57212 https://t.co/nhTdVLa6yC",
-          "link": "https://twitter.com/wublockchain12/status/1644513910635253760",
-          "publishedOn": "2023-04-08T01:34:04.000Z",
-          "wordCount": 476,
-          "title": "吴说获悉，慢雾安全团队开源了 Web3 项目安全实践要求来持续性帮助区块链生态中的项目方团队掌握相应的 Web3 项目的安全技能，希望项目方团队能够基于 Web3 项目...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644508376708128770",
-          "author": "吴说区块链",
-          "description": "吴说周精选：Cash App创始人遇刺身亡、推特使用Doge meme、孙宇晨出售火必与新闻Top10（0331–0407）\nhttps://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=13171",
-          "link": "https://twitter.com/wublockchain12/status/1644508376708128770",
-          "publishedOn": "2023-04-08T01:12:05.000Z",
-          "wordCount": 476,
-          "title": "吴说周精选：Cash App创始人遇刺身亡、推特使用Doge meme、孙宇晨出售火必与新闻Top10（0331–0407） https://www.wu-talk.com/index.php?m=content&c=index&a=s...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644488799102341120",
-          "author": "吴说区块链",
-          "description": "吴说获悉，dYdX 官方宣布将退出加拿大市场。自4月7日起，dYdX 将停止在加拿大招募新用户，其现有客户的交易也将于4月14日结束。自北京时间4月15日凌晨1点起，加拿大所有用户将转为仅平仓模式，只允许平仓和提取资金。\nhttps://dydx.exchange/blog/canada-wind-down",
-          "link": "https://twitter.com/wublockchain12/status/1644488799102341120",
-          "publishedOn": "2023-04-07T23:54:17.000Z",
-          "wordCount": 476,
-          "title": "吴说获悉，dYdX 官方宣布将退出加拿大市场。自4月7日起，dYdX 将停止在加拿大招募新用户，其现有客户的交易也将于4月14日结束。自北京时间4月15日凌晨1点起，加...",
           "imageUrl": null
         }
       ]
