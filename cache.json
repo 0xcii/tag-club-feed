@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1645093513011544064",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Fog Hashing 与神马矿机推出浸没式挖矿系统，提供从 5kW 超频到 7kW 的官方一年保修，自称可获得 30% 的算力增加。Fog Hashing CEO Paul Jin Li 表示，比特币采矿业正在进入一个由液体冷却技术，尤其是浸入式冷却驱动的新时代。\nhttps://medium.com/@FogHashing/the-future-of-crypto-mining-equipment-with-fog-hashing-immersion-cooling-innovations-unveiled-fb6c1790edfb",
+          "link": "https://twitter.com/wublockchain12/status/1645093513011544064",
+          "publishedOn": "2023-04-09T15:57:12.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，Fog Hashing 与神马矿机推出浸没式挖矿系统，提供从 5kW 超频到 7kW 的官方一年保修，自称可获得 30% 的算力增加。Fog Hashing CEO Paul Jin Li 表示...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1645071061594296320",
           "author": "吴说区块链",
           "description": "吴说每日晚报 https://t.co/wVP4BQ3KLq",
@@ -128,7 +138,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1644938181194940416",
           "author": "吴说区块链",
-          "description": "吴说获悉，Arbitrum 社区发起 AIP1.05 提案，内容包括：1、将 7 亿枚 ARB 由 Arbitrum 基金会返还给 DAO Treasury；2、使用此前出售 1000 万枚 ARB 获取的法定货币从 Wintermute 回购 $ARB；3、公开与 Wintermute 的做市协议条款；4、暂停 AIP 1.1 和 1.2。\n\n吴说区块链: 吴说获悉，Arbitrum DAO 提出新的 AIP-1.1 和 1.2，包括在 DAO 批准可接受的预算和智能合约锁定时间表之前，基金会不会移动行政预算钱包中剩余的 700M 代币；提出了对基金会支出的限制，包括智能合约强制锁定时间表；",
+          "description": "吴说获悉，Arbitrum 社区发起 AIP1.05 提案，内容包括：1、将 7 亿枚 ARB 由 Arbitrum 基金会返还给 DAO Treasury；2、使用此前出售 1000 万枚 ARB 获取的法定货币从 Wintermute 回购 $ARB；3、公开与 Wintermute 的做市协议条款；4、暂停 AIP 1.1 和 1.2。 https://twitter.com/wublockchain12/status/1643785843117813760\n\n吴说区块链: 吴说获悉，Arbitrum DAO 提出新的 AIP-1.1 和 1.2，包括在 DAO 批准可接受的预算和智能合约锁定时间表之前，基金会不会移动行政预算钱包中剩余的 700M 代币；提出了对基金会支出的限制，包括智能合约强制锁定时间表；",
           "link": "https://twitter.com/wublockchain12/status/1644938181194940416",
           "publishedOn": "2023-04-09T05:39:58.000Z",
           "wordCount": 509,
@@ -193,16 +203,6 @@
           "publishedOn": "2023-04-09T03:58:00.000Z",
           "wordCount": 509,
           "title": "吴说获悉，据派盾，SushiSwap RouterProcess2 合约出现一个与批准相关的错误，导致 0xsifu 损失超过 330 万美元（约 1900 eth）。一位白帽表示获得了 100 ETH 并...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644903201060319232",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，这可能与 XSwap 是与 LayerZero 集成的有关，其成为了潜在 LayerZero 空投交互的对象。https://flipsidecrypto.xyz/Herotat/sushi-xswap-stats--GB0-t",
-          "link": "https://twitter.com/wublockchain12/status/1644903201060319232",
-          "publishedOn": "2023-04-09T03:20:58.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，...",
           "imageUrl": null
         }
       ]
@@ -1116,7 +1116,7 @@
           "description": "Re @DoveyWan Wtf is that exercise",
           "link": "https://twitter.com/DeFiSurfer808/status/1644705965097250816",
           "publishedOn": "2023-04-08T14:17:13.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @DoveyWan Wtf is that exercise",
           "imageUrl": null
         },

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T17:10:33.369Z</id>
+    <id>urn:2023-04-09T18:14:27.344Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-09T17:10:33.369Z</updated>
+    <updated>2023-04-09T18:14:27.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Fog Hashing 与神马矿机推出浸没式挖矿系统，提供从 5kW 超频到 7kW 的官方一年保修，自称可获得 30% 的算力增加。Fog Hashing CEO Paul Jin Li 表示...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645093513011544064</id>
+        <link href="https://twitter.com/wublockchain12/status/1645093513011544064"/>
+        <updated>2023-04-09T15:57:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Fog Hashing 与神马矿机推出浸没式挖矿系统，提供从 5kW 超频到 7kW 的官方一年保修，自称可获得 30% 的算力增加。Fog Hashing CEO Paul Jin Li 表示，比特币采矿业正在进入一个由液体冷却技术，尤其是浸入式冷却驱动的新时代。
+https://medium.com/@FogHashing/the-future-of-crypto-mining-equipment-with-fog-hashing-immersion-cooling-innovations-unveiled-fb6c1790edfb]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT 185th.eth: Happy Easter https://t.co/WjcC9vV7Qo]]></title>
         <id>https://twitter.com/CryptoPlainview/status/1645076285566205954</id>
@@ -228,7 +239,7 @@ https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x3ae4c725f7cb82d450b6fe8
         <id>https://twitter.com/wublockchain12/status/1644938181194940416</id>
         <link href="https://twitter.com/wublockchain12/status/1644938181194940416"/>
         <updated>2023-04-09T05:39:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Arbitrum 社区发起 AIP1.05 提案，内容包括：1、将 7 亿枚 ARB 由 Arbitrum 基金会返还给 DAO Treasury；2、使用此前出售 1000 万枚 ARB 获取的法定货币从 Wintermute 回购 $ARB；3、公开与 Wintermute 的做市协议条款；4、暂停 AIP 1.1 和 1.2。
+        <summary type="html"><![CDATA[吴说获悉，Arbitrum 社区发起 AIP1.05 提案，内容包括：1、将 7 亿枚 ARB 由 Arbitrum 基金会返还给 DAO Treasury；2、使用此前出售 1000 万枚 ARB 获取的法定货币从 Wintermute 回购 $ARB；3、公开与 Wintermute 的做市协议条款；4、暂停 AIP 1.1 和 1.2。 https://twitter.com/wublockchain12/status/1643785843117813760
 
 吴说区块链: 吴说获悉，Arbitrum DAO 提出新的 AIP-1.1 和 1.2，包括在 DAO 批准可接受的预算和智能合约锁定时间表之前，基金会不会移动行政预算钱包中剩余的 700M 代币；提出了对基金会支出的限制，包括智能合约强制锁定时间表；]]></summary>
         <author>
@@ -333,16 +344,6 @@ One example hack tx: https://etherscan.io/tx/0xea3480f1f1d1f0b32283f8f282ce16403
         <link href="https://twitter.com/wublockchain12/status/1644912522334724097"/>
         <updated>2023-04-09T03:58:00.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据派盾，SushiSwap RouterProcess2 合约出现一个与批准相关的错误，导致 0xsifu 损失超过 330 万美元（约 1900 eth）。一位白帽表示获得了 100 ETH 并要归还，但是还有其他的 MEV 机器人部署了合约复制了攻击（在他救出所有资金之前）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1644903201060319232</id>
-        <link href="https://twitter.com/wublockchain12/status/1644903201060319232"/>
-        <updated>2023-04-09T03:20:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，这可能与 XSwap 是与 LayerZero 集成的有关，其成为了潜在 LayerZero 空投交互的对象。https://flipsidecrypto.xyz/Herotat/sushi-xswap-stats--GB0-t]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
