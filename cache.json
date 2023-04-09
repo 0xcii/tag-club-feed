@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1644912661891801088",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/peckshield/status/1644903151697563648\n\nPeckShield Inc.: It seems the @SushiSwap  RouterProcess2 contact has a approve-related bug, which leads to the loss of  >$3.3M loss (about 1900 eth)  from @0xSifu. \nIf you have approved https://etherscan.io/address/0x044b75f554b886a065b9567891e45c79542d7357#code, please *REVOKE* ASAP!\nOne example hack tx: https://etherscan.io/tx/0xea3480f1f1d1f0b32283f8f282ce16403fe22ede35c0b71a732193e56c5c45e8 https://twitter.com/i/web/status/1644903151697563648 https://t.co/2UwC75NybD",
+          "link": "https://twitter.com/wublockchain12/status/1644912661891801088",
+          "publishedOn": "2023-04-09T03:58:34.000Z",
+          "wordCount": 509,
+          "title": "Re https://twitter.com/peckshield/status/1644903151697563648",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644912522334724097",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据派盾，SushiSwap RouterProcess2 合约出现一个与批准相关的错误，导致 0xsifu 损失超过 330 万美元（约 1900 eth）。一位白帽表示获得了 100 ETH 并要归还，但是还有其他的 MEV 机器人部署了合约复制了攻击（在他救出所有资金之前）。",
+          "link": "https://twitter.com/wublockchain12/status/1644912522334724097",
+          "publishedOn": "2023-04-09T03:58:00.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据派盾，SushiSwap RouterProcess2 合约出现一个与批准相关的错误，导致 0xsifu 损失超过 330 万美元（约 1900 eth）。一位白帽表示获得了 100 ETH 并...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644903201060319232",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，这可能与 XSwap 是与 LayerZero 集成的有关，其成为了潜在 LayerZero 空投交互的对象。https://flipsidecrypto.xyz/Herotat/sushi-xswap-stats--GB0-t",
+          "link": "https://twitter.com/wublockchain12/status/1644903201060319232",
+          "publishedOn": "2023-04-09T03:20:58.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据 Flipside 数据，过去一周 Sushi XSwap 跨链交易量超过 630 万美元，大幅创下历史新高，其中 Arbitrum、Optimism 和 Polygon 等低 Gas 链最受欢迎，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644897217558491136",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/BTC__options/status/1644884462277398529\n\nAdam@Greeks.live: 尽管上海升级即将来临，但以太坊期权隐含波动率IV反而出现了大幅下跌📉，两天下跌幅度高达8%。\nIV下跌的主要原因是复活节假期造成市场流动性下降，但在目前的波动水平下，月度IV跌至与比特币同一水平是不正常的，大量的用户正在加仓做空未来的波动水平。\n#BTC #期权 #ETH https://t.co/6ahLbB88nL",
+          "link": "https://twitter.com/wublockchain12/status/1644897217558491136",
+          "publishedOn": "2023-04-09T02:57:12.000Z",
+          "wordCount": 509,
+          "title": "Re https://twitter.com/BTC__options/status/1644884462277398529",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1644897082648719361",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Greekslive，尽管上海升级即将来临，但以太坊期权隐含波动率IV反而出现了大幅下跌，两天下跌幅度高达8%。IV下跌的主要原因是复活节假期造成市场流动性下降，大量的用户正在加仓做空未来的波动水平。",
+          "link": "https://twitter.com/wublockchain12/status/1644897082648719361",
+          "publishedOn": "2023-04-09T02:56:39.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据 Greekslive，尽管上海升级即将来临，但以太坊期权隐含波动率IV反而出现了大幅下跌，两天下跌幅度高达8%。IV下跌的主要原因是复活节假期造成市场流...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1644877308715757568",
           "author": "吴说区块链",
           "description": "Re 最大的未解之谜之一是，该区块从未在区块链上得到确认 。创建一个块时，它包含大约 100 个字节的数据，矿工还可以加入他们自定义的文本。矿工可以添加他们选择的任何信息来个性化区块，永久发送不可更改的消息。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=13189",
@@ -153,56 +203,6 @@
           "publishedOn": "2023-04-08T12:38:59.000Z",
           "wordCount": 509,
           "title": "吴说获悉，据英国卫报，大量福布斯“30 Under 30”榜单中人选面临入狱可能，包括近期 Frank 公司创始人查理·贾维斯；2021年 SBF 上榜；Alameda Research CEO Ca...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644658673220993026",
-          "author": "吴说区块链",
-          "description": "Re 另外，ABCDE Capital 目前正在着手构建开发者脚手架工具库Moss，首个工具为 Sequencer 压力测试工具，目前对应 Github 库处于私有状态，未来将开源公开。https://github.com/ABCDEcapital/parallel-go-ethereum",
-          "link": "https://twitter.com/wublockchain12/status/1644658673220993026",
-          "publishedOn": "2023-04-08T11:09:18.000Z",
-          "wordCount": 509,
-          "title": "Re 另外，ABCDE Capital 目前正在着手构建开发者脚手架工具库Moss，首个工具为 Sequencer 压力测试工具，目前对应 Github 库处于私有状态，未来将开源公开。http...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644658671673315328",
-          "author": "吴说区块链",
-          "description": "Re paraSequencer 比单线程串行 Sequencer 性能提高数百倍。不过值得注意的是，paraSequencer 目前只是一个 PoC 验证的库，主要用于验证一些设计的可行性，还不是一个可以在生产环境中使用的库，并且尚未实现支持通用交易（如合约交易）层面的并行。",
-          "link": "https://twitter.com/wublockchain12/status/1644658671673315328",
-          "publishedOn": "2023-04-08T11:09:18.000Z",
-          "wordCount": 509,
-          "title": "Re paraSequencer 比单线程串行 Sequencer 性能提高数百倍。不过值得注意的是，paraSequencer 目前只是一个 PoC 验证的库，主要用于验证一些设计的可行性，还不...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644658669962006528",
-          "author": "吴说区块链",
-          "description": "吴说获悉，ABCDE Capital 今日发布开源的并行 Sequencer 验证项目 paraSequencer，旨在通过并行处理的方式提高基于 Geth 的 Layer2、ZKRollup、ZKevm 项目 Sequencer 性能，根据其 Github 库的陈述，在目前的 POC 版本中，针对 ERC-20 转账类的交易，",
-          "link": "https://twitter.com/wublockchain12/status/1644658669962006528",
-          "publishedOn": "2023-04-08T11:09:17.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，ABCDE Capital 今日发布开源的并行 Sequencer 验证项目 paraSequencer，旨在通过并行处理的方式提高基于 Geth 的 Layer2、ZKRollup、ZKevm 项目 Seque...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644644329506623489",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Facebook 与 Instagram 将在4月11日停止对 NFT 的支持；Instagram 表示将不再与第三方数字钱包保持连接或关联；将开始删除我们系统中的数字收藏品数据包括钱包地址。https://help.instagram.com/1824155514623095 https://twitter.com/wublockchain12/status/1635433575016431618\n\n吴说区块链: 吴说获悉，Meta 商业和金融技术主管 Stephane Kasriel 在推文中表示，该公司将逐步减少其 NFT 相关的工作，以专注于支持创作者、个人和企业的其他方式。此前 Meta 旗下 Instagram 宣布了一个由 Polygon 支持的 NFT 市场的计划，并允许用户在 Instagram 上展示他们购买或创建的 NFT。",
-          "link": "https://twitter.com/wublockchain12/status/1644644329506623489",
-          "publishedOn": "2023-04-08T10:12:18.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，Facebook 与 Instagram 将在4月11日停止对 NFT 的支持；Instagram 表示将不再与第三方数字钱包保持连接或关联；将开始删除我们系统中的数字收藏品数据...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1644574832548528128",
-          "author": "吴说区块链",
-          "description": "Re https://twitter.com/glassnode/status/1644517577090273281?s=20\n\nglassnode: For the first time, the amount of Open Interest in #Bitcoin Options contracts ($10.3B) has surpassed that held in Futures contracts ($10.0B).\nFutures OI has been relatively flat in 2023.\nThis results from significant call option buys, as investors start to speculate on higher… https://twitter.com/i/web/status/1644517577090273281 https://t.co/JtKM0uQwZP",
-          "link": "https://twitter.com/wublockchain12/status/1644574832548528128",
-          "publishedOn": "2023-04-08T05:36:09.000Z",
-          "wordCount": 509,
-          "title": "Re https://twitter.com/glassnode/status/1644517577090273281?s=20",
           "imageUrl": null
         }
       ]
