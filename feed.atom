@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T11:10:33.855Z</id>
+    <id>urn:2023-04-10T12:24:14.060Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T11:10:33.855Z</updated>
+    <updated>2023-04-10T12:24:14.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Goerli 测试网需求的增长，可能与 Base、Scroll 等的测试交互有关，其中在 4 月 9 日通过 L1 Goerli Bridge 到 Base 的交易笔数达到了 9.1 万笔，跨链地址数...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645395004247150592</id>
+        <link href="https://twitter.com/wublockchain12/status/1645395004247150592"/>
+        <updated>2023-04-10T11:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Re Goerli 测试网需求的增长，可能与 Base、Scroll 等的测试交互有关，其中在 4 月 9 日通过 L1 Goerli Bridge 到 Base 的交易笔数达到了 9.1 万笔，跨链地址数达到了 8.5 万个，均创下历史新高，背后可能还有来自 Layer3 Quests 的推动。https://dune.com/niftytable/goerli-developer-activity  https://dune.com/msilb7/op-stack-goerli-base-goerli-and-op-goerli-deposits]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @0xKofi 和 @msilb7 数据面板，近期以太坊 Goerli 测试网 Gas 中位数持续处于高位，一度超过 200gwei。一笔交互花费的 Gas 便可能相当于每日可以从...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645394954028748803</id>
+        <link href="https://twitter.com/wublockchain12/status/1645394954028748803"/>
+        <updated>2023-04-10T11:55:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @0xKofi 和 @msilb7 数据面板，近期以太坊 Goerli 测试网 Gas 中位数持续处于高位，一度超过 200gwei。一笔交互花费的 Gas 便可能相当于每日可以从水龙头中领取到的数量（0.02GETH）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4. 代币经济学需要适配 Web3 商业应用；5. ChatGPT：奇点已经出现，GPT4达到100万亿参数接近人脑，区块链是AGI 的分布式账本。阅读全文：https://mp.weixin.q...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645393422717689856</id>
+        <link href="https://twitter.com/wublockchain12/status/1645393422717689856"/>
+        <updated>2023-04-10T11:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 4. 代币经济学需要适配 Web3 商业应用；5. ChatGPT：奇点已经出现，GPT4达到100万亿参数接近人脑，区块链是AGI 的分布式账本。阅读全文：https://mp.weixin.qq.com/s/2DnPMRtJNDg_dubNMTNzGw]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，万向区块链董事长肖风今日在香港分享五大 Web3 行业趋势，分别是: 1. 行业合规化，以美国监管机构为首采取严厉的监管措施；2. 比特币二层协议，驱动比...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645393375833767936</id>
+        <link href="https://twitter.com/wublockchain12/status/1645393375833767936"/>
+        <updated>2023-04-10T11:48:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，万向区块链董事长肖风今日在香港分享五大 Web3 行业趋势，分别是: 1. 行业合规化，以美国监管机构为首采取严厉的监管措施；2. 比特币二层协议，驱动比特币网络和应用进一步扩张；3. 香港开放的政策，代表亚洲重新回到虚拟资产市场的中心，稳定币立法正在进展中；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，FTX 的安全问题极其严重，助记词与私钥存储到各种热钱包中，这些热钱包包含价值数亿美元的加密货币，并且在 FTX Group 服务器上没有加密。（CoinDesk）...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645376438403756032</id>
+        <link href="https://twitter.com/wublockchain12/status/1645376438403756032"/>
+        <updated>2023-04-10T10:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，FTX 的安全问题极其严重，助记词与私钥存储到各种热钱包中，这些热钱包包含价值数亿美元的加密货币，并且在 FTX Group 服务器上没有加密。（CoinDesk）https://www.coindesk.com/business/2023/04/09/former-ftx-us-president-reportedly-quit-after-protracted-disagreement-with-bankman-fried/?utm_source=twitter&utm_content=editorial&utm_medium=social&utm_term=organic&utm_campaign=coindesk_main]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 债权人发布的最新报告披露了其混乱的财务状况，SBF 告诉员工 Alameda 无法审计，“我们只能大致了解其余额，更不用说全面的交易历史”，“我们有时会发现周...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645376366354010114</id>
+        <link href="https://twitter.com/wublockchain12/status/1645376366354010114"/>
+        <updated>2023-04-10T10:41:10.000Z</updated>
+        <summary type="html"><![CDATA[FTX 债权人发布的最新报告披露了其混乱的财务状况，SBF 告诉员工 Alameda 无法审计，“我们只能大致了解其余额，更不用说全面的交易历史”，“我们有时会发现周围有 5000 万美元的资产，但我们已经忘记了；这就是人生”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿肯色州提出新法案，在阿肯色州将禁止对加密采矿企业的歧视，确保比特币矿工将拥有与数据中心相同的权利，并保障在家中从事加密货币挖矿的个人。该法案已获得众...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645373075821821953</id>
+        <link href="https://twitter.com/wublockchain12/status/1645373075821821953"/>
+        <updated>2023-04-10T10:28:05.000Z</updated>
+        <summary type="html"><![CDATA[阿肯色州提出新法案，在阿肯色州将禁止对加密采矿企业的歧视，确保比特币矿工将拥有与数据中心相同的权利，并保障在家中从事加密货币挖矿的个人。该法案已获得众议院和参议院的批准，目前正在等待州长 Sarah Huckabee Sanders 的签署。（decrypt）https://decrypt.co/125811/bitcoin-miners-will-have-same-rights-data-centers-says-new-arkansas-bill]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @_Terraport_表示因为在 Terraport Liquidity 钱包中的漏洞。 https://thecryptobasic.com/2023/04/10/terraport-allegedly-hacked-nearly-15-billion-lunc-d...]]></title>
         <id>https://twitter.com/wublockchain12/status/1645347700152602624</id>
@@ -146,79 +216,6 @@ https://www.coingecko.com/learn/zksync-ecosystem?utm_source=twitter&utm_medium=s
         <summary type="html"><![CDATA[Re 验证节点 P2P Validator 表示，MEV 奖励已进入了 Lido Rewards Vault，将与 Lido 和 Sushi 沟通探索解决方案。此前 3 月 20 日 Lido 在 Epoch 188,720 也捕获了 691.96 ETH 的 MEV 奖励。https://beaconcha.in/block/17007842  https://twitter.com/P2Pvalidator/status/1645162865698000898?s=20
 
 P2P Validator: UPD: These MEV rewards are associated with the recent Sushi exploit. Like any Lido validator, P2P did not receive or manage the rewards, as they went to the Lido rewards vault. We are talking to Lido and Sushi teams to investigate the issue and explore potential solutions. https://twitter.com/P2Pvalidator/status/1645079096253112322]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 http://beaconcha.in 数据，在北京时间 4 月 9 日 10：35，以太坊质押协议 Lido 在 Epoch 193,186 捕获了 689.02 ETH 的 MEV 奖励，这些 MEV 奖励...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645260951317540867</id>
-        <link href="https://twitter.com/wublockchain12/status/1645260951317540867"/>
-        <updated>2023-04-10T03:02:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 http://beaconcha.in 数据，在北京时间 4 月 9 日 10：35，以太坊质押协议 Lido 在 Epoch 193,186 捕获了 689.02 ETH 的 MEV 奖励，这些 MEV 奖励可能与最近的 Sushi 漏洞有关。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/EmanAbio/status/1645183702224506881]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645260897051631616</id>
-        <link href="https://twitter.com/wublockchain12/status/1645260897051631616"/>
-        <updated>2023-04-10T03:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/EmanAbio/status/1645183702224506881
-
-Adeniyi Abiodun #SUI 🌊: @rektfencer @SuiNetwork Stop spreading nonsense. There is NO Sui Airdrop. Not planned or ever will be.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Mysten Labs 创始人 Adeniyi Abiodun 在推文中重申： SUI 没有空投计划，或者永远不会。此前 Sui 基金会多次表示没有 SUI 空投的官方计划，社区成员可...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645260766222622724</id>
-        <link href="https://twitter.com/wublockchain12/status/1645260766222622724"/>
-        <updated>2023-04-10T03:01:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Mysten Labs 创始人 Adeniyi Abiodun 在推文中重申： SUI 没有空投计划，或者永远不会。此前 Sui 基金会多次表示没有  SUI 空投的官方计划，社区成员可通过社区访问计划获得 SUI，包括帮助节点运营商和开发人员调试问题、推动 Sui 的采用等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 阅读全文： https://mp.weixin.qq.com/s/51t0oWqqJaeJNXEKxYL0-w]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645257309617262592</id>
-        <link href="https://twitter.com/wublockchain12/status/1645257309617262592"/>
-        <updated>2023-04-10T02:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文：
-https://mp.weixin.qq.com/s/51t0oWqqJaeJNXEKxYL0-w]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ChainLinkGod.eth 认为 AIP 1 给社区带来的困惑在发布透明度报告以及 AIP 1.1/AIP 1.2 提案后得到了解决。目前在十个持有百万 ARB 投票权的大户/社区中，有 7...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645253601969987585</id>
-        <link href="https://twitter.com/wublockchain12/status/1645253601969987585"/>
-        <updated>2023-04-10T02:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Re ChainLinkGod.eth 认为 AIP 1 给社区带来的困惑在发布透明度报告以及 AIP 1.1/AIP 1.2 提案后得到了解决。目前在十个持有百万 ARB 投票权的大户/社区中，有 7 个投了反对票，当前该提案支持率下降至 51.55%，反对率上升至 46.22%。https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x3ae4c725f7cb82d450b6fe8517178b2a0a51d1105beaad0adb421df1bc8f8cc4 https://forum.arbitrum.foundation/t/proposal-return-700m-arb-to-the-dao-treasury/13490/15]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Chainlink 社区大使 ChainLinkGod.eth 在昨日对 AIP 1.05 提案中投了 480 万 ARB 的反对票，并发贴表示 AIP 1.05 更像是为了改善形象的公关操作，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645253457128079361</id>
-        <link href="https://twitter.com/wublockchain12/status/1645253457128079361"/>
-        <updated>2023-04-10T02:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Chainlink 社区大使 ChainLinkGod.eth 在昨日对 AIP 1.05 提案中投了 480 万 ARB 的反对票，并发贴表示 AIP 1.05 更像是为了改善形象的公关操作，弊大于利，并给 DAO 和基金会带来风险。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说本周宏观指标与分析：上周美国制造业就业市场表现疲弱（ISM & ADP 低于预期），但失业率表现良好，喜忧参半。本周将迎来多个关键指标数据，如美国3月未季调C...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645250799768064000</id>
-        <link href="https://twitter.com/wublockchain12/status/1645250799768064000"/>
-        <updated>2023-04-10T02:22:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周美国制造业就业市场表现疲弱（ISM & ADP 低于预期），但失业率表现良好，喜忧参半。本周将迎来多个关键指标数据，如美国3月未季调CPI、美国3月PPI 以及美联储会议纪要等，在市场衰退预期再起的背景下，通胀能否有效下降将至关重要。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=13212]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
