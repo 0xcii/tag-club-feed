@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T10:13:23.651Z</id>
+    <id>urn:2023-04-10T11:10:33.855Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T10:13:23.651Z</updated>
+    <updated>2023-04-10T11:10:33.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @_Terraport_表示因为在 Terraport Liquidity 钱包中的漏洞。 https://thecryptobasic.com/2023/04/10/terraport-allegedly-hacked-nearly-15-billion-lunc-d...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645347700152602624</id>
+        <link href="https://twitter.com/wublockchain12/status/1645347700152602624"/>
+        <updated>2023-04-10T08:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @_Terraport_表示因为在 Terraport Liquidity 钱包中的漏洞。 https://thecryptobasic.com/2023/04/10/terraport-allegedly-hacked-nearly-15-billion-lunc-drained/
+https://twitter.com/_Terraport_/status/1645330062378508289
+
+Terraport Finance: Announcement:
+A breach was detected in the Terraport Liquidity wallet this morning. The Terraport team is currently investigating this breach and efforts have been made to secure the protocol. Further official press release will be released later. We appreciate the understanding… https://twitter.com/i/web/status/1645330062378508289]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据The Crypto Basic报道，TerraCVita 开发的 DeFi 项目 Terraport 遭到黑客攻击，其所有流动性都被耗尽，价值近 400 万美元的 Terra Classic (LUNC)、...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645347623027773441</id>
+        <link href="https://twitter.com/wublockchain12/status/1645347623027773441"/>
+        <updated>2023-04-10T08:46:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据The Crypto Basic报道，TerraCVita 开发的 DeFi 项目 Terraport 遭到黑客攻击，其所有流动性都被耗尽，价值近 400 万美元的 Terra Classic (LUNC)、TerraClassicUSD (USTC) 和 TERRA 已被清空。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 苹果公司承认了这些漏洞的主动利用，IOSurfaceAccelerator 漏洞已通过改进输入验证得到修复，而 WebKit 漏洞已通过改进内存管理得到解决。用户需尽快将设备更...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645340459278172160</id>
+        <link href="https://twitter.com/wublockchain12/status/1645340459278172160"/>
+        <updated>2023-04-10T08:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 苹果公司承认了这些漏洞的主动利用，IOSurfaceAccelerator 漏洞已通过改进输入验证得到修复，而 WebKit 漏洞已通过改进内存管理得到解决。用户需尽快将设备更新到 iOS 16.4.1 和 iPadOS 16.4.1，以保护设备的安全。https://support.apple.com/en-us/HT213720]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，苹果公司近日发布 iOS 16.4.1 和 iPadOS 16.4.1 的重要安全更新，旨在解决两个已被利用的关键性零日漏洞（CVE-2023-28205 和 CVE-2023-28206）。该漏...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645340410221580289</id>
+        <link href="https://twitter.com/wublockchain12/status/1645340410221580289"/>
+        <updated>2023-04-10T08:18:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，苹果公司近日发布 iOS 16.4.1 和 iPadOS 16.4.1 的重要安全更新，旨在解决两个已被利用的关键性零日漏洞（CVE-2023-28205 和 CVE-2023-28206）。该漏洞影响 IOSurfaceAccelerator 和 WebKit，可以在 iPhone 和 iPad 上进行任意代码执行。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re CZ 发推称，币安期货UM系统现已恢复正常，此前出现的问题由服务器问题导致，目前团队已将受影响的服务器迁移。https://twitter.com/cz_binance/status/164533...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645332570266279939</id>
+        <link href="https://twitter.com/wublockchain12/status/1645332570266279939"/>
+        <updated>2023-04-10T07:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Re CZ 发推称，币安期货UM系统现已恢复正常，此前出现的问题由服务器问题导致，目前团队已将受影响的服务器迁移。https://twitter.com/cz_binance/status/1645330769768792064?s=20
+
+CZ 🔶 Binance: Systems should all be back to normal now. Some server issues before. Our team migrated off the affected servers. Thank you for your support! 🙏 https://twitter.com/cz_binance/status/1645312557069094912]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，CZ 发推称，币安期货U本位合约 Rest 服务/API 的一些问题，影响到了 UI 和 API，其中币本位合约合约不受影响，只有U本位合约受影响。团队正在修复，相...]]></title>
         <id>https://twitter.com/wublockchain12/status/1645316061632552960</id>
@@ -168,16 +224,6 @@ https://mp.weixin.qq.com/s/51t0oWqqJaeJNXEKxYL0-w]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，针对竞争对手 OpenSea Pro 发布的 NFT 系列 Gemesis，Blur 已禁止用户对其的 bid 和挂单获得空投积分，但仍允许用户使用该功能。目前 Gemesis 地板价...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645243052041314305</id>
-        <link href="https://twitter.com/wublockchain12/status/1645243052041314305"/>
-        <updated>2023-04-10T01:51:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，针对竞争对手 OpenSea Pro 发布的 NFT 系列 Gemesis，Blur 已禁止用户对其的 bid 和挂单获得空投积分，但仍允许用户使用该功能。目前 Gemesis 地板价为 0.048 ETH，近 7 天交易量超过 4,400 ETH，在 0.04 ETH 处仍有超过 1.9 万个、价值超过 780 ETH 的 bid wall。https://blur.io/collection/gemesis]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Brentsketit @ExaltedFoks Did u and Nani break up]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1645236032869105665</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1645236032869105665"/>
@@ -185,47 +231,6 @@ https://mp.weixin.qq.com/s/51t0oWqqJaeJNXEKxYL0-w]]></summary>
         <summary type="html"><![CDATA[Re @Brentsketit @ExaltedFoks Did u and Nani break up]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 这次升级代表了以太坊的一个重要的流动性事件，对每个质押、ETH 的流动性供应、以太坊质押行业的竞争力、以及以太坊质押领域的商业模式和技术创新的步伐都有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645235176103084033</id>
-        <link href="https://twitter.com/wublockchain12/status/1645235176103084033"/>
-        <updated>2023-04-10T01:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Re 这次升级代表了以太坊的一个重要的流动性事件，对每个质押、ETH 的流动性供应、以太坊质押行业的竞争力、以及以太坊质押领域的商业模式和技术创新的步伐都有影响。阅读全文: https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=38&id=13206]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys 报告：关于上海升级与ETH质押提款的“终极指南”。上海/卡佩拉升级将提供提款服务。换句话说，它将使「锁定」在共识层的验证器余额中的 ETH 能够被提...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645235093064286208</id>
-        <link href="https://twitter.com/wublockchain12/status/1645235093064286208"/>
-        <updated>2023-04-10T01:19:47.000Z</updated>
-        <summary type="html"><![CDATA[ConsenSys 报告：关于上海升级与ETH质押提款的“终极指南”。上海/卡佩拉升级将提供提款服务。换句话说，它将使「锁定」在共识层的验证器余额中的 ETH 能够被提取，并记入以太坊执行账户。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每周矿业资讯 0403-0409 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=13207]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645233742540308480</id>
-        <link href="https://twitter.com/wublockchain12/status/1645233742540308480"/>
-        <updated>2023-04-10T01:14:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说每周矿业资讯 0403-0409
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=13207]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Web3 NFT 游戏平台 Gameta 宣布完成500万美元种子轮融资， Binance Labs、Huobi Ventures、Arcane Capital、Ceras Ventures、StartVC等参投。据悉，Ga...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645233377338085376</id>
-        <link href="https://twitter.com/wublockchain12/status/1645233377338085376"/>
-        <updated>2023-04-10T01:12:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Web3 NFT 游戏平台 Gameta 宣布完成500万美元种子轮融资， Binance Labs、Huobi Ventures、Arcane Capital、Ceras Ventures、StartVC等参投。据悉，Gameta 目前是 BNB 链上最活跃的dApp之一，建立了用户可进行游戏、社交以及 Web3 资产互动的 Hippo Club NFT 系统。https://medium.com/@Gameta_Official/gameta-completes-5-million-usd-seed-round-investment-with-binance-labs-and-10-others-5fcb8c6dc528]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -438,11 +443,11 @@ https://revoke.cash/zh]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruh roh https://twitter.com/degencryptoinfo/status/1644776982981271557]]></title>
+        <title type="html"><![CDATA[Ruh roh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1644781681818173442</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1644781681818173442"/>
         <updated>2023-04-08T19:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Ruh roh https://twitter.com/degencryptoinfo/status/1644776982981271557
+        <summary type="html"><![CDATA[Ruh roh
 
 Degen Crypto Info 🎭: @0xSisyphus https://etherscan.io/address/0x28c6c06298d514db089934071355e5743bf21d60
 46m busd]]></summary>
