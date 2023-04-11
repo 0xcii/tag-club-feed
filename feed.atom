@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T08:16:55.497Z</id>
+    <id>urn:2023-04-11T09:13:02.057Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T08:16:55.497Z</updated>
+    <updated>2023-04-11T09:13:02.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/solendprotocol/status/1645681226601361410]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645693005930827776</id>
+        <link href="https://twitter.com/wublockchain12/status/1645693005930827776"/>
+        <updated>2023-04-11T07:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/solendprotocol/status/1645681226601361410
+
+Solend 2️⃣: Phase 1 of Solend V2 is here!
+The Solend smart contracts have been updated with three new features: borrow weights, TWAP oracles, and outflow rate limits.
+New parameters (LTVs and borrow weights) will take effect on 4/17. Be sure to update open positions to avoid disruption. https://t.co/IkThlQv7ma]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Solana 借贷协议 Solend 发布 V2 的第 1 阶段，更新了三个功能：借款权重、TWAP 预言机和资金流出率限制。借款权重将于 4 月 17 日生效，Solend 提醒...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645693004508975104</id>
+        <link href="https://twitter.com/wublockchain12/status/1645693004508975104"/>
+        <updated>2023-04-11T07:39:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Solana 借贷协议 Solend 发布 V2 的第 1 阶段，更新了三个功能：借款权重、TWAP 预言机和资金流出率限制。借款权重将于 4 月 17 日生效，Solend 提醒用户更新未平仓头寸。此前 Solend 于 3 月 6 日发布 V2 白皮书，旨在降低风险并改善去中心化。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re QLC 是 BNB 链生态项目 Kepple（前身为 QLC Chain）的原生 Token，公告发布后币价下跌超 75%。NEBL 是 Neblio 链的原生 Token，AUTO 是 DeFi 项目 AutoSwap ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645690851144896512</id>
+        <link href="https://twitter.com/wublockchain12/status/1645690851144896512"/>
+        <updated>2023-04-11T07:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Re QLC 是 BNB 链生态项目 Kepple（前身为 QLC Chain）的原生 Token，公告发布后币价下跌超 75%。NEBL 是 Neblio 链的原生 Token，AUTO 是 DeFi 项目 AutoSwap 的原生 Token。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/usdtblacklist/status/1645486844623089664]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645688132367712256</id>
+        <link href="https://twitter.com/wublockchain12/status/1645688132367712256"/>
+        <updated>2023-04-11T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/usdtblacklist/status/1645486844623089664
+
+usdt blacklist: [2023/04/10 17:49] USDT blacklisted 0x3c98d617db017f51c6a73a13e80e1fe14cd1d8eb in block 17019365 https://etherscan.io/tx/0xb4558ac451506502f32f54d144a07027c0bb6c3f7bc60e6edc6115c4781e8153]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @usdtblacklist，Tether 将与此前攻击 MEV 事件相关地址（0x3c9...d8eb）列入黑名单，该地址持有 300 万枚 USDT。此前有恶意以太坊验证者对部分 ME...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645688130828386304</id>
+        <link href="https://twitter.com/wublockchain12/status/1645688130828386304"/>
+        <updated>2023-04-11T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @usdtblacklist，Tether 将与此前攻击 MEV 事件相关地址（0x3c9...d8eb）列入黑名单，该地址持有 300 万枚 USDT。此前有恶意以太坊验证者对部分 MEV Bots 的交易在区块内进行夹击，MEV Bots 损失约 2500 万美元，资金分别存放在 0x3c98、0x5b04 和 0x27bf 开头的地址中。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安宣布将于 4 月 18 日 11:00 下架 QLC、NEBL、AUTO，移除 QLC/BTC, NEBL/USDT, NEBL/BUSD, NEBL/BTC, AUTO/USDT, AUTO/BUSD, AUTO/BTC 交易对。htt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645686146989694977</id>
+        <link href="https://twitter.com/wublockchain12/status/1645686146989694977"/>
+        <updated>2023-04-11T07:12:07.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安宣布将于 4 月 18 日 11:00 下架 QLC、NEBL、AUTO，移除 QLC/BTC, NEBL/USDT, NEBL/BUSD, NEBL/BTC, AUTO/USDT, AUTO/BUSD, AUTO/BTC 交易对。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=13260]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 news1，首尔南部法院对前 Coinone 上币组长金某和上币经纪人黄某发出逮捕令，因其存在逃跑嫌疑。金某涉嫌收受 10亿韩元（75.5 万美元），违反《犯...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1645682049221808128</id>
+        <link href="https://twitter.com/wublockchain12/status/1645682049221808128"/>
+        <updated>2023-04-11T06:55:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 news1，首尔南部法院对前 Coinone 上币组长金某和上币经纪人黄某发出逮捕令，因其存在逃跑嫌疑。金某涉嫌收受 10亿韩元（75.5 万美元），违反《犯罪收益隐匿限制法》,黄某涉嫌渎职行贿。
+https://www.news1.kr/articles/5010875]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 功能型代币用于启动市场、激励用户，不进行融资；证券型代币，表项目股权，团队拥有，可以稀释股权融资，项目成熟后，通过STO代币上市。 https://twitter.com...]]></title>
         <id>https://twitter.com/wublockchain12/status/1645666390010138624</id>
@@ -23,7 +100,7 @@ Shang.bit: 5/ 这样才能解决项目团队和项目早期投资者的激励�
         <id>https://twitter.com/wublockchain12/status/1645666388080746496</id>
         <link href="https://twitter.com/wublockchain12/status/1645666388080746496"/>
         <updated>2023-04-11T05:53:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，火星财经联合发起人 @Shang2046 认为肖风提出的”三代币模型“即：功能型代币 + 证券型代币 + NFT 相结合的模式能够平衡项目团队和早期投资者的激励平衡问题，也解决了代币发行的合规问题。 https://twitter.com/wublockchain12/status/1645393375833767936
+        <summary type="html"><![CDATA[吴说获悉，火星财经联合发起人 @Shang2046 认为肖风提出的”三代币模型“即：功能型代币 + 证券型代币 + NFT 相结合的模式能够平衡项目团队和早期投资者的激励平衡问题，也解决了代币发行的合规问题。
 
 吴说区块链: 吴说获悉，万向区块链董事长肖风今日在香港分享五大 Web3 行业趋势，分别是: 1. 行业合规化，以美国监管机构为首采取严厉的监管措施；2. 比特币二层协议，驱动比特币网络和应用进一步扩张；3. 香港开放的政策，代表亚洲重新回到虚拟资产市场的中心，稳定币立法正在进展中；]]></summary>
         <author>
@@ -151,86 +228,6 @@ https://economictimes.indiatimes.com/tech/funding/mpls-game-development-unit-may
         <link href="https://twitter.com/wublockchain12/status/1645627570908717058"/>
         <updated>2023-04-11T03:19:21.000Z</updated>
         <summary type="html"><![CDATA[一文了解 LayerZero 主要生态项目：LayerZero 于 4 月 4 日完成了由 a16z Crypto、红杉资本等投资的 1.2 亿美元 B 轮融资，融资后估值达到 30 亿美元。作为一种全链互操作性协议，LayerZero 也与包括 DeFI、NFT 赛道中的多个协议进行集成合作，其中也不乏一些优秀项目。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 期权数据上看，市场情绪相对平静，目前还未达到 FOMO 阶段。https://twitter.com/BTC__options/status/1645623221281230848]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645626549553762306</id>
-        <link href="https://twitter.com/wublockchain12/status/1645626549553762306"/>
-        <updated>2023-04-11T03:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 期权数据上看，市场情绪相对平静，目前还未达到 FOMO 阶段。https://twitter.com/BTC__options/status/1645623221281230848
-
-Adam@Greeks.live: 比特币突破30000美元，以太坊逼近2000美元整数关口，各主要期限IV出现明显上涨，短期IV上涨幅度较大。
-比特币大宗交易占据了当日接近一半的成交，以太坊大宗交易也占据了超三成成交，主动买入短期看涨最多，但总体成交相对较为分散。
-期权数据上看，市场情绪相对平静，目前还未达到FOMO阶段。 https://t.co/0X8bvX6LzN]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Greekslive，随着比特币突破 30000 美元，以太坊逼近 2000 美元整数关口，各主要期限 IV 出现明显上涨，短期 IV 上涨幅度较大。比特币大宗交易占据...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645626547527880709</id>
-        <link href="https://twitter.com/wublockchain12/status/1645626547527880709"/>
-        <updated>2023-04-11T03:15:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，随着比特币突破 30000 美元，以太坊逼近 2000 美元整数关口，各主要期限 IV 出现明显上涨，短期 IV 上涨幅度较大。比特币大宗交易占据了当日接近一半的成交，以太坊大宗交易也占据了超三成成交，主动买入短期看涨最多，但总体成交相对较为分散。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布支持 Conflux Network（CFX）主网集成，集成完成后，币安将支持通过 Conflux eSpace、Conflux Core Space 及 BNB Smart Chain（BEP20）进行 C...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645625801164083200</id>
-        <link href="https://twitter.com/wublockchain12/status/1645625801164083200"/>
-        <updated>2023-04-11T03:12:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布支持 Conflux Network（CFX）主网集成，集成完成后，币安将支持通过 Conflux eSpace、Conflux Core Space 及 BNB Smart Chain（BEP20）进行 CFX 代币的充值、提现业务。
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=13251]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，数字资产主经纪商 LTP（LiquidityTech Protocol）在香港表示将推出 1 亿美元量化孵化基金，扶持行业初创的量化交易公司。LTP 表示拥有超过 300 家机构...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645624986235981824</id>
-        <link href="https://twitter.com/wublockchain12/status/1645624986235981824"/>
-        <updated>2023-04-11T03:09:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，数字资产主经纪商 LTP（LiquidityTech Protocol）在香港表示将推出 1 亿美元量化孵化基金，扶持行业初创的量化交易公司。LTP 表示拥有超过 300 家机构客户，年交易量超过 3000 亿美元，为全球客户提供专业的交易服务。https://www.youtube.com/watch?v=0wX4E7cioPA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 随后因 FTX 的崩溃打乱了其与 VC 的投资计划；继续 build 与重塑使命和愿景；宣布融资并进行空投，采取类似 Blur 的激励方式刺激用户和流动性，在这个阶段 Te...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645624003686707200</id>
-        <link href="https://twitter.com/wublockchain12/status/1645624003686707200"/>
-        <updated>2023-04-11T03:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 随后因 FTX 的崩溃打乱了其与 VC 的投资计划；继续 build 与重塑使命和愿景；宣布融资并进行空投，采取类似 Blur 的激励方式刺激用户和流动性，在这个阶段 Tensor 的用户群增长了 196%；继续聚焦于 Solana NFT 生态系统，并集成如 Rain fi、Helios Rising 等优秀项目。https://twitter.com/runkellen/status/1645450329356652544?s=20
-
-kellen: Over the last 2 months @tensor_hq has gone from <1% of the Solana NFT market share to 28%+
-The most apt example of “slowly at first and then all at once” I have seen yet
-So what’s the secret to their success and what can other projects learn from it?
-Let’s dive in 🧵👇 https://t.co/9ZmkFSvRMG]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在过去两个月 Tensor 从低于 1% 的市场份额到占据 28%，成为了仅次于 Magic Eden 的最大 Solana NFT 交易市场。Flipside 数据科学家 @runkellen 分析...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645624001711190017</id>
-        <link href="https://twitter.com/wublockchain12/status/1645624001711190017"/>
-        <updated>2023-04-11T03:05:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在过去两个月 Tensor 从低于 1% 的市场份额到占据 28%，成为了仅次于 Magic Eden 的最大 Solana NFT 交易市场。Flipside 数据科学家 @runkellen 分析了其历程，Tensor 最初始于 Solana 的 2022 年夏季马拉松，并获得第二名，但马拉松的狂热很快稳定下来，每周交易量只有 2k；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 据 glassnode 分析师 @_Checkmatey_，伴随着 BTC 突破 3 万关口，BTC 创下了自 2021 年 11 月以来最高的季度涨幅（+70%）和月度涨幅（+43%）。https://studio...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1645619752981897217</id>
-        <link href="https://twitter.com/wublockchain12/status/1645619752981897217"/>
-        <updated>2023-04-11T02:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 据 glassnode 分析师 @_Checkmatey_，伴随着 BTC 突破 3 万关口，BTC 创下了自 2021 年 11 月以来最高的季度涨幅（+70%）和月度涨幅（+43%）。https://studio.glassnode.com/dashboards/btc-price-performance?utm_source=gn_twitter&utm_medium=gn_twitter&utm_campaign=gn_twitter]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
