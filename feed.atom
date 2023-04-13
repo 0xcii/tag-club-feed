@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T15:13:06.304Z</id>
+    <id>urn:2023-04-13T16:16:05.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T15:13:06.304Z</updated>
+    <updated>2023-04-13T16:16:05.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,38 @@
         <summary type="html"><![CDATA[Re @SouthernValue95 Nominal gdp is a low bar. Could do a lot better]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，据 token.unlocks，截至 21：10 已提款数量为 12.1 万枚 ETH，存款数量为 6.7 万枚 ETH，净提款数量为 5.4 万枚 ETH。此外 Nansen 显示，当前存款...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646503842237018112</id>
+        <link href="https://twitter.com/wublockchain12/status/1646503842237018112"/>
+        <updated>2023-04-13T13:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，据 token.unlocks，截至 21：10 已提款数量为 12.1 万枚 ETH，存款数量为 6.7 万枚 ETH，净提款数量为 5.4 万枚 ETH。此外 Nansen 显示，当前存款数量（2.7 万 ETH）已逐渐超过提款数量（0.76 万 ETH）。
+https://token.unlocks.app/ethereum-shanghai
+https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ https://t.co/rn3Ba8QqF4]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://dune.com/polygon_analytics/reddit-collectible-avatars]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646493988705415169</id>
+        <link href="https://twitter.com/wublockchain12/status/1646493988705415169"/>
+        <updated>2023-04-13T12:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Re https://dune.com/polygon_analytics/reddit-collectible-avatars]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @polygon_analytics 的 Dune 数据面板，此前 Reddit 在 Polygon 上推出的 Avatar NFT Gen 3 共有 7.9 万个地址进行了 15.3 万次 Mint，4,151 次交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646493986851553280</id>
+        <link href="https://twitter.com/wublockchain12/status/1646493986851553280"/>
+        <updated>2023-04-13T12:42:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @polygon_analytics 的 Dune 数据面板，此前 Reddit 在 Polygon 上推出的 Avatar NFT Gen 3 共有 7.9 万个地址进行了 15.3 万次 Mint，4,151 次交易的交易量为 75 万美元，当前有 2.1 万个地址持有该 NFT 系列。截至目前，Reddit 收藏头像数量超过 1100 万，总市值为 7452 万美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -292,36 +324,6 @@ https://mantanetwork.notion.site/Minting-a-zkBAB-08ab774aeff54b5eb9e11484be31c6e
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉， 持有新加坡金融管理局 (MAS) 的 MPI 牌照的 加密货币支付提供商 Digital Treasures Center 宣布更名为 dtcpay，并将业务扩展到香港并接入微信支付，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646364188607152134</id>
-        <link href="https://twitter.com/wublockchain12/status/1646364188607152134"/>
-        <updated>2023-04-13T04:06:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉， 持有新加坡金融管理局 (MAS) 的 MPI 牌照的 加密货币支付提供商 Digital Treasures Center 宣布更名为 dtcpay，并将业务扩展到香港并接入微信支付，未来将推出推出更多的法定货币和数字货币交易对，在 2023 年第一季度内处理了超过5000 万新元的交易。https://sg.finance.yahoo.com/news/digital-treasures-center-rebrands-dtcpay-233800407.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/SyncDex_Finance]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646361976183062528</id>
-        <link href="https://twitter.com/wublockchain12/status/1646361976183062528"/>
-        <updated>2023-04-13T03:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/SyncDex_Finance]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，zkSync 生态项目 SyncDex Finance 发生 Rug，所有质押合约都被清空，社交媒体也被删除，用户损失超过 28.8 万美元（100 枚 ETH 和 9.8 万枚 USDC）。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646361974681530370</id>
-        <link href="https://twitter.com/wublockchain12/status/1646361974681530370"/>
-        <updated>2023-04-13T03:57:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，zkSync 生态项目 SyncDex Finance 发生 Rug，所有质押合约都被清空，社交媒体也被删除，用户损失超过 28.8 万美元（100 枚 ETH 和 9.8 万枚 USDC）。吴说提醒，用户在交互时需注意风险，查看项目合约是否经过审计。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.@ethereum engineers are building the foundation for a global, internet-native, and - most importantly - virtuous financial system. How fucking cool i...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1646328499458719744</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1646328499458719744"/>
@@ -457,11 +459,11 @@ There is NO better time to bear post than now https://t.co/rimZDV0aJG]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Shappella about to give the bears five fingers to the face?? https://twitter.com/Roberta66961503/status/1646115515012718592]]></title>
+        <title type="html"><![CDATA[Is Shappella about to give the bears five fingers to the face?? https://twitter.com/roberta66961503/status/1646115515012718592]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1646117208861421568</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1646117208861421568"/>
         <updated>2023-04-12T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Is Shappella about to give the bears five fingers to the face?? https://twitter.com/Roberta66961503/status/1646115515012718592
+        <summary type="html"><![CDATA[Is Shappella about to give the bears five fingers to the face?? https://twitter.com/roberta66961503/status/1646115515012718592
 
 Rob Acosta🐻⛓⚛️: @DeFiSurfer808 https://t.co/OkU54DMziC]]></summary>
         <author>
@@ -1092,7 +1094,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1264,12 +1266,12 @@ https://replit.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1407,7 +1409,7 @@ https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
 - As a trader strong opinions, should be loosely held. 
 - Ask yourself what would I need to see to prove me wrong? 
 If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
+Do you want to be right or make money? Can’t do both…
 
 il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
 This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
@@ -1421,7 +1423,7 @@ This time away from Twitter has been very good and necessary. I'm totally fine, 
         <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
         <updated>2023-03-18T15:31:30.000Z</updated>
         <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
+Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m.
 
 Balaji: I will take that bet.
 You buy 1 BTC.
