@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T05:11:50.157Z</id>
+    <id>urn:2023-04-13T06:16:25.461Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T05:11:50.157Z</updated>
+    <updated>2023-04-13T06:16:25.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 纪要写道，鉴于最近的形势变化，美联储货币政策委员会 FOMC 的委员们预计，可能适合增加一些政策紧缩，以便实现对经济有足够限制性的政策立场，从而让通胀率...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646379586798899200</id>
+        <link href="https://twitter.com/wublockchain12/status/1646379586798899200"/>
+        <updated>2023-04-13T05:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 纪要写道，鉴于最近的形势变化，美联储货币政策委员会 FOMC 的委员们预计，可能适合增加一些政策紧缩，以便实现对经济有足够限制性的政策立场，从而让通胀率随着时间推移回落到 2%。（华尔街见闻）阅读更多：
+https://wallstreetcn.com/articles/3686359]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储 3 月会议纪要显示，尽管经济衰退的可能性增加，联储官员仍暗示，5 月的下次会议还可能继续加息。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646379585347657729</id>
+        <link href="https://twitter.com/wublockchain12/status/1646379585347657729"/>
+        <updated>2023-04-13T05:07:36.000Z</updated>
+        <summary type="html"><![CDATA[美联储 3 月会议纪要显示，尽管经济衰退的可能性增加，联储官员仍暗示，5 月的下次会议还可能继续加息。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt）]]></title>
         <id>https://twitter.com/8848Community/status/1646369827311812616</id>
@@ -16,6 +37,36 @@ Manta Network 中文社区（🔱,🔱）: 4/ zkBAB Mint 教程，中文版教
 https://mantanetwork.notion.site/Minting-a-zkBAB-08ab774aeff54b5eb9e11484be31c6e5]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉， 持有新加坡金融管理局 (MAS) 的 MPI 牌照的 加密货币支付提供商 Digital Treasures Center 宣布更名为 dtcpay，并将业务扩展到香港并接入微信支付，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646364188607152134</id>
+        <link href="https://twitter.com/wublockchain12/status/1646364188607152134"/>
+        <updated>2023-04-13T04:06:25.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉， 持有新加坡金融管理局 (MAS) 的 MPI 牌照的 加密货币支付提供商 Digital Treasures Center 宣布更名为 dtcpay，并将业务扩展到香港并接入微信支付，未来将推出推出更多的法定货币和数字货币交易对，在 2023 年第一季度内处理了超过5000 万新元的交易。https://sg.finance.yahoo.com/news/digital-treasures-center-rebrands-dtcpay-233800407.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/SyncDex_Finance]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646361976183062528</id>
+        <link href="https://twitter.com/wublockchain12/status/1646361976183062528"/>
+        <updated>2023-04-13T03:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/SyncDex_Finance]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，zkSync 生态项目 SyncDex Finance 发生 Rug，所有质押合约都被清空，社交媒体也被删除，用户损失超过 28.8 万美元（100 枚 ETH 和 9.8 万枚 USDC）。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646361974681530370</id>
+        <link href="https://twitter.com/wublockchain12/status/1646361974681530370"/>
+        <updated>2023-04-13T03:57:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，zkSync 生态项目 SyncDex Finance 发生 Rug，所有质押合约都被清空，社交媒体也被删除，用户损失超过 28.8 万美元（100 枚 ETH 和 9.8 万枚 USDC）。吴说提醒，用户在交互时需注意风险，查看项目合约是否经过审计。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -191,59 +242,6 @@ https://www.coindesk.com/tech/2023/04/12/new-privacy-blockchain-namada-proposes-
         <link href="https://twitter.com/wublockchain12/status/1646299275998171138"/>
         <updated>2023-04-12T23:48:28.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，一比特币巨鲸地址在 4 月 12 日 19：52 向交易所 Bitfinex 发送 11000 枚比特币，约合 3.3 亿美元。该地址以 20083 美元的平均价格购买了 4.65 万枚比特币，约合 9.35 亿美元，并以 28039 美元的平均价格抛售 3.65 万枚比特币，获利超 3.9 亿美元，目前仍持有约 1 万枚比特币。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿企 Riot 针对纽约时报 4 月 9 日一篇关于比特币挖矿污染影响的文章发布回应视频，视频中半开玩笑的表示 Riot 采矿设施内部的二氧化碳水平低于室外空气中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646293660919828480</id>
-        <link href="https://twitter.com/wublockchain12/status/1646293660919828480"/>
-        <updated>2023-04-12T23:26:10.000Z</updated>
-        <summary type="html"><![CDATA[比特币矿企 Riot 针对纽约时报 4 月 9 日一篇关于比特币挖矿污染影响的文章发布回应视频，视频中半开玩笑的表示 Riot 采矿设施内部的二氧化碳水平低于室外空气中的水平。二氧化碳排放量是由为比特币矿工供电的发电站产生，不直接来自采矿设备。（The Block）
-https://www.theblock.co/post/226033/riot-platforms-bitcoin-miner-new-york-times-greenhouse-gas-co2?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 破产法官驳回 SBF 提出的动议，即获得 1000 万美元的保险单来资助他的法律账单。法官表示，目前缺乏证据证明 SBF 需要使用该政策，至少目前如此。（The Block...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646291927132950528</id>
-        <link href="https://twitter.com/wublockchain12/status/1646291927132950528"/>
-        <updated>2023-04-12T23:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Re 破产法官驳回 SBF 提出的动议，即获得 1000 万美元的保险单来资助他的法律账单。法官表示，目前缺乏证据证明 SBF 需要使用该政策，至少目前如此。（The Block）
-https://www.theblock.co/post/226038/bankman-fried-ftx-insurance-policy?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币发行商 Paxos 通过邮件向其客户表示，正在退出加拿大市场。在加拿大证卷管理局 2 月份发布新法规后，已有多家加密交易平台宣布退出加拿大，包括 dYdX、Der...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646290216020475904</id>
-        <link href="https://twitter.com/wublockchain12/status/1646290216020475904"/>
-        <updated>2023-04-12T23:12:28.000Z</updated>
-        <summary type="html"><![CDATA[稳定币发行商 Paxos 通过邮件向其客户表示，正在退出加拿大市场。在加拿大证卷管理局 2 月份发布新法规后，已有多家加密交易平台宣布退出加拿大，包括 dYdX、Deribit、http://Blockchain.com 等。该法规要求交易平台遵守“增强的投资者保护承诺”。（The Block）
-https://www.theblock.co/post/226005/paxos-canada?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos 向愿意在其区块链上创作的艺术家提供 2000 万美元，申请人可在Aptos 基金会网站上进行申请。Aptos 表示，它已经向热衷于使用其区块链制作 web3 项目的艺术...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646288877777481729</id>
-        <link href="https://twitter.com/wublockchain12/status/1646288877777481729"/>
-        <updated>2023-04-12T23:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Aptos 向愿意在其区块链上创作的艺术家提供 2000 万美元，申请人可在Aptos 基金会网站上进行申请。Aptos 表示，它已经向热衷于使用其区块链制作 web3 项目的艺术家和创作者提供了 300 万美元，除资金外还提供生态系统所需的“基础设施”。（The Block）https://www.theblock.co/post/225992/aptos-labs-artists?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3 月初，他和 Han 设法前往邻国黑山，租了一架私人飞机，并试图飞向对加密货币友好的飞地迪拜，遭到逮捕，住在黑山监狱中。https://www.dlnews.com/articles/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646286824405622785</id>
-        <link href="https://twitter.com/wublockchain12/status/1646286824405622785"/>
-        <updated>2023-04-12T22:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Re 3 月初，他和 Han 设法前往邻国黑山，租了一架私人飞机，并试图飞向对加密货币友好的飞地迪拜，遭到逮捕，住在黑山监狱中。https://www.dlnews.com/articles/people-culture/do-kwon-crypto-fugitive-apartment-belgrade-manhunt-terra/]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
