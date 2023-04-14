@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T17:10:08.674Z</id>
+    <id>urn:2023-04-14T18:15:32.661Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T17:10:08.674Z</updated>
+    <updated>2023-04-14T18:15:32.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,69 @@
         <summary type="html"><![CDATA[Re @adeedao 不然就别勉强了。。。去去三亚大理啥的，人少。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @bishengke588 是的]]></title>
+        <id>https://twitter.com/8848Community/status/1646906383340797958</id>
+        <link href="https://twitter.com/8848Community/status/1646906383340797958"/>
+        <updated>2023-04-14T16:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @bishengke588 是的]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://consensys.net/blog/news/faq-customer-support-data-security-incident/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646906006490972160</id>
+        <link href="https://twitter.com/wublockchain12/status/1646906006490972160"/>
+        <updated>2023-04-14T15:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Re https://consensys.net/blog/news/faq-customer-support-data-security-incident/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，向 ConsenSys 提供客户支持票务服务的第三方服务提供商成为网络安全事件的目标。提交个人数据的 MetaMask 用户可能已被未经授权的第三方访问该数据。 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646905947271602177</id>
+        <link href="https://twitter.com/wublockchain12/status/1646905947271602177"/>
+        <updated>2023-04-14T15:59:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，向 ConsenSys 提供客户支持票务服务的第三方服务提供商成为网络安全事件的目标。提交个人数据的 MetaMask 用户可能已被未经授权的第三方访问该数据。 估计全球约有7千名用户受到该事件的影响。该事件仅限于2021年8月1日至2023年2月10日期间向 MetaMask 客户支持提交个人数据的一定数量的用户]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特小鹿开盘下跌一度超过 30%，开盘三分钟出现了一万多股的抛售，随后交易量降低，目前跌幅为 24.3%，总市值为 8.54 亿美金；在北美矿业上市公司市值...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1646898655000166401</id>
+        <link href="https://twitter.com/wublockchain12/status/1646898655000166401"/>
+        <updated>2023-04-14T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特小鹿开盘下跌一度超过 30%，开盘三分钟出现了一万多股的抛售，随后交易量降低，目前跌幅为 24.3%，总市值为 8.54 亿美金；在北美矿业上市公司市值中仅低于 Marathon 和 Riot，市值分别为 22 亿与 19 亿美金。https://www.nasdaq.com/market-activity/stocks/btdr/real-time]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teemupleb 😂]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1646896540575825923</id>
+        <link href="https://twitter.com/DeFi_educator/status/1646896540575825923"/>
+        <updated>2023-04-14T15:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @teemupleb 😂]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verifying my account on Nostr My public key: “npub1jkm8fsx0e5ykdfap438cuulxyaw9u9gx49l58vklpc0sfg6dn2nqt7dhma” Find others at http://nostr.directory...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1646891894163505154</id>
+        <link href="https://twitter.com/DeFi_educator/status/1646891894163505154"/>
+        <updated>2023-04-14T15:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Verifying my account on Nostr
+My public key:
+“npub1jkm8fsx0e5ykdfap438cuulxyaw9u9gx49l58vklpc0sfg6dn2nqt7dhma”
+Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -33,6 +96,18 @@
         <summary type="html"><![CDATA[DeFi 保险公司 Sherlock 是为数不多的几个在 DeFi 中提供代码覆盖的平台之一，目前正处于水深火热之中。去年，其储备金下降了 90%，降至 300 万美元。原因在于其弄错了一件保险公司不会出错的事情——定价风险。在大幅低估其所涵盖的协议被黑客攻击的风险后， Sherlock 正在努力生存。]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
+        <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
+        <updated>2023-04-14T14:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
+
+Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -287,40 +362,6 @@ GPT prompt：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re OPNX 的资产证明由第三方审计公司提供，没有内部做市团队，会邀请个人做市商，因此才会出现起始交易量很低的情况。 https://twitter.com/jack_xiong137/statu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646821880815579136</id>
-        <link href="https://twitter.com/wublockchain12/status/1646821880815579136"/>
-        <updated>2023-04-14T10:25:07.000Z</updated>
-        <summary type="html"><![CDATA[Re OPNX 的资产证明由第三方审计公司提供，没有内部做市团队，会邀请个人做市商，因此才会出现起始交易量很低的情况。
-https://twitter.com/jack_xiong137/status/1646798568299319296?s=20
-
-Jack🧸0x137: 3. 在claim方面，opnx不仅是债权交易通道，也是定价通道。即使受监管限制无法使用平台的用户，也能通过opnx的债权定价帮助自己的otc债权交易
-4. opnx的资产证明由第三方auditor提供，没有内部做市团队，会邀请个人做市商，因此才会出现起始交易量很低的情况]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OPNX CEO Leslie Lamb 在接受采访时表示，Su Zhu 和 Kyle Davies 目前已不参与 OPNX 日常事务。在 claim 方面，OPNX 不仅是债券交易通道，也是定价通...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646821751534522369</id>
-        <link href="https://twitter.com/wublockchain12/status/1646821751534522369"/>
-        <updated>2023-04-14T10:24:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OPNX CEO Leslie Lamb 在接受采访时表示，Su Zhu 和 Kyle Davies 目前已不参与 OPNX 日常事务。在 claim 方面，OPNX 不仅是债券交易通道，也是定价通道。即使受监管限制无法使用平台的用户，也能通过 OPNX 的债权定价帮助自己的 OTC 债权交易。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时，不少犯罪分子通过线上线下结合的方式跨省跨域非法集资，显著加大了风险发现难度。https://www.cls.cn/telegraph]]></title>
-        <id>https://twitter.com/wublockchain12/status/1646819065242189824</id>
-        <link href="https://twitter.com/wublockchain12/status/1646819065242189824"/>
-        <updated>2023-04-14T10:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时，不少犯罪分子通过线上线下结合的方式跨省跨域非法集资，显著加大了风险发现难度。https://www.cls.cn/telegraph]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT WINR: Greetings, JustBettors and Olympians❗️ Rev your engines! Be the first to test drive Game Mode 1: Social Chariot Racing in @HallsofOlympia's...]]></title>
         <id>https://twitter.com/WINRProtocol/status/1646805863057829888</id>
         <link href="https://twitter.com/WINRProtocol/status/1646805863057829888"/>
@@ -375,11 +416,11 @@ All info in http://discord.gg/hoolympia https://t.co/74Sm9Y7Gc3]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[圆桌会议 ~ 讨论什么？ https://twitter.com/ConnextNetwork/status/1646512646399881216]]></title>
+        <title type="html"><![CDATA[圆桌会议 ~ 讨论什么？]]></title>
         <id>https://twitter.com/8848Community/status/1646736211816648704</id>
         <link href="https://twitter.com/8848Community/status/1646736211816648704"/>
         <updated>2023-04-14T04:44:42.000Z</updated>
-        <summary type="html"><![CDATA[圆桌会议 ~ 讨论什么？ https://twitter.com/ConnextNetwork/status/1646512646399881216
+        <summary type="html"><![CDATA[圆桌会议 ~ 讨论什么？
 
 Connext: 📢Calling the best DAOs & contributors!🗣️
 Time to learn from the best How to Build a DAO.
@@ -575,11 +616,11 @@ defi-centric cosmos 中文社区 https://t.co/VJkWbfeeMK]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt） https://twitter.com/manta_china/status/1646129544762630152]]></title>
+        <title type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt）]]></title>
         <id>https://twitter.com/8848Community/status/1646369827311812616</id>
         <link href="https://twitter.com/8848Community/status/1646369827311812616"/>
         <updated>2023-04-13T04:28:49.000Z</updated>
-        <summary type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt） https://twitter.com/manta_china/status/1646129544762630152
+        <summary type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt）
 
 Manta Network 中文社区（🔱,🔱）: 4/ zkBAB Mint 教程，中文版教程也会很快上线
 https://mantanetwork.notion.site/Minting-a-zkBAB-08ab774aeff54b5eb9e11484be31c6e5]]></summary>
@@ -846,12 +887,12 @@ https://www.coingecko.com/learn/zksync-ecosystem?utm_source=twitter&utm_medium=s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[傻逼寿司 这取消授权累死人啊，沃日 https://twitter.com/BlockBeatsAsia/status/1644940305215680512]]></title>
+        <title type="html"><![CDATA[傻逼寿司 这取消授权累死人啊，沃日]]></title>
         <id>https://twitter.com/8848Community/status/1644943541867810817</id>
         <link href="https://twitter.com/8848Community/status/1644943541867810817"/>
         <updated>2023-04-09T06:01:16.000Z</updated>
         <summary type="html"><![CDATA[傻逼寿司
-这取消授权累死人啊，沃日 https://twitter.com/BlockBeatsAsia/status/1644940305215680512
+这取消授权累死人啊，沃日
 
 BlockBeats｜We're hiring!: 过去四天用过SushiSwap交易的用户注意下，Sushiswap的RouteProcess02 合约被攻击，用户尽快REVOKE以下合约地址的权限：
 ETH: 0x044b7..7357
@@ -954,21 +995,6 @@ Weekly Recap
 3) 🇸🇦 Saudi Arabia's Crown Prince MBS says he is no longer interested in pleasing… https://twitter.com/i/web/status/1644701972929314816]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所以 现在玩推特 除了分享点撸毛的信息 还有搞点抽奖什么的 还能分享点啥其他内容吗 大家都爱看点啥的内容的呢？]]></title>
-        <id>https://twitter.com/8848Community/status/1644694674106634240</id>
-        <link href="https://twitter.com/8848Community/status/1644694674106634240"/>
-        <updated>2023-04-08T13:32:21.000Z</updated>
-        <summary type="html"><![CDATA[所以
-现在玩推特
-除了分享点撸毛的信息
-还有搞点抽奖什么的
-还能分享点啥其他内容吗
-大家都爱看点啥的内容的呢？]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -1180,7 +1206,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
+Bitcoin was invented to stop government theft of citizen resources]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1257,12 +1283,12 @@ https://swap.defillama.com/arb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
+You can see they've really done their homework
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
@@ -1338,59 +1364,6 @@ Cliffs: If #BTC holds up, $ALTS are going to send strongly (eventually) https://
         <link href="https://twitter.com/DeFi_educator/status/1637586754373922816"/>
         <updated>2023-03-19T22:48:01.000Z</updated>
         <summary type="html"><![CDATA[Re @CryptoDamus411 https://t.co/2e3bvwmkGw]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Darren Lau 🇯🇵: Re ok what i found so far Defillama twitter hints at airdrop yesterday https://twitter.com/DefiLlama/status/163717055560537702...]]></title>
-        <id>https://twitter.com/Darrenlautf/status/1637446918589804545</id>
-        <link href="https://twitter.com/Darrenlautf/status/1637446918589804545"/>
-        <updated>2023-03-19T13:32:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Darren Lau 🇯🇵
-Re ok what i found so far 
-Defillama twitter hints at airdrop yesterday
-https://twitter.com/DefiLlama/status/1637170555605377024
-The twitter and domain are owned by a cofounder
-https://twitter.com/0xKofi/status/1637429728091992064
-Acc to ratwell, https://twitter.com/0xLlam4 is the one pushing for the token
-https://twitter.com/ratwell0x/status/1637439386110287873]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s what’s wrong with Capo; - As a trader strong opinions, should be loosely held. - Ask yourself what would I need to see to prove me wrong? If ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1637444866224398336</id>
-        <link href="https://twitter.com/DeFi_educator/status/1637444866224398336"/>
-        <updated>2023-03-19T13:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Here’s what’s wrong with Capo;
-- As a trader strong opinions, should be loosely held. 
-- Ask yourself what would I need to see to prove me wrong? 
-If you don’t define your invalidation, you’re never wrong. 
-Do you want to be right or make money? Can’t do both… https://twitter.com/CryptoCapo_/status/1637374540933103617
-
-il Capo Of Crypto: Despite all the noise, I know that the vast majority of those who follow me are genuine and good people. And these deserve an update:
-This time away from Twitter has been very good and necessary. I'm totally fine, enjoying my personal life. Thank you to everyone who has shown… https://twitter.com/i/web/status/1637374540933103617]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral. Example. He has 300m in BTC, puts on ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1637114511525019648</id>
-        <link href="https://twitter.com/DeFi_educator/status/1637114511525019648"/>
-        <updated>2023-03-18T15:31:30.000Z</updated>
-        <summary type="html"><![CDATA[If Balajis has a lot of exposure to Bitcoin already, it’s a +EV move to put this bet on and hope it goes viral.
-Example. He has 300m in BTC, puts on bet. Because of tweet, people buy Bitcoin moving price up 1%. He pockets $2m. https://twitter.com/balajis/status/1636797265317867520
-
-Balaji: I will take that bet.
-You buy 1 BTC.
-I will send $1M USD.
-This is ~40:1 odds as 1 BTC is worth ~$26k.
-The term is 90 days.
-All we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.
-If someone knows how to do this… https://twitter.com/i/web/status/1636797265317867520 https://t.co/6Aav9KeJpe]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
