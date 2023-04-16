@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T15:11:44.135Z</id>
+    <id>urn:2023-04-16T16:15:30.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-16T15:11:44.135Z</updated>
+    <updated>2023-04-16T16:15:30.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sui Network 介绍（Sui world 编译）：Sui 的分布式计算模型更像是传统的云服务，而不是典型的区块链。随着 Sui 上负载的增加，验证节点可以简单地增加更多的处...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647617574312751110</id>
+        <link href="https://twitter.com/wublockchain12/status/1647617574312751110"/>
+        <updated>2023-04-16T15:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Sui Network 介绍（Sui world 编译）：Sui 的分布式计算模型更像是传统的云服务，而不是典型的区块链。随着 Sui 上负载的增加，验证节点可以简单地增加更多的处理能力，类似于 Amazon Web Services 在客户端流量增加时可能添加更多服务器的方式。阅读全文：https://mp.weixin.qq.com/s/8BBhSLhPo2wEZ4Tt63R7Jw]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 两地都不太容易做出世界级的 Web3 社交、游戏等 2C 类项目。阅读全文：https://myantokengeek.medium.com/%E5%85%B3%E4%BA%8E%E9%A6%99%E6%B8%AF-web3-%E5%BD...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647613420190199810</id>
+        <link href="https://twitter.com/wublockchain12/status/1647613420190199810"/>
+        <updated>2023-04-16T14:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 两地都不太容易做出世界级的 Web3 社交、游戏等 2C 类项目。阅读全文：https://myantokengeek.medium.com/%E5%85%B3%E4%BA%8E%E9%A6%99%E6%B8%AF-web3-%E5%BD%A2%E5%8A%BF%E7%9A%84%E8%8B%A5%E5%B9%B2%E8%A7%82%E7%82%B9-45dcb7dddf57]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟岩《关于香港 Web3 形势的若干观点》：香港 Web3 将以交易为导向，对成熟的主流数字资产的兑换服务更加自由，但对于 ICO 等融资集资行为仍会非常谨慎乃至严格...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647613418017554436</id>
+        <link href="https://twitter.com/wublockchain12/status/1647613418017554436"/>
+        <updated>2023-04-16T14:50:24.000Z</updated>
+        <summary type="html"><![CDATA[孟岩《关于香港 Web3 形势的若干观点》：香港 Web3 将以交易为导向，对成熟的主流数字资产的兑换服务更加自由，但对于 ICO 等融资集资行为仍会非常谨慎乃至严格；香港 Web3 仍在试点期有反复可能；新加坡 Web3 策略更稳健，但对灰色数字金融容忍度更低；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @VaLaClavo Damn dude great thread! Very thorough]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1647610637302808576</id>
@@ -251,27 +281,6 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=13431 http
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 该提案投票窗口将于4月20日结束，当前弃权票比例60.85%，反对票35.8%，赞成票3.35%。 https://forum.apecoin.com/t/aip-232-resubmission-of-building-apever...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647476716082966528</id>
-        <link href="https://twitter.com/wublockchain12/status/1647476716082966528"/>
-        <updated>2023-04-16T05:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 该提案投票窗口将于4月20日结束，当前弃权票比例60.85%，反对票35.8%，赞成票3.35%。
-https://forum.apecoin.com/t/aip-232-resubmission-of-building-apeverse-a-multi-language-information-hub-for-the-ape-ecosystem/11453]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，ApeCoin 发起新提案 AIP-232，计划创建多语言信息中心 Apeverse，其是一项为快速发展的 Ape 生态系统聚合信息传播和社区参与的举措。除了提供官方信息...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647476712761102337</id>
-        <link href="https://twitter.com/wublockchain12/status/1647476712761102337"/>
-        <updated>2023-04-16T05:47:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，ApeCoin 发起新提案 AIP-232，计划创建多语言信息中心 Apeverse，其是一项为快速发展的 Ape 生态系统聚合信息传播和社区参与的举措。除了提供官方信息的实时更新外，Apeverse 还会跟踪 Ape NFTs 和 Apecoin 的动态变化，并提供直观的分析，从数据层面展示生态的进展。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @agnostoxxx Happy Easter! He is risen]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1647474791882915842</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1647474791882915842"/>
@@ -279,22 +288,6 @@ https://forum.apecoin.com/t/aip-232-resubmission-of-building-apeverse-a-multi-la
         <summary type="html"><![CDATA[Re @agnostoxxx Happy Easter! He is risen]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 沈波表示，被盗资产与去年11月为同一笔，目前各方正积极追查。https://twitter.com/boshen1011/status/1647456659004899329?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647472078080315392</id>
-        <link href="https://twitter.com/wublockchain12/status/1647472078080315392"/>
-        <updated>2023-04-16T05:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Re 沈波表示，被盗资产与去年11月为同一笔，目前各方正积极追查。https://twitter.com/boshen1011/status/1647456659004899329?s=20
-
-Bo Shen: 被盗资产与去年11月为同一笔，目前各方正积极追查。
-被盗钱包交易非本人操作，LQTY卖出系黑客行为。
-个人对LQTY持有长期信心，一直未曾出售并长期支持Liquidity Pool。
-呼吁社区共同协助寻找黑客线索，愿提供酬劳。
-@SlowMist_Team @Beosin_com]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -822,11 +815,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>
@@ -1270,7 +1263,7 @@ JUST IN: 🇸🇻 El Salvador President to eliminate all taxes on income, proper
 Something that blew my mind when I first learned it:
 Bitcoin's mining difficulty is updated every 2,016 blocks... as in, 6102 backwards
 Also Satoshi chose as a birthday April 5, same day FDR issued 6102
-Bitcoin was invented to stop government theft of citizen resources]]></summary>
+Bitcoin was invented to stop government theft of citizen resources https://twitter.com/xlr8harder/status/1638896588553846784]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1306,12 +1299,12 @@ Bitcoin was invented to stop government theft of citizen resources]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework]]></title>
+        <title type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... You can see they've really done their homework https://twitter.com/JandX_/status/...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1638353371328331777</id>
         <link href="https://twitter.com/DeFi_educator/status/1638353371328331777"/>
         <updated>2023-03-22T01:34:17.000Z</updated>
         <summary type="html"><![CDATA[This is how in-depth the report by the US government is on crypto... 
-You can see they've really done their homework
+You can see they've really done their homework https://twitter.com/JandX_/status/1638326147938172928
 
 JandX: the top ten crypto derivatives platforms by open interest according to the US government https://t.co/sswFMwpBRk]]></summary>
         <author>
