@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T07:11:06.099Z</id>
+    <id>urn:2023-04-16T08:14:58.131Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-16T07:11:06.099Z</updated>
+    <updated>2023-04-16T08:14:58.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: ConsenSys 推出 NFT 纪念上海升级，Uniswap Wallet 在 Apple Store 上线，Solana 手机 Saga 将公售等（0410-0416） https://www.wu-talk.com/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647483840355782656</id>
+        <link href="https://twitter.com/wublockchain12/status/1647483840355782656"/>
+        <updated>2023-04-16T06:15:30.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: ConsenSys 推出 NFT 纪念上海升级，Uniswap Wallet 在 Apple Store 上线，Solana 手机 Saga 将公售等（0410-0416）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=13431 https://twitter.com/i/web/status/1647483840355782656]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该提案投票窗口将于4月20日结束，当前弃权票比例60.85%，反对票35.8%，赞成票3.35%。 https://forum.apecoin.com/t/aip-232-resubmission-of-building-apever...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647476716082966528</id>
+        <link href="https://twitter.com/wublockchain12/status/1647476716082966528"/>
+        <updated>2023-04-16T05:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Re 该提案投票窗口将于4月20日结束，当前弃权票比例60.85%，反对票35.8%，赞成票3.35%。
+https://forum.apecoin.com/t/aip-232-resubmission-of-building-apeverse-a-multi-language-information-hub-for-the-ape-ecosystem/11453]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，ApeCoin 发起新提案 AIP-232，计划创建多语言信息中心 Apeverse，其是一项为快速发展的 Ape 生态系统聚合信息传播和社区参与的举措。除了提供官方信息...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647476712761102337</id>
+        <link href="https://twitter.com/wublockchain12/status/1647476712761102337"/>
+        <updated>2023-04-16T05:47:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，ApeCoin 发起新提案 AIP-232，计划创建多语言信息中心 Apeverse，其是一项为快速发展的 Ape 生态系统聚合信息传播和社区参与的举措。除了提供官方信息的实时更新外，Apeverse 还会跟踪 Ape NFTs 和 Apecoin 的动态变化，并提供直观的分析，从数据层面展示生态的进展。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @agnostoxxx Happy Easter! He is risen]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1647474791882915842</id>
@@ -13,6 +45,22 @@
         <summary type="html"><![CDATA[Re @agnostoxxx Happy Easter! He is risen]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 沈波表示，被盗资产与去年11月为同一笔，目前各方正积极追查。https://twitter.com/boshen1011/status/1647456659004899329?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1647472078080315392</id>
+        <link href="https://twitter.com/wublockchain12/status/1647472078080315392"/>
+        <updated>2023-04-16T05:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 沈波表示，被盗资产与去年11月为同一笔，目前各方正积极追查。https://twitter.com/boshen1011/status/1647456659004899329?s=20
+
+Bo Shen: 被盗资产与去年11月为同一笔，目前各方正积极追查。
+被盗钱包交易非本人操作，LQTY卖出系黑客行为。
+个人对LQTY持有长期信心，一直未曾出售并长期支持Liquidity Pool。
+呼吁社区共同协助寻找黑客线索，愿提供酬劳。
+@SlowMist_Team @Beosin_com]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -352,16 +400,6 @@ Here comes the hack tx: https://optimistic.etherscan.io/tx/0x6e9ebcdebbabda04fa9
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Optimism 上的借贷协议 Hundred Finance 被攻击，损失约为 700 万美元。派盾分析，根本原因似乎是攻击者捐赠了 200 个 WBTC来抬高 hWBTC 的汇率，以至...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647387524992761857</id>
-        <link href="https://twitter.com/wublockchain12/status/1647387524992761857"/>
-        <updated>2023-04-15T23:52:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Optimism 上的借贷协议 Hundred Finance 被攻击，损失约为 700 万美元。派盾分析，根本原因似乎是攻击者捐赠了 200 个 WBTC来抬高 hWBTC 的汇率，以至于即使是极少量的 hWBTC 也基本上可以耗尽当前的借贷池。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @MattH203 Sheeesh…]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1647341791677673472</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1647341791677673472"/>
@@ -472,10 +510,10 @@ Helene Meisler: Insiders. Getting back up there. https://t.co/5rOmBSlH2d]]></s
         <summary type="html"><![CDATA[RT Hundred Finance
 Estimated current loss is ~7m USD.  
 Once again we hope the hacker will reach out back to us and we will be able to find a joint solution to resolve this matter. 🙏
-Thank you everyone for your support and help during these difficult times. ❤️
+Thank you everyone for your support and help during these difficult times. ❤️ https://twitter.com/HundredFinance/status/1647277775114346497
 
 Hundred Finance: We sent a message to the hacker and are in talks with different security teams. 
-If you can help in any way, please reach out. Thank you 🙏]]></summary>
+If you can help in any way, please reach out. Thank you 🙏 https://twitter.com/HundredFinance/status/1647247792589471745]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -507,27 +545,6 @@ What do you think?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 此外，Mellerud 指出，此次加税是由瑞典财政部提出的，该部门去年也在推动欧盟禁止比特币开采。（CoinDesk） https://www.coindesk.com/policy/2023/04/14/sw...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647260719942082560</id>
-        <link href="https://twitter.com/wublockchain12/status/1647260719942082560"/>
-        <updated>2023-04-15T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，Mellerud 指出，此次加税是由瑞典财政部提出的，该部门去年也在推动欧盟禁止比特币开采。（CoinDesk）
-https://www.coindesk.com/policy/2023/04/14/sweden-drives-final-nail-into-its-bitcoin-mining-industry-with-tax-hike/?ref=nobsbitcoin.com]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞典是欧洲最后一个比特币矿工据点，它将于 7 月取消对数据中心的税收优惠。矿业服务公司 Luxor Technologies 的高级分析师 Jaran Mellerud 表示，根据去年的平...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647260717794357248</id>
-        <link href="https://twitter.com/wublockchain12/status/1647260717794357248"/>
-        <updated>2023-04-15T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[瑞典是欧洲最后一个比特币矿工据点，它将于 7 月取消对数据中心的税收优惠。矿业服务公司 Luxor Technologies 的高级分析师 Jaran Mellerud 表示，根据去年的平均电价，增税可能会使总能源成本达到 0.093 美元/千瓦时，同时增税使得该地区的采矿在瑞典成本过高，最终可能会摧毁该行业。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拥有一整支AI专家团队 chrome浏览器插件，http://teamsmart.ai，预制了大概20个不同专业的角色化AI，然后选5个英雄。 测试了在输入同样需求的情况下，表现比原生...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1647258389569781763</id>
         <link href="https://twitter.com/AntCaveClub/status/1647258389569781763"/>
@@ -549,17 +566,6 @@ https://www.teamsmart.ai/]]></summary>
         <summary type="html"><![CDATA[哥哥姐姐们，还有啥二级能冲吗？涨得心里痒痒]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 如果 O'Neal 下周还没有送达，法官可以让集体诉讼在他缺席的情况下继续进行。（The Block） https://www.theblock.co/post/226496/shaquille-oneal-crypto-ft...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1647255457650688000</id>
-        <link href="https://twitter.com/wublockchain12/status/1647255457650688000"/>
-        <updated>2023-04-15T15:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Re 如果 O'Neal 下周还没有送达，法官可以让集体诉讼在他缺席的情况下继续进行。（The Block）
-https://www.theblock.co/post/226496/shaquille-oneal-crypto-ftx-lawsuit?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -805,15 +811,15 @@ Lil b 🐧: This got closed by the exchange and they are only giving back my c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克 @elonmusk 开始撸空投啦。 把 @zksync 项目方推特撸走了。 😂 https://t.co/mryl7g6YOv]]></title>
+        <title type="html"><![CDATA[马斯克 @elonmusk 开始撸空投啦。 把 @zksync 项目方推特撸走了。 😂 https://twitter.com/the_matter_labs/status/1646860498611077121 https://t.co/mryl7g6...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1646867387717910530</id>
         <link href="https://twitter.com/AntCaveClub/status/1646867387717910530"/>
         <updated>2023-04-14T13:25:57.000Z</updated>
         <summary type="html"><![CDATA[马斯克 @elonmusk   开始撸空投啦。 
-把 @zksync  项目方推特撸走了。 😂 https://t.co/mryl7g6YOv
+把 @zksync  项目方推特撸走了。 😂 https://twitter.com/the_matter_labs/status/1646860498611077121 https://t.co/mryl7g6YOv
 
 
-Matter Labs ∎: @TwitterSupport @elonmusk https://t.co/FCFASWJCrh]]></summary>
+Matter Labs ∎: @TwitterSupport @elonmusk https://twitter.com/zksync/status/1646860036331929600 https://t.co/FCFASWJCrh]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
@@ -833,11 +839,11 @@ Matter Labs ∎: @TwitterSupport @elonmusk https://t.co/FCFASWJCrh]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[圆桌会议 ~ 讨论什么？]]></title>
+        <title type="html"><![CDATA[圆桌会议 ~ 讨论什么？ https://twitter.com/ConnextNetwork/status/1646512646399881216]]></title>
         <id>https://twitter.com/8848Community/status/1646736211816648704</id>
         <link href="https://twitter.com/8848Community/status/1646736211816648704"/>
         <updated>2023-04-14T04:44:42.000Z</updated>
-        <summary type="html"><![CDATA[圆桌会议 ~ 讨论什么？
+        <summary type="html"><![CDATA[圆桌会议 ~ 讨论什么？ https://twitter.com/ConnextNetwork/status/1646512646399881216
 
 Connext: 📢Calling the best DAOs & contributors!🗣️
 Time to learn from the best How to Build a DAO.
@@ -906,11 +912,11 @@ defi-centric cosmos 中文社区 https://t.co/VJkWbfeeMK]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt）]]></title>
+        <title type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt） https://twitter.com/manta_china/status/1646129544762630152]]></title>
         <id>https://twitter.com/8848Community/status/1646369827311812616</id>
         <link href="https://twitter.com/8848Community/status/1646369827311812616"/>
         <updated>2023-04-13T04:28:49.000Z</updated>
-        <summary type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt）
+        <summary type="html"><![CDATA[之前领过过币安的BAB的可以领下 Manta 的 zkBAB（zksbt） https://twitter.com/manta_china/status/1646129544762630152
 
 Manta Network 中文社区（🔱,🔱）: 4/ zkBAB Mint 教程，中文版教程也会很快上线
 https://mantanetwork.notion.site/Minting-a-zkBAB-08ab774aeff54b5eb9e11484be31c6e5]]></summary>
