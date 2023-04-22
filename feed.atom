@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T03:13:04.768Z</id>
+    <id>urn:2023-04-22T04:15:06.668Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T03:13:04.768Z</updated>
+    <updated>2023-04-22T04:15:06.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xdoug Good framing]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1649617860317044736</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1649617860317044736"/>
+        <updated>2023-04-22T03:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xdoug Good framing]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 针对前者，开发者展开了讨论并谈及数据可用性抽样 DAS 实现将使该假设方案失效，不过由于会议缺少执行层客户端相关代表，所以问题暂按下不表留待下周执行层开...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649605732533440513</id>
+        <link href="https://twitter.com/wublockchain12/status/1649605732533440513"/>
+        <updated>2023-04-22T02:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 针对前者，开发者展开了讨论并谈及数据可用性抽样 DAS 实现将使该假设方案失效，不过由于会议缺少执行层客户端相关代表，所以问题暂按下不表留待下周执行层开发者会议讨论。https://www.galaxy.com/research/insights/ethereum-all-core-developers-consensus-call-107/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 其中，EIP4844 的第五个开发者测试网将于下周上线；开发者还讨论了在链重组事件中如何将 blob 交易重新插入区块中的问题，对此 Danny Ryan 也提出了两种解决...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649605730767613952</id>
+        <link href="https://twitter.com/wublockchain12/status/1649605730767613952"/>
+        <updated>2023-04-22T02:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 其中，EIP4844 的第五个开发者测试网将于下周上线；开发者还讨论了在链重组事件中如何将 blob 交易重新插入区块中的问题，对此 Danny Ryan 也提出了两种解决方案：让共识层将每个块的 blob 数据传递给执行层或者让用户重新提交交易。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议107（ACDC）的总结，本次会议主要讨论了 Deneb（即 EIP4844，此前已更名） ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649605729060552704</id>
+        <link href="https://twitter.com/wublockchain12/status/1649605729060552704"/>
+        <updated>2023-04-22T02:47:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议107（ACDC）的总结，本次会议主要讨论了 Deneb（即 EIP4844，此前已更名） 的最新进展以及在下一次升级中，还有哪些代码修改（EIP 提案）需要被纳入。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 曾纠结过定位是科技公司还是文化公司，还是介于二者，后来聘请了 Zora zine 的主编 Yana，通过故事、调性的表达让用户感知他们是什么样的公司等。https://twi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649603352471404545</id>
+        <link href="https://twitter.com/wublockchain12/status/1649603352471404545"/>
+        <updated>2023-04-22T02:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 曾纠结过定位是科技公司还是文化公司，还是介于二者，后来聘请了 Zora zine 的主编 Yana，通过故事、调性的表达让用户感知他们是什么样的公司等。https://twitter.com/byobu4/status/1649550452760154112?s=20
+
+PingFeng⌐◨-◨🦇🔊: 笑着听完这一期😁了解了一下Zora背后的故事，也许是因为自己是挺被美/aesthetic驱动的一个人，Zora时刻在传递美感，加上它做了Nouns Builder，我逐渐对Zora有越来越多的好感。记录一些notes：
+1. Zora最开始是售卖实体物品的，但是突然来了一个大刀阔斧的方向调整，所有东西改到链上]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不再只是单纯的 NFT 发行平台，还兼具了机构服务的性质；团队里很多成员直接就是艺术家，社交媒体运营、线下活动运营、Zora zine 编辑小队等都具有艺术家背景...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649603350483320832</id>
+        <link href="https://twitter.com/wublockchain12/status/1649603350483320832"/>
+        <updated>2023-04-22T02:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 不再只是单纯的 NFT 发行平台，还兼具了机构服务的性质；团队里很多成员直接就是艺术家，社交媒体运营、线下活动运营、Zora zine 编辑小队等都具有艺术家背景，因而能从整体传达出美感；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，根据 @byobu4 对 ZORA 联合创始人在接受播客采访时的解析，NFT 平台 Zora 最开始是售卖实体物品，后来转型到链上；目前 ZORA 团队不到 40 人，开发占...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649603348352614400</id>
+        <link href="https://twitter.com/wublockchain12/status/1649603348352614400"/>
+        <updated>2023-04-22T02:37:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，根据 @byobu4 对 ZORA 联合创始人在接受播客采访时的解析，NFT 平台 Zora 最开始是售卖实体物品，后来转型到链上；目前 ZORA 团队不到 40 人，开发占主要，且特别在意品牌建设，同时也积累了策划大型的 MINT 活动，如 Base, Introduced NFT、VV 系列等，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @MoonOverlord You will be missed moon]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1649596693950726146</id>
@@ -23,6 +96,55 @@
         <summary type="html"><![CDATA[Re @xcurveth @Cryptopleb4 Ur killing it bruh 💪🏻]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 攻击者（针对特定版本的 MyAlgo）于 1 月 21 日上传，攻击一直持续到 2 月中旬新版本 MyAlgo 发布。https://twitter.com/myalgo_/status/1649427788816842752]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649592198898524162</id>
+        <link href="https://twitter.com/wublockchain12/status/1649592198898524162"/>
+        <updated>2023-04-22T01:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 攻击者（针对特定版本的 MyAlgo）于 1 月 21 日上传，攻击一直持续到 2 月中旬新版本 MyAlgo 发布。https://twitter.com/myalgo_/status/1649427788816842752
+
+MyAlgo: 1/ Final Hack Findings and Report 📢
+The following findings and report took longer than expected to finish given the nature of the attack, requiring a deep review of all aspects of our infrastructure. 🧵]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，MyAlgo 公布其遭攻击报告，攻击者使用可能受损的 CDN API 密钥进行，尚不清楚 CDN API 密钥是如何获得的，在 MyAlgo 代码库中没有发现利用或漏洞的证...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649592196914622465</id>
+        <link href="https://twitter.com/wublockchain12/status/1649592196914622465"/>
+        <updated>2023-04-22T01:53:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，MyAlgo 公布其遭攻击报告，攻击者使用可能受损的 CDN API 密钥进行，尚不清楚 CDN API 密钥是如何获得的，在 MyAlgo 代码库中没有发现利用或漏洞的证据，日志丢失或 API 密钥可能是攻击者在 19 个月前获得的，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/Bitrace_team/status/1649344140210216961]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649589773164756992</id>
+        <link href="https://twitter.com/wublockchain12/status/1649589773164756992"/>
+        <updated>2023-04-22T01:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/Bitrace_team/status/1649344140210216961
+
+币追Bitrace: ⚠️早前社区用户曝光的假 @Orbiter_Finance撸毛教程骗局，我们根据部分受害者提供的地址信息进行了链上资金分析。
+☠️其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失～45.77 $ETH 
+👀目前欺诈者已经将其中价值8万美元的代币转入@binance https://t.co/eutCE2wlX6]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649589684916604928</id>
+        <link href="https://twitter.com/wublockchain12/status/1649589684916604928"/>
+        <updated>2023-04-22T01:43:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失45.77 ETH，目前欺诈者已将其中价值8万美元的代币转入 Binance。
+
+吴说区块链: 吴说获悉，部分社区用户发现某撸毛博主发布的教程文章中 Orbiter 跨链桥网站为钓鱼网站，目前已骗取 30 多 ETH。该博主目前尚未正面回应此事。吴说提醒用户在交互时注意风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -212,116 +334,6 @@ Let us know if you plan on applying👇 https://t.co/Um7zsU8ZYD]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re （blockworks）https://blockworks.co/news/biden-comms-chief-labolt-uniswap-a16z]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649446070378987521</id>
-        <link href="https://twitter.com/wublockchain12/status/1649446070378987521"/>
-        <updated>2023-04-21T16:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Re （blockworks）https://blockworks.co/news/biden-comms-chief-labolt-uniswap-a16z]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国总统拜登最近新任命的通信主管 Ben LaBolt 持有 BTC 和 ETH。据悉，Ben LaBolt 将被允许就加密货币向总统及其政府提出建议，但不得参与法律事务、调查以及与...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649446037323653121</id>
-        <link href="https://twitter.com/wublockchain12/status/1649446037323653121"/>
-        <updated>2023-04-21T16:12:35.000Z</updated>
-        <summary type="html"><![CDATA[美国总统拜登最近新任命的通信主管 Ben LaBolt 持有 BTC 和 ETH。据悉，Ben LaBolt 将被允许就加密货币向总统及其政府提出建议，但不得参与法律事务、调查以及与他之前合作过的加密货币公司的合同，其此前在 Bully Pulpit Interactive 工作时，他的客户包括 Andreessen Horowitz 和 Uniswap。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 包括 Blockdaemon、Chainlink、Etherscan、Quicknode、Aave、Animoca Brands、Dune、Nansen、Magic Eden 等。（TechCrunch）https://techcrunch.com/2023/04/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649445945338368001</id>
-        <link href="https://twitter.com/wublockchain12/status/1649445945338368001"/>
-        <updated>2023-04-21T16:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 包括 Blockdaemon、Chainlink、Etherscan、Quicknode、Aave、Animoca Brands、Dune、Nansen、Magic Eden 等。（TechCrunch）https://techcrunch.com/2023/04/21/coinbases-layer-2-blockchain-base-plans-for-2023-mainnet-launch/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Layer2 网络 Base 计划在 2023 年推出其主网。Base 负责人兼 Coinbase 协议负责人 Jesse Pollak 表示，近期的计划是让 Base 进入主网并去中心化。许多...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649445910534066176</id>
-        <link href="https://twitter.com/wublockchain12/status/1649445910534066176"/>
-        <updated>2023-04-21T16:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Layer2 网络 Base 计划在 2023 年推出其主网。Base 负责人兼 Coinbase 协议负责人 Jesse Pollak 表示，近期的计划是让 Base 进入主网并去中心化。许多加密业务、平台、市场和基础设施公司已承诺在 Base 上构建：]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re （NFT Gators）https://www.nftgators.com/xrspace-raises-25m-to-develop-3d-live-experiences-in-the-metaverse/]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649438370609897473</id>
-        <link href="https://twitter.com/wublockchain12/status/1649438370609897473"/>
-        <updated>2023-04-21T15:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Re （NFT Gators）https://www.nftgators.com/xrspace-raises-25m-to-develop-3d-live-experiences-in-the-metaverse/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾元宇宙公司 XRSPACE 宣布完成富士康领投的新一轮 2500 万美元融资融资，资金将用于下一代3D直播和社交体验的研发。 XRSPACE 于2017年创立，通过旗下XRSPACE ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649438340536750087</id>
-        <link href="https://twitter.com/wublockchain12/status/1649438340536750087"/>
-        <updated>2023-04-21T15:42:00.000Z</updated>
-        <summary type="html"><![CDATA[台湾元宇宙公司 XRSPACE 宣布完成富士康领投的新一轮 2500 万美元融资融资，资金将用于下一代3D直播和社交体验的研发。  XRSPACE 于2017年创立，通过旗下XRSPACE MANOVA提供社交化的元宇宙体验，旨在改变人们联系、工作和娱乐的方式，用户须佩戴 VR 耳机才能通过互补应用程序 PartyOn 和 GOXR 相互连接]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/playbuxco/status/1649384985487630336?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649438136358031360</id>
-        <link href="https://twitter.com/wublockchain12/status/1649438136358031360"/>
-        <updated>2023-04-21T15:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/playbuxco/status/1649384985487630336?s=20
-
-Playbux.co: Exciting announcement!
-In case you didn't know, Playbux has been invested in by some of the biggest firms in the field.
-We're also partnering with other world's major companies and brands to bring you even more opportunities 'to-earn'.
-Stay tuned for more updates!
-#Shoptoearn… https://twitter.com/i/web/status/1649384985487630336 https://t.co/Cu1c0wruBu]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电商元宇宙平台 Playbux 宣布完成 200 万美元种子轮融资，Binance Labs 领投，Gate. io、Tron、CertiK、Ankr、IMO Ventures 等参投。Playbux 曾入围 Binance Lab...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649438086647119872</id>
-        <link href="https://twitter.com/wublockchain12/status/1649438086647119872"/>
-        <updated>2023-04-21T15:40:59.000Z</updated>
-        <summary type="html"><![CDATA[电商元宇宙平台 Playbux 宣布完成 200 万美元种子轮融资，Binance Labs 领投，Gate. io、Tron、CertiK、Ankr、IMO Ventures 等参投。Playbux 曾入围 Binance Labs 第4季孵化计划，旨在成为易访问的Shop&Earn元宇宙平台。用户可从全球超 20,000 家商家消费并赚取现金返还。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/OPNX_Official/status/1649426199251234821]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649430047122505729</id>
-        <link href="https://twitter.com/wublockchain12/status/1649430047122505729"/>
-        <updated>2023-04-21T15:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/OPNX_Official/status/1649426199251234821
-
-OPNX 💪: 4/ More details about just a few of our backers:
-- AppWorks: Leading Taiwanese VC and accelerator.
-- Susquehanna (SIG): Earliest and largest investor in TikTok. One of the world's largest options market makers.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，三箭资本创始人启动的新交易所 OPNX 宣布其投资方包括 AppWorks、Susquehanna (SIG)、DRW VC、MIAX 集团、招银国际、Token Bay Capital、Nascent、沙...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649430024242569216</id>
-        <link href="https://twitter.com/wublockchain12/status/1649430024242569216"/>
-        <updated>2023-04-21T15:08:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，三箭资本创始人启动的新交易所 OPNX 宣布其投资方包括 AppWorks、Susquehanna (SIG)、DRW VC、MIAX 集团、招银国际、Token Bay Capital、Nascent、沙特数字资产基金 Tuwaiq Limited。早先 OPNX 宣布完成了 2500 万美金的融资。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thrilled to be a bear market builder and claim my free Bear Market Builder NFT from @thirdweb! Get yours now on: https://thirdweb.com/bear-market-aird...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1649422102359953413</id>
         <link href="https://twitter.com/AntCaveClub/status/1649422102359953413"/>
@@ -334,11 +346,11 @@ Get yours now on: https://thirdweb.com/bear-market-airdrop https://t.co/N4JF2Mxd
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[空投给 开发者。]]></title>
+        <title type="html"><![CDATA[空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025]]></title>
         <id>https://twitter.com/AntCaveClub/status/1649420968253612036</id>
         <link href="https://twitter.com/AntCaveClub/status/1649420968253612036"/>
         <updated>2023-04-21T14:32:58.000Z</updated>
-        <summary type="html"><![CDATA[空投给 开发者。
+        <summary type="html"><![CDATA[空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025
 
 thirdweb: AIRDROP! 🪂
 For builders, there is no bear market.
@@ -529,16 +541,6 @@ https://www.youtube.com/watch?v=UVNZ3_FwqJE]]></summary>
 https://www.businessinsider.com/chatgpt-i-built-chrome-extension-sold-acquire-thousands-2023-4?r=US&IR=T]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @safetyth1rd Old people vote]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1649257026617241601</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1649257026617241601"/>
-        <updated>2023-04-21T03:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @safetyth1rd Old people vote]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -986,12 +988,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1009,7 +1011,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1028,11 +1030,11 @@ And lack of regulatory clarity + hostile enforcement against crypto in the US is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.]]></title>
+        <title type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356]]></title>
         <id>https://twitter.com/OnChainWizard/status/1648306325619605521</id>
         <link href="https://twitter.com/OnChainWizard/status/1648306325619605521"/>
         <updated>2023-04-18T12:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.
+        <summary type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356
 
 Shitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵]]></summary>
         <author>
@@ -1153,11 +1155,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>
