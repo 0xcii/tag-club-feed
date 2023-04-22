@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1649716785120419840",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/star_okx/status/1649714884903579648\n\nStar: As a crypto exchange with 10 years history, We take care of customers’ funds and our reputation seriously. In some specific cases, okx can not tell customer about the freeze reasons because of legal requirements, but your asset is absolutely safe in any situation. Please keep to… https://twitter.com/i/web/status/1649714884903579648",
+          "link": "https://twitter.com/wublockchain12/status/1649716785120419840",
+          "publishedOn": "2023-04-22T10:08:26.000Z",
+          "wordCount": 509,
+          "title": "Re https://twitter.com/star_okx/status/1649714884903579648",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1649716657382891520",
+          "author": "吴说区块链",
+          "description": "吴说获悉，针对一名用户投诉遭到 OKX 冻结资金约 2 个月（官方表示将在120天内提供更新），OKX 创始人徐明星表示，作为拥有 10 年历史的加密货币交易所，我们非常重视客户的资金和我们的声誉；但在某些特定情况下，OKX 因法律要求无法告知客户冻结原因。",
+          "link": "https://twitter.com/wublockchain12/status/1649716657382891520",
+          "publishedOn": "2023-04-22T10:07:56.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，针对一名用户投诉遭到 OKX 冻结资金约 2 个月（官方表示将在120天内提供更新），OKX 创始人徐明星表示，作为拥有 10 年历史的加密货币交易所，我们非...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1649715422252376064",
+          "author": "吴说区块链",
+          "description": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://twitter.com/IM_23pds/status/1649710111760453632\n\n23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。\n影响 ：2022/11/14～23 号期间创建的钱包会存在风险。\n原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。\n细节： https://twitter.com/trustwallet/status/1649699428733947906",
+          "link": "https://twitter.com/wublockchain12/status/1649715422252376064",
+          "publishedOn": "2023-04-22T10:03:01.000Z",
+          "wordCount": 509,
+          "title": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1649715420239384576",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据慢雾，Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。2022/11/14～23 号期间创建的钱包会存在风险。Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。",
+          "link": "https://twitter.com/wublockchain12/status/1649715420239384576",
+          "publishedOn": "2023-04-22T10:03:01.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据慢雾，Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。2022/11/14～23 号期间创建的钱包会存在风险。Trust Wallet 浏览器扩展使用的 ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1649710086992850946",
           "author": "吴说区块链",
           "description": "Re 但由于投票并未按照团队意愿进行，因此再次进行投票，民怨也更加沸腾。CAKE 的质押者大部分也快迎来解锁，他们可能去 BSC 上的如 Thena、Level Finance、Wombat 等其他项目，或者逃离 BSC。https://twitter.com/0xYond/status/1649688362712969219?s=20\n\nYond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯\n- BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）\n- 但由于pancake团队交付能力不佳，导致币安的态度转变 https://twitter.com/0xGeeGee/status/1649557410770460673",
@@ -163,46 +203,6 @@
           "publishedOn": "2023-04-22T01:53:22.000Z",
           "wordCount": 509,
           "title": "Re 攻击者（针对特定版本的 MyAlgo）于 1 月 21 日上传，攻击一直持续到 2 月中旬新版本 MyAlgo 发布。https://twitter.com/myalgo_/status/1649427788816842752",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649592196914622465",
-          "author": "吴说区块链",
-          "description": "吴说获悉，MyAlgo 公布其遭攻击报告，攻击者使用可能受损的 CDN API 密钥进行，尚不清楚 CDN API 密钥是如何获得的，在 MyAlgo 代码库中没有发现利用或漏洞的证据，日志丢失或 API 密钥可能是攻击者在 19 个月前获得的，",
-          "link": "https://twitter.com/wublockchain12/status/1649592196914622465",
-          "publishedOn": "2023-04-22T01:53:22.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，MyAlgo 公布其遭攻击报告，攻击者使用可能受损的 CDN API 密钥进行，尚不清楚 CDN API 密钥是如何获得的，在 MyAlgo 代码库中没有发现利用或漏洞的证...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649589773164756992",
-          "author": "吴说区块链",
-          "description": "Re https://twitter.com/Bitrace_team/status/1649344140210216961\n\n币追Bitrace: ⚠️早前社区用户曝光的假 @Orbiter_Finance撸毛教程骗局，我们根据部分受害者提供的地址信息进行了链上资金分析。\n☠️其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失～45.77 $ETH \n👀目前欺诈者已经将其中价值8万美元的代币转入@binance https://t.co/eutCE2wlX6",
-          "link": "https://twitter.com/wublockchain12/status/1649589773164756992",
-          "publishedOn": "2023-04-22T01:43:44.000Z",
-          "wordCount": 509,
-          "title": "Re https://twitter.com/Bitrace_team/status/1649344140210216961",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649589684916604928",
-          "author": "吴说区块链",
-          "description": "吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失45.77 ETH，目前欺诈者已将其中价值8万美元的代币转入 Binance。 https://twitter.com/wublockchain12/status/1648272295520239617\n\n吴说区块链: 吴说获悉，部分社区用户发现某撸毛博主发布的教程文章中 Orbiter 跨链桥网站为钓鱼网站，目前已骗取 30 多 ETH。该博主目前尚未正面回应此事。吴说提醒用户在交互时注意风险。",
-          "link": "https://twitter.com/wublockchain12/status/1649589684916604928",
-          "publishedOn": "2023-04-22T01:43:23.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649581542862364673",
-          "author": "吴说区块链",
-          "description": "Re 该法案将禁止数字资产服务提供商将客户存款与其他账户混合，包括提供商的运营资本、专有账户、数字资产、法定货币或其他非客户资金的财产。如果获得通过，签署成为法律，该法律将于 2023 年 9 月生效。（Decrypt）\nhttps://decrypt.co/137482/texas-proof-of-reserves-bill-passes-house-of-representatives",
-          "link": "https://twitter.com/wublockchain12/status/1649581542862364673",
-          "publishedOn": "2023-04-22T01:11:02.000Z",
-          "wordCount": 509,
-          "title": "Re 该法案将禁止数字资产服务提供商将客户存款与其他账户混合，包括提供商的运营资本、专有账户、数字资产、法定货币或其他非客户资金的财产。如果获得通过，签...",
           "imageUrl": null
         }
       ]
@@ -669,17 +669,17 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1648386893082402818",
           "author": "DeFi Educator",
-          "description": "Update: \nFinal stages of the disbelief rally. https://t.co/Ya3XlGAsLx\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
+          "description": "Update: \nFinal stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
           "link": "https://twitter.com/DeFi_educator/status/1648386893082402818",
           "publishedOn": "2023-04-18T18:03:55.000Z",
           "wordCount": 509,
-          "title": "Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx",
+          "title": "Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/DeFi_educator/status/1648385176940969984",
           "author": "DeFi Educator",
-          "description": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. \nhttps://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: Update https://t.co/AZTxTlJq9i",
+          "description": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. \nhttps://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i",
           "link": "https://twitter.com/DeFi_educator/status/1648385176940969984",
           "publishedOn": "2023-04-18T17:57:06.000Z",
           "wordCount": 509,
@@ -719,11 +719,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1646884429116198914",
           "author": "DeFi Educator",
-          "description": "Avoiding Vela like the plague 🫡\n\nLil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is \"fair\" https://t.co/T0zlCIxrnl",
+          "description": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970\n\nLil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is \"fair\" https://t.co/T0zlCIxrnl",
           "link": "https://twitter.com/DeFi_educator/status/1646884429116198914",
           "publishedOn": "2023-04-14T14:33:40.000Z",
           "wordCount": 509,
-          "title": "Avoiding Vela like the plague 🫡",
+          "title": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970",
           "imageUrl": null
         },
         {
