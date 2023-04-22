@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T18:15:01.206Z</id>
+    <id>urn:2023-04-22T19:09:48.420Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T18:15:01.206Z</updated>
+    <updated>2023-04-22T19:09:48.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -152,7 +152,7 @@ Star: As a crypto exchange with 10 years history, We take care of customers’
 23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。
 影响 ：2022/11/14～23 号期间创建的钱包会存在风险。
 原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。
-细节： https://twitter.com/trustwallet/status/1649699428733947906]]></summary>
+细节：]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -176,7 +176,7 @@ Star: As a crypto exchange with 10 years history, We take care of customers’
 
 Yond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯
 - BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）
-- 但由于pancake团队交付能力不佳，导致币安的态度转变 https://twitter.com/0xGeeGee/status/1649557410770460673]]></summary>
+- 但由于pancake团队交付能力不佳，导致币安的态度转变]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -382,11 +382,11 @@ Hal Press: If you aren't full time and don't want to give your money to an act
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571]]></title>
+        <title type="html"><![CDATA[Aleo新一轮大使计划5月5日开放]]></title>
         <id>https://twitter.com/8848Community/status/1649469045002104832</id>
         <link href="https://twitter.com/8848Community/status/1649469045002104832"/>
         <updated>2023-04-21T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571
+        <summary type="html"><![CDATA[Aleo新一轮大使计划5月5日开放
 
 Aleo: A limited number of spots will open for our ambassador program on May 5th.
 Ambassadors will gain exclusive opportunities to collect Aleo Points, attend top blockchain conferences with Aleo, and more. 
@@ -756,13 +756,13 @@ Probably nothing? 🤔
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/16490509747519...]]></title>
+        <title type="html"><![CDATA[1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀]]></title>
         <id>https://twitter.com/8848Community/status/1649053537954050053</id>
         <link href="https://twitter.com/8848Community/status/1649053537954050053"/>
         <updated>2023-04-20T14:12:56.000Z</updated>
         <summary type="html"><![CDATA[1inch 驾到 Zksync Era 了
 终于有点大厂东西在zksync上刷刷了
-另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/1649050974751948800
+另一匹独角受 @Uniswap 什么时候到Zksync Era呀
 
 1inch Network: 1/ 🦄 The #1inch mascot is entering a new era of #DeFi adventures!
 🙃 If you see a shiny bright portal animation on your screen with a cyber-unicorn standing next to it, you must know what it means, right?
@@ -825,11 +825,11 @@ Layer2项目越来越多，Gas 却越来越贵
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129]]></title>
+        <title type="html"><![CDATA[Connext 集成到 Fjord 上。]]></title>
         <id>https://twitter.com/8848Community/status/1649029177436438528</id>
         <link href="https://twitter.com/8848Community/status/1649029177436438528"/>
         <updated>2023-04-20T12:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129
+        <summary type="html"><![CDATA[Connext 集成到 Fjord 上。
 
 Fjord Foundry: ⛓️ LBPs are going cross chain! ⛓️
 We're excited to integrate @ConnextNetwork on Fjord to revolutionise the LBP experience for creators and participants. Read more👇
@@ -849,12 +849,12 @@ https://medium.com/@fjordfoundry/fjord-is-now-live-with-cross-chain-lbps-via-con
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/16483...]]></title>
+        <title type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY]]></title>
         <id>https://twitter.com/8848Community/status/1649027650143555591</id>
         <link href="https://twitter.com/8848Community/status/1649027650143555591"/>
         <updated>2023-04-20T12:30:03.000Z</updated>
         <summary type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 
-私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/1648316430767779841 https://t.co/5jRZqxLrMY
+私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY
 
 
 8848 社区（8848 Community）: 福利来袭~ @SpaceandTimeDB 送给 8848 10个 V3 NFT 
@@ -888,13 +888,13 @@ tornado cash dev alex pertsev reportedly released just now https://t.co/Lg1s01Va
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344]]></title>
+        <title type="html"><![CDATA[这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元]]></title>
         <id>https://twitter.com/8848Community/status/1648968825004777472</id>
         <link href="https://twitter.com/8848Community/status/1648968825004777472"/>
         <updated>2023-04-20T08:36:18.000Z</updated>
         <summary type="html"><![CDATA[这是10刀战神最励志的故事了
 两年买了3000多个垃圾币，平均一天买5个土狗
-从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344
+从10U 赚到200万美元
 
 Lookonchain: 1/ This guy is really good at trading shitcoins!
 He bought 2.52T $PEPE($816K currently) with 0.013 $ETH($25), which made him a 32,000X profit.
@@ -1010,12 +1010,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1033,7 +1033,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1163,11 +1163,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>

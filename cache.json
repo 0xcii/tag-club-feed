@@ -68,7 +68,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1649715422252376064",
           "author": "吴说区块链",
-          "description": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://twitter.com/IM_23pds/status/1649710111760453632\n\n23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。\n影响 ：2022/11/14～23 号期间创建的钱包会存在风险。\n原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。\n细节： https://twitter.com/trustwallet/status/1649699428733947906",
+          "description": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://twitter.com/IM_23pds/status/1649710111760453632\n\n23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。\n影响 ：2022/11/14～23 号期间创建的钱包会存在风险。\n原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。\n细节：",
           "link": "https://twitter.com/wublockchain12/status/1649715422252376064",
           "publishedOn": "2023-04-22T10:03:01.000Z",
           "wordCount": 509,
@@ -88,7 +88,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1649710086992850946",
           "author": "吴说区块链",
-          "description": "Re 但由于投票并未按照团队意愿进行，因此再次进行投票，民怨也更加沸腾。CAKE 的质押者大部分也快迎来解锁，他们可能去 BSC 上的如 Thena、Level Finance、Wombat 等其他项目，或者逃离 BSC。https://twitter.com/0xYond/status/1649688362712969219?s=20\n\nYond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯\n- BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）\n- 但由于pancake团队交付能力不佳，导致币安的态度转变 https://twitter.com/0xGeeGee/status/1649557410770460673",
+          "description": "Re 但由于投票并未按照团队意愿进行，因此再次进行投票，民怨也更加沸腾。CAKE 的质押者大部分也快迎来解锁，他们可能去 BSC 上的如 Thena、Level Finance、Wombat 等其他项目，或者逃离 BSC。https://twitter.com/0xYond/status/1649688362712969219?s=20\n\nYond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯\n- BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）\n- 但由于pancake团队交付能力不佳，导致币安的态度转变",
           "link": "https://twitter.com/wublockchain12/status/1649710086992850946",
           "publishedOn": "2023-04-22T09:41:49.000Z",
           "wordCount": 509,
@@ -235,11 +235,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1649469045002104832",
           "author": "8848 社区（8848 Community）",
-          "description": "Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571\n\nAleo: A limited number of spots will open for our ambassador program on May 5th.\nAmbassadors will gain exclusive opportunities to collect Aleo Points, attend top blockchain conferences with Aleo, and more. \nLet us know if you plan on applying👇 https://t.co/Um7zsU8ZYD",
+          "description": "Aleo新一轮大使计划5月5日开放\n\nAleo: A limited number of spots will open for our ambassador program on May 5th.\nAmbassadors will gain exclusive opportunities to collect Aleo Points, attend top blockchain conferences with Aleo, and more. \nLet us know if you plan on applying👇 https://t.co/Um7zsU8ZYD",
           "link": "https://twitter.com/8848Community/status/1649469045002104832",
           "publishedOn": "2023-04-21T17:44:00.000Z",
           "wordCount": 509,
-          "title": "Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571",
+          "title": "Aleo新一轮大使计划5月5日开放",
           "imageUrl": null
         },
         {
@@ -275,11 +275,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1649053537954050053",
           "author": "8848 社区（8848 Community）",
-          "description": "1inch 驾到 Zksync Era 了\n终于有点大厂东西在zksync上刷刷了\n另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/1649050974751948800\n\n1inch Network: 1/ 🦄 The #1inch mascot is entering a new era of #DeFi adventures!\n🙃 If you see a shiny bright portal animation on your screen with a cyber-unicorn standing next to it, you must know what it means, right?\n@zksync, welcome to the club 🥳🎉🎊 https://t.co/QDQUSBtJd1",
+          "description": "1inch 驾到 Zksync Era 了\n终于有点大厂东西在zksync上刷刷了\n另一匹独角受 @Uniswap 什么时候到Zksync Era呀\n\n1inch Network: 1/ 🦄 The #1inch mascot is entering a new era of #DeFi adventures!\n🙃 If you see a shiny bright portal animation on your screen with a cyber-unicorn standing next to it, you must know what it means, right?\n@zksync, welcome to the club 🥳🎉🎊 https://t.co/QDQUSBtJd1",
           "link": "https://twitter.com/8848Community/status/1649053537954050053",
           "publishedOn": "2023-04-20T14:12:56.000Z",
           "wordCount": 509,
-          "title": "1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/16490509747519...",
+          "title": "1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀",
           "imageUrl": null
         },
         {
@@ -315,11 +315,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1649029177436438528",
           "author": "8848 社区（8848 Community）",
-          "description": "Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129\n\nFjord Foundry: ⛓️ LBPs are going cross chain! ⛓️\nWe're excited to integrate @ConnextNetwork on Fjord to revolutionise the LBP experience for creators and participants. Read more👇\nhttps://medium.com/@fjordfoundry/fjord-is-now-live-with-cross-chain-lbps-via-connext-77ea3fe201d6",
+          "description": "Connext 集成到 Fjord 上。\n\nFjord Foundry: ⛓️ LBPs are going cross chain! ⛓️\nWe're excited to integrate @ConnextNetwork on Fjord to revolutionise the LBP experience for creators and participants. Read more👇\nhttps://medium.com/@fjordfoundry/fjord-is-now-live-with-cross-chain-lbps-via-connext-77ea3fe201d6",
           "link": "https://twitter.com/8848Community/status/1649029177436438528",
           "publishedOn": "2023-04-20T12:36:08.000Z",
           "wordCount": 509,
-          "title": "Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129",
+          "title": "Connext 集成到 Fjord 上。",
           "imageUrl": null
         },
         {
@@ -335,11 +335,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1649027650143555591",
           "author": "8848 社区（8848 Community）",
-          "description": "恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 \n私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/1648316430767779841 https://t.co/5jRZqxLrMY\n\n\n8848 社区（8848 Community）: 福利来袭~ @SpaceandTimeDB 送给 8848 10个 V3 NFT \n推特抽取5名（视频开奖，周四晚上）\n关注： @SpaceandTimeDB  \n加入：https://discord.gg/spaceandtimedb\n剩下5名会在8848 Discord 高级勇士中抽取~ https://t.co/64nsnlPKzt",
+          "description": "恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 \n私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY\n\n\n8848 社区（8848 Community）: 福利来袭~ @SpaceandTimeDB 送给 8848 10个 V3 NFT \n推特抽取5名（视频开奖，周四晚上）\n关注： @SpaceandTimeDB  \n加入：https://discord.gg/spaceandtimedb\n剩下5名会在8848 Discord 高级勇士中抽取~ https://t.co/64nsnlPKzt",
           "link": "https://twitter.com/8848Community/status/1649027650143555591",
           "publishedOn": "2023-04-20T12:30:03.000Z",
           "wordCount": 509,
-          "title": "恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/16483...",
+          "title": "恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY",
           "imageUrl": null
         },
         {
@@ -355,11 +355,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1648968825004777472",
           "author": "8848 社区（8848 Community）",
-          "description": "这是10刀战神最励志的故事了\n两年买了3000多个垃圾币，平均一天买5个土狗\n从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344\n\nLookonchain: 1/ This guy is really good at trading shitcoins!\nHe bought 2.52T $PEPE($816K currently) with 0.013 $ETH($25), which made him a 32,000X profit.\nHe has traded 3,000+ shitcoins in the past 2+ years and probably realized ~$2M in profit.\nHere are partially profitable tokens. https://t.co/dKzoK4xK4h",
+          "description": "这是10刀战神最励志的故事了\n两年买了3000多个垃圾币，平均一天买5个土狗\n从10U 赚到200万美元\n\nLookonchain: 1/ This guy is really good at trading shitcoins!\nHe bought 2.52T $PEPE($816K currently) with 0.013 $ETH($25), which made him a 32,000X profit.\nHe has traded 3,000+ shitcoins in the past 2+ years and probably realized ~$2M in profit.\nHere are partially profitable tokens. https://t.co/dKzoK4xK4h",
           "link": "https://twitter.com/8848Community/status/1648968825004777472",
           "publishedOn": "2023-04-20T08:36:18.000Z",
           "wordCount": 509,
-          "title": "这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344",
+          "title": "这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元",
           "imageUrl": null
         },
         {
@@ -669,17 +669,17 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1648386893082402818",
           "author": "DeFi Educator",
-          "description": "Update: \nFinal stages of the disbelief rally. https://t.co/Ya3XlGAsLx\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
+          "description": "Update: \nFinal stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
           "link": "https://twitter.com/DeFi_educator/status/1648386893082402818",
           "publishedOn": "2023-04-18T18:03:55.000Z",
           "wordCount": 509,
-          "title": "Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx",
+          "title": "Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/DeFi_educator/status/1648385176940969984",
           "author": "DeFi Educator",
-          "description": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. \nhttps://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: Update https://t.co/AZTxTlJq9i",
+          "description": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. \nhttps://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i",
           "link": "https://twitter.com/DeFi_educator/status/1648385176940969984",
           "publishedOn": "2023-04-18T17:57:06.000Z",
           "wordCount": 509,
@@ -719,11 +719,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1646884429116198914",
           "author": "DeFi Educator",
-          "description": "Avoiding Vela like the plague 🫡\n\nLil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is \"fair\" https://t.co/T0zlCIxrnl",
+          "description": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970\n\nLil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is \"fair\" https://t.co/T0zlCIxrnl",
           "link": "https://twitter.com/DeFi_educator/status/1646884429116198914",
           "publishedOn": "2023-04-14T14:33:40.000Z",
           "wordCount": 509,
-          "title": "Avoiding Vela like the plague 🫡",
+          "title": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970",
           "imageUrl": null
         },
         {
