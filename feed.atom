@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T07:11:04.789Z</id>
+    <id>urn:2023-04-22T08:15:04.941Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T07:11:04.789Z</updated>
+    <updated>2023-04-22T08:15:04.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Blur 创始人 Pacman 发推称，现已修复漏洞，并启用挂单价功能。除了修复导致这一问题的漏洞外，团队还实施了两个额外的冗余安全检查，以便这一问题...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649683420400988160</id>
+        <link href="https://twitter.com/wublockchain12/status/1649683420400988160"/>
+        <updated>2023-04-22T07:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Blur 创始人 Pacman 发推称，现已修复漏洞，并启用挂单价功能。除了修复导致这一问题的漏洞外，团队还实施了两个额外的冗余安全检查，以便这一问题不会再次发生。所有受影响的挂单价被接受的交易者将被获得其出价与当时适当的最高出价之间差价的 2 倍退款。
+https://twitter.com/PacmanBlur/status/1649650815592972288
+
+Pacman | Blur.io: Update: At around 8pm PT today, we detected a bug in our message processing that affected some bids that were cancelled in the last 80 hours. Once we detected the error, we disabled bid accept functionality. 36 affected bids were accepted during a 30 minute period. We’ve since… https://twitter.com/i/web/status/1649650815592972288]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/web3isgreat/status/1649639508562853889?s=46&t=86beLUq6gMe-5ZecLzONWg https://twitter.com/dingalingts/status/1649612936309248000]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649674640808361984</id>
+        <link href="https://twitter.com/wublockchain12/status/1649674640808361984"/>
+        <updated>2023-04-22T07:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/web3isgreat/status/1649639508562853889?s=46&t=86beLUq6gMe-5ZecLzONWg
+https://twitter.com/dingalingts/status/1649612936309248000
+
+dingaling: Lots of people with old Azuki bids getting rekt. This address just ate 9 Azukis for 15.52E each when the floor is 15.00E https://t.co/wjJuQF5eyx]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前尚不清楚由于该漏洞损失了多少钱，但 Blur 联合创始人 Pacman 宣布“一旦问题得到解决，任何损失都将退还”。NFT 收藏者 dingaling 提醒用户及时撤出资产...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649674638816055296</id>
+        <link href="https://twitter.com/wublockchain12/status/1649674638816055296"/>
+        <updated>2023-04-22T07:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前尚不清楚由于该漏洞损失了多少钱，但 Blur 联合创始人 Pacman 宣布“一旦问题得到解决，任何损失都将退还”。NFT 收藏者 dingaling 提醒用户及时撤出资产，因为此漏洞，很多地址对 Azuki 系列 NFT 的历史挂单都生效了，有一个地址在该系列 NFT 地板价在15 ETH的时候，触发了9个15.52 ETH的挂单。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Blur 目前已禁用“接受挂单价”（BID ACCEPTS）功能，以应对该平台上出现的“历史挂单（已过期或已取消）仍自动执行”的漏洞。该漏洞意味着那些在 NFT...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1649674637113192448</id>
+        <link href="https://twitter.com/wublockchain12/status/1649674637113192448"/>
+        <updated>2023-04-22T07:20:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Blur 目前已禁用“接受挂单价”（BID ACCEPTS）功能，以应对该平台上出现的“历史挂单（已过期或已取消）仍自动执行”的漏洞。该漏洞意味着那些在 NFT 以更高的价格出售时出价然后取消它们的人突然发现这些购买正在进行中。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @argentHQ Does the contract wallet support multi-signature management?]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1649659306101592066</id>
+        <link href="https://twitter.com/AntCaveClub/status/1649659306101592066"/>
+        <updated>2023-04-22T06:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @argentHQ Does the contract wallet support multi-signature management?]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[结束了，一切都结束了，大盘抄底被套，SUI白单没有，NFT归零，加密结束了，我的自由梦也做到尽头，我彻底迷失了。 https://t.co/zoghtlcomy]]></title>
         <id>https://twitter.com/8848Community/status/1649647506484236288</id>
@@ -63,7 +119,7 @@
         <summary type="html"><![CDATA[Re 曾纠结过定位是科技公司还是文化公司，还是介于二者，后来聘请了 Zora zine 的主编 Yana，通过故事、调性的表达让用户感知他们是什么样的公司等。https://twitter.com/byobu4/status/1649550452760154112?s=20
 
 PingFeng⌐◨-◨🦇🔊: 笑着听完这一期😁了解了一下Zora背后的故事，也许是因为自己是挺被美/aesthetic驱动的一个人，Zora时刻在传递美感，加上它做了Nouns Builder，我逐渐对Zora有越来越多的好感。记录一些notes：
-1. Zora最开始是售卖实体物品的，但是突然来了一个大刀阔斧的方向调整，所有东西改到链上]]></summary>
+1. Zora最开始是售卖实体物品的，但是突然来了一个大刀阔斧的方向调整，所有东西改到链上 https://twitter.com/web3talks/status/1648755785948618771]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -150,7 +206,7 @@ The following findings and report took longer than expected to finish given the 
         <id>https://twitter.com/wublockchain12/status/1649589684916604928</id>
         <link href="https://twitter.com/wublockchain12/status/1649589684916604928"/>
         <updated>2023-04-22T01:43:23.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失45.77 ETH，目前欺诈者已将其中价值8万美元的代币转入 Binance。
+        <summary type="html"><![CDATA[吴说获悉，早前社区用户曝光的假撸毛教程骗局，币追根据部分受害者提供的地址信息进行了链上资金分析，发现其中欺诈者使用三个地址进行欺诈活动，52名受害人共损失45.77 ETH，目前欺诈者已将其中价值8万美元的代币转入 Binance。 https://twitter.com/wublockchain12/status/1648272295520239617
 
 吴说区块链: 吴说获悉，部分社区用户发现某撸毛博主发布的教程文章中 Orbiter 跨链桥网站为钓鱼网站，目前已骗取 30 多 ETH。该博主目前尚未正面回应此事。吴说提醒用户在交互时注意风险。]]></summary>
         <author>
@@ -239,52 +295,6 @@ https://cointelegraph.com/news/innovate-some-compliance-mechanisms-us-treasury-o
         <link href="https://twitter.com/wublockchain12/status/1649577002524110849"/>
         <updated>2023-04-22T00:52:59.000Z</updated>
         <summary type="html"><![CDATA[美国财政部助理部长 Elizabeth Rosenberg 表示，美国财政部对 DeFi 进行了风险评估，发现该领域在几个方面存在不足，将加强监管。据财政部4月的一份报告发现诈骗者、洗钱者和朝鲜黑客受益于该行业缺乏反洗钱（AML）和打击恐怖主义融资（CFT）合规性。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Gemini Foundation 将允许符合条件的客户利用他们的加密资产来实现多头或空头加密敞口，以管理风险、产生回报并获得定向敞口。（The Block） https://www.the...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649571142225784833</id>
-        <link href="https://twitter.com/wublockchain12/status/1649571142225784833"/>
-        <updated>2023-04-22T00:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Re Gemini Foundation 将允许符合条件的客户利用他们的加密资产来实现多头或空头加密敞口，以管理风险、产生回报并获得定向敞口。（The Block）
-https://www.theblock.co/post/227722/gemini-foundation]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币交易所 Gemini 将在美国境外开设衍生品平台 Gemini Foundation，其首个产品将是以 Gemini dollars (GUSD) 计价的 BTC 永续合约，之后会是与 GUSD 挂钩的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649571140086693889</id>
-        <link href="https://twitter.com/wublockchain12/status/1649571140086693889"/>
-        <updated>2023-04-22T00:29:42.000Z</updated>
-        <summary type="html"><![CDATA[加密货币交易所 Gemini 将在美国境外开设衍生品平台 Gemini Foundation，其首个产品将是以 Gemini dollars (GUSD) 计价的 BTC 永续合约，之后会是与 GUSD 挂钩的 ETH 永续合约。与传统衍生品不同，永续合约没有到期日。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前，OPNX 被称为 CoinFlex，而 DRW 和 Nascent 是 CoinFlex 的投资者。 https://twitter.com/OPNX_Official/status/1649478054643638279]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649561426590318592</id>
-        <link href="https://twitter.com/wublockchain12/status/1649561426590318592"/>
-        <updated>2023-04-21T23:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前，OPNX 被称为 CoinFlex，而 DRW 和 Nascent 是 CoinFlex 的投资者。
-https://twitter.com/OPNX_Official/status/1649478054643638279
-
-OPNX 💪: At OPNX, our core value is transparency. 
-We believe in full disclosure of our institutional backers and key strategic partners. It's ugly for firms to seek financial gain while simultaneously denying association due to fear of social media backlash.
-Should any party waver in… https://twitter.com/i/web/status/1649478054643638279]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，DRW、Nascent、MIAX 和 Susquehanna (SIG) 均否认投资 OPNX。在多方否认中，OPNX 再次发推表示，由于担心社交媒体的强烈反对，公司在寻求经济利益的同...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649561423603986432</id>
-        <link href="https://twitter.com/wublockchain12/status/1649561423603986432"/>
-        <updated>2023-04-21T23:51:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，DRW、Nascent、MIAX 和 Susquehanna (SIG) 均否认投资 OPNX。在多方否认中，OPNX 再次发推表示，由于担心社交媒体的强烈反对，公司在寻求经济利益的同时又拒绝建立联系，如果任何一方在致力于透明度和行业进步方面动摇，不希望他们将来成为投资者。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -988,12 +998,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1011,7 +1021,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1105,20 +1115,6 @@ https://linktr.ee/onchainwizardscauldron]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 4. Nvidia GPU 的在销售价格涨到了 4 万美元： https://twitter.com/ID_AA_Carmack/status/1646676148657569792 5. @elonmusk 创建了一个AI 公司： X https:/...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1647434943403016193</id>
-        <link href="https://twitter.com/AntCaveClub/status/1647434943403016193"/>
-        <updated>2023-04-16T03:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Re 4. Nvidia GPU 的在销售价格涨到了 4 万美元：  https://twitter.com/ID_AA_Carmack/status/1646676148657569792 
-5. @elonmusk  创建了一个AI 公司： X   https://twitter.com/elonmusk/status/1645684041264529408
-另外， 说不定扎克伯格过两天会把公司改名： AI 😅
-
-Elon Musk: X]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Silent Protocol: ⭐️The Silent Manifesto ⭐️ The lack of privacy on-chain and why it matters, a short thread on why privacy will be the key to ma...]]></title>
         <id>https://twitter.com/silentdao_/status/1646935806181777426</id>
         <link href="https://twitter.com/silentdao_/status/1646935806181777426"/>
@@ -1155,11 +1151,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>
