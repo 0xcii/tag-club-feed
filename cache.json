@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1649931335069495296",
+          "author": "吴说区块链",
+          "description": "Re https://hashrateindex.com/blog/bitcoin-mining-stocks-are-crushing-it-so-far-in-2023/",
+          "link": "https://twitter.com/wublockchain12/status/1649931335069495296",
+          "publishedOn": "2023-04-23T00:20:59.000Z",
+          "wordCount": 509,
+          "title": "Re https://hashrateindex.com/blog/bitcoin-mining-stocks-are-crushing-it-so-far-in-2023/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1649931332523548672",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 hashrateindex，比特币矿业股2023 年迄今已上涨 115%，高于比特币 79% 的涨幅，与此同时，纳斯达克只上涨了 20%。Core Scientific 在上涨 455% 后成为 2023 年迄今为止表现最好的股票。其他稳定的表现者包括 Digihost、Cipher、Riot、Iris Energy 和 Marathon。",
+          "link": "https://twitter.com/wublockchain12/status/1649931332523548672",
+          "publishedOn": "2023-04-23T00:20:58.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，据 hashrateindex，比特币矿业股2023 年迄今已上涨 115%，高于比特币 79% 的涨幅，与此同时，纳斯达克只上涨了 20%。Core Scientific 在上涨 455% 后...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1649928358724259841",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Sui 公布了香港 Demo Day 结果，社交应用 Suia、Visual Studio Code 插件 Sui Move Analyzer、集成 ChatGPT 的 ComingChat、借贷平台 Aries Market 分别获得不同赛道的第一名。阅读更多：https://blog.sui.io/sui-demo-day-hk-results/",
+          "link": "https://twitter.com/wublockchain12/status/1649928358724259841",
+          "publishedOn": "2023-04-23T00:09:09.000Z",
+          "wordCount": 509,
+          "title": "吴说获悉，Sui 公布了香港 Demo Day 结果，社交应用 Suia、Visual Studio Code 插件 Sui Move Analyzer、集成 ChatGPT 的 ComingChat、借贷平台 Aries Market 分...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1649779466376466433",
           "author": "吴说区块链",
           "description": "USDT 市值周四达到 815 亿美元，创下自 2022 年 5 月 Terra 崩盘以来的最高点。自 2023 年初以来，Tether 已发行 150 亿美元的新 USDT。Blockworks Research 的数据显示，Tether 的市场份额为 63%，这是 2 年来的最高点。（Blockwork）https://blockworks.co/news/usdt-market-share-all-time-high",
@@ -68,7 +98,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1649715422252376064",
           "author": "吴说区块链",
-          "description": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://twitter.com/IM_23pds/status/1649710111760453632\n\n23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。\n影响 ：2022/11/14～23 号期间创建的钱包会存在风险。\n原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。\n细节：",
+          "description": "Re 官方迅速修补了漏洞，所有在这些日期之后创建的地址都是安全的，在攻击发生时造成了大约 170,000 美元的总损失，官网为受影响的用户创建了补偿流程。https://twitter.com/IM_23pds/status/1649710111760453632\n\n23pds: ⚠️Trust Wallet 钱包浏览器插件披露了一个MT19937 伪随机数问题。\n影响 ：2022/11/14～23 号期间创建的钱包会存在风险。\n原因：当时 Trust Wallet 浏览器扩展使用的 MT19937 伪随机数生成器，没有提供足够的随机性，导致私钥可以被破解泄漏。\n细节： https://twitter.com/trustwallet/status/1649699428733947906",
           "link": "https://twitter.com/wublockchain12/status/1649715422252376064",
           "publishedOn": "2023-04-22T10:03:01.000Z",
           "wordCount": 509,
@@ -88,7 +118,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1649710086992850946",
           "author": "吴说区块链",
-          "description": "Re 但由于投票并未按照团队意愿进行，因此再次进行投票，民怨也更加沸腾。CAKE 的质押者大部分也快迎来解锁，他们可能去 BSC 上的如 Thena、Level Finance、Wombat 等其他项目，或者逃离 BSC。https://twitter.com/0xYond/status/1649688362712969219?s=20\n\nYond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯\n- BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）\n- 但由于pancake团队交付能力不佳，导致币安的态度转变",
+          "description": "Re 但由于投票并未按照团队意愿进行，因此再次进行投票，民怨也更加沸腾。CAKE 的质押者大部分也快迎来解锁，他们可能去 BSC 上的如 Thena、Level Finance、Wombat 等其他项目，或者逃离 BSC。https://twitter.com/0xYond/status/1649688362712969219?s=20\n\nYond V2 (📖 , 📈): 这条Thread解释了目前BSC DeFi的困境，我觉得很有价值，做一下简单的翻译+提纯\n- BSC初期币安有意扶持 @PancakeSwap，由于资源的高度集中，导致pancake的挑战者没有得到太多支持（21年火爆全网的 @babyswap_bsc 现在已经几乎销声匿迹）\n- 但由于pancake团队交付能力不佳，导致币安的态度转变 https://twitter.com/0xGeeGee/status/1649557410770460673",
           "link": "https://twitter.com/wublockchain12/status/1649710086992850946",
           "publishedOn": "2023-04-22T09:41:49.000Z",
           "wordCount": 509,
@@ -173,36 +203,6 @@
           "publishedOn": "2023-04-22T07:20:57.000Z",
           "wordCount": 509,
           "title": "吴说获悉，Blur 目前已禁用“接受挂单价”（BID ACCEPTS）功能，以应对该平台上出现的“历史挂单（已过期或已取消）仍自动执行”的漏洞。该漏洞意味着那些在 NFT...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649605732533440513",
-          "author": "吴说区块链",
-          "description": "Re 针对前者，开发者展开了讨论并谈及数据可用性抽样 DAS 实现将使该假设方案失效，不过由于会议缺少执行层客户端相关代表，所以问题暂按下不表留待下周执行层开发者会议讨论。https://www.galaxy.com/research/insights/ethereum-all-core-developers-consensus-call-107/",
-          "link": "https://twitter.com/wublockchain12/status/1649605732533440513",
-          "publishedOn": "2023-04-22T02:47:09.000Z",
-          "wordCount": 509,
-          "title": "Re 针对前者，开发者展开了讨论并谈及数据可用性抽样 DAS 实现将使该假设方案失效，不过由于会议缺少执行层客户端相关代表，所以问题暂按下不表留待下周执行层开...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649605730767613952",
-          "author": "吴说区块链",
-          "description": "Re 其中，EIP4844 的第五个开发者测试网将于下周上线；开发者还讨论了在链重组事件中如何将 blob 交易重新插入区块中的问题，对此 Danny Ryan 也提出了两种解决方案：让共识层将每个块的 blob 数据传递给执行层或者让用户重新提交交易。",
-          "link": "https://twitter.com/wublockchain12/status/1649605730767613952",
-          "publishedOn": "2023-04-22T02:47:09.000Z",
-          "wordCount": 509,
-          "title": "Re 其中，EIP4844 的第五个开发者测试网将于下周上线；开发者还讨论了在链重组事件中如何将 blob 交易重新插入区块中的问题，对此 Danny Ryan 也提出了两种解决...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1649605729060552704",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议107（ACDC）的总结，本次会议主要讨论了 Deneb（即 EIP4844，此前已更名） 的最新进展以及在下一次升级中，还有哪些代码修改（EIP 提案）需要被纳入。",
-          "link": "https://twitter.com/wublockchain12/status/1649605729060552704",
-          "publishedOn": "2023-04-22T02:47:08.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议107（ACDC）的总结，本次会议主要讨论了 Deneb（即 EIP4844，此前已更名） ...",
           "imageUrl": null
         }
       ]
@@ -442,11 +442,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1649420968253612036",
           "author": "链求君 | (C,C)",
-          "description": "空投给 开发者。\n\nthirdweb: AIRDROP! 🪂\nFor builders, there is no bear market.\nTo celebrate the progress in Web3 over the last 18 months, we're giving every developer who has deployed a smart contract during the bear market a free, gasless NFT pack to claim.\nOpen the pack → win cool prizes 👀\n👇🧵 https://t.co/H1Rivi0qLv",
+          "description": "空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025\n\nthirdweb: AIRDROP! 🪂\nFor builders, there is no bear market.\nTo celebrate the progress in Web3 over the last 18 months, we're giving every developer who has deployed a smart contract during the bear market a free, gasless NFT pack to claim.\nOpen the pack → win cool prizes 👀\n👇🧵 https://t.co/H1Rivi0qLv",
           "link": "https://twitter.com/AntCaveClub/status/1649420968253612036",
           "publishedOn": "2023-04-21T14:32:58.000Z",
           "wordCount": 509,
-          "title": "空投给 开发者。",
+          "title": "空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025",
           "imageUrl": null
         },
         {
@@ -866,11 +866,11 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1648306325619605521",
           "author": "Onchain Wizard",
-          "description": "Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356\n\nShitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵",
+          "description": "Good refresher for you degens hunting micro cap meme coins right now.\n\nShitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵",
           "link": "https://twitter.com/OnChainWizard/status/1648306325619605521",
           "publishedOn": "2023-04-18T12:43:46.000Z",
           "wordCount": 509,
-          "title": "Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356",
+          "title": "Good refresher for you degens hunting micro cap meme coins right now.",
           "imageUrl": null
         },
         {
@@ -1043,11 +1043,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1649772660195205122",
           "author": "DeFi Surfer",
-          "description": "Good list of things to be aware of\n\nEvanss6.eth: @DeFiSurfer808 There are a lot of factors lining up for June/Q3/Q4 with a good chance of culminating with a credit event\n-seasonality (sell in May and go away)\n-recession likely q4/q1ish, market still pricing soft landing hopium \n-higher oil / tightness in oil market + severely depleted SPR",
+          "description": "Good list of things to be aware of https://twitter.com/evan_ss6/status/1649771723938488323\n\nEvanss6.eth: @DeFiSurfer808 There are a lot of factors lining up for June/Q3/Q4 with a good chance of culminating with a credit event\n-seasonality (sell in May and go away)\n-recession likely q4/q1ish, market still pricing soft landing hopium \n-higher oil / tightness in oil market + severely depleted SPR",
           "link": "https://twitter.com/DeFiSurfer808/status/1649772660195205122",
           "publishedOn": "2023-04-22T13:50:28.000Z",
           "wordCount": 509,
-          "title": "Good list of things to be aware of",
+          "title": "Good list of things to be aware of https://twitter.com/evan_ss6/status/1649771723938488323",
           "imageUrl": null
         },
         {
@@ -1073,11 +1073,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1649764366537900034",
           "author": "DeFi Surfer",
-          "description": "Get so rich you turn your account into a fitness / motivational blog \n#goals\n\nDovey \"Rug the fiat\" Wan: On “Bio Hacking”\nAlways got friends ask “how to bio hack”\nI don’t like the term “bio hack” as it makes us think there is magical quick fix in achieving bio vitality\nbut in reality most of us are not even getting the basic right: good sleep, food, mood and moves \n1/ https://t.co/9LyNAMClrc",
+          "description": "Get so rich you turn your account into a fitness / motivational blog \n#goals https://twitter.com/doveywan/status/1649628145182711809\n\nDovey \"Rug the fiat\" Wan: On “Bio Hacking”\nAlways got friends ask “how to bio hack”\nI don’t like the term “bio hack” as it makes us think there is magical quick fix in achieving bio vitality\nbut in reality most of us are not even getting the basic right: good sleep, food, mood and moves \n1/ https://t.co/9LyNAMClrc",
           "link": "https://twitter.com/DeFiSurfer808/status/1649764366537900034",
           "publishedOn": "2023-04-22T13:17:30.000Z",
           "wordCount": 509,
-          "title": "Get so rich you turn your account into a fitness / motivational blog #goals",
+          "title": "Get so rich you turn your account into a fitness / motivational blog #goals https://twitter.com/doveywan/status/1649628145182711809",
           "imageUrl": null
         },
         {
@@ -1113,11 +1113,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1649586001050828801",
           "author": "DeFi Surfer",
-          "description": "As a wage cuck increasingly agree with this take…\nImpossible to keep up with full timers and serial dumping banditos like @Cryptopleb4 and @xcurveth.\n\nHal Press: If you aren't full time and don't want to give your money to an active manager there is only one way to invest in crypto IMO.  Buy and hold ETH. Trying to trade yourself if you aren't full time does more harm than good, and there aren't any other assets in the space I'd recommend… https://twitter.com/i/web/status/1649583065448972289",
+          "description": "As a wage cuck increasingly agree with this take…\nImpossible to keep up with full timers and serial dumping banditos like @Cryptopleb4 and @xcurveth. https://twitter.com/northrocklp/status/1649583065448972289\n\nHal Press: If you aren't full time and don't want to give your money to an active manager there is only one way to invest in crypto IMO.  Buy and hold ETH. Trying to trade yourself if you aren't full time does more harm than good, and there aren't any other assets in the space I'd recommend… https://twitter.com/i/web/status/1649583065448972289",
           "link": "https://twitter.com/DeFiSurfer808/status/1649586001050828801",
           "publishedOn": "2023-04-22T01:28:45.000Z",
           "wordCount": 509,
-          "title": "As a wage cuck increasingly agree with this take… Impossible to keep up with full timers and serial dumping banditos like @Cryptopleb4 and @xcurveth.",
+          "title": "As a wage cuck increasingly agree with this take… Impossible to keep up with full timers and serial dumping banditos like @Cryptopleb4 and @xcurveth....",
           "imageUrl": null
         },
         {
@@ -1183,11 +1183,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1649406267331342338",
           "author": "DeFi Surfer",
-          "description": "#uponly\n\nPatrick | Dynamo DeFi: After hovering around same the level since the airdrop, daily Arbitrum transactions have pushed higher than Ethereum over the past week. https://t.co/VyvyfdxEnw",
+          "description": "#uponly https://twitter.com/dynamo_patrick/status/1649402629460566016\n\nPatrick | Dynamo DeFi: After hovering around same the level since the airdrop, daily Arbitrum transactions have pushed higher than Ethereum over the past week. https://t.co/VyvyfdxEnw",
           "link": "https://twitter.com/DeFiSurfer808/status/1649406267331342338",
           "publishedOn": "2023-04-21T13:34:33.000Z",
           "wordCount": 509,
-          "title": "#uponly",
+          "title": "#uponly https://twitter.com/dynamo_patrick/status/1649402629460566016",
           "imageUrl": null
         },
         {
