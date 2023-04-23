@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T12:23:39.789Z</id>
+    <id>urn:2023-04-23T13:14:08.651Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-23T12:23:39.789Z</updated>
+    <updated>2023-04-23T13:14:08.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 此前，Gitcoin 第一轮采用了防女巫的 Passport 模式，满足最低的 Passport 分数才能进行投票。 https://twitter.com/gitcoin/status/1649740462385766401]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650079635861020672</id>
+        <link href="https://twitter.com/wublockchain12/status/1650079635861020672"/>
+        <updated>2023-04-23T10:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前，Gitcoin 第一轮采用了防女巫的 Passport 模式，满足最低的 Passport 分数才能进行投票。
+https://twitter.com/gitcoin/status/1649740462385766401
+
+Gitcoin (🤖, 💚): Gitcoin Grants Beta round is right around the corner! 👀
+Have you checked if your Gitcoin Passport is up to date lately? 
+To confirm your identity, we reset your passport every 90 days to ensure all your qualifications are up to date ✅
+In order to participate in our Gitcoin… https://twitter.com/i/web/status/1649740462385766401 https://t.co/5Ny3eiLHwL]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Gitcoin Grants Beta 轮即将开始（4.25-5.9），用户可以先进行刷分。官方提醒用户可以先检查一下 Gitcoin Passport 是否为最新版本，为了确认身份，官...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650079633726140416</id>
+        <link href="https://twitter.com/wublockchain12/status/1650079633726140416"/>
+        <updated>2023-04-23T10:10:16.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Gitcoin Grants Beta 轮即将开始（4.25-5.9），用户可以先进行刷分。官方提醒用户可以先检查一下 Gitcoin Passport 是否为最新版本，为了确认身份，官方会每 90 天重置一次 Passport，参加 Gitcoin Grants Beta 回合，用户必须在 4 月 25 日 Beta 回合上线之前重新收集 Stamp。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lanyihou @RektARB 那真是泰裤辣]]></title>
+        <id>https://twitter.com/8848Community/status/1650073227308449792</id>
+        <link href="https://twitter.com/8848Community/status/1650073227308449792"/>
+        <updated>2023-04-23T09:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @lanyihou @RektARB 那真是泰裤辣]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 自 Dvol（衡量 BTC 市场预期或隐含波动率的指标）上市以来，主要加密市场的 IV 的下跌趋势越发明显。https://twitter.com/BTC__options/status/1650040180194...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650067314866544640</id>
+        <link href="https://twitter.com/wublockchain12/status/1650067314866544640"/>
+        <updated>2023-04-23T09:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 自 Dvol（衡量 BTC 市场预期或隐含波动率的指标）上市以来，主要加密市场的 IV 的下跌趋势越发明显。https://twitter.com/BTC__options/status/1650040180194279425
+
+Adam@Greeks.live: 本周加密市场出现大幅回调，主流加密货币跌幅均超过10%，短期RV大幅上升，10Day RV几近翻倍。
+但是与此同时，BTC和ETH 主要期限IV反而出现明显下跌，Dvol也在一路走跌，创出54.3%的历史新低。自Dvol上市以来，主要加密市场的IV的下跌趋势越发明显。 https://t.co/Gt8nR3ua9Q]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Greekslive，本周加密市场出现大幅回调，主流加密货币跌幅均超过10%，短期 RV （已实现波动率）大幅上升，10Day RV 几近翻倍。与此同时，BTC 和 ET...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650067312924590080</id>
+        <link href="https://twitter.com/wublockchain12/status/1650067312924590080"/>
+        <updated>2023-04-23T09:21:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，本周加密市场出现大幅回调，主流加密货币跌幅均超过10%，短期 RV （已实现波动率）大幅上升，10Day RV 几近翻倍。与此同时，BTC 和 ETH 主要期限 IV 反而出现明显下跌，Dvol 也在一路走跌，创出54.3%的历史新低。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @QMQT5126 不要在意细节，明显是为了发个图瞎掰的]]></title>
         <id>https://twitter.com/8848Community/status/1650031753627844608</id>
@@ -26,12 +85,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[笑死 菲律宾健康部喊单 https://twitter.com/DOHgovph/status/1649685997980987393]]></title>
+        <title type="html"><![CDATA[笑死 菲律宾健康部喊单]]></title>
         <id>https://twitter.com/8848Community/status/1650026626720362497</id>
         <link href="https://twitter.com/8848Community/status/1650026626720362497"/>
         <updated>2023-04-23T06:39:38.000Z</updated>
         <summary type="html"><![CDATA[笑死
-菲律宾健康部喊单 https://twitter.com/DOHgovph/status/1649685997980987393
+菲律宾健康部喊单
 
 Department of Health Philippines: eth should honestly pump to $4000 by next month.
 the doh will pump it 🙏]]></summary>
@@ -274,23 +333,28 @@ Celsius Official Committee of Unsecured Creditors: The other 2x qualified bidd
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 hashrateindex，比特币矿业股2023 年迄今已上涨 115%，高于比特币 79% 的涨幅，与此同时，纳斯达克只上涨了 20%。Core Scientific 在上涨 455% 后...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649931332523548672</id>
-        <link href="https://twitter.com/wublockchain12/status/1649931332523548672"/>
-        <updated>2023-04-23T00:20:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 hashrateindex，比特币矿业股2023 年迄今已上涨 115%，高于比特币 79% 的涨幅，与此同时，纳斯达克只上涨了 20%。Core Scientific 在上涨 455% 后成为 2023 年迄今为止表现最好的股票。其他稳定的表现者包括 Digihost、Cipher、Riot、Iris Energy 和 Marathon。]]></summary>
+        <title type="html"><![CDATA[RT Primo Data: Blockchain Data Landscape w/ 194 projects 🧵 of recent additions: Bitnodes @Candlestick_io @datawisp @dPrism_ai @jie_data @KYVENetwor...]]></title>
+        <id>https://twitter.com/primo_data/status/1649825983158177792</id>
+        <link href="https://twitter.com/primo_data/status/1649825983158177792"/>
+        <updated>2023-04-22T17:22:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Primo Data
+Blockchain Data Landscape w/ 194 projects
+🧵 of recent additions:
+Bitnodes
+@Candlestick_io
+@datawisp
+@dPrism_ai
+@jie_data
+@KYVENetwork
+@Metacat007
+@OKLink
+@paradigm
+@streamr
+@TreehouseFi
+WalletLabels by @aiden0x4
+See here: https://primodata.org/landscape.html https://t.co/yzRmkdVy4l]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Sui 公布了香港 Demo Day 结果，社交应用 Suia、Visual Studio Code 插件 Sui Move Analyzer、集成 ChatGPT 的 ComingChat、借贷平台 Aries Market 分...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649928358724259841</id>
-        <link href="https://twitter.com/wublockchain12/status/1649928358724259841"/>
-        <updated>2023-04-23T00:09:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Sui 公布了香港 Demo Day 结果，社交应用 Suia、Visual Studio Code 插件 Sui Move Analyzer、集成 ChatGPT 的 ComingChat、借贷平台 Aries Market 分别获得不同赛道的第一名。阅读更多：https://blog.sui.io/sui-demo-day-hk-results/]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -301,26 +365,6 @@ Celsius Official Committee of Unsecured Creditors: The other 2x qualified bidd
         <summary type="html"><![CDATA[Re @crypto_linn Think the peepee pattern more bullish]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDT 市值周四达到 815 亿美元，创下自 2022 年 5 月 Terra 崩盘以来的最高点。自 2023 年初以来，Tether 已发行 150 亿美元的新 USDT。Blockworks Research 的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649779466376466433</id>
-        <link href="https://twitter.com/wublockchain12/status/1649779466376466433"/>
-        <updated>2023-04-22T14:17:30.000Z</updated>
-        <summary type="html"><![CDATA[USDT 市值周四达到 815 亿美元，创下自 2022 年 5 月 Terra 崩盘以来的最高点。自 2023 年初以来，Tether 已发行 150 亿美元的新 USDT。Blockworks Research 的数据显示，Tether 的市场份额为 63%，这是 2 年来的最高点。（Blockwork）https://blockworks.co/news/usdt-market-share-all-time-high]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/SXmYGgXOrX]]></title>
-        <id>https://twitter.com/wublockchain12/status/1649778455595343872</id>
-        <link href="https://twitter.com/wublockchain12/status/1649778455595343872"/>
-        <updated>2023-04-22T14:13:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/SXmYGgXOrX]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -472,11 +516,11 @@ Hal Press: If you aren't full time and don't want to give your money to an act
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571]]></title>
+        <title type="html"><![CDATA[Aleo新一轮大使计划5月5日开放]]></title>
         <id>https://twitter.com/8848Community/status/1649469045002104832</id>
         <link href="https://twitter.com/8848Community/status/1649469045002104832"/>
         <updated>2023-04-21T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Aleo新一轮大使计划5月5日开放 https://twitter.com/AleoHQ/status/1648335586409709571
+        <summary type="html"><![CDATA[Aleo新一轮大使计划5月5日开放
 
 Aleo: A limited number of spots will open for our ambassador program on May 5th.
 Ambassadors will gain exclusive opportunities to collect Aleo Points, attend top blockchain conferences with Aleo, and more. 
@@ -790,13 +834,13 @@ Probably nothing? 🤔
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/16490509747519...]]></title>
+        <title type="html"><![CDATA[1inch 驾到 Zksync Era 了 终于有点大厂东西在zksync上刷刷了 另一匹独角受 @Uniswap 什么时候到Zksync Era呀]]></title>
         <id>https://twitter.com/8848Community/status/1649053537954050053</id>
         <link href="https://twitter.com/8848Community/status/1649053537954050053"/>
         <updated>2023-04-20T14:12:56.000Z</updated>
         <summary type="html"><![CDATA[1inch 驾到 Zksync Era 了
 终于有点大厂东西在zksync上刷刷了
-另一匹独角受 @Uniswap 什么时候到Zksync Era呀 https://twitter.com/1inch/status/1649050974751948800
+另一匹独角受 @Uniswap 什么时候到Zksync Era呀
 
 1inch Network: 1/ 🦄 The #1inch mascot is entering a new era of #DeFi adventures!
 🙃 If you see a shiny bright portal animation on your screen with a cyber-unicorn standing next to it, you must know what it means, right?
@@ -859,11 +903,11 @@ Layer2项目越来越多，Gas 却越来越贵
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129]]></title>
+        <title type="html"><![CDATA[Connext 集成到 Fjord 上。]]></title>
         <id>https://twitter.com/8848Community/status/1649029177436438528</id>
         <link href="https://twitter.com/8848Community/status/1649029177436438528"/>
         <updated>2023-04-20T12:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Connext 集成到 Fjord 上。 https://twitter.com/FjordFoundry/status/1648415598249136129
+        <summary type="html"><![CDATA[Connext 集成到 Fjord 上。
 
 Fjord Foundry: ⛓️ LBPs are going cross chain! ⛓️
 We're excited to integrate @ConnextNetwork on Fjord to revolutionise the LBP experience for creators and participants. Read more👇
@@ -883,12 +927,12 @@ https://medium.com/@fjordfoundry/fjord-is-now-live-with-cross-chain-lbps-via-con
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/16483...]]></title>
+        <title type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY]]></title>
         <id>https://twitter.com/8848Community/status/1649027650143555591</id>
         <link href="https://twitter.com/8848Community/status/1649027650143555591"/>
         <updated>2023-04-20T12:30:03.000Z</updated>
         <summary type="html"><![CDATA[恭喜@zyPriikZzlaDZ @aderen1225 @xiy6692 @yiapphicu10 @chenbin066 
-私信我你们的erc钱包地址~（不要交易所） https://twitter.com/8848Community/status/1648316430767779841 https://t.co/5jRZqxLrMY
+私信我你们的erc钱包地址~（不要交易所） https://t.co/5jRZqxLrMY
 
 
 8848 社区（8848 Community）: 福利来袭~ @SpaceandTimeDB 送给 8848 10个 V3 NFT 
@@ -922,39 +966,18 @@ tornado cash dev alex pertsev reportedly released just now https://t.co/Lg1s01Va
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344]]></title>
+        <title type="html"><![CDATA[这是10刀战神最励志的故事了 两年买了3000多个垃圾币，平均一天买5个土狗 从10U 赚到200万美元]]></title>
         <id>https://twitter.com/8848Community/status/1648968825004777472</id>
         <link href="https://twitter.com/8848Community/status/1648968825004777472"/>
         <updated>2023-04-20T08:36:18.000Z</updated>
         <summary type="html"><![CDATA[这是10刀战神最励志的故事了
 两年买了3000多个垃圾币，平均一天买5个土狗
-从10U 赚到200万美元 https://twitter.com/lookonchain/status/1648965301323833344
+从10U 赚到200万美元
 
 Lookonchain: 1/ This guy is really good at trading shitcoins!
 He bought 2.52T $PEPE($816K currently) with 0.013 $ETH($25), which made him a 32,000X profit.
 He has traded 3,000+ shitcoins in the past 2+ years and probably realized ~$2M in profit.
 Here are partially profitable tokens. https://t.co/dKzoK4xK4h]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @iminipinky 还是喜欢拿铁啊，美式不太适合我口味]]></title>
-        <id>https://twitter.com/8848Community/status/1648964612526858240</id>
-        <link href="https://twitter.com/8848Community/status/1648964612526858240"/>
-        <updated>2023-04-20T08:19:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @iminipinky 还是喜欢拿铁啊，美式不太适合我口味]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我操哪个狗叼又在造谣layer0 差点哭出来了😭😭😭 https://t.co/0v0QvNZpT0]]></title>
-        <id>https://twitter.com/8848Community/status/1648963702832648192</id>
-        <link href="https://twitter.com/8848Community/status/1648963702832648192"/>
-        <updated>2023-04-20T08:15:57.000Z</updated>
-        <summary type="html"><![CDATA[我操哪个狗叼又在造谣layer0
-差点哭出来了😭😭😭 https://t.co/0v0QvNZpT0]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1010,12 +1033,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1033,7 +1056,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1163,11 +1186,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>
