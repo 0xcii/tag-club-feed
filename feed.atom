@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T08:16:28.879Z</id>
+    <id>urn:2023-04-25T09:12:54.430Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T08:16:28.879Z</updated>
+    <updated>2023-04-25T09:12:54.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 另一社区所传播的持有 79,957 枚 BTC 的地址并没有“苏醒”，没有 BTC 从中转出。 @ScopeProtocol 推测，该地址属于MtGox 黑客。 https://twitter.com/ScopeP...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650764954595885056</id>
+        <link href="https://twitter.com/wublockchain12/status/1650764954595885056"/>
+        <updated>2023-04-25T07:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 另一社区所传播的持有 79,957 枚 BTC 的地址并没有“苏醒”，没有 BTC 从中转出。 @ScopeProtocol 推测，该地址属于MtGox 黑客。
+https://twitter.com/ScopeProtocol/status/1650747801704468480
+
+0xScope (🪬 . 🪬): 4
+The whale with 79,957 $BTC has not "wake up", no $BTC out from this address in 12 years.
+It is speculated that this address belongs to the #MtGox hacker.
+Zero $BTC is out after that, just somebody randomly sent <0.00001 BTC over the years, steady lads.
+#bitcoin]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 至于其他两个地址各自数百枚比特币转出， 大概率为地址间的资金移动，转移后未见进一步的分发。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650764952687476736</id>
+        <link href="https://twitter.com/wublockchain12/status/1650764952687476736"/>
+        <updated>2023-04-25T07:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 至于其他两个地址各自数百枚比特币转出， 大概率为地址间的资金移动，转移后未见进一步的分发。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，近期三个超过 10 年未转出资金的比特币巨鲸地址引起社区关注，据吴说的进一步链上验证，地址 1JdT…efrQ 约 2071 枚 BTC 的转出操作有可能是转入 Krak...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650764950594523136</id>
+        <link href="https://twitter.com/wublockchain12/status/1650764950594523136"/>
+        <updated>2023-04-25T07:33:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，近期三个超过 10 年未转出资金的比特币巨鲸地址引起社区关注，据吴说的进一步链上验证，地址 1JdT…efrQ 约 2071 枚 BTC 的转出操作有可能是转入 Kraken 交易所（资金在不断的分发路径中进入标识为 Kraken-Wallet 的地址）。
+地址链接：
+https://bitinfocharts.com/bitcoin/address/1JdTWTAubsDWXWd7wcsFwMuSapMBh6efrQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/Sui_Station/status/1650620213405323264]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650763657649995778</id>
+        <link href="https://twitter.com/wublockchain12/status/1650763657649995778"/>
+        <updated>2023-04-25T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/Sui_Station/status/1650620213405323264
+
+Sui Station: So based on the above assumptions, we predict $SUI price in three scenarios:
+- Base case: $SUI = $0.2
+- Bullish case: $SUI = $1.2
+- Mega bullish case: $SUI = $5.2 🚀
+Compare to the Whitelisted price ($0.03) and Public price ($0.1), $SUI will be a profit for participants.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Sui Station，基于与 APT 相似市值，SUI 上市后基本价格可能在 0.2 美金；看涨情况下价格为 1.2 美金；超级看涨情况下价格将为 5.2 美金；与白名单...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650763656001654786</id>
+        <link href="https://twitter.com/wublockchain12/status/1650763656001654786"/>
+        <updated>2023-04-25T07:28:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Sui Station，基于与 APT 相似市值，SUI 上市后基本价格可能在 0.2 美金；看涨情况下价格为 1.2 美金；超级看涨情况下价格将为 5.2 美金；与白名单（0.03美金）与公募价格（0.1美金）相比，参与者将获得一定利润。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet 2024]]></title>
         <id>https://twitter.com/8848Community/status/1650763577165516801</id>
@@ -19,6 +84,27 @@ Starknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNe
 以下是路线图详细介绍 👇🧵👇 https://t.co/siV7RDM9qt]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 检方认为，以稳定币区块链为基础的平台业务 Terraform Labs 的“Terra项目”从一开始就是不可能实现的。 https://newsis.com/view/?id=NISX20230425_00022797...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650752190682927106</id>
+        <link href="https://twitter.com/wublockchain12/status/1650752190682927106"/>
+        <updated>2023-04-25T06:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 检方认为，以稳定币区块链为基础的平台业务 Terraform Labs 的“Terra项目”从一开始就是不可能实现的。
+https://newsis.com/view/?id=NISX20230425_0002279750]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Newsis 报道，韩国检方 25 日将 Terraform Labs 联合创始人 Daniel Shin 等涉案人员移交审判，以违反资本市场法的欺诈不正当交易等罪名对 Daniel Shin 等 Ter...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1650752189042925575</id>
+        <link href="https://twitter.com/wublockchain12/status/1650752189042925575"/>
+        <updated>2023-04-25T06:42:46.000Z</updated>
+        <summary type="html"><![CDATA[据 Newsis 报道，韩国检方 25 日将 Terraform Labs 联合创始人 Daniel Shin 等涉案人员移交审判，以违反资本市场法的欺诈不正当交易等罪名对 Daniel Shin 等 Terra 项目相关的 8 名管理人员和普通职员进行了不拘留起诉。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -151,7 +237,7 @@ https://etherscan.io/address/0xf17d119effa0dcbe24d3fa346860be851150358f#internal
 https://twitter.com/arbitrum/status/1650541491012370435
 
 Arbitrum (💙,🧡): The full distribution of the DAO airdrop will take place today with those that have confirmed receiving the test transaction that was sent earlier last week.
-For more details on the DAO distribution, please read the thread below. 🧵👇 https://twitter.com/arbitrum/status/1648413744203018244]]></summary>
+For more details on the DAO distribution, please read the thread below. 🧵👇]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -241,49 +327,6 @@ https://zora.co/collect/0x9d90669665607f08005cae4a7098143f554c59ef]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国财政部表示，遭到制裁的 Wu Huihui 是一名驻中国的场外交易虚拟货币交易员，协助将与 Lazarus Group 合作的朝鲜参与者窃取的虚拟货币兑换成法定货...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650675359866826756</id>
-        <link href="https://twitter.com/wublockchain12/status/1650675359866826756"/>
-        <updated>2023-04-25T01:37:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国财政部表示，遭到制裁的 Wu Huihui 是一名驻中国的场外交易虚拟货币交易员，协助将与 Lazarus Group 合作的朝鲜参与者窃取的虚拟货币兑换成法定货币。 https://twitter.com/wublockchain12/status/1650519482627162113
-
-吴说区块链: 吴说获悉，美国财政部发布多条最新制裁信息，涉及多个比特币、以太坊、ARB、BSC 等加密货币地址，绝大多数是与朝鲜相关制裁有关。https://ofac.treasury.gov/recent-actions/20230424]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港圆桌讨论：以太坊上海升级后的机遇与监管挑战。上海顺利升级让开发者们的信心更强。整个网络因此变得更加去中心化、更加安全。2023 年会是非常强生态系统爆...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650673870838591489</id>
-        <link href="https://twitter.com/wublockchain12/status/1650673870838591489"/>
-        <updated>2023-04-25T01:31:33.000Z</updated>
-        <summary type="html"><![CDATA[香港圆桌讨论：以太坊上海升级后的机遇与监管挑战。上海顺利升级让开发者们的信心更强。整个网络因此变得更加去中心化、更加安全。2023 年会是非常强生态系统爆发的基点。未来在美国的监管有可能会逐渐清晰起来。阅读全文：https://mp.weixin.qq.com/s/TYa__tGELRFbt67ISz19Ug]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2024 年将重点实现运营和决策层面的去中心化。这或许意味着发行 Token 将在2024年。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650673728286769152</id>
-        <link href="https://twitter.com/wublockchain12/status/1650673728286769152"/>
-        <updated>2023-04-25T01:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Re 2024 年将重点实现运营和决策层面的去中心化。这或许意味着发行 Token 将在2024年。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，StarkWare 宣布 Starknet 2023 年路线图，当前的开发重点是性能和 UX。据预估时间表，将在第二季度推出 0.12.0 版本，改进吞吐量和延迟改进；在第三季...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650673522392567808</id>
-        <link href="https://twitter.com/wublockchain12/status/1650673522392567808"/>
-        <updated>2023-04-25T01:30:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，StarkWare 宣布 Starknet 2023 年路线图，当前的开发重点是性能和 UX。据预估时间表，将在第二季度推出 0.12.0 版本，改进吞吐量和延迟改进；在第三季度推出 0.13.0 版本，以降低交易成本；在第四季度推出 0.14.0、0.15.0 版本，引入费用市场和区块间隔。
-https://starkware.medium.com/starknet-goals-and-roadmap-for-2023-fe7b89eead3b https://t.co/OYFAFuN6xu]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @d6llte Pretty clear you haven’t watched him]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1650671844540776448</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1650671844540776448"/>
@@ -291,39 +334,6 @@ https://starkware.medium.com/starknet-goals-and-roadmap-for-2023-fe7b89eead3b ht
         <summary type="html"><![CDATA[Re @d6llte Pretty clear you haven’t watched him]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/peckshield/status/1650622890348523521]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650668064026034181</id>
-        <link href="https://twitter.com/wublockchain12/status/1650668064026034181"/>
-        <updated>2023-04-25T01:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/peckshield/status/1650622890348523521
-
-PeckShield Inc.: Hi @AlpacaFinance: you may want to take a look at the following tx: https://bscscan.com/tx/0xfcbc09744090fe1a0d8a812f744f947cbbc7f817ff01f6e69ba157a86f57915e
-It seems the new Alpaca 2.0 makes use of a pyth-based oracle, which may subject to malicious update.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，派盾表示，Alpaca Finance（羊驼）使用了基于 Python 的 预言机，这可能会受到恶意更新的影响。羊驼回应：我们已经注意到了这个问题。有人试图恶意使...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650668062188896256</id>
-        <link href="https://twitter.com/wublockchain12/status/1650668062188896256"/>
-        <updated>2023-04-25T01:08:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，派盾表示，Alpaca Finance（羊驼）使用了基于 Python 的 预言机，这可能会受到恶意更新的影响。羊驼回应：我们已经注意到了这个问题。有人试图恶意使用 Perp 的 ALP 机制以增加费用计算，但在进行了几项交易后就退出了。目前没有问题，开发人员正在调查，并将在需要时部署快速修复。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 招聘要求还包括：了解新的以太坊功能，例如 ERC-4337（账户抽象）。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1650665637667303425</id>
-        <link href="https://twitter.com/wublockchain12/status/1650665637667303425"/>
-        <updated>2023-04-25T00:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Re 招聘要求还包括：了解新的以太坊功能，例如 ERC-4337（账户抽象）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
