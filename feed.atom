@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T09:12:37.381Z</id>
+    <id>urn:2023-04-26T10:13:29.993Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T09:12:37.381Z</updated>
+    <updated>2023-04-26T10:13:29.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，中国银保监会组织召开处置非法集资部际联席会议2023年工作会议，要求切实加大督办案件、亿元以上案件和5年以上案件处置力度，全面加快存案攻坚。https...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651160745927913480</id>
+        <link href="https://twitter.com/wublockchain12/status/1651160745927913480"/>
+        <updated>2023-04-26T09:46:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，中国银保监会组织召开处置非法集资部际联席会议2023年工作会议，要求切实加大督办案件、亿元以上案件和5年以上案件处置力度，全面加快存案攻坚。https://mp.weixin.qq.com/s/4oo2weuP9D3AENi5ZUOx_w]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Verichains 创始人 Thanh Nguyen 表示，Merlin 是一个明显的故意后门插入案例，在 Merlin 代码中存在一个“后门”代码（L87-88），允许 MerlinFact...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651153577422000129</id>
+        <link href="https://twitter.com/wublockchain12/status/1651153577422000129"/>
+        <updated>2023-04-26T09:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Verichains 创始人 Thanh Nguyen 表示，Merlin 是一个明显的故意后门插入案例，在 Merlin 代码中存在一个“后门”代码（L87-88），允许 MerlinFactory 的 feeTo 在交换函数中除了手续费外，转移交易对中的所有资产。这个后门是一个明显的安全风险，因为没有使用场景需要它的批准。CertiK… https://twitter.com/i/web/status/1651153577422000129]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1651136431883190272]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651144566685458432</id>
+        <link href="https://twitter.com/wublockchain12/status/1651144566685458432"/>
+        <updated>2023-04-26T08:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1651136431883190272
+
+Adam@Greeks.live: 在过去的一个小时里，ETH出现超过2000万美元的大宗看涨期权交易，从成交结构看，买入短期看涨的比例很高，主要以巨鲸移仓为主。
+月底交割即将到来，在机构抢跑越发提前的背景下，接下来几天IV下降的可能性极大（也就是说期权会变得便宜） https://t.co/k2vcLSTEX3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 GreeksLive，在过去的一个小时里，ETH出现超过2000万美元的大宗看涨期权交易，从成交结构看，买入短期看涨的比例很高，主要以巨鲸移仓为主。月底交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651144564714119168</id>
+        <link href="https://twitter.com/wublockchain12/status/1651144564714119168"/>
+        <updated>2023-04-26T08:41:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 GreeksLive，在过去的一个小时里，ETH出现超过2000万美元的大宗看涨期权交易，从成交结构看，买入短期看涨的比例很高，主要以巨鲸移仓为主。月底交割即将到来，在机构抢跑越发提前的背景下，接下来几天IV下降的可能性极大。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 此前 BitKeep 与 Bitget 推出 LZBG（LayerZero Certificate Bitget）空投活动，声称支持未来兑换 LayerZero 官方代币。]]></title>
         <id>https://twitter.com/wublockchain12/status/1651108404499460097</id>
@@ -227,36 +270,6 @@ The potential hacker bridged all of them to Ethereum. https://t.co/26zbt9AG9M]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 同时 Earn Season 1 将于 5 月 15 日正式上线，贷款越大积分越多。奖励积分将计划在以后的时间点为符合条件的用户兑换为区块链 Token 或其他福利。据 @ahkek4...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651041077615554560</id>
-        <link href="https://twitter.com/wublockchain12/status/1651041077615554560"/>
-        <updated>2023-04-26T01:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时 Earn Season 1 将于 5 月 15 日正式上线，贷款越大积分越多。奖励积分将计划在以后的时间点为符合条件的用户兑换为区块链 Token 或其他福利。据 @ahkek4 数据面板，以周交易量计算，NFTfi 在 NFT 借贷领域约拥有 20%-30% 的市场份额。https://dune.com/impossiblefinance/nft-lending-aggregated-dash]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re OG 积分奖励给在快照前成功在 NFTfi 还款的借款人和贷款人，并需要在欧洲中部时间 5 月 15 日 15 时（北京时间 5 月 15 日 21 时）前开始新的贷款活动以保护 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651041076051075073</id>
-        <link href="https://twitter.com/wublockchain12/status/1651041076051075073"/>
-        <updated>2023-04-26T01:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Re OG 积分奖励给在快照前成功在 NFTfi 还款的借款人和贷款人，并需要在欧洲中部时间 5 月 15 日 15 时（北京时间 5 月 15 日 21 时）前开始新的贷款活动以保护 OG 积分。大部分积分是根据交易量分配的，并对异常值应用了平滑函数。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，点对点借贷协议 NFTfi 宣布推出忠诚度计划 NFTfi Rewards，通过有机的借贷活动，用户可以赚取虚拟的、不可转移的奖励积分（包括 OG 积分 Earn 积分）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651041074448842753</id>
-        <link href="https://twitter.com/wublockchain12/status/1651041074448842753"/>
-        <updated>2023-04-26T01:50:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，点对点借贷协议 NFTfi 宣布推出忠诚度计划 NFTfi Rewards，通过有机的借贷活动，用户可以赚取虚拟的、不可转移的奖励积分（包括 OG 积分 Earn 积分）。https://nftfi.com/blog/nftfi-rewards-faq/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude? htt...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651035987210805249</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651035987210805249"/>
@@ -269,16 +282,6 @@ When the bull market comes, gas usage will skyrocket.
 This will increase staking yield & ETH burning.]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://coinloan.io/blog/important-message-to-all-coinloaners/]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651033797805342720</id>
-        <link href="https://twitter.com/wublockchain12/status/1651033797805342720"/>
-        <updated>2023-04-26T01:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Re https://coinloan.io/blog/important-message-to-all-coinloaners/]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
