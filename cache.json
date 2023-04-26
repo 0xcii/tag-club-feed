@@ -6,22 +6,122 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1651094991249489921",
+          "author": "吴说区块链",
+          "description": "Re KOL @delucinator 表示，Certik 对此进行了审计，且不像是被交换掉的前端，Certik 看到了该合约中允许无限制地分配给某个随机地址，但仍然通过了它。https://twitter.com/delucinator/status/1651078812564692994?s=20\n\nyieldfarming: btw Merlin is a 100% rug, \nIt approves uint256 max to feesto address (deployer) which let it get drained\nLP tokens can be withdrawn but liq can't be removed for the same reason, there are no funds left in the pool\nSource: @overnight_fi team member https://t.co/QyZJZwCrPx",
+          "link": "https://twitter.com/wublockchain12/status/1651094991249489921",
+          "publishedOn": "2023-04-26T05:24:56.000Z",
+          "wordCount": 476,
+          "title": "Re KOL @delucinator 表示，Certik 对此进行了审计，且不像是被交换掉的前端，Certik 看到了该合约中允许无限制地分配给某个随机地址，但仍然通过了它。https://...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651094989429178369",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据社区成员对 Merlin 合约的解读，initialize 函数中的有两行代码批准将 uint256 最大值分配给 feeTo 地址（部署者），在这种情况下，feeoTo 地址有可能调用相应的 token transferFrom 函数，将 token 从合约地址转移到自己的地址。因此这很可能是项目方的内部行为。https://twitter.com/zkaliburDEX/status/1651087592052359169?s=20\n\n吴说区块链: 吴说获悉，CertiK 发文回应称，目前正在调查 Merlin 事件，初步调查结果指向一个潜在的私钥管理问题，而不是漏洞利用作为根本原因，并表示审计不能防止私钥问题。\nhttps://twitter.com/CertiK/status/1651088669187473408?s=20",
+          "link": "https://twitter.com/wublockchain12/status/1651094989429178369",
+          "publishedOn": "2023-04-26T05:24:55.000Z",
+          "wordCount": 476,
+          "title": "吴说获悉，据社区成员对 Merlin 合约的解读，initialize 函数中的有两行代码批准将 uint256 最大值分配给 feeTo 地址（部署者），在这种情况下，feeoTo 地址有可...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651093118878633986",
+          "author": "吴说区块链",
+          "description": "Re 吴说获悉，CertiK 发文回应称，目前正在调查 Merlin 事件，初步调查结果指向一个潜在的私钥管理问题，而不是漏洞利用作为根本原因，并表示审计不能防止私钥问题。\nhttps://twitter.com/CertiK/status/1651088669187473408?s=20\n\nCertiK: We’re actively investigating the @TheMerlinDEX incident. Initial findings point to a potential private key management issue rather than an exploit as the root-cause.\nWhile audits cannot prevent private key issues, we always highlight best practices to projects.\nShould any foul… https://twitter.com/i/web/status/1651088669187473408",
+          "link": "https://twitter.com/wublockchain12/status/1651093118878633986",
+          "publishedOn": "2023-04-26T05:17:30.000Z",
+          "wordCount": 476,
+          "title": "Re 吴说获悉，CertiK 发文回应称，目前正在调查 Merlin 事件，初步调查结果指向一个潜在的私钥管理问题，而不是漏洞利用作为根本原因，并表示审计不能防止私钥问...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651085352747274240",
+          "author": "吴说区块链",
+          "description": "Re 但他也承认“CertiK 是规模化的，是一次性的直接出报告，自动化程度高，会忽略我们认为不重要的问题，也缺少和项目方反复确认的过程”。同一日，Certik 刚刚完成审计的项目 Merlin 遭到盗币。  https://mp.weixin.qq.com/s/6VVhOn47jVCEo0UzjZb1nw",
+          "link": "https://twitter.com/wublockchain12/status/1651085352747274240",
+          "publishedOn": "2023-04-26T04:46:38.000Z",
+          "wordCount": 476,
+          "title": "Re 但他也承认“CertiK 是规模化的，是一次性的直接出报告，自动化程度高，会忽略我们认为不重要的问题，也缺少和项目方反复确认的过程”。同一日，Certik 刚刚...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651085351191216128",
+          "author": "吴说区块链",
+          "description": "极客公园 26 日刊文专访 Certik 创始人、哥伦比亚大学计算机系教授顾荣辉：他骄傲地说“我们（CertiK）几乎是靠一己之力把区块链安全变成一个赛道，吸引了很多关注”，吃下安全市场 70% 的份额，把 Web3 安全审计的费用降低了 90% 以上。",
+          "link": "https://twitter.com/wublockchain12/status/1651085351191216128",
+          "publishedOn": "2023-04-26T04:46:38.000Z",
+          "wordCount": 476,
+          "title": "极客公园 26 日刊文专访 Certik 创始人、哥伦比亚大学计算机系教授顾荣辉：他骄傲地说“我们（CertiK）几乎是靠一己之力把区块链安全变成一个赛道，吸引了很多关...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651081695649746944",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/SuiNetwork/status/1650929375486029825\n\nSui: 👏Announcing Round 2 of Developer Grant recipients!\nThe Sui Foundation awarded $230K to 8 open-source projects that offer tremendous long-term value to the Sui ecosystem.\nHere are the categories:\n⚒️Dev Tools\n🏦Finance\n🎮Gaming\n☑️Governance\n💸Payments\n🧑‍💻Productivity\n🧵👇",
+          "link": "https://twitter.com/wublockchain12/status/1651081695649746944",
+          "publishedOn": "2023-04-26T04:32:06.000Z",
+          "wordCount": 476,
+          "title": "Re https://twitter.com/SuiNetwork/status/1650929375486029825",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651081694093651970",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Sui 公布第 2 轮开发者资助获得者，向 8 个开源项目奖励 23 万美元。包括测试工具 fuzzland、开发者服务平台 ChainIDE、钱包应用 OneKey、DEX 项目 Cetus、NFT 工具 Capsules、治理平台 Movernance Labs、资产管理应用 MSafe、浏览器 Carbon Browser。",
+          "link": "https://twitter.com/wublockchain12/status/1651081694093651970",
+          "publishedOn": "2023-04-26T04:32:06.000Z",
+          "wordCount": 476,
+          "title": "吴说获悉，Sui 公布第 2 轮开发者资助获得者，向 8 个开源项目奖励 23 万美元。包括测试工具 fuzzland、开发者服务平台 ChainIDE、钱包应用 OneKey、DEX 项目 Ce...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651071830772547585",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/OmniFDN/status/1650867761126539266\n\nOmni Network: 1/ Introducing Omni Network — the first interoperability layer for Ethereum, secured by Ethereum.\nWe’re excited to announce our core technology partner @eigenlayer with first rollup teams @arbitrum @0xPolygonLabs @StarkWareLtd @Scroll_ZKP & @LineaBuild_ https://t.co/90ss7nXZZW",
+          "link": "https://twitter.com/wublockchain12/status/1651071830772547585",
+          "publishedOn": "2023-04-26T03:52:54.000Z",
+          "wordCount": 476,
+          "title": "Re https://twitter.com/OmniFDN/status/1650867761126539266",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651071829195526144",
+          "author": "吴说区块链",
+          "description": "吴说获悉，以太坊互操作协议 Omni Network 宣布筹集 1800 万美元，Pantera Capital、Hashed、Jump crypto 等参投。Omni 声称通过建一个可编程的互操作性层，使构建者能够创建默认情况下全局的应用程序，而不会进一步增加开发人员体验的复杂性。",
+          "link": "https://twitter.com/wublockchain12/status/1651071829195526144",
+          "publishedOn": "2023-04-26T03:52:54.000Z",
+          "wordCount": 476,
+          "title": "吴说获悉，以太坊互操作协议 Omni Network 宣布筹集 1800 万美元，Pantera Capital、Hashed、Jump crypto 等参投。Omni 声称通过建一个可编程的互操作性层，使构...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1651071727202603008",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Matrixport 首席研究员 Markus Thielen 预测比特币价格可能在今年年底达到 45,000 美元左右，认为“随着美国10年期债券收益率开始低于3.50％，通货膨胀降低将成为风险资产、特别是比特币的重要推动力”。https://t.me/matrixportnews/228",
+          "link": "https://twitter.com/wublockchain12/status/1651071727202603008",
+          "publishedOn": "2023-04-26T03:52:29.000Z",
+          "wordCount": 476,
+          "title": "吴说获悉，Matrixport 首席研究员 Markus Thielen 预测比特币价格可能在今年年底达到 45,000 美元左右，认为“随着美国10年期债券收益率开始低于3.50％，通货膨...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1651065999247167488",
           "author": "吴说区块链",
           "description": "Re 该项目官网曾表示，Core Farming Pools 和公开发售只有在 Certik 完成审计后才会启动。而就在 Certik 完成审计、刚刚开始公募，就遭到攻击盗币。",
           "link": "https://twitter.com/wublockchain12/status/1651065999247167488",
           "publishedOn": "2023-04-26T03:29:44.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 该项目官网曾表示，Core Farming Pools 和公开发售只有在 Certik 完成审计后才会启动。而就在 Certik 完成审计、刚刚开始公募，就遭到攻击盗币。",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/wublockchain12/status/1651055941985644544",
           "author": "吴说区块链",
-          "description": "Re 据 @0xBobie，被盗资金（182 万美元）分别位于 0x0b8a3ef6307049aa0ff215720ab1fc885007393d、0x2744d62a1e9ab975f4d77fe52e16206464ea79b7 两个地址中，潜在黑客将它们全部桥接到了以太坊。\nhttps://twitter.com/0xBobie/status/1651051380155744256?s=20\n\nBobie(🪬.🪬): Stolen funds ($1,823,477) are in \n1, 0x0b8a3ef6307049aa0ff215720ab1fc885007393d\n2, 0x2744d62a1e9ab975f4d77fe52e16206464ea79b7\nThe potential hacker bridged all of them to Ethereum. https://twitter.com/CryptoSources/status/1651037026794209281 https://t.co/26zbt9AG9M",
+          "description": "Re 据 @0xBobie，被盗资金（182 万美元）分别位于 0x0b8a3ef6307049aa0ff215720ab1fc885007393d、0x2744d62a1e9ab975f4d77fe52e16206464ea79b7 两个地址中，潜在黑客将它们全部桥接到了以太坊。\nhttps://twitter.com/0xBobie/status/1651051380155744256?s=20\n\nBobie(🪬.🪬): Stolen funds ($1,823,477) are in \n1, 0x0b8a3ef6307049aa0ff215720ab1fc885007393d\n2, 0x2744d62a1e9ab975f4d77fe52e16206464ea79b7\nThe potential hacker bridged all of them to Ethereum. https://t.co/26zbt9AG9M",
           "link": "https://twitter.com/wublockchain12/status/1651055941985644544",
           "publishedOn": "2023-04-26T02:49:46.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 据 @0xBobie，被盗资金（182 万美元）分别位于 0x0b8a3ef6307049aa0ff215720ab1fc885007393d、0x2744d62a1e9ab975f4d77fe52e16206464ea79b7 两个地址中，潜在...",
           "imageUrl": null
         },
@@ -31,7 +131,7 @@
           "description": "Re 受空投撸毛热潮，近期 zkSync 上线的新项目质量参差不齐，需谨慎辨别。",
           "link": "https://twitter.com/wublockchain12/status/1651051554508771329",
           "publishedOn": "2023-04-26T02:32:20.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 受空投撸毛热潮，近期 zkSync 上线的新项目质量参差不齐，需谨慎辨别。",
           "imageUrl": null
         },
@@ -41,7 +141,7 @@
           "description": "吴说获悉，据链上数据，zkSync DEX Merlin 疑似遭到黑客攻击，黑客地址 0x27…79b7 疑似盗取了超过 84 万美元的资产并转移。Merlin TG MOD 表示，收到疑似 LP 被耗尽的信息，请勿存入 LP 或参与公售中，等待创始人或开发者确认。Merlin 官网数据显示，其 MAGE 公售已筹集 319.14 ETH（约 60… https://twitter.com/i/web/status/1651051168867688448",
           "link": "https://twitter.com/wublockchain12/status/1651051168867688448",
           "publishedOn": "2023-04-26T02:30:48.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "吴说获悉，据链上数据，zkSync DEX Merlin 疑似遭到黑客攻击，黑客地址 0x27…79b7 疑似盗取了超过 84 万美元的资产并转移。Merlin TG MOD 表示，收到疑似 LP 被...",
           "imageUrl": null
         },
@@ -51,7 +151,7 @@
           "description": "Re 同时 Earn Season 1 将于 5 月 15 日正式上线，贷款越大积分越多。奖励积分将计划在以后的时间点为符合条件的用户兑换为区块链 Token 或其他福利。据 @ahkek4 数据面板，以周交易量计算，NFTfi 在 NFT 借贷领域约拥有 20%-30% 的市场份额。https://dune.com/impossiblefinance/nft-lending-aggregated-dash",
           "link": "https://twitter.com/wublockchain12/status/1651041077615554560",
           "publishedOn": "2023-04-26T01:50:42.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 同时 Earn Season 1 将于 5 月 15 日正式上线，贷款越大积分越多。奖励积分将计划在以后的时间点为符合条件的用户兑换为区块链 Token 或其他福利。据 @ahkek4...",
           "imageUrl": null
         },
@@ -61,7 +161,7 @@
           "description": "Re OG 积分奖励给在快照前成功在 NFTfi 还款的借款人和贷款人，并需要在欧洲中部时间 5 月 15 日 15 时（北京时间 5 月 15 日 21 时）前开始新的贷款活动以保护 OG 积分。大部分积分是根据交易量分配的，并对异常值应用了平滑函数。",
           "link": "https://twitter.com/wublockchain12/status/1651041076051075073",
           "publishedOn": "2023-04-26T01:50:42.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re OG 积分奖励给在快照前成功在 NFTfi 还款的借款人和贷款人，并需要在欧洲中部时间 5 月 15 日 15 时（北京时间 5 月 15 日 21 时）前开始新的贷款活动以保护 ...",
           "imageUrl": null
         },
@@ -71,7 +171,7 @@
           "description": "吴说获悉，点对点借贷协议 NFTfi 宣布推出忠诚度计划 NFTfi Rewards，通过有机的借贷活动，用户可以赚取虚拟的、不可转移的奖励积分（包括 OG 积分 Earn 积分）。https://nftfi.com/blog/nftfi-rewards-faq/",
           "link": "https://twitter.com/wublockchain12/status/1651041074448842753",
           "publishedOn": "2023-04-26T01:50:41.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "吴说获悉，点对点借贷协议 NFTfi 宣布推出忠诚度计划 NFTfi Rewards，通过有机的借贷活动，用户可以赚取虚拟的、不可转移的奖励积分（包括 OG 积分 Earn 积分）...",
           "imageUrl": null
         },
@@ -81,7 +181,7 @@
           "description": "Re https://coinloan.io/blog/important-message-to-all-coinloaners/",
           "link": "https://twitter.com/wublockchain12/status/1651033797805342720",
           "publishedOn": "2023-04-26T01:21:46.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re https://coinloan.io/blog/important-message-to-all-coinloaners/",
           "imageUrl": null
         },
@@ -91,7 +191,7 @@
           "description": "吴说获悉，加密借贷平台 CoinLoan 4 月 24 日收到了一份禁止处置通知，要求其停止所有用户操作，包括用户提款。CoinLoan 表示此事出乎意料且立即生效，该公司只能遵守上述要求。法院或将任命临时受托人核实公司的财务状况，CoinLoan 将提起上诉并寻求证明具备履行其义务的能力。",
           "link": "https://twitter.com/wublockchain12/status/1651033796308000768",
           "publishedOn": "2023-04-26T01:21:46.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "吴说获悉，加密借贷平台 CoinLoan 4 月 24 日收到了一份禁止处置通知，要求其停止所有用户操作，包括用户提款。CoinLoan 表示此事出乎意料且立即生效，该公司只...",
           "imageUrl": null
         },
@@ -101,108 +201,8 @@
           "description": "Re https://twitter.com/BTC__options/status/1651030167689785347?s=20\n\nAdam@Greeks.live: 近几日市场比较僵持，看跌期权持续出现大宗占比较高的情况。\n当日BTC大宗成交集中于25000Put，ETH大宗成交分散于1500Put至1800Put，占比均超过20%，明显高于平均水平。\n同时ETH 1900Call也出现较为集中的大宗成交，从大宗交易看，市场分歧逐渐增大。 https://t.co/Iv4jwth3dh",
           "link": "https://twitter.com/wublockchain12/status/1651031475285004288",
           "publishedOn": "2023-04-26T01:12:33.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re https://twitter.com/BTC__options/status/1651030167689785347?s=20",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651031473649229824",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 http://Greeks.live，近几日市场比较僵持，看跌期权持续出现大宗占比较高的情况。当日 BTC 大宗成交集中于 25000 Put，ETH 大宗成交分散于 1500 Put 至 1800 Put，占比均超过 20%，明显高于平均水平。同时 ETH 1900Call 也出现较为集中的大宗成交，从大宗交易看，市场分歧逐渐增大。",
-          "link": "https://twitter.com/wublockchain12/status/1651031473649229824",
-          "publishedOn": "2023-04-26T01:12:32.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 http://Greeks.live，近几日市场比较僵持，看跌期权持续出现大宗占比较高的情况。当日 BTC 大宗成交集中于 25000 Put，ETH 大宗成交分散于 1500 Pu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651028397567672321",
-          "author": "吴说区块链",
-          "description": "Re 但为了过冬，二者也存在相互学习的可能性，OpenSea 借鉴 Blur 的专业交易界面完成了对 OpenSea Pro 的品牌升级，Blur 从 OpenSea 身上学习对艺术市场的补充等。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=40&id=13724",
-          "link": "https://twitter.com/wublockchain12/status/1651028397567672321",
-          "publishedOn": "2023-04-26T01:00:19.000Z",
-          "wordCount": 509,
-          "title": "Re 但为了过冬，二者也存在相互学习的可能性，OpenSea 借鉴 Blur 的专业交易界面完成了对 OpenSea Pro 的品牌升级，Blur 从 OpenSea 身上学习对艺术市场的补充等...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651028395927683072",
-          "author": "吴说区块链",
-          "description": "《NFT 交易平台生存现状研究（1）后版税战争时代下的龙头之争》：OpenSea 和 Blur 都陷入了阶段性的发展瓶颈 — — OpenSea 日活跃用户几乎回到 2021 年 7 月水平，Blur Bid Pool 沦为大户操纵市场的工具且推迟减半收益被社区诟病。",
-          "link": "https://twitter.com/wublockchain12/status/1651028395927683072",
-          "publishedOn": "2023-04-26T01:00:18.000Z",
-          "wordCount": 509,
-          "title": "《NFT 交易平台生存现状研究（1）后版税战争时代下的龙头之争》：OpenSea 和 Blur 都陷入了阶段性的发展瓶颈 — — OpenSea 日活跃用户几乎回到 2021 年 7 月水...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651027473398890496",
-          "author": "吴说区块链",
-          "description": "Re 但自 3 月底以来，存款活动已经趋于平缓。截至 2023 年 4 月 21 日，总存款为 1027 亿美元，仅比 2023 年 3 月 31 日下降 1.7%。",
-          "link": "https://twitter.com/wublockchain12/status/1651027473398890496",
-          "publishedOn": "2023-04-26T00:56:38.000Z",
-          "wordCount": 509,
-          "title": "Re 但自 3 月底以来，存款活动已经趋于平缓。截至 2023 年 4 月 21 日，总存款为 1027 亿美元，仅比 2023 年 3 月 31 日下降 1.7%。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651027471599546369",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 CNN，First Republic 银行股价在周二收盘时暴跌近 50%，创下历史新低，此前这家陷入困境的银行周一晚间报告称，其第一季度的总存款下降了 41%，至 1045 亿美元，预计本季度将裁员 20-25%。https://edition.cnn.com/2023/04/24/business/first-republic-bank-q1-earnings/index.html",
-          "link": "https://twitter.com/wublockchain12/status/1651027471599546369",
-          "publishedOn": "2023-04-26T00:56:38.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 CNN，First Republic 银行股价在周二收盘时暴跌近 50%，创下历史新低，此前这家陷入困境的银行周一晚间报告称，其第一季度的总存款下降了 41%，至 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651026436466315265",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 9to5mac，在周二向开发人员发布 macOS Ventura 13.4 beta 3 之后，苹果已经删除了隐藏在系统文件中的比特币白皮书。此前社区发现自 2017 年以来，就有人将比特币白皮书隐藏在每一份 MacOS 中。\nhttps://9to5mac.com/2023/04/25/apple-removes-bitcoin-whitepaper-from-macos/",
-          "link": "https://twitter.com/wublockchain12/status/1651026436466315265",
-          "publishedOn": "2023-04-26T00:52:31.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，据 9to5mac，在周二向开发人员发布 macOS Ventura 13.4 beta 3 之后，苹果已经删除了隐藏在系统文件中的比特币白皮书。此前社区发现自 2017 年以来，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651021895041687553",
-          "author": "吴说区块链",
-          "description": "Re FTX 此前还计划出售 Embed Financial Technologies、FTX Japan 和 FTX Europe，约有 117 个买家表示有兴趣购买 FTX 的实体。",
-          "link": "https://twitter.com/wublockchain12/status/1651021895041687553",
-          "publishedOn": "2023-04-26T00:34:28.000Z",
-          "wordCount": 509,
-          "title": "Re FTX 此前还计划出售 Embed Financial Technologies、FTX Japan 和 FTX Europe，约有 117 个买家表示有兴趣购买 FTX 的实体。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651021893351411713",
-          "author": "吴说区块链",
-          "description": "吴说获悉，FTX 的债务人同意将衍生品交易所 LedgerX 以约 5000 万美元的价格出售给迈阿密国际控股公司的一个关联方，交易需要得到监管 FTX 程序的美国破产法庭批准。\nhttps://www.prnewswire.com/news-releases/ftx-debtors-announce-agreement-with-an-affiliate-of-miami-international-holdings-for-the-sale-of-ledgerx-301807349.html?tc=eml_cleartime",
-          "link": "https://twitter.com/wublockchain12/status/1651021893351411713",
-          "publishedOn": "2023-04-26T00:34:28.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，FTX 的债务人同意将衍生品交易所 LedgerX 以约 5000 万美元的价格出售给迈阿密国际控股公司的一个关联方，交易需要得到监管 FTX 程序的美国破产法庭批...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651020704203284480",
-          "author": "吴说区块链",
-          "description": "Re 此外，Solana 基金会还宣布了一项 100 万美元的基金，用于探索 Solana 和人工智能，赠款范围从 5000 美元到 25000 美元不等。\nhttps://twitter.com/solanalabs/status/1650955017585606656?s=20\nhttps://twitter.com/SolanaFndn/status/1650982737946222594?s=20\n\nSolana Foundation: 1/ Today, the Solana Foundation announces a $1m fund for small-scale grants exploring the intersection of the @Solana blockchain and AI.\nThe grants range from $5k to $25k, and both new and existing projects are eligible.\nLearn more 👇",
-          "link": "https://twitter.com/wublockchain12/status/1651020704203284480",
-          "publishedOn": "2023-04-26T00:29:45.000Z",
-          "wordCount": 509,
-          "title": "Re 此外，Solana 基金会还宣布了一项 100 万美元的基金，用于探索 Solana 和人工智能，赠款范围从 5000 美元到 25000 美元不等。 https://twitter.com/solanalab...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1651020702064218112",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Solana Labs 宣布为 ChatGPT 插件创建了一个开源的参考实现，使用户可以直接从 ChatGPT 与 Solana 网络进行交互。一旦 ChatGPT 插件可用，用户将能够检查钱包余额、转移代币和购买 NFT。",
-          "link": "https://twitter.com/wublockchain12/status/1651020702064218112",
-          "publishedOn": "2023-04-26T00:29:44.000Z",
-          "wordCount": 509,
-          "title": "吴说获悉，Solana Labs 宣布为 ChatGPT 插件创建了一个开源的参考实现，使用户可以直接从 ChatGPT 与 Solana 网络进行交互。一旦 ChatGPT 插件可用，用户将能够...",
           "imageUrl": null
         }
       ]
@@ -213,12 +213,32 @@
       "siteUrl": "https://twitter.com/8848Community",
       "articles": [
         {
+          "id": "https://twitter.com/8848Community/status/1651088295236108288",
+          "author": "8848 社区（8848 Community）",
+          "description": "阴冷了几天\n终于有点好天气\n阳光出来了\n带厂里的小伙伴到城里走走\n这城里的女人就是白啊 https://t.co/1XMzCs9ayC",
+          "link": "https://twitter.com/8848Community/status/1651088295236108288",
+          "publishedOn": "2023-04-26T04:58:19.000Z",
+          "wordCount": 476,
+          "title": "阴冷了几天 终于有点好天气 阳光出来了 带厂里的小伙伴到城里走走 这城里的女人就是白啊 https://t.co/1XMzCs9ayC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1651083824129019910",
+          "author": "8848 社区（8848 Community）",
+          "description": "不错的建议\n但很多人很难做到 https://t.co/8ms4c2QuXY",
+          "link": "https://twitter.com/8848Community/status/1651083824129019910",
+          "publishedOn": "2023-04-26T04:40:33.000Z",
+          "wordCount": 476,
+          "title": "不错的建议 但很多人很难做到 https://t.co/8ms4c2QuXY",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/8848Community/status/1650886980543352836",
           "author": "8848 社区（8848 Community）",
           "description": "Re @fks16671290 @arbitrum 又卖了？",
           "link": "https://twitter.com/8848Community/status/1650886980543352836",
           "publishedOn": "2023-04-25T15:38:22.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @fks16671290 @arbitrum 又卖了？",
           "imageUrl": null
         },
@@ -228,7 +248,7 @@
           "description": "Re @chen77710666 男人四十一枝花",
           "link": "https://twitter.com/8848Community/status/1650884108791472128",
           "publishedOn": "2023-04-25T15:26:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @chen77710666 男人四十一枝花",
           "imageUrl": null
         },
@@ -238,7 +258,7 @@
           "description": "能祝我生日快乐吗  兄弟们 https://t.co/VfSjRgP7kK",
           "link": "https://twitter.com/8848Community/status/1650877561298391040",
           "publishedOn": "2023-04-25T15:00:57.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "能祝我生日快乐吗 兄弟们 https://t.co/VfSjRgP7kK",
           "imageUrl": null
         },
@@ -248,7 +268,7 @@
           "description": "RT Dune\nOur mission is to *make crypto data accessible* \nToday we’re excited to announce some major progress:\n- The Dune API live for all users\n- Revamped subscription plans\n- More power for free users\nFlexibility & collaboration is going ⬆️⬆️⬆️\nHere’s how 🧵 https://t.co/c6xd7sHYiR",
           "link": "https://twitter.com/DuneAnalytics/status/1650851414443212801",
           "publishedOn": "2023-04-25T13:17:03.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Dune: Our mission is to *make crypto data accessible* Today we’re excited to announce some major progress: - The Dune API live for all users - Rev...",
           "imageUrl": null
         },
@@ -258,7 +278,7 @@
           "description": "sui没逮住，L0看着估计也没希望,STARK今天又不知道在暗示什么，zks遥遥无期\n烦死了，还是出去喝酒吧 https://t.co/Md7CoYnJhN",
           "link": "https://twitter.com/8848Community/status/1650841585872146432",
           "publishedOn": "2023-04-25T12:37:59.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "sui没逮住，L0看着估计也没希望,STARK今天又不知道在暗示什么，zks遥遥无期 烦死了，还是出去喝酒吧 https://t.co/Md7CoYnJhN",
           "imageUrl": null
         },
@@ -268,7 +288,7 @@
           "description": "Re @cooldan20 采个耳都梅毒？",
           "link": "https://twitter.com/8848Community/status/1650824104298287104",
           "publishedOn": "2023-04-25T11:28:31.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @cooldan20 采个耳都梅毒？",
           "imageUrl": null
         },
@@ -278,28 +298,28 @@
           "description": "还是那句话，赚大钱的时候该跑还是要跑的，至少大部分出来，然后定时出金，不要一直在圈子里赌，如果像我一样亏的没办法出金，那就当没说了。 https://t.co/BJgfWkK8uQ",
           "link": "https://twitter.com/8848Community/status/1650823041679785989",
           "publishedOn": "2023-04-25T11:24:18.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "还是那句话，赚大钱的时候该跑还是要跑的，至少大部分出来，然后定时出金，不要一直在圈子里赌，如果像我一样亏的没办法出金，那就当没说了。 https://t.co/BJgf...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1650763577165516801",
           "author": "8848 社区（8848 Community）",
-          "description": "Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072\n\nStarknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNetEco 👨🏽‍🚀\n#Starknet 未来几个月的目标：性能和用户体验 🏎️\n将性能提升到新的高度，并提供无缝的用户体验\n到年底将实现一个强大的网络，并在 2024 年过渡到无缝治理\n以下是路线图详细介绍 👇🧵👇 https://t.co/siV7RDM9qt",
+          "description": "Starknet 2024\n\nStarknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNetEco 👨🏽‍🚀\n#Starknet 未来几个月的目标：性能和用户体验 🏎️\n将性能提升到新的高度，并提供无缝的用户体验\n到年底将实现一个强大的网络，并在 2024 年过渡到无缝治理\n以下是路线图详细介绍 👇🧵👇 https://t.co/siV7RDM9qt",
           "link": "https://twitter.com/8848Community/status/1650763577165516801",
           "publishedOn": "2023-04-25T07:28:01.000Z",
-          "wordCount": 509,
-          "title": "Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072",
+          "wordCount": 476,
+          "title": "Starknet 2024",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1650751614230364166",
           "author": "8848 社区（8848 Community）",
-          "description": "Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440\n\nManta Network 中文社区（🔱,🔱）: 1/ Manta 大使招募细则\n很高兴重新开放 Manta 大使计划。与大家一起创建繁荣的开发者和支持者社区。Manta 大使可帮助更多人了解链上隐私、零知识证明（ZK）和 Manta Network。\nManta 大使计划分为 Wizard（奇才） 和 Champion（冠军） 两种角色。\nhttps://mantanetwork.notion.site/Manta-Network-78956c4c4e2342e9a6e700fa84908e15",
+          "description": "Manta 大使招募\n\nManta Network 中文社区（🔱,🔱）: 1/ Manta 大使招募细则\n很高兴重新开放 Manta 大使计划。与大家一起创建繁荣的开发者和支持者社区。Manta 大使可帮助更多人了解链上隐私、零知识证明（ZK）和 Manta Network。\nManta 大使计划分为 Wizard（奇才） 和 Champion（冠军） 两种角色。\nhttps://mantanetwork.notion.site/Manta-Network-78956c4c4e2342e9a6e700fa84908e15",
           "link": "https://twitter.com/8848Community/status/1650751614230364166",
           "publishedOn": "2023-04-25T06:40:28.000Z",
-          "wordCount": 509,
-          "title": "Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440",
+          "wordCount": 476,
+          "title": "Manta 大使招募",
           "imageUrl": null
         },
         {
@@ -308,7 +328,7 @@
           "description": "Re @szair 哭了，又要被反撸了",
           "link": "https://twitter.com/8848Community/status/1650750248195887105",
           "publishedOn": "2023-04-25T06:35:03.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @szair 哭了，又要被反撸了",
           "imageUrl": null
         },
@@ -318,7 +338,7 @@
           "description": "你们觉得 Layerzero 已经快照了么？",
           "link": "https://twitter.com/8848Community/status/1650749297745629184",
           "publishedOn": "2023-04-25T06:31:16.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "你们觉得 Layerzero 已经快照了么？",
           "imageUrl": null
         },
@@ -328,7 +348,7 @@
           "description": "总觉得 Bitget 他们有内幕\n每次发一个项目的期货币，这个项目就即将发币(之前ARB跟SUI)\n所以你们觉得 Layerzero \n是像 ARB 一样，他们发的时候已经快照了？\n还是像 SUI 一样，没有空投呢？ https://t.co/olgmnp4FKj",
           "link": "https://twitter.com/8848Community/status/1650748349656731648",
           "publishedOn": "2023-04-25T06:27:30.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "总觉得 Bitget 他们有内幕 每次发一个项目的期货币，这个项目就即将发币(之前ARB跟SUI) 所以你们觉得 Layerzero 是像 ARB 一样，他们发的时候已经快照了？ 还是...",
           "imageUrl": null
         },
@@ -338,7 +358,7 @@
           "description": "RT TechFlow 深潮｜We're hiring!\n在Blockworks 最近的播客节目《Empire》中，MultiCoin 两位创始合伙人 Kyle Samani 和 Tushar Jain分享了关于FTX的合作、对Solana的看法、AI与Crypto的结合以及L2相关叙事的探讨。\n以下为播客详细内容笔记，由 TechFlow 深潮与 ChatGPT 联合整理。 https://t.co/WN7KWsq9ZT",
           "link": "https://twitter.com/TechFlowPost/status/1650711670602473472",
           "publishedOn": "2023-04-25T04:01:45.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT TechFlow 深潮｜We're hiring!: 在Blockworks 最近的播客节目《Empire》中，MultiCoin 两位创始合伙人 Kyle Samani 和 Tushar Jain分享了关于FTX的合作、对So...",
           "imageUrl": null
         },
@@ -348,7 +368,7 @@
           "description": "Re @LDZ789 不错。有机会一起击剑",
           "link": "https://twitter.com/8848Community/status/1650486824664731649",
           "publishedOn": "2023-04-24T13:08:18.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @LDZ789 不错。有机会一起击剑",
           "imageUrl": null
         },
@@ -358,7 +378,7 @@
           "description": "Re @ElisheveMarcus 额，电报群最近不活跃了吧。discord人多一点",
           "link": "https://twitter.com/8848Community/status/1650485072896880641",
           "publishedOn": "2023-04-24T13:01:20.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @ElisheveMarcus 额，电报群最近不活跃了吧。discord人多一点",
           "imageUrl": null
         },
@@ -368,7 +388,7 @@
           "description": "再也不相信你们了，都在骂sui垃圾，背地里都是几千签，还是我太年轻了。\n群友都是尼玛表演艺术家，真假难辨。 https://t.co/Il6fGCJRmU",
           "link": "https://twitter.com/8848Community/status/1650482270363615235",
           "publishedOn": "2023-04-24T12:50:12.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "再也不相信你们了，都在骂sui垃圾，背地里都是几千签，还是我太年轻了。 群友都是尼玛表演艺术家，真假难辨。 https://t.co/Il6fGCJRmU",
           "imageUrl": null
         },
@@ -378,7 +398,7 @@
           "description": "看出来亏了不少，连说话都有点颤抖 https://t.co/CfxiDuSbT5",
           "link": "https://twitter.com/8848Community/status/1650180309525356544",
           "publishedOn": "2023-04-23T16:50:19.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "看出来亏了不少，连说话都有点颤抖 https://t.co/CfxiDuSbT5",
           "imageUrl": null
         },
@@ -388,28 +408,8 @@
           "description": "1 ETH 或者和我吃晚餐 \n你选哪个🥰\n#Etherum $ETH $PEPE $AIDOGE https://t.co/RbxiQ8zhlo",
           "link": "https://twitter.com/8848Community/status/1650123699524341760",
           "publishedOn": "2023-04-23T13:05:22.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "1 ETH 或者和我吃晚餐 你选哪个🥰 #Etherum $ETH $PEPE $AIDOGE https://t.co/RbxiQ8zhlo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1650073227308449792",
-          "author": "8848 社区（8848 Community）",
-          "description": "Re @lanyihou @RektARB 那真是泰裤辣",
-          "link": "https://twitter.com/8848Community/status/1650073227308449792",
-          "publishedOn": "2023-04-23T09:44:48.000Z",
-          "wordCount": 509,
-          "title": "Re @lanyihou @RektARB 那真是泰裤辣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/primo_data/status/1649825983158177792",
-          "author": "8848 社区（8848 Community）",
-          "description": "RT Primo Data\nBlockchain Data Landscape w/ 194 projects\n🧵 of recent additions:\nBitnodes\n@Candlestick_io\n@datawisp\n@dPrism_ai\n@jie_data\n@KYVENetwork\n@Metacat007\n@OKLink\n@paradigm\n@streamr\n@TreehouseFi\nWalletLabels by @aiden0x4\nSee here: https://primodata.org/landscape.html https://t.co/yzRmkdVy4l",
-          "link": "https://twitter.com/primo_data/status/1649825983158177792",
-          "publishedOn": "2023-04-22T17:22:21.000Z",
-          "wordCount": 509,
-          "title": "RT Primo Data: Blockchain Data Landscape w/ 194 projects 🧵 of recent additions: Bitnodes @Candlestick_io @datawisp @dPrism_ai @jie_data @KYVENetwor...",
           "imageUrl": null
         }
       ]
@@ -425,7 +425,7 @@
           "description": "Dune 开放了API给用户，很多数据可以用API访问了。 https://twitter.com/DuneAnalytics/status/1650851414443212801\n\nDune: Our mission is to *make crypto data accessible* \nToday we’re excited to announce some major progress:\n- The Dune API live for all users\n- Revamped subscription plans\n- More power for free users\nFlexibility & collaboration is going ⬆️⬆️⬆️\nHere’s how 🧵 https://t.co/c6xd7sHYiR",
           "link": "https://twitter.com/AntCaveClub/status/1651033523883749376",
           "publishedOn": "2023-04-26T01:20:41.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Dune 开放了API给用户，很多数据可以用API访问了。 https://twitter.com/DuneAnalytics/status/1650851414443212801",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Look at my portfolio on Nested 🚀 https://app.nested.fi/portfolios/arbi:10811/2vha-all",
           "link": "https://twitter.com/AntCaveClub/status/1650150868472451072",
           "publishedOn": "2023-04-23T14:53:20.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Look at my portfolio on Nested 🚀 https://app.nested.fi/portfolios/arbi:10811/2vha-all",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Verifying my Twitter account for my #GalxeID gid:RMpVeNpouizs5d6BHbkErD @Galxe \n http://galxe.com/galxeid",
           "link": "https://twitter.com/AntCaveClub/status/1650149140410806272",
           "publishedOn": "2023-04-23T14:46:28.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Verifying my Twitter account for my #GalxeID gid:RMpVeNpouizs5d6BHbkErD @Galxe http://galxe.com/galxeid",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Re @argentHQ Does the contract wallet support multi-signature management?",
           "link": "https://twitter.com/AntCaveClub/status/1649659306101592066",
           "publishedOn": "2023-04-22T06:20:02.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @argentHQ Does the contract wallet support multi-signature management?",
           "imageUrl": null
         },
@@ -465,7 +465,7 @@
           "description": "Thrilled to be a bear market builder and claim my free Bear Market Builder NFT from @thirdweb!\n    \nGet yours now on: https://thirdweb.com/bear-market-airdrop https://t.co/N4JF2Mxd8J",
           "link": "https://twitter.com/AntCaveClub/status/1649422102359953413",
           "publishedOn": "2023-04-21T14:37:28.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Thrilled to be a bear market builder and claim my free Bear Market Builder NFT from @thirdweb! Get yours now on: https://thirdweb.com/bear-market-aird...",
           "imageUrl": null
         },
@@ -475,7 +475,7 @@
           "description": "空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025\n\nthirdweb: AIRDROP! 🪂\nFor builders, there is no bear market.\nTo celebrate the progress in Web3 over the last 18 months, we're giving every developer who has deployed a smart contract during the bear market a free, gasless NFT pack to claim.\nOpen the pack → win cool prizes 👀\n👇🧵 https://t.co/H1Rivi0qLv",
           "link": "https://twitter.com/AntCaveClub/status/1649420968253612036",
           "publishedOn": "2023-04-21T14:32:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "空投给 开发者。 https://twitter.com/thirdweb/status/1648023676833665025",
           "imageUrl": null
         },
@@ -485,7 +485,7 @@
           "description": "RT Nested 🧩\n#CandleWars is now LIVE!\nTake part in the first ever on-chain spot trading competition on @arbitrum!\nMay the best trader win ⚔️ https://t.co/PayCr2lAx1",
           "link": "https://twitter.com/NestedFi/status/1649383910378459138",
           "publishedOn": "2023-04-21T12:05:42.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Nested 🧩: #CandleWars is now LIVE! Take part in the first ever on-chain spot trading competition on @arbitrum! May the best trader win ⚔️ http...",
           "imageUrl": null
         },
@@ -495,7 +495,7 @@
           "description": "😳 https://t.co/HdubWSgTC1",
           "link": "https://twitter.com/AntCaveClub/status/1649363384608133122",
           "publishedOn": "2023-04-21T10:44:09.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "😳 https://t.co/HdubWSgTC1",
           "imageUrl": null
         },
@@ -505,7 +505,7 @@
           "description": "Re @0xWestiiie 你搞一张试试。",
           "link": "https://twitter.com/AntCaveClub/status/1649268231721598983",
           "publishedOn": "2023-04-21T04:26:03.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @0xWestiiie 你搞一张试试。",
           "imageUrl": null
         },
@@ -515,7 +515,7 @@
           "description": "如何运行自己的 LLM (GPT) ？ \nhttps://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html",
           "link": "https://twitter.com/AntCaveClub/status/1649267245842067456",
           "publishedOn": "2023-04-21T04:22:07.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "如何运行自己的 LLM (GPT) ？ https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html",
           "imageUrl": null
         },
@@ -525,7 +525,7 @@
           "description": "VR 游戏中由 ChatGPT 支持的 NPC 的演示。  LLMs将彻底改变我们在未来游戏中的互动方式。\nhttps://www.youtube.com/watch?v=UVNZ3_FwqJE",
           "link": "https://twitter.com/AntCaveClub/status/1649263726737133568",
           "publishedOn": "2023-04-21T04:08:08.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "VR 游戏中由 ChatGPT 支持的 NPC 的演示。 LLMs将彻底改变我们在未来游戏中的互动方式。 https://www.youtube.com/watch?v=UVNZ3_FwqJE",
           "imageUrl": null
         },
@@ -535,7 +535,7 @@
           "description": "Re @ihorstefurak\n不是程序员，也不知道如何写代码，甚至没有计算机基础，但他在 10 小时内构建了一个 Chrome 扩展程序，并以数千美元的价格售出，在24小时内就赚到了1000$ . \n整个过程全部使用 ChatGPT：\nhttps://www.businessinsider.com/chatgpt-i-built-chrome-extension-sold-acquire-thousands-2023-4?r=US&IR=T",
           "link": "https://twitter.com/AntCaveClub/status/1649257924139847680",
           "publishedOn": "2023-04-21T03:45:05.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @ihorstefurak 不是程序员，也不知道如何写代码，甚至没有计算机基础，但他在 10 小时内构建了一个 Chrome 扩展程序，并以数千美元的价格售出，在24小时内就...",
           "imageUrl": null
         },
@@ -545,7 +545,7 @@
           "description": "一个功能比较变态的机器人，Telegram智能AI脱衣机器人。利用先进的图像编辑技术可以轻松地从任何照片中去除衣服，只留下最基本的必需品。\n仅做学习分享， 不要干坏事.🙅\nhttps://t.me/BikiniOffBot?start=YNYNXW",
           "link": "https://twitter.com/AntCaveClub/status/1649256036501704704",
           "publishedOn": "2023-04-21T03:37:35.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "一个功能比较变态的机器人，Telegram智能AI脱衣机器人。利用先进的图像编辑技术可以轻松地从任何照片中去除衣服，只留下最基本的必需品。 仅做学习分享， 不要干...",
           "imageUrl": null
         },
@@ -555,7 +555,7 @@
           "description": "Re 5/ 这意味着 \n- 没有OpenAI的控制 \n- 完全控制用户数据 \n- 没有商业使用问题 \n- 针对特定用例进行微调  \n为想要构建 AI 产品/业务的公司打开了很多东西。 无需依赖 OpenAI 来满足他们的 AI 需求。\n影响是巨大的，而且它实际上比大多数人认为的要大得多。https://stability.ai/",
           "link": "https://twitter.com/AntCaveClub/status/1649221668366348295",
           "publishedOn": "2023-04-21T01:21:01.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 5/ 这意味着 - 没有OpenAI的控制 - 完全控制用户数据 - 没有商业使用问题 - 针对特定用例进行微调 为想要构建 AI 产品/业务的公司打开了很多东西。 无需依赖 ...",
           "imageUrl": null
         },
@@ -565,7 +565,7 @@
           "description": "Re 4/ 羊驼 （LLaMa） 是什么？LLaMA 是 Meta 自己的 65B 参数 LLM，它是开源的。  任何人都可以对其进行调整并免费使用。人们已经设法获得一个可以在手机上运行的调整版本。可它不可用于商业用途。  否则Meta 律师等着告你。  这就是为何 Stability 的 LLM 如此重要。它是开源的，具有完整的商业权利。",
           "link": "https://twitter.com/AntCaveClub/status/1649221665791053824",
           "publishedOn": "2023-04-21T01:21:00.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 4/ 羊驼 （LLaMa） 是什么？LLaMA 是 Meta 自己的 65B 参数 LLM，它是开源的。 任何人都可以对其进行调整并免费使用。人们已经设法获得一个可以在手机上运行...",
           "imageUrl": null
         },
@@ -575,7 +575,7 @@
           "description": "Re 3/ 但是你可以微调现有的。  不需要大量资金、研究人员、博士、GPU 等。  ChatGPT 实际上针对聊天进行了高度微调。 调参数也能难， 但是远比训练模型容易。 当一些斯坦福大学的研究人员调整 LLaMA 以创建羊驼时，我们看到了这种可能性。  他们设法以不到 600 美元的价格创建了 ChatGPT。 https://t.co/ozotjoSkHQ",
           "link": "https://twitter.com/AntCaveClub/status/1649221662922133505",
           "publishedOn": "2023-04-21T01:21:00.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 3/ 但是你可以微调现有的。 不需要大量资金、研究人员、博士、GPU 等。 ChatGPT 实际上针对聊天进行了高度微调。 调参数也能难， 但是远比训练模型容易。 当...",
           "imageUrl": null
         },
@@ -585,7 +585,7 @@
           "description": "Re 2/  有种想法觉得，只要有足够的钱和人才，你就可以做自己的专业技能AI。  不是的，世界上只有少数公司拥有训练这样的模型所需的人才和 GPU。  例如：Google、fb、openai、msft、cohere、stability、anthropic、deepmind 等。 所以你会怎么做？显然训练你自己的模型是不可能的。",
           "link": "https://twitter.com/AntCaveClub/status/1649221660783050753",
           "publishedOn": "2023-04-21T01:20:59.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 2/ 有种想法觉得，只要有足够的钱和人才，你就可以做自己的专业技能AI。 不是的，世界上只有少数公司拥有训练这样的模型所需的人才和 GPU。 例如：Google、fb...",
           "imageUrl": null
         },
@@ -595,7 +595,7 @@
           "description": "Re 1/  即：  \n- 便于使用 \n- 内容准确的 \n- 效果非常好 \n- 容易获得 \n- 价格便宜的  \n 基本上任何使用 AI 生成的公司都在使用 OpenAI。\n会产生许多问题：  \n1. 你只有一个提供者，受制于人 \n2. 无法控制数据进入OpenAI \n3. 没有“AI”护城河，这意味着有人可以使用他们的 api 并获得与你的相似的结果。",
           "link": "https://twitter.com/AntCaveClub/status/1649221658690060289",
           "publishedOn": "2023-04-21T01:20:59.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re 1/ 即： - 便于使用 - 内容准确的 - 效果非常好 - 容易获得 - 价格便宜的 基本上任何使用 AI 生成的公司都在使用 OpenAI。 会产生许多问题： 1. 你只有一个提...",
           "imageUrl": null
         },
@@ -605,7 +605,7 @@
           "description": "Stability 昨天发布了他们新的 LLM。  它是开源的，并且完全免费用于商业用途。  \nhttps://stability.ai/ \n这有可能改变人工智能的一切  原因如下：\n目前，世界上只有一家公司拥有 LLM， 这就是 OpenAI。",
           "link": "https://twitter.com/AntCaveClub/status/1649221656609693696",
           "publishedOn": "2023-04-21T01:20:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Stability 昨天发布了他们新的 LLM。 它是开源的，并且完全免费用于商业用途。 https://stability.ai/ 这有可能改变人工智能的一切 原因如下： 目前，世界上只有...",
           "imageUrl": null
         },
@@ -615,7 +615,7 @@
           "description": "RT Elon Musk\nCongrats @SpaceX team on an exciting test launch of Starship!\nLearned a lot for next test launch in a few months. https://t.co/gswdFut1dK",
           "link": "https://twitter.com/elonmusk/status/1649050306943266819",
           "publishedOn": "2023-04-20T14:00:05.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Elon Musk: Congrats @SpaceX team on an exciting test launch of Starship! Learned a lot for next test launch in a few months. https://t.co/gswdFut1d...",
           "imageUrl": null
         }
@@ -632,7 +632,7 @@
           "description": "🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB\n\n\nDeFi Educator: GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794",
           "link": "https://twitter.com/DeFi_educator/status/1650935094725451802",
           "publishedOn": "2023-04-25T18:49:34.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB",
           "imageUrl": null
         },
@@ -642,7 +642,7 @@
           "description": "RT zk-🦈\nThe below clip is from a Fall 2018 Graduate MIT course called \"Blockchain and Money\"\nGary Gensler - the current President of the SEC, was the professor.  \nThe Hypocrisy speaks for itself 🐀\n\"So we already know in the US and in many other jurisdictions that 3/4 of the market… https://twitter.com/i/web/status/1650689125580668931 https://t.co/rjRWeq5P8X",
           "link": "https://twitter.com/ZK_shark/status/1650689125580668931",
           "publishedOn": "2023-04-25T02:32:10.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT zk-🦈: The below clip is from a Fall 2018 Graduate MIT course called \"Blockchain and Money\" Gary Gensler - the current President of the SEC, was ...",
           "imageUrl": null
         },
@@ -652,7 +652,7 @@
           "description": "Re @WClementeIII Missing:\nonchain: @DeBankDeFi , @etherdrops_bot, @AppBreadcrumbs \nOrderbooks: @okotoki \nDegen charts: @DEXToolsApp, @dexscreener \nFundamentals: @tokenterminal \nNews: @News_Of_Alpha \nAnd CoinGecko > coinmarketcap",
           "link": "https://twitter.com/DeFi_educator/status/1650658992744431616",
           "publishedOn": "2023-04-25T00:32:26.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @WClementeIII Missing: onchain: @DeBankDeFi , @etherdrops_bot, @AppBreadcrumbs Orderbooks: @okotoki Degen charts: @DEXToolsApp, @dexscreener Fundam...",
           "imageUrl": null
         },
@@ -662,7 +662,7 @@
           "description": "GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794\n\nBinance.US 🇺🇸: wen floki?\nDeposits are NOW open for $FLOKI on #BinanceUS!\nThe @RealFlokiInu ecosystem consists of a Play-to-Earn game, FlokiFi (DeFi), Floki prepaid card (Visa/Mastercard), as well as NFT collections and marketplaces, with more to come. \nLearn more: https://bit.ly/busdepositfloki",
           "link": "https://twitter.com/DeFi_educator/status/1650557291366604822",
           "publishedOn": "2023-04-24T17:48:18.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...",
           "imageUrl": null
         },
@@ -672,7 +672,7 @@
           "description": "For long-term investing, keep these 3 principles in mind:\n1) Zoom out 🌐 - Look at the bigger picture\n2) Scale in 💰 - Gradually enter your position.\n2) Scale out 💸 - Take profits in stages. https://t.co/tQ8yKcPYEl",
           "link": "https://twitter.com/DeFi_educator/status/1650256135239106561",
           "publishedOn": "2023-04-23T21:51:37.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "For long-term investing, keep these 3 principles in mind: 1) Zoom out 🌐 - Look at the bigger picture 2) Scale in 💰 - Gradually enter your positi...",
           "imageUrl": null
         },
@@ -682,7 +682,7 @@
           "description": "RT cygaar\nThe new Euro-pegged stablecoin from SG-Generale (a French Bank) has a function that allows them to take all of your money lol https://t.co/auqOrEOw6Y",
           "link": "https://twitter.com/0xCygaar/status/1649108182957178882",
           "publishedOn": "2023-04-20T17:50:04.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT cygaar: The new Euro-pegged stablecoin from SG-Generale (a French Bank) has a function that allows them to take all of your money lol https://t.co/...",
           "imageUrl": null
         },
@@ -692,7 +692,7 @@
           "description": "RT banteg\ntornado cash dev alex pertsev reportedly released just now https://t.co/Lg1s01VaRP",
           "link": "https://twitter.com/bantg/status/1648994343099805696",
           "publishedOn": "2023-04-20T10:17:42.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT banteg: tornado cash dev alex pertsev reportedly released just now https://t.co/Lg1s01VaRP",
           "imageUrl": null
         },
@@ -702,7 +702,7 @@
           "description": "RT Chris Blec\nRe Would the Canadian truckers have been blocked by Trezor last year?\nThese are the kinds of questions you should be asking yourself when you're deciding whether or not to buy a Trezor in the future.",
           "link": "https://twitter.com/ChrisBlec/status/1648717853728686081",
           "publishedOn": "2023-04-19T15:59:02.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Chris Blec: Re Would the Canadian truckers have been blocked by Trezor last year? These are the kinds of questions you should be asking yourself wh...",
           "imageUrl": null
         },
@@ -712,7 +712,7 @@
           "description": "RT Watcher.Guru\nJUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire Chairman Gary Gensler. https://t.co/7jceXJBkfR",
           "link": "https://twitter.com/WatcherGuru/status/1648387358696284167",
           "publishedOn": "2023-04-18T18:05:46.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Watcher.Guru: JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire Chairman Gary Gensler. https://t.co/7jceXJBkfR",
           "imageUrl": null
         },
@@ -722,7 +722,7 @@
           "description": "Update: \nFinal stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx\n\n\nDeFi Educator: Where do you think we are in the cycle?\nMy gut tells me we're at anger\nNext stop: Depression https://t.co/odNiEm2IZy",
           "link": "https://twitter.com/DeFi_educator/status/1648386893082402818",
           "publishedOn": "2023-04-18T18:03:55.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx",
           "imageUrl": null
         },
@@ -732,7 +732,7 @@
           "description": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. \nhttps://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i",
           "link": "https://twitter.com/DeFi_educator/status/1648385176940969984",
           "publishedOn": "2023-04-18T17:57:06.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-...",
           "imageUrl": null
         },
@@ -742,7 +742,7 @@
           "description": "RT Tyler Strejilevich\n🚨BREAKING!!!!! \n@GOPMajorityWhip TORCHING Gary Gensler and highlighting his and the SEC's complete and utter failure to protect ANY retail investors whatsoever\nAnd lack of regulatory clarity + hostile enforcement against crypto in the US is pushing innovation offshores… https://twitter.com/i/web/status/1648360838544203777 https://t.co/cDlt2BbUW2",
           "link": "https://twitter.com/TylerSCrypto/status/1648360838544203777",
           "publishedOn": "2023-04-18T16:20:23.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Tyler Strejilevich: 🚨BREAKING!!!!! @GOPMajorityWhip TORCHING Gary Gensler and highlighting his and the SEC's complete and utter failure to prote...",
           "imageUrl": null
         },
@@ -752,7 +752,7 @@
           "description": "Re @teemupleb 😂",
           "link": "https://twitter.com/DeFi_educator/status/1646896540575825923",
           "publishedOn": "2023-04-14T15:21:47.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @teemupleb 😂",
           "imageUrl": null
         },
@@ -762,7 +762,7 @@
           "description": "Verifying my account on Nostr\nMy public key:\n“npub1jkm8fsx0e5ykdfap438cuulxyaw9u9gx49l58vklpc0sfg6dn2nqt7dhma”\nFind others at http://nostr.directory @NostrDirectory #nostr",
           "link": "https://twitter.com/DeFi_educator/status/1646891894163505154",
           "publishedOn": "2023-04-14T15:03:19.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Verifying my account on Nostr My public key: “npub1jkm8fsx0e5ykdfap438cuulxyaw9u9gx49l58vklpc0sfg6dn2nqt7dhma” Find others at http://nostr.directory...",
           "imageUrl": null
         },
@@ -772,7 +772,7 @@
           "description": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970\n\nLil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is \"fair\" https://t.co/T0zlCIxrnl",
           "link": "https://twitter.com/DeFi_educator/status/1646884429116198914",
           "publishedOn": "2023-04-14T14:33:40.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970",
           "imageUrl": null
         },
@@ -782,7 +782,7 @@
           "description": "RT Willy Woo\nBMI just crossed above the lower blue band suggesting the \"re-accumulation\" phase of the cycle has begun.\ni.e. the bottom has formed (smart money investors accumulating) rejecting further lows, creating a low volatility bottom, price moves up in a choppy sideways/bullish manner. https://t.co/Om1TmAkBk0",
           "link": "https://twitter.com/woonomic/status/1645328857778769921",
           "publishedOn": "2023-04-10T07:32:23.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Willy Woo: BMI just crossed above the lower blue band suggesting the \"re-accumulation\" phase of the cycle has begun. i.e. the bottom has formed (sm...",
           "imageUrl": null
         },
@@ -792,7 +792,7 @@
           "description": "Re @Ninjascalp https://t.co/LKJ9D1ZLps",
           "link": "https://twitter.com/DeFi_educator/status/1644707277348192256",
           "publishedOn": "2023-04-08T14:22:26.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @Ninjascalp https://t.co/LKJ9D1ZLps",
           "imageUrl": null
         },
@@ -802,7 +802,7 @@
           "description": "RT Watcher.Guru\nWeekly Recap\n1) 🇫🇷 $10 trillion asset manager BlackRock Paris headquarters taken over by protestors.\n2) 🇲🇾 Malaysia Prime Minister says there's no reason to continue to depend on the US dollar.\n3) 🇸🇦 Saudi Arabia's Crown Prince MBS says he is no longer interested in pleasing… https://twitter.com/i/web/status/1644701972929314816",
           "link": "https://twitter.com/WatcherGuru/status/1644701972929314816",
           "publishedOn": "2023-04-08T14:01:22.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Watcher.Guru: Weekly Recap 1) 🇫🇷 $10 trillion asset manager BlackRock Paris headquarters taken over by protestors. 2) 🇲🇾 Malaysia Prime...",
           "imageUrl": null
         },
@@ -812,7 +812,7 @@
           "description": "RT Road2Crypto\nI made a short overview on how you can look on-chain to understand the psychology of the people you're trading against, and when you can size up.\nI'll use $STRP & $ZERO as examples in this case. https://t.co/iuHBP8zQGh",
           "link": "https://twitter.com/CryptoDamus411/status/1643967889811329024",
           "publishedOn": "2023-04-06T13:24:23.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Road2Crypto: I made a short overview on how you can look on-chain to understand the psychology of the people you're trading against, and when you c...",
           "imageUrl": null
         },
@@ -822,7 +822,7 @@
           "description": "RT Tendeeno\nkinda funny that Wells Fargo has paid more in fines related to harming their customers in the last three years ($7.037b)\nthan all of the money ever lost in crypto hacks and exploits (6.45b)\n(h/t @DefiLlama for the hacks data) https://t.co/byNmOCSMrs",
           "link": "https://twitter.com/Tendeeno_/status/1640696054990397440",
           "publishedOn": "2023-03-28T12:43:16.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Tendeeno: kinda funny that Wells Fargo has paid more in fines related to harming their customers in the last three years ($7.037b) than all of the ...",
           "imageUrl": null
         }
@@ -839,7 +839,7 @@
           "description": "Re @FA40Ziv Damn dude",
           "link": "https://twitter.com/OnChainWizard/status/1649136593712693249",
           "publishedOn": "2023-04-20T19:42:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @FA40Ziv Damn dude",
           "imageUrl": null
         },
@@ -849,7 +849,7 @@
           "description": "Re @OuroborosCap8 Wen public sale?    And assume that will be at much closer to $1bn fdv",
           "link": "https://twitter.com/OnChainWizard/status/1649110717486825473",
           "publishedOn": "2023-04-20T18:00:08.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @OuroborosCap8 Wen public sale? And assume that will be at much closer to $1bn fdv",
           "imageUrl": null
         },
@@ -859,7 +859,7 @@
           "description": "RT Silent Protocol\n\"Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like\". \nYes. You read that right. \nSuccessful-massively-adopted. \nFocus anon.\nhttps://zeeprime.capital/why-privacy-failed-zk-part-2 https://t.co/MmxOKqr02e",
           "link": "https://twitter.com/silentdao_/status/1648781076314181634",
           "publishedOn": "2023-04-19T20:10:16.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Silent Protocol: \"Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like\". Yes. You re...",
           "imageUrl": null
         },
@@ -869,7 +869,7 @@
           "description": "RT Ryan Selkis 🪳\n1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature Bank's collapse.\nThe plot thickens!",
           "link": "https://twitter.com/twobitidiot/status/1648704414914588672",
           "publishedOn": "2023-04-19T15:05:38.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Ryan Selkis 🪳: 1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature B...",
           "imageUrl": null
         },
@@ -879,7 +879,7 @@
           "description": "Good refresher for you degens hunting micro cap meme coins right now.\n\nShitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵",
           "link": "https://twitter.com/OnChainWizard/status/1648306325619605521",
           "publishedOn": "2023-04-18T12:43:46.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Good refresher for you degens hunting micro cap meme coins right now.",
           "imageUrl": null
         },
@@ -889,7 +889,7 @@
           "description": "Re @RLK20201 All realized gains…",
           "link": "https://twitter.com/OnChainWizard/status/1648093823287939074",
           "publishedOn": "2023-04-17T22:39:22.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @RLK20201 All realized gains…",
           "imageUrl": null
         },
@@ -899,7 +899,7 @@
           "description": "Re https://debank.com/profile/0x32c8ee141a8d607b444176115e1cb866c4565320/history?chain=eth&token=0x6982508145454ce325ddbe47a25d4ec3d2311933_PEPE",
           "link": "https://twitter.com/OnChainWizard/status/1648080452845010948",
           "publishedOn": "2023-04-17T21:46:14.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re https://debank.com/profile/0x32c8ee141a8d607b444176115e1cb866c4565320/history?chain=eth&token=0x6982508145454ce325ddbe47a25d4ec3d2311933_PEPE",
           "imageUrl": null
         },
@@ -909,7 +909,7 @@
           "description": "Turning 1 ETH into 81 ETH takes a lot of hard work, determination, grit, analysis, TA, quants, connections...... or you can just be this wallet who bought $PEPE early and literally made ~$166k in less than 3 days (on a $1.9k investment). https://t.co/TLPfNCTTVv",
           "link": "https://twitter.com/OnChainWizard/status/1648080450785517569",
           "publishedOn": "2023-04-17T21:46:13.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Turning 1 ETH into 81 ETH takes a lot of hard work, determination, grit, analysis, TA, quants, connections...... or you can just be this wallet who bo...",
           "imageUrl": null
         },
@@ -919,7 +919,7 @@
           "description": "New post on some macro stuff, smart money movements, a *paid* dive into a token that looks undervalued and some new launches worth checking out\nhttps://linktr.ee/onchainwizardscauldron",
           "link": "https://twitter.com/OnChainWizard/status/1647984079449538560",
           "publishedOn": "2023-04-17T15:23:17.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "New post on some macro stuff, smart money movements, a *paid* dive into a token that looks undervalued and some new launches worth checking out https:...",
           "imageUrl": null
         },
@@ -929,7 +929,7 @@
           "description": "RT Silent Protocol\n⭐️The Silent Manifesto ⭐️ \nThe lack of privacy on-chain and why it matters, a short thread on why privacy will be the key to mass adoption.\n1/ https://t.co/ANADPHreBo",
           "link": "https://twitter.com/silentdao_/status/1646935806181777426",
           "publishedOn": "2023-04-14T17:57:49.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Silent Protocol: ⭐️The Silent Manifesto ⭐️ The lack of privacy on-chain and why it matters, a short thread on why privacy will be the key to ma...",
           "imageUrl": null
         },
@@ -939,7 +939,7 @@
           "description": "$2k ETH and SBF skips jail to run the re-operational FTX in Q2/Q3.     How about that for not being on your crypto bingo card for 2023.",
           "link": "https://twitter.com/OnChainWizard/status/1646625298467676161",
           "publishedOn": "2023-04-13T21:23:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "$2k ETH and SBF skips jail to run the re-operational FTX in Q2/Q3. How about that for not being on your crypto bingo card for 2023.",
           "imageUrl": null
         },
@@ -949,7 +949,7 @@
           "description": "Re And I think Silent is building something very cool and unique. The simplistic design of @silentdao_ is what makes it stand out. Depending on how the implementation goes, EZEE has the potential to change how we interact with Web 3, so do yourself a favour and give them a follow.",
           "link": "https://twitter.com/OnChainWizard/status/1645798229441933312",
           "publishedOn": "2023-04-11T14:37:30.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re And I think Silent is building something very cool and unique. The simplistic design of @silentdao_ is what makes it stand out. Depending on how th...",
           "imageUrl": null
         },
@@ -959,7 +959,7 @@
           "description": "Re While I respect the public nature of blockchain transactions, and have personally benefited from being able to copy trade or find traders smarter than me using onchain data, given increased institutional interest, a need for compliant privacy is a must have for certain firms.",
           "link": "https://twitter.com/OnChainWizard/status/1645798227650973699",
           "publishedOn": "2023-04-11T14:37:29.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re While I respect the public nature of blockchain transactions, and have personally benefited from being able to copy trade or find traders smarter t...",
           "imageUrl": null
         },
@@ -969,7 +969,7 @@
           "description": "Re Additionally you can check out this great thread by @rektdiomedes  who recently became a silencer.\nhttps://twitter.com/rektdiomedes/status/1642848165840949250\n\nrektdiomedes: Thread/Announcement: Crypto, Privacy, And Why I've Become An Ambassador For @silentdao_\n🧵\nSo, if you've followed me for awhile you know a lot of my investment thesis for brypto revolves around 'fatalistic bullishness'. Basically...\n1/x https://t.co/D3VrwPVJR3",
           "link": "https://twitter.com/OnChainWizard/status/1645798225570562052",
           "publishedOn": "2023-04-11T14:37:29.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re Additionally you can check out this great thread by @rektdiomedes who recently became a silencer. https://twitter.com/rektdiomedes/status/164284816...",
           "imageUrl": null
         },
@@ -979,7 +979,7 @@
           "description": "Re You can read more about the technical underpinnings of the project here, given this thread is too short to cover them all   \nhttps://medium.com/silent-protocol/ezee-the-final-answer-to-the-tango-between-private-and-public-systems-part-a-f5b3eb9cedcc",
           "link": "https://twitter.com/OnChainWizard/status/1645798223834132481",
           "publishedOn": "2023-04-11T14:37:28.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re You can read more about the technical underpinnings of the project here, given this thread is too short to cover them all https://medium.com/silent...",
           "imageUrl": null
         },
@@ -989,7 +989,7 @@
           "description": "Re The team has been building in stealth for a while now, and will be launching its infrastructure on multiple blockchains soon. I see this space heating up, especially with crypto institutions, as they look to perform their transactions, out of the eyes of the onchain analyzoors. https://t.co/FlTJsVah7v",
           "link": "https://twitter.com/OnChainWizard/status/1645798219417530369",
           "publishedOn": "2023-04-11T14:37:27.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re The team has been building in stealth for a while now, and will be launching its infrastructure on multiple blockchains soon. I see this space heat...",
           "imageUrl": null
         },
@@ -999,7 +999,7 @@
           "description": "Re There are a few projects claiming to provide defi privacy but are just a mere tornado fork underneath. However silent through its novel framework EZEE is able to provide anonymity and time-gapped confidentiality, which enables users to utilize any Web 3 application privately.",
           "link": "https://twitter.com/OnChainWizard/status/1645798216540254209",
           "publishedOn": "2023-04-11T14:37:26.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re There are a few projects claiming to provide defi privacy but are just a mere tornado fork underneath. However silent through its novel framework E...",
           "imageUrl": null
         },
@@ -1009,7 +1009,7 @@
           "description": "Re Enter Silent Protocol, who is focused on providing privacy as a middleware solution for public blockchains. The project looks to solve this problem by providing privacy preservation at the application level via an SDK. https://t.co/M8MGkMwPL8",
           "link": "https://twitter.com/OnChainWizard/status/1645798214375989248",
           "publishedOn": "2023-04-11T14:37:26.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re Enter Silent Protocol, who is focused on providing privacy as a middleware solution for public blockchains. The project looks to solve this problem...",
           "imageUrl": null
         },
@@ -1019,7 +1019,7 @@
           "description": "Re But as blockchain usage increases, especially for crypto native institutions or businesses looking to enter the space, compliant privacy of blockchain transactions will be of rising importance both from a security and a safety perspective.",
           "link": "https://twitter.com/OnChainWizard/status/1645798212182351874",
           "publishedOn": "2023-04-11T14:37:25.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re But as blockchain usage increases, especially for crypto native institutions or businesses looking to enter the space, compliant privacy of blockch...",
           "imageUrl": null
         },
@@ -1029,7 +1029,7 @@
           "description": "A thread on why I think @silentdao_ is building something very special and you should check them out.    🧵\nSo if you’ve been following me for awhile, you know that I like to geek out on watching wallets and onchain activity. https://t.co/OePkM9QCiJ",
           "link": "https://twitter.com/OnChainWizard/status/1645798209569300482",
           "publishedOn": "2023-04-11T14:37:25.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "A thread on why I think @silentdao_ is building something very special and you should check them out. 🧵 So if you’ve been following me for awhile,...",
           "imageUrl": null
         }
@@ -1046,7 +1046,7 @@
           "description": "Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude? https://twitter.com/defiignas/status/1650851600326623233\n\nIgnas | DeFi Research: 18/ Final thoughts: Ethereum is the best bet for financial freedom in crypto.\nCurrently, you can get safe 5-9% APY on ETH, but it's a bear market and on-chain activity is low.\nWhen the bull market comes, gas usage will skyrocket.\nThis will increase staking yield & ETH burning.",
           "link": "https://twitter.com/DeFiSurfer808/status/1651035987210805249",
           "publishedOn": "2023-04-26T01:30:28.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude? htt...",
           "imageUrl": null
         },
@@ -1056,7 +1056,7 @@
           "description": "Re @tedtalksmacro Bitcoin is responding to Msft / googl earnings",
           "link": "https://twitter.com/DeFiSurfer808/status/1651003482382430211",
           "publishedOn": "2023-04-25T23:21:19.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @tedtalksmacro Bitcoin is responding to Msft / googl earnings",
           "imageUrl": null
         },
@@ -1066,7 +1066,7 @@
           "description": "Re @fallacyalarm @SocialSecurity He’s basically already dead given his cognitive capacity",
           "link": "https://twitter.com/DeFiSurfer808/status/1650977918439366657",
           "publishedOn": "2023-04-25T21:39:44.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @fallacyalarm @SocialSecurity He’s basically already dead given his cognitive capacity",
           "imageUrl": null
         },
@@ -1076,7 +1076,7 @@
           "description": "Re @agnostoxxx I’m seeing 3%",
           "link": "https://twitter.com/DeFiSurfer808/status/1650959439334109212",
           "publishedOn": "2023-04-25T20:26:18.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @agnostoxxx I’m seeing 3%",
           "imageUrl": null
         },
@@ -1086,7 +1086,7 @@
           "description": "Re @MuhNameJamal @levysaur 💯 💯",
           "link": "https://twitter.com/DeFiSurfer808/status/1650940547769442326",
           "publishedOn": "2023-04-25T19:11:14.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @MuhNameJamal @levysaur 💯 💯",
           "imageUrl": null
         },
@@ -1096,7 +1096,7 @@
           "description": "Re @jiggycapital I don’t understand why this thing is 40x earnings",
           "link": "https://twitter.com/DeFiSurfer808/status/1650919207104552975",
           "publishedOn": "2023-04-25T17:46:26.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @jiggycapital I don’t understand why this thing is 40x earnings",
           "imageUrl": null
         },
@@ -1106,7 +1106,7 @@
           "description": "Re @dLuxGMI Lmao good one 😂",
           "link": "https://twitter.com/DeFiSurfer808/status/1650918170780114976",
           "publishedOn": "2023-04-25T17:42:19.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @dLuxGMI Lmao good one 😂",
           "imageUrl": null
         },
@@ -1116,7 +1116,7 @@
           "description": "RT dLux\nRe @DeFiSurfer808 We're buying the dip next year once the weak hands get washed out.",
           "link": "https://twitter.com/dLuxGMI/status/1650917984230055944",
           "publishedOn": "2023-04-25T17:41:34.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT dLux: Re @DeFiSurfer808 We're buying the dip next year once the weak hands get washed out.",
           "imageUrl": null
         },
@@ -1126,7 +1126,7 @@
           "description": "Is it so much to ask for?? https://twitter.com/discountedtf/status/1650903781587165189\n\nDiscounted Trash Flow: @DeFiSurfer808 https://t.co/NGRLLBihfs",
           "link": "https://twitter.com/DeFiSurfer808/status/1650907357075980303",
           "publishedOn": "2023-04-25T16:59:20.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Is it so much to ask for?? https://twitter.com/discountedtf/status/1650903781587165189",
           "imageUrl": null
         },
@@ -1136,7 +1136,7 @@
           "description": "Absolutely no way this is sustainable. https://twitter.com/charliebilello/status/1650885984135921664\n\nCharlie Bilello: 3 years ago: 30-yr mortgage rate was 2.97% & average new home price in the US was $360k.\nToday: 30-yr mortgage rate is 6.39% & average new home price is $562k.\nResult: $40k increase in down payment (assuming 20% down) & 132% increase in monthly payment (from $1,209 to $2,809).",
           "link": "https://twitter.com/DeFiSurfer808/status/1650901725199446019",
           "publishedOn": "2023-04-25T16:36:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Absolutely no way this is sustainable. https://twitter.com/charliebilello/status/1650885984135921664",
           "imageUrl": null
         },
@@ -1146,7 +1146,7 @@
           "description": "Re @crypto_condom Good point on potential fee pressure",
           "link": "https://twitter.com/DeFiSurfer808/status/1650896618172850179",
           "publishedOn": "2023-04-25T16:16:40.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @crypto_condom Good point on potential fee pressure",
           "imageUrl": null
         },
@@ -1156,7 +1156,7 @@
           "description": "Re @DegenSpartan US stocks have major structural advantages such as over indexing to tech monopolies and having about half of the index’s revenue from overseas (able to benefit from geos with more favorable demographics)",
           "link": "https://twitter.com/DeFiSurfer808/status/1650880363563040768",
           "publishedOn": "2023-04-25T15:12:05.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @DegenSpartan US stocks have major structural advantages such as over indexing to tech monopolies and having about half of the index’s revenue fro...",
           "imageUrl": null
         },
@@ -1166,7 +1166,7 @@
           "description": "Buckle up https://twitter.com/inartecarlodoss/status/1650790525677518849\n\nKKGB Kitty: Everyone agrees debt ceiling x-date is getting eerily nearer as tax receipts track below, but for time being only one niche corner of the market seems to care (bills/ois). Every other asset class seems oblivious.",
           "link": "https://twitter.com/DeFiSurfer808/status/1650819929132630017",
           "publishedOn": "2023-04-25T11:11:56.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Buckle up https://twitter.com/inartecarlodoss/status/1650790525677518849",
           "imageUrl": null
         },
@@ -1176,7 +1176,7 @@
           "description": "RT Going Underground\nMilitary spending, 2022.\nChina🇨🇳: $291 billion\nIndia🇮🇳: $66 billion\nRussia🇷🇺: $61 billion\nUK🇬🇧: $55 billion\nFrance🇫🇷: $51 billion\nJapan🇯🇵: $48 billion\nGermany🇩🇪: $46 billion\nItaly🇮🇹: $33 billion\nBrazil🇧🇷: $20 billion\nIran🇮🇷: $6 billion\nTotal: $677 billion\nUS🇺🇸 military… https://twitter.com/i/web/status/1650796963153993728 https://t.co/ohwku6quPb",
           "link": "https://twitter.com/GUnderground_TV/status/1650796963153993728",
           "publishedOn": "2023-04-25T09:40:40.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Going Underground: Military spending, 2022. China🇨🇳: $291 billion India🇮🇳: $66 billion Russia🇷🇺: $61 billion UK🇬🇧: $55 bill...",
           "imageUrl": null
         },
@@ -1186,7 +1186,7 @@
           "description": "Re @d6llte Well I mean they did just fire him despite having 10x the viewers of competing networks https://t.co/lsP5fMElq0",
           "link": "https://twitter.com/DeFiSurfer808/status/1650678675954708481",
           "publishedOn": "2023-04-25T01:50:39.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @d6llte Well I mean they did just fire him despite having 10x the viewers of competing networks https://t.co/lsP5fMElq0",
           "imageUrl": null
         },
@@ -1196,7 +1196,7 @@
           "description": "Re @d6llte Pretty clear you haven’t watched him",
           "link": "https://twitter.com/DeFiSurfer808/status/1650671844540776448",
           "publishedOn": "2023-04-25T01:23:30.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @d6llte Pretty clear you haven’t watched him",
           "imageUrl": null
         },
@@ -1206,7 +1206,7 @@
           "description": "Re @0xAero8 All I see here is ad hominem. Do better",
           "link": "https://twitter.com/DeFiSurfer808/status/1650665150859313152",
           "publishedOn": "2023-04-25T00:56:54.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @0xAero8 All I see here is ad hominem. Do better",
           "imageUrl": null
         },
@@ -1216,7 +1216,7 @@
           "description": "Re @evantindell Yea not sustainable",
           "link": "https://twitter.com/DeFiSurfer808/status/1650657127365574658",
           "publishedOn": "2023-04-25T00:25:01.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @evantindell Yea not sustainable",
           "imageUrl": null
         },
@@ -1226,7 +1226,7 @@
           "description": "Re @ShortsellerST Oh damn going to -80?? Take it to the bank",
           "link": "https://twitter.com/DeFiSurfer808/status/1650649270360342531",
           "publishedOn": "2023-04-24T23:53:48.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @ShortsellerST Oh damn going to -80?? Take it to the bank",
           "imageUrl": null
         },
@@ -1236,7 +1236,7 @@
           "description": "RT shaurya\nguys only want one thing https://t.co/RrklsWjDgp",
           "link": "https://twitter.com/shauseth/status/1650381512548974596",
           "publishedOn": "2023-04-24T06:09:49.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT shaurya: guys only want one thing https://t.co/RrklsWjDgp",
           "imageUrl": null
         }
