@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T04:15:02.361Z</id>
+    <id>urn:2023-04-27T05:12:25.391Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-27T04:15:02.361Z</updated>
+    <updated>2023-04-27T05:12:25.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gitcoin Beta Round 捐赠指南（作者：shouyi）：Gitcoin Beta Round 是 Gitcoin Grants Quadratic Funding 的第二轮，持续时间从 4 月 25 日到 5 月 9 日。可捐...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651440009583693824</id>
+        <link href="https://twitter.com/wublockchain12/status/1651440009583693824"/>
+        <updated>2023-04-27T04:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Gitcoin Beta Round 捐赠指南（作者：shouyi）：Gitcoin Beta Round 是 Gitcoin Grants Quadratic Funding 的第二轮，持续时间从 4 月 25 日到 5 月 9 日。可捐赠项目包括：全链分析工具 ChainEye、Web3 钱包 Taho、StarkNet 上的 DEX JediSwap、链上开源博客社区 xLog… https://twitter.com/i/web/status/1651440009583693824]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 个强大的 AI 工具： 1. https://rytr.me/ → AI写手 2. https://10web.io/ → AI建站 3. https://snackprompt.com/ → 最佳提示 4. https://beta.tome.app/ →...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1651430521183035392</id>
+        <link href="https://twitter.com/AntCaveClub/status/1651430521183035392"/>
+        <updated>2023-04-27T03:38:13.000Z</updated>
+        <summary type="html"><![CDATA[6 个强大的 AI 工具：
+1. https://rytr.me/ → AI写手
+2. https://10web.io/ → AI建站
+3. https://snackprompt.com/ → 最佳提示
+4. https://beta.tome.app/ → AI 创建PPT
+5. https://www.bluewillow.ai/ → AI画图
+6. https://looka.com/ → AI 设计Logo]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据彭博社，Kraken 现在要求旧金山的一家联邦法院命令美国国税局（IRS）撤销要求，IRS 此前要求 Kraken 提供在 2016 年至 2020 年期间进行大于 2 万美元加密货币...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651423459099176962</id>
+        <link href="https://twitter.com/wublockchain12/status/1651423459099176962"/>
+        <updated>2023-04-27T03:10:09.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社，Kraken 现在要求旧金山的一家联邦法院命令美国国税局（IRS）撤销要求，IRS 此前要求 Kraken 提供在 2016 年至 2020 年期间进行大于 2 万美元加密货币交易的账户信息，以调查可能存在漏报税务责任的用户。Kraken 认为该要求相当于一场“无理由的寻宝”。
+https://www.bloomberg.com/news/articles/2023-04-26/crypto-exchange-kraken-blasts-irs-summons-as-treasure-hunt?leadSource=uverify%20wall]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got a 100 wallet health score using @approvals_xyz. Get your score and revoke risky approvals. https://approvals.xyz/?score=100]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1651420656704319490</id>
+        <link href="https://twitter.com/AntCaveClub/status/1651420656704319490"/>
+        <updated>2023-04-27T02:59:01.000Z</updated>
+        <summary type="html"><![CDATA[I got a 100 wallet health score using @approvals_xyz. Get your score and revoke risky approvals. https://approvals.xyz/?score=100]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @SmokeyTheBera liquidity]]></title>
         <id>https://twitter.com/OnChainWizard/status/1651411276612919298</id>
@@ -13,6 +60,16 @@
         <summary type="html"><![CDATA[Re @SmokeyTheBera liquidity]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 统计，流动性质押协议以 $17.93billion TVL 首次超过了 Dexes（$17.83billion），成为 DeFi 领域中的第一大类别，主要的流动性质押协议...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651407747643240449</id>
+        <link href="https://twitter.com/wublockchain12/status/1651407747643240449"/>
+        <updated>2023-04-27T02:07:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 统计，流动性质押协议以 $17.93billion TVL 首次超过了 Dexes（$17.83billion），成为 DeFi 领域中的第一大类别，主要的流动性质押协议如 Lido、Rocket Pool、Frax Ether 等在近一个月 TVL 都增长超过 10%。https://defillama.com/categories]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -31,6 +88,16 @@ https://github.com/steamship-packages/autogpt-telegram-chatbot]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，据统计，2023年共识大会赞助商为 231 个，略少于2022年的261个；其中头部赞助商大幅减少，5星赞助商由7个减少到4个，四星赞助商由9个减少到2个，三星...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651407001262620672</id>
+        <link href="https://twitter.com/wublockchain12/status/1651407001262620672"/>
+        <updated>2023-04-27T02:04:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据统计，2023年共识大会赞助商为 231 个，略少于2022年的261个；其中头部赞助商大幅减少，5星赞助商由7个减少到4个，四星赞助商由9个减少到2个，三星赞助商由20个减少到8个；其中交易所大幅减少，离岸交易所只有 Huobi LBANK 等进行了赞助；去年则有 BinanceUS Bybit CoinEx Bitmart Bitget… https://twitter.com/i/web/status/1651407001262620672]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stability 和 Deep Floyd 推出了名为“IF”的文本到图像和语言理解模型🔥 https://github.com/deep-floyd/IF https://t.co/3JyE29KDxg]]></title>
         <id>https://twitter.com/AntCaveClub/status/1651406440685539328</id>
         <link href="https://twitter.com/AntCaveClub/status/1651406440685539328"/>
@@ -39,6 +106,61 @@ https://github.com/steamship-packages/autogpt-telegram-chatbot]]></summary>
 https://github.com/deep-floyd/IF https://t.co/3JyE29KDxg]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1651326452195786752?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651403693739372545</id>
+        <link href="https://twitter.com/wublockchain12/status/1651403693739372545"/>
+        <updated>2023-04-27T01:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/CoinbaseAssets/status/1651326452195786752?s=20
+
+Coinbase Assets 🛡️: Asset added to the roadmap today: Osmosis (OSMO) https://www.coinbase.com/blog/increasing-transparency-for-new-asset-listings-on-coinbase]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，4 月 27 日 Coinbase 宣布将 Osmosis (OSMO) 列入路线图资产。Osmosis 是一个 Cosmos 上提供跨链交易，采用自动造市商（AMM）机制的去中心化交易所。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651403691885473793</id>
+        <link href="https://twitter.com/wublockchain12/status/1651403691885473793"/>
+        <updated>2023-04-27T01:51:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，4 月 27 日 Coinbase 宣布将 Osmosis (OSMO) 列入路线图资产。Osmosis 是一个 Cosmos 上提供跨链交易，采用自动造市商（AMM）机制的去中心化交易所。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Certik 删除了补偿计划中涉及 ZKSync 的内容，或将独自承担 200 万美元的补偿。https://twitter.com/CertiK/status/1651276441949028373]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651402956296847362</id>
+        <link href="https://twitter.com/wublockchain12/status/1651402956296847362"/>
+        <updated>2023-04-27T01:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Re Certik 删除了补偿计划中涉及 ZKSync 的内容，或将独自承担 200 万美元的补偿。https://twitter.com/CertiK/status/1651276441949028373
+
+CertiK: 1/ CertiK is exploring a community compensation plan to cover the ~$2M of user funds lost in the Merlin DEX rug pull. Initial investigations indicate that the rogue developers are based in Europe, and we are working with law enforcement to track them down.
+⬇️⬇️⬇️]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Flipside 数据，4 月 26 日 Solana NFT 市场 Tensor在单日交易量上首次超过了 Magic Eden，约占 Solana NFT 市场当日交易量的 51%。自 3 月初宣布...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651401976457084929</id>
+        <link href="https://twitter.com/wublockchain12/status/1651401976457084929"/>
+        <updated>2023-04-27T01:44:47.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Flipside 数据，4 月 26 日 Solana NFT 市场 Tensor在单日交易量上首次超过了 Magic Eden，约占 Solana NFT 市场当日交易量的 51%。自 3 月初宣布融资并采取类似于 Blur 的策略后，Tensor 交易量和活跃用户迎来大幅增长，4 月累积活跃用户已达 2 万，创下新高。https://flipsidecrypto.xyz/panda-gXSkiX/tensor-fastest-nft-exchange-on-solana-6Nj2RM]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布上线 EGLD 的韩元与 BTC 交易，充值将在公告后3小时内开放。Upbit 上币常常会导致对山寨币大幅拉升，用户请注意风险。https...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651401758386839552</id>
+        <link href="https://twitter.com/wublockchain12/status/1651401758386839552"/>
+        <updated>2023-04-27T01:43:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布上线 EGLD 的韩元与 BTC 交易，充值将在公告后3小时内开放。Upbit 上币常常会导致对山寨币大幅拉升，用户请注意风险。https://upbit.com/service_center/notice?id=3487]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -184,26 +306,6 @@ https://www.coindesk.com/policy/2023/04/26/voyager-lawyers-surprised-binanceus-c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[管理着约 1.4 万亿美元资产的投资管理巨头富兰克林邓普顿 (Franklin Templeton) 已将其 OnChain 美国政府货币基金（FOBXX）扩展到 Polygon 链，未来将支持更多网...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651378256480960512</id>
-        <link href="https://twitter.com/wublockchain12/status/1651378256480960512"/>
-        <updated>2023-04-27T00:10:32.000Z</updated>
-        <summary type="html"><![CDATA[管理着约 1.4 万亿美元资产的投资管理巨头富兰克林邓普顿 (Franklin Templeton) 已将其 OnChain 美国政府货币基金（FOBXX）扩展到 Polygon 链，未来将支持更多网络。该基金于 2021 年推出，首次在 Stellar 链上推出。FOBXX 是第一个在美国注册的共同基金，它使用公共区块链来处理交易和记录股权。（The… https://twitter.com/i/web/status/1651378256480960512]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，彭博社最新评选的通过“计算机驱动的贸易公司”致富的“25 位金融巨头”中，币安创始人赵长鹏身价被计算为 282 亿美元，彭博社估计币安年收入约为 120...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651376053372465152</id>
-        <link href="https://twitter.com/wublockchain12/status/1651376053372465152"/>
-        <updated>2023-04-27T00:01:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，彭博社最新评选的通过“计算机驱动的贸易公司”致富的“25 位金融巨头”中，币安创始人赵长鹏身价被计算为 282 亿美元，彭博社估计币安年收入约为 120 亿美元。排名第一的是对冲基金 Citadel 创始人 Ken Griffin。考虑到币安没有公布它的财务数据与 CZ… https://twitter.com/i/web/status/1651376053372465152]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @manatmadaan @StockJabber Chipotle will be a bit more capital intensive but gets to keep all the profits generated by the stores whereas dominoes o...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651363931636523010</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651363931636523010"/>
@@ -214,11 +316,11 @@ https://www.coindesk.com/policy/2023/04/26/voyager-lawyers-surprised-binanceus-c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interdasting…]]></title>
+        <title type="html"><![CDATA[Interdasting… https://twitter.com/0xngmi/status/1651283205125701645]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651362514712555520</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651362514712555520"/>
         <updated>2023-04-26T23:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Interdasting…
+        <summary type="html"><![CDATA[Interdasting… https://twitter.com/0xngmi/status/1651283205125701645
 
 0xngmi (llamazip arc): gmx tvl has been going up while median APR has actually been going down, so it seems that over time the market is saying that the risk on gmx is going down, even tho recently theres been some big drawdowns for glp 
 (assuming efficient markets lol) https://t.co/eL4YSLNY7f]]></summary>
@@ -379,20 +481,6 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，CertiK 表示，正在与 ZKSync 探讨社区补偿计划，以覆盖在 Merlin DEX rug pull 中损失的约 200 万美元用户资金。初步调查表明，流氓开发人员位于欧洲...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651264546647187456</id>
-        <link href="https://twitter.com/wublockchain12/status/1651264546647187456"/>
-        <updated>2023-04-26T16:38:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CertiK 表示，正在与 ZKSync 探讨社区补偿计划，以覆盖在 Merlin DEX rug pull 中损失的约 200 万美元用户资金。初步调查表明，流氓开发人员位于欧洲，CertiK 正在与执法部门合作追踪他们，敦促流氓开发者接受 20% 的白帽赏金。
-https://twitter.com/CertiK/status/1651252731691036672?s=20
-
-吴说区块链: 吴说获悉，CertiK 发文回应称，目前正在调查 Merlin 事件，初步调查结果指向一个潜在的私钥管理问题，而不是漏洞利用作为根本原因，并表示审计不能防止私钥问题。
-https://twitter.com/CertiK/status/1651088669187473408?s=20]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 10. Durable 在 30 秒内为您的企业建立一个网站。 已经生成了超过 1,000,000 个网站。 链接： https://durable.co]]></title>
         <id>https://twitter.com/AntCaveClub/status/1651263243732783104</id>
         <link href="https://twitter.com/AntCaveClub/status/1651263243732783104"/>
@@ -527,42 +615,19 @@ https://www.gptdemo.net/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，ZachXBT 监测到某人在过去 40 多天内创建了 114 个 meme 骗局，每次从骗局中盗取的资金都会发送到完全相同的存款地址，即 0x739c58807B99Cb274f6FD96B...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651252545829081089</id>
-        <link href="https://twitter.com/wublockchain12/status/1651252545829081089"/>
-        <updated>2023-04-26T15:51:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，ZachXBT 监测到某人在过去 40 多天内创建了 114 个 meme 骗局，每次从骗局中盗取的资金都会发送到完全相同的存款地址，即 0x739c58807B99Cb274f6FD96B10194202b8EEfB47。
-https://twitter.com/zachxbt/status/1651238822963826694?s=20
-
-吴说区块链: 吴说获悉，据 @x_explore_eth，最近很多 MEME 币的部署者在增加流动性之前已经积累了大量资金，这意味着存在被某一个发币集团操纵的可能性，具有类似行为的 MEME 币包括 WOJAK、TRAD、NEET 等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694]]></title>
+        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个]]></title>
         <id>https://twitter.com/8848Community/status/1651243512464015366</id>
         <link href="https://twitter.com/8848Community/status/1651243512464015366"/>
         <updated>2023-04-26T15:15:06.000Z</updated>
         <summary type="html"><![CDATA[真牛逼
 一个人一个半月做了114个跑路项目
-平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694
+平均一天做2.5个
 
 ZachXBT: Over the past 1.5 months one person has created 114 meme coin scams. 
 Each time stolen funds from the scam are sent to the exact same deposit address. 
 0x739c58807B99Cb274f6FD96B10194202b8EEfB47 https://t.co/uwVAiG9WGG]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 DLNews，一名黑客从做市商 Wintermute 窃取了超过 1.6 亿美元后，去年将这些资金存入 Curve Finance 交易池中，现已成为该交易池中最大的流动性提供者，占 Cu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651231999271526401</id>
-        <link href="https://twitter.com/wublockchain12/status/1651231999271526401"/>
-        <updated>2023-04-26T14:29:21.000Z</updated>
-        <summary type="html"><![CDATA[据 DLNews，一名黑客从做市商 Wintermute 窃取了超过 1.6 亿美元后，去年将这些资金存入 Curve Finance 交易池中，现已成为该交易池中最大的流动性提供者，占 Curve 3pool 的 4.09 亿美元中 28％ 的份额。Curve Finance 创始人 Michael Egorov 表示，所有 Curve… https://twitter.com/i/web/status/1651231999271526401]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -576,46 +641,6 @@ Each time stolen funds from the scam are sent to the exact same deposit address.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 目前 MPC 功能处于测试版阶段，未来将扩展到所有用户。Web3Auth 是一家钱包即服务 (WaaS) 基础架构提供商。 https://www.globenewswire.com/news-release/202...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651229876920123394</id>
-        <link href="https://twitter.com/wublockchain12/status/1651229876920123394"/>
-        <updated>2023-04-26T14:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前 MPC 功能处于测试版阶段，未来将扩展到所有用户。Web3Auth 是一家钱包即服务 (WaaS) 基础架构提供商。 https://www.globenewswire.com/news-release/2023/04/26/2655176/0/en/Trust-Wallet-Partners-With-Web3Auth-to-Simplify-Web3-Onboarding-Using-Social-Logins.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安旗下钱包应用 Trust Wallet 宣布部署 MPC 解决方案，由 Web3Auth 提供支持，用户将能够用其现有的 Google、Apple、Telegram 和 Discord 帐户访问 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651229874604916740</id>
-        <link href="https://twitter.com/wublockchain12/status/1651229874604916740"/>
-        <updated>2023-04-26T14:20:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安旗下钱包应用 Trust Wallet 宣布部署 MPC 解决方案，由 Web3Auth 提供支持，用户将能够用其现有的 Google、Apple、Telegram 和 Discord 帐户访问 Trust Wallet 服务，用户还可以选择使用 SMS OTP 和电子邮件恢复，以降低新 Web3 用户进入门槛。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，一年一度的共识大会正在美国奥斯汀召开，据现场人士透露，由于 DCG 崩盘与美国监管加剧，现场较往年冷清；DCG 生态与投资项目不如往年踊跃参与；此外...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651227628211261442</id>
-        <link href="https://twitter.com/wublockchain12/status/1651227628211261442"/>
-        <updated>2023-04-26T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，一年一度的共识大会正在美国奥斯汀召开，据现场人士透露，由于 DCG 崩盘与美国监管加剧，现场较往年冷清；DCG 生态与投资项目不如往年踊跃参与；此外，由于美国近期监管加剧，交易所、项目方等对美国市场避之不及，甚至有交易所赞助商临时取消了赞助。https://consensus.coindesk.com/agenda/-date/2023-04-24/2023-04-25]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/dKCAzWigKh]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651225460318060553</id>
-        <link href="https://twitter.com/wublockchain12/status/1651225460318060553"/>
-        <updated>2023-04-26T14:03:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/dKCAzWigKh]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BobEUnlimited Think what markets r trying to figure out is 6-9 months from now, not current trends]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651195975271170048</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651195975271170048"/>
@@ -623,6 +648,19 @@ Each time stolen funds from the scam are sent to the exact same deposit address.
         <summary type="html"><![CDATA[Re @BobEUnlimited Think what markets r trying to figure out is 6-9 months from now, not current trends]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Pyme: Pymians! We need your help 🙏 The claim window to convert Pyme Points to Pyme tokens is open NOW until June 2nd. Help us find the Pymians l...]]></title>
+        <id>https://twitter.com/PymeID/status/1651182047518441474</id>
+        <link href="https://twitter.com/PymeID/status/1651182047518441474"/>
+        <updated>2023-04-26T11:10:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Pyme
+Pymians! We need your help 🙏
+The claim window to convert Pyme Points to Pyme tokens is open NOW until June 2nd.
+Help us find the Pymians lost in the darkness and bring them home so they don’t miss out 🚀 https://t.co/kZGvVPWwyW]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
@@ -652,11 +690,11 @@ Each time stolen funds from the scam are sent to the exact same deposit address.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude?]]></title>
+        <title type="html"><![CDATA[Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude? htt...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651035987210805249</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651035987210805249"/>
         <updated>2023-04-26T01:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude?
+        <summary type="html"><![CDATA[Knowing that eth will probably go down 80% on the other side of the bull, does it make sense to passively stake thru a drawdown of that magnitude? https://twitter.com/defiignas/status/1650851600326623233
 
 Ignas | DeFi Research: 18/ Final thoughts: Ethereum is the best bet for financial freedom in crypto.
 Currently, you can get safe 5-9% APY on ETH, but it's a bear market and on-chain activity is low.
@@ -667,11 +705,11 @@ This will increase staking yield & ETH burning.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dune 开放了API给用户，很多数据可以用API访问了。]]></title>
+        <title type="html"><![CDATA[Dune 开放了API给用户，很多数据可以用API访问了。 https://twitter.com/DuneAnalytics/status/1650851414443212801]]></title>
         <id>https://twitter.com/AntCaveClub/status/1651033523883749376</id>
         <link href="https://twitter.com/AntCaveClub/status/1651033523883749376"/>
         <updated>2023-04-26T01:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Dune 开放了API给用户，很多数据可以用API访问了。
+        <summary type="html"><![CDATA[Dune 开放了API给用户，很多数据可以用API访问了。 https://twitter.com/DuneAnalytics/status/1650851414443212801
 
 Dune: Our mission is to *make crypto data accessible* 
 Today we’re excited to announce some major progress:
@@ -695,15 +733,15 @@ Here’s how 🧵 https://t.co/c6xd7sHYiR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -800,11 +838,11 @@ Things are about to get exciting 🔥 https://t.co/CV13SxUN5n]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072]]></title>
+        <title type="html"><![CDATA[Starknet 2024]]></title>
         <id>https://twitter.com/8848Community/status/1650763577165516801</id>
         <link href="https://twitter.com/8848Community/status/1650763577165516801"/>
         <updated>2023-04-25T07:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072
+        <summary type="html"><![CDATA[Starknet 2024
 
 Starknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNetEco 👨🏽‍🚀
 #Starknet 未来几个月的目标：性能和用户体验 🏎️
@@ -816,11 +854,11 @@ Starknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440]]></title>
+        <title type="html"><![CDATA[Manta 大使招募]]></title>
         <id>https://twitter.com/8848Community/status/1650751614230364166</id>
         <link href="https://twitter.com/8848Community/status/1650751614230364166"/>
         <updated>2023-04-25T06:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440
+        <summary type="html"><![CDATA[Manta 大使招募
 
 Manta Network 中文社区（🔱,🔱）: 1/ Manta 大使招募细则
 很高兴重新开放 Manta 大使计划。与大家一起创建繁荣的开发者和支持者社区。Manta 大使可帮助更多人了解链上隐私、零知识证明（ZK）和 Manta Network。
@@ -907,12 +945,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
@@ -982,40 +1020,6 @@ Learn more: https://bit.ly/busdepositfloki]]></summary>
         <link href="https://twitter.com/AntCaveClub/status/1650150868472451072"/>
         <updated>2023-04-23T14:53:20.000Z</updated>
         <summary type="html"><![CDATA[Look at my portfolio on Nested 🚀 https://app.nested.fi/portfolios/arbi:10811/2vha-all]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verifying my Twitter account for my #GalxeID gid:RMpVeNpouizs5d6BHbkErD @Galxe http://galxe.com/galxeid]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1650149140410806272</id>
-        <link href="https://twitter.com/AntCaveClub/status/1650149140410806272"/>
-        <updated>2023-04-23T14:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Verifying my Twitter account for my #GalxeID gid:RMpVeNpouizs5d6BHbkErD @Galxe 
- http://galxe.com/galxeid]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @argentHQ Does the contract wallet support multi-signature management?]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1649659306101592066</id>
-        <link href="https://twitter.com/AntCaveClub/status/1649659306101592066"/>
-        <updated>2023-04-22T06:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @argentHQ Does the contract wallet support multi-signature management?]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Nested 🧩: #CandleWars is now LIVE! Take part in the first ever on-chain spot trading competition on @arbitrum! May the best trader win ⚔️ http...]]></title>
-        <id>https://twitter.com/NestedFi/status/1649383910378459138</id>
-        <link href="https://twitter.com/NestedFi/status/1649383910378459138"/>
-        <updated>2023-04-21T12:05:42.000Z</updated>
-        <summary type="html"><![CDATA[RT Nested 🧩
-#CandleWars is now LIVE!
-Take part in the first ever on-chain spot trading competition on @arbitrum!
-May the best trader win ⚔️ https://t.co/PayCr2lAx1]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
@@ -1113,12 +1117,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1136,7 +1140,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1155,11 +1159,11 @@ And lack of regulatory clarity + hostile enforcement against crypto in the US is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356]]></title>
+        <title type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1648306325619605521</id>
         <link href="https://twitter.com/OnChainWizard/status/1648306325619605521"/>
         <updated>2023-04-18T12:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now. https://twitter.com/shitc0in/status/1491711613182820356
+        <summary type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.
 
 Shitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵]]></summary>
         <author>
@@ -1244,11 +1248,11 @@ Find others at http://nostr.directory @NostrDirectory #nostr]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970]]></title>
+        <title type="html"><![CDATA[Avoiding Vela like the plague 🫡]]></title>
         <id>https://twitter.com/DeFi_educator/status/1646884429116198914</id>
         <link href="https://twitter.com/DeFi_educator/status/1646884429116198914"/>
         <updated>2023-04-14T14:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡 https://twitter.com/BasedgodCrypto/status/1646512316031315970
+        <summary type="html"><![CDATA[Avoiding Vela like the plague 🫡
 
 Lil b 🐧: This got closed by the exchange and they are only giving back my collateral bc that is "fair" https://t.co/T0zlCIxrnl]]></summary>
         <author>
