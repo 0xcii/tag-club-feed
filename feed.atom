@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T05:12:08.481Z</id>
+    <id>urn:2023-04-28T06:16:32.432Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T05:12:08.481Z</updated>
+    <updated>2023-04-28T06:16:32.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据TechCrunch报道，黑客一直在攻击AT&T电子邮件账户，并利用此访问权限窃取加密货币。一旦入侵成功就会重置受害者在加密货币交易所的账户密码。AT&T表示，这是由...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651815127774113793</id>
+        <link href="https://twitter.com/wublockchain12/status/1651815127774113793"/>
+        <updated>2023-04-28T05:06:30.000Z</updated>
+        <summary type="html"><![CDATA[据TechCrunch报道，黑客一直在攻击AT&T电子邮件账户，并利用此访问权限窃取加密货币。一旦入侵成功就会重置受害者在加密货币交易所的账户密码。AT&T表示，这是由于某些API出现问题造成的，并否认黑客可以访问公司内部系统，且拒绝透露受攻击影响人数。https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.blocktempo.com/huang-tien-mu-promises-not-to-let-similar-incidents-as-ftx-happen-in-taiwan-again/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651814470472048640</id>
+        <link href="https://twitter.com/wublockchain12/status/1651814470472048640"/>
+        <updated>2023-04-28T05:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.blocktempo.com/huang-tien-mu-promises-not-to-let-similar-incidents-as-ftx-happen-in-taiwan-again/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 BLOCKTEMPO，台湾金管会主委黄天牧 27 日在立法院财委会接受质询时表示，其对虚拟资产的内部价值仍有很多顾虑，将在 9 月公布银行业买卖加密货币规...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651814441619529729</id>
+        <link href="https://twitter.com/wublockchain12/status/1651814441619529729"/>
+        <updated>2023-04-28T05:03:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 BLOCKTEMPO，台湾金管会主委黄天牧 27 日在立法院财委会接受质询时表示，其对虚拟资产的内部价值仍有很多顾虑，将在 9 月公布银行业买卖加密货币规范，可能允许传统银行开设加密货币交易平台，目前没有考虑让台湾加密交易所上市，目前有 27 家交易所接受金管会指导。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 这些鲸鱼的大部分活动主要集中在 SyncSwap、iZUMi Finance、Mute 和 Velocore 等 DEX 的 LP 上，并主要以 ETH/USDC LP Pool 为主，对其他 altcoins 则缺乏兴...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651806301129965569</id>
+        <link href="https://twitter.com/wublockchain12/status/1651806301129965569"/>
+        <updated>2023-04-28T04:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 这些鲸鱼的大部分活动主要集中在 SyncSwap、iZUMi Finance、Mute 和 Velocore 等 DEX 的 LP 上，并主要以 ETH/USDC LP Pool 为主，对其他 altcoins 则缺乏兴趣。https://research.nansen.ai/article/783/what-are-early-zksync-whales-doing-on-chain]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Nansen Research，zkSync Era 上的前 25 名早期鲸鱼的桥接资产平均占其总持仓资产的 32%，这些持仓主要包括现货 ETH 和 USDC，以及与前二者差距甚...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651806257182035968</id>
+        <link href="https://twitter.com/wublockchain12/status/1651806257182035968"/>
+        <updated>2023-04-28T04:31:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Nansen Research，zkSync Era 上的前 25 名早期鲸鱼的桥接资产平均占其总持仓资产的 32%，这些持仓主要包括现货 ETH 和 USDC，以及与前二者差距甚远的 MUTE，这表明有大量的资金闲置在 zkSync Era 上。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/glassnode/status/1651642549218729984?s=61&t=emAHSaoDjk0KxPGNv8h1ww]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651784253892599808</id>
+        <link href="https://twitter.com/wublockchain12/status/1651784253892599808"/>
+        <updated>2023-04-28T03:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/glassnode/status/1651642549218729984?s=61&t=emAHSaoDjk0KxPGNv8h1ww
+
+glassnode: According to our data, the US government and the Mt. Gox trustee hold 205,514 and 137,890 #BTC, respectively.
+Monitor their balances and set alerts for coin movements in Studio.
+US government chart: http://glassno.de/41Im9qo
+Mt. Gox trustee chart: http://glassno.de/428quTD https://t.co/MhCiSiLfqx]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Glassnode 数据，美国政府持有 205,514 枚 BTC，约合 60 亿美元；Mt. Gox 受托人持有 137,890 枚BTC，约合 40.6 亿美元。用户可以在 Glassnode 两...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651784208422146048</id>
+        <link href="https://twitter.com/wublockchain12/status/1651784208422146048"/>
+        <updated>2023-04-28T03:03:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Glassnode 数据，美国政府持有 205,514 枚 BTC，约合 60 亿美元；Mt. Gox 受托人持有 137,890 枚BTC，约合 40.6 亿美元。用户可以在 Glassnode 两个数据面板直接查看。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该命令要求 Steynberg 向受骗的受害者支付 1,733,838,372 美元的赔偿金和 1,733,838,372 美元的民事罚款。共计达34.67亿美元，这是 CFTC 案件中最高的民事罚...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651784102381748227</id>
+        <link href="https://twitter.com/wublockchain12/status/1651784102381748227"/>
+        <updated>2023-04-28T03:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 该命令要求 Steynberg 向受骗的受害者支付 1,733,838,372 美元的赔偿金和 1,733,838,372 美元的民事罚款。共计达34.67亿美元，这是 CFTC 案件中最高的民事罚款，也是 CFTC 案件中涉及比特币金额最大的欺诈案。https://www.cftc.gov/PressRoom/PressReleases/8696-23]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据美国商品期货交易委员会(CFTC)声明，德克萨斯州西区地方法院法官 Lee Yeakel 对南非比特币池运营商 Mirror Trading International Proprietary Limi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1651784067866853376</id>
+        <link href="https://twitter.com/wublockchain12/status/1651784067866853376"/>
+        <updated>2023-04-28T03:03:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据美国商品期货交易委员会(CFTC)声明，德克萨斯州西区地方法院法官 Lee Yeakel 对南非比特币池运营商 Mirror Trading International Proprietary Limited （MTI）创始人兼首席执行官 Cornelius Johannes Steynberg 下达了缺席判决和永久禁令。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Ripple 发布一季度报告，2023 年第一季度的 XRP 总销售额（扣除购买量）为 3.61亿美元，而上一季度为 2.26 亿美元；XRP Ledger 链上交易量环比增长 34...]]></title>
         <id>https://twitter.com/wublockchain12/status/1651775807491284992</id>
@@ -241,27 +336,6 @@ LayerZero is now live on @zksync Era mainnet. https://t.co/dkZyKHHYjS]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，英国政府政府正在就修改 DeFi 借贷和质押的税收待遇向公众征求意见。根据拟议中的变更，DeFi 交易中使用加密资产将不再被视为引起税务处置，在非 DeFi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651589224456654848</id>
-        <link href="https://twitter.com/wublockchain12/status/1651589224456654848"/>
-        <updated>2023-04-27T14:08:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，英国政府政府正在就修改 DeFi 借贷和质押的税收待遇向公众征求意见。根据拟议中的变更，DeFi 交易中使用加密资产将不再被视为引起税务处置，在非 DeFi 交易中经济处置加密资产时会出现税务处置。意见征求持续至 6 月 22 日。
-https://www.gov.uk/government/consultations/the-taxation-of-decentralised-finance-involving-the-lending-and-staking-of-cryptoassets/the-taxation-of-decentralised-finance-defi-involving-the-lending-and-staking-of-cryptoassets--2 https://twitter.com/i/web/status/1651589224456654848 https://t.co/Ws6lwQDxjb]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/vniF7yhXxZ]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651587553450151936</id>
-        <link href="https://twitter.com/wublockchain12/status/1651587553450151936"/>
-        <updated>2023-04-27T14:02:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/vniF7yhXxZ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Stonetoss Comics: https://t.co/v4wcxNllYd]]></title>
         <id>https://twitter.com/stone_toss/status/1651587010778341377</id>
         <link href="https://twitter.com/stone_toss/status/1651587010778341377"/>
@@ -295,36 +369,6 @@ Wow https://t.co/V70rO8ru5M]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grayscale （灰度）CEO 表示，预计在第三季度末得知是否被允许将其价值为 175 亿美元的比特币信托基金（GBTC）转化为 ETF。去年，美国证券交易委员会拒绝了该资...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651575842710126601</id>
-        <link href="https://twitter.com/wublockchain12/status/1651575842710126601"/>
-        <updated>2023-04-27T13:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale （灰度）CEO 表示，预计在第三季度末得知是否被允许将其价值为 175 亿美元的比特币信托基金（GBTC）转化为 ETF。去年，美国证券交易委员会拒绝了该资产管理公司将比特币信托转换成 ETF 的请求。（CoinDesk）https://www.coindesk.com/business/2023/04/26/grayscale-ceo-expects-decision-on-attempt-to-overturn-secs-etf-rejection-by-end-of-3q/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 纽约时报表示，美联储政策制定者会欢迎逐步放缓，他们一直在努力让经济降温到足以降低通胀的程度，但不会降温到导致大规模裁员和失业的程度。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651575680931614721</id>
-        <link href="https://twitter.com/wublockchain12/status/1651575680931614721"/>
-        <updated>2023-04-27T13:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Re 纽约时报表示，美联储政策制定者会欢迎逐步放缓，他们一直在努力让经济降温到足以降低通胀的程度，但不会降温到导致大规模裁员和失业的程度。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国商务部周四表示，第一季度经通胀调整后的国内生产总值 GDP 年增长率为 1.1%，显示美国经济大幅放缓，美国第一季度核心PCE物价指数年化季率初值 4....]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651575678981246977</id>
-        <link href="https://twitter.com/wublockchain12/status/1651575678981246977"/>
-        <updated>2023-04-27T13:15:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国商务部周四表示，第一季度经通胀调整后的国内生产总值 GDP 年增长率为 1.1%，显示美国经济大幅放缓，美国第一季度核心PCE物价指数年化季率初值 4.9%，预期4.70%，前值4.40%。https://www.nytimes.com/2023/04/27/business/economy/gdp-q1-economy.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[最后24小时了， 谁来撸一下。 亏钱的用户超过一半。 买USDT/USDC 可能会冲进前 200 名。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1651571527459168258</id>
         <link href="https://twitter.com/AntCaveClub/status/1651571527459168258"/>
@@ -338,28 +382,6 @@ The race is not always to the swift, but to those who keep on running 🏃🧘
 Let's have a look at our current top 3 👇🧵 https://t.co/Q3qcueFzSK]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Filecoin 宣布于本周推出 Filecoin Web Services (FWS)，声称将构建 AWS、谷歌云和 Azure 的开源替代方案。Filecoin 介绍 FWS 技术栈包括计算、存储和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651570615105785856</id>
-        <link href="https://twitter.com/wublockchain12/status/1651570615105785856"/>
-        <updated>2023-04-27T12:54:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Filecoin 宣布于本周推出 Filecoin Web Services (FWS)，声称将构建 AWS、谷歌云和 Azure 的开源替代方案。Filecoin 介绍 FWS 技术栈包括计算、存储和网络资源等各种组件，开发人员可以使用这些组件构建去中心化应用程序。
-https://medium.com/@fw.services/announcing-fws-5e874e949fc6]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布于 4 月 28 日 20 时上线 BLUR 1-20 倍 U 本位永续合约，值得注意的是目前币安未上线 BLUR 现货。BLUR 短时拉升至 0.72 美元，1 小时涨幅达 1...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651566384546213888</id>
-        <link href="https://twitter.com/wublockchain12/status/1651566384546213888"/>
-        <updated>2023-04-27T12:38:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布于 4 月 28 日 20 时上线 BLUR 1-20 倍 U 本位永续合约，值得注意的是目前币安未上线 BLUR 现货。BLUR 短时拉升至 0.72 美元，1 小时涨幅达 14.2%。
-https://www.binance.com/en/support/announcement/binance-futures-will-launch-usd%E2%93%A2-m-blur-perpetual-contract-with-up-to-20x-leverage-00b84a2f4a9b44e184722acdbb6d2629 https://twitter.com/i/web/status/1651566384546213888]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
