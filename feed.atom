@@ -1,10 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T03:13:00.242Z</id>
+    <id>urn:2023-04-29T04:14:40.793Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-29T03:13:00.242Z</updated>
+    <updated>2023-04-29T04:14:40.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 主要是为未来应用 Verkle 树做准备）、EIP6475（为可选值引入新的简单序列化类型，以提供更佳的可读性和紧凑的序列化）、EIP1153（引入瞬态存储操作码）。另...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652146983296188417</id>
+        <link href="https://twitter.com/wublockchain12/status/1652146983296188417"/>
+        <updated>2023-04-29T03:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Re 主要是为未来应用 Verkle 树做准备）、EIP6475（为可选值引入新的简单序列化类型，以提供更佳的可读性和紧凑的序列化）、EIP1153（引入瞬态存储操作码）。另外，还有部分 EIPs 提案尚未被正式接受纳入升级以及部分被确定不考虑纳入本次升级。https://www.galaxy.com/research/insights/ethereum-all-core-developers-execution-call-160/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 160 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论在下次以太坊升级（Cancun）中，需要纳入哪些代码修改。除...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652146980993531909</id>
+        <link href="https://twitter.com/wublockchain12/status/1652146980993531909"/>
+        <updated>2023-04-29T03:05:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 160 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论在下次以太坊升级（Cancun）中，需要纳入哪些代码修改。除了此次升级的主角 EIP4844（降低 L2 手续费） 外，开发者还同意将以下 EIPs 纳入升级：EIP6780（修改 SELFDESTRUCT 操作码的功能，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该银行发言人称，该令是为了针对两年前银行贷款程序问题而进行的常规检查，但 FDIC 责令该银行董事会增强对管理的监管和指导，并采取“纠正行动”来解决任何...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652145054537109505</id>
+        <link href="https://twitter.com/wublockchain12/status/1652145054537109505"/>
+        <updated>2023-04-29T02:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Re 该银行发言人称，该令是为了针对两年前银行贷款程序问题而进行的常规检查，但 FDIC 责令该银行董事会增强对管理的监管和指导，并采取“纠正行动”来解决任何不安全的实践并防止未来违规行为。（The Block）
+https://www.theblock.co/post/228835/cross-river-bank-fdic]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密友好银行 Cross River Bank 因“不安全或不健全的银行业务”收到美国联邦存款保险公司（FDIC）的同意令，该银行与 Coinbase 和 Circle 等主要加密货币公司进...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652145052037316614</id>
+        <link href="https://twitter.com/wublockchain12/status/1652145052037316614"/>
+        <updated>2023-04-29T02:57:30.000Z</updated>
+        <summary type="html"><![CDATA[加密友好银行 Cross River Bank 因“不安全或不健全的银行业务”收到美国联邦存款保险公司（FDIC）的同意令，该银行与 Coinbase 和 Circle 等主要加密货币公司进行业务往来。FDIC 在同意令中称，该银行由于未能建立和维护内部控制、信息系统以及审慎的信用承销业务，从事了不安全或不健全的银行业务。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Jennings 表示，AB 1229 法案的适用范围仅限于那些通过投票控制自主软件的协议和区块链网络，例如 Uniswap 交易所和 Optimism 扩容方案。此次法案正在进行审...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652133328420737024</id>
+        <link href="https://twitter.com/wublockchain12/status/1652133328420737024"/>
+        <updated>2023-04-29T02:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Jennings 表示，AB 1229 法案的适用范围仅限于那些通过投票控制自主软件的协议和区块链网络，例如 Uniswap 交易所和 Optimism 扩容方案。此次法案正在进行审议，如果一切顺利，可能在一年内签署生效。
+https://thedefiant.io/makerdao-to-shut-socgen-vault/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Thedefiant 报道，加州议员 Matt Haney 提出 AB 1229 法案，旨在为 DAO 提供业务实体结构，可为参与者提供有限责任、缴纳税款以及建立法律实体等，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652133326466191360</id>
+        <link href="https://twitter.com/wublockchain12/status/1652133326466191360"/>
+        <updated>2023-04-29T02:10:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Thedefiant 报道，加州议员 Matt Haney 提出 AB 1229 法案，旨在为 DAO 提供业务实体结构，可为参与者提供有限责任、缴纳税款以及建立法律实体等，为加密货币提供更多的合规性和法律明确性。该法案由 a16z 赞助，并且其总法律顾问 Miles Jennings 是该法案架构的主要研究人员。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 WSJ，JPMorgan、PNC 等正在竞购 First Republic Bank。这笔交易将在政府接管后进行，最早可能在本周末被没收和出售。https://www.wsj.com/articles...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652126696496332805</id>
+        <link href="https://twitter.com/wublockchain12/status/1652126696496332805"/>
+        <updated>2023-04-29T01:44:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 WSJ，JPMorgan、PNC 等正在竞购 First Republic Bank。这笔交易将在政府接管后进行，最早可能在本周末被没收和出售。https://www.wsj.com/articles/jpmorgan-pnc-bid-to-buy-first-republic-as-part-of-fdic-takeover-aeb936a0]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说周精选：Coinbase诉SEC、币安取消收购Voyager、CertiK遭质疑与新闻Top10（0421-0428） https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652124315180232704</id>
+        <link href="https://twitter.com/wublockchain12/status/1652124315180232704"/>
+        <updated>2023-04-29T01:35:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说周精选：Coinbase诉SEC、币安取消收购Voyager、CertiK遭质疑与新闻Top10（0421-0428）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=13828 https://twitter.com/i/web/status/1652124315180232704]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 阅读全文：https://www.odaily.news/post/5186791]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652123445071859712</id>
+        <link href="https://twitter.com/wublockchain12/status/1652123445071859712"/>
+        <updated>2023-04-29T01:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Re 阅读全文：https://www.odaily.news/post/5186791]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曼谷Web3见闻录（作者：星球日报 Loopy Lu）安全环境或是华人数字游民的最大不利因素，泰国签证政策亦在迅速转变，颇多侨民被“误伤”；许多创业者难以获得资本...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652123443163467776</id>
+        <link href="https://twitter.com/wublockchain12/status/1652123443163467776"/>
+        <updated>2023-04-29T01:31:38.000Z</updated>
+        <summary type="html"><![CDATA[曼谷Web3见闻录（作者：星球日报 Loopy Lu）安全环境或是华人数字游民的最大不利因素，泰国签证政策亦在迅速转变，颇多侨民被“误伤”；许多创业者难以获得资本支持，只能寄希望于手握资本的本地大型银行；数字游民开发者及其他加密工作者较多；加密监管更侧重于本地市场。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，Foerster 还敦促人们就3月份提出的将 NFT 与其他收藏品一样征税的提议进行评论。评论期将于6月9日结束。（CoinDesk） https://www.coindesk.com/busine...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652120959414063104</id>
+        <link href="https://twitter.com/wublockchain12/status/1652120959414063104"/>
+        <updated>2023-04-29T01:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，Foerster 还敦促人们就3月份提出的将 NFT 与其他收藏品一样征税的提议进行评论。评论期将于6月9日结束。（CoinDesk）
+https://www.coindesk.com/business/2023/04/28/crypto-tax-plan-could-come-in-12-ish-months-says-irs-official/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前，IRS 认为加密货币是可转换的虚拟资产，可以用于商品和服务的支付、用户之间的数字交易以及兑换其他货币。但是，出于联邦税收目的，加密货币被视为财产...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652120957212053506</id>
+        <link href="https://twitter.com/wublockchain12/status/1652120957212053506"/>
+        <updated>2023-04-29T01:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前，IRS 认为加密货币是可转换的虚拟资产，可以用于商品和服务的支付、用户之间的数字交易以及兑换其他货币。但是，出于联邦税收目的，加密货币被视为财产，因此用户需要在纳税申报表上报告其数字资产活动。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国税局（IRS）数字资产项目主管 Julie Foerster 于 Consensus 2023 会议上表示，希望在12个月左右内发出加密货币税收指南。Foerster 强调了与社区合作的必要...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652120955106504704</id>
+        <link href="https://twitter.com/wublockchain12/status/1652120955106504704"/>
+        <updated>2023-04-29T01:21:45.000Z</updated>
+        <summary type="html"><![CDATA[美国国税局（IRS）数字资产项目主管 Julie Foerster 于 Consensus 2023 会议上表示，希望在12个月左右内发出加密货币税收指南。Foerster 强调了与社区合作的必要性，并表示 IRS 计划改变对加密货币的看法。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOLY SHIT the fourth bank in the past month went down. There are ONLY 4,000 LEFT. The economy is totally fucked 🪦 ☠️]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1652120307858132996</id>
@@ -88,16 +222,6 @@ https://www.theblock.co/post/228809/mastercard-crypto-credential-standards]]></s
         <updated>2023-04-29T00:16:18.000Z</updated>
         <summary type="html"><![CDATA[Re 值得注意的是，Coinbase 还对 Coinbase 钱包的批评提出了异议，称其只是为用户访问公共链制作的用户界面。
 https://www.axios.com/2023/04/28/coinbase-responds-sec-wells-notice]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Axios 报道，加密货币交易所 Coinbase 发表了对 SEC 三月份的 Wells 通知的详细回应。Coinbase 不会放弃其质押服务，该服务允许用户锁定加密资产以便参与区块...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652104481692323842</id>
-        <link href="https://twitter.com/wublockchain12/status/1652104481692323842"/>
-        <updated>2023-04-29T00:16:17.000Z</updated>
-        <summary type="html"><![CDATA[据 Axios 报道，加密货币交易所 Coinbase 发表了对 SEC 三月份的 Wells 通知的详细回应。Coinbase 不会放弃其质押服务，该服务允许用户锁定加密资产以便参与区块链的安全机制（权益证明）。SEC 认为这是一份投资合同，并将其归类为证券，而 Coinbase 则提出异议。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -188,16 +312,6 @@ https://www.loopgenius.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PayPal 宣布旗下 Venmo 将在五月支持链上转账，允许用户在应用程序相互转移加密货币，且将数字资产转移到外部钱包和交易所。Venmo 上接受的四种加密货币是比特币...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651989337586962432</id>
-        <link href="https://twitter.com/wublockchain12/status/1651989337586962432"/>
-        <updated>2023-04-28T16:38:45.000Z</updated>
-        <summary type="html"><![CDATA[PayPal 宣布旗下 Venmo 将在五月支持链上转账，允许用户在应用程序相互转移加密货币，且将数字资产转移到外部钱包和交易所。Venmo 上接受的四种加密货币是比特币、以太坊、莱特币和比特币现金。Venmo 有超 6000 万美国用户，被 PayPal 于 2013 年收购。（Blockworks）https://blockworks.co/news/venmo-crypto-transfers-coming]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @knlae_ What’s this]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1651982060368584705</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1651982060368584705"/>
@@ -208,114 +322,11 @@ https://www.loopgenius.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，第一共和银行盘中跌幅扩大至 43%，再次停牌。据路透社，美国官员正在协调紧急谈判以拯救这一银行，政府谈判现在的重点是准备将 First Republic 纳入 F...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651979158262775808</id>
-        <link href="https://twitter.com/wublockchain12/status/1651979158262775808"/>
-        <updated>2023-04-28T15:58:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，第一共和银行盘中跌幅扩大至 43%，再次停牌。据路透社，美国官员正在协调紧急谈判以拯救这一银行，政府谈判现在的重点是准备将 First Republic 纳入 FDIC 接管。
-https://www.reuters.com/business/finance/us-officials-lead-urgent-rescue-talks-first-republic-sources-2023-04-28/ https://twitter.com/i/web/status/1651979158262775808]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 另据公告，币安将于4月30日20:00（东八区时间）上线 EDU 1-20倍 U本位永续合约。https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E5...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651973891823390720</id>
-        <link href="https://twitter.com/wublockchain12/status/1651973891823390720"/>
-        <updated>2023-04-28T15:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 另据公告，币安将于4月30日20:00（东八区时间）上线 EDU 1-20倍 U本位永续合约。https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E5%B0%86%E4%B8%8A%E7%BA%BFedu-1-20%E5%80%8D-u%E6%9C%AC%E4%BD%8D%E6%B0%B8%E7%BB%AD%E5%90%88%E7%BA%A6-e41c706aa7a7445f9848f1305f2b3e7f]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/alex_pertsev/status/1651961639388815363]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651973780120686592</id>
-        <link href="https://twitter.com/wublockchain12/status/1651973780120686592"/>
-        <updated>2023-04-28T15:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/alex_pertsev/status/1651961639388815363
-
-Alexey Pertsev: Sorry I was afk for a while, what did I miss? 👀]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在入狱 9 个月后，Tornado Cash 开发者 Alexey Pertsev 于 4 月 26 日星期三获得保释，等待他以协助基于数字资产的洗钱罪受审。28 日他发布了出狱后的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651973707433381888</id>
-        <link href="https://twitter.com/wublockchain12/status/1651973707433381888"/>
-        <updated>2023-04-28T15:36:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在入狱 9 个月后，Tornado Cash 开发者 Alexey Pertsev 于 4 月 26 日星期三获得保释，等待他以协助基于数字资产的洗钱罪受审。28 日他发布了出狱后的首条推文。Pertsev 于去年 8 月在荷兰阿姆斯特丹被捕。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://blockworks.co/news/hong-kong-crypto-fund-managers]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651958998781034498</id>
-        <link href="https://twitter.com/wublockchain12/status/1651958998781034498"/>
-        <updated>2023-04-28T14:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Re https://blockworks.co/news/hong-kong-crypto-fund-managers]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dechert 律师事务所 Michael Wong 对 Blockworks 表示，自 SFC 于 2019 年发布指引以来，香港只有 10 家基金经理升级了管理加密货币的牌照。现在向证监会申请牌...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651958884570112002</id>
-        <link href="https://twitter.com/wublockchain12/status/1651958884570112002"/>
-        <updated>2023-04-28T14:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Dechert 律师事务所 Michael Wong 对 Blockworks 表示，自 SFC 于 2019 年发布指引以来，香港只有 10 家基金经理升级了管理加密货币的牌照。现在向证监会申请牌照比过去顺利很多，时间也更短。Wong 指出，证监会现在允许管理人员投资更大范围的数字资产，并建立更复杂的专注于 Web3 的产品。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据链新闻，BLOCKTEMPO 报道台湾 9 月公布银行业买卖加密货币规范为“假新闻”；九月将发布的指导原则是与业者自律规则有关，与银行业无关。前述媒...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651957530728501248</id>
-        <link href="https://twitter.com/wublockchain12/status/1651957530728501248"/>
-        <updated>2023-04-28T14:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据链新闻，BLOCKTEMPO 报道台湾 9 月公布银行业买卖加密货币规范为“假新闻”；九月将发布的指导原则是与业者自律规则有关，与银行业无关。前述媒体将两件不相关的事情拼凑导致误解。https://abmedia.io/taiwan-crypto-media-make-up-taiwan-sec-news]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genesis 破产各方同意在任命调解员之前有 30 天的调解期，该协议遵循 Genesis Global 在本周早些时候向美国破产法院提出的要求——任命一名调解员协助制定 Genes...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651954829366009856</id>
-        <link href="https://twitter.com/wublockchain12/status/1651954829366009856"/>
-        <updated>2023-04-28T14:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Genesis 破产各方同意在任命调解员之前有 30 天的调解期，该协议遵循 Genesis Global 在本周早些时候向美国破产法院提出的要求——任命一名调解员协助制定 Genesis 所有者 DCG 对债务人重组计划的贡献条款和条件。此前 DCG 表示部分 Genesis 债权人拒绝了 2… https://twitter.com/i/web/status/1651954829366009856]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/JsYId4fV91]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651952150023667713</id>
-        <link href="https://twitter.com/wublockchain12/status/1651952150023667713"/>
-        <updated>2023-04-28T14:10:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/JsYId4fV91]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万事达卡正在寻求与更多加密公司合作以扩大其加密货币支付卡计划，已与 Binance、Nexo 和 Gemini 等交易所合作，在一些国家提供与加密货币相关的支付卡。此外，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1651951880950669312</id>
-        <link href="https://twitter.com/wublockchain12/status/1651951880950669312"/>
-        <updated>2023-04-28T14:09:54.000Z</updated>
-        <summary type="html"><![CDATA[万事达卡正在寻求与更多加密公司合作以扩大其加密货币支付卡计划，已与 Binance、Nexo 和 Gemini 等交易所合作，在一些国家提供与加密货币相关的支付卡。此外，发言人拒绝具体评论币安被 CFTC 起诉一事，但表示任何卡计划都“经过全面尽职调查”并受到持续监控。（路透社）https://www.reuters.com/technology/mastercard-seeks-expand-crypto-card-tie-ups-2023-04-28/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可怕]]></title>
+        <title type="html"><![CDATA[可怕 https://twitter.com/showedmeister/status/1651934440162234370]]></title>
         <id>https://twitter.com/8848Community/status/1651941471845761027</id>
         <link href="https://twitter.com/8848Community/status/1651941471845761027"/>
         <updated>2023-04-28T13:28:33.000Z</updated>
-        <summary type="html"><![CDATA[可怕
+        <summary type="html"><![CDATA[可怕 https://twitter.com/showedmeister/status/1651934440162234370
 
 韭里韭气（🧡❤️）: 钱包被洗了，损失20亿 $bob（最高价值8万u，黑客卖出6万u）usdt两千多u，黑客地址有币安充值记录，我联系了警方，警方出于这类案子没有经验，要我咨询一下办案流程，结果币安客服直接说只要资产没有进入币安就不会配合！币安表示坐视不管。@heyibinance  @cz_binance @binance]]></summary>
         <author>
@@ -850,13 +861,13 @@ Absolute insanity. https://t.co/ffNQ4sTGls]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个]]></title>
+        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694]]></title>
         <id>https://twitter.com/8848Community/status/1651243512464015366</id>
         <link href="https://twitter.com/8848Community/status/1651243512464015366"/>
         <updated>2023-04-26T15:15:06.000Z</updated>
         <summary type="html"><![CDATA[真牛逼
 一个人一个半月做了114个跑路项目
-平均一天做2.5个
+平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694
 
 ZachXBT: Over the past 1.5 months one person has created 114 meme coin scams. 
 Each time stolen funds from the scam are sent to the exact same deposit address. 
@@ -1010,11 +1021,11 @@ Things are about to get exciting 🔥 https://t.co/CV13SxUN5n]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starknet 2024]]></title>
+        <title type="html"><![CDATA[Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072]]></title>
         <id>https://twitter.com/8848Community/status/1650763577165516801</id>
         <link href="https://twitter.com/8848Community/status/1650763577165516801"/>
         <updated>2023-04-25T07:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Starknet 2024
+        <summary type="html"><![CDATA[Starknet 2024 https://twitter.com/StarkNet_ZH/status/1650696137408643072
 
 Starknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNetEco 👨🏽‍🚀
 #Starknet 未来几个月的目标：性能和用户体验 🏎️
@@ -1026,11 +1037,11 @@ Starknet | 中文 (👩🏽‍🚀, 👨🏽‍🚀): 👩🏽‍🚀 #StarkNe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manta 大使招募]]></title>
+        <title type="html"><![CDATA[Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440]]></title>
         <id>https://twitter.com/8848Community/status/1650751614230364166</id>
         <link href="https://twitter.com/8848Community/status/1650751614230364166"/>
         <updated>2023-04-25T06:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Manta 大使招募
+        <summary type="html"><![CDATA[Manta 大使招募 https://twitter.com/manta_china/status/1650739659469885440
 
 Manta Network 中文社区（🔱,🔱）: 1/ Manta 大使招募细则
 很高兴重新开放 Manta 大使计划。与大家一起创建繁荣的开发者和支持者社区。Manta 大使可帮助更多人了解链上隐私、零知识证明（ZK）和 Manta Network。
