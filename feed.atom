@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T12:22:22.669Z</id>
+    <id>urn:2023-04-30T13:13:30.552Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-30T12:22:22.669Z</updated>
+    <updated>2023-04-30T13:13:30.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/CertiKAlert/status/1652625412948729861]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652640816559722502</id>
+        <link href="https://twitter.com/wublockchain12/status/1652640816559722502"/>
+        <updated>2023-04-30T11:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/CertiKAlert/status/1652625412948729861
+
+CertiK Alert: #CertiKSkynetAlert 🚨
+Combining all the incidents in April we’ve confirmed ~$103.6M lost to exploits, hacks, and scams.
+Exit scams were ~$9.3M.
+Flash loans were ~$19.8M.
+See the details below 👇 https://t.co/jflvMPiJGQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CertiK Alert 发推表示，四月攻击事件总计造成了约 1.036 亿美元损失，其中闪电贷攻击造成的损失约 1980 万美元，Rug Pull 造成的损失约 930 万美元。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652640611181432833</id>
+        <link href="https://twitter.com/wublockchain12/status/1652640611181432833"/>
+        <updated>2023-04-30T11:46:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CertiK Alert 发推表示，四月攻击事件总计造成了约 1.036 亿美元损失，其中闪电贷攻击造成的损失约 1980 万美元，Rug Pull 造成的损失约 930 万美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前，该公司于 4 月 25 日完成了与 M7 Holdings, LLC 的交易。（Decrypt） https://decrypt.co/138337/heres-how-much-money-ftx-really-has-left]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652637912092262400</id>
+        <link href="https://twitter.com/wublockchain12/status/1652637912092262400"/>
+        <updated>2023-04-30T11:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前，该公司于 4 月 25 日完成了与 M7 Holdings, LLC 的交易。（Decrypt）
+https://decrypt.co/138337/heres-how-much-money-ftx-really-has-left]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 发布了一系列中期财务更新中的第四份报告，显示 FTX 截至3月底总共花费了8600万美元。报告显示，FTX 的绝大部分支出（6700万美元）都花在了律师费上。该公司...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652637909789597698</id>
+        <link href="https://twitter.com/wublockchain12/status/1652637909789597698"/>
+        <updated>2023-04-30T11:35:56.000Z</updated>
+        <summary type="html"><![CDATA[FTX 发布了一系列中期财务更新中的第四份报告，显示 FTX 截至3月底总共花费了8600万美元。报告显示，FTX 的绝大部分支出（6700万美元）都花在了律师费上。该公司表示，它拥有20亿美元现金，并通过出售资产获得了4800万美元的收入。不包括从出售 LedgerX 中获得的5000万美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @A_yingjiang 这么多不送点给我？]]></title>
         <id>https://twitter.com/8848Community/status/1652610140301033474</id>
@@ -205,7 +252,7 @@ This enables users who would not sign up for a monthly subscription to pay a hig
         <link href="https://twitter.com/wublockchain12/status/1652491393422749696"/>
         <updated>2023-04-30T01:53:44.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，遭到攻击的多链借贷协议 0VIX 发推表示，若攻击者在北京时间 5 月 1 日下午 16:00 前仍未返还盗取的资金，将会把目前得到的线索提交给执法机构，对其展开追查，直到收回全部被盗资金或黑客被起诉为止。
-https://twitter.com/0vixProtocol/status/1652340020378779648 https://twitter.com/wublockchain12/status/1651919847071305728
+https://twitter.com/0vixProtocol/status/1652340020378779648
 
 吴说区块链: 吴说获悉，据链上数据，多链借贷协议 0VIX 在 Polygon POS 上遭到黑客攻击，共损失约 200 万美元，包括 145 万 USDC、58.4k USDT 和 9.5k GHST。黑客（0x70…A970）已将资金桥接至 Ethereum，并转换成 1,070 枚 ETH。]]></summary>
         <author>
@@ -283,27 +330,6 @@ https://twitter.com/0vixProtocol/status/1652340020378779648 https://twitter.com/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 为了弥补损失，Morgenthau 从另外两家空白支票公司 Strategic Metals Acquisition Corp. I 和 Strategic Metals Acquisition Corp. II 筹集了约 470 万美元再...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652483251079090177</id>
-        <link href="https://twitter.com/wublockchain12/status/1652483251079090177"/>
-        <updated>2023-04-30T01:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 为了弥补损失，Morgenthau 从另外两家空白支票公司 Strategic Metals Acquisition Corp. I 和 Strategic Metals Acquisition Corp. II 筹集了约 470 万美元再次交易加密货币。Morgenthau 在 1 月份承认了一项电汇欺诈罪。
-https://www.bloomberg.com/news/articles/2023-04-28/ex-spac-cfo-gets-3-years-in-scheme-to-trade-meme-stocks-crypto?utm_source=twitter&utm_medium=social&utm_content=crypto&utm_campaign=socialflow-organic&leadSource=uverify%20wall]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，前 SPAC 首席财务官 Cooper Morgenthau 因一项计划挪用超过 500 万美元用于加密资产和 meme 股票交易而被判处三年徒刑。据检察官称，Morgenthau 将超...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652483248646410240</id>
-        <link href="https://twitter.com/wublockchain12/status/1652483248646410240"/>
-        <updated>2023-04-30T01:21:22.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，前 SPAC 首席财务官 Cooper Morgenthau 因一项计划挪用超过 500 万美元用于加密资产和 meme 股票交易而被判处三年徒刑。据检察官称，Morgenthau 将超过 120 万美元的 African Gold 资金汇入了其个人账户，损失了几乎所有用于 meme 股票交易的资金。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ThisIsNuse Not what I was saying…]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1652479906746384385</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1652479906746384385"/>
@@ -311,26 +337,6 @@ https://www.bloomberg.com/news/articles/2023-04-28/ex-spac-cfo-gets-3-years-in-s
         <summary type="html"><![CDATA[Re @ThisIsNuse Not what I was saying…]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://studio.glassnode.com/metrics?a=BTC&m=transactions.Count&mAvg=7&s=1497163729&u=1682726400&zoom= & https://dune.com/dgtl_assets/bitcoin-ordin...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652467874890661888</id>
-        <link href="https://twitter.com/wublockchain12/status/1652467874890661888"/>
-        <updated>2023-04-30T00:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Re https://studio.glassnode.com/metrics?a=BTC&m=transactions.Count&mAvg=7&s=1497163729&u=1682726400&zoom= & https://dune.com/dgtl_assets/bitcoin-ordinals-analysis https://t.co/vplmmcFMTv]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 glassnode 数据，4 月 29 日 Bitcoin 链上交易笔数（7d Moving Average）达 426,337.14 笔，创下历史新高，这可能与由 Inscriptions 催生出的需求...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652467873091325952</id>
-        <link href="https://twitter.com/wublockchain12/status/1652467873091325952"/>
-        <updated>2023-04-30T00:20:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 glassnode 数据，4 月 29 日 Bitcoin 链上交易笔数（7d Moving Average）达 426,337.14 笔，创下历史新高，这可能与由 Inscriptions 催生出的需求有关。@bcrypt5 数据面板显示，4 月 29 日 Bitcoin Inscriptions 单日铸造数首度超过 2 万，同创下新高。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
