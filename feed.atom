@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T14:10:25.818Z</id>
+    <id>urn:2023-04-30T15:11:43.178Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-30T14:10:25.818Z</updated>
+    <updated>2023-04-30T15:11:43.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/2JKFvVjNCy]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652674714266120193</id>
+        <link href="https://twitter.com/wublockchain12/status/1652674714266120193"/>
+        <updated>2023-04-30T14:02:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/2JKFvVjNCy]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 以及 Bergquist 和 Up Global 对 UpToken 的需求和发行中筹集的金额做了虚假和误导性陈述。Bergquist 被禁止在未来三年内担任上市公司的董事。 https://www.s...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652669997297324032</id>
+        <link href="https://twitter.com/wublockchain12/status/1652669997297324032"/>
+        <updated>2023-04-30T13:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 以及 Bergquist 和 Up Global 对 UpToken 的需求和发行中筹集的金额做了虚假和误导性陈述。Bergquist 被禁止在未来三年内担任上市公司的董事。
+https://www.sec.gov/enforce/33-11179-s]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 SEC 官网显示，SEC 对加密 ATM 公司 Coinme、加密项目 Up Global 以及这两家公司的首席执行官 Neil Bergquist 提出指控，并罚款近400万美元。SEC ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652669995086905344</id>
+        <link href="https://twitter.com/wublockchain12/status/1652669995086905344"/>
+        <updated>2023-04-30T13:43:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 SEC 官网显示，SEC 对加密 ATM 公司 Coinme、加密项目 Up Global 以及这两家公司的首席执行官 Neil Bergquist 提出指控，并罚款近400万美元。SEC 指控他们进行未经注册的证券发售和销售以名为“UpToken”的加密资产，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[选币中～ 请为小8分享一个你觉得有潜力爆发的币吧！标注（长期or短期🥰谢谢大家～ Salute #BTC https://t.co/30j2nPLXl7]]></title>
         <id>https://twitter.com/8848Community/status/1652652729758785537</id>
@@ -260,19 +291,6 @@ This enables users who would not sign up for a monthly subscription to pay a hig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，遭到攻击的多链借贷协议 0VIX 发推表示，若攻击者在北京时间 5 月 1 日下午 16:00 前仍未返还盗取的资金，将会把目前得到的线索提交给执法机构，对其...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652491393422749696</id>
-        <link href="https://twitter.com/wublockchain12/status/1652491393422749696"/>
-        <updated>2023-04-30T01:53:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，遭到攻击的多链借贷协议 0VIX 发推表示，若攻击者在北京时间 5 月 1 日下午 16:00 前仍未返还盗取的资金，将会把目前得到的线索提交给执法机构，对其展开追查，直到收回全部被盗资金或黑客被起诉为止。
-https://twitter.com/0vixProtocol/status/1652340020378779648
-
-吴说区块链: 吴说获悉，据链上数据，多链借贷协议 0VIX 在 Polygon POS 上遭到黑客攻击，共损失约 200 万美元，包括 145 万 USDC、58.4k USDT 和 9.5k GHST。黑客（0x70…A970）已将资金桥接至 Ethereum，并转换成 1,070 枚 ETH。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @NorthRockLP Damn dude that’s shits dangerous!]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1652488987406225408</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1652488987406225408"/>
@@ -290,26 +308,6 @@ https://twitter.com/0vixProtocol/status/1652340020378779648
         <summary type="html"><![CDATA[Re @ByzGeneral @Mewgsy @HD_crypto_ We vibing 🤝 https://t.co/q8XGCZ73Tz]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Vitalik 在 2021 年解释为什么 "分片 "是解决区块链三难困境的好方法。阅读全文：https://mp.weixin.qq.com/s/_1Sc_C34q1H11ukUOM2Q7g]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652486629590982656</id>
-        <link href="https://twitter.com/wublockchain12/status/1652486629590982656"/>
-        <updated>2023-04-30T01:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Re Vitalik 在 2021 年解释为什么 "分片 "是解决区块链三难困境的好方法。阅读全文：https://mp.weixin.qq.com/s/_1Sc_C34q1H11ukUOM2Q7g]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周日荐读 | 经典回顾 区块链的三难困境与探索（来源 Kraken）区块链三难困境最初是由 Vitalik Buterin 提出“如果发生网络故障，你不可能同时拥有一致性和可用性...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652486627368001537</id>
-        <link href="https://twitter.com/wublockchain12/status/1652486627368001537"/>
-        <updated>2023-04-30T01:34:48.000Z</updated>
-        <summary type="html"><![CDATA[周日荐读 | 经典回顾 区块链的三难困境与探索（来源 Kraken）区块链三难困境最初是由 Vitalik Buterin 提出“如果发生网络故障，你不可能同时拥有一致性和可用性”，这个类似的理论是区块链三难困境的灵感来源，也是无法获得所有三者（可扩展性、去中心化和安全性）的证据。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
