@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T07:12:34.273Z</id>
+    <id>urn:2023-05-01T08:16:10.422Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T07:12:34.273Z</updated>
+    <updated>2023-05-01T08:16:10.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据glassnode，比特币网络每日交易量接近历史新高，主要驱动因素是铭文和货币转移。从比特币内存池看，FTX崩盘期间费用压力峰值突出，2023年持续的费用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652914224778330112</id>
+        <link href="https://twitter.com/wublockchain12/status/1652914224778330112"/>
+        <updated>2023-05-01T05:53:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据glassnode，比特币网络每日交易量接近历史新高，主要驱动因素是铭文和货币转移。从比特币内存池看，FTX崩盘期间费用压力峰值突出，2023年持续的费用压力也是如此，三波高峰与三波铭文相一致。从铭文类型看，偏好出现转变，一直占主导地位的图像铭文最近已被文本铭文超越，铭文铸造总量达23… https://twitter.com/i/web/status/1652914224778330112]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据@BroLeonAus，因为之前的黑客攻击偷到90w个BNB一直拿不走放在协议里提供给大家借贷，而在Venus改进借贷利率模型后，现在借BNB在极端情况下利率奇高。池子里...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1652908622299664386</id>
+        <link href="https://twitter.com/wublockchain12/status/1652908622299664386"/>
+        <updated>2023-05-01T05:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Re 据@BroLeonAus，因为之前的黑客攻击偷到90w个BNB一直拿不走放在协议里提供给大家借贷，而在Venus改进借贷利率模型后，现在借BNB在极端情况下利率奇高。池子里BNB每次IEO时候产生的利差都归Venus，以以上数据为例，Venus今日收益预计为81.2万U。https://twitter.com/broleonaus/status/1652867032369762310?s=46
+
+土澳大狮兄BroLeon | 98KDAO | @38555.lens(🌸, 🌿): 另外一个悄咪咪的大赢家其实是 @VenusProtocol  。
+因为之前的黑客攻击偷到90w个BNB一直拿不走放在协议里提供给大家借贷，相当于免费打工了。而在Venus改进借贷利率模型后，现在借BNB在极端情况下利率能高到离谱（比如今天的182%）。… https://twitter.com/i/web/status/1652867032369762310 https://t.co/X9VT96hUt8]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Coinbase高管Conor声称发现了一个针对GPT的越狱工具，称之为JAMES，使其能够计算复杂情景下加密货币价格的概率。根据ChatGPT，比特币在2035年之前有15...]]></title>
         <id>https://twitter.com/wublockchain12/status/1652902219895934976</id>
@@ -338,16 +361,6 @@ Try 1% price impact and multiple TXs 🤝 https://t.co/pBoP6P6axk]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，在 OKX KuCoin Bybit 启动 Sui 公售后，5月1日币安宣布 Sui 成为 Launchpool 上的第 33 个项目，总量为 4000 万个，由质押 BNB 与 TUSD 挖矿获得，但...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652707575002173441</id>
-        <link href="https://twitter.com/wublockchain12/status/1652707575002173441"/>
-        <updated>2023-04-30T16:12:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在 OKX KuCoin Bybit 启动 Sui 公售后，5月1日币安宣布 Sui 成为 Launchpool 上的第 33 个项目，总量为 4000 万个，由质押 BNB 与 TUSD 挖矿获得，但总量远低于上述三个交易所的销售量。币安表示，将后续开通SUI/BTC、SUI/USDT、SUI/TUSD、SUI/BNB交易对。https://www.binance.com/en/support/announcement/introducing-sui-sui-on-binance-launchpool-farm-sui-by-staking-bnb-and-tusd-f76980d5d5e54d80b1348fd446e8f5d3]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I just contributed to the 🕯️ KZG Ceremony 🕯️ using 0x21e…11f8 to help scale Ethereum ↓ Add your own randomness ↓ http://ceremony.ethereum.o...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1652689095012012038</id>
         <link href="https://twitter.com/AntCaveClub/status/1652689095012012038"/>
@@ -356,27 +369,6 @@ Try 1% price impact and multiple TXs 🤝 https://t.co/pBoP6P6axk]]></summary>
  ↓ Add your own randomness ↓ http://ceremony.ethereum.org]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/2JKFvVjNCy]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652674714266120193</id>
-        <link href="https://twitter.com/wublockchain12/status/1652674714266120193"/>
-        <updated>2023-04-30T14:02:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/2JKFvVjNCy]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 以及 Bergquist 和 Up Global 对 UpToken 的需求和发行中筹集的金额做了虚假和误导性陈述。Bergquist 被禁止在未来三年内担任上市公司的董事。 https://www.s...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1652669997297324032</id>
-        <link href="https://twitter.com/wublockchain12/status/1652669997297324032"/>
-        <updated>2023-04-30T13:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Re 以及 Bergquist 和 Up Global 对 UpToken 的需求和发行中筹集的金额做了虚假和误导性陈述。Bergquist 被禁止在未来三年内担任上市公司的董事。
-https://www.sec.gov/enforce/33-11179-s]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -700,11 +692,11 @@ https://www.loopgenius.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[可怕 https://twitter.com/showedmeister/status/1651934440162234370]]></title>
+        <title type="html"><![CDATA[可怕]]></title>
         <id>https://twitter.com/8848Community/status/1651941471845761027</id>
         <link href="https://twitter.com/8848Community/status/1651941471845761027"/>
         <updated>2023-04-28T13:28:33.000Z</updated>
-        <summary type="html"><![CDATA[可怕 https://twitter.com/showedmeister/status/1651934440162234370
+        <summary type="html"><![CDATA[可怕
 
 韭里韭气（🧡❤️）: 钱包被洗了，损失20亿 $bob（最高价值8万u，黑客卖出6万u）usdt两千多u，黑客地址有币安充值记录，我联系了警方，警方出于这类案子没有经验，要我咨询一下办案流程，结果币安客服直接说只要资产没有进入币安就不会配合！币安表示坐视不管。@heyibinance  @cz_binance @binance]]></summary>
         <author>
@@ -987,13 +979,13 @@ Absolute insanity. https://t.co/ffNQ4sTGls]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694]]></title>
+        <title type="html"><![CDATA[真牛逼 一个人一个半月做了114个跑路项目 平均一天做2.5个]]></title>
         <id>https://twitter.com/8848Community/status/1651243512464015366</id>
         <link href="https://twitter.com/8848Community/status/1651243512464015366"/>
         <updated>2023-04-26T15:15:06.000Z</updated>
         <summary type="html"><![CDATA[真牛逼
 一个人一个半月做了114个跑路项目
-平均一天做2.5个 https://twitter.com/zachxbt/status/1651238822963826694
+平均一天做2.5个
 
 ZachXBT: Over the past 1.5 months one person has created 114 meme coin scams. 
 Each time stolen funds from the scam are sent to the exact same deposit address. 
