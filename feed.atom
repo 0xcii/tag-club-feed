@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T08:15:42.425Z</id>
+    <id>urn:2023-05-02T09:12:26.264Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T08:15:42.425Z</updated>
+    <updated>2023-05-02T09:12:26.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 宣布于 5 月 3 日 20：10 上线 SUI /USDT 现货交易，开盘方式采用集合竞价（19：50 开始）。此前 Sui 宣布主网将于 5 月 3 日 20 时启动。 https:...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1653309676644356096</id>
+        <link href="https://twitter.com/wublockchain12/status/1653309676644356096"/>
+        <updated>2023-05-02T08:05:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 宣布于 5 月 3 日 20：10 上线 SUI /USDT 现货交易，开盘方式采用集合竞价（19：50 开始）。此前 Sui 宣布主网将于 5 月 3 日 20 时启动。
+https://www.okx.com/cn/help-center/okx-will-list-sui-sui-for-spot-trading]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明天Sui 就上主网了 拿到币后没卖的话有什么生态项目值得冲的么 都来推荐下啦]]></title>
         <id>https://twitter.com/8848Community/status/1653290867401326592</id>
@@ -363,16 +374,6 @@ Company mentions of "job cuts" now > "labor shortage"
 Chart by @alexandraandnyc https://t.co/enK79YuVEt]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Aave 发起将 Aave V3 拓展到 Metis 上的投票，该提案允许 Aave 治理通过完成所有初始设置并将 WETH、USDC、USDT、DAI 和 METIS 列入风险服务提供商（G...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1653059313257283585</id>
-        <link href="https://twitter.com/wublockchain12/status/1653059313257283585"/>
-        <updated>2023-05-01T15:30:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Aave 发起将 Aave V3 拓展到 Metis 上的投票，该提案允许 Aave 治理通过完成所有初始设置并将 WETH、USDC、USDT、DAI 和 METIS 列入风险服务提供商（Gauntlet 和 Chaos Labs）在治理论坛上建议的名单，激活Aave V3 Metis池（3.0.2）。https://app.aave.com/governance/proposal/?proposalId=212 https://twitter.com/i/web/status/1653059313257283585]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
