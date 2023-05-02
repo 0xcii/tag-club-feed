@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T12:26:02.189Z</id>
+    <id>urn:2023-05-02T13:16:43.475Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T12:26:02.189Z</updated>
+    <updated>2023-05-02T13:16:43.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @MoonOverlord Asia is bidding]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1653379602641743872</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1653379602641743872"/>
+        <updated>2023-05-02T12:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @MoonOverlord Asia is bidding]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When faced with doubt and public scrutiny while building a business, it's important to find inspiration in unlikely places. For me, it is oysters. The...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1653357630172086273</id>
@@ -574,16 +584,6 @@ GMX 🫐: In the last weeks, GMX's development contributors have:
 - Added the option to claim rewards for affiliates. 
 - Added the subgraph for V2 referral stats, and merged it with the V1 data to display correctly in the interface.
 #GMXV2 https://t.co/aXosSBEpam]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @carlquintanilla Cc @WalterDeemer]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1652775288923717632</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1652775288923717632"/>
-        <updated>2023-04-30T20:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @carlquintanilla Cc @WalterDeemer]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
