@@ -824,6 +824,136 @@
       "siteUrl": "https://twitter.com/OnChainWizard",
       "articles": [
         {
+          "id": "https://twitter.com/OnChainWizard/status/1653703600000909317",
+          "author": "Onchain Wizard",
+          "description": "Re @CryptoNikyous My b ser!",
+          "link": "https://twitter.com/OnChainWizard/status/1653703600000909317",
+          "publishedOn": "2023-05-03T10:10:37.000Z",
+          "wordCount": 513,
+          "title": "Re @CryptoNikyous My b ser!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653702222394318852",
+          "author": "Onchain Wizard",
+          "description": "Re @CryptoNikyous I know I have an entire software business dedicated to that...",
+          "link": "https://twitter.com/OnChainWizard/status/1653702222394318852",
+          "publishedOn": "2023-05-03T10:05:08.000Z",
+          "wordCount": 513,
+          "title": "Re @CryptoNikyous I know I have an entire software business dedicated to that...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697650397413376",
+          "author": "Onchain Wizard",
+          "description": "Re If you enjoy this kind of content, you'll love my crypto education + analysis newsletter.   Check it out here -> http://onchainwizard.substack.com",
+          "link": "https://twitter.com/OnChainWizard/status/1653697650397413376",
+          "publishedOn": "2023-05-03T09:46:58.000Z",
+          "wordCount": 513,
+          "title": "Re If you enjoy this kind of content, you'll love my crypto education + analysis newsletter. Check it out here -> http://onchainwizard.substack.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697648489123842",
+          "author": "Onchain Wizard",
+          "description": "Re Now that you have their wallet, you can set up alerts on their address, and buy things before they shill it, and sell when they sell.    But going one step further, you can drop their address into Arkham or Breadcrumbs to find their other wallets as well",
+          "link": "https://twitter.com/OnChainWizard/status/1653697648489123842",
+          "publishedOn": "2023-05-03T09:46:58.000Z",
+          "wordCount": 513,
+          "title": "Re Now that you have their wallet, you can set up alerts on their address, and buy things before they shill it, and sell when they sell. But going one...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697646710648835",
+          "author": "Onchain Wizard",
+          "description": "Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want displayed, filter for the time period you want and then download into excel + keep sorting uniques.   \nhttps://dune.com/queries/1910245/3145737",
+          "link": "https://twitter.com/OnChainWizard/status/1653697646710648835",
+          "publishedOn": "2023-05-03T09:46:57.000Z",
+          "wordCount": 513,
+          "title": "Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697644974206976",
+          "author": "Onchain Wizard",
+          "description": "Re If an influencer gives you any additional context (debank balances, how much they made on a trade, etc), this should also be used to narrow down your search.",
+          "link": "https://twitter.com/OnChainWizard/status/1653697644974206976",
+          "publishedOn": "2023-05-03T09:46:57.000Z",
+          "wordCount": 513,
+          "title": "Re If an influencer gives you any additional context (debank balances, how much they made on a trade, etc), this should also be used to narrow down yo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697643263016961",
+          "author": "Onchain Wizard",
+          "description": "Re Use a function like sort for \"unique records only\" and then you should be getting close, especially if you have a lot of token calls included.    Then comb through each wallet until you think you've found the influencer wallet.",
+          "link": "https://twitter.com/OnChainWizard/status/1653697643263016961",
+          "publishedOn": "2023-05-03T09:46:57.000Z",
+          "wordCount": 513,
+          "title": "Re Use a function like sort for \"unique records only\" and then you should be getting close, especially if you have a lot of token calls included. Then...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697641652400131",
+          "author": "Onchain Wizard",
+          "description": "Re And then build a list of wallet addresses that bought or sold the token during this period.     Repeat the process for basically every token that has been \"called\" and drop all the wallets into excel.",
+          "link": "https://twitter.com/OnChainWizard/status/1653697641652400131",
+          "publishedOn": "2023-05-03T09:46:56.000Z",
+          "wordCount": 513,
+          "title": "Re And then build a list of wallet addresses that bought or sold the token during this period. Repeat the process for basically every token that has b...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697639924350976",
+          "author": "Onchain Wizard",
+          "description": "Re Sometimes the above is enough to find a wallet that seems to be a match.   But if the influencer sold their holdings quickly, it won't be that easy.     Instead, you need to download the etherscan history (or whatever block explorer) for 2-3 days before + 2-5 after the call",
+          "link": "https://twitter.com/OnChainWizard/status/1653697639924350976",
+          "publishedOn": "2023-05-03T09:46:56.000Z",
+          "wordCount": 513,
+          "title": "Re Sometimes the above is enough to find a wallet that seems to be a match. But if the influencer sold their holdings quickly, it won't be that easy. ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697638389145601",
+          "author": "Onchain Wizard",
+          "description": "Re You can run the Dune dashboard for all \"recent\" calls where you believe the influencer still holds the token.   Then drop all the big cross-holders into excel, and start sorting through their activity on debank, etc",
+          "link": "https://twitter.com/OnChainWizard/status/1653697638389145601",
+          "publishedOn": "2023-05-03T09:46:55.000Z",
+          "wordCount": 513,
+          "title": "Re You can run the Dune dashboard for all \"recent\" calls where you believe the influencer still holds the token. Then drop all the big cross-holders i...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697636648603651",
+          "author": "Onchain Wizard",
+          "description": "Re Simply type in the 2 most recent tokens, filter by large balances (across both).   From there, you can start digging through wallets.   You are trying to match \"call\" activity vs. swap activity, so if the wallet you found does not touch the tokens discussed by influencer 🛑",
+          "link": "https://twitter.com/OnChainWizard/status/1653697636648603651",
+          "publishedOn": "2023-05-03T09:46:55.000Z",
+          "wordCount": 513,
+          "title": "Re Simply type in the 2 most recent tokens, filter by large balances (across both). From there, you can start digging through wallets. You are trying ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697635075629057",
+          "author": "Onchain Wizard",
+          "description": "Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts.   If they have 2 or more very recent calls, you can use this Dune dashboard as a starting point.     \nhttps://dune.com/unexployed/Token-Overlap",
+          "link": "https://twitter.com/OnChainWizard/status/1653697635075629057",
+          "publishedOn": "2023-05-03T09:46:55.000Z",
+          "wordCount": 513,
+          "title": "Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts. If they have 2 or more very recent c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1653697633343373312",
+          "author": "Onchain Wizard",
+          "description": "Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   \nLet's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832\n\nOnchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB",
+          "link": "https://twitter.com/OnChainWizard/status/1653697633343373312",
+          "publishedOn": "2023-05-03T09:46:54.000Z",
+          "wordCount": 513,
+          "title": "Memecoins are pumping and you are still aping TG calls, anon? Instead, use my simple process to find influencer wallets (which is how I found Chad's, ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/CryptoSources/status/1653380156470317057",
           "author": "Onchain Wizard",
           "description": "RT Viperr.eth\nDid you know @ArkhamIntel also has free wallet tracking alerts?\nLately I have been forcing my way into meme coin presales by tracking insider wallets and sending ETH to the contribution address.\nDon't advise doing the same, but jfc it has worked.\nhttps://platform.arkhamintelligence.com/waitlist?referrer=am9obnN0ZWFrOTAwQGdtYWlsLmNvbQ https://t.co/1X7AGrlgop",
@@ -884,36 +1014,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/OnChainWizard/status/1652015155515912192",
-          "author": "Onchain Wizard",
-          "description": "Re @0xJohannes_ @Cryptopleb4 @0x_ridam It’s not hard to find.   Took like 15 minutes to find it",
-          "link": "https://twitter.com/OnChainWizard/status/1652015155515912192",
-          "publishedOn": "2023-04-28T18:21:20.000Z",
-          "wordCount": 513,
-          "title": "Re @0xJohannes_ @Cryptopleb4 @0x_ridam It’s not hard to find. Took like 15 minutes to find it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1651939936684199936",
-          "author": "Onchain Wizard",
-          "description": "Re @ChadCaff Had to check lol, most people would have just transferred the funds in to show that portfolio move",
-          "link": "https://twitter.com/OnChainWizard/status/1651939936684199936",
-          "publishedOn": "2023-04-28T13:22:27.000Z",
-          "wordCount": 513,
-          "title": "Re @ChadCaff Had to check lol, most people would have just transferred the funds in to show that portfolio move",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1651928091126648832",
-          "author": "Onchain Wizard",
-          "description": "Re @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB",
-          "link": "https://twitter.com/OnChainWizard/status/1651928091126648832",
-          "publishedOn": "2023-04-28T12:35:22.000Z",
-          "wordCount": 513,
-          "title": "Re @ChadCaff Found the wallet lol. gg ser, I see the big winners in APED and BOB",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/silentdao_/status/1651921673984114691",
           "author": "Onchain Wizard",
           "description": "RT Silent Protocol\nMake sure to check out the article @blockworks_ recently wrote about us:  \n\"Silent Protocol: Enabling Confidential DeFi on Ethereum\"\n  https://www.blockworksresearch.com/research/silent-protocol-enabling-confidential-defi-on-ethereum",
@@ -921,106 +1021,6 @@
           "publishedOn": "2023-04-28T12:09:52.000Z",
           "wordCount": 513,
           "title": "RT Silent Protocol: Make sure to check out the article @blockworks_ recently wrote about us: \"Silent Protocol: Enabling Confidential DeFi on Ethereum\"...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1651902074127372288",
-          "author": "Onchain Wizard",
-          "description": "Re @rektdiomedes Appreciate it ser.",
-          "link": "https://twitter.com/OnChainWizard/status/1651902074127372288",
-          "publishedOn": "2023-04-28T10:51:59.000Z",
-          "wordCount": 513,
-          "title": "Re @rektdiomedes Appreciate it ser.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/rektdiomedes/status/1651899709097930752",
-          "author": "Onchain Wizard",
-          "description": "RT rektdiomedes\nPeriodic reminder that @OnChainWizard's got one of the best newsletters in all of crypto:\n\nOnchain Wizard: New post out on navigating the PvP meta.    \nhttps://linktr.ee/onchainwizardscauldron",
-          "link": "https://twitter.com/rektdiomedes/status/1651899709097930752",
-          "publishedOn": "2023-04-28T10:42:36.000Z",
-          "wordCount": 513,
-          "title": "RT rektdiomedes: Periodic reminder that @OnChainWizard's got one of the best newsletters in all of crypto:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1651895977870082051",
-          "author": "Onchain Wizard",
-          "description": "New post out on navigating the PvP meta.    \nhttps://linktr.ee/onchainwizardscauldron",
-          "link": "https://twitter.com/OnChainWizard/status/1651895977870082051",
-          "publishedOn": "2023-04-28T10:27:46.000Z",
-          "wordCount": 513,
-          "title": "New post out on navigating the PvP meta. https://linktr.ee/onchainwizardscauldron",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1651411276612919298",
-          "author": "Onchain Wizard",
-          "description": "Re @SmokeyTheBera liquidity",
-          "link": "https://twitter.com/OnChainWizard/status/1651411276612919298",
-          "publishedOn": "2023-04-27T02:21:44.000Z",
-          "wordCount": 513,
-          "title": "Re @SmokeyTheBera liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CoinGurruu/status/1651250297530974208",
-          "author": "Onchain Wizard",
-          "description": "RT 💐Guru 💐\nThis wallet has launched 2-5 memecoin rugs daily for almost 2 years straight:\n0xCc16D5E53C1890B2802d5441d23639CAc6cd646F\nThese devs have incredible hustle. Make sure you label it on Etherscan so you don't line their pockets with your money\nAbsolute insanity. https://t.co/ffNQ4sTGls",
-          "link": "https://twitter.com/CoinGurruu/status/1651250297530974208",
-          "publishedOn": "2023-04-26T15:42:04.000Z",
-          "wordCount": 513,
-          "title": "RT 💐Guru 💐: This wallet has launched 2-5 memecoin rugs daily for almost 2 years straight: 0xCc16D5E53C1890B2802d5441d23639CAc6cd646F These devs ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1649136593712693249",
-          "author": "Onchain Wizard",
-          "description": "Re @FA40Ziv Damn dude",
-          "link": "https://twitter.com/OnChainWizard/status/1649136593712693249",
-          "publishedOn": "2023-04-20T19:42:58.000Z",
-          "wordCount": 513,
-          "title": "Re @FA40Ziv Damn dude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1649110717486825473",
-          "author": "Onchain Wizard",
-          "description": "Re @OuroborosCap8 Wen public sale?    And assume that will be at much closer to $1bn fdv",
-          "link": "https://twitter.com/OnChainWizard/status/1649110717486825473",
-          "publishedOn": "2023-04-20T18:00:08.000Z",
-          "wordCount": 513,
-          "title": "Re @OuroborosCap8 Wen public sale? And assume that will be at much closer to $1bn fdv",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/silentdao_/status/1648781076314181634",
-          "author": "Onchain Wizard",
-          "description": "RT Silent Protocol\n\"Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like\". \nYes. You read that right. \nSuccessful-massively-adopted. \nFocus anon.\nhttps://zeeprime.capital/why-privacy-failed-zk-part-2 https://t.co/MmxOKqr02e",
-          "link": "https://twitter.com/silentdao_/status/1648781076314181634",
-          "publishedOn": "2023-04-19T20:10:16.000Z",
-          "wordCount": 513,
-          "title": "RT Silent Protocol: \"Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like\". Yes. You re...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/twobitidiot/status/1648704414914588672",
-          "author": "Onchain Wizard",
-          "description": "RT Ryan Selkis 🪳\n1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature Bank's collapse.\nThe plot thickens!",
-          "link": "https://twitter.com/twobitidiot/status/1648704414914588672",
-          "publishedOn": "2023-04-19T15:05:38.000Z",
-          "wordCount": 513,
-          "title": "RT Ryan Selkis 🪳: 1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature B...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1648306325619605521",
-          "author": "Onchain Wizard",
-          "description": "Good refresher for you degens hunting micro cap meme coins right now.\n\nShitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵",
-          "link": "https://twitter.com/OnChainWizard/status/1648306325619605521",
-          "publishedOn": "2023-04-18T12:43:46.000Z",
-          "wordCount": 513,
-          "title": "Good refresher for you degens hunting micro cap meme coins right now.",
           "imageUrl": null
         }
       ]

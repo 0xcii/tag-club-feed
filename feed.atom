@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T09:12:03.399Z</id>
+    <id>urn:2023-05-03T10:13:11.178Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T09:12:03.399Z</updated>
+    <updated>2023-05-03T10:13:11.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @CryptoNikyous My b ser!]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653703600000909317</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653703600000909317"/>
+        <updated>2023-05-03T10:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @CryptoNikyous My b ser!]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CryptoNikyous I know I have an entire software business dedicated to that...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653702222394318852</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653702222394318852"/>
+        <updated>2023-05-03T10:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @CryptoNikyous I know I have an entire software business dedicated to that...]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re If you enjoy this kind of content, you'll love my crypto education + analysis newsletter. Check it out here -> http://onchainwizard.substack.com]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697650397413376</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697650397413376"/>
+        <updated>2023-05-03T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Re If you enjoy this kind of content, you'll love my crypto education + analysis newsletter.   Check it out here -> http://onchainwizard.substack.com]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Now that you have their wallet, you can set up alerts on their address, and buy things before they shill it, and sell when they sell. But going one...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697648489123842</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697648489123842"/>
+        <updated>2023-05-03T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Re Now that you have their wallet, you can set up alerts on their address, and buy things before they shill it, and sell when they sell.    But going one step further, you can drop their address into Arkham or Breadcrumbs to find their other wallets as well]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697646710648835</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697646710648835"/>
+        <updated>2023-05-03T09:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want displayed, filter for the time period you want and then download into excel + keep sorting uniques.   
+https://dune.com/queries/1910245/3145737]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re If an influencer gives you any additional context (debank balances, how much they made on a trade, etc), this should also be used to narrow down yo...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697644974206976</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697644974206976"/>
+        <updated>2023-05-03T09:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Re If an influencer gives you any additional context (debank balances, how much they made on a trade, etc), this should also be used to narrow down your search.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Use a function like sort for "unique records only" and then you should be getting close, especially if you have a lot of token calls included. Then...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697643263016961</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697643263016961"/>
+        <updated>2023-05-03T09:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Re Use a function like sort for "unique records only" and then you should be getting close, especially if you have a lot of token calls included.    Then comb through each wallet until you think you've found the influencer wallet.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re And then build a list of wallet addresses that bought or sold the token during this period. Repeat the process for basically every token that has b...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697641652400131</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697641652400131"/>
+        <updated>2023-05-03T09:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Re And then build a list of wallet addresses that bought or sold the token during this period.     Repeat the process for basically every token that has been "called" and drop all the wallets into excel.]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Sometimes the above is enough to find a wallet that seems to be a match. But if the influencer sold their holdings quickly, it won't be that easy. ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697639924350976</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697639924350976"/>
+        <updated>2023-05-03T09:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Re Sometimes the above is enough to find a wallet that seems to be a match.   But if the influencer sold their holdings quickly, it won't be that easy.     Instead, you need to download the etherscan history (or whatever block explorer) for 2-3 days before + 2-5 after the call]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re You can run the Dune dashboard for all "recent" calls where you believe the influencer still holds the token. Then drop all the big cross-holders i...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697638389145601</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697638389145601"/>
+        <updated>2023-05-03T09:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Re You can run the Dune dashboard for all "recent" calls where you believe the influencer still holds the token.   Then drop all the big cross-holders into excel, and start sorting through their activity on debank, etc]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both). From there, you can start digging through wallets. You are trying ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697636648603651</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697636648603651"/>
+        <updated>2023-05-03T09:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both).   From there, you can start digging through wallets.   You are trying to match "call" activity vs. swap activity, so if the wallet you found does not touch the tokens discussed by influencer 🛑]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts. If they have 2 or more very recent c...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697635075629057</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697635075629057"/>
+        <updated>2023-05-03T09:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts.   If they have 2 or more very recent calls, you can use this Dune dashboard as a starting point.     
+https://dune.com/unexployed/Token-Overlap]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memecoins are pumping and you are still aping TG calls, anon? Instead, use my simple process to find influencer wallets (which is how I found Chad's, ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697633343373312</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697633343373312"/>
+        <updated>2023-05-03T09:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
+Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
+
+Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 该项目此前受到 CultDAO 投资支持，部分 KOL 在推广过程中还表示 CZ 推特所关注对象宣传了该项目，对此 CZ 回应称”他经常随机关注别人，有时只是因为看到一...]]></title>
         <id>https://twitter.com/wublockchain12/status/1653663415741865985</id>
@@ -954,16 +1089,6 @@ https://app.usechatgpt.ai/?invite=tvteJcDf https://t.co/9kq8GaJhfx]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xJohannes_ @Cryptopleb4 @0x_ridam It’s not hard to find. Took like 15 minutes to find it]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1652015155515912192</id>
-        <link href="https://twitter.com/OnChainWizard/status/1652015155515912192"/>
-        <updated>2023-04-28T18:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xJohannes_ @Cryptopleb4 @0x_ridam It’s not hard to find.   Took like 15 minutes to find it]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Get 25% off with 'DEFIEDUCATOR' at the best on-chain alert system @etherdrops_bot 🚀 https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR 🚫 No r...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1652013036968787983</id>
         <link href="https://twitter.com/DeFi_educator/status/1652013036968787983"/>
@@ -1006,26 +1131,6 @@ https://www.neatprompts.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ChadCaff Had to check lol, most people would have just transferred the funds in to show that portfolio move]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1651939936684199936</id>
-        <link href="https://twitter.com/OnChainWizard/status/1651939936684199936"/>
-        <updated>2023-04-28T13:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChadCaff Had to check lol, most people would have just transferred the funds in to show that portfolio move]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChadCaff Found the wallet lol. gg ser, I see the big winners in APED and BOB]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1651928091126648832</id>
-        <link href="https://twitter.com/OnChainWizard/status/1651928091126648832"/>
-        <updated>2023-04-28T12:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Silent Protocol: Make sure to check out the article @blockworks_ recently wrote about us: "Silent Protocol: Enabling Confidential DeFi on Ethereum"...]]></title>
         <id>https://twitter.com/silentdao_/status/1651921673984114691</id>
         <link href="https://twitter.com/silentdao_/status/1651921673984114691"/>
@@ -1034,51 +1139,6 @@ https://www.neatprompts.com/]]></summary>
 Make sure to check out the article @blockworks_ recently wrote about us:  
 "Silent Protocol: Enabling Confidential DeFi on Ethereum"
   https://www.blockworksresearch.com/research/silent-protocol-enabling-confidential-defi-on-ethereum]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @rektdiomedes Appreciate it ser.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1651902074127372288</id>
-        <link href="https://twitter.com/OnChainWizard/status/1651902074127372288"/>
-        <updated>2023-04-28T10:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @rektdiomedes Appreciate it ser.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rektdiomedes: Periodic reminder that @OnChainWizard's got one of the best newsletters in all of crypto:]]></title>
-        <id>https://twitter.com/rektdiomedes/status/1651899709097930752</id>
-        <link href="https://twitter.com/rektdiomedes/status/1651899709097930752"/>
-        <updated>2023-04-28T10:42:36.000Z</updated>
-        <summary type="html"><![CDATA[RT rektdiomedes
-Periodic reminder that @OnChainWizard's got one of the best newsletters in all of crypto:
-
-Onchain Wizard: New post out on navigating the PvP meta.    
-https://linktr.ee/onchainwizardscauldron]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New post out on navigating the PvP meta. https://linktr.ee/onchainwizardscauldron]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1651895977870082051</id>
-        <link href="https://twitter.com/OnChainWizard/status/1651895977870082051"/>
-        <updated>2023-04-28T10:27:46.000Z</updated>
-        <summary type="html"><![CDATA[New post out on navigating the PvP meta.    
-https://linktr.ee/onchainwizardscauldron]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SmokeyTheBera liquidity]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1651411276612919298</id>
-        <link href="https://twitter.com/OnChainWizard/status/1651411276612919298"/>
-        <updated>2023-04-27T02:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @SmokeyTheBera liquidity]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1107,20 +1167,6 @@ See how #Fantom is becoming the go-to platform for decentralized payment service
 https://fantom.foundation/blog/fantom-the-future-of-decentralized-payments/ https://t.co/UB8IMlSj1D]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 💐Guru 💐: This wallet has launched 2-5 memecoin rugs daily for almost 2 years straight: 0xCc16D5E53C1890B2802d5441d23639CAc6cd646F These devs ...]]></title>
-        <id>https://twitter.com/CoinGurruu/status/1651250297530974208</id>
-        <link href="https://twitter.com/CoinGurruu/status/1651250297530974208"/>
-        <updated>2023-04-26T15:42:04.000Z</updated>
-        <summary type="html"><![CDATA[RT 💐Guru 💐
-This wallet has launched 2-5 memecoin rugs daily for almost 2 years straight:
-0xCc16D5E53C1890B2802d5441d23639CAc6cd646F
-These devs have incredible hustle. Make sure you label it on Etherscan so you don't line their pockets with your money
-Absolute insanity. https://t.co/ffNQ4sTGls]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1210,26 +1256,6 @@ Learn more: https://bit.ly/busdepositfloki]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @FA40Ziv Damn dude]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1649136593712693249</id>
-        <link href="https://twitter.com/OnChainWizard/status/1649136593712693249"/>
-        <updated>2023-04-20T19:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @FA40Ziv Damn dude]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OuroborosCap8 Wen public sale? And assume that will be at much closer to $1bn fdv]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1649110717486825473</id>
-        <link href="https://twitter.com/OnChainWizard/status/1649110717486825473"/>
-        <updated>2023-04-20T18:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @OuroborosCap8 Wen public sale?    And assume that will be at much closer to $1bn fdv]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT cygaar: The new Euro-pegged stablecoin from SG-Generale (a French Bank) has a function that allows them to take all of your money lol https://t.co/...]]></title>
         <id>https://twitter.com/0xCygaar/status/1649108182957178882</id>
         <link href="https://twitter.com/0xCygaar/status/1649108182957178882"/>
@@ -1263,21 +1289,6 @@ tornado cash dev alex pertsev reportedly released just now https://t.co/Lg1s01Va
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Silent Protocol: "Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like". Yes. You re...]]></title>
-        <id>https://twitter.com/silentdao_/status/1648781076314181634</id>
-        <link href="https://twitter.com/silentdao_/status/1648781076314181634"/>
-        <updated>2023-04-19T20:10:16.000Z</updated>
-        <summary type="html"><![CDATA[RT Silent Protocol
-"Silent Protocol ticks all the boxes of what we think a successful massively adopted privacy protocol will look like". 
-Yes. You read that right. 
-Successful-massively-adopted. 
-Focus anon.
-https://zeeprime.capital/why-privacy-failed-zk-part-2 https://t.co/MmxOKqr02e]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Chris Blec: Re Would the Canadian truckers have been blocked by Trezor last year? These are the kinds of questions you should be asking yourself wh...]]></title>
         <id>https://twitter.com/ChrisBlec/status/1648717853728686081</id>
         <link href="https://twitter.com/ChrisBlec/status/1648717853728686081"/>
@@ -1287,18 +1298,6 @@ Re Would the Canadian truckers have been blocked by Trezor last year?
 These are the kinds of questions you should be asking yourself when you're deciding whether or not to buy a Trezor in the future.]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ryan Selkis 🪳: 1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature B...]]></title>
-        <id>https://twitter.com/twobitidiot/status/1648704414914588672</id>
-        <link href="https://twitter.com/twobitidiot/status/1648704414914588672"/>
-        <updated>2023-04-19T15:05:38.000Z</updated>
-        <summary type="html"><![CDATA[RT Ryan Selkis 🪳
-1/ The Head of NY Department of Financial Services just testified to Congress that crypto had nothing to do with with Signature Bank's collapse.
-The plot thickens!]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1352,18 +1351,6 @@ DeFi Educator: Update https://twitter.com/DeFi_educator/status/156973702245722
 And lack of regulatory clarity + hostile enforcement against crypto in the US is pushing innovation offshores… https://twitter.com/i/web/status/1648360838544203777 https://t.co/cDlt2BbUW2]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1648306325619605521</id>
-        <link href="https://twitter.com/OnChainWizard/status/1648306325619605521"/>
-        <updated>2023-04-18T12:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Good refresher for you degens hunting micro cap meme coins right now.
-
-Shitc0in: 🧵 THE ULTIMATE MICRO CAP HUNTING THREADOOOOR 🧵]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
