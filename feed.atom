@@ -1,18 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T18:15:31.498Z</id>
+    <id>urn:2023-05-04T19:09:53.238Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T18:15:31.498Z</updated>
+    <updated>2023-05-04T19:09:53.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @blackjoker218 @FA40Ziv @wsbmod @ChainEDGE_io]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1654181782273548288</id>
-        <link href="https://twitter.com/OnChainWizard/status/1654181782273548288"/>
-        <updated>2023-05-04T17:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @blackjoker218 @FA40Ziv @wsbmod @ChainEDGE_io]]></summary>
+        <title type="html"><![CDATA[Re OpenTrade 由 Dave Sutter 和 Jeff Handler 于今年 2 月份创立，他们曾是负责管理 USDC 的 Centre 集团的前雇员。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654155250767482881</id>
+        <link href="https://twitter.com/wublockchain12/status/1654155250767482881"/>
+        <updated>2023-05-04T16:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Re OpenTrade 由 Dave Sutter 和 Jeff Handler 于今年 2 月份创立，他们曾是负责管理 USDC 的 Centre 集团的前雇员。]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTrade 周四宣布筹资 150 万美元，声称可以帮助公司更快、更省钱地转移资金的稳定币通道，寻求用 USDC 重塑全球供应链的金融基础。该公司投资者包括 Sino Glo...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654155248791875584</id>
+        <link href="https://twitter.com/wublockchain12/status/1654155248791875584"/>
+        <updated>2023-05-04T16:05:18.000Z</updated>
+        <summary type="html"><![CDATA[OpenTrade 周四宣布筹资 150 万美元，声称可以帮助公司更快、更省钱地转移资金的稳定币通道，寻求用 USDC 重塑全球供应链的金融基础。该公司投资者包括 Sino Global Capital 以及 Circle Ventures 等。（The Block）
+https://www.theblock.co/post/229506/no-more-spreadsheets-crypto-startup-says-it-has-a-solution-for-the-global-supply-chain]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 针对早先外界质疑的老账号被 IEO 机制封锁，OKX 解释上线了一系列的反女巫规则，规避了大量“工作室”、“多账号”的情况，有效提升了散户中签率。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654153708337348609</id>
+        <link href="https://twitter.com/wublockchain12/status/1654153708337348609"/>
+        <updated>2023-05-04T15:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 针对早先外界质疑的老账号被 IEO 机制封锁，OKX 解释上线了一系列的反女巫规则，规避了大量“工作室”、“多账号”的情况，有效提升了散户中签率。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，KuCoin 公布最新的储备金率，用户资产包括 19495 个 BTC；16.5 万个 ETH；12.6 亿个 USDT；1.1 亿个 USDC；约为 OKX 刚刚公布的用户资产数量的六分之...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654151586329894918</id>
+        <link href="https://twitter.com/wublockchain12/status/1654151586329894918"/>
+        <updated>2023-05-04T15:50:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，KuCoin 公布最新的储备金率，用户资产包括 19495 个 BTC；16.5 万个 ETH；12.6 亿个 USDT；1.1 亿个 USDC；约为 OKX 刚刚公布的用户资产数量的六分之一，总资产较去年11月第一次公布时也有所减少。https://www.kucoin.com/zh-hant/proof-of-reserves]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 发布 SUI 上线时无法撤单的赔偿方案：补偿金额 = 用户集合竞价委托订单最终成交数量 × (订单买入均价 – 1.3) USDT；例如用户 A 在上述场景遇到...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654149646284103680</id>
+        <link href="https://twitter.com/wublockchain12/status/1654149646284103680"/>
+        <updated>2023-05-04T15:43:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 发布 SUI 上线时无法撤单的赔偿方案：补偿金额 = 用户集合竞价委托订单最终成交数量 × (订单买入均价 – 1.3) USDT；例如用户 A 在上述场景遇到无法撤单问题，集合竞价买入成交的 SUI 数额为 40,000 个，订单买入均价为 1.7，则该用户将会收到 40,000 × (1.7 – 1.3) = 40,000 × 0.4 =… https://twitter.com/i/web/status/1654149646284103680
+
+吴说区块链: 吴说获悉，OKX 创始人徐明星表示，所有无法取消订单并买入高于1.3 USDT SUI 的客户将获得补偿。将尽快修复交易系统错误，以防止将来再次发生。早先 OKX 在 SUI 上线时出现长时间无法撤单的问题。https://twitter.com/star_okx/status/1653804563906932753]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，阿里云宣布与 Avalanche 合作建立元宇宙启动平台 Cloudverse，帮助企业用户定制、启动并维护自己的专属元宇宙空间。阿里云将为 Cloudverse 提供包括云...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654149392465809409</id>
+        <link href="https://twitter.com/wublockchain12/status/1654149392465809409"/>
+        <updated>2023-05-04T15:42:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，阿里云宣布与 Avalanche 合作建立元宇宙启动平台 Cloudverse，帮助企业用户定制、启动并维护自己的专属元宇宙空间。阿里云将为 Cloudverse 提供包括云计算、存储、数据库、网络和智能运行平台在内的基础设施，Avalanche 和 MUA DAO… https://twitter.com/i/web/status/1654149392465809409]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -268,16 +321,6 @@ With his impressive background as the former head of imToken North America and c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北卡罗来纳州众议院周三一致通过了一项法案，禁止该州的机构接受中央银行数字货币支付，法案还禁止该州参与任何试点测试 CBDC。北卡罗来纳州的这项法案早在 4 月...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654091996179607554</id>
-        <link href="https://twitter.com/wublockchain12/status/1654091996179607554"/>
-        <updated>2023-05-04T11:53:58.000Z</updated>
-        <summary type="html"><![CDATA[北卡罗来纳州众议院周三一致通过了一项法案，禁止该州的机构接受中央银行数字货币支付，法案还禁止该州参与任何试点测试 CBDC。北卡罗来纳州的这项法案早在 4 月初就已经推出，标题为“不接受加密货币支付给政府”，但在周二提交的版本中更改为美联储发行的数字货币。（CoinDesk）… https://twitter.com/i/web/status/1654091996179607554]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
@@ -287,19 +330,6 @@ With his impressive background as the former head of imToken North America and c
 Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Curve Finance 发文称，经评审发现当前版本的 crvUSD 需要重新部署，原因是由于部署脚本中的错误，veCRV 将无法从中获取费用，部署将在今日进行。 htt...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654087863729020928</id>
-        <link href="https://twitter.com/wublockchain12/status/1654087863729020928"/>
-        <updated>2023-05-04T11:37:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Curve Finance 发文称，经评审发现当前版本的 crvUSD 需要重新部署，原因是由于部署脚本中的错误，veCRV 将无法从中获取费用，部署将在今日进行。
-https://twitter.com/CurveFinance/status/1654060060090179585 https://twitter.com/wublockchain12/status/1653917320216182784
-
-吴说区块链: 吴说获悉，Curve Finance 宣布其原生稳定币 crvUSD 已在主网上部署了智能合约，尚未部署 UI 界面。据 @CurveCap，Curve Finance 创始人 Michael Egorov 执行了 crvUSD 的首笔贷款，价值一百万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -320,46 +350,6 @@ https://twitter.com/CurveFinance/status/1654060060090179585 https://twitter.com/
         <summary type="html"><![CDATA[Re @web3jayyu 不错。一个月能交互一笔]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 私募分配比例较高的代币的波动性略低，价格表现也较好。阅读全文：https://www.techflowpost.com/article/detail_11809.html]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654052475673145344</id>
-        <link href="https://twitter.com/wublockchain12/status/1654052475673145344"/>
-        <updated>2023-05-04T09:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 私募分配比例较高的代币的波动性略低，价格表现也较好。阅读全文：https://www.techflowpost.com/article/detail_11809.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《代币解锁如何影响价格？基于5000个项目的大数据分析》（作者：MUSTAFA、CARL 深潮编译）解锁量大于流通供应量的 1％会导致解锁规模与价格之间的负相关关系；大...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654052473626308608</id>
-        <link href="https://twitter.com/wublockchain12/status/1654052473626308608"/>
-        <updated>2023-05-04T09:16:55.000Z</updated>
-        <summary type="html"><![CDATA[《代币解锁如何影响价格？基于5000个项目的大数据分析》（作者：MUSTAFA、CARL 深潮编译）解锁量大于流通供应量的 1％会导致解锁规模与价格之间的负相关关系；大部分代币已经解锁的协议更接近市场，并且表现好于那些处于早期解锁周期的代币；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 TokenUnlocks，五月大额解锁有 GAL、DYDX 、APT 、BIT 、APE 、ROSE 、IMX 、RON 、AVAX、OP 等，解锁价值超 7.6 亿美元。https://token.unlocks.a...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654051902831882244</id>
-        <link href="https://twitter.com/wublockchain12/status/1654051902831882244"/>
-        <updated>2023-05-04T09:14:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 TokenUnlocks，五月大额解锁有 GAL、DYDX 、APT 、BIT 、APE 、ROSE 、IMX 、RON 、AVAX、OP 等，解锁价值超 7.6 亿美元。https://token.unlocks.app/ https://t.co/f4hsoLQd6C]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4月18日币安曾发布公告称“成功获取新地址”或“收到邮件满30天”后旧充值地址将过期，充值到旧地址的资金是安全的，但不会自动上账，需要在历史记录中再次操...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654047207346286592</id>
-        <link href="https://twitter.com/wublockchain12/status/1654047207346286592"/>
-        <updated>2023-05-04T08:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Re 4月18日币安曾发布公告称“成功获取新地址”或“收到邮件满30天”后旧充值地址将过期，充值到旧地址的资金是安全的，但不会自动上账，需要在历史记录中再次操作。https://www.binance.com/zh-CN/support/faq/%E7%82%BA%E4%BB%80%E9%BA%BD%E8%A6%81%E9%81%B7%E7%A7%BB%E5%85%85%E5%80%BC%E5%9C%B0%E5%9D%80-853aaedc7f45430283abc7a25713c428]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -640,6 +630,16 @@ https://dune.com/queries/1910245/3145737]]></summary>
         <link href="https://twitter.com/OnChainWizard/status/1653697638389145601"/>
         <updated>2023-05-03T09:46:55.000Z</updated>
         <summary type="html"><![CDATA[Re You can run the Dune dashboard for all "recent" calls where you believe the influencer still holds the token.   Then drop all the big cross-holders into excel, and start sorting through their activity on debank, etc]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both). From there, you can start digging through wallets. You are trying ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1653697636648603651</id>
+        <link href="https://twitter.com/OnChainWizard/status/1653697636648603651"/>
+        <updated>2023-05-03T09:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both).   From there, you can start digging through wallets.   You are trying to match "call" activity vs. swap activity, so if the wallet you found does not touch the tokens discussed by influencer 🛑]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
