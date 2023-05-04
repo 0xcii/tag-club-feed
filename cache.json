@@ -6,6 +6,116 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1654133118943789060",
+          "author": "吴说区块链",
+          "description": "基于 ZK 技术构建的跨链项目 ZkLink 在一轮战略融资中从包括 Coinbase Ventures 在内的一系列投资者那里筹集了 1000 万美元，筹款将有助于推动 zkLink 在第三季度推出其主网。zkLink 的总融资额已达 1850 万美元。（CoinDesk）\nhttps://www.coindesk.com/business/2023/05/04/coinbase-ventures-backs-10m-zklink-raise-ahead-of-mainnet-launch/",
+          "link": "https://twitter.com/wublockchain12/status/1654133118943789060",
+          "publishedOn": "2023-05-04T14:37:22.000Z",
+          "wordCount": 513,
+          "title": "基于 ZK 技术构建的跨链项目 ZkLink 在一轮战略融资中从包括 Coinbase Ventures 在内的一系列投资者那里筹集了 1000 万美元，筹款将有助于推动 zkLink 在第三季...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654130038458163204",
+          "author": "吴说区块链",
+          "description": "Re 币安反馈该账户的私钥由财务部门控制，具有一定的安全性，因此可以降低风险。但 Supremacy 仍然认为在代码层面存在中心化风险。https://twitter.com/Supremacy_CA/status/1654117850985164800\n\nSupremacy: 1/ @binance's earn team at @CurveFinance launched a proposal to add $wBETH to the Gauge Controller, and our research team decided to perform a centralized risk assessment of $wBETH. In that assessment, we identified a potential risks.\nhttps://gov.curve.fi/t/proposal-to-add-wbeth-eth-to-the-gauge-controller/9178",
+          "link": "https://twitter.com/wublockchain12/status/1654130038458163204",
+          "publishedOn": "2023-05-04T14:25:08.000Z",
+          "wordCount": 513,
+          "title": "Re 币安反馈该账户的私钥由财务部门控制，具有一定的安全性，因此可以降低风险。但 Supremacy 仍然认为在代码层面存在中心化风险。https://twitter.com/Supremac...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654130036189044736",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Supremacy 宣布发现币安在 Curve 发起的将 wBETH 添加到 Gauge Controller 的提案存在一个潜在风险，BNBChain 平台的 WrapTokenV1BSC 合约中有一个特性可以转移所有 ETH Reserve，这是一个单签名 EOA 账户，这意味着私钥泄露或内部作恶可能会导致非常严重的后果。",
+          "link": "https://twitter.com/wublockchain12/status/1654130036189044736",
+          "publishedOn": "2023-05-04T14:25:07.000Z",
+          "wordCount": 513,
+          "title": "吴说获悉，Supremacy 宣布发现币安在 Curve 发起的将 wBETH 添加到 Gauge Controller 的提案存在一个潜在风险，BNBChain 平台的 WrapTokenV1BSC 合约中有一个特...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654129365121368077",
+          "author": "吴说区块链",
+          "description": "BNB Greenfield 存储网络主网将于 2023 年第三季度启动。BNB Greenfield 旨在为 BNB Chain 生态系统提供数据和存储层服务，将与托管在 BNB Chain 上的智能合约集成，以支持游戏和社交媒体中的存储需求。（The Block）\nhttps://www.theblock.co/post/229499/bnb-greenfield-storage-network-mainnet-launch-targeted-for-q3-2023",
+          "link": "https://twitter.com/wublockchain12/status/1654129365121368077",
+          "publishedOn": "2023-05-04T14:22:27.000Z",
+          "wordCount": 513,
+          "title": "BNB Greenfield 存储网络主网将于 2023 年第三季度启动。BNB Greenfield 旨在为 BNB Chain 生态系统提供数据和存储层服务，将与托管在 BNB Chain 上的智能合约集...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654128201118158849",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/Polkadot/status/1654120518466019335\n\nPolkadot: 2/ Deloitte will leverage KILT’s reusable digital identity credentials to support its Know Your Customer / Know Your Business processes (KYC/KYB) - vital for protecting financial institutions against fraud, corruption, money laundering and terrorist financing.",
+          "link": "https://twitter.com/wublockchain12/status/1654128201118158849",
+          "publishedOn": "2023-05-04T14:17:50.000Z",
+          "wordCount": 513,
+          "title": "Re https://twitter.com/Polkadot/status/1654120518466019335",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654128199088115715",
+          "author": "吴说区块链",
+          "description": "吴说获悉，波卡宣布全球最大的会计师事务所德勤将使用基于波卡平行链的 KILT Protocol 以增强其身份协议，德勤将利用 KILT 的可重复使用的数字身份凭证来支持其 KYC/KYB。",
+          "link": "https://twitter.com/wublockchain12/status/1654128199088115715",
+          "publishedOn": "2023-05-04T14:17:49.000Z",
+          "wordCount": 513,
+          "title": "吴说获悉，波卡宣布全球最大的会计师事务所德勤将使用基于波卡平行链的 KILT Protocol 以增强其身份协议，德勤将利用 KILT 的可重复使用的数字身份凭证来支持其 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654124403876298753",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报 https://t.co/oJKkp67wyV",
+          "link": "https://twitter.com/wublockchain12/status/1654124403876298753",
+          "publishedOn": "2023-05-04T14:02:44.000Z",
+          "wordCount": 513,
+          "title": "吴说每日晚报 https://t.co/oJKkp67wyV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654123714370486286",
+          "author": "吴说区块链",
+          "description": "据 WSJ，欧洲央行如期加息 25 个基点，符合市场预期，该决定标志着欧洲央行连续第七次加息，并将其政策利率置于近 15 年来的高位，利率达 2008 年 10 月以来最高水平。投资者预计欧洲央行将在未来几个月继续加息，即使他们预计美联储会降息。\nhttps://www.wsj.com/articles/ecb-rate-decision-may-10d9e823",
+          "link": "https://twitter.com/wublockchain12/status/1654123714370486286",
+          "publishedOn": "2023-05-04T14:00:00.000Z",
+          "wordCount": 513,
+          "title": "据 WSJ，欧洲央行如期加息 25 个基点，符合市场预期，该决定标志着欧洲央行连续第七次加息，并将其政策利率置于近 15 年来的高位，利率达 2008 年 10 月以来最高...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654121316541415426",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Crypto Fees 数据，得益于近期 Ordinals Inscriptions 和 BRC-20 交易的火热，5 月 3 日 Bitcoin 链上网络费用捕获达 350 万美元，为自 2021 年 5 月下旬以来高点，同日超过了 Uniswap（232 万美元）仅次于 Ethereum（1723 万美元）。https://cryptofees.info/protocol/btc",
+          "link": "https://twitter.com/wublockchain12/status/1654121316541415426",
+          "publishedOn": "2023-05-04T13:50:28.000Z",
+          "wordCount": 513,
+          "title": "吴说获悉，据 Crypto Fees 数据，得益于近期 Ordinals Inscriptions 和 BRC-20 交易的火热，5 月 3 日 Bitcoin 链上网络费用捕获达 350 万美元，为自 2021 年 5 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654118651048644608",
+          "author": "吴说区块链",
+          "description": "Re 上述情况值得警惕，因为任何正伽马行权价格的突破都有可能立即放大市场波动，特别是处于历史最低水平 IV 的时期。https://twitter.com/Blofin_Academy/status/1654086431877500928?s=20\n\nBlofin Academy: The crypto market is approaching a gamma-neutral period. Whether it is BTC or ETH, there is a large amount of positive gamma in a narrow strike range close to the spot prices, while the positions of market makers are generally close to gamma neutral or have slightly positive… https://twitter.com/i/web/status/1654086431877500928 https://t.co/VSNgZdlbwQ",
+          "link": "https://twitter.com/wublockchain12/status/1654118651048644608",
+          "publishedOn": "2023-05-04T13:39:53.000Z",
+          "wordCount": 513,
+          "title": "Re 上述情况值得警惕，因为任何正伽马行权价格的突破都有可能立即放大市场波动，特别是处于历史最低水平 IV 的时期。https://twitter.com/Blofin_Academy/status...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1654118649006022662",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @Blofin_Academy，加密货币市场正在接近伽马（gamma）中性期。无论是 BTC 还是 ETH，在接近现货价格的狭窄行权区间内有大量的正伽马，而做市商的头寸一般接近于伽马中性或有轻微的正伽马。",
+          "link": "https://twitter.com/wublockchain12/status/1654118649006022662",
+          "publishedOn": "2023-05-04T13:39:52.000Z",
+          "wordCount": 513,
+          "title": "吴说获悉，据 @Blofin_Academy，加密货币市场正在接近伽马（gamma）中性期。无论是 BTC 还是 ETH，在接近现货价格的狭窄行权区间内有大量的正伽马，而做市商的头...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1654112156609298433",
           "author": "吴说区块链",
           "description": "据 CoinDesk 报道，OP 将引入以太坊证明服务 (EAS)，这是一个链上认证协议，允许用户评估平台用户的可信度，并证明区块链上是否确实发生了某件事，如一个人是否建立或参与了特定项目，一个人是否进行了盈利交易等。这可能会影响到 OP Token 的分配方式以及用户之间的互动方式。… https://twitter.com/i/web/status/1654112156609298433",
@@ -93,116 +203,6 @@
           "publishedOn": "2023-05-04T08:55:59.000Z",
           "wordCount": 513,
           "title": "Re 4月18日币安曾发布公告称“成功获取新地址”或“收到邮件满30天”后旧充值地址将过期，充值到旧地址的资金是安全的，但不会自动上账，需要在历史记录中再次操...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1654047205723103234",
-          "author": "吴说区块链",
-          "description": "吴说获悉，近期币安陆续发送邮件告知用户更新 TRC20 等地址，部分用户或误认为骚扰邮件，相互转账时请务必多次核对地址是否已更新。",
-          "link": "https://twitter.com/wublockchain12/status/1654047205723103234",
-          "publishedOn": "2023-05-04T08:55:59.000Z",
-          "wordCount": 513,
-          "title": "吴说获悉，近期币安陆续发送邮件告知用户更新 TRC20 等地址，部分用户或误认为骚扰邮件，相互转账时请务必多次核对地址是否已更新。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1654042952816287745",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安发文如何应对加密货币领域激增流量场景以防止系统过载，其主要采用峰值驱动，分析周期性峰值并使用它们来驱动容量轨迹，并嵌入到服务生命周期的每个阶段，包括测量、设置优先级、警报和容量报告等。阅读全文：https://www.binance.com/en/blog/ecosystem/ensuring-reliability-and-scalability-at-binance-the-role-of-capacity-management-and-automatic-load-testing-4549014559756022085?ref=LPUHG39I&utm_source=CZTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "link": "https://twitter.com/wublockchain12/status/1654042952816287745",
-          "publishedOn": "2023-05-04T08:39:05.000Z",
-          "wordCount": 513,
-          "title": "吴说获悉，币安发文如何应对加密货币领域激增流量场景以防止系统过载，其主要采用峰值驱动，分析周期性峰值并使用它们来驱动容量轨迹，并嵌入到服务生命周期的每...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1654037496693690369",
-          "author": "吴说区块链",
-          "description": "德克萨斯州和其他美国州的金融监管机构周三命令一家号称使用人工智能的加密货币“投资骗局”停止所有活动，它发布了名为 TruthGPT Coin (TRUTH) 的代币，代币使用了马斯克、赵长鹏以及以太坊创始人 Vitalik Buterin… https://twitter.com/i/web/status/1654037496693690369",
-          "link": "https://twitter.com/wublockchain12/status/1654037496693690369",
-          "publishedOn": "2023-05-04T08:17:24.000Z",
-          "wordCount": 513,
-          "title": "德克萨斯州和其他美国州的金融监管机构周三命令一家号称使用人工智能的加密货币“投资骗局”停止所有活动，它发布了名为 TruthGPT Coin (TRUTH) 的代币，代币使...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1654036288419540997",
-          "author": "吴说区块链",
-          "description": "尼日利亚政府周三批准了一项国家区块链政策，政策由联邦通信和数字经济部制定，政策文件尚未公开。联邦行政委员会指示像尼日利亚中央银行和证券交易委员会这样的监管机构“制定监管工具，以在经济各个领域推广”区块链技术。尼日利亚是世界上最快采用数字资产的国家之一，但其政府在 2021… https://twitter.com/i/web/status/1654036288419540997",
-          "link": "https://twitter.com/wublockchain12/status/1654036288419540997",
-          "publishedOn": "2023-05-04T08:12:36.000Z",
-          "wordCount": 513,
-          "title": "尼日利亚政府周三批准了一项国家区块链政策，政策由联邦通信和数字经济部制定，政策文件尚未公开。联邦行政委员会指示像尼日利亚中央银行和证券交易委员会这样的...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653990928099721216",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，OKX 发布此次事故原因“昨天 SUI 团队临时提出修改开盘时间，我们出现了操作错误，在部分交易模块中忘记修改开盘时间，从而触发了交易系统中的其他潜在bug。这导致我们花了很长时间来识别和修复错误。目前正在分析数据制定补偿方案。”\nhttps://twitter.com/okxchinese/status/1653979254080835584?s=20\n\nOKX中文: 关于事故的原因：昨天SUI团队临时提出修改开盘时间，我们出现了操作错误，在部分交易模块中忘记修改开盘时间，从而触发了交易系统中的其他潜在bug。这导致我们花了很长时间来识别和修复错误。再次向大家致以诚挚的歉意。目前正在分析数据制定补偿方案，具体内容以公告为准。感谢大家的耐心等待。 https://twitter.com/i/web/status/1653979254080835584",
-          "link": "https://twitter.com/wublockchain12/status/1653990928099721216",
-          "publishedOn": "2023-05-04T05:12:21.000Z",
-          "wordCount": 513,
-          "title": "Re 吴说获悉，OKX 发布此次事故原因“昨天 SUI 团队临时提出修改开盘时间，我们出现了操作错误，在部分交易模块中忘记修改开盘时间，从而触发了交易系统中的其他...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653990099099742208",
-          "author": "吴说区块链",
-          "description": "Re https://twitter.com/joinMovEX/status/1653958106907561985 https://twitter.com/Mysten_Labs/status/1653736194872856577\n\nMysten Labs: Now that @SuiNetwork Mainnet has officially launched (🥳), we’re excited to share that we’re launching two products, built on Sui:\n♦️Sui Wallet and Sui Explorer!\nhttps://twitter.com/SuiNetwork/status/1653731940107956225",
-          "link": "https://twitter.com/wublockchain12/status/1653990099099742208",
-          "publishedOn": "2023-05-04T05:09:03.000Z",
-          "wordCount": 513,
-          "title": "Re https://twitter.com/joinMovEX/status/1653958106907561985 https://twitter.com/Mysten_Labs/status/1653736194872856577",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653990097648517120",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Sui 上 DEX 项目 MovEX 获得 Mysten Labs 投资。Mysten Labs 是 Sui Network 的开发团队，在昨日主网启动时还宣布推出 Sui Wallet 和 Sui Explorer。前者是一款开源、自我托管的钱包，后者是主网浏览器。",
-          "link": "https://twitter.com/wublockchain12/status/1653990097648517120",
-          "publishedOn": "2023-05-04T05:09:03.000Z",
-          "wordCount": 513,
-          "title": "吴说获悉，Sui 上 DEX 项目 MovEX 获得 Mysten Labs 投资。Mysten Labs 是 Sui Network 的开发团队，在昨日主网启动时还宣布推出 Sui Wallet 和 Sui Explorer。...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653961695033970689",
-          "author": "吴说区块链",
-          "description": "Re 3、通过 UTXO 模型来确保在交易过程中没有重复消费，可以适当的解决双花问题；4、允许取消交易；5、允许已经部署的 BRC-20 币向 ORC-20 转移。其局限性在于：复杂、中心化、交易版税、路径依赖，并没有解决 BRC-20 的中心化问题，而是将其作为了竞争者。阅读全文：\nhttps://twitter.com/ohxiyu/status/1653947209887674369\n\nxiyu: 6⃣️\n这可以适当的解决双花问题，\n例如将 ID 为 1 的 10000 个 ORC 分为两个部分交易发送给接收地址。 每个交易必须具有唯一的 nonce。\n步骤1：通过记录发送事件到接收方，向接收地址发送 1000（nonce 为 5），",
-          "link": "https://twitter.com/wublockchain12/status/1653961695033970689",
-          "publishedOn": "2023-05-04T03:16:11.000Z",
-          "wordCount": 513,
-          "title": "Re 3、通过 UTXO 模型来确保在交易过程中没有重复消费，可以适当的解决双花问题；4、允许取消交易；5、允许已经部署的 BRC-20 币向 ORC-20 转移。其局限性在于：...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653961693364617216",
-          "author": "吴说区块链",
-          "description": "xiyu 对 ORC-20 代币解读：ORC-20  旨在取消 BRC-20 中只能用四字符作为币名、不能升级、双花风险、不能取消交易等限制，以增强比特币网络上的有序代币的功能，可向后兼容 BRC-20。改变内容包括：1、可以改变初始供应量和最大铸币量；2、命名空间没有固定限制，可以使用任意大小的名称；",
-          "link": "https://twitter.com/wublockchain12/status/1653961693364617216",
-          "publishedOn": "2023-05-04T03:16:11.000Z",
-          "wordCount": 513,
-          "title": "xiyu 对 ORC-20 代币解读：ORC-20 旨在取消 BRC-20 中只能用四字符作为币名、不能升级、双花风险、不能取消交易等限制，以增强比特币网络上的有序代币的功能，可...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653959152946020352",
-          "author": "吴说区块链",
-          "description": "吴说获悉，5月4日周四，标普全球公布的数据显示，中国4月财新制造业PMI为49.5，时隔两个月再度收缩，从3月份的荣枯分界点回落0.5个百分点。新订单量4月重现收缩，需求疲软导致用工量进一步下滑，就业指数降至三个月来最低。https://wallstreetcn.com/articles/3687928",
-          "link": "https://twitter.com/wublockchain12/status/1653959152946020352",
-          "publishedOn": "2023-05-04T03:06:05.000Z",
-          "wordCount": 513,
-          "title": "吴说获悉，5月4日周四，标普全球公布的数据显示，中国4月财新制造业PMI为49.5，时隔两个月再度收缩，从3月份的荣枯分界点回落0.5个百分点。新订单量4月重现收缩...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1653958437234151426",
-          "author": "吴说区块链",
-          "description": "Re 该分析基于一个包括 500 名大型零售交易员和34家加密货币交易所数十亿笔交易的数据集，发现这个基本上未受监管的资产类别正成为避税的主要手段。（Bloomberg） https://www.bloomberg.com/news/articles/2023-05-03/us-crypto-traders-avoiding-billions-in-tax-by-loss-harvesting?utm_campaign=socialflow-organic&utm_content=crypto&utm_medium=social&utm_source=twitter&leadSource=uverify%20wall",
-          "link": "https://twitter.com/wublockchain12/status/1653958437234151426",
-          "publishedOn": "2023-05-04T03:03:15.000Z",
-          "wordCount": 513,
-          "title": "Re 该分析基于一个包括 500 名大型零售交易员和34家加密货币交易所数十亿笔交易的数据集，发现这个基本上未受监管的资产类别正成为避税的主要手段。（Bloomberg...",
           "imageUrl": null
         }
       ]
@@ -522,11 +522,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1653523600551604224",
           "author": "链求君 | (C,C)",
-          "description": "真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776\n\n凉兮新号（原号30天后使用）: 我已在币coin和微博证明这个账号是凉兮，20万粉丝的账号还有20天可以使用，最近一直专心赚钱，这两个月会赚回几千万，按照我的仓位快的话半个月一千万，我之前的账号也一直在看空，网络上造谣p图我的太多了，我先建个小号，这周出视频回应一系列事情。转发评论此动态抽三个实盘订阅码、3000u一周内开奖 https://t.co/2OYz5exQoE",
+          "description": "真·凉兮 👇\n\n凉兮新号（原号30天后使用）: 我已在币coin和微博证明这个账号是凉兮，20万粉丝的账号还有20天可以使用，最近一直专心赚钱，这两个月会赚回几千万，按照我的仓位快的话半个月一千万，我之前的账号也一直在看空，网络上造谣p图我的太多了，我先建个小号，这周出视频回应一系列事情。转发评论此动态抽三个实盘订阅码、3000u一周内开奖 https://t.co/2OYz5exQoE",
           "link": "https://twitter.com/AntCaveClub/status/1653523600551604224",
           "publishedOn": "2023-05-02T22:15:22.000Z",
           "wordCount": 513,
-          "title": "真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776",
+          "title": "真·凉兮 👇",
           "imageUrl": null
         },
         {
@@ -572,11 +572,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1652208880385146880",
           "author": "链求君 | (C,C)",
-          "description": "LSD 超线程  \nLSDfi 是新的 DeFi。理解它（并玩得好）会让你早点退休。 🧐 https://twitter.com/GoneMultichain/status/1651872404707344385\n\nAntonio 🦇🔊: LSD MEGA-THREAD\nLSDfi is the new DeFi. Understanding it (and playing it well) will retire you early. 🧐\nI compiled a list of 26 Top Giga-brains  you should follow, so you cut through the noise. 🧠\nhttps://twitter.com/DefiLlama/status/1651309741132447745?s=20",
+          "description": "LSD 超线程  \nLSDfi 是新的 DeFi。理解它（并玩得好）会让你早点退休。 🧐\n\nAntonio 🦇🔊: LSD MEGA-THREAD\nLSDfi is the new DeFi. Understanding it (and playing it well) will retire you early. 🧐\nI compiled a list of 26 Top Giga-brains  you should follow, so you cut through the noise. 🧠\nhttps://twitter.com/DefiLlama/status/1651309741132447745?s=20",
           "link": "https://twitter.com/AntCaveClub/status/1652208880385146880",
           "publishedOn": "2023-04-29T07:11:08.000Z",
           "wordCount": 513,
-          "title": "LSD 超线程 LSDfi 是新的 DeFi。理解它（并玩得好）会让你早点退休。 🧐 https://twitter.com/GoneMultichain/status/1651872404707344385",
+          "title": "LSD 超线程 LSDfi 是新的 DeFi。理解它（并玩得好）会让你早点退休。 🧐",
           "imageUrl": null
         },
         {
@@ -824,13 +824,23 @@
       "siteUrl": "https://twitter.com/OnChainWizard",
       "articles": [
         {
+          "id": "https://twitter.com/OnChainWizard/status/1654125477802680326",
+          "author": "Onchain Wizard",
+          "description": "Re @3azima85 Not as fast but more extreme -> Safemoon went from zero to like $5bn in 10 weeks lol",
+          "link": "https://twitter.com/OnChainWizard/status/1654125477802680326",
+          "publishedOn": "2023-05-04T14:07:00.000Z",
+          "wordCount": 513,
+          "title": "Re @3azima85 Not as fast but more extreme -> Safemoon went from zero to like $5bn in 10 weeks lol",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/OnChainWizard/status/1654091358301200386",
           "author": "Onchain Wizard",
-          "description": "$PEPE +85% since lol\n\nOnchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week",
+          "description": "$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784\n\nOnchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968",
           "link": "https://twitter.com/OnChainWizard/status/1654091358301200386",
           "publishedOn": "2023-05-04T11:51:26.000Z",
           "wordCount": 513,
-          "title": "$PEPE +85% since lol",
+          "title": "$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784",
           "imageUrl": null
         },
         {
@@ -846,7 +856,7 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1653794087730806784",
           "author": "Onchain Wizard",
-          "description": "I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week\n\nHal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968",
+          "description": "I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968\n\nHal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968",
           "link": "https://twitter.com/OnChainWizard/status/1653794087730806784",
           "publishedOn": "2023-05-03T16:10:11.000Z",
           "wordCount": 513,
@@ -876,7 +886,7 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1653756044449927171",
           "author": "Onchain Wizard",
-          "description": "Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312\n\nOnchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   \nLet's dig in 👇",
+          "description": "Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312\n\nOnchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   \nLet's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832",
           "link": "https://twitter.com/OnChainWizard/status/1653756044449927171",
           "publishedOn": "2023-05-03T13:39:00.000Z",
           "wordCount": 513,
@@ -1004,19 +1014,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/OnChainWizard/status/1653697635075629057",
-          "author": "Onchain Wizard",
-          "description": "Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts.   If they have 2 or more very recent calls, you can use this Dune dashboard as a starting point.     \nhttps://dune.com/unexployed/Token-Overlap",
-          "link": "https://twitter.com/OnChainWizard/status/1653697635075629057",
-          "publishedOn": "2023-05-03T09:46:55.000Z",
-          "wordCount": 513,
-          "title": "Re Step #1 -> once you find the influencer you want to identify onchain, look through their TG and Twitter posts. If they have 2 or more very recent c...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/OnChainWizard/status/1653697633343373312",
           "author": "Onchain Wizard",
-          "description": "RT Onchain Wizard\nMemecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   \nLet's dig in 👇\n\nOnchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB",
+          "description": "RT Onchain Wizard\nMemecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   \nLet's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832\n\nOnchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB",
           "link": "https://twitter.com/OnChainWizard/status/1653697633343373312",
           "publishedOn": "2023-05-03T09:46:54.000Z",
           "wordCount": 513,
