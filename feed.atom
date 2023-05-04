@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T17:11:31.475Z</id>
+    <id>urn:2023-05-04T18:15:31.498Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T17:11:31.475Z</updated>
+    <updated>2023-05-04T18:15:31.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @blackjoker218 @FA40Ziv @wsbmod @ChainEDGE_io]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1654181782273548288</id>
+        <link href="https://twitter.com/OnChainWizard/status/1654181782273548288"/>
+        <updated>2023-05-04T17:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @blackjoker218 @FA40Ziv @wsbmod @ChainEDGE_io]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于 ZK 技术构建的跨链项目 ZkLink 在一轮战略融资中从包括 Coinbase Ventures 在内的一系列投资者那里筹集了 1000 万美元，筹款将有助于推动 zkLink 在第三季...]]></title>
         <id>https://twitter.com/wublockchain12/status/1654133118943789060</id>
@@ -630,16 +640,6 @@ https://dune.com/queries/1910245/3145737]]></summary>
         <link href="https://twitter.com/OnChainWizard/status/1653697638389145601"/>
         <updated>2023-05-03T09:46:55.000Z</updated>
         <summary type="html"><![CDATA[Re You can run the Dune dashboard for all "recent" calls where you believe the influencer still holds the token.   Then drop all the big cross-holders into excel, and start sorting through their activity on debank, etc]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both). From there, you can start digging through wallets. You are trying ...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1653697636648603651</id>
-        <link href="https://twitter.com/OnChainWizard/status/1653697636648603651"/>
-        <updated>2023-05-03T09:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Re Simply type in the 2 most recent tokens, filter by large balances (across both).   From there, you can start digging through wallets.   You are trying to match "call" activity vs. swap activity, so if the wallet you found does not touch the tokens discussed by influencer 🛑]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
