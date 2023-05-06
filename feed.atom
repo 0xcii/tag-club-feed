@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T05:11:15.802Z</id>
+    <id>urn:2023-05-06T06:15:10.459Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-06T05:11:15.802Z</updated>
+    <updated>2023-05-06T06:15:10.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1654704642691854338</id>
+        <link href="https://twitter.com/OnChainWizard/status/1654704642691854338"/>
+        <updated>2023-05-06T04:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 甚至超过 BTC 和 ETH 之和；合约交易量主要集中在 Binance，近 24 小时交易量超过 14 亿美元，站内仅次于 BTC 和 ETH。https://coinmarketcap.com/currencies...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654696304692588545</id>
+        <link href="https://twitter.com/wublockchain12/status/1654696304692588545"/>
+        <updated>2023-05-06T03:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Re 甚至超过 BTC 和 ETH 之和；合约交易量主要集中在 Binance，近 24 小时交易量超过 14 亿美元，站内仅次于 BTC 和 ETH。https://coinmarketcap.com/currencies/pepe/markets/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CMC 数据，自上线主流交易所首日，PEPE 近 24 小时现货交易量超过 27 亿美元，仅次于 USDT、BTC、ETH 和 USDC，其中 OKX 贡献了最大的交易量达 6.5...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654696302641557504</id>
+        <link href="https://twitter.com/wublockchain12/status/1654696302641557504"/>
+        <updated>2023-05-06T03:55:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CMC 数据，自上线主流交易所首日，PEPE 近 24 小时现货交易量超过 27 亿美元，仅次于 USDT、BTC、ETH 和 USDC，其中 OKX 贡献了最大的交易量达 6.5 亿美元。值得注意的是，PEPE 是近 24 小时 OKX 上以 USDT 计价的现货交易量最高的币种，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 警方表示这些网站为用户提供了加密货币的匿名交换。这些服务是为了帮助非法所得资金的合法化和洗钱提供支持。通过这些交易所，犯罪分子可以处理通过勒索软件...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654687015521366016</id>
+        <link href="https://twitter.com/wublockchain12/status/1654687015521366016"/>
+        <updated>2023-05-06T03:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 警方表示这些网站为用户提供了加密货币的匿名交换。这些服务是为了帮助非法所得资金的合法化和洗钱提供支持。通过这些交易所，犯罪分子可以处理通过勒索软件攻击和在线欺诈获得的资产。目前，警方正在查明与犯罪活动有关的人员。
+https://www.npu.gov.ua/news/natspolitsiia-spilno-z-fbr-likviduvala-merezhu-servisiv-dlia-obminu-kryptovaliuty-zdobutoi-zlochynnym-shliakhom]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，乌克兰国家警察 5 月 2 日发文称与美国 FBI 合作关闭了 9 个加密资产交换服务网站，包括：24xbtc，http://100btc.pro，pridechange，101crypta，uxbtc...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1654687013818474496</id>
+        <link href="https://twitter.com/wublockchain12/status/1654687013818474496"/>
+        <updated>2023-05-06T03:18:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，乌克兰国家警察 5 月 2 日发文称与美国 FBI 合作关闭了 9 个加密资产交换服务网站，包括：24xbtc，http://100btc.pro，pridechange，101crypta，uxbtc，http://trust-exchange.org，http://bitcoin24.exchange，http://paybtc.pro 和 http://owl.gold。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 此外，开发者们还对部分 Github PRs 进行讨论，如推进客户端多样化，提出了 MEV relays 控制区块何时广播的标准查询参数，这样所有客户端就能够在验证之后而...]]></title>
         <id>https://twitter.com/wublockchain12/status/1654684417665949698</id>
@@ -122,7 +173,7 @@ https://twitter.com/peckshield/status/1654626667787321344
 
 PeckShield Inc.: Hi @DeusDao: it appears to be a pubic burn vulnerability with loss > $1.3M alone at BSC. The ARB/ETH deployments are also affected.
 The BSC hack was successfully frontrun by a bot: https://bscscan.com/tx/0xde2c8718a9efd8db0eaf9d8141089a22a89bca7d1415d04c05ba107dc1a190c3
-The DEI token @ BSC was upgraded  on Apr-10-2023 https://twitter.com/DeusDao/status/1654614967084101633 https://t.co/C51CnVsg1B]]></summary>
+The DEI token @ BSC was upgraded  on Apr-10-2023 https://t.co/C51CnVsg1B]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -211,57 +262,15 @@ cygaar: Here are some fun facts about $PEPE's contract code, including the cur
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good thread. Job market still v strong https://twitter.com/irvingswisher/status/1654476288508190720]]></title>
+        <title type="html"><![CDATA[Good thread. Job market still v strong]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1654640676909219841</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1654640676909219841"/>
         <updated>2023-05-06T00:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Good thread. Job market still v strong https://twitter.com/irvingswisher/status/1654476288508190720
+        <summary type="html"><![CDATA[Good thread. Job market still v strong
 
 Skanda Amarnath: Just a remarkable jobs report on virtually all the metrics that should matter, especially if you look through the details. Gonna try to thread all my thoughts in one place this time around.]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 但 W&K 称 Wright 从未完全提供支付所需的个人信息，要求对其进行藐视法庭的诉讼并每天罚款25万美元。 https://storage.courtlistener.com/recap/gov.uscourt...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654634044146221057</id>
-        <link href="https://twitter.com/wublockchain12/status/1654634044146221057"/>
-        <updated>2023-05-05T23:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Re 但 W&K 称 Wright 从未完全提供支付所需的个人信息，要求对其进行藐视法庭的诉讼并每天罚款25万美元。
-https://storage.courtlistener.com/recap/gov.uscourts.flsd.521536/gov.uscourts.flsd.521536.973.0.pdf]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，自称是比特币创始人的 Craig Wright 因未能正确提供与1.43亿美元有争议的加密货币相关的信息，被美国地方法官 Bruce Reinhart 初步认定为藐视法庭。Ir...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654634041981935616</id>
-        <link href="https://twitter.com/wublockchain12/status/1654634041981935616"/>
-        <updated>2023-05-05T23:47:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，自称是比特币创始人的 Craig Wright 因未能正确提供与1.43亿美元有争议的加密货币相关的信息，被美国地方法官 Bruce Reinhart 初步认定为藐视法庭。Ira Kleiman 声称拥有其已故兄弟 David 开采的加密货币的所有权。2022年法官裁定 Kleiman 和其公司 W&K 胜诉。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 币安在声明中表示，其完全遵守所有美国和国际金融制裁。 https://www.bloomberg.com/news/articles/2023-05-05/binance-faces-us-probe-of-possible-russian-...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654632411152662530</id>
-        <link href="https://twitter.com/wublockchain12/status/1654632411152662530"/>
-        <updated>2023-05-05T23:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 币安在声明中表示，其完全遵守所有美国和国际金融制裁。
-https://www.bloomberg.com/news/articles/2023-05-05/binance-faces-us-probe-of-possible-russian-sanctions-violations?srnd=premium&leadSource=uverify%20wall]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，美国司法部正在调查币安是否被非法用来让俄罗斯人逃避美国制裁并通过币安转移资金。司法部国家安全部门正调查币安或公司管理人员是否违反了对俄制裁措...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1654632409458159616</id>
-        <link href="https://twitter.com/wublockchain12/status/1654632409458159616"/>
-        <updated>2023-05-05T23:41:22.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，美国司法部正在调查币安是否被非法用来让俄罗斯人逃避美国制裁并通过币安转移资金。司法部国家安全部门正调查币安或公司管理人员是否违反了对俄制裁措施。据知情人士透露，币安一直在与司法部进行讨论，以解决此前关于该交易所在强力合规规定出台前被用来规避对伊朗制裁的指控。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -509,11 +518,11 @@ https://www.bloomberg.com/news/articles/2023-05-05/binance-faces-us-probe-of-pos
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -532,12 +541,12 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aztec 又回来了，又有东西交互了 这次不是撸我们的了吧？]]></title>
+        <title type="html"><![CDATA[Aztec 又回来了，又有东西交互了 这次不是撸我们的了吧？ https://twitter.com/aztecnetwork/status/1654111991999631361]]></title>
         <id>https://twitter.com/8848Community/status/1654114029202468866</id>
         <link href="https://twitter.com/8848Community/status/1654114029202468866"/>
         <updated>2023-05-04T13:21:31.000Z</updated>
         <summary type="html"><![CDATA[Aztec 又回来了，又有东西交互了
-这次不是撸我们的了吧？
+这次不是撸我们的了吧？ https://twitter.com/aztecnetwork/status/1654111991999631361
 
 Aztec: Today we're proud to announce the next generation of our encrypted zkRollup with the same name that started it all:
 Aztec.
@@ -608,13 +617,13 @@ It's Ethereum, encrypted.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784]]></title>
+        <title type="html"><![CDATA[$PEPE +85% since lol]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
         <updated>2023-05-04T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784
+        <summary type="html"><![CDATA[$PEPE +85% since lol
 
-Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968]]></summary>
+Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -663,13 +672,13 @@ In Nov 2022 he messaged me
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ok this is pretty cool. Defi getting real consumer adoption. https://twitter.com/haydenzadams/status/1653831397415460871]]></title>
+        <title type="html"><![CDATA[Ok this is pretty cool. Defi getting real consumer adoption.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1653907089884958721</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1653907089884958721"/>
         <updated>2023-05-03T23:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Ok this is pretty cool. Defi getting real consumer adoption. https://twitter.com/haydenzadams/status/1653831397415460871
+        <summary type="html"><![CDATA[Ok this is pretty cool. Defi getting real consumer adoption.
 
-hayden.eth 🦄: .@Uniswap climbing the App Store rankings like SBF could never in league https://twitter.com/haydenzadams/status/1653807959024054277 https://t.co/TPi8dRQCVM]]></summary>
+hayden.eth 🦄: .@Uniswap climbing the App Store rankings like SBF could never in league https://t.co/TPi8dRQCVM]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -711,7 +720,7 @@ Banks go under regularly every business cycle. Just part of the business cycle i
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
-I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -723,7 +732,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <id>https://twitter.com/OnChainWizard/status/1653794087730806784</id>
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -761,15 +770,15 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$1T of liquidity draw incooooming? Phew lads https://twitter.com/inartecarlodoss/status/1653748515930030086]]></title>
+        <title type="html"><![CDATA[$1T of liquidity draw incooooming? Phew lads]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1653767608452239360</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1653767608452239360"/>
         <updated>2023-05-03T14:24:58.000Z</updated>
-        <summary type="html"><![CDATA[$1T of liquidity draw incooooming? Phew lads https://twitter.com/inartecarlodoss/status/1653748515930030086
+        <summary type="html"><![CDATA[$1T of liquidity draw incooooming? Phew lads
 
 KKGB Kitty: No. 
 1- if TGA is refilled through RRP (unclear) it would be net liquidity neutral 
-2- Odds are largely through Reserve drawdown with a +/- flat RRP which would be a double negative on net liquidity https://twitter.com/fedguy12/status/1653741424251387904]]></summary>
+2- Odds are largely through Reserve drawdown with a +/- flat RRP which would be a double negative on net liquidity]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -803,7 +812,7 @@ gm, post your EVM address 👇]]></summary>
         <summary type="html"><![CDATA[Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312
 
 Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]></summary>
+Let's dig in 👇]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -826,7 +835,7 @@ Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -895,23 +904,13 @@ https://dune.com/queries/1910245/3145737]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Use a function like sort for "unique records only" and then you should be getting close, especially if you have a lot of token calls included. Then...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1653697643263016961</id>
-        <link href="https://twitter.com/OnChainWizard/status/1653697643263016961"/>
-        <updated>2023-05-03T09:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Re Use a function like sort for "unique records only" and then you should be getting close, especially if you have a lot of token calls included.    Then comb through each wallet until you think you've found the influencer wallet.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon? Instead, use my simple process to find influencer wallets (which is h...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1653697633343373312</id>
         <link href="https://twitter.com/OnChainWizard/status/1653697633343373312"/>
         <updated>2023-05-03T09:46:54.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
 Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
+Let's dig in 👇
 
 Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
         <author>
@@ -929,11 +928,11 @@ Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winner
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[整理得不错。值得分享]]></title>
+        <title type="html"><![CDATA[整理得不错。值得分享 https://twitter.com/FEIlXIE/status/1653349666313093122]]></title>
         <id>https://twitter.com/8848Community/status/1653692424966017025</id>
         <link href="https://twitter.com/8848Community/status/1653692424966017025"/>
         <updated>2023-05-03T09:26:12.000Z</updated>
-        <summary type="html"><![CDATA[整理得不错。值得分享
+        <summary type="html"><![CDATA[整理得不错。值得分享 https://twitter.com/FEIlXIE/status/1653349666313093122
 
 FEI | 0xKEY: Sui的开发团队 @Mysten_Labs 昨天公布了游戏类的官方合作伙伴，涉及二十多款游戏，鉴于目前并未正式公布具体的游戏名称，为大家找到了其中18款，喜欢肝游戏的提前关注起来，走起~
 #Sui #MystenLabs #Web3games https://t.co/TLTmI9leNL]]></summary>
@@ -1091,11 +1090,11 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776]]></title>
+        <title type="html"><![CDATA[真·凉兮 👇]]></title>
         <id>https://twitter.com/AntCaveClub/status/1653523600551604224</id>
         <link href="https://twitter.com/AntCaveClub/status/1653523600551604224"/>
         <updated>2023-05-02T22:15:22.000Z</updated>
-        <summary type="html"><![CDATA[真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776
+        <summary type="html"><![CDATA[真·凉兮 👇
 
 凉兮新号（原号30天后使用）: 我已在币coin和微博证明这个账号是凉兮，20万粉丝的账号还有20天可以使用，最近一直专心赚钱，这两个月会赚回几千万，按照我的仓位快的话半个月一千万，我之前的账号也一直在看空，网络上造谣p图我的太多了，我先建个小号，这周出视频回应一系列事情。转发评论此动态抽三个实盘订阅码、3000u一周内开奖 https://t.co/2OYz5exQoE]]></summary>
         <author>
@@ -1114,11 +1113,11 @@ I just burned a million to tell you they're printing trillions. https://t.co/pX5
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[值得一读]]></title>
+        <title type="html"><![CDATA[值得一读 https://twitter.com/raycat2021/status/1653399962720571394]]></title>
         <id>https://twitter.com/8848Community/status/1653444721749151744</id>
         <link href="https://twitter.com/8848Community/status/1653444721749151744"/>
         <updated>2023-05-02T17:01:55.000Z</updated>
-        <summary type="html"><![CDATA[值得一读
+        <summary type="html"><![CDATA[值得一读 https://twitter.com/raycat2021/status/1653399962720571394
 
 徐老猫: Zappos创始人谢家华生命的最后几个月，在他与世隔绝的豪宅里，到底发生了什么？
 有两位记者撰写《奇迹男孩：谢家华、Zappos和硅谷幸福生活的神话》，做了详尽复原，同名影片也在拍摄中。
@@ -1190,7 +1189,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1213,15 +1212,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1270,12 +1269,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
@@ -1344,12 +1343,12 @@ JUST IN: 🇺🇸 US Congressman introduces bill to restructure the SEC and fire
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx]]></title>
+        <title type="html"><![CDATA[Update: Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx]]></title>
         <id>https://twitter.com/DeFi_educator/status/1648386893082402818</id>
         <link href="https://twitter.com/DeFi_educator/status/1648386893082402818"/>
         <updated>2023-04-18T18:03:55.000Z</updated>
         <summary type="html"><![CDATA[Update: 
-Final stages of the disbelief rally. https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/Ya3XlGAsLx
+Final stages of the disbelief rally. https://t.co/Ya3XlGAsLx
 
 
 DeFi Educator: Where do you think we are in the cycle?
@@ -1367,7 +1366,7 @@ Next stop: Depression https://t.co/odNiEm2IZy]]></summary>
         <summary type="html"><![CDATA[Re @Route2FI Final stages of the disbelief rally. Up, shake-out, then more up. 
 https://twitter.com/defi_educator/status/1629563703837306882?s=46&t=cM-600GJga7XNxddNsm-Pw
 
-DeFi Educator: Update https://twitter.com/DeFi_educator/status/1569737022457221121 https://t.co/AZTxTlJq9i]]></summary>
+DeFi Educator: Update https://t.co/AZTxTlJq9i]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
