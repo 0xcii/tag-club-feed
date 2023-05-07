@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T14:10:35.019Z</id>
+    <id>urn:2023-05-07T15:12:11.355Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-07T14:10:35.019Z</updated>
+    <updated>2023-05-07T15:12:11.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 随着各大交易所陆续上线 BRC20 Token，可能将加剧比特币网络的拥堵。https://mempool.space/ & https://dune.com/dgtl_assets/bitcoin-ordinals-analysis htt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655210211702104064</id>
+        <link href="https://twitter.com/wublockchain12/status/1655210211702104064"/>
+        <updated>2023-05-07T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 随着各大交易所陆续上线 BRC20 Token，可能将加剧比特币网络的拥堵。https://mempool.space/ & https://dune.com/dgtl_assets/bitcoin-ordinals-analysis https://t.co/vOXMR7ktcQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 mempool 数据，由于 Inscription 和 BRC-20 的火热，当前 Bitcoin 网络上有超过 40 万笔交易待确认，创下历史新高，此外内存使用量超过 300 MB 达...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655210209537851392</id>
+        <link href="https://twitter.com/wublockchain12/status/1655210209537851392"/>
+        <updated>2023-05-07T13:57:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 mempool 数据，由于 Inscription 和 BRC-20 的火热，当前 Bitcoin 网络上有超过 40 万笔交易待确认，创下历史新高，此外内存使用量超过 300 MB 达到了 1 GB，高优先级高达 220 聪/字节。@bcrypt5 数据面板显示，本日 Bitcoin Ordinals 支付的费用再创新高达 68 BTC。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/FanLUMIrP5]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655209538767958018</id>
+        <link href="https://twitter.com/wublockchain12/status/1655209538767958018"/>
+        <updated>2023-05-07T13:54:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/FanLUMIrP5]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @kareem_carr Thank you Mr Harvard PhD for making me a little stupider after reading ur thread]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655184872116199425</id>
@@ -23,16 +53,6 @@
         <summary type="html"><![CDATA[Re @0xrelied Phew]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @liangxiedgzy 凉总，有空可以看看币圈新闻。👇 https://antcave.club/hotnews/]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1655183365719609344</id>
-        <link href="https://twitter.com/AntCaveClub/status/1655183365719609344"/>
-        <updated>2023-05-07T12:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @liangxiedgzy 凉总，有空可以看看币圈新闻。👇 https://antcave.club/hotnews/]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
@@ -197,13 +217,13 @@ https://bscscan.com/tx/0xaf36db5220aed57cd8025761c6d7e82964247a6e7f6832cff84e4e7
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#wen @GMX_IO mobile app 👀]]></title>
+        <title type="html"><![CDATA[#wen @GMX_IO mobile app 👀 https://twitter.com/defisurfer808/status/1653907089884958721]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655039138364637185</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1655039138364637185"/>
         <updated>2023-05-07T02:37:34.000Z</updated>
-        <summary type="html"><![CDATA[#wen @GMX_IO mobile app 👀
+        <summary type="html"><![CDATA[#wen @GMX_IO mobile app 👀 https://twitter.com/defisurfer808/status/1653907089884958721
 
-DeFi Surfer: Ok this is pretty cool. Defi getting real consumer adoption.]]></summary>
+DeFi Surfer: Ok this is pretty cool. Defi getting real consumer adoption. https://twitter.com/haydenzadams/status/1653831397415460871]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -229,11 +249,11 @@ DeFi Surfer: Ok this is pretty cool. Defi getting real consumer adoption.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interesting observation]]></title>
+        <title type="html"><![CDATA[Interesting observation https://twitter.com/santiagoaufund/status/1654840259476168705]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655030603807354880</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1655030603807354880"/>
         <updated>2023-05-07T02:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Interesting observation
+        <summary type="html"><![CDATA[Interesting observation https://twitter.com/santiagoaufund/status/1654840259476168705
 
 Santiago Capital: Once understand that in debt based monetary system, deflation is bigger threat to Govs existence than inflation, & understand exporting with weak currency is easier than with strong currency, you will understand why no matter how much US prints, ROW will need to print even more.]]></summary>
         <author>
@@ -274,37 +294,6 @@ https://twitter.com/DeusDao/status/1654904850147147776
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 blocksbridge，在 2022 年下半年的大部分时间里，上市矿企一直在出售超过挖矿所得 100% 的比特币，但在 3 月份下降至 100% 以下，在 4 月份进一步...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655018362957877248</id>
-        <link href="https://twitter.com/wublockchain12/status/1655018362957877248"/>
-        <updated>2023-05-07T01:15:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 blocksbridge，在 2022 年下半年的大部分时间里，上市矿企一直在出售超过挖矿所得 100% 的比特币，但在 3 月份下降至 100% 以下，在 4 月份进一步下降至 95%。目前已有10家比特币挖矿上市公司发布 4 月份的月度更新，算力达 58.6 EH/s，占上个月比特币区块奖励的 17.1%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，英国金融行为监管局（FCA）对非法加密 ATM 运营商采取行动，称它们构成洗钱威胁。FCA 执法和市场监督执行董事 Therese Chambers 表示，未经 FCA 注册...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655013985492815873</id>
-        <link href="https://twitter.com/wublockchain12/status/1655013985492815873"/>
-        <updated>2023-05-07T00:57:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，英国金融行为监管局（FCA）对非法加密 ATM 运营商采取行动，称它们构成洗钱威胁。FCA 执法和市场监督执行董事 Therese Chambers 表示，未经 FCA 注册的加密 ATM 是非法的。目前，英国有 17 台加密货币 ATM，与 2022 年的 81 台 ATM 相比，其数量急剧下降。
-https://cryptoslate.com/uks-fca-takes-action-against-illegal-crypto-atm-operators/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ICO、理财等涉嫌非法筹集资金、发行证券、发售代币票券等涉众性经济犯罪应中止审理、将犯罪线索移送侦查机关。阅读全文：https://www.wu-talk.com/index.php?...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655012897481957376</id>
-        <link href="https://twitter.com/wublockchain12/status/1655012897481957376"/>
-        <updated>2023-05-07T00:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Re ICO、理财等涉嫌非法筹集资金、发行证券、发售代币票券等涉众性经济犯罪应中止审理、将犯罪线索移送侦查机关。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=10&id=14038]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Larryjamieson_ Growth investors get all the chicks it’s true]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655006847374438403</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1655006847374438403"/>
@@ -315,12 +304,12 @@ https://cryptoslate.com/uks-fca-takes-action-against-illegal-crypto-atm-operator
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT BowTiedBull - Read Pinned Tweet or NGMI: People are complaining that people are still using the network during a bear market.]]></title>
+        <title type="html"><![CDATA[RT BowTiedBull - Read Pinned Tweet or NGMI: People are complaining that people are still using the network during a bear market. https://twitter.com/d...]]></title>
         <id>https://twitter.com/BowTiedBull/status/1654993081970696194</id>
         <link href="https://twitter.com/BowTiedBull/status/1654993081970696194"/>
         <updated>2023-05-06T23:34:33.000Z</updated>
         <summary type="html"><![CDATA[RT BowTiedBull - Read Pinned Tweet or NGMI
-People are complaining that people are still using the network during a bear market.
+People are complaining that people are still using the network during a bear market. https://twitter.com/defisurfer808/status/1654956466921414656
 
 DeFi Surfer: People complaining about fees now just wait until $eth is at $20k lol]]></summary>
         <author>
@@ -338,12 +327,12 @@ DeFi Surfer: People complaining about fees now just wait until $eth is at $20k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT ntoowm: Listening to @DeFiSurfer808 on @FlywheelDeFi podcast. Cool podcast even cooler he’s a man of his word.]]></title>
+        <title type="html"><![CDATA[RT ntoowm: Listening to @DeFiSurfer808 on @FlywheelDeFi podcast. Cool podcast even cooler he’s a man of his word. https://twitter.com/bowtiedbull/sta...]]></title>
         <id>https://twitter.com/ntoowm/status/1654966499889610752</id>
         <link href="https://twitter.com/ntoowm/status/1654966499889610752"/>
         <updated>2023-05-06T21:48:56.000Z</updated>
         <summary type="html"><![CDATA[RT ntoowm
-Listening to @DeFiSurfer808 on @FlywheelDeFi podcast. Cool podcast even cooler he’s a man of his word.
+Listening to @DeFiSurfer808 on @FlywheelDeFi podcast. Cool podcast even cooler he’s a man of his word. https://twitter.com/bowtiedbull/status/1654878934620684289
 
 BowTiedBull - Read Pinned Tweet or NGMI: The bet is finalized and @DeFiSurfer808 is a man of his word he paid it out
 +1 ETH to jungle treasury 
@@ -435,12 +424,12 @@ this is how you create a memecoin in 27s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is there any reason tech should be mean reverting? Dude sees peak, I see a trend. https://t.co/EHp6gm6cyV]]></title>
+        <title type="html"><![CDATA[Is there any reason tech should be mean reverting? Dude sees peak, I see a trend. https://twitter.com/tavicosta/status/1654850076995645440 https://t.c...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1654851473291845632</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1654851473291845632"/>
         <updated>2023-05-06T14:11:51.000Z</updated>
         <summary type="html"><![CDATA[Is there any reason tech should be mean reverting?
-Dude sees peak, I see a trend. https://t.co/EHp6gm6cyV
+Dude sees peak, I see a trend. https://twitter.com/tavicosta/status/1654850076995645440 https://t.co/EHp6gm6cyV
 
 
 Otavio (Tavi) Costa: This analysis should be in everyone's mind.
@@ -463,11 +452,11 @@ As shown in the chart below, the ratio between tech stocks and the S&P 500 is no
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As long as they can hold the securities and loans to maturity everything is fine 😳 https://t.co/87qB2Cl2n6]]></title>
+        <title type="html"><![CDATA[As long as they can hold the securities and loans to maturity everything is fine 😳 https://twitter.com/watcherguru/status/1654843448602525696 https...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1654848001653841920</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1654848001653841920"/>
         <updated>2023-05-06T13:58:03.000Z</updated>
-        <summary type="html"><![CDATA[As long as they can hold the securities and loans to maturity everything is fine 😳 https://t.co/87qB2Cl2n6
+        <summary type="html"><![CDATA[As long as they can hold the securities and loans to maturity everything is fine 😳 https://twitter.com/watcherguru/status/1654843448602525696 https://t.co/87qB2Cl2n6
 
 
 Watcher.Guru: 722 US banks reported unrealised losses exceeding 50% of capital.]]></summary>
@@ -1127,6 +1116,16 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
         <link href="https://twitter.com/AntCaveClub/status/1653589598457696257"/>
         <updated>2023-05-03T02:37:37.000Z</updated>
         <summary type="html"><![CDATA[昨天，IBM 宣布计划用 AI 取代 7800 个工作岗位。  许多其他公司将效仿。  您现在应该学习和利用 AI 来做好准备。  以下是关于 AI 的 6 大免费课程：]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1653523600551604224</id>
+        <link href="https://twitter.com/AntCaveClub/status/1653523600551604224"/>
+        <updated>2023-05-02T22:15:22.000Z</updated>
+        <summary type="html"><![CDATA[真·凉兮 👇 https://twitter.com/liangxiedgzy/status/1653338246859083776]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
