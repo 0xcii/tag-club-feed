@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T02:30:53.900Z</id>
+    <id>urn:2023-05-09T03:14:34.689Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-09T02:30:53.900Z</updated>
+    <updated>2023-05-09T03:14:34.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re SBF 面临13项刑事指控，包括共谋违反竞选财务法和贿赂中国官员。https://www.reuters.com/legal/indicted-ftx-founder-sam-bankman-fried-urges-court-toss-c...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655767005566476289</id>
+        <link href="https://twitter.com/wublockchain12/status/1655767005566476289"/>
+        <updated>2023-05-09T02:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Re SBF 面临13项刑事指控，包括共谋违反竞选财务法和贿赂中国官员。https://www.reuters.com/legal/indicted-ftx-founder-sam-bankman-fried-urges-court-toss-charges-2023-05-09/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社，SBF 在周一要求美国法官驳回对他涉及破产的 FTX 崩溃而提出的刑事指控，SBF 的律师表示，其中一些指控没有正确说明罪行。检方将于 5 月 29 日前对 SBF...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655767003599360001</id>
+        <link href="https://twitter.com/wublockchain12/status/1655767003599360001"/>
+        <updated>2023-05-09T02:49:50.000Z</updated>
+        <summary type="html"><![CDATA[据路透社，SBF 在周一要求美国法官驳回对他涉及破产的 FTX 崩溃而提出的刑事指控，SBF 的律师表示，其中一些指控没有正确说明罪行。检方将于 5 月 29 日前对 SBF 的驳回请求作出回应，美国地区法官 Lewis Kaplan 将于6月15日听取辩论。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 但也表示许多钓鱼已工程化，一旦钓走签名，立马快速上链，盗取目标资产，取消签名一般是来不及的。 https://twitter.com/evilcos/status/1655746443070832640]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655751865525760000</id>
+        <link href="https://twitter.com/wublockchain12/status/1655751865525760000"/>
+        <updated>2023-05-09T01:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 但也表示许多钓鱼已工程化，一旦钓走签名，立马快速上链，盗取目标资产，取消签名一般是来不及的。
+https://twitter.com/evilcos/status/1655746443070832640
+
+Cos(余弦)😶‍🌫️: 还有一点，其实许多钓鱼都工程化很成熟了，一旦钓走你的签名，立马就会自动利用，快速上链，盗取目标资产。
+所以，从概率上你用取消签名这个功能是来不及的。但都说了，这不以防万一？我就遇到有朋友这样“抢跑”成功的…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Token 权限查询工具 http://Revoke.cash 新增签名仪表板，支持用户查看并取消已有签名。对此，慢雾创始人余弦发推表示，若怀疑自己不小心在钓鱼网站签...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655751863575396352</id>
+        <link href="https://twitter.com/wublockchain12/status/1655751863575396352"/>
+        <updated>2023-05-09T01:49:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Token 权限查询工具 http://Revoke.cash 新增签名仪表板，支持用户查看并取消已有签名。对此，慢雾创始人余弦发推表示，若怀疑自己不小心在钓鱼网站签名了内容，用户就可以尽快取消签名，仅需要消耗点 Gas，就可避免了潜在的签名钓鱼风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前 Voyager 已向破产法庭提交了清算程序，一旦清算程序获得批准，将尽快开放平台，加密货币转移窗口将在 Voyager 平台重新开放 30 天后关闭。 https://www....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655741740886953987</id>
+        <link href="https://twitter.com/wublockchain12/status/1655741740886953987"/>
+        <updated>2023-05-09T01:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前 Voyager 已向破产法庭提交了清算程序，一旦清算程序获得批准，将尽快开放平台，加密货币转移窗口将在 Voyager 平台重新开放 30 天后关闭。
+https://www.investvoyager.com/blog/update-on-initial-recoveries/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，加密借贷平台 Voyager 发布关于客户初步赔偿的更新，其中 Voyager 现拥有 13.34 亿美元的资产，相当于客户对 Voyager 资产索赔总价值的 75.68%，客户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1655741738441637889</id>
+        <link href="https://twitter.com/wublockchain12/status/1655741738441637889"/>
+        <updated>2023-05-09T01:09:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，加密借贷平台 Voyager 发布关于客户初步赔偿的更新，其中 Voyager 现拥有 13.34 亿美元的资产，相当于客户对 Voyager 资产索赔总价值的 75.68%，客户将获得估计为其索赔金额 35.72% 的初步赔偿。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ecommerceshares Gross profit more informative than revenue for pypl]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655741391077515265</id>
@@ -176,26 +241,6 @@ Coinbase Assets 🛡️: Asset added to the roadmap today: Sui (SUI) https://w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://paxful.com/zh/sign-up-transition]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655724536606920704</id>
-        <link href="https://twitter.com/wublockchain12/status/1655724536606920704"/>
-        <updated>2023-05-09T00:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Re https://paxful.com/zh/sign-up-transition]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，P2P 比特币交易所 Paxful 暂停后恢复上线。目前，Paxful 由一位特拉华州的律师运营。首席执行官 Youssef 表示由于美国法律的不确定性，Paxful 已于 11...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655724419699060737</id>
-        <link href="https://twitter.com/wublockchain12/status/1655724419699060737"/>
-        <updated>2023-05-09T00:00:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，P2P 比特币交易所 Paxful 暂停后恢复上线。目前，Paxful 由一位特拉华州的律师运营。首席执行官 Youssef 表示由于美国法律的不确定性，Paxful 已于 11 月决定解散公司。此前，成立于 2015 年的 Paxful 因担心客户资金安全问题于 4 月关闭。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @resdegen Kauai?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1655721220283703297</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1655721220283703297"/>
@@ -290,50 +335,6 @@ Jeff Liang: The craze for Pepe and Ordinal, like this, has happened in the pas
 🤠]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interlay 的创始人 Alexei Zamyatin 提议推出 BRC-21 标准，以向比特币网络上引入完全去中心化的跨链资产，并在闪电网络中使用它们。BRC-21 标准提供了一种在比...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655590366815371266</id>
-        <link href="https://twitter.com/wublockchain12/status/1655590366815371266"/>
-        <updated>2023-05-08T15:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Interlay 的创始人 Alexei Zamyatin 提议推出 BRC-21 标准，以向比特币网络上引入完全去中心化的跨链资产，并在闪电网络中使用它们。BRC-21 标准提供了一种在比特币网络上铸造 BRC-20 版本 ETH、DAI 等其他链上资产的可能性。（编译：星球日报）https://www.odaily.news/post/5186935]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 储蓄 DAI (sDAI) 通过 Spark Lend，用户现在可以使用自动连接到 Dai 储蓄率模块。https://twitter.com/MakerDAO/status/1655575088547127311]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655583692100698115</id>
-        <link href="https://twitter.com/wublockchain12/status/1655583692100698115"/>
-        <updated>2023-05-08T14:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Re 储蓄 DAI (sDAI) 通过 Spark Lend，用户现在可以使用自动连接到 Dai 储蓄率模块。https://twitter.com/MakerDAO/status/1655575088547127311
-
-Maker: Announcing the Spark Protocol launch ⚡️
-Starting May 9, 2023, Spark Protocol will be available to all DeFi users.
-An end-user, DAI-centered DeFi product deployed on Ethereum with supply and borrow features for ETH, stETH, DAI, and sDAI. https://t.co/oLa8oeBmL1]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，MakerDAO 宣布 Spark Protocol 启动，Spark Lend 是一个专门为提供和借用加密货币而设计的借贷市场，将 Maker 的流动性与完整的 DeFi 解决方案连接起...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655583652955275269</id>
-        <link href="https://twitter.com/wublockchain12/status/1655583652955275269"/>
-        <updated>2023-05-08T14:41:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，MakerDAO 宣布 Spark Protocol 启动，Spark Lend 是一个专门为提供和借用加密货币而设计的借贷市场，将 Maker 的流动性与完整的 DeFi 解决方案连接起来。通过 Spark Lend，由于 Maker 直接注入流动性，用户现在可以以 1.11% 的初始年利率借入 DAI。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/KgzImBwqci]]></title>
-        <id>https://twitter.com/wublockchain12/status/1655579283442597895</id>
-        <link href="https://twitter.com/wublockchain12/status/1655579283442597895"/>
-        <updated>2023-05-08T14:23:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/KgzImBwqci]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
