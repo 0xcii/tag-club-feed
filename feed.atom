@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T22:14:11.782Z</id>
+    <id>urn:2023-05-10T23:13:51.438Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T22:14:11.782Z</updated>
+    <updated>2023-05-10T23:13:51.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,6 +116,19 @@ https://tether.to/en/tethers-latest-q1-2023-assurance-report-shows-reserves-surp
 https://www.bloomberg.com/news/articles/2023-05-10/uae-s-royal-group-shorts-us-stocks-on-global-recession-fears?leadSource=uverify%20wall]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Cope: He's made 238,000 attacks against 106,000 victims and earned $34 million in profits How JaredFromSubway.eth is eating your sandwich: https://...]]></title>
+        <id>https://twitter.com/Timccopeland/status/1656294609939488771</id>
+        <link href="https://twitter.com/Timccopeland/status/1656294609939488771"/>
+        <updated>2023-05-10T13:46:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Cope
+He's made 238,000 attacks against 106,000 victims and earned $34 million in profits
+How JaredFromSubway.eth is eating your sandwich:
+https://www.theblock.co/post/230218/jaredfromsubway-mev-bot]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1145,17 +1158,6 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <link href="https://twitter.com/OnChainWizard/status/1653697648489123842"/>
         <updated>2023-05-03T09:46:58.000Z</updated>
         <summary type="html"><![CDATA[Re Now that you have their wallet, you can set up alerts on their address, and buy things before they shill it, and sell when they sell.    But going one step further, you can drop their address into Arkham or Breadcrumbs to find their other wallets as well]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1653697646710648835</id>
-        <link href="https://twitter.com/OnChainWizard/status/1653697646710648835"/>
-        <updated>2023-05-03T09:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Re Also, a faster way vs. etherscan downloads would be to use a query like the below from @defi_mochi, fork it, increase the amount of trades you want displayed, filter for the time period you want and then download into excel + keep sorting uniques.   
-https://dune.com/queries/1910245/3145737]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
