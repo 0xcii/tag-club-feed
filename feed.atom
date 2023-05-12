@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T09:12:52.009Z</id>
+    <id>urn:2023-05-12T10:13:54.809Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T09:12:52.009Z</updated>
+    <updated>2023-05-12T10:13:54.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据彭博社援引Kaiko数据，截至5月6日，币安在现货交易量中所占份额从之前的73%下降至51%，主要受其 3 月 22 日取消零费用促销的影响。OKX所占比例从5%...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656954584806608897</id>
+        <link href="https://twitter.com/wublockchain12/status/1656954584806608897"/>
+        <updated>2023-05-12T09:28:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据彭博社援引Kaiko数据，截至5月6日，币安在现货交易量中所占份额从之前的73%下降至51%，主要受其 3 月 22 日取消零费用促销的影响。OKX所占比例从5%上升至9%。韩国平台的市场份额也有所增加，从不到8％增长到近14％。https://www.bloomberg.com/news/articles/2023-05-12/drop-in-binance-s-crypto-dominance-boosts-rival-exchanges-huobi-and-okx https://t.co/fEmJs6E8ip]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 宣布推出空投交互平台 Cryptopedia，声称将于各大项目密切合作，制定链上交互任务，帮助用户识别和执行正确的交互方式，以获得潜在空投和更多奖励...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656946192507613184</id>
+        <link href="https://twitter.com/wublockchain12/status/1656946192507613184"/>
+        <updated>2023-05-12T08:55:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 宣布推出空投交互平台 Cryptopedia，声称将于各大项目密切合作，制定链上交互任务，帮助用户识别和执行正确的交互方式，以获得潜在空投和更多奖励，首期选择 zkSync Era 作为交互主题。此前币安也宣布推出空投门户专属页面，提供币安支持的空投概览和相关信息。
+https://www.okx.com/cn/help-center/okx-wallet-launches-cryptopedia-a-one-stop-dapp-exploration-and-airdrop]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 WSJ 报道，马斯克聘请的 Twitter 新 CEO 是 NBCUniversal 的广告主管 Linda Yaccarino，其管理着大约 130 亿美元的年度广告收入，以与营销人员和广告代理...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656946183988973568</id>
+        <link href="https://twitter.com/wublockchain12/status/1656946183988973568"/>
+        <updated>2023-05-12T08:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 WSJ 报道，马斯克聘请的 Twitter 新 CEO 是 NBCUniversal 的广告主管 Linda Yaccarino，其管理着大约 130 亿美元的年度广告收入，以与营销人员和广告代理商的密切关系而闻名。https://www.wsj.com/articles/linda-yaccarino-in-talks-new-twitter-ceo-elon-musk-7a006bb5]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，开源 L1应用程序平台Lisk联创 Max Kordek 发推表示，Lisk基金会将在未来10周内将1000 BTC兑换成ETH，并将其作为长期储备资产持有，具体每周将卖出100 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656943209313099777</id>
+        <link href="https://twitter.com/wublockchain12/status/1656943209313099777"/>
+        <updated>2023-05-12T08:43:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，开源 L1应用程序平台Lisk联创 Max Kordek 发推表示，Lisk基金会将在未来10周内将1000 BTC兑换成ETH，并将其作为长期储备资产持有，具体每周将卖出100 BTC，购买的ETH将会存入一个多签钱包。动机是以太坊是全球最大的区块链平台，而 ETH… https://twitter.com/i/web/status/1656943209313099777]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋 @MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao 获得T恤 获奖的小伙伴私信我你们的地址和尺码！ https://twitte...]]></title>
         <id>https://twitter.com/8848Community/status/1656930978944933888</id>
@@ -195,46 +236,6 @@ Recap below 👇 https://twitter.com/TimBeiko/status/1652006134142889984]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re “交易类型应该使用哪种序列化编码方式： SSZ 还是 RLP，最终决定在 EL 使用 RLP， 在 CL 使用 SSZ”以及“区块有效性条件的讨论和一些关于 KZG 库的问题” ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656854963145043968</id>
-        <link href="https://twitter.com/wublockchain12/status/1656854963145043968"/>
-        <updated>2023-05-12T02:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Re “交易类型应该使用哪种序列化编码方式： SSZ 还是 RLP，最终决定在 EL 使用 RLP， 在 CL 使用 SSZ”以及“区块有效性条件的讨论和一些关于 KZG 库的问题” ；对于 L2 EIPs 的讨论，有 EIP-6969（引入合约保证收入 CSR 概念，合约创建者能够获得自身合约消耗的部分 Gas，该经济机制同样可应用于 L1）；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Tim Beiko 对第 161 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议大部分讨论集中在 EIP-4844 问题上，还简要讨论了 L2 EIPs 和整体的 Ca...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656854877824491520</id>
-        <link href="https://twitter.com/wublockchain12/status/1656854877824491520"/>
-        <updated>2023-05-12T02:52:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Tim Beiko 对第 161 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议大部分讨论集中在 EIP-4844 问题上，还简要讨论了 L2 EIPs 和整体的 Cancun 计划。对于 EIP-4844 问题，主要讨论了“预编译的输入格式问题（为了兼容 EL 目前倾向于使用大端序）”；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://dune.com/domo/ordinals-marketplaces]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656841820796768257</id>
-        <link href="https://twitter.com/wublockchain12/status/1656841820796768257"/>
-        <updated>2023-05-12T02:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Re https://dune.com/domo/ordinals-marketplaces]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Bitcoin Ordinals 交易热度正在降低，据 @domo 的 Dune 数据面板，Ordinals 市场交易量在 5 月 8 日达到 1813 万美元的历史高值后已连续三日降低，5 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656841777159221248</id>
-        <link href="https://twitter.com/wublockchain12/status/1656841777159221248"/>
-        <updated>2023-05-12T02:00:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Bitcoin Ordinals 交易热度正在降低，据 @domo 的 Dune 数据面板，Ordinals 市场交易量在 5 月 8 日达到 1813 万美元的历史高值后已连续三日降低，5 月 11 日交易量为 486 万美元。交易次数也从 5 月 8 日的 1.7 万笔降至 11 日的 6k 笔。UniSat 的市场份额也从 80-90% 降至当前的 50-60%。 https://t.co/FpGbS0Xwee]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @schaudenfraud Buy $fis]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656839268046610435</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1656839268046610435"/>
@@ -242,22 +243,6 @@ Recap below 👇 https://twitter.com/TimBeiko/status/1652006134142889984]]></sum
         <summary type="html"><![CDATA[Re @schaudenfraud Buy $fis]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 本周 ETH IV 创出历史新低，ETH 期权成本达到历史最低，押注 ETH 下跌的交易者开始增多。 https://twitter.com/BTC__options/status/1656821400668356614?s=2...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656837266973794306</id>
-        <link href="https://twitter.com/wublockchain12/status/1656837266973794306"/>
-        <updated>2023-05-12T01:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Re 本周 ETH IV 创出历史新低，ETH 期权成本达到历史最低，押注 ETH 下跌的交易者开始增多。
-https://twitter.com/BTC__options/status/1656821400668356614?s=20
-
-Adam@Greeks.live: 【5月12日期权周交割数据】 
-2.9万张BTC期权即将到期，Put Call Ratio为0.63，最大痛点28000美元，名义价值7.7亿美元。  
-18.1万张ETH期权即将到期，Put Call Ratio为0.81，最大痛点1900美元，名义价值3.2亿美元。 
-本周ETH IV创出历史新低，ETH期权成本达到历史最低，押注ETH下跌的交易者开始增多。 https://t.co/2Dq953zcL4]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -332,11 +317,11 @@ Which hardware wallet do you own (if multiple then choose your most used)]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Regional banks rn https://t.co/tGWwtKagKq]]></title>
+        <title type="html"><![CDATA[Regional banks rn https://twitter.com/financialjuice/status/1656638728989810690 https://t.co/tGWwtKagKq]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656700040730013698</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1656700040730013698"/>
         <updated>2023-05-11T16:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Regional banks rn https://t.co/tGWwtKagKq
+        <summary type="html"><![CDATA[Regional banks rn https://twitter.com/financialjuice/status/1656638728989810690 https://t.co/tGWwtKagKq
 
 
 Breaking Market News: JPMORGAN CEO DIMON: COMMERCIAL REAL ESTATE LOSSES MAY TAKE A FEW BANKS DOWN.]]></summary>
@@ -345,11 +330,11 @@ Breaking Market News: JPMORGAN CEO DIMON: COMMERCIAL REAL ESTATE LOSSES MAY TA
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Well said]]></title>
+        <title type="html"><![CDATA[Well said https://twitter.com/keyboardmonkey3/status/1656648419685834752]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656651815146995714</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1656651815146995714"/>
         <updated>2023-05-11T13:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Well said
+        <summary type="html"><![CDATA[Well said https://twitter.com/keyboardmonkey3/status/1656648419685834752
 
 Keyboard Monkey -KBM-: Now the recession worries begin.  As fed pauses and rates begin to collapse, unemployment will rise and inflation may not come down fast enough.  The result will be lower markets, potential stagflation, and actual recession...pausing doesn't mean everything goes up... now the… https://twitter.com/i/web/status/1656648419685834752]]></summary>
         <author>
