@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T23:13:26.002Z</id>
+    <id>urn:2023-05-12T01:05:29.916Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T23:13:26.002Z</updated>
+    <updated>2023-05-12T01:05:29.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Anointed_Ape @RemindMe_OfThis Two months was too short lol]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1656827123707813889</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1656827123707813889"/>
+        <updated>2023-05-12T01:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @Anointed_Ape @RemindMe_OfThis Two months was too short lol]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In 2020 you had 4 months to position yourself after the worlds central banks absolutely flooded the global economy with liquidity before #Bitcoin took...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1656815500167372800</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1656815500167372800"/>
+        <updated>2023-05-12T00:16:12.000Z</updated>
+        <summary type="html"><![CDATA[In 2020 you had 4 months to position yourself after the worlds central banks absolutely flooded the global economy with liquidity before #Bitcoin took off.]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/paoloardoino/status/1656634732581470208]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656809157637586945</id>
+        <link href="https://twitter.com/wublockchain12/status/1656809157637586945"/>
+        <updated>2023-05-11T23:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/paoloardoino/status/1656634732581470208
+
+Paolo Ardoino 🍐: @JohnReedStark Mr Stark:
+1. Tether is not a U.S. company and does not operate in the U.S., nor solicit U.S users. Our core markets are the unbanked people in emerging markets and developing countries, billions of people left out from the financial system just because they're too poor to be of… https://twitter.com/i/web/status/1656634732581470208]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Tether 在回应中透露，会使用 World-Check 自动持续监控所有客户的潜在制裁；与客户之间的转账会通过 Chainalysis 进行筛选，以查找与潜在高风险钱包...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656809114847293441</id>
+        <link href="https://twitter.com/wublockchain12/status/1656809114847293441"/>
+        <updated>2023-05-11T23:50:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Tether 在回应中透露，会使用 World-Check 自动持续监控所有客户的潜在制裁；与客户之间的转账会通过 Chainalysis 进行筛选，以查找与潜在高风险钱包的链接；已经冻结了与全球执法部门合作的数亿美元；与全球执法部门合作处理了 200 多起案件；向被黑的个人、交易所等返还了超过 1 亿美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @superphiz 表示，基于我们目前对 mev boost 的依赖，它也是一个潜在的嫌疑人。https://twitter.com/superphiz/status/1656763605717602304]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656805585315332098</id>
+        <link href="https://twitter.com/wublockchain12/status/1656805585315332098"/>
+        <updated>2023-05-11T23:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @superphiz 表示，基于我们目前对 mev boost 的依赖，它也是一个潜在的嫌疑人。https://twitter.com/superphiz/status/1656763605717602304
+
+superphiz.eth 🦇🔊🛡️: @Legendary_NFT History suggests that a client has experienced a bug and a patch will be required. Based on our current dependence on mev boost, it's a potential suspect as well (not pointing fingers, I don't know)]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @terencechain 表示，来自 Prysm 的最新更新。我们已经确定了需要改进状态缓存的地方。考虑到链已经稳定，作为验证人/节点运营者，目前不需要采取任何措施。h...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656804762271223809</id>
+        <link href="https://twitter.com/wublockchain12/status/1656804762271223809"/>
+        <updated>2023-05-11T23:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @terencechain 表示，来自 Prysm 的最新更新。我们已经确定了需要改进状态缓存的地方。考虑到链已经稳定，作为验证人/节点运营者，目前不需要采取任何措施。https://twitter.com/terencechain/status/1656789550948311042
+
+terence.eth: Update from Prysm. We have identified areas where state caching could be improved. With the improved cache, the node should perform better during a degraded time like before. 
+Given the chain has stabilized, as a staker / node operator, there's no action required moment.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊主网信标链出现故障，从 200,552 到 200,554，证明数量急剧下降，第一个有问题的时期是在美国东部时间下午 4:13，该问题在半小时内得到解决。以...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1656802573964419073</id>
+        <link href="https://twitter.com/wublockchain12/status/1656802573964419073"/>
+        <updated>2023-05-11T23:24:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊主网信标链出现故障，从 200,552 到 200,554，证明数量急剧下降，第一个有问题的时期是在美国东部时间下午 4:13，该问题在半小时内得到解决。以太坊开发者表示仍在调查中。https://twitter.com/superphiz/status/1656761424222253064
+
+superphiz.eth 🦇🔊🛡️: The beacon chain stopped finalizing about thirty minutes ago. I don't know why yet, but in general the chain is designed to be resilient against this, transactions will continue as usual and finalization will kick in when the problem is resolved. https://t.co/utAS0uAWpG]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @smoovie420 It was outrageous how many signs there were]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656774782803759106</id>
@@ -65,7 +145,7 @@ https://www.bitget.site/zh-CN/support/articles/12560603785710]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1656697844668182530"/>
         <updated>2023-05-11T16:28:40.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Coinbase 首席法务官 @iampaulgrewal 在推文中向 PEPE 社区道歉。他表示：昨天我们分享了关于 PEPE 表情币的概述，旨在提供一个基于事实的热门话题解读。然而，这并没有完整地展示这个表情的历史，我们向社区表示道歉。
-https://twitter.com/iampaulgrewal/status/1656688561742131201?s=20
+https://twitter.com/iampaulgrewal/status/1656688561742131201?s=20 https://twitter.com/wublockchain12/status/1656594157551652865
 
 吴说区块链: Coinbase 在一封发给客户的电子邮件中将 Pepe 表情描述为被极右翼团体“挟持”的“仇恨象征”，这引起了 PEPE 币社区的强烈不满，要求 Coinbase 道歉，并呼吁用户开始删除他们在 Coinbase 的账户。]]></summary>
         <author>
@@ -224,28 +304,6 @@ https://www.bloomberg.com/news/articles/2023-05-11/terrausd-creator-kwon-pleads-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，加密矿企 Hut 8 第一季​​度收入为 1416 万美元，同比下降 64%，环比下降 13%；共开采 475 枚比特币（出售 425 枚比特币），同比下降 50%，原因是该...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656633777920311296</id>
-        <link href="https://twitter.com/wublockchain12/status/1656633777920311296"/>
-        <updated>2023-05-11T12:14:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加密矿企 Hut 8  第一季​​度收入为 1416 万美元，同比下降 64%，环比下降 13%；共开采 475 枚比特币（出售 425 枚比特币），同比下降 50%，原因是该公司因能源纠纷而被迫关闭部分机器提供商以及比特币网络难度增加。
-https://hut8.io/2023/05/11/hut-8-reports-operating-and-financial-results-for-q1-2023/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 euronews，摩洛哥法院近日维持对一名 21 岁法国男子因“欺诈”和“非法使用加密货币”的判决。该男子在 2021 年因使用比特币购买豪华车而被捕，并...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656628742884835335</id>
-        <link href="https://twitter.com/wublockchain12/status/1656628742884835335"/>
-        <updated>2023-05-11T11:54:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 euronews，摩洛哥法院近日维持对一名 21 岁法国男子因“欺诈”和“非法使用加密货币”的判决。该男子在 2021 年因使用比特币购买豪华车而被捕，并被判处 18 个月监禁和 340 万欧元的罚款，摩洛哥海关将使用加密货币视为非法资金转移。
-https://www.euronews.com/next/2023/05/03/moroccan-court-upholds-jail-sentence-for-french-man-who-bought-a-car-illegally-with-bitcoi#:~:text=Thomas%20Clausi%20has%20been%20fined,%22illegal%20use%20of%20cryptocurrency%22.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @greentexts_bot @crypto_condom]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656623347784876033</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1656623347784876033"/>
@@ -256,16 +314,6 @@ https://www.euronews.com/next/2023/05/03/moroccan-court-upholds-jail-sentence-fo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 对比 Animoca Brands 2022 年 11 月公布的 41.8 亿美元资产减少了 7.2 亿美元。Animoca Brands 在 2022 年 9 月份完成了一轮 1.1 亿美元的融资，由淡马锡、博...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656620878757793798</id>
-        <link href="https://twitter.com/wublockchain12/status/1656620878757793798"/>
-        <updated>2023-05-11T11:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Re 对比 Animoca Brands 2022 年 11 月公布的 41.8 亿美元资产减少了 7.2 亿美元。Animoca Brands 在 2022 年 9 月份完成了一轮 1.1 亿美元的融资，由淡马锡、博裕资本和 CGV 资本支持，估值近 50 亿美元。 https://www.animocabrands.com/animoca-brands-update-on-financial-position https://www.animocabrands.com/glimpsing-the-future-through-the-lens-of-days-past-part2]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BarryFried1 True]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1656619546243989506</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1656619546243989506"/>
@@ -273,16 +321,6 @@ https://www.euronews.com/next/2023/05/03/moroccan-court-upholds-jail-sentence-fo
         <summary type="html"><![CDATA[Re @BarryFried1 True]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Animoca Brands 发布截至 2023 年 4 月 30 日的财务状况更新，现金和稳定币余额为 1.94 亿美元，5.66 亿美元的流动加密资产，其他 Animoca Brands 控...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656619161483886594</id>
-        <link href="https://twitter.com/wublockchain12/status/1656619161483886594"/>
-        <updated>2023-05-11T11:16:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Animoca Brands 发布截至 2023 年 4 月 30 日的财务状况更新，现金和稳定币余额为 1.94 亿美元，5.66 亿美元的流动加密资产，其他 Animoca Brands 控股的 Web3 子公司的资产负债表外代币储备为 27 亿美元，共约 34.6 亿美元的资产。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -313,16 +351,6 @@ https://www.euronews.com/next/2023/05/03/moroccan-court-upholds-jail-sentence-fo
         <summary type="html"><![CDATA[Re @naniXBT Dude it’s the best whatchu talking about]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 委托治理竞赛依托 Uniswap Agora 展开，这是 Uniswap 基金会于 5 月 2 日上线的用于委托的整体治理界面，旨在改善 Uniswap 治理体验。https://gov.uniswap.or...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656606611409104897</id>
-        <link href="https://twitter.com/wublockchain12/status/1656606611409104897"/>
-        <updated>2023-05-11T10:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 委托治理竞赛依托 Uniswap Agora 展开，这是 Uniswap 基金会于 5 月 2 日上线的用于委托的整体治理界面，旨在改善 Uniswap 治理体验。https://gov.uniswap.org/t/launch-of-uniswap-agora-delegate-race/21133]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -403,29 +431,6 @@ It’s because they’re backing Tether with ULTRA conservative assets such as:
 
 Tether: Tether's Latest Q1 2023 Assurance Report Shows Reserves Surplus At All-Time High of $2.44B, up $1.48B in Net Profit; New Categories for Additional Transparency Reveals #Bitcoin and #Gold Allocations
 https://tether.to/en/tethers-latest-q1-2023-assurance-report-shows-reserves-surplus-at-all-time-high-of-244b-up-148b-in-net-profit-new-categories-for-additional-transparency-reveals-bitcoin-and-gold-allocations/ https://t.co/xUwOf4n1o7]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @xcurveth Basically the tldr]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1656440198346014721</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1656440198346014721"/>
-        <updated>2023-05-10T23:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @xcurveth Basically the tldr]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interesting interview.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1656436402127532033</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1656436402127532033"/>
-        <updated>2023-05-10T23:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Interesting interview.
-
-Stephen Geiger: Stan Druckenmiller at Sohn 2023:
-“I’m sitting here staring in the face of the biggest and probably the broadest asset bubble, forget that I’ve ever seen, but that I’ve ever studied.” https://t.co/y0im5SXnoZ]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -992,11 +997,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1112,7 +1117,7 @@ Let's dig in 👇]]></summary>
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1218,7 +1223,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1241,15 +1246,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1298,12 +1303,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
