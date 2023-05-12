@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T14:11:25.272Z</id>
+    <id>urn:2023-05-12T15:13:04.232Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T14:11:25.272Z</updated>
+    <updated>2023-05-12T15:13:04.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 其个人不看好隐私赛道投资，因为对 99% 的用户都不是刚需，目前两种隐私的新设计分别是基于 Tornado Cash 和类似 Cosmos 里面 Namada 的设计。阅读全文： htt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657029791843844096</id>
+        <link href="https://twitter.com/wublockchain12/status/1657029791843844096"/>
+        <updated>2023-05-12T14:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 其个人不看好隐私赛道投资，因为对 99% 的用户都不是刚需，目前两种隐私的新设计分别是基于 Tornado Cash 和类似 Cosmos 里面 Namada 的设计。阅读全文：
+https://twitter.com/Wuhuoqiu/status/1656869040441405440?s=20
+
+Lao Bai: 今天来说说MEV和隐私方面的趋势
+MEV - MEV是个技术向的话题，也变得越来越复杂，尤其是以太坊转POS之后，单是牵扯到MEV的非用户角色就有Searcher，Builder，relayer，Validator，Proposer，基本上不搞技术的看着都头大，网上各种讲MEV原理“万字长文”系列，在这就不复述，单纯说下目前的现状和趋势技术]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEV 和隐私发展趋势（撰文：Lao Bai）：MEV 现状是三明治攻击（恶意MEV）经常比合理 MEV（套利与清算）赚的更多，MEV 盈利的基本都在 Searcher 和 Builder，做协...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657029759065370625</id>
+        <link href="https://twitter.com/wublockchain12/status/1657029759065370625"/>
+        <updated>2023-05-12T14:27:35.000Z</updated>
+        <summary type="html"><![CDATA[MEV 和隐私发展趋势（撰文：Lao Bai）：MEV 现状是三明治攻击（恶意MEV）经常比合理 MEV（套利与清算）赚的更多，MEV 盈利的基本都在 Searcher 和 Builder，做协议或技术的一直难以盈利；目前 MEV 技术动向在于智能滑点、阈值加密 、延迟加密、SGX 加密、公平排序、MEV Auction 和 MEV-Share 等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/DKGEzNLlBG]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657023789249486849</id>
+        <link href="https://twitter.com/wublockchain12/status/1657023789249486849"/>
+        <updated>2023-05-12T14:03:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/DKGEzNLlBG]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Interlay 创始人 Alexei Zamyatin 发布了对 BRC-20 标准的扩展 BRC-42，允许将 BRC-20 代币桥接到具有智能合约支持的链，例如以太坊、Interlay、Solan...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657014434961973248</id>
+        <link href="https://twitter.com/wublockchain12/status/1657014434961973248"/>
+        <updated>2023-05-12T13:26:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Interlay 创始人 Alexei Zamyatin 发布了对 BRC-20 标准的扩展 BRC-42，允许将 BRC-20 代币桥接到具有智能合约支持的链，例如以太坊、Interlay、Solana、Polkadot 等；解锁对去中心化金融协议的访问，例如在去中心化的 AMM… https://twitter.com/i/web/status/1657014434961973248]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新泽西州居民 Taewoo Kim于 5 月 9 日代表受影响的投资者提起诉讼，声称 Jump Trading 是 Terraform Labs 的早期合作伙伴和财务支持者，在协助和教唆涉及 Terra ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657013734844551168</id>
+        <link href="https://twitter.com/wublockchain12/status/1657013734844551168"/>
+        <updated>2023-05-12T13:23:54.000Z</updated>
+        <summary type="html"><![CDATA[新泽西州居民 Taewoo Kim于 5 月 9 日代表受影响的投资者提起诉讼，声称 Jump Trading 是 Terraform Labs 的早期合作伙伴和财务支持者，在协助和教唆涉及 Terra 的欺诈计划中发挥了作用，购买大量 UST 并操纵其价格；从 2019 年 11 月左右开始，前 Terraform 首席执行官 Do Kwon 与 Jump… https://twitter.com/i/web/status/1657013734844551168]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟计划强制加密货币公司向税务机关提供其客户持有资产的详细信息。这项被称为行政合作第八指令 (DAC8) 的法律包括 NFT 平台，以及来自欧盟以外的拥有欧盟客户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657012429266763776</id>
+        <link href="https://twitter.com/wublockchain12/status/1657012429266763776"/>
+        <updated>2023-05-12T13:18:43.000Z</updated>
+        <summary type="html"><![CDATA[欧盟计划强制加密货币公司向税务机关提供其客户持有资产的详细信息。这项被称为行政合作第八指令 (DAC8) 的法律包括 NFT 平台，以及来自欧盟以外的拥有欧盟客户的供应商。数据共享法基于经济合作与发展组织 (OECD) 的模型，将于下周由各国财政部长达成一致，并将允许税务机关在 27… https://twitter.com/i/web/status/1657012429266763776]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bybit 交易所支持的 BitDAO 的 BIP-21 提案开始进行投票，提议所有品牌将统一为其 L2 公链品牌 Mantle，BitDAO 和 BIT token 在投票通过将不复存在，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657010479955582978</id>
+        <link href="https://twitter.com/wublockchain12/status/1657010479955582978"/>
+        <updated>2023-05-12T13:10:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bybit 交易所支持的 BitDAO 的 BIP-21 提案开始进行投票，提议所有品牌将统一为其 L2 公链品牌 Mantle，BitDAO 和 BIT token 在投票通过将不复存在，全部更换为 Mantle。https://snapshot.org/#/bitdao.eth/proposal/0xe81f852d90ba80929b1f19683da14b334d63b31cb94e53249b8caed715475693]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG 正在为其可交易 NFT 的电视申请专利，该设备与 NFT 市场服务器连接以接收和展示预览图，用户可以通过电视连接加密钱包完成购买。LG 于去年 9 月发布了基于 LG...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657007223179210752</id>
+        <link href="https://twitter.com/wublockchain12/status/1657007223179210752"/>
+        <updated>2023-05-12T12:58:02.000Z</updated>
+        <summary type="html"><![CDATA[LG 正在为其可交易 NFT 的电视申请专利，该设备与 NFT 市场服务器连接以接收和展示预览图，用户可以通过电视连接加密钱包完成购买。LG 于去年 9 月发布了基于 LG 支持的 Hedera Hashgraph 网络的 LG Art Lab NFT 市场。（CoinDesk）https://www.coindesk.com/business/2023/05/12/lg-electronics-seeks-patent-for-tv-which-lets-users-trade-nfts/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不过需要注意的是，一些低市值山寨币并不一定由其本人购买，而是由他人转入。https://platform.arkhamintelligence.com/explorer/entity/justin-sun]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657003618271395840</id>
+        <link href="https://twitter.com/wublockchain12/status/1657003618271395840"/>
+        <updated>2023-05-12T12:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过需要注意的是，一些低市值山寨币并不一定由其本人购买，而是由他人转入。https://platform.arkhamintelligence.com/explorer/entity/justin-sun]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，据 Arkham 统计，与孙宇晨相关的链上钱包地址集合目前约持有价值 8.1 亿美元的资产，其中主要集中在 stETH（$5.35 亿）、USDD（$1.61 亿）、AUSDT...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657003565234421760</id>
+        <link href="https://twitter.com/wublockchain12/status/1657003565234421760"/>
+        <updated>2023-05-12T12:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，据 Arkham 统计，与孙宇晨相关的链上钱包地址集合目前约持有价值 8.1 亿美元的资产，其中主要集中在 stETH（$5.35 亿）、USDD（$1.61 亿）、AUSDT（$51.54million）和 ETH（$42.25million）等，但也不乏大量持有一些山寨币，如 UT、LOVE 等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 宣布与UniSat 合作建立BRC-20行业标准。 OKX自研BRC20账本解析与索引库，与UniSat合作支持双重校验；UniSat将成为 OKXWEB3 BRC20市场数据供应商；...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657000731386462208</id>
+        <link href="https://twitter.com/wublockchain12/status/1657000731386462208"/>
+        <updated>2023-05-12T12:32:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 宣布与UniSat 合作建立BRC-20行业标准。 OKX自研BRC20账本解析与索引库，与UniSat合作支持双重校验；UniSat将成为 OKXWEB3 BRC20市场数据供应商；并将与UniSat持续探索互换BRC20的订单流动性。https://twitter.com/okxchinese/status/1656996222836826113?s=20
+
+吴说区块链: 吴说获悉，Gate 声称将为比特币 BRC20/Ordinals 生态提供基础设施解决方案，包括BRC20 代币钱包服务、BRC20 代币分发、交易、提现转账服务，并表示以上基础设施服务将全部免费为 BRC20 社区提供。
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=7&id=14178]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据PitchBook报告，2023年第一季度加密初创公司在 353 轮投资中筹集了 26 亿美元，分别比去年同期下降 78.0% 和 64.4%，交易价值环比下降 11%，交易总...]]></title>
         <id>https://twitter.com/wublockchain12/status/1656992664364134400</id>
@@ -97,13 +214,13 @@ https://www.okx.com/cn/help-center/okx-wallet-launches-cryptopedia-a-one-stop-da
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋 @MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao 获得T恤 获奖的小伙伴私信我你们的地址和尺码！ https://t.co/C...]]></title>
+        <title type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋 @MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao 获得T恤 获奖的小伙伴私信我你们的地址和尺码！ https://twitte...]]></title>
         <id>https://twitter.com/8848Community/status/1656930978944933888</id>
         <link href="https://twitter.com/8848Community/status/1656930978944933888"/>
         <updated>2023-05-12T07:55:04.000Z</updated>
         <summary type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋
 @MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao  获得T恤
-获奖的小伙伴私信我你们的地址和尺码！ https://t.co/CoudFuZQ3V
+获奖的小伙伴私信我你们的地址和尺码！ https://twitter.com/8848Community/status/1656174092138196994 https://t.co/CoudFuZQ3V
 
 
 8848 社区（8848 Community）: “Give me Five”
@@ -111,7 +228,7 @@ https://www.okx.com/cn/help-center/okx-wallet-launches-cryptopedia-a-one-stop-da
 1、关注@OdailyChina+@8848Community
 2、转发、评论/@三个好友 
 抽5件衣服和1双鞋~
-届时在Discord也会抽取同样的周边 https://t.co/5CXoQk0bVa]]></summary>
+届时在Discord也会抽取同样的周边 https://twitter.com/OdailyChina/status/1656126296173453313 https://t.co/5CXoQk0bVa]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -122,128 +239,6 @@ https://www.okx.com/cn/help-center/okx-wallet-launches-cryptopedia-a-one-stop-da
         <link href="https://twitter.com/wublockchain12/status/1656929831261712385"/>
         <updated>2023-05-12T07:50:30.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，加密矿企 Hive Blockchain 表示，二季度哈希率达到 4 EH/s，并将新目标提高到 6 EH/s。此外，Hive 宣布与加拿大两家大型独立经纪商 Stifel 和 Canaccord 合作进行 ATM 融资，根据股权分销协议，公司可以不时出售高达1亿美元普通股（ATM 股权计划）。https://www.newsfilecorp.com/release/165844/HIVE-Blockchain-Announces-Growth-Plan-to-6-EHS-Corporate-Updates-and-Establishment-of-AtTheMarket-Equity-Program]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/ScopeProtocol/status/1656916635134066688?s=19]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656925300704550914</id>
-        <link href="https://twitter.com/wublockchain12/status/1656925300704550914"/>
-        <updated>2023-05-12T07:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/ScopeProtocol/status/1656916635134066688?s=19
-
-0xScope (🪬 . 🪬): In the past 24 hours, a large amount of $PEPE has been deposited into exchanges:
-33T $PEPE worth $46.37M, with a net deposit of $22.94M from 1,176 addresses.
-Beware of MEME coin drop risks https://t.co/443wqMCTTJ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @ScopeProtocol，在过去 24 小时内，约 4637 万美元的 33 万亿枚 PEPE 被存入交易所，其中包括来自 1,176 个地址的净存款价值为 2294 万美元。PEPE...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656925200334876673</id>
-        <link href="https://twitter.com/wublockchain12/status/1656925200334876673"/>
-        <updated>2023-05-12T07:32:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @ScopeProtocol，在过去 24 小时内，约 4637 万美元的 33 万亿枚 PEPE 被存入交易所，其中包括来自 1,176 个地址的净存款价值为 2294 万美元。PEPE 在过去 24 小时内跌幅达 31%，市值跌至约 5 亿美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 发布安全提醒，建议使用谷歌验证器的用户关闭云端同步。近期谷歌验证器推出的云同步功能并未经过端对端加密，若你的谷歌账户遭到攻击，密码/私钥...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656905738093236224</id>
-        <link href="https://twitter.com/wublockchain12/status/1656905738093236224"/>
-        <updated>2023-05-12T06:14:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 发布安全提醒，建议使用谷歌验证器的用户关闭云端同步。近期谷歌验证器推出的云同步功能并未经过端对端加密，若你的谷歌账户遭到攻击，密码/私钥都会面临安全风险，黑客将可登陆你的 OKX… https://twitter.com/i/web/status/1656905738093236224]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 而据官推@ParaSpace_NFT今日推文，已同意让所有多重签名签署者和Yubo参加的第三方调解会议在Twitter Spaces上对所有人开放，将提出两个关键问题：立即采取措...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656901106738565122</id>
-        <link href="https://twitter.com/wublockchain12/status/1656901106738565122"/>
-        <updated>2023-05-12T05:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 而据官推@ParaSpace_NFT今日推文，已同意让所有多重签名签署者和Yubo参加的第三方调解会议在Twitter Spaces上对所有人开放，将提出两个关键问题：立即采取措施解决平台利率问题和发布多重签名，并计划用1天提名后进行2天的投票。https://twitter.com/paraspace_CM/status/1656881237754253312?s=20
-https://twitter.com/ParaSpace_NFT/status/1656821863065214976?s=2
-
-ParaSpace: In keeping with our promise of transparency, and after speaking with @Zeneca, we have agreed to make the 3rd party moderated meeting with @YuboRuan and all multi-sig signatories accessible for everyone to listen in on Twitter Spaces.
-We will bring forward 2 key items:
-1.… https://twitter.com/i/web/status/1656821863065214976]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，代表Paraspace创始人Yubo及核心开发团队的新官推@paraspace_CM发推称，鉴于近日风波，为保持透明度，将公开内部计划并敦促将多重签名席位归还给开发团...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656901069140819968</id>
-        <link href="https://twitter.com/wublockchain12/status/1656901069140819968"/>
-        <updated>2023-05-12T05:56:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，代表Paraspace创始人Yubo及核心开发团队的新官推@paraspace_CM发推称，鉴于近日风波，为保持透明度，将公开内部计划并敦促将多重签名席位归还给开发团队以恢复运营。目前在部署三个协议的升级，将优化协议利率、gas费、时间锁和多链部署。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/CoinList/status/1656689863003865089?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656872312422150145</id>
-        <link href="https://twitter.com/wublockchain12/status/1656872312422150145"/>
-        <updated>2023-05-12T04:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/CoinList/status/1656689863003865089?s=20
-
-CoinList: 4/ Community damage: Account sellers prey on the very same people that CoinList is intended to empower, leaving them to suffer the consequences of engaging in fraudulent activities.  
-TLDR: Not worth the risk, don’t do it 🙅‍♂️]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，CoinList 发推表示，购买第三方的CoinList账户存在严重的危险和后果，包括违反条款、不可逆转的资金损失、恶意勒索风险和社区伤害。简而言之：风险不...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656872203697410048</id>
-        <link href="https://twitter.com/wublockchain12/status/1656872203697410048"/>
-        <updated>2023-05-12T04:01:31.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CoinList 发推表示，购买第三方的CoinList账户存在严重的危险和后果，包括违反条款、不可逆转的资金损失、恶意勒索风险和社区伤害。简而言之：风险不值得承担，请勿尝试。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @LidoFinance 数据面板，近期 Memecoins 的投机热潮推动链上活动的增加，并最终推高了 stETH 的质押收益率，当前 stETH APR 达 8%，处于历史高位。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656866154324058112</id>
-        <link href="https://twitter.com/wublockchain12/status/1656866154324058112"/>
-        <updated>2023-05-12T03:37:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @LidoFinance 数据面板，近期 Memecoins 的投机热潮推动链上活动的增加，并最终推高了 stETH 的质押收益率，当前 stETH APR 达 8%，处于历史高位。https://dune.com/LidoAnalytical/lido-execution-layer-rewards]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理着 5 亿美元资产的 M11 Group 成立了其第一个加密流动资产管理部门 Liquid Crypto Appeal，并设立 M11 Funds，旨在通过月度流动性吸引欧盟机构投资者。 据称...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656863223424098304</id>
-        <link href="https://twitter.com/wublockchain12/status/1656863223424098304"/>
-        <updated>2023-05-12T03:25:50.000Z</updated>
-        <summary type="html"><![CDATA[管理着 5 亿美元资产的 M11 Group 成立了其第一个加密流动资产管理部门 Liquid Crypto Appeal，并设立 M11 Funds，旨在通过月度流动性吸引欧盟机构投资者。 据称，M11 Funds 的投资产品属于欧盟的 AIFMD 框架—这是向合格投资者（包括家族办公室和养老金等）营销另类投资工具的监管先决条件。… https://twitter.com/i/web/status/1656863223424098304]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 允许任何持有者随时自行退出，资金也会从原始 DAO 转移到新 DAO，而分叉的 Nouners 也可以根据在原始 DAO 中返回的 Nouns，领取新 DAO 的代币。新的 DAO 的基...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656862397750214656</id>
-        <link href="https://twitter.com/wublockchain12/status/1656862397750214656"/>
-        <updated>2023-05-12T03:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 允许任何持有者随时自行退出，资金也会从原始 DAO 转移到新 DAO，而分叉的 Nouners 也可以根据在原始 DAO 中返回的 Nouns，领取新 DAO 的代币。新的 DAO 的基础设定会与 Nouns DAO V1 大致相同。目前该机制正在设计和审核中，一旦完成，将提出发起提案。https://mirror.xyz/0x10072dfc23771101dC042fD0014f263316a6E400/iN0FKOn_oYVBzlJkwPwK2mhzaeL8K2-W80u82F7fHj8]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 NounsDAO Elad，NounsDAO 正在尝试引入分叉机制（Nouns Fork）。在“Nouns Fork”模型中，任何持有者都可以对治理提案作出分叉（退出）的信号。一...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1656862365336637440</id>
-        <link href="https://twitter.com/wublockchain12/status/1656862365336637440"/>
-        <updated>2023-05-12T03:22:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 NounsDAO Elad，NounsDAO 正在尝试引入分叉机制（Nouns Fork）。在“Nouns Fork”模型中，任何持有者都可以对治理提案作出分叉（退出）的信号。一旦有 20% 的持有者信号表示退出，分叉就会启动。新的 DAO 会以“vanilla ragequit”（普通退出）的方式被部署；]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -460,7 +455,7 @@ https://www.theblock.co/post/230218/jaredfromsubway-mev-bot]]></summary>
 1、关注@OdailyChina+@8848Community
 2、转发、评论/@三个好友 
 抽5件衣服和1双鞋~
-届时在Discord也会抽取同样的周边 https://t.co/5CXoQk0bVa
+届时在Discord也会抽取同样的周边 https://twitter.com/OdailyChina/status/1656126296173453313 https://t.co/5CXoQk0bVa
 
 
 Odaily@ChinaCryptoNews: 🖐️我们今天五岁啦！一起来“Give me Five”～
@@ -475,11 +470,11 @@ Odaily@ChinaCryptoNews: 🖐️我们今天五岁啦！一起来“Give me Fiv
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123]]></title>
+        <title type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123 https://twitter.com/8848Community/status/1652194043718410241]]></title>
         <id>https://twitter.com/8848Community/status/1656172558373523457</id>
         <link href="https://twitter.com/8848Community/status/1656172558373523457"/>
         <updated>2023-05-10T05:41:22.000Z</updated>
-        <summary type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123
+        <summary type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123 https://twitter.com/8848Community/status/1652194043718410241
 
 8848 社区（8848 Community）: starknet上的网页游戏空格开始，左右键调整方向以躲避石头。
 链接：http://starkfighter.xyz/
@@ -554,12 +549,12 @@ Come catch @isa_sertkaya on the 20/21st of May in Eth Amsterdam, who knows, mayb
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pika 宣布发币，5月23日进行公募 11%代币作为追溯空投，空投代币锁一年]]></title>
+        <title type="html"><![CDATA[Pika 宣布发币，5月23日进行公募 11%代币作为追溯空投，空投代币锁一年 https://twitter.com/PikaProtocol/status/1655895942602838018]]></title>
         <id>https://twitter.com/8848Community/status/1655936933661675521</id>
         <link href="https://twitter.com/8848Community/status/1655936933661675521"/>
         <updated>2023-05-09T14:05:05.000Z</updated>
         <summary type="html"><![CDATA[Pika 宣布发币，5月23日进行公募
-11%代币作为追溯空投，空投代币锁一年
+11%代币作为追溯空投，空投代币锁一年 https://twitter.com/PikaProtocol/status/1655895942602838018
 
 Pika Protocol⚡️: 1/ At Pika's 2nd anniversary, we're excited to unveil $PIKA!
 TGE in 2 weeks, May 23 @ 14:00 UTC on @optimismFND.🚀
@@ -1012,13 +1007,13 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784]]></title>
+        <title type="html"><![CDATA[$PEPE +85% since lol]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
         <updated>2023-05-04T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784
+        <summary type="html"><![CDATA[$PEPE +85% since lol
 
-Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968]]></summary>
+Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1039,7 +1034,7 @@ Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to o
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
-I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1051,7 +1046,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <id>https://twitter.com/OnChainWizard/status/1653794087730806784</id>
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1086,7 +1081,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <summary type="html"><![CDATA[Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312
 
 Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]></summary>
+Let's dig in 👇]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1163,7 +1158,7 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <updated>2023-05-03T09:46:54.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
 Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
+Let's dig in 👇
 
 Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
         <author>
