@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T10:13:00.583Z</id>
+    <id>urn:2023-05-13T11:10:41.105Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T10:13:00.583Z</updated>
+    <updated>2023-05-13T11:10:41.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/superphiz/status/1657303471098404866]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657323877872340994</id>
+        <link href="https://twitter.com/wublockchain12/status/1657323877872340994"/>
+        <updated>2023-05-13T09:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/superphiz/status/1657303471098404866
+
+superphiz.eth 🦇🔊🛡️: We can start putting this loss of finality issue behind us, @Teku_ConsenSys and @prylabs have deployed fixes that will prevent the attestation flooding. This is one step on our diversity & decentralization journey, let's learn from it and move forward with greater purpose. https://t.co/cSRgPTWeuy]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊客户端 Prysm 和 Teku 发布公告，在 5 月 11 日和 12 日，信标链经历了 3 个和 8 个 epoch 无法达到最终性的两次独立事件。… https://twitter....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657323689959108610</id>
+        <link href="https://twitter.com/wublockchain12/status/1657323689959108610"/>
+        <updated>2023-05-13T09:55:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊客户端 Prysm 和 Teku 发布公告，在 5 月 11 日和 12 日，信标链经历了 3 个和 8 个 epoch 无法达到最终性的两次独立事件。… https://twitter.com/i/web/status/1657323689959108610]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/KaikoData/status/1657005173301030914]]></title>
         <id>https://twitter.com/wublockchain12/status/1657298418308616193</id>
@@ -280,29 +302,6 @@ https://www.coindesk.com/tech/2023/05/12/ethereum-resumes-finalizing-blocks-afte
         <summary type="html"><![CDATA[Re @WavyCapital Also think his reasoning is weak. Need a fundamental reason for active money to get shaken out of big tech]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布退出加拿大市场，因为与稳定币相关的新指南和提供给加密货币交易所的投资者限制使得加拿大市场此时不再适合币安。“尽管市场很小，但作为我们...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657176251025743873</id>
-        <link href="https://twitter.com/wublockchain12/status/1657176251025743873"/>
-        <updated>2023-05-13T00:09:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布退出加拿大市场，因为与稳定币相关的新指南和提供给加密货币交易所的投资者限制使得加拿大市场此时不再适合币安。“尽管市场很小，但作为我们创始人（赵长鹏）的祖国，它对我们来说具有情感价值”。https://twitter.com/binance/status/1657099651210969088
-
-Binance: Unfortunately, today we are announcing that Binance will be joining other prominent crypto businesses in proactively withdrawing from the Canadian marketplace.
-We would like to thank those regulators who worked with us collaboratively to address the needs of Canadian users.… https://twitter.com/i/web/status/1657099651210969088]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 NFT 碎片化协议 Tessera（原 Fractional）创始人 Andy Chorlian 5 月12 日推文，由其创办的 Tessera 与 NFT 市场 Escher 将在未来几周内关闭运营。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657171098767859713</id>
-        <link href="https://twitter.com/wublockchain12/status/1657171098767859713"/>
-        <updated>2023-05-12T23:49:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 NFT 碎片化协议 Tessera（原 Fractional）创始人 Andy Chorlian 5 月12 日推文，由其创办的 Tessera 与 NFT 市场 Escher 将在未来几周内关闭运营。他在推文中表示，在深入研究 Escher… https://twitter.com/i/web/status/1657171098767859713]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1015,11 +1014,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1135,7 +1134,7 @@ Let's dig in 👇]]></summary>
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1231,7 +1230,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1254,15 +1253,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1311,12 +1310,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
