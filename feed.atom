@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T09:11:24.939Z</id>
+    <id>urn:2023-05-13T10:13:00.583Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T09:11:24.939Z</updated>
+    <updated>2023-05-13T10:13:00.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/KaikoData/status/1657005173301030914]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657298418308616193</id>
+        <link href="https://twitter.com/wublockchain12/status/1657298418308616193"/>
+        <updated>2023-05-13T08:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/KaikoData/status/1657005173301030914
+
+Kaiko: #BTC's rolling 30-day #correlation with #ETH fell below 80% this week for the first time since Nov 2021. https://t.co/5DsXQAbexH]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Kaiko 数据，比特币和以太坊的滚动 30 天相关性本周降至约 78%，为 18 个月来首次下降至 80% 以下。相关性衡量了两种资产价格的紧密程度。当相关性...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657298278390849539</id>
+        <link href="https://twitter.com/wublockchain12/status/1657298278390849539"/>
+        <updated>2023-05-13T08:14:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 数据，比特币和以太坊的滚动 30 天相关性本周降至约 78%，为 18 个月来首次下降至 80% 以下。相关性衡量了两种资产价格的紧密程度。当相关性较低时，意味着它们的价格更频繁地朝不同方向移动。上个月，Coinbase… https://twitter.com/i/web/status/1657298278390849539]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，OpenAI 今日宣布网页浏览和插件功能将于下周开放给所有 ChatGPT Plus 用户，目前部分用户已可提前测试使用网页浏览功能。经吴说团队实测，目前该功能...]]></title>
         <id>https://twitter.com/wublockchain12/status/1657252897284055047</id>
@@ -423,37 +445,12 @@ Holger Zschaepitz: Good Morning from #Germany, where the average working hours
         <summary type="html"><![CDATA[RT Azima 🛸
 Less than 6 months later pf close to ath
 This is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it
-I still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784
+I still think there's a few points of advice that might be helpful to someone
 
 Azima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.
 Time to grind again..]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊开发者 Péter Szilágyi 提醒，测试网 Rinkeby 将在 20 天内停止运行，请相关人员迁移需要的任何内容，保存需要的任何链数据，官方基础设施将...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657070474797678592</id>
-        <link href="https://twitter.com/wublockchain12/status/1657070474797678592"/>
-        <updated>2023-05-12T17:09:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊开发者 Péter Szilágyi 提醒，测试网 Rinkeby 将在 20 天内停止运行，请相关人员迁移需要的任何内容，保存需要的任何链数据，官方基础设施将被关闭。https://twitter.com/peter_szilagyi/status/1656992962402811907
-
-Péter Szilágyi (karalabe.eth): Final warning, Rinkeby is getting sunset in 20 days. Migrate anything you need, save any chain data you need, official infra is going away.
-#Ethereum]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 我们决定发布一个修复程序来加强 Prysm 在这种情况下的处理能力。https://twitter.com/potuz1/status/1657031082749861891]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657059002394775552</id>
-        <link href="https://twitter.com/wublockchain12/status/1657059002394775552"/>
-        <updated>2023-05-12T16:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 我们决定发布一个修复程序来加强 Prysm 在这种情况下的处理能力。https://twitter.com/potuz1/status/1657031082749861891
-
-Potuz: Yesterday close to 8pm UTC the Ethereum network lost finality for 25 minutes. Around that time, several valid, but untimely attestations were broadcast in the network. This typically happens when a node that is struggling to be synced, attests with an old view of the chain. 1/8]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1041,13 +1038,13 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784]]></title>
+        <title type="html"><![CDATA[$PEPE +85% since lol]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
         <updated>2023-05-04T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/onchainwizard/status/1653794087730806784
+        <summary type="html"><![CDATA[$PEPE +85% since lol
 
-Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968]]></summary>
+Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1068,7 +1065,7 @@ Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to o
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
-I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1080,7 +1077,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <id>https://twitter.com/OnChainWizard/status/1653794087730806784</id>
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/northrocklp/status/1653447926029651968
+        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1115,7 +1112,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <summary type="html"><![CDATA[Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312
 
 Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]></summary>
+Let's dig in 👇]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1182,7 +1179,7 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <updated>2023-05-03T09:46:54.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
 Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
+Let's dig in 👇
 
 Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
         <author>
