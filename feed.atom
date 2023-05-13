@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T07:11:35.780Z</id>
+    <id>urn:2023-05-13T08:15:00.961Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T07:11:35.780Z</updated>
+    <updated>2023-05-13T08:15:00.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OpenAI 今日宣布网页浏览和插件功能将于下周开放给所有 ChatGPT Plus 用户，目前部分用户已可提前测试使用网页浏览功能。经吴说团队实测，目前该功能...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1657252897284055047</id>
+        <link href="https://twitter.com/wublockchain12/status/1657252897284055047"/>
+        <updated>2023-05-13T05:14:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OpenAI 今日宣布网页浏览和插件功能将于下周开放给所有 ChatGPT Plus 用户，目前部分用户已可提前测试使用网页浏览功能。经吴说团队实测，目前该功能对加密行业而言仅适用于对现成文字内容进行检索、汇总、分析，尚无法对略复杂数据进行处理，用户在使用该产品时需注意信息甄别。 https://t.co/dd8PbYgKO7]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据慢雾 @IM_23pds 提醒，由于 BRC-20 火热， 针对 BRC-20 的钓鱼出现，http://unisats.io 和 http://unisatscn.xyz 均为钓鱼链接，用户需注意钓鱼风险...]]></title>
         <id>https://twitter.com/wublockchain12/status/1657237788146937856</id>
@@ -442,16 +452,6 @@ Péter Szilágyi (karalabe.eth): Final warning, Rinkeby is getting sunset in 2
         <summary type="html"><![CDATA[Re 我们决定发布一个修复程序来加强 Prysm 在这种情况下的处理能力。https://twitter.com/potuz1/status/1657031082749861891
 
 Potuz: Yesterday close to 8pm UTC the Ethereum network lost finality for 25 minutes. Around that time, several valid, but untimely attestations were broadcast in the network. This typically happens when a node that is struggling to be synced, attests with an old view of the chain. 1/8]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Prysm 客户端开发者 Potuz 回顾昨日以太坊近半小时未实现最终性事件。 Potuz 表示，在当时有一些有效但不合时宜的证明在网络上广播，这通常发生在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657058954072174593</id>
-        <link href="https://twitter.com/wublockchain12/status/1657058954072174593"/>
-        <updated>2023-05-12T16:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Prysm 客户端开发者 Potuz 回顾昨日以太坊近半小时未实现最终性事件。 Potuz 表示，在当时有一些有效但不合时宜的证明在网络上广播，这通常发生在一个节点试图同步时，使用了一个旧的链视图进行证明，这会造成了不同共识客户端的压力，尤其是那些在较弱硬件上运行的客户端开始难以追块。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
