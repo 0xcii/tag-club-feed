@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T08:16:54.430Z</id>
+    <id>urn:2023-05-15T09:13:30.412Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-15T08:16:54.430Z</updated>
+    <updated>2023-05-15T09:13:30.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，CryptoQuant 和 glassnode 数据显示，Coinbase 在今日 12 时左右有超过 5.34 万枚 ETH 流入，约合 10 亿美元左右，目前尚无法确定是否属于内部钱包转...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657992669745004549</id>
-        <link href="https://twitter.com/wublockchain12/status/1657992669745004549"/>
-        <updated>2023-05-15T06:13:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CryptoQuant 和 glassnode 数据显示，Coinbase 在今日 12 时左右有超过 5.34 万枚 ETH 流入，约合 10 亿美元左右，目前尚无法确定是否属于内部钱包转账。
-https://cryptoquant.com/asset/eth/chart/exchange-flows/exchange-inflow-total?exchange=coinbase_pro&window=HOUR&sma=0&ema=0&priceScale=log&metricScale=linear&chartStyle=column
-https://studio.glassnode.com/metrics?a=ETH&category=Entities&chartStyle=column&e=coinbase&m=transactions.TransfersVolumeToExchangesSum&resolution=1h&s=1683845438&u=1684166399&zoom= https://t.co/C7INyH7FQ7]]></summary>
+        <title type="html"><![CDATA[据金融时报，美国司法部 (DOJ) 的加密执法负责人 Eun Young Choi 表示，将打击加密平台上的非法行为，并表示在过去四年中加密货币犯罪的规模“显著增长”，该部...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658036844968431617</id>
+        <link href="https://twitter.com/wublockchain12/status/1658036844968431617"/>
+        <updated>2023-05-15T09:09:23.000Z</updated>
+        <summary type="html"><![CDATA[据金融时报，美国司法部 (DOJ) 的加密执法负责人 Eun Young Choi 表示，将打击加密平台上的非法行为，并表示在过去四年中加密货币犯罪的规模“显著增长”，该部门的重点是回避反洗钱或了解你的客户规则（KYC）或不参与彻底合规和风险缓解的企业。Choi… https://twitter.com/i/web/status/1658036844968431617]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，区块链基础设施提供商Ankr宣布与迪拜多商品中心（DMCC）达成战略合作伙伴关系，支持数百家Web3企业。DMCC是全球旗舰自由贸易区和迪拜政府权威的商品贸...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658036702051729408</id>
+        <link href="https://twitter.com/wublockchain12/status/1658036702051729408"/>
+        <updated>2023-05-15T09:08:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，区块链基础设施提供商Ankr宣布与迪拜多商品中心（DMCC）达成战略合作伙伴关系，支持数百家Web3企业。DMCC是全球旗舰自由贸易区和迪拜政府权威的商品贸易和企业机构。Ankr广泛的解决方案套件将提供给DMCC加密中心内的企业，使其能够访问各种产品和服务，如特定于应用程序的区块链工程、节点基… https://twitter.com/i/web/status/1658036702051729408]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -234,16 +242,6 @@ Mike Hassard: Roman Sterlingov is wrongfully accused of operating Bitcoin Fog,
         <link href="https://twitter.com/wublockchain12/status/1657926711248584705"/>
         <updated>2023-05-15T01:51:45.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Roman Sterlingov 辩护律师 Mike Hassard 表示，Roman 被错误地指控为混币器 Bitcoin Fog 运营者；2021年 Roman 被美国 FBI 逮捕至今并没收了剩余财产，被指控在过去七年中经营 Bitcoin Fog。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 izru，俄罗斯财政部副部长表示，俄罗斯加密货币行业的监管机构首先是联邦税务局，这将成为市场参与者的进入窗口；其次是联邦金融监管局与央行；但...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1657924626125824000</id>
-        <link href="https://twitter.com/wublockchain12/status/1657924626125824000"/>
-        <updated>2023-05-15T01:43:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 izru，俄罗斯财政部副部长表示，俄罗斯加密货币行业的监管机构首先是联邦税务局，这将成为市场参与者的进入窗口；其次是联邦金融监管局与央行；但除银行外，普通人涉及加密货币的监管机构应该是联邦税务局。https://iz.ru/1512726/anna-kaledina/u-nas-net-zadachi-prosto-razdat-gossobstvennost-pobystree]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -557,7 +555,7 @@ $DAI holders: earn organic yield on your favorite chain with no impermanent loss
         <summary type="html"><![CDATA[RT Azima 🛸
 Less than 6 months later pf close to ath
 This is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it
-I still think there's a few points of advice that might be helpful to someone
+I still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784
 
 Azima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.
 Time to grind again..]]></summary>
@@ -1095,13 +1093,13 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$PEPE +85% since lol]]></title>
+        <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/OnChainWizard/status/1653794087730806784]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
         <updated>2023-05-04T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[$PEPE +85% since lol
+        <summary type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/OnChainWizard/status/1653794087730806784
 
-Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week]]></summary>
+Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1122,7 +1120,7 @@ Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to o
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
-I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
+I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1134,7 +1132,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <id>https://twitter.com/OnChainWizard/status/1653794087730806784</id>
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
+        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1169,7 +1167,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <summary type="html"><![CDATA[Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312
 
 Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇]]></summary>
+Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1226,7 +1224,7 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <updated>2023-05-03T09:46:54.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
 Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇
+Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
 
 Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
         <author>
