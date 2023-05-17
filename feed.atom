@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T05:12:30.320Z</id>
+    <id>urn:2023-05-17T06:16:50.456Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T05:12:30.320Z</updated>
+    <updated>2023-05-17T06:16:50.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @DekuKing1 是谁，送你来到我身边]]></title>
+        <id>https://twitter.com/8848Community/status/1658692449131466758</id>
+        <link href="https://twitter.com/8848Community/status/1658692449131466758"/>
+        <updated>2023-05-17T04:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @DekuKing1 是谁，送你来到我身边]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可怕 眼睛都花了 https://t.co/FD4lMzjaU7]]></title>
+        <id>https://twitter.com/8848Community/status/1658688700677775362</id>
+        <link href="https://twitter.com/8848Community/status/1658688700677775362"/>
+        <updated>2023-05-17T04:19:37.000Z</updated>
+        <summary type="html"><![CDATA[可怕
+眼睛都花了 https://t.co/FD4lMzjaU7]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/adietrichs/status/1658522444817104898]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675963499282433</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675963499282433"/>
+        <updated>2023-05-17T03:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/adietrichs/status/1658522444817104898
+
+ansgar.eth 🦇🔊 .oO: I was initially upset when I heard about the latest Ledger firmware upgrade introducing seed backup functionality. Looking into this a bit, my understanding now is that this does not actually seem to change any trust assumptions: 1/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5、关键是，最新固件并没有改变这一点。这个新的恢复功能是更新的 BOLOS 内核的一部分。但它也受到用户密码的限制。因此，以前攻击途径是“密码+固件签名”，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675806380642314</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675806380642314"/>
+        <updated>2023-05-17T03:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 5、关键是，最新固件并没有改变这一点。这个新的恢复功能是更新的 BOLOS 内核的一部分。但它也受到用户密码的限制。因此，以前攻击途径是“密码+固件签名”，现在多了一种途径即“密码+助记词恢复协议”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 4、因此，在这次最新固件更新之前，信任假设是：假设只信任 SE 的完整性（即，Ledger 公司和连接到设备的计算机可能被入侵），用户密码是防止攻击者获得助记...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675804400914432</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675804400914432"/>
+        <updated>2023-05-17T03:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 4、因此，在这次最新固件更新之前，信任假设是：假设只信任 SE 的完整性（即，Ledger 公司和连接到设备的计算机可能被入侵），用户密码是防止攻击者获得助记词的唯一障碍。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3、这里重要的部分是密码的批准。即使 Ledger 公司被入侵并签署了恶意固件，即使攻击者可以物理访问，他们在执行固件升级时只有三次密码尝试的机会。连续三次...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675802425397253</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675802425397253"/>
+        <updated>2023-05-17T03:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 3、这里重要的部分是密码的批准。即使 Ledger 公司被入侵并签署了恶意固件，即使攻击者可以物理访问，他们在执行固件升级时只有三次密码尝试的机会。连续三次错误的密码尝试会导致助记词被清除。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 以及在沙盒中运行每个应用程序的应用程序加载器。 2、每个固件更新都会更新 BOLOS 内核，这意味着任何恶意固件升级都可能导致攻击者窃取你的助记词。那么固件...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675800357613568</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675800357613568"/>
+        <updated>2023-05-17T03:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 以及在沙盒中运行每个应用程序的应用程序加载器。
+2、每个固件更新都会更新 BOLOS 内核，这意味着任何恶意固件升级都可能导致攻击者窃取你的助记词。那么固件升级如何受到保护？有两点：新的固件必须由 Ledger 进行签名，并且用户必须使用他们的密码批准更新。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不过其表示 Ledger 在这方面的沟通非常糟糕（而且该功能可能值得商榷），但舆论已经夸大了： 1、Ledger 设备的核心是安全元件（SE）。它存储 BIP-32 助记词和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675798373728260</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675798373728260"/>
+        <updated>2023-05-17T03:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过其表示 Ledger 在这方面的沟通非常糟糕（而且该功能可能值得商榷），但舆论已经夸大了：
+1、Ledger 设备的核心是安全元件（SE）。它存储 BIP-32 助记词和用户密码，并执行所有的加密操作。它运行一个名为 BOLOS 的固件，包括一个具有助记词访问权限的内核，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，针对近期 Ledger 最新固件引入助记词恢复功能事宜，以太坊基金会研究员 ansgar.eth 表示一开始对此有些不安，不过经过进一步了解，明白这实际上似乎并...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658675796406591495</id>
+        <link href="https://twitter.com/wublockchain12/status/1658675796406591495"/>
+        <updated>2023-05-17T03:28:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，针对近期 Ledger 最新固件引入助记词恢复功能事宜，以太坊基金会研究员 ansgar.eth 表示一开始对此有些不安，不过经过进一步了解，明白这实际上似乎并没有改变任何信任假设，信任保证是：“假设 SE 硬件完整性，没有密码，攻击者不可能获得助记词”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 近期已破产的 Celsius 相关地址活动频繁，或可能由清算人控制，此前另一个地址（0x1C...9074）通过 Figment 质押了 40.96k ETH。https://platform.arkhaminte...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658667683225964545</id>
+        <link href="https://twitter.com/wublockchain12/status/1658667683225964545"/>
+        <updated>2023-05-17T02:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 近期已破产的 Celsius 相关地址活动频繁，或可能由清算人控制，此前另一个地址（0x1C...9074）通过 Figment 质押了 40.96k ETH。https://platform.arkhamintelligence.com/explorer/tx/0x2ab10fc906790bb6518e7a51ce98041ddda9429fc952a80e7a180f05f095b19a & https://dune.com/21shares_research/lido-steth-withdrawals]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 数据，在 5 月 16 日 16:18 UTC，标记为 Celsius 地址（0xef...2ee1）将 428,083.6 枚 stETH（约 7.82 亿美元）存入 Lido 以请求 ETH 提款...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658667681317556224</id>
+        <link href="https://twitter.com/wublockchain12/status/1658667681317556224"/>
+        <updated>2023-05-17T02:56:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 数据，在 5 月 16 日 16:18 UTC，标记为 Celsius 地址（0xef...2ee1）将 428,083.6 枚 stETH（约 7.82 亿美元）存入 Lido 以请求 ETH 提款。@21Shares 数据面板显示，目前 Celsius 该笔请求提款金额约占 Lido 中 ETH Buffer 的 94.5%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，由万向区块链实验室主办的第九届 2023 上海区块链国际周将于 9 月 15 日至 20 日在上海市虹口区举办，此次活动由黑客马拉松、开放日和区块链全球峰会...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1658664992760291329</id>
+        <link href="https://twitter.com/wublockchain12/status/1658664992760291329"/>
+        <updated>2023-05-17T02:45:25.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，由万向区块链实验室主办的第九届 2023 上海区块链国际周将于 9 月 15 日至 20 日在上海市虹口区举办，此次活动由黑客马拉松、开放日和区块链全球峰会三部分组成，分别从应用创新、生态繁荣、深度分享这三个层面展开活动。
+https://mp.weixin.qq.com/s/kDg8xw3nJTx5O3IObm4gwQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 2、任务和联盟（Missions and Alliances），任务将包括拟议的任务和基金会任务，联盟则是一群临时合作的贡献者一起完成一项任务；3、集体信任层（Collective ...]]></title>
         <id>https://twitter.com/wublockchain12/status/1658655136863129600</id>
@@ -107,48 +233,6 @@ https://www.coindesk.com/business/2023/05/16/coinbase-initiated-at-hold-likely-t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://www.theblock.co/post/231030/coinbase-singapore-services]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658631095225835520</id>
-        <link href="https://twitter.com/wublockchain12/status/1658631095225835520"/>
-        <updated>2023-05-17T00:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.theblock.co/post/231030/coinbase-singapore-services]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Global 正在扩大其为新加坡客户提供的服务范围，并宣布为使用新元的客户推出无手续费购买 USDC 的服务，同时还为新加坡的客户提供 ETH、SOL、ADA、ATOM...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658631093212549120</id>
-        <link href="https://twitter.com/wublockchain12/status/1658631093212549120"/>
-        <updated>2023-05-17T00:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Global 正在扩大其为新加坡客户提供的服务范围，并宣布为使用新元的客户推出无手续费购买 USDC 的服务，同时还为新加坡的客户提供 ETH、SOL、ADA、ATOM 和 XTZ 质押服务。此前，Coinbase 于去年10月获得了新加坡金融管理局 (MAS) 的批准，成为主要支付机构。（The Block）]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/CoinbaseSupport/status/1658534895675662356]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658624818881912833</id>
-        <link href="https://twitter.com/wublockchain12/status/1658624818881912833"/>
-        <updated>2023-05-17T00:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/CoinbaseSupport/status/1658534895675662356
-
-Coinbase Support: We’ve temporarily paused ETH staking reward payouts to address a minor technical issue. Rest assured, ETH staking is not impacted and rewards are still being earned and will be paid out. We anticipate to resolve this issue in the next 72 hours. https://status.coinbase.com/incidents/h69ddyxyw859]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 发推宣布暂时暂停 ETH 质押奖励支付，团队正在解决一个技术问题，并表示，ETH 质押不会受到影响，奖励仍在赚取并将支付。团队预计将在接下来...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658624701848260608</id>
-        <link href="https://twitter.com/wublockchain12/status/1658624701848260608"/>
-        <updated>2023-05-17T00:05:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 发推宣布暂时暂停 ETH 质押奖励支付，团队正在解决一个技术问题，并表示，ETH 质押不会受到影响，奖励仍在赚取并将支付。团队预计将在接下来的 72 小时内解决该问题。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @JJcycles Gonna be fun]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1658605466044231681</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1658605466044231681"/>
@@ -169,78 +253,17 @@ Coinbase Support: We’ve temporarily paused ETH staking reward payouts to add
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 融资的资金将使 Cormint 能够快速扩大在其位于Fort Stockton 旗舰地点的规模，目标是到 2024 年底实现 2.4EH 的自挖掘能力。https://www.businesswire.com/ne...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658499337801064448</id>
-        <link href="https://twitter.com/wublockchain12/status/1658499337801064448"/>
-        <updated>2023-05-16T15:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 融资的资金将使 Cormint 能够快速扩大在其位于Fort Stockton 旗舰地点的规模，目标是到 2024 年底实现 2.4EH 的自挖掘能力。https://www.businesswire.com/news/home/20230516005056/en/Cormint-raises-30000000-Series-A-and-400-BTC-in-Bitcoin-debt-to-scale-West-Texas-Bitcoin-mine]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Businesswire，新兴比特币矿企 Cormint 今天宣布完成 3000 万美元的 A 轮股权融资。此轮融资由该公司总裁 Jamie McAvity 和 Silicon Labs 董事长 Nav Sooch ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658499334525317120</id>
-        <link href="https://twitter.com/wublockchain12/status/1658499334525317120"/>
-        <updated>2023-05-16T15:47:09.000Z</updated>
-        <summary type="html"><![CDATA[据 Businesswire，新兴比特币矿企 Cormint 今天宣布完成 3000 万美元的 A 轮股权融资。此轮融资由该公司总裁 Jamie McAvity 和 Silicon Labs 董事长 Nav Sooch 共同领投。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT burn the bridge: 1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure ove...]]></title>
         <id>https://twitter.com/econoalchemist/status/1658482272293781507</id>
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/2oMPmlL23y]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658477260368932867</id>
-        <link href="https://twitter.com/wublockchain12/status/1658477260368932867"/>
-        <updated>2023-05-16T14:19:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/2oMPmlL23y]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re River 为个人和企业提供广泛的比特币相关服务，包括全额储备托管的经纪公司以及支持链上交易和闪电网络交易的钱包等。此前该公司已在 2021 年的 A 轮融资中筹...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658473776651304962</id>
-        <link href="https://twitter.com/wublockchain12/status/1658473776651304962"/>
-        <updated>2023-05-16T14:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Re River 为个人和企业提供广泛的比特币相关服务，包括全额储备托管的经纪公司以及支持链上交易和闪电网络交易的钱包等。此前该公司已在 2021 年的 A 轮融资中筹集了 1200 万美元。（Coindesk）
-https://www.coindesk.com/business/2023/05/16/peter-thiel-backs-bitcoin-startup-river-in-35m-round/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币技术和金融服务公司 River 完成 3500 万美元 B 轮融资，Kingsway Capital 领投，亿万富翁 Peter Thiel 等跟投。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658473770842193921</id>
-        <link href="https://twitter.com/wublockchain12/status/1658473770842193921"/>
-        <updated>2023-05-16T14:05:34.000Z</updated>
-        <summary type="html"><![CDATA[比特币技术和金融服务公司 River 完成 3500 万美元 B 轮融资，Kingsway Capital 领投，亿万富翁 Peter Thiel 等跟投。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 差异部分是由于套利者在权衡监管不确定性对套利利润的影响以及美元提款的限制所引起的摩擦。https://coinmetrics.substack.com/p/state-of-the-network-issue...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1658467188855148547</id>
-        <link href="https://twitter.com/wublockchain12/status/1658467188855148547"/>
-        <updated>2023-05-16T13:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 差异部分是由于套利者在权衡监管不确定性对套利利润的影响以及美元提款的限制所引起的摩擦。https://coinmetrics.substack.com/p/state-of-the-network-issue-207]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -291,12 +314,12 @@ https://topscore.knn3.xyz/rsrv]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -377,7 +400,7 @@ Sounds silly when you say it out loud.]]></summary>
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://t.co/nZGnR5FpEn
+R.I.P. https://twitter.com/fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
@@ -624,7 +647,7 @@ $DAI holders: earn organic yield on your favorite chain with no impermanent loss
         <summary type="html"><![CDATA[RT Azima 🛸
 Less than 6 months later pf close to ath
 This is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it
-I still think there's a few points of advice that might be helpful to someone
+I still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784
 
 Azima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.
 Time to grind again..]]></summary>
@@ -885,29 +908,6 @@ https://www.ooopn.com/tool/chatgpt/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Rui: 最近的最大感觉是一级市场和二级市场脱钩严重，赛道拥挤数量庞大。 19/20年的时候一周能有五个项目就不错，VC的工作是炒币+带着项目方炒币，大家都很贴...]]></title>
-        <id>https://twitter.com/YeruiZhang/status/1655501917727133696</id>
-        <link href="https://twitter.com/YeruiZhang/status/1655501917727133696"/>
-        <updated>2023-05-08T09:16:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Rui
-最近的最大感觉是一级市场和二级市场脱钩严重，赛道拥挤数量庞大。
-19/20年的时候一周能有五个项目就不错，VC的工作是炒币+带着项目方炒币，大家都很贴近二级市场。
-21年的时候虽然项目多，但海投状态的VC投的多所以关心的不是项目质量而是怎么卖币，项目因为上线快有TGE所以看着二级市场退比较重要。]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们不要吹自己赚了多少了，好几个群友被举报封微信了 https://t.co/ERObLCgwHK]]></title>
-        <id>https://twitter.com/8848Community/status/1655484822159253504</id>
-        <link href="https://twitter.com/8848Community/status/1655484822159253504"/>
-        <updated>2023-05-08T08:08:33.000Z</updated>
-        <summary type="html"><![CDATA[你们不要吹自己赚了多少了，好几个群友被举报封微信了 https://t.co/ERObLCgwHK]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 据彭博社报道，微软有： - 数百名敬业的员工 - 向 Athena 投资约 20 亿美元 微软的举动发出了一个强烈的信息，表明它决心不仅要成为人工智能竞赛的主要竞争对...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1655473654459949056</id>
         <link href="https://twitter.com/AntCaveClub/status/1655473654459949056"/>
@@ -1091,11 +1091,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1114,13 +1114,13 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$PEPE +85% since lol]]></title>
+        <title type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/OnChainWizard/status/1653794087730806784]]></title>
         <id>https://twitter.com/OnChainWizard/status/1654091358301200386</id>
         <link href="https://twitter.com/OnChainWizard/status/1654091358301200386"/>
         <updated>2023-05-04T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[$PEPE +85% since lol
+        <summary type="html"><![CDATA[$PEPE +85% since lol https://twitter.com/OnChainWizard/status/1653794087730806784
 
-Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week]]></summary>
+Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1141,7 +1141,7 @@ Onchain Wizard: I think PEPE profits will flow elsewhere. But it won't be to o
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
-I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
+I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1153,7 +1153,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <id>https://twitter.com/OnChainWizard/status/1653794087730806784</id>
         <link href="https://twitter.com/OnChainWizard/status/1653794087730806784"/>
         <updated>2023-05-03T16:10:11.000Z</updated>
-        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week
+        <summary type="html"><![CDATA[I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash.  It will flow back into PEPE. It will be will be clear in about a week https://twitter.com/NorthRockLP/status/1653447926029651968
 
 Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other memecoins. It won't be to traditional alts. It won't be to ETH. It won't be to BTC, and it won't be to cash. Where it will be will be clear in about a week. https://twitter.com/i/web/status/1653447926029651968]]></summary>
         <author>
@@ -1188,7 +1188,7 @@ Hal Press: I think PEPE profits will flow elsewhere. But it won't be to other 
         <summary type="html"><![CDATA[Re @VechainWhale @ChadCaff https://twitter.com/onchainwizard/status/1653697633343373312
 
 Onchain Wizard: Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇]]></summary>
+Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -1211,7 +1211,7 @@ Let's dig in 👇]]></summary>
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1245,7 +1245,7 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <updated>2023-05-03T09:46:54.000Z</updated>
         <summary type="html"><![CDATA[RT Onchain Wizard
 Memecoins are pumping and you are still aping TG calls, anon?    Instead, use my simple process to find influencer wallets (which is how I found Chad's, wallet which has increased from $5k to over $200k in a few weeks).   
-Let's dig in 👇
+Let's dig in 👇 https://twitter.com/OnChainWizard/status/1651928091126648832
 
 Onchain Wizard: @ChadCaff Found the wallet lol.   gg ser, I see the big winners in APED and BOB]]></summary>
         <author>
@@ -1297,7 +1297,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1320,15 +1320,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1377,12 +1377,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
