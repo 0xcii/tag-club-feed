@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T17:11:29.183Z</id>
+    <id>urn:2023-05-17T18:15:47.093Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T17:11:29.183Z</updated>
+    <updated>2023-05-17T18:15:47.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @rinakichan 🙏]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1658885768436121603</id>
+        <link href="https://twitter.com/OnChainWizard/status/1658885768436121603"/>
+        <updated>2023-05-17T17:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @rinakichan 🙏]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/coinbaseassets/status/1658862508680126466?s=46]]></title>
         <id>https://twitter.com/wublockchain12/status/1658870237457182720</id>
@@ -87,6 +97,21 @@ https://www.coindesk.com/web3/2023/05/17/airstack-raises-over-7m-for-ai-backed-w
         <summary type="html"><![CDATA[Web3 开发者平台 Airstack 完成了种子轮融资的后半部分，筹集超过700万美元。该公司允许开发人员使用人工智能 (AI) 支持的自然语言请求访问和利用跨链数据。Airstack 涉及营销引擎、DeFi 组合优化器、客户资源管理工具等项目。]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet这个也难受啊 以前的op/arb是交互几个生态应用就有了 现在是stark发给了几十个生态项目方 发给生态项目，这些生态项目拿空投噱头来pua大家 以前被一个pu...]]></title>
+        <id>https://twitter.com/8848Community/status/1658826763546550272</id>
+        <link href="https://twitter.com/8848Community/status/1658826763546550272"/>
+        <updated>2023-05-17T13:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Starknet这个也难受啊
+以前的op/arb是交互几个生态应用就有了
+现在是stark发给了几十个生态项目方
+发给生态项目，这些生态项目拿空投噱头来pua大家
+以前被一个pua交互几次就行了，现在妈呀要被几十个来pua交互啊？
+😰😰😰 https://t.co/46E8mQ3fdQ]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -885,19 +910,6 @@ https://link.medium.com/Xvmi0IBUEzb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[接口api中新增币种 8848 100861008611 采集时间:2023-05-09 24:00:00 直接上大所，派出所]]></title>
-        <id>https://twitter.com/8848Community/status/1655930789991968771</id>
-        <link href="https://twitter.com/8848Community/status/1655930789991968771"/>
-        <updated>2023-05-09T13:40:40.000Z</updated>
-        <summary type="html"><![CDATA[接口api中新增币种 8848 
-100861008611  
-采集时间:2023-05-09  24:00:00  
-直接上大所，派出所]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @sanyuan2016 错在了分析，园长， 一顿分析， 反向购买。 一般就对了。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1655514731820761089</id>
         <link href="https://twitter.com/AntCaveClub/status/1655514731820761089"/>
@@ -1241,16 +1253,6 @@ Protos: Control of TrueUSD private keys transferred to Techteryx https://proto
         <link href="https://twitter.com/OnChainWizard/status/1653728885668708355"/>
         <updated>2023-05-03T11:51:05.000Z</updated>
         <summary type="html"><![CDATA[Re @0xTrap Appreciate it (and nice tubby)]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CryptoNikyous My b ser!]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1653703600000909317</id>
-        <link href="https://twitter.com/OnChainWizard/status/1653703600000909317"/>
-        <updated>2023-05-03T10:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @CryptoNikyous My b ser!]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
