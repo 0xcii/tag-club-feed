@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1659606455757201409",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 BlockSec，Aave V2 (Polygon) 中 ReserveInterestRateStrategy 的最新升级导致协议暂时停止，影响了价值约 1.1 亿美元的资产。根本原因是新的 ReserveInterestRateStrategy 只兼容 Ethereum，不兼容 Polygon。https://twitter.com/BlockSecTeam/status/1659601021432365056 https://t.co/0sVsJDAFF1\n\n\nBlockSec: .@AaveAave the latest upgrade of ReserveInterestRateStrategy in Aave V2 (Polygon) has caused a temporary halt of the protocol, impacting assets worth ~$110M!\nThe root cause is the new ReserveInterestRateStrategy is only compatible with Ethereum, not compatible with Polygon. https://t.co/Ze3zSBS8Ck",
+          "link": "https://twitter.com/wublockchain12/status/1659606455757201409",
+          "publishedOn": "2023-05-19T17:06:27.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 BlockSec，Aave V2 (Polygon) 中 ReserveInterestRateStrategy 的最新升级导致协议暂时停止，影响了价值约 1.1 亿美元的资产。根本原因是新的 Rese...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1659582915947413504",
           "author": "吴说区块链",
           "description": "Re Okcoin 于 2019 年启动其开源开发者资助计划，此后已捐赠超过 150 万美元用于比特币 Core 和闪电网络的研发。\nhttps://www.prnewswire.com/news-releases/okx-joins-okcoin-developer-grant-program-announces-co-sponsorship-award-to-bitcoin-developer-dusty-daemon-301829407.html",
@@ -193,16 +203,6 @@
           "publishedOn": "2023-05-19T11:23:15.000Z",
           "wordCount": null,
           "title": "Re https://cn.wsj.com/articles/bit-digital%E5%9C%A8%E5%86%B0%E5%B2%9B%E5%AE%89%E7%BD%AE%E6%AF%94%E7%89%B9%E5%B8%81%E7%9F%BF%E6%9C%BA-%E5%BA%94%E5%AF%B...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1659520083654508544",
-          "author": "吴说区块链",
-          "description": "据华尔街日报，比特币挖矿公司 Bit Digital 计划将其业务扩展到冰岛，试图对决拜登政府提议征收加密货币挖矿税的监管风险。该公司花费500万美元购买了2,500台新的比特币挖矿机，并将它们安置在冰岛。此举是 Bit Digital 两年来首次将新电脑运往美国以外的地方。",
-          "link": "https://twitter.com/wublockchain12/status/1659520083654508544",
-          "publishedOn": "2023-05-19T11:23:14.000Z",
-          "wordCount": null,
-          "title": "据华尔街日报，比特币挖矿公司 Bit Digital 计划将其业务扩展到冰岛，试图对决拜登政府提议征收加密货币挖矿税的监管风险。该公司花费500万美元购买了2,500台新...",
           "imageUrl": null
         }
       ]
@@ -639,7 +639,7 @@
         {
           "id": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "author": "DeFi Educator",
-          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
+          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
           "link": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "publishedOn": "2023-05-16T14:39:21.000Z",
           "wordCount": null,
@@ -659,11 +659,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "author": "DeFi Educator",
-          "description": "That’s it. Game over. \n@Ledger\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
+          "description": "That’s it. Game over. \n@Ledger https://twitter.com/k06a/status/1658375564154089478\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
           "link": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "publishedOn": "2023-05-16T10:26:31.000Z",
           "wordCount": null,
-          "title": "That’s it. Game over. @Ledger",
+          "title": "That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478",
           "imageUrl": null
         },
         {
@@ -709,17 +709,17 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1654130091880792064",
           "author": "DeFi Educator",
-          "description": "https://t.co/RNWG2l1Ax1\n\n\nBreaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.",
+          "description": "https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1\n\n\nBreaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.",
           "link": "https://twitter.com/DeFi_educator/status/1654130091880792064",
           "publishedOn": "2023-05-04T14:25:20.000Z",
           "wordCount": null,
-          "title": "https://t.co/RNWG2l1Ax1",
+          "title": "https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/adamscochran/status/1653737363133153280",
           "author": "DeFi Educator",
-          "description": "RT Adam Cochran (adamscochran.eth)\nWell there it is.\nJustin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.\nThen it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…\n\nProtos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/",
+          "description": "RT Adam Cochran (adamscochran.eth)\nWell there it is.\nJustin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.\nThen it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274\n\nProtos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/",
           "link": "https://twitter.com/adamscochran/status/1653737363133153280",
           "publishedOn": "2023-05-03T12:24:46.000Z",
           "wordCount": null,
@@ -749,7 +749,7 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1652013036968787983",
           "author": "DeFi Educator",
-          "description": "Get 25% off with 'DEFIEDUCATOR' at the best on-chain alert system @etherdrops_bot 🚀\nhttps://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR\n🚫 No revenue for me \n🚫 No paid shills\n✅ Just transparency & referral links\n✨ That's how it should be!\n\nEtherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn\nEarn 20% of revenue generated via your leads.\n🫂 All your invitees will get a 5% discount on the first purchase.\n🔗 Details and rules - https://0xcheck.medium.com/etherdrops-referral-program-refer-earn-9d6aba6631fb#86fa https://t.co/1j97zpCk7K",
+          "description": "Get 25% off with 'DEFIEDUCATOR' at the best on-chain alert system @etherdrops_bot 🚀\nhttps://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR\n🚫 No revenue for me \n🚫 No paid shills\n✅ Just transparency & referral links\n✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383\n\nEtherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn\nEarn 20% of revenue generated via your leads.\n🫂 All your invitees will get a 5% discount on the first purchase.\n🔗 Details and rules - https://0xcheck.medium.com/etherdrops-referral-program-refer-earn-9d6aba6631fb#86fa https://t.co/1j97zpCk7K",
           "link": "https://twitter.com/DeFi_educator/status/1652013036968787983",
           "publishedOn": "2023-04-28T18:12:55.000Z",
           "wordCount": null,
@@ -769,11 +769,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1650935094725451802",
           "author": "DeFi Educator",
-          "description": "🫡 https://t.co/KKl5pyrbVB\n\n\nDeFi Educator: GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon",
+          "description": "🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB\n\n\nDeFi Educator: GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794",
           "link": "https://twitter.com/DeFi_educator/status/1650935094725451802",
           "publishedOn": "2023-04-25T18:49:34.000Z",
           "wordCount": null,
-          "title": "🫡 https://t.co/KKl5pyrbVB",
+          "title": "🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB",
           "imageUrl": null
         },
         {
@@ -809,11 +809,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1650557291366604822",
           "author": "DeFi Educator",
-          "description": "GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon\n\nBinance.US 🇺🇸: wen floki?\nDeposits are NOW open for $FLOKI on #BinanceUS!\nThe @RealFlokiInu ecosystem consists of a Play-to-Earn game, FlokiFi (DeFi), Floki prepaid card (Visa/Mastercard), as well as NFT collections and marketplaces, with more to come. \nLearn more: https://bit.ly/busdepositfloki",
+          "description": "GCR selling his $FLOKI bags into this announcement. \nDon't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794\n\nBinance.US 🇺🇸: wen floki?\nDeposits are NOW open for $FLOKI on #BinanceUS!\nThe @RealFlokiInu ecosystem consists of a Play-to-Earn game, FlokiFi (DeFi), Floki prepaid card (Visa/Mastercard), as well as NFT collections and marketplaces, with more to come. \nLearn more: https://bit.ly/busdepositfloki",
           "link": "https://twitter.com/DeFi_educator/status/1650557291366604822",
           "publishedOn": "2023-04-24T17:48:18.000Z",
           "wordCount": null,
-          "title": "GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon",
+          "title": "GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...",
           "imageUrl": null
         },
         {
@@ -946,16 +946,6 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1659567128343617536",
           "author": "Onchain Wizard",
-          "description": "RT Onchain Wizard\nCT Influencers make 1000x gains🤑shilling meme coins to you while you are left holding the bag.   I created the  ultimate step-by-step guide to finding their wallets based on their shills in just a few quick steps 👀\nLet's dive in 👇 https://t.co/UN6ADxkMDH",
-          "link": "https://twitter.com/OnChainWizard/status/1659567128343617536",
-          "publishedOn": "2023-05-19T14:30:11.000Z",
-          "wordCount": null,
-          "title": "RT Onchain Wizard: CT Influencers make 1000x gains🤑shilling meme coins to you while you are left holding the bag. I created the ultimate step-by-st...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1659567128343617536",
-          "author": "Onchain Wizard",
           "description": "CT Influencers make 1000x gains🤑shilling meme coins to you while you are left holding the bag.   I created the  ultimate step-by-step guide to finding their wallets based on their shills in just a few quick steps 👀\nLet's dive in 👇 https://t.co/UN6ADxkMDH",
           "link": "https://twitter.com/OnChainWizard/status/1659567128343617536",
           "publishedOn": "2023-05-19T14:30:11.000Z",
@@ -1031,6 +1021,16 @@
           "publishedOn": "2023-05-09T15:24:55.000Z",
           "wordCount": null,
           "title": "RT Silent Protocol: ✨Silent in Amsterdam?🤫 Come catch @isa_sertkaya on the 20/21st of May in Eth Amsterdam, who knows, maybe a cup of tea?✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1654704642691854338",
+          "author": "Onchain Wizard",
+          "description": "Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse",
+          "link": "https://twitter.com/OnChainWizard/status/1654704642691854338",
+          "publishedOn": "2023-05-06T04:28:24.000Z",
+          "wordCount": null,
+          "title": "Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse",
           "imageUrl": null
         }
       ]

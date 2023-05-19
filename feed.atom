@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T17:11:51.583Z</id>
+    <id>urn:2023-05-19T18:15:42.356Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-19T17:11:51.583Z</updated>
+    <updated>2023-05-19T18:15:42.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 BlockSec，Aave V2 (Polygon) 中 ReserveInterestRateStrategy 的最新升级导致协议暂时停止，影响了价值约 1.1 亿美元的资产。根本原因是新的 Rese...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659606455757201409</id>
+        <link href="https://twitter.com/wublockchain12/status/1659606455757201409"/>
+        <updated>2023-05-19T17:06:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 BlockSec，Aave V2 (Polygon) 中 ReserveInterestRateStrategy 的最新升级导致协议暂时停止，影响了价值约 1.1 亿美元的资产。根本原因是新的 ReserveInterestRateStrategy 只兼容 Ethereum，不兼容 Polygon。https://twitter.com/BlockSecTeam/status/1659601021432365056 https://t.co/0sVsJDAFF1
+
+
+BlockSec: .@AaveAave the latest upgrade of ReserveInterestRateStrategy in Aave V2 (Polygon) has caused a temporary halt of the protocol, impacting assets worth ~$110M!
+The root cause is the new ReserveInterestRateStrategy is only compatible with Ethereum, not compatible with Polygon. https://t.co/Ze3zSBS8Ck]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Okcoin 于 2019 年启动其开源开发者资助计划，此后已捐赠超过 150 万美元用于比特币 Core 和闪电网络的研发。 https://www.prnewswire.com/news-releases/okx...]]></title>
         <id>https://twitter.com/wublockchain12/status/1659582915947413504</id>
@@ -146,18 +160,6 @@ To find, overlapping token holdings, all you need to do is take 2 or more recent
 Caff: Started a new wallet for memecoins 1 week ago
 So far, $4,800 → $130,000+
 All trades have been called publicly in https://t.me/Chad_Crypto https://t.co/qTATlRdb0u]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Onchain Wizard: CT Influencers make 1000x gains🤑shilling meme coins to you while you are left holding the bag. I created the ultimate step-by-st...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1659567128343617536</id>
-        <link href="https://twitter.com/OnChainWizard/status/1659567128343617536"/>
-        <updated>2023-05-19T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Onchain Wizard
-CT Influencers make 1000x gains🤑shilling meme coins to you while you are left holding the bag.   I created the  ultimate step-by-step guide to finding their wallets based on their shills in just a few quick steps 👀
-Let's dive in 👇 https://t.co/UN6ADxkMDH]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
@@ -351,16 +353,6 @@ https://www.theblock.co/post/231555/zug-bitcoin-ether-tax-payment-increased-limi
         <link href="https://twitter.com/wublockchain12/status/1659520085437087745"/>
         <updated>2023-05-19T11:23:15.000Z</updated>
         <summary type="html"><![CDATA[Re https://cn.wsj.com/articles/bit-digital%E5%9C%A8%E5%86%B0%E5%B2%9B%E5%AE%89%E7%BD%AE%E6%AF%94%E7%89%B9%E5%B8%81%E7%9F%BF%E6%9C%BA-%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%8F%AF%E8%83%BD%E5%87%BA%E5%8F%B0%E7%9A%84%E6%8C%96%E7%9F%BF%E7%A8%8E-697d2e35]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据华尔街日报，比特币挖矿公司 Bit Digital 计划将其业务扩展到冰岛，试图对决拜登政府提议征收加密货币挖矿税的监管风险。该公司花费500万美元购买了2,500台新...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659520083654508544</id>
-        <link href="https://twitter.com/wublockchain12/status/1659520083654508544"/>
-        <updated>2023-05-19T11:23:14.000Z</updated>
-        <summary type="html"><![CDATA[据华尔街日报，比特币挖矿公司 Bit Digital 计划将其业务扩展到冰岛，试图对决拜登政府提议征收加密货币挖矿税的监管风险。该公司花费500万美元购买了2,500台新的比特币挖矿机，并将它们安置在冰岛。此举是 Bit Digital 两年来首次将新电脑运往美国以外的地方。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -625,7 +617,7 @@ Odaily@ChinaCryptoNews: 🌟ODAILY星球日报X亚马逊云科技
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -681,12 +673,12 @@ https://topscore.knn3.xyz/rsrv]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1228,6 +1220,16 @@ Text-to-3D printers are about to be a thing very soon. https://t.co/vulI4qSWlY]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1654704642691854338</id>
+        <link href="https://twitter.com/OnChainWizard/status/1654704642691854338"/>
+        <updated>2023-05-06T04:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @Dotcryptodomain If something has less TVL than Métis it’s not a powerhouse]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT fiskantes.lens ⭐️🩸: Memecoins pumps are a demonstration of nihilism which currently plagues crypto market participants There is a clear urge t...]]></title>
         <id>https://twitter.com/Fiskantes/status/1654659934875963392</id>
         <link href="https://twitter.com/Fiskantes/status/1654659934875963392"/>
@@ -1263,11 +1265,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1283,7 +1285,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1335,7 +1337,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be!
+✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1358,15 +1360,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon]]></summary>
+Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1415,12 +1417,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon
+Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
