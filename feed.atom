@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T05:12:07.900Z</id>
+    <id>urn:2023-05-19T06:16:39.950Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-19T05:12:07.900Z</updated>
+    <updated>2023-05-19T06:16:39.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据彭博社，HashKey Group 计划以超过 10 亿美元估值筹集 1 亿至 2 亿美元资金，以扩大其客户群，目前正在进行早期谈判。此外，HashKey Group 旗下合规虚拟资产交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659413172145762304</id>
+        <link href="https://twitter.com/wublockchain12/status/1659413172145762304"/>
+        <updated>2023-05-19T04:18:25.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社，HashKey Group 计划以超过 10 亿美元估值筹集 1 亿至 2 亿美元资金，以扩大其客户群，目前正在进行早期谈判。此外，HashKey Group 旗下合规虚拟资产交易所 HashKey PRO 是目前香港仅有的两家持香港证监会运营虚拟资产交易平台牌照的公司之一。
+https://www.bloomberg.com/news/articles/2023-05-19/crypto-firm-seeks-funds-at-1-billion-plus-value-as-hk-opens-up]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 值得提醒的是，大额转入交易所行为并不一定代表着卖出行为，应当谨慎看待，警惕对潜在的偶然性巧合的合理化。https://bitinfocharts.com/bitcoin/address/31p...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659410092301885440</id>
+        <link href="https://twitter.com/wublockchain12/status/1659410092301885440"/>
+        <updated>2023-05-19T04:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 值得提醒的是，大额转入交易所行为并不一定代表着卖出行为，应当谨慎看待，警惕对潜在的偶然性巧合的合理化。https://bitinfocharts.com/bitcoin/address/31pt3CeUGQDN9fDPpZZtmWvMZBxqK6itvY]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据链上分析师 @EmberCN 数据， 今日凌晨一大户地址将 10,000 BTC（约 $2.67 亿美元）转进 Coinbase。而此前 5 月 12 日，该大户就曾向 Coinbase 转入...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659410090095689729</id>
+        <link href="https://twitter.com/wublockchain12/status/1659410090095689729"/>
+        <updated>2023-05-19T04:06:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据链上分析师 @EmberCN 数据， 今日凌晨一大户地址将 10,000 BTC（约 $2.67 亿美元）转进 Coinbase。而此前 5 月 12 日，该大户就曾向 Coinbase 转入过 10,000 BTC，当时 BTC 价格 $27,620，在该大户第一笔 BTC 转入交易所后一天时间，BTC 下跌至 $25,811，跌幅 6%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 慢雾方面回应：问题的核心点是应用没有和设备码绑定，这是目前99%的钱包、交易App等都存在的问题。没有绑定就导致数据被拖走或被恶意同步到其他设备导致被运...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659397392003928064</id>
+        <link href="https://twitter.com/wublockchain12/status/1659397392003928064"/>
+        <updated>2023-05-19T03:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 慢雾方面回应：问题的核心点是应用没有和设备码绑定，这是目前99%的钱包、交易App等都存在的问题。没有绑定就导致数据被拖走或被恶意同步到其他设备导致被运行，攻击者在配合其他手法如社工、爆破等获取的密码，导致资产被盗。https://twitter.com/im_23pds/status/1659395667108974592?s=46&t=iUhFwuhUajSOTvxcxFFdPA
+
+23pds: 借 @wublockchain12 一步说话，其实这个问题的核心点是'应用没有和设备码绑定'，这是目前99%的钱包、交易App等都存在的问题，我很久之前提过，但是可能是鉴于应用设计之初就没考虑这个问题，导致目前市场上的应用依旧未修复。 https://twitter.com/wublockchain12/status/1659376888534667264]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剧变在即：一文了解 2023 年 6 月 1 日开始实施“香港虚拟货币交易所持牌制度”。6 月 1 日之后，任何向香港公众主动推销服务的行为都将被视为提供虚拟资产服务...]]></title>
         <id>https://twitter.com/wublockchain12/status/1659392649890242567</id>
@@ -164,7 +207,7 @@ Dilation Effect: 1、使用 iPhone手机且安装了钱包App的用户，如�
         <summary type="html"><![CDATA[Re https://twitter.com/lido_intern/status/1659145904371236864
 
 Lido Intern: Another cool thing about @LidoFinance's withdrawal NFT is that it is transferrable - meaning that you can send it to whichever wallet that you'd like your unstaked ETH to be received to.
-More than that...]]></summary>
+More than that... https://twitter.com/nansen_ai/status/1658880070969364480]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -185,47 +228,6 @@ More than that...]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1659366030781874176"/>
         <updated>2023-05-19T01:11:05.000Z</updated>
         <summary type="html"><![CDATA[Re “我们需要为新来者找到一种方法，以实现大规模采用”。（TheBlock）https://www.theblock.co/post/231350/ledger-cto-on-recover-softwares-access-to-private-keys-the-tradeoff-i-think-is-acceptable]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger 首席技术官 Charles Guillemet 表示，该公司的新 Recover 产品是一种有意的“权衡”，目标人群是那些想要比在线交易所或在线钱包提供的安全性更高但仍然...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659366028051349505</id>
-        <link href="https://twitter.com/wublockchain12/status/1659366028051349505"/>
-        <updated>2023-05-19T01:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Ledger 首席技术官 Charles Guillemet 表示，该公司的新 Recover 产品是一种有意的“权衡”，目标人群是那些想要比在线交易所或在线钱包提供的安全性更高但仍然缺乏经验的人，Recover 产品并不是要替代 Ledger 的传统产品，后者将密钥保存在设备上，永远无法远程访问。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIBA 推出了据称是第一个利用 RGB 智能合约的比特币 NFT 市场。该公司希望促进NFT 等代币化资产从以太坊向比特币的迁移。DIBA 批评 Ordinals 和 BRC-20 代币基本...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659365110006304768</id>
-        <link href="https://twitter.com/wublockchain12/status/1659365110006304768"/>
-        <updated>2023-05-19T01:07:26.000Z</updated>
-        <summary type="html"><![CDATA[DIBA 推出了据称是第一个利用 RGB 智能合约的比特币 NFT 市场。该公司希望促进NFT 等代币化资产从以太坊向比特币的迁移。DIBA 批评 Ordinals 和 BRC-20 代币基本上是在试图将以太坊强加给比特币,在实践中效率低下而且没有达到应有的效果。(TheBlock) https://www.theblock.co/post/231379/bitcoin-nft-marketplace-rgb-protocol]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 以太坊以 2.7 亿美元的交易金额占据了 NFT 市场的 81%，但 NFT 交易数量仅占 5.7%，Polygon 则以 26.9% 在交易数量上领先；Blur 在 NFT 市场上的交易额占比显...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659364515358863360</id>
-        <link href="https://twitter.com/wublockchain12/status/1659364515358863360"/>
-        <updated>2023-05-19T01:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 以太坊以 2.7 亿美元的交易金额占据了 NFT 市场的 81%，但 NFT 交易数量仅占 5.7%，Polygon 则以 26.9% 在交易数量上领先；Blur 在 NFT 市场上的交易额占比显著领先，达到 62%，但1.2 万人的交易者数量远低于 OpenSea 的 10.4 万人。
-https://dappradar.com/blog/nft-market-nearing-sub-1-billion-era]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Dappradar 报告，本月 NFT 交易量截至 5 月 18 日仅 3.33 亿美元，月度交易量可能将首次低于 10 亿美元；参与 NFT 交易的每日独立活跃钱包在 5 月...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659364513349791745</id>
-        <link href="https://twitter.com/wublockchain12/status/1659364513349791745"/>
-        <updated>2023-05-19T01:05:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Dappradar 报告，本月 NFT 交易量截至 5 月 18 日仅 3.33 亿美元，月度交易量可能将首次低于 10 亿美元；参与 NFT 交易的每日独立活跃钱包在 5 月份激增 27% 达到 173,000，主要是受 Milady 系列 NFT 炒作的影响；]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -326,12 +328,12 @@ Keep reading 👇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊, The Σ Space Monkey: https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZ...]]></title>
+        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊, The Σ Space Monkey: https://t.co/iIFFxZLbE2]]></title>
         <id>https://twitter.com/0x_charlemagne/status/1658947436675735552</id>
         <link href="https://twitter.com/0x_charlemagne/status/1658947436675735552"/>
         <updated>2023-05-17T21:27:45.000Z</updated>
         <summary type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊, The Σ Space Monkey
-https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZLbE2
+https://t.co/iIFFxZLbE2
 
 
 DeFi Surfer: Which camp r u in https://t.co/fJuls3u1Gt]]></summary>
@@ -470,7 +472,7 @@ Odaily@ChinaCryptoNews: 🌟ODAILY星球日报X亚马逊云科技
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -526,12 +528,12 @@ https://topscore.knn3.xyz/rsrv]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -621,11 +623,11 @@ Fenng: 听到一个意外消息，希望不是真的。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real estate the real bubble https://twitter.com/GunjanJS/status/1657704646138372097]]></title>
+        <title type="html"><![CDATA[Real estate the real bubble]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1657937421411966976</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1657937421411966976"/>
         <updated>2023-05-15T02:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Real estate the real bubble https://twitter.com/GunjanJS/status/1657704646138372097
+        <summary type="html"><![CDATA[Real estate the real bubble
 
 Gunjan Banerji: Around 18% of Americans said stocks are the best long-term investment (compared with gold, real estate, CDs, bonds)-- lowest level in a Gallup survey since 2011 https://t.co/pP7Q45Yttd]]></summary>
         <author>
@@ -1148,11 +1150,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1268,7 +1270,7 @@ Let's dig in 👇]]></summary>
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1334,7 +1336,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1357,15 +1359,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1414,12 +1416,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
