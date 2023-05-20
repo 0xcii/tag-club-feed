@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-20T11:10:32.583Z</id>
+    <id>urn:2023-05-20T12:22:40.341Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-20T11:10:32.583Z</updated>
+    <updated>2023-05-20T12:22:40.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @eol56485785 女巫了]]></title>
+        <id>https://twitter.com/8848Community/status/1659874049265405953</id>
+        <link href="https://twitter.com/8848Community/status/1659874049265405953"/>
+        <updated>2023-05-20T10:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @eol56485785 女巫了]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晚上好 在这个炮火连天的晚上 我依然坚守本群 未曾离开 没有去约会 没有开房 北京时间：18：46 为本群站岗 为清纯打卡 #IP属地：8848社区3008号房（水床房）]]></title>
+        <id>https://twitter.com/8848Community/status/1659873078816673793</id>
+        <link href="https://twitter.com/8848Community/status/1659873078816673793"/>
+        <updated>2023-05-20T10:45:55.000Z</updated>
+        <summary type="html"><![CDATA[晚上好
+在这个炮火连天的晚上
+我依然坚守本群 未曾离开 
+没有去约会 没有开房
+北京时间：18：46
+为本群站岗 为清纯打卡
+#IP属地：8848社区3008号房（水床房）]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道老子为区块链做了多大贡献吗 https://t.co/C0ZJAThiB0]]></title>
+        <id>https://twitter.com/8848Community/status/1659861071904243712</id>
+        <link href="https://twitter.com/8848Community/status/1659861071904243712"/>
+        <updated>2023-05-20T09:58:12.000Z</updated>
+        <summary type="html"><![CDATA[你知道老子为区块链做了多大贡献吗 https://t.co/C0ZJAThiB0]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 针对部分用户反映遇到了手续费异常的问题。Gate 技术团队表示，这是由于开放提现的最初30分钟左右，ORDI的网络状况不稳定导致的，并已及时进行了调整，恢复了...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659855791149715456</id>
+        <link href="https://twitter.com/wublockchain12/status/1659855791149715456"/>
+        <updated>2023-05-20T09:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 针对部分用户反映遇到了手续费异常的问题。Gate 技术团队表示，这是由于开放提现的最初30分钟左右，ORDI的网络状况不稳定导致的，并已及时进行了调整，恢复了正常的手续费水平。Gate 对此向用户致歉，将探索解决BRC20高费率和拥堵问题的方案，以提升用户的使用体验。https://www.gate.io/zh/article/30831]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/liangfenxiaodao/status/1659833337819824129?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659849644128751616</id>
+        <link href="https://twitter.com/wublockchain12/status/1659849644128751616"/>
+        <updated>2023-05-20T09:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/liangfenxiaodao/status/1659833337819824129?s=20
+
+凉粉小刀 (168,168): 最近两天各个群流传一个叫做zksync_script的脚本，号称能做各种各样的交互任务。
+刚刚脚哥 @scriptdotmoney 群友发现，这项目的依赖库是有问题的。
+正经的官方sdk叫做zksync-web3，而这个项目依赖了一个自建的叫做zksync-web3js的查不到源码的库。
+这样看来，只要执行过该脚本，私钥就归他了。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @liangfenxiaodao，近期社区所流传的一个名为 zksync_script 的 zksync 刷空投脚本存在安全性问题，项目的依赖库使用的是一个名为 zksync-web3js ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1659849515812417536</id>
+        <link href="https://twitter.com/wublockchain12/status/1659849515812417536"/>
+        <updated>2023-05-20T09:12:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @liangfenxiaodao，近期社区所流传的一个名为 zksync_script 的 zksync 刷空投脚本存在安全性问题，项目的依赖库使用的是一个名为 zksync-web3js 的自建库且查不到源码，而非官方的 zksync-web3。运行该脚本后可能存在私钥被盗取的风险，应尽快转移资产。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[150万地址了，这里面有你的多少个 https://twitter.com/zksync/status/1659577440841392128]]></title>
         <id>https://twitter.com/8848Community/status/1659844200748421123</id>
@@ -113,7 +184,7 @@ optimism 跟 Arbitrum 发给生态项目方的空投
         <summary type="html"><![CDATA[Re 据了解，GridPlus 拟于第三季度开源其固件，而 Ledger 目前尚未开源相关代码（即使表示未来会开源）。吴说此前曾报道，硬件钱包厂商 OneKey 官宣其自主研发的一套基于 linux 的开源固件。https://twitter.com/gridplus/status/1659606690738716678
 
 GridPlus 🦇🔊: This image of a deleted GridPlus tweet is making the rounds, so we'd like to transparently address this head on rather than jumping into lots of threads.
-Which tweet is correct? Both. How? Because the architecture of the #Lattice1 is not comparable to legacy BTC wallets. 🧵 https://twitter.com/Mudit__Gupta/status/1659418361460080640]]></summary>
+Which tweet is correct? Both. How? Because the architecture of the #Lattice1 is not comparable to legacy BTC wallets. 🧵]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -203,7 +274,7 @@ Our settlement demand letter has served as an NFT to your ben.eth address, viewa
         <id>https://twitter.com/wublockchain12/status/1659748576946438145</id>
         <link href="https://twitter.com/wublockchain12/status/1659748576946438145"/>
         <updated>2023-05-20T02:31:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国芝加哥律师事务所 Loevy & Loevy 创始合伙人 Mike Kanovitz 表示对 KOL ben.eth 及其从 Twitter 公开募资的 PSYOP 项目提出集体诉讼，要求其立即退还所有 PSYOP 预售购买者的款项，并将和解要求信以 NFT 形式发送至 ben.eth 地址上。 https://twitter.com/wublockchain12/status/1659544869935919104
+        <summary type="html"><![CDATA[吴说获悉，美国芝加哥律师事务所 Loevy & Loevy 创始合伙人 Mike Kanovitz 表示对 KOL ben.eth 及其从 Twitter 公开募资的 PSYOP 项目提出集体诉讼，要求其立即退还所有 PSYOP 预售购买者的款项，并将和解要求信以 NFT 形式发送至 ben.eth 地址上。
 
 吴说区块链: 吴说获悉，由 KOL ben.eth 在 Twitter 筹资并创建发布的 PSYOP 已于本日正式上线，目前 PSYOP 市值高达 5.8 亿美元，流动性池约 2900 万美元，持有地址超过 1.2 万。链上数据显示，尽管已转出部分，但用于筹资的 ben.eth 钱包中目前还有 3,864 枚 ETH，价值超过 700 万美元；]]></summary>
         <author>
@@ -238,37 +309,6 @@ https://www.gate.ac/zh/article/30617]]></summary>
         <updated>2023-05-20T01:44:09.000Z</updated>
         <summary type="html"><![CDATA[吴说周精选：Tether将定期购买BTC、Sui破发项目疑似官方砸盘、 孙宇晨攻击李林弟弟与新闻Top10（0512-0519）
 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14449]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 小肯尼迪目前是美国民主党总统候选人，也是美国第 35 任总统约翰·肯尼迪的侄子。他获得了大约 14% 的民主党初选选民的支持，低于拜登约50%的民主党内部支持...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659735024713998336</id>
-        <link href="https://twitter.com/wublockchain12/status/1659735024713998336"/>
-        <updated>2023-05-20T01:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 小肯尼迪目前是美国民主党总统候选人，也是美国第 35 任总统约翰·肯尼迪的侄子。他获得了大约 14% 的民主党初选选民的支持，低于拜登约50%的民主党内部支持率。（Cointelegraph）
-https://cointelegraph.com/news/breaking-robert-f-kennedy-jr-to-accept-campaign-donations-in-bitcoin]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小罗伯特·肯尼迪在比特币 2023 大会上表示其将成为美国历史上首位接受比特币竞选捐款的总统候选人，他在活动期间称赞加密货币是“民主和自由的象征”。在 5 月 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659735022725890050</id>
-        <link href="https://twitter.com/wublockchain12/status/1659735022725890050"/>
-        <updated>2023-05-20T01:37:20.000Z</updated>
-        <summary type="html"><![CDATA[小罗伯特·肯尼迪在比特币 2023 大会上表示其将成为美国历史上首位接受比特币竞选捐款的总统候选人，他在活动期间称赞加密货币是“民主和自由的象征”。在 5 月 3 日的推文中小罗伯特·肯尼迪还表示，“加密技术是一个重要的创新引擎”，并补充说美国正在阻碍这个行业的发展，并将“创新驱赶到其他地方”。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社报道，因丢失加密资产而发生的杀戮事件迫使韩国立法者推动更严格的加密监管。上个月末，在首都首尔，一名妇女在与加密货币损失有关的纠纷中被绑架和杀害...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659734338555244545</id>
-        <link href="https://twitter.com/wublockchain12/status/1659734338555244545"/>
-        <updated>2023-05-20T01:34:37.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社报道，因丢失加密资产而发生的杀戮事件迫使韩国立法者推动更严格的加密监管。上个月末，在首都首尔，一名妇女在与加密货币损失有关的纠纷中被绑架和杀害。新提议的立法将 19 项不同的加密相关政策合并到一个法案中。它可以在本月底的国民议会全体会议上批准。https://coinphony.com/ko/%ec%84%9c%ec%9a%b8-%ec%95%94%ed%98%b8-%ed%99%94%ed%8f%90-%ec%82%b4%ec%9d%b8-%ec%82%ac%ea%b1%b4%ec%9c%bc%eb%a1%9c-%ed%95%9c%ea%b5%ad%ec%9d%98-%ea%b7%9c%ec%a0%9c-%ea%b0%95%ed%99%94-96751/]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -534,12 +574,12 @@ Keep reading 👇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊: https://t.co/iIFFxZLbE2]]></title>
+        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊: https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZLbE2]]></title>
         <id>https://twitter.com/0x_charlemagne/status/1658947436675735552</id>
         <link href="https://twitter.com/0x_charlemagne/status/1658947436675735552"/>
         <updated>2023-05-17T21:27:45.000Z</updated>
         <summary type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊
-https://t.co/iIFFxZLbE2
+https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZLbE2
 
 
 DeFi Surfer: Which camp r u in https://t.co/fJuls3u1Gt]]></summary>
@@ -678,7 +718,7 @@ Odaily@ChinaCryptoNews: 🌟ODAILY星球日报X亚马逊云科技
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -734,12 +774,12 @@ https://topscore.knn3.xyz/rsrv https://twitter.com/Knn3Network/status/1606280087
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -820,7 +860,7 @@ Sounds silly when you say it out loud.]]></summary>
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
@@ -829,11 +869,11 @@ Fenng: 听到一个意外消息，希望不是真的。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real estate the real bubble]]></title>
+        <title type="html"><![CDATA[Real estate the real bubble https://twitter.com/GunjanJS/status/1657704646138372097]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1657937421411966976</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1657937421411966976"/>
         <updated>2023-05-15T02:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Real estate the real bubble
+        <summary type="html"><![CDATA[Real estate the real bubble https://twitter.com/GunjanJS/status/1657704646138372097
 
 Gunjan Banerji: Around 18% of Americans said stocks are the best long-term investment (compared with gold, real estate, CDs, bonds)-- lowest level in a Gallup survey since 2011 https://t.co/pP7Q45Yttd]]></summary>
         <author>
@@ -984,26 +1024,6 @@ Time to grind again..]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋 @MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao 获得T恤 获奖的小伙伴私信我你们的地址和尺码！ https://twitte...]]></title>
-        <id>https://twitter.com/8848Community/status/1656930978944933888</id>
-        <link href="https://twitter.com/8848Community/status/1656930978944933888"/>
-        <updated>2023-05-12T07:55:04.000Z</updated>
-        <summary type="html"><![CDATA[恭喜 @ZOP78889 获得滑板鞋
-@MaverickSt82963 @Mino1988V @ke1_bo @0xWenChin0426 @bangbangdiao  获得T恤
-获奖的小伙伴私信我你们的地址和尺码！ https://twitter.com/8848Community/status/1656174092138196994 https://t.co/CoudFuZQ3V
-
-
-8848 社区（8848 Community）: “Give me Five”
-祝Odaily星球日报五周年生日快乐～
-1、关注@OdailyChina+@8848Community
-2、转发、评论/@三个好友 
-抽5件衣服和1双鞋~
-届时在Discord也会抽取同样的周边 https://twitter.com/OdailyChina/status/1656126296173453313 https://t.co/5CXoQk0bVa]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Cope: He's made 238,000 attacks against 106,000 victims and earned $34 million in profits How JaredFromSubway.eth is eating your sandwich: https://...]]></title>
         <id>https://twitter.com/Timccopeland/status/1656294609939488771</id>
         <link href="https://twitter.com/Timccopeland/status/1656294609939488771"/>
@@ -1014,45 +1034,6 @@ How JaredFromSubway.eth is eating your sandwich:
 https://www.theblock.co/post/230218/jaredfromsubway-mev-bot]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Give me Five” 祝Odaily星球日报五周年生日快乐～ 1、关注@OdailyChina+@8848Community 2、转发、评论/@三个好友 抽5件衣服和1双鞋~ 届时在Discord也会抽取同...]]></title>
-        <id>https://twitter.com/8848Community/status/1656174092138196994</id>
-        <link href="https://twitter.com/8848Community/status/1656174092138196994"/>
-        <updated>2023-05-10T05:47:28.000Z</updated>
-        <summary type="html"><![CDATA[“Give me Five”
-祝Odaily星球日报五周年生日快乐～
-1、关注@OdailyChina+@8848Community
-2、转发、评论/@三个好友 
-抽5件衣服和1双鞋~
-届时在Discord也会抽取同样的周边 https://twitter.com/OdailyChina/status/1656126296173453313 https://t.co/5CXoQk0bVa
-
-
-Odaily@ChinaCryptoNews: 🖐️我们今天五岁啦！一起来“Give me Five”～
-1、「4连操作」：关注@OdailyChina+转发+@ 三个好友+评论“Give me Five”；
-2、加入Discord：https://discord.com/invite/PMzJuMWsWv
-🎁完成以上「5」步进入Discord抽奖频道即可抽奖：
-抽2人获得5周年限量纪念款鞋
-抽5人获得5周年限量定制鞋
-抽15人获得5周年限量定制T恤 https://t.co/XwB6agdwJX]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123 https://twitter.com/8848Community/status/1652194043718410241]]></title>
-        <id>https://twitter.com/8848Community/status/1656172558373523457</id>
-        <link href="https://twitter.com/8848Community/status/1656172558373523457"/>
-        <updated>2023-05-10T05:41:22.000Z</updated>
-        <summary type="html"><![CDATA[之前starknet 玩过那个飞机躲避的领下这个https://starknet.quest/quest/123 https://twitter.com/8848Community/status/1652194043718410241
-
-8848 社区（8848 Community）: starknet上的网页游戏空格开始，左右键调整方向以躲避石头。
-链接：http://starkfighter.xyz/
-需要有 .stark域名的才能玩 截，有的就玩一玩吧。截止到5月19日下午2点，最长不死记录获得eth和nft奖励。
-难度有点难，失败得比我做爱还快，基本三秒。有那个stark域名的就玩玩吧，也没成本。]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -1269,11 +1250,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1289,7 +1270,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1341,7 +1322,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be!
+✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1364,15 +1345,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon]]></summary>
+Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1421,12 +1402,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon
+Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
