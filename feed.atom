@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T18:14:59.523Z</id>
+    <id>urn:2023-05-21T19:10:11.082Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-21T18:14:59.523Z</updated>
+    <updated>2023-05-21T19:10:11.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,6 +84,23 @@ I will outline some information regarding various aspects of v2:
 $GMX $GLP]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memecoin 预售的 Solidity 合约，支持软/硬顶 合约特性： -部署者设置软顶和硬顶限制，都是强制执行的规则！ -部署者在达到软顶之前不能提取 ETH！ -禁止交易所...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1660317283129122816</id>
+        <link href="https://twitter.com/AntCaveClub/status/1660317283129122816"/>
+        <updated>2023-05-21T16:11:02.000Z</updated>
+        <summary type="html"><![CDATA[memecoin 预售的 Solidity 合约，支持软/硬顶
+合约特性： 
+-部署者设置软顶和硬顶限制，都是强制执行的规则！
+-部署者在达到软顶之前不能提取 ETH！
+-禁止交易所捐款！
+-在达到软顶之前，用户可以撤回他们的贡献（部分或全部）！
+-达到硬顶后将不再接受任何ETH。
+https://github.com/409H/fundraise]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
@@ -973,7 +990,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
@@ -1062,7 +1079,7 @@ Here’s why I am excited and what Silent is focusing on: https://t.co/rcdJd0O3V
         <summary type="html"><![CDATA[RT Azima 🛸
 Less than 6 months later pf close to ath
 This is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it
-I still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784
+I still think there's a few points of advice that might be helpful to someone
 
 Azima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.
 Time to grind again..]]></summary>
@@ -1236,17 +1253,6 @@ Memecoins pumps are a demonstration of nihilism which currently plagues crypto m
 There is a clear urge to ape into a new narrative. Macro winds are slowly turning in cryptos favor but all the possible crypto narratives seem to either be exhausted or not mature… https://twitter.com/i/web/status/1654659934875963392]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 6. 制定社交媒体内容计划 提示：“为我们的[产品/公司]生成下周的创意社交媒体内容日历，以了解[我们客户的期望结果]” https://t.co/cGOMc8Y2F5]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1654424358616481793</id>
-        <link href="https://twitter.com/AntCaveClub/status/1654424358616481793"/>
-        <updated>2023-05-05T09:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Re 6. 制定社交媒体内容计划  
-提示：“为我们的[产品/公司]生成下周的创意社交媒体内容日历，以了解[我们客户的期望结果]” https://t.co/cGOMc8Y2F5]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
