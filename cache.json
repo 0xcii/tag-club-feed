@@ -6,13 +6,33 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
-          "id": "https://twitter.com/wublockchain12/status/1660259142127489024",
+          "id": "https://twitter.com/wublockchain12/status/1660269680786046979",
           "author": "吴说区块链",
-          "description": "Re https://twitter.com/SkyNews/status/1660225824262434816https://twitter.com/SkyNews/status/1660225824262434816",
-          "link": "https://twitter.com/wublockchain12/status/1660259142127489024",
-          "publishedOn": "2023-05-21T12:20:00.000Z",
+          "description": "Re L2 正在解决这一问题，社区提出了EIP4844、EIP3668、EIP5559等提案。阅读全文：https://twitter.com/TommyDeng_DAO/status/1660043559867760642\n\nTommy Deng 行者涵雨 🇸🇬🇭🇰: V神在EDCON的主旨演讲都传达了哪些信号？🧐\n2023年5月20日下午，@VitalikButerin 在 @EDCON2023 大会进行了“以太坊的三个技术挑战：扩容、隐私和用户安全”的主旨演讲，全场座无虚席\nV神今年的服装仍不负所望，穿了一身黑山传统服饰（2022年黑山政府授予Vitalik公民身份）\n感谢 @HaoChenWen1 供图 https://twitter.com/i/web/status/1660043559867760642 https://t.co/fB8ufl446k",
+          "link": "https://twitter.com/wublockchain12/status/1660269680786046979",
+          "publishedOn": "2023-05-21T13:01:52.000Z",
           "wordCount": null,
-          "title": "Re https://twitter.com/SkyNews/status/1660225824262434816https://twitter.com/SkyNews/status/1660225824262434816",
+          "title": "Re L2 正在解决这一问题，社区提出了EIP4844、EIP3668、EIP5559等提案。阅读全文：https://twitter.com/TommyDeng_DAO/status/1660043559867760642",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1660269678013587461",
+          "author": "吴说区块链",
+          "description": "Vitalik 在 EDCON 的主旨演讲内容一览：（作者：@TommyDeng_DAO）以太坊已经从理论阶段迈入应用阶段，但存在可拓展性（又贵又慢）、隐私问题、用户安全等问题；Vitalik 自己在使用多签（multisig）和社交恢复（social recovery）来保护自己的钱包安全。",
+          "link": "https://twitter.com/wublockchain12/status/1660269678013587461",
+          "publishedOn": "2023-05-21T13:01:52.000Z",
+          "wordCount": null,
+          "title": "Vitalik 在 EDCON 的主旨演讲内容一览：（作者：@TommyDeng_DAO）以太坊已经从理论阶段迈入应用阶段，但存在可拓展性（又贵又慢）、隐私问题、用户安全等问题；V...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1660259934871916545",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/SkyNews/status/1660225824262434816\n\nSky News: BREAKING: President Joe Biden speaking on the final day of the G7 summit\n\"I'm not going to agree to a deal that protects wealthy tax cheats and crypto traders while putting food assistants at risk.\"\nhttps://trib.al/BnWv6Ji\n📺 Sky 501, Virgin 602, Freeview 233 and YouTube https://t.co/PIf0O5tKXq",
+          "link": "https://twitter.com/wublockchain12/status/1660259934871916545",
+          "publishedOn": "2023-05-21T12:23:09.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/SkyNews/status/1660225824262434816",
           "imageUrl": null
         },
         {
@@ -183,26 +203,6 @@
           "publishedOn": "2023-05-21T06:35:49.000Z",
           "wordCount": null,
           "title": "Re https://twitter.com/MakerDAO/status/1659603674505834497",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1660172522409558017",
-          "author": "吴说区块链",
-          "description": "吴说获悉，@MakerDAO 提醒，根据最近通过的执行投票，将于 2023 年 5 月 22 日 22:00 （UTC+8）在 Maker 协议中下线 LINK-A、MATIC-A、YFI-A 和 UNIV2USDCETH-A 金库类型，建议用户在此部署之前全额偿还 DAI 债务并关闭 LINK-A、MATIC-A、YFI-A 或 UNIV2USDCETH-A 金库。",
-          "link": "https://twitter.com/wublockchain12/status/1660172522409558017",
-          "publishedOn": "2023-05-21T06:35:48.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，@MakerDAO 提醒，根据最近通过的执行投票，将于 2023 年 5 月 22 日 22:00 （UTC+8）在 Maker 协议中下线 LINK-A、MATIC-A、YFI-A 和 UNIV2USDCETH-A ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1660168959638003714",
-          "author": "吴说区块链",
-          "description": "Re Nimbus 团队称：“如果您仍然没有利用--history:prune 选项，建议在非生产环境中进行测试，它将在下一个版本中默认启用。”https://twitter.com/ethnimbus/status/1660157576972230656\n\nNimbus: 📢Nimbus v23.5.1 is out. \nIt's a medium-urgency point release improving the compatibility of Nimbus with 3rd party validator clients and beacon nodes and introducing the support for incremental pruning.  https://github.com/status-im/nimbus-eth2/releases/tag/v23.5.1",
-          "link": "https://twitter.com/wublockchain12/status/1660168959638003714",
-          "publishedOn": "2023-05-21T06:21:39.000Z",
-          "wordCount": null,
-          "title": "Re Nimbus 团队称：“如果您仍然没有利用--history:prune 选项，建议在非生产环境中进行测试，它将在下一个版本中默认启用。”https://twitter.com/ethnimbus/st...",
           "imageUrl": null
         }
       ]
@@ -1006,7 +1006,7 @@
         {
           "id": "https://twitter.com/3azima85/status/1657097341252296718",
           "author": "Onchain Wizard",
-          "description": "RT Azima 🛸\nLess than 6 months later pf close to ath\nThis is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it\nI still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784\n\nAzima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.\nTime to grind again..",
+          "description": "RT Azima 🛸\nLess than 6 months later pf close to ath\nThis is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it\nI still think there's a few points of advice that might be helpful to someone\n\nAzima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.\nTime to grind again..",
           "link": "https://twitter.com/3azima85/status/1657097341252296718",
           "publishedOn": "2023-05-12T18:56:08.000Z",
           "wordCount": null,
