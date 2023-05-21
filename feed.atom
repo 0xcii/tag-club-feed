@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T01:10:16.683Z</id>
+    <id>urn:2023-05-21T02:35:21.108Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-21T01:10:16.683Z</updated>
+    <updated>2023-05-21T02:35:21.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 他认为，对机构投资者来说，加密货币的使用案例将是未来几年的一个增长趋势。（Cointelegraph）https://cointelegraph.com/news/bitcoin-fomo-is-gone-portfo...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660094497412509696</id>
+        <link href="https://twitter.com/wublockchain12/status/1660094497412509696"/>
+        <updated>2023-05-21T01:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 他认为，对机构投资者来说，加密货币的使用案例将是未来几年的一个增长趋势。（Cointelegraph）https://cointelegraph.com/news/bitcoin-fomo-is-gone-portfolio-managers-are-taking-btc-seriously]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin 2023 活动上，加拿大数字资产管理公司 3iQ CEO Fred Pye 在接受采访时表示，比特币的FOMO已经过去了，现在大家都转向了人工智能。因此，现在机构和投资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660094494925262848</id>
+        <link href="https://twitter.com/wublockchain12/status/1660094494925262848"/>
+        <updated>2023-05-21T01:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin 2023 活动上，加拿大数字资产管理公司 3iQ CEO Fred Pye 在接受采访时表示，比特币的FOMO已经过去了，现在大家都转向了人工智能。因此，现在机构和投资组合经理们开始认真关注比特币。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安在巴西的支付提供商 Latam Gateway 已获得巴西央行批准，可在巴西作为支付机构和电子货币发行商运营。此前币安因巴西中央银行的政策调整与原支付提供商 Capi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660094019844833282</id>
+        <link href="https://twitter.com/wublockchain12/status/1660094019844833282"/>
+        <updated>2023-05-21T01:23:52.000Z</updated>
+        <summary type="html"><![CDATA[币安在巴西的支付提供商 Latam Gateway 已获得巴西央行批准，可在巴西作为支付机构和电子货币发行商运营。此前币安因巴西中央银行的政策调整与原支付提供商 Capitual Bank 中断业务 ，并于 2022年6 月宣布选择 Latam Gateway 作为其新的支付提供商。（Cointelegraph ）https://cointelegraph.com/news/binance-provider-in-brazil-gets-payment-institution-approval]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 通过治理控制，攻击者能够撤回选票，掏空治理合约中的代币，禁用路由器，但无法掏空个别池子。据@CellierLael 指出，攻击者还可以通过升级合约来耗尽 Tornado...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660085439737507841</id>
+        <link href="https://twitter.com/wublockchain12/status/1660085439737507841"/>
+        <updated>2023-05-21T00:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 通过治理控制，攻击者能够撤回选票，掏空治理合约中的代币，禁用路由器，但无法掏空个别池子。据@CellierLael 指出，攻击者还可以通过升级合约来耗尽 Tornado Cash Nova 池中的所有 ETH。https://twitter.com/samczsun/status/1660012956632104960
+
+@samczsun.com: On 2023/05/20 at 07:25:11 UTC, Tornado Cash governance effectively ceased to exist. Through a malicious proposal, an attacker granted themselves 1,200,000 votes. As this is more than the ~700,000 legitimate votes, they now have full control.
+https://openchain.xyz/trace/ethereum/0x3274b6090685b842aca80b304a4dcee0f61ef8b6afee10b7c7533c32fb75486d https://t.co/h9qjc3xRqz]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据@samczsun，5 月 20 日 15:25:11（UTC+8），Tornado Cash 遭遇恶意提案攻击，攻击者通过在提案逻辑中添加额外功能来获取虚假选票，授予自己 1.2m 个选票，超过...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660085437422247936</id>
+        <link href="https://twitter.com/wublockchain12/status/1660085437422247936"/>
+        <updated>2023-05-21T00:49:45.000Z</updated>
+        <summary type="html"><![CDATA[据@samczsun，5 月 20 日 15:25:11（UTC+8），Tornado Cash 遭遇恶意提案攻击，攻击者通过在提案逻辑中添加额外功能来获取虚假选票，授予自己 1.2m 个选票，超过正当选票的约 70k 个，获取了治理控制权。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ThisIsNuse How many times can a man sell in a month]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1660083212893167617</id>
@@ -294,61 +347,6 @@ optimism 跟 Arbitrum 发给生态项目方的空投
         <summary type="html"><![CDATA[看看你们的女朋友]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 据了解，GridPlus 拟于第三季度开源其固件，而 Ledger 目前尚未开源相关代码（即使表示未来会开源）。吴说此前曾报道，硬件钱包厂商 OneKey 官宣其自主研发的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659775531238449152</id>
-        <link href="https://twitter.com/wublockchain12/status/1659775531238449152"/>
-        <updated>2023-05-20T04:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 据了解，GridPlus 拟于第三季度开源其固件，而 Ledger 目前尚未开源相关代码（即使表示未来会开源）。吴说此前曾报道，硬件钱包厂商 OneKey 官宣其自主研发的一套基于 linux 的开源固件。https://twitter.com/gridplus/status/1659606690738716678
-
-GridPlus 🦇🔊: This image of a deleted GridPlus tweet is making the rounds, so we'd like to transparently address this head on rather than jumping into lots of threads.
-Which tweet is correct? Both. How? Because the architecture of the #Lattice1 is not comparable to legacy BTC wallets. 🧵]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在近期针对 Ledger 的密钥恢复服务争议中，硬件钱包 GridPlus 以及 Ledger 官方都曾提及“从技术上讲，钱包厂商是有能力编写便于提取密钥的固件的”，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659775529409720322</id>
-        <link href="https://twitter.com/wublockchain12/status/1659775529409720322"/>
-        <updated>2023-05-20T04:18:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在近期针对 Ledger 的密钥恢复服务争议中，硬件钱包 GridPlus 以及 Ledger 官方都曾提及“从技术上讲，钱包厂商是有能力编写便于提取密钥的固件的”，因此这里存在的信任假设便是信任钱包厂商不会作恶，而作为厂商所能做的便是开源其固件。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Bryan Lee 及其同伙被指控的罪名包括欺诈、处理非法所得财产等。 https://www.justice.gov/opa/pr/man-charged-alleged-participation-45m-coindeal-investme...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659758372797968384</id>
-        <link href="https://twitter.com/wublockchain12/status/1659758372797968384"/>
-        <updated>2023-05-20T03:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Bryan Lee 及其同伙被指控的罪名包括欺诈、处理非法所得财产等。
-https://www.justice.gov/opa/pr/man-charged-alleged-participation-45m-coindeal-investment-fraud-scheme-involving-over-10000]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国司法部指控 CoinDeal 欺诈案嫌疑人 Bryan Lee 骗取了超 1 万名投资者的 4500 万美元。CoinDeal 是一项区块链技术投资计划，该计划谎称要在亿万富...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659758370780499989</id>
-        <link href="https://twitter.com/wublockchain12/status/1659758370780499989"/>
-        <updated>2023-05-20T03:10:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国司法部指控 CoinDeal 欺诈案嫌疑人 Bryan Lee 骗取了超 1 万名投资者的 4500 万美元。CoinDeal 是一项区块链技术投资计划，该计划谎称要在亿万富翁的支持下开发元宇宙技术和加密货币，并向投资者承诺极高的回报。据称，所收集的资金都被挪用购买豪华汽车和房地产。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏富比拍卖行周五结束了 3AC 部分稀有 NFT 的拍卖，共获 248 万美元，3AC 的剩余 NFT 藏品将在未来通过拍卖或私人销售的形式分章节发布。3AC 曾花费超过 2100 万...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1659749274803122177</id>
-        <link href="https://twitter.com/wublockchain12/status/1659749274803122177"/>
-        <updated>2023-05-20T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[苏富比拍卖行周五结束了 3AC 部分稀有 NFT 的拍卖，共获 248 万美元，3AC 的剩余 NFT 藏品将在未来通过拍卖或私人销售的形式分章节发布。3AC 曾花费超过 2100 万美元购买 NFT 藏品，包括十多个 CryptoPunks、30 个 Tyler Hobbs 等。（CoinDesk）
-https://www.coindesk.com/web3/2023/05/20/sothebys-auctions-part-of-3acs-rare-nft-collection-bringing-in-24-million/?utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_term=organic]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -756,7 +754,7 @@ Odaily@ChinaCryptoNews: 🌟ODAILY星球日报X亚马逊云科技
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -812,12 +810,12 @@ https://topscore.knn3.xyz/rsrv https://twitter.com/Knn3Network/status/1606280087
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1234,11 +1232,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1254,7 +1252,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1306,7 +1304,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
@@ -1329,15 +1327,15 @@ db: [DB] Arkham: A Bug Fix Deployed Today Caused Alerts to Be Sent Erroneously
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB]]></title>
+        <title type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650935094725451802</id>
         <link href="https://twitter.com/DeFi_educator/status/1650935094725451802"/>
         <updated>2023-04-25T18:49:34.000Z</updated>
-        <summary type="html"><![CDATA[🫡 https://twitter.com/DeFi_educator/status/1650557291366604822 https://t.co/KKl5pyrbVB
+        <summary type="html"><![CDATA[🫡 https://t.co/KKl5pyrbVB
 
 
 DeFi Educator: GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794]]></summary>
+Don't become exit liquidity, sell the news anon]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1386,12 +1384,12 @@ And CoinGecko > coinmarketcap]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490...]]></title>
+        <title type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. Don't become exit liquidity, sell the news anon]]></title>
         <id>https://twitter.com/DeFi_educator/status/1650557291366604822</id>
         <link href="https://twitter.com/DeFi_educator/status/1650557291366604822"/>
         <updated>2023-04-24T17:48:18.000Z</updated>
         <summary type="html"><![CDATA[GCR selling his $FLOKI bags into this announcement. 
-Don't become exit liquidity, sell the news anon https://twitter.com/BinanceUS/status/1650523994490273794
+Don't become exit liquidity, sell the news anon
 
 Binance.US 🇺🇸: wen floki?
 Deposits are NOW open for $FLOKI on #BinanceUS!
