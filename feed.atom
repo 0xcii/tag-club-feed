@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T01:09:34.190Z</id>
+    <id>urn:2023-05-22T02:35:53.993Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-22T01:09:34.190Z</updated>
+    <updated>2023-05-22T02:35:53.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/ConsenSys/status/1660353688446050304?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660446034789806080</id>
+        <link href="https://twitter.com/wublockchain12/status/1660446034789806080"/>
+        <updated>2023-05-22T00:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/ConsenSys/status/1660353688446050304?s=20
+
+ConsenSys: 📢 We are aware of tweets circulating with inaccurate information about ConsenSys' terms of service. 
+Let's clarify one thing upfront: MetaMask does NOT collect taxes on crypto transactions and we have not made any changes to our terms to do so. 
+This claim is false.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，ConsenSys 发推澄清MetaMask不会对加密货币交易收取税费，也没有对相关服务条款做出更改，关于税收部分所提的“费用和付款”，适用于征收销售税的产品...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660446004045582337</id>
+        <link href="https://twitter.com/wublockchain12/status/1660446004045582337"/>
+        <updated>2023-05-22T00:42:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，ConsenSys 发推澄清MetaMask不会对加密货币交易收取税费，也没有对相关服务条款做出更改，关于税收部分所提的“费用和付款”，适用于征收销售税的产品，仅涉及由ConsenSys提供的产品和付费计划，不适用于MetaMask等不征收销售税的产品。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说本周宏观指标与分析：上周宏观数据层面较为平淡，尽管美联储官员讲话密集，但总体内容不痛不痒；下周重点关注美联储货币政策会议纪要以及美国4月核心PCE物价...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660433246516310016</id>
+        <link href="https://twitter.com/wublockchain12/status/1660433246516310016"/>
+        <updated>2023-05-21T23:51:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周宏观数据层面较为平淡，尽管美联储官员讲话密集，但总体内容不痛不痒；下周重点关注美联储货币政策会议纪要以及美国4月核心PCE物价指数等。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14485]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @xcurveth Ooo got it lol]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1660425507836502016</id>
@@ -127,12 +161,12 @@ Re @DSentralized @OnChainWizard cuz i learned how to turn a $5k portfolio into $
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A lot of very cool features coming. What do we think lads? Will v2 be what slows GMX’s market share bleed? https://twitter.com/tanoeth/status/1660322...]]></title>
+        <title type="html"><![CDATA[A lot of very cool features coming. What do we think lads? Will v2 be what slows GMX’s market share bleed?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1660325613738049538</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1660325613738049538"/>
         <updated>2023-05-21T16:44:08.000Z</updated>
         <summary type="html"><![CDATA[A lot of very cool features coming. 
-What do we think lads? Will v2 be what slows GMX’s market share bleed? https://twitter.com/tanoeth/status/1660322059451527168
+What do we think lads? Will v2 be what slows GMX’s market share bleed?
 
 Tano 🦇🔊🛡️: As the @GMX_IO V2 test net is now available on @avax, let's take a look at what v2 will bring for traders.
 I will outline some information regarding various aspects of v2:
@@ -378,37 +412,6 @@ https://www.mintscan.io/osmosis/account/osmo1007lszwjuztc7cnvrnxy86urn8gfe0gnssp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 其地址属于一个经过线性锁定的解锁账户钱包，总共锁定期为 4 年，初始锁定期为 1 年后线性释放。该钱包当前质押了超过 1150 万枚 EVMOS，成为网络中最大的质...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660213571501035520</id>
-        <link href="https://twitter.com/wublockchain12/status/1660213571501035520"/>
-        <updated>2023-05-21T09:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Re 其地址属于一个经过线性锁定的解锁账户钱包，总共锁定期为 4 年，初始锁定期为 1 年后线性释放。该钱包当前质押了超过 1150 万枚 EVMOS，成为网络中最大的质押者。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Evmos 在官推表示，一位拥有超过 3400 万枚 EVMOS（价值约 550 万美元）的离职联合创始人（evmos19…9m7hz）在 Osmosis 出售了 50 万枚 EVMOS。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660213569143861248</id>
-        <link href="https://twitter.com/wublockchain12/status/1660213569143861248"/>
-        <updated>2023-05-21T09:18:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Evmos 在官推表示，一位拥有超过 3400 万枚 EVMOS（价值约 550 万美元）的离职联合创始人（evmos19…9m7hz）在 Osmosis 出售了 50 万枚 EVMOS。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在最近的 YouGov 民意调查中，Vivek Ramaswamy 的支持率仅在 4%左右。（Cointelegragh ） https://cointelegraph.com/news/us-presidential-candidate-vivek-...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660182802808311808</id>
-        <link href="https://twitter.com/wublockchain12/status/1660182802808311808"/>
-        <updated>2023-05-21T07:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Re 在最近的 YouGov 民意调查中，Vivek Ramaswamy 的支持率仅在 4%左右。（Cointelegragh ）
-https://cointelegraph.com/news/us-presidential-candidate-vivek-ramaswamy-to-accept-bitcoin-for-campaign-donations]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ThisIsNuse How many times can a man sell in a month]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1660083212893167617</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1660083212893167617"/>
@@ -495,11 +498,11 @@ https://cointelegraph.com/news/us-presidential-candidate-vivek-ramaswamy-to-acce
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[150万地址了，这里面有你的多少个]]></title>
+        <title type="html"><![CDATA[150万地址了，这里面有你的多少个 https://twitter.com/zksync/status/1659577440841392128]]></title>
         <id>https://twitter.com/8848Community/status/1659844200748421123</id>
         <link href="https://twitter.com/8848Community/status/1659844200748421123"/>
         <updated>2023-05-20T08:51:10.000Z</updated>
-        <summary type="html"><![CDATA[150万地址了，这里面有你的多少个
+        <summary type="html"><![CDATA[150万地址了，这里面有你的多少个 https://twitter.com/zksync/status/1659577440841392128
 
 zkSync ∎: 1.5M+ unique active addresses ✅]]></summary>
         <author>
@@ -768,7 +771,7 @@ Let's dive in 👇 https://t.co/UN6ADxkMDH]]></summary>
 头盔钱包的stark之旅可以领取NFT了
 https://braavos.app/starknet-journey-map-nft-interactive-passport-to-the-starknet-adventure/
 但是
-卡崩了 https://t.co/c5LG8B5FHm
+卡崩了 https://twitter.com/myBraavos/status/1659188834058534913 https://t.co/c5LG8B5FHm
 
 
 Braavos - a StarkNet Wallet: 1/3
@@ -805,12 +808,12 @@ Keep reading 👇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊: https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZLbE2]]></title>
+        <title type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊: https://t.co/iIFFxZLbE2]]></title>
         <id>https://twitter.com/0x_charlemagne/status/1658947436675735552</id>
         <link href="https://twitter.com/0x_charlemagne/status/1658947436675735552"/>
         <updated>2023-05-17T21:27:45.000Z</updated>
         <summary type="html"><![CDATA[RT 𝕮𝖍𝖆𝖗𝖑𝖊𝖒𝖆𝖌𝖓𝖊
-https://twitter.com/defisurfer808/status/1658936840164978689 https://t.co/iIFFxZLbE2
+https://t.co/iIFFxZLbE2
 
 
 DeFi Surfer: Which camp r u in https://t.co/fJuls3u1Gt]]></summary>
@@ -865,11 +868,11 @@ You might be surprised to hear that the average internet user is missing out on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有厦门的小伙伴吗？]]></title>
+        <title type="html"><![CDATA[有厦门的小伙伴吗？ https://twitter.com/OdailyChina/status/1658012718476193793]]></title>
         <id>https://twitter.com/8848Community/status/1658750298142420993</id>
         <link href="https://twitter.com/8848Community/status/1658750298142420993"/>
         <updated>2023-05-17T08:24:23.000Z</updated>
-        <summary type="html"><![CDATA[有厦门的小伙伴吗？
+        <summary type="html"><![CDATA[有厦门的小伙伴吗？ https://twitter.com/OdailyChina/status/1658012718476193793
 
 Odaily@ChinaCryptoNews: 🌟ODAILY星球日报X亚马逊云科技
 邀请Web3顶级投资人、明星项目、优质创业者开启趋势分享，迎接Web3.0的新浪潮。
@@ -944,11 +947,11 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         <updated>2023-05-16T10:40:53.000Z</updated>
         <summary type="html"><![CDATA[社区小伙伴之前 Mint 了KNN3这个2022 wrapped on lens NFT的, 会得到KNexus-Psyche NFT的空投, 以自身的Web3 graph data 和NFT形象偏好, 通过AIGC co-create专属的NFT形象。
 详情可参考
-https://mirror.xyz/knn3.eth/9s-5WYTjlblqXS60nnN8GKZPKKpYfC2UGw8Z9j5gU34
+https://mirror.xyz/knn3.eth/9s-5WYTjlblqXS60nnN8GKZPKKpYfC2UGw8Z9j5gU34 https://twitter.com/8848Community/status/1606284870749151233
 
 8848 社区（8848 Community）: 有LENS的可以填表预约MINT一个年总结NFT
 填表时间12月29日截止
-https://topscore.knn3.xyz/rsrv]]></summary>
+https://topscore.knn3.xyz/rsrv https://twitter.com/Knn3Network/status/1606280087292329987]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -1078,7 +1081,7 @@ Here’s why I am excited and what Silent is focusing on: https://t.co/rcdJd0O3V
         <summary type="html"><![CDATA[RT Azima 🛸
 Less than 6 months later pf close to ath
 This is not to brag, actually I'm the first one to admit I'm not some god tier trader or a giga brain and that I've been lucky and I'm very grateful for it
-I still think there's a few points of advice that might be helpful to someone
+I still think there's a few points of advice that might be helpful to someone https://twitter.com/3azima85/status/1580505366474870784
 
 Azima 🛸: After losses, taxes & cashing out some funds for irl purposes. I am restarting my crypto journey with 10% of my ath nw. Very grateful when looking back at where I was 2-3 years ago.
 Time to grind again..]]></summary>
