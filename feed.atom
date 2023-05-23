@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T11:10:36.589Z</id>
+    <id>urn:2023-05-23T12:24:59.015Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-23T11:10:36.589Z</updated>
+    <updated>2023-05-23T12:24:59.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[（脑补的剧情） 分稀狮：我有内幕，大佬给我透露了Layer0团队定的空投规则 L0团队：我们现在没有空投计划 分稀狮：你是管理吧？ L0团队：是，我管理团队 分稀狮...]]></title>
+        <id>https://twitter.com/8848Community/status/1660978571815571456</id>
+        <link href="https://twitter.com/8848Community/status/1660978571815571456"/>
+        <updated>2023-05-23T11:58:45.000Z</updated>
+        <summary type="html"><![CDATA[（脑补的剧情）
+分稀狮：我有内幕，大佬给我透露了Layer0团队定的空投规则
+L0团队：我们现在没有空投计划
+分稀狮：你是管理吧？
+L0团队：是，我管理团队
+分稀狮：你懂什么，你只是个管理，你知道什么
+L0团队：.......]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sueli07469986 姐，你暴富啦？]]></title>
+        <id>https://twitter.com/8848Community/status/1660973981175017472</id>
+        <link href="https://twitter.com/8848Community/status/1660973981175017472"/>
+        <updated>2023-05-23T11:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @sueli07469986 姐，你暴富啦？]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 阅读全文《从指数角度分析 哪些代币可能被批准香港散户购买》https://mp.weixin.qq.com/s/aL5ikYOm1v5N89sv8WmApA]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660942119350173696</id>
+        <link href="https://twitter.com/wublockchain12/status/1660942119350173696"/>
+        <updated>2023-05-23T09:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 阅读全文《从指数角度分析 哪些代币可能被批准香港散户购买》https://mp.weixin.qq.com/s/aL5ikYOm1v5N89sv8WmApA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析人士指出，5月23日香港 SFC 发布的咨询结论，大框架与此前区别不大，仍强调被纳入两个加密货币指数是提供给散户交易的最低要求，因此根据此前分析，BTC ETH ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660942116032507906</id>
+        <link href="https://twitter.com/wublockchain12/status/1660942116032507906"/>
+        <updated>2023-05-23T09:33:53.000Z</updated>
+        <summary type="html"><![CDATA[分析人士指出，5月23日香港 SFC 发布的咨询结论，大框架与此前区别不大，仍强调被纳入两个加密货币指数是提供给散户交易的最低要求，因此根据此前分析，BTC ETH LTC BCH DOT SOL ADA AVAX MATIC LINK 是最有可能被直接纳入散户交易的代币。 https://t.co/WDl7Bhwjah]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 需要注意的是，近期 Bitcoin Ordinals 协议标准大量迸发，此“BRC-721”也并非是唯一的标准，比如还有把元数据和图片等存储在 IPFS 上的 BRC-721 标准、生成...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660934764298227712</id>
+        <link href="https://twitter.com/wublockchain12/status/1660934764298227712"/>
+        <updated>2023-05-23T09:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 需要注意的是，近期 Bitcoin Ordinals 协议标准大量迸发，此“BRC-721”也并非是唯一的标准，比如还有把元数据和图片等存储在 IPFS 上的 BRC-721 标准、生成式 BRC-721 标准等。https://www.brc721.com/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该协议指定了集合及其项目在清单（Manifest）中的数据结构，通过提供单一的真实源，旨在简化集合创建和验证过程，无需预付款。该 BRC-721 协议基于三种类型的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660934761525772288</id>
+        <link href="https://twitter.com/wublockchain12/status/1660934761525772288"/>
+        <updated>2023-05-23T09:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Re 该协议指定了集合及其项目在清单（Manifest）中的数据结构，通过提供单一的真实源，旨在简化集合创建和验证过程，无需预付款。该 BRC-721 协议基于三种类型的清单：CollectionManifest、InscriptionManifest 和 RevealManifest。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，近期有类似于 ERC-721 的 Bitcoin Ordinals BRC-721 标准协议引发关注，其主要用于验证Bitcoin Ordinals 集合的真实性。BRC-721 引入了一种去中心化和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1660934758833037312</id>
+        <link href="https://twitter.com/wublockchain12/status/1660934758833037312"/>
+        <updated>2023-05-23T09:04:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，近期有类似于 ERC-721 的 Bitcoin Ordinals BRC-721 标准协议引发关注，其主要用于验证Bitcoin Ordinals 集合的真实性。BRC-721 引入了一种去中心化和无需信任的方法来创建集合，并启用后揭示（post-reveal）机制。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 关于虚拟资产市场上其他常见服务（例如收益、存款及借贷），证监会不允许持牌虚拟资产交易平台提供这些服务。]]></title>
         <id>https://twitter.com/wublockchain12/status/1660930407720800262</id>
@@ -77,61 +153,11 @@ https://snapshot.org/#/gnosis.eth/proposal/0x0bed9b763f14d5374817c31a696cc8b4e03
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re （3）WOO X 存在一个类似之于 FTX 做市机构 Alameda，名为 Kronos Research，作者怀疑其似乎可以无限制地访问用户存款，并进行未披露交易，以及可能挪用用户...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660919817896067072</id>
-        <link href="https://twitter.com/wublockchain12/status/1660919817896067072"/>
-        <updated>2023-05-23T08:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Re （3）WOO X 存在一个类似之于 FTX 做市机构 Alameda，名为 Kronos Research，作者怀疑其似乎可以无限制地访问用户存款，并进行未披露交易，以及可能挪用用户资产进行投资。https://www.karlstack.com/p/a-warning-about-woo-x-withdraw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re （2）储备部分主要以自己的加密货币 WOO Token 作为支持，在资产负债表中，总资产为 1.64 亿美元，WOO 占比达 45%；而根据其此前发布的透明度地址，Nansen 数...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660919814859415552</id>
-        <link href="https://twitter.com/wublockchain12/status/1660919814859415552"/>
-        <updated>2023-05-23T08:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Re （2）储备部分主要以自己的加密货币 WOO Token 作为支持，在资产负债表中，总资产为 1.64 亿美元，WOO 占比达 45%；而根据其此前发布的透明度地址，Nansen 数据显示，WOO X 净资产为 1.02 亿美元，其中近 77% 为 WOO。https://portfolio.nansen.ai/dashboard/woo-x?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 作者指出三个主要的担忧：（1）托管比例为 78.4%，根据官网实时资产负债表，去掉 WOO Token 的托管比例为 78.4%，托管资产为 5648 万美元，负债为 7200 万美...]]></title>
         <id>https://twitter.com/wublockchain12/status/1660919811168403456</id>
         <link href="https://twitter.com/wublockchain12/status/1660919811168403456"/>
         <updated>2023-05-23T08:05:16.000Z</updated>
         <summary type="html"><![CDATA[Re 作者指出三个主要的担忧：（1）托管比例为 78.4%，根据官网实时资产负债表，去掉 WOO Token 的托管比例为 78.4%，托管资产为 5648 万美元，负债为 7200 万美元。这意味着银行挤兑下最理想的情况，也只能覆盖不到 80% 的资产。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，记者 Christopher Brunet 发布对去中心化交易所 WOO X 的调查，质疑 WOO X 目前的资金健康度，并怀疑平台已挪用用户资产投资造成资不抵债，认为其可能...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660919808182095872</id>
-        <link href="https://twitter.com/wublockchain12/status/1660919808182095872"/>
-        <updated>2023-05-23T08:05:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，记者 Christopher Brunet 发布对去中心化交易所 WOO X 的调查，质疑 WOO X 目前的资金健康度，并怀疑平台已挪用用户资产投资造成资不抵债，认为其可能面临破产的风险。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 需要注意的是，近期 Bitcoin Ordinals 协议标准大量迸发，此“BRC-721”也并非是唯一的标准，比如还有把元数据和图片等存储在 IPFS 上的 BRC-721 标准、生成...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660908757822631937</id>
-        <link href="https://twitter.com/wublockchain12/status/1660908757822631937"/>
-        <updated>2023-05-23T07:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 需要注意的是，近期 Bitcoin Ordinals 协议标准大量迸发，此“BRC-721”也并非是唯一的标准，比如还有把元数据和图片等存储在 IPFS 上的 BRC-721 标准、生成式 BRC-721 标准等。https://www.brc721.com/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 该协议指定了集合及其项目在清单（Manifest）中的数据结构，通过提供单一的真实源，旨在简化集合创建和验证过程，无需预付款。该 BRC-721 协议基于三种类型的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1660908755280867328</id>
-        <link href="https://twitter.com/wublockchain12/status/1660908755280867328"/>
-        <updated>2023-05-23T07:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 该协议指定了集合及其项目在清单（Manifest）中的数据结构，通过提供单一的真实源，旨在简化集合创建和验证过程，无需预付款。该 BRC-721 协议基于三种类型的清单：CollectionManifest、InscriptionManifest 和 RevealManifest。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -429,6 +455,17 @@ DeFi Surfer: Assuming the mkt requires higher staking returns like say 8%, the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT non aesthetic things: https://t.co/ghsA6K8lcR]]></title>
+        <id>https://twitter.com/PicturesFoIder/status/1660749730463248384</id>
+        <link href="https://twitter.com/PicturesFoIder/status/1660749730463248384"/>
+        <updated>2023-05-22T20:49:25.000Z</updated>
+        <summary type="html"><![CDATA[RT non aesthetic things
+https://t.co/ghsA6K8lcR]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bybit 做了一个LAYER2 他们的 $BIT 要准备换新币为 $MNT 了 不过感觉可能不会有MANTLE的 $MNT 空投了，应该没有了空投了吧？ https://twitter.com/0xMantle/stat...]]></title>
         <id>https://twitter.com/8848Community/status/1660687567379898372</id>
         <link href="https://twitter.com/8848Community/status/1660687567379898372"/>
@@ -463,26 +500,6 @@ Share your comments on the @BitDAO_Official forum today: https://discourse.bitda
 都在跑自己的马拉松
 没必要传播焦虑
 更没必要和自己过不去]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0x_soros 现在新人，还有机会吗]]></title>
-        <id>https://twitter.com/8848Community/status/1660666921568829440</id>
-        <link href="https://twitter.com/8848Community/status/1660666921568829440"/>
-        <updated>2023-05-22T15:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @0x_soros 现在新人，还有机会吗]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @zhanguoluanwu 不能我一个人焦虑，今天太多小道消息了，把我焦虑麻了]]></title>
-        <id>https://twitter.com/8848Community/status/1660660567085060096</id>
-        <link href="https://twitter.com/8848Community/status/1660660567085060096"/>
-        <updated>2023-05-22T14:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @zhanguoluanwu 不能我一个人焦虑，今天太多小道消息了，把我焦虑麻了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -871,16 +888,6 @@ Let's dive in 👇 https://t.co/UN6ADxkMDH]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To be fair to US Congress the average American is pretty stupid so think it is fairly representative of the US population, as it’s designed to be.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1659315082239569921</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1659315082239569921"/>
-        <updated>2023-05-18T21:48:38.000Z</updated>
-        <summary type="html"><![CDATA[To be fair to US Congress the average American is pretty stupid so think it is fairly representative of the US population, as it’s designed to be.]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @blocmatesdotcom yo uhh hmm https://t.co/e6W1fYBAsg]]></title>
         <id>https://twitter.com/OnChainWizard/status/1659221670022852611</id>
         <link href="https://twitter.com/OnChainWizard/status/1659221670022852611"/>
@@ -971,7 +978,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
