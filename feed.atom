@@ -1,17 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T11:10:55.269Z</id>
+    <id>urn:2023-05-25T12:26:32.904Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-25T11:10:55.269Z</updated>
+    <updated>2023-05-25T12:26:32.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @FromValue $cdns]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1661706185941155841</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1661706185941155841"/>
+        <updated>2023-05-25T12:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @FromValue $cdns]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安 NFT 市场推出 NFT 贷款功能，目前支持 BAYC、MAYC 和 Azuki、Doodles。贷款利率为 7.91%，贷款价值比在 40%-60% 不等，目前 BAYC、MAYC、Doodles...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661691065320210434</id>
+        <link href="https://twitter.com/wublockchain12/status/1661691065320210434"/>
+        <updated>2023-05-25T11:09:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安 NFT 市场推出 NFT 贷款功能，目前支持 BAYC、MAYC 和 Azuki、Doodles。贷款利率为 7.91%，贷款价值比在 40%-60% 不等，目前 BAYC、MAYC、Doodles 显示已放出一至两笔贷款。
+https://www.binance.com/en/nft/loan]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re BEP-174提出了“跨链中继管理”，旨在缓解 BSC 桥中的任何潜在安全问题；BEP-221提出了“CometBFT Light Block Validation”系统，该系统提议向使用 CometBFT...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661679567734702083</id>
+        <link href="https://twitter.com/wublockchain12/status/1661679567734702083"/>
+        <updated>2023-05-25T10:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Re BEP-174提出了“跨链中继管理”，旨在缓解 BSC 桥中的任何潜在安全问题；BEP-221提出了“CometBFT Light Block Validation”系统，该系统提议向使用 CometBFT 技术的区块链添加新合约。（CoinDesk）
+https://www.coindesk.com/tech/2023/05/25/bnb-chain-expected-to-undergo-luban-upgrade-in-june-heres-all-you-need-to-know/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain 预计将在区块高度 29,020,050 处进行 Luban 硬分叉升级，预计将于世界标准时间 6 月 11 日 21:30 到达。此次升级包含 BEP-126、BEP-174 和 BEP-221 三...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661679566115704832</id>
+        <link href="https://twitter.com/wublockchain12/status/1661679566115704832"/>
+        <updated>2023-05-25T10:24:15.000Z</updated>
+        <summary type="html"><![CDATA[BNB Chain 预计将在区块高度 29,020,050 处进行 Luban 硬分叉升级，预计将于世界标准时间 6 月 11 日 21:30 到达。此次升级包含 BEP-126、BEP-174 和 BEP-221 三个提案，其中 BEP-126引入了“Fast Finality”机制，这使得一个区块一旦在网络上被最终确定就不可能被逆转；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/Starknet/status/1661658746282557440?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661666132561129474</id>
+        <link href="https://twitter.com/wublockchain12/status/1661666132561129474"/>
+        <updated>2023-05-25T09:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/Starknet/status/1661658746282557440?s=20
+
+Starknet ✨🐺: Starknet Mainnet is now operating on v0.11.1 
+Next week's milestone is v0.11.2 – hitting Testnets Mon, then Mainnet soon after. 
+Key feature? The activation of Cairo 1 in v0.11.2. Get ready for Cairo1's capabilities on Mainnet 💪🏽
+Speedball v0.12, we're coming!]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，L2 网络 Starknet 宣布将于下周一启用 v0.11.2 测试网，并将在 v0.11.2 中激活 Cairo 1。据 Starknet 此前公布路线图，将在第二季度推出 0.12.0 版本...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661666130921164800</id>
+        <link href="https://twitter.com/wublockchain12/status/1661666130921164800"/>
+        <updated>2023-05-25T09:30:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，L2 网络 Starknet 宣布将于下周一启用 v0.11.2 测试网，并将在 v0.11.2 中激活 Cairo 1。据 Starknet 此前公布路线图，将在第二季度推出 0.12.0 版本，改进吞吐量和延迟改进；第三季度推出 0.13.0 版本，以降低交易成本。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，币安发布公告称，在等待 Multichain 团队的明确说明期间，将暂停以下桥接代币网络的存款：POLS-BSC、ACH-BSC、BIFI-FTM、SUPER-BSC、AVA-ETH、SPELL-A...]]></title>
         <id>https://twitter.com/wublockchain12/status/1661653971868712960</id>
         <link href="https://twitter.com/wublockchain12/status/1661653971868712960"/>
         <updated>2023-05-25T08:42:33.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，币安发布公告称，在等待 Multichain 团队的明确说明期间，将暂停以下桥接代币网络的存款：POLS-BSC、ACH-BSC、BIFI-FTM、SUPER-BSC、AVA-ETH、SPELL-AVAXC、ALPACA-FTM、FTM-ETH、FARM-BSC、DEXE-BSC，这些资产在其他网络的存款仍然开放。
-https://twitter.com/binance/status/1661649462387957760?s=20
+https://twitter.com/binance/status/1661649462387957760?s=20 https://twitter.com/wublockchain12/status/1661525690175606785
 
 吴说区块链: 吴说获悉，Multichain 在推文中表示，部分跨链路由因不可抗力无法使用，恢复服务时间未知。服务恢复后，待处理的交易将自动入账。 Multichain 将对在此过程中受到影响的用户进行补偿，补偿方案将在稍后公布。同时 Multichain 联合创始人 Alfred Xu 在 Telegram… https://twitter.com/i/web/status/1661525690175606785]]></summary>
         <author>
@@ -187,16 +254,6 @@ Should we drop to this range, the selling pressure from these players' side is�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 glassnode 研究员 CryptoVizArt，BTC：Short-Term Holder MVRV 比率已趋近于 1，市场正在接近短期投资者的痛点，大约在 $24,500-$25,500 之间，这...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661568607535644676</id>
-        <link href="https://twitter.com/wublockchain12/status/1661568607535644676"/>
-        <updated>2023-05-25T03:03:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 glassnode 研究员 CryptoVizArt，BTC：Short-Term Holder MVRV 比率已趋近于 1，市场正在接近短期投资者的痛点，大约在 $24,500-$25,500 之间，这个区域是过去 6 个月购买比特币的投资者的大致成本。若价格跌到这个范围，预计这些参与者方面的卖压将会减少。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Not even $nvda can save crypto]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1661568397891469312</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1661568397891469312"/>
@@ -204,37 +261,6 @@ Should we drop to this range, the selling pressure from these players' side is�
         <summary type="html"><![CDATA[Not even $nvda can save crypto]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.okx.com/learn/enhanced-okx-app-spot-trading-hong-kong-customers]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661567775335403520</id>
-        <link href="https://twitter.com/wublockchain12/status/1661567775335403520"/>
-        <updated>2023-05-25T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.okx.com/learn/enhanced-okx-app-spot-trading-hong-kong-customers]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 宣布最新的 APP 程序将允许香港用户购买、出售和持有包括 BTC、ETH 在内的 16 种主要加密货币，可使用港元、P2P 或通过第三方提供商的 ApplePay、...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661567773087260672</id>
-        <link href="https://twitter.com/wublockchain12/status/1661567773087260672"/>
-        <updated>2023-05-25T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 宣布最新的 APP 程序将允许香港用户购买、出售和持有包括 BTC、ETH 在内的 16 种主要加密货币，可使用港元、P2P 或通过第三方提供商的 ApplePay、Visa 和万事达卡购买。此前 OKX 已宣布根据 6 月 1 日生效的香港 VASP 新监管制度设立了一家香港实体，用于其拟议的牌照申请。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Magic Eden 宣布在 Solana 上启动 NFT 聚合器、开源市场合约和开放 API，并为用户提供 -0.25% 的 MAKER FEE 促销，即当用户的报价被接受时，其可获得 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661566107411677184</id>
-        <link href="https://twitter.com/wublockchain12/status/1661566107411677184"/>
-        <updated>2023-05-25T02:53:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Magic Eden 宣布在 Solana 上启动 NFT 聚合器、开源市场合约和开放 API，并为用户提供 -0.25% 的 MAKER FEE 促销，即当用户的报价被接受时，其可获得 -0.25% 的挂单手续费。
-https://help.magiceden.io/en/articles/7935911-magic-eden-solana-aggregator-streamline-your-nft-trading-experience https://twitter.com/i/web/status/1661566107411677184]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -404,17 +430,17 @@ Linea 第四周
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这个别忘了，第一周最后一天]]></title>
+        <title type="html"><![CDATA[这个别忘了，第一周最后一天 https://twitter.com/8848Community/status/1659203892092239872]]></title>
         <id>https://twitter.com/8848Community/status/1661255397116899328</id>
         <link href="https://twitter.com/8848Community/status/1661255397116899328"/>
         <updated>2023-05-24T06:18:45.000Z</updated>
-        <summary type="html"><![CDATA[这个别忘了，第一周最后一天
+        <summary type="html"><![CDATA[这个别忘了，第一周最后一天 https://twitter.com/8848Community/status/1659203892092239872
 
 8848 社区（8848 Community）: Starknet生态钱包Braavos推出Starknet旅途地图NFT活动，活动持续5周
 头盔钱包的stark之旅可以领取NFT了
 https://braavos.app/starknet-journey-map-nft-interactive-passport-to-the-starknet-adventure/
 但是
-卡崩了 https://t.co/c5LG8B5FHm]]></summary>
+卡崩了 https://twitter.com/myBraavos/status/1659188834058534913 https://t.co/c5LG8B5FHm]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -452,11 +478,11 @@ https://realmoney.thestreet.com/investing/technology/9-rules-for-managing-risk-w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token]]></title>
+        <title type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token https://twitter.com/shardeum/status/1660986467420700672]]></title>
         <id>https://twitter.com/8848Community/status/1660997042502799361</id>
         <link href="https://twitter.com/8848Community/status/1660997042502799361"/>
         <updated>2023-05-23T13:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token
+        <summary type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token https://twitter.com/shardeum/status/1660986467420700672
 
 Shardeum: Wen Mainnet?
 https://shardeum.org/blog/newsletter-2023-05-22-shardeum-mainnet-q3-q4-2023/]]></summary>
@@ -639,16 +665,6 @@ sei的积分规则]]></summary>
         <summary type="html"><![CDATA[Re @intocryptoast 2% if zero fees https://twitter.com/defisurfer808/status/1532874071746220032?s=46&t=_sZ6xyyOBuoMYsKE6B_heA
 
 DeFi Surfer: Assuming the mkt requires higher staking returns like say 8%, the % of ETH staked will turn out to be lower than my estimates unless the fees generated by the chain are higher than current levels. https://t.co/2Ahpdq7bAm]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EricJhonsa Yea streets way too low. Not sure it’ll be a good stock but id be nervous about shorting it with 30% SI]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1660826638794227716</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1660826638794227716"/>
-        <updated>2023-05-23T01:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @EricJhonsa Yea streets way too low. Not sure it’ll be a good stock but id be nervous about shorting it with 30% SI]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -913,7 +929,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -932,12 +948,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -967,7 +983,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
@@ -1219,11 +1235,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1239,7 +1255,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1277,7 +1293,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
