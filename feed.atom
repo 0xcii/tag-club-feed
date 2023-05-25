@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T15:12:13.906Z</id>
+    <id>urn:2023-05-25T16:16:43.285Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-25T15:12:13.906Z</updated>
+    <updated>2023-05-25T16:16:43.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 各主要期限隐含波动率IV在上周末触及历史新低后没有继续下降，但超短期期权IV均逼近了30%的超低水平。从即将到期的期权分布看，看涨期权的持仓比例极大，且目...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661755033619410947</id>
+        <link href="https://twitter.com/wublockchain12/status/1661755033619410947"/>
+        <updated>2023-05-25T15:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 各主要期限隐含波动率IV在上周末触及历史新低后没有继续下降，但超短期期权IV均逼近了30%的超低水平。从即将到期的期权分布看，看涨期权的持仓比例极大，且目前价格均处于最大痛点附近，本月是卖方大胜的一周。
+https://twitter.com/BTC__options/status/1661751421073752065
+
+Adam@Greeks.live: 【5月26日期权月交割数据】
+8.6万张BTC期权即将到期，Put Call Ratio为0.38，最大痛点27000美元，名义价值22.6亿美元。
+69.5万张ETH期权即将到期，Put Call Ratio为0.49，最大痛点1800美元，名义价值12.5亿美元。… https://twitter.com/i/web/status/1661751421073752065 https://t.co/KigVqLG27r]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Greekslive 分享 5 月 26 日期权月交割数据：8.6 万张 BTC 期权即将到期，Put Call Ratio 为 0.38，最大痛点 27000 美元，名义价值 22.6 亿美元。 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661755031773921286</id>
+        <link href="https://twitter.com/wublockchain12/status/1661755031773921286"/>
+        <updated>2023-05-25T15:24:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Greekslive 分享 5 月 26 日期权月交割数据：8.6 万张 BTC 期权即将到期，Put Call Ratio 为 0.38，最大痛点 27000 美元，名义价值 22.6 亿美元。 69.5 万张 ETH 期权即将到期，Put Call Ratio 为 0.49，最大痛点 1800 美元，名义价值 12.5 亿美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle 已在 Avalanche 网络上推出其欧元稳定币 Euro Coin，使其成为继去年首次在以太坊上推出后支持该资产的第二个区块链。目前 Euro Coin 市值仅 4800 万美元...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661741047171657729</id>
+        <link href="https://twitter.com/wublockchain12/status/1661741047171657729"/>
+        <updated>2023-05-25T14:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Circle 已在 Avalanche 网络上推出其欧元稳定币 Euro Coin，使其成为继去年首次在以太坊上推出后支持该资产的第二个区块链。目前 Euro Coin 市值仅 4800 万美元。除 Circle 外，Tether 和 Stasis 也发行了欧元稳定币。（The Block）
+https://www.theblock.co/post/232217/circle-launches-euro-backed-stablecoin-on-avalanche?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/zAS01Pjre7]]></title>
+        <id>https://twitter.com/wublockchain12/status/1661734368556240899</id>
+        <link href="https://twitter.com/wublockchain12/status/1661734368556240899"/>
+        <updated>2023-05-25T14:02:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/zAS01Pjre7]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 首席执行官 Sam Altman 创立的 Worldcoin 背后的技术公司 Tools for Humanity 在 C 轮融资中筹集了 1.15 亿美元，Blockchain Capital 领投，a16z 等跟投...]]></title>
         <id>https://twitter.com/wublockchain12/status/1661720287300456450</id>
@@ -230,46 +276,6 @@ DJ Qian 🪢: @GuuCrypto 目前还联络不上]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1661627146002108416"/>
         <updated>2023-05-25T06:55:57.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Gate HK 香港站宣布于5月23日正式开启网站并开放注册和交易服务，目前仅支持比特币（BTC）、以太坊（ETH）和莱特币（LTC）的现货交易。https://www.gate.io/zh/article/30869]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，近 24 小时 Milady 下跌超过 18% 至 3.1 ETH，B3L 分析师 @RotesDB 统计在近 48 小时有 535 枚 Milady NFT 通过 Blur bid pool 被出售。Parsec 数据显...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661620696462819333</id>
-        <link href="https://twitter.com/wublockchain12/status/1661620696462819333"/>
-        <updated>2023-05-25T06:30:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，近 24 小时 Milady 下跌超过 18% 至 3.1 ETH，B3L 分析师 @RotesDB 统计在近 48 小时有 535 枚 Milady NFT 通过 Blur bid pool 被出售。Parsec 数据显示，当前有 145 枚 Milady NFT 的贷款处于水下状态，即贷款余额高于抵押品价值。https://blur.io/collection/milady/loans & https://app.parsec.finance/dashboard https://t.co/LCqIUOwmt1]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 需要注意的是 OKX 目前并未取得牌照，香港 SFC 给已运营的交易所主体提供了一年的过渡期，上述代币应是 OKX 根据香港 SFC 要求自行列出，后续会根据监管要求...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661580643564929026</id>
-        <link href="https://twitter.com/wublockchain12/status/1661580643564929026"/>
-        <updated>2023-05-25T03:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 需要注意的是 OKX 目前并未取得牌照，香港 SFC 给已运营的交易所主体提供了一年的过渡期，上述代币应是 OKX 根据香港 SFC 要求自行列出，后续会根据监管要求陆续调整。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 但 CoinDesk 推出的指数比较广泛，包含了 28 个加密货币。此外还有各种不同分类的例如 DeFi 娱乐 智能合约平台指数等。此外，香港证监会要求代币必须已经上线...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661580642067546112</id>
-        <link href="https://twitter.com/wublockchain12/status/1661580642067546112"/>
-        <updated>2023-05-25T03:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 但 CoinDesk 推出的指数比较广泛，包含了 28 个加密货币。此外还有各种不同分类的例如 DeFi 娱乐 智能合约平台指数等。此外，香港证监会要求代币必须已经上线12个月，因此如 ARB 等新代币无法列出。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 早先根据香港证监会，提供给散户交易的代币的最低要求是被纳入两个指数，其中之一应该是传统指数涵盖的加密货币。其中 BTC ETH LTC BCH DOT SOL ADA AVAX MAT...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661580640570208257</id>
-        <link href="https://twitter.com/wublockchain12/status/1661580640570208257"/>
-        <updated>2023-05-25T03:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 早先根据香港证监会，提供给散户交易的代币的最低要求是被纳入两个指数，其中之一应该是传统指数涵盖的加密货币。其中 BTC ETH LTC BCH DOT SOL ADA AVAX MATIC LINK 是被纳入传统指数最多的代币。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
