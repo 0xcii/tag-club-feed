@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T14:11:56.805Z</id>
+    <id>urn:2023-05-26T15:12:51.466Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T14:11:56.805Z</updated>
+    <updated>2023-05-26T15:12:51.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据 DLNews，DWF Labs 于 4 月低调推出新投资部门 DWF Ventures，该部门在其迪拜实体 DWF Labs DMCC 下运营，据称将专注于传统风险融资交易且任务是只通过代币或...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662102613813518337</id>
+        <link href="https://twitter.com/wublockchain12/status/1662102613813518337"/>
+        <updated>2023-05-26T14:25:18.000Z</updated>
+        <summary type="html"><![CDATA[据 DLNews，DWF Labs 于 4 月低调推出新投资部门 DWF Ventures，该部门在其迪拜实体 DWF Labs DMCC 下运营，据称将专注于传统风险融资交易且任务是只通过代币或股权轮次进行基本面驱动的投资。DWF Labs 今年以来高调宣布投资 13… https://twitter.com/i/web/status/1662102613813518337]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re scanblocks RPC 通过扫描给定范围内的所有块过滤器，实现快速钱包重新扫描。https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-not...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662098377893646336</id>
+        <link href="https://twitter.com/wublockchain12/status/1662098377893646336"/>
+        <updated>2023-05-26T14:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Re scanblocks RPC 通过扫描给定范围内的所有块过滤器，实现快速钱包重新扫描。https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-25.0.md]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bitcoin Core 25.0 发布，包括新功能、各种错误修复和性能改进。内存池和中继策略现在允许非见证大小为 65 字节及以上的交易。这是为了更好地反映针对...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662098344901218305</id>
+        <link href="https://twitter.com/wublockchain12/status/1662098344901218305"/>
+        <updated>2023-05-26T14:08:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bitcoin Core 25.0 发布，包括新功能、各种错误修复和性能改进。内存池和中继策略现在允许非见证大小为 65 字节及以上的交易。这是为了更好地反映针对 CVE-2017-12842 的实际提供保护，并开辟更小交易规模的其他用例。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 因为被视为互相替代品的黄金和比特币价格往往同步波动，随着金价涨至每盎司2000美元以上，央行以外出于投资目的持有的黄金价值目前约3万亿美元，据此推算出比...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662097533970300928</id>
+        <link href="https://twitter.com/wublockchain12/status/1662097533970300928"/>
+        <updated>2023-05-26T14:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 因为被视为互相替代品的黄金和比特币价格往往同步波动，随着金价涨至每盎司2000美元以上，央行以外出于投资目的持有的黄金价值目前约3万亿美元，据此推算出比特币价格。（The Block）https://www.theblock.co/post/232334/bitcoin-price-45k-jpmorgan-gold?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通分析师表示，由于金价上涨，比特币价格可能达到 45,000 美元，预计以太坊在短期内仍将面临一些抛售压力“会略逊于比特币”。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662097510863888385</id>
+        <link href="https://twitter.com/wublockchain12/status/1662097510863888385"/>
+        <updated>2023-05-26T14:05:01.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通分析师表示，由于金价上涨，比特币价格可能达到 45,000 美元，预计以太坊在短期内仍将面临一些抛售压力“会略逊于比特币”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/WfPNUjKBWd]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662096673492049920</id>
+        <link href="https://twitter.com/wublockchain12/status/1662096673492049920"/>
+        <updated>2023-05-26T14:01:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/WfPNUjKBWd]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @merryselfs 🤬🤬🤬可恶，大道消息无大道]]></title>
         <id>https://twitter.com/8848Community/status/1662089009026469888</id>
@@ -25,6 +85,69 @@
 跨链100w刀，tx5000次，swap金额2000w刀，资金保留十年，这是我梦里的低保策略，希望大家睡觉时跟一下，谢谢 https://t.co/3O9nGsAk3s]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 Scam Sniffer，与今日ben.eth转推钓鱼链接致其追随者损失 17 万美元的同一幕后诈骗者 Pink Drainer 在过去 2 个月创建了超 85 个钓鱼网站从近 434 名受害...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662084427193942016</id>
+        <link href="https://twitter.com/wublockchain12/status/1662084427193942016"/>
+        <updated>2023-05-26T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 Scam Sniffer，与今日ben.eth转推钓鱼链接致其追随者损失 17 万美元的同一幕后诈骗者 Pink Drainer 在过去 2 个月创建了超 85 个钓鱼网站从近 434 名受害者处盗取 125 万美元资产，受害者最大损失为价值约 29.7 万美元 NFT。https://twitter.com/realScamSniffer/status/1662071020600332290?s=20
+
+Scam Sniffer: 1/ The same bad actor who was behind the @eth_ben quote tweet phishing scam has drained $1.25M from nearly 434 victims using over 85 phishing websites in the last two months.
+https://dune.com/scamsniffer/pinkdrainer-stats]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 链上数据显示，在 4 月 8-9 日，Nomad DAO 和 Piper DAO 从 Harmony 国库获得资金；但在 4 月 29 日，Nomad DAO 和 Piper DAO 的资金都从多签钱包转入了 Jers...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662083700283297792</id>
+        <link href="https://twitter.com/wublockchain12/status/1662083700283297792"/>
+        <updated>2023-05-26T13:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 链上数据显示，在 4 月 8-9 日，Nomad DAO 和 Piper DAO 从 Harmony 国库获得资金；但在 4 月 29 日，Nomad DAO 和 Piper DAO 的资金都从多签钱包转入了 Jerschow 的个人钱包，这意味着 Jerschow 和 Cheung 都签署；5 月 5 日，这些资金被发送至 KuCoin。目前 Nomad DAO 和 Piper DAO… https://twitter.com/i/web/status/1662083700283297792]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 以及前 Harmony 员工 AI Cheung（Blu3 曾获得 Harmony 100 万美元资助），他们将 Harmony DAO 资助分配给 Soon 及由她朋友设立的项目，如 Jerschow 发起的 No...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662083650543030272</id>
+        <link href="https://twitter.com/wublockchain12/status/1662083650543030272"/>
+        <updated>2023-05-26T13:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 以及前 Harmony 员工 AI Cheung（Blu3 曾获得 Harmony 100 万美元资助），他们将 Harmony DAO 资助分配给 Soon 及由她朋友设立的项目，如 Jerschow 发起的 Nomad DAO 和 Piper DAO，其中 Cheung 是 Nomad DAO 的管理者之一。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DLNews，Harmony 在 2021 年设立的 5000 万美元资助计划已被一些 DAO 组织滥用。决定 Harmony 资助款项去向的关键是员工团队，其中几个团队成员包...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662083506833620992</id>
+        <link href="https://twitter.com/wublockchain12/status/1662083506833620992"/>
+        <updated>2023-05-26T13:09:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DLNews，Harmony 在 2021 年设立的 5000 万美元资助计划已被一些 DAO 组织滥用。决定 Harmony 资助款项去向的关键是员工团队，其中几个团队成员包括 Blu3 DAO 的成员：联创 Amy Soon、Soon 的妹妹 Novell Loh 以及 Loh 的丈夫;]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港资产管理公司 Metalpha 从比特大陆为其“下一代基金”募得 500 万美元，目标是筹集 1 亿美元。截至 3 月底，Metalpha 称已为该目标筹集 2000 万美元，该基金...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662077820779237377</id>
+        <link href="https://twitter.com/wublockchain12/status/1662077820779237377"/>
+        <updated>2023-05-26T12:46:47.000Z</updated>
+        <summary type="html"><![CDATA[香港资产管理公司 Metalpha 从比特大陆为其“下一代基金”募得 500 万美元，目标是筹集 1 亿美元。截至 3 月底，Metalpha 称已为该目标筹集 2000 万美元，该基金通过结构化衍生品投资于 Grayscale 产品，以符合美国和香港法律的方式构建数字资产投资组合支柱。比特大陆旗下 Antalpha 是 Metalpha… https://twitter.com/i/web/status/1662077820779237377]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国公布4月核心PCE物价指数年率 4.7%，预期4.60%，前值4.60%。美国4月核心PCE物价指数月率录得0.4%，创2023年1月以来新高。美国短期利率期货在通胀数...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662077369472147461</id>
+        <link href="https://twitter.com/wublockchain12/status/1662077369472147461"/>
+        <updated>2023-05-26T12:44:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国公布4月核心PCE物价指数年率 4.7%，预期4.60%，前值4.60%。美国4月核心PCE物价指数月率录得0.4%，创2023年1月以来新高。美国短期利率期货在通胀数据公布后削减早前涨幅，交易员增加对美联储进一步加息的押注。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -128,16 +251,6 @@ Updates soon.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，币安表示已联系 Tether 和 Circle 希望扩大对原生稳定币的支持。原生稳定币指稳定币发行商直接在链上发行的稳定币，相对应的是各种包装、跨链版本的稳...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662031578174988289</id>
-        <link href="https://twitter.com/wublockchain12/status/1662031578174988289"/>
-        <updated>2023-05-26T09:43:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安表示已联系 Tether 和 Circle 希望扩大对原生稳定币的支持。原生稳定币指稳定币发行商直接在链上发行的稳定币，相对应的是各种包装、跨链版本的稳定币。目前 Fantom 上稳定币大多由 Multichain 跨链形成；此前 BNBChain 上许多稳定币也由币安包装形成。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Orbiter 在银河 Galxe 上的角色NFT https://galxe.com/OrbiterFinance/campaigns 如果你有交互过3次以上 Orbiter 的别忘了领一个 Trainee-Pilot: 3~9 次 Pilot: ...]]></title>
         <id>https://twitter.com/8848Community/status/1662030219421847553</id>
         <link href="https://twitter.com/8848Community/status/1662030219421847553"/>
@@ -155,59 +268,6 @@ Ace-Pilot: ≥500 次]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Web3 支付基础设施提供商 Stably 宣布在 Bitcoin 上推出首个 BRC-20 稳定币 #USD，#USD 采取完全抵押并可按 1:1 兑换由 Prime Trust 在 FDIC 保险的银...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662028660239654914</id>
-        <link href="https://twitter.com/wublockchain12/status/1662028660239654914"/>
-        <updated>2023-05-26T09:31:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Web3 支付基础设施提供商 Stably 宣布在 Bitcoin 上推出首个 BRC-20 稳定币 #USD，#USD 采取完全抵押并可按 1:1 兑换由 Prime Trust 在 FDIC 保险的银行持有的美元。#USD 最大供应量为 69,420,000,000,000，部署在 Inscription #8,727,192。目前 Stably #USD 通过 USDC/USDT… https://twitter.com/i/web/status/1662028660239654914]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Digital Asset，韩国检方近期对FANC (Fancy)代币的发行方CELEbe Korea进行了扣押搜查，指控其涉嫌向Bithumb Holdings （韩国第二大交易所Bithumb的控股公司）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662028527825473536</id>
-        <link href="https://twitter.com/wublockchain12/status/1662028527825473536"/>
-        <updated>2023-05-26T09:30:54.000Z</updated>
-        <summary type="html"><![CDATA[据 Digital Asset，韩国检方近期对FANC (Fancy)代币的发行方CELEbe Korea进行了扣押搜查，指控其涉嫌向Bithumb Holdings （韩国第二大交易所Bithumb的控股公司）CEO Lee Sang-jun 行贿50亿韩元（约合 377 万美元）以在 Bithumb 上线 FANC 代币。今年 3 月，韩国加密交易所中只有 Bithumb 上线了… https://twitter.com/i/web/status/1662028527825473536]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 4. 我方法务人员将向火必公司发送律师函，敦促其停止侵权行为，后期 将根据情况决定是否对其采取进一步法律措施，维护我方合法权益。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662026881992908800</id>
-        <link href="https://twitter.com/wublockchain12/status/1662026881992908800"/>
-        <updated>2023-05-26T09:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 4. 我方法务人员将向火必公司发送律师函，敦促其停止侵权行为，后期
-将根据情况决定是否对其采取进一步法律措施，维护我方合法权益。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2. 根据交易协议，huobi（火必）公司禁止使用简体及繁体中文的“火币”、“火幣”（后新公司更名为火必）品牌（huobi公司的中文更名为“火必”）。 3. 请huob...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662020762830770176</id>
-        <link href="https://twitter.com/wublockchain12/status/1662020762830770176"/>
-        <updated>2023-05-26T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 2. 根据交易协议，huobi（火必）公司禁止使用简体及繁体中文的“火币”、“火幣”（后新公司更名为火必）品牌（huobi公司的中文更名为“火必”）。
-3. 请huobi（火必）公司立即停止使用中文“火币”、“火幣”的侵权行为。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，火币创始人李林在朋友圈表示：有朋友问我这个“火币香港”和我有没有关系，以及huobi的APP里重新使用了“火币”字样是怎么回事。现在郑重声明一下。 1...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662020672233799680</id>
-        <link href="https://twitter.com/wublockchain12/status/1662020672233799680"/>
-        <updated>2023-05-26T08:59:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，火币创始人李林在朋友圈表示：有朋友问我这个“火币香港”和我有没有关系，以及huobi的APP里重新使用了“火币”字样是怎么回事。现在郑重声明一下。
-1. 2022年10月8日后，我就不再是huobi（火必）的股东，之后huobi（火必）的任何经营活动与我无关。 https://t.co/1aLbmXcJUT]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[害怕 2023年真是教育大年啊 害怕过完今年 阿姨们个个的理论和实操知识都比我牛逼了 https://t.co/sEbYx19a2P]]></title>
         <id>https://twitter.com/8848Community/status/1662017609976651776</id>
         <link href="https://twitter.com/8848Community/status/1662017609976651776"/>
@@ -218,66 +278,6 @@ Ace-Pilot: ≥500 次]]></summary>
 阿姨们个个的理论和实操知识都比我牛逼了 https://t.co/sEbYx19a2P]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安表示将于6月1日14:00（东八区时间）移除以下现货交易对并停止交易：ADA/AUD、AUD/BUSD、AUD/USDT、BNB/AUD、BTC/AUD、DOGE/AUD、ETH/AUD、GALA/AU...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662013014198095872</id>
-        <link href="https://twitter.com/wublockchain12/status/1662013014198095872"/>
-        <updated>2023-05-26T08:29:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安表示将于6月1日14:00（东八区时间）移除以下现货交易对并停止交易：ADA/AUD、AUD/BUSD、AUD/USDT、BNB/AUD、BTC/AUD、DOGE/AUD、ETH/AUD、GALA/AUD、MATIC/AUD、SOL/AUD、XRP/AUD。用户仍然可以使用其他交易对交易上述资产。https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E7%A7%BB%E9%99%A4%E9%83%A8%E5%88%86%E4%BA%A4%E6%98%93%E5%AF%B9%E7%9A%84%E5%85%AC%E5%91%8A-2023-06-01-bd9a8eb9e0c940278d888cb95b76ba41]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 最后，Time Beiko 表示建议下次会议关于 Cancun 升级考虑纳入的 EIPs 范围限定在 EIP 5920, 5656, 7069, 4788 和 2530 之内。https://www.galaxy.com/researc...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661991071726080000</id>
-        <link href="https://twitter.com/wublockchain12/status/1661991071726080000"/>
-        <updated>2023-05-26T07:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 最后，Time Beiko 表示建议下次会议关于 Cancun 升级考虑纳入的 EIPs 范围限定在 EIP 5920, 5656, 7069, 4788 和 2530 之内。https://www.galaxy.com/research/insights/ethereum-all-core-developers-execution-call-162/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 对于移除“Self-Destruct”目前有 EIP-4758 和 EIP-6780 两个提案，影响分析报告显示 EIP-6780 或为更佳，对现有应用影响最小；对于 EIP-4844 的进展讨论除了...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661990964754550785</id>
-        <link href="https://twitter.com/wublockchain12/status/1661990964754550785"/>
-        <updated>2023-05-26T07:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Re 对于移除“Self-Destruct”目前有 EIP-4758 和 EIP-6780 两个提案，影响分析报告显示 EIP-6780 或为更佳，对现有应用影响最小；对于 EIP-4844 的进展讨论除了一些技术细节外，还商议了 EIP4844 第六个测试网的筹备；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 162 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了与移除“Self-Destruct”相关的两个 EIP 提案的影响，EI...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661990918541705217</id>
-        <link href="https://twitter.com/wublockchain12/status/1661990918541705217"/>
-        <updated>2023-05-26T07:01:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 162 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了与移除“Self-Destruct”相关的两个 EIP 提案的影响，EIP4844 的进展以及纳入 Cancun 升级的潜在 EIP。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Gate HK 香港站宣布于5月23日正式开启网站并开放注册和交易服务，目前支持的现货交易包括 BTC ETH LTC BCH DOT MATIC SOL UNI。https://www.gate.io/z...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661944672317759490</id>
-        <link href="https://twitter.com/wublockchain12/status/1661944672317759490"/>
-        <updated>2023-05-26T03:57:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Gate HK 香港站宣布于5月23日正式开启网站并开放注册和交易服务，目前支持的现货交易包括 BTC ETH LTC BCH DOT MATIC SOL UNI。https://www.gate.io/zh/article/30869]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Fantom 上主要稳定币 1.91 亿 USDC 和 8200 万的 USDT 资产基本由 Multichain 发行。值得注意的是，由于 Multichain 是 Fantom 的官方跨链桥，因而敞口较大；...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1661941048615272448</id>
-        <link href="https://twitter.com/wublockchain12/status/1661941048615272448"/>
-        <updated>2023-05-26T03:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Re Fantom 上主要稳定币 1.91 亿 USDC 和 8200 万的 USDT 资产基本由 Multichain 发行。值得注意的是，由于 Multichain 是 Fantom 的官方跨链桥，因而敞口较大；从浏览器状态来看，Fantom 等大部分链正常运转，仍有主流资产从 Fantom 流入流出，Fantom 上 USDC 和 USDT 也并未出现脱钩迹象。H/T… https://twitter.com/i/web/status/1661941048615272448]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -421,11 +421,11 @@ Ace-Pilot: ≥500 次]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don’t know how any thinking person can support leftist policies. Lot of NPCs out there.]]></title>
+        <title type="html"><![CDATA[Don’t know how any thinking person can support leftist policies. Lot of NPCs out there. https://twitter.com/Cernovich/status/1661576728266031106]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1661718242023337985</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1661718242023337985"/>
         <updated>2023-05-25T12:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Don’t know how any thinking person can support leftist policies. Lot of NPCs out there.
+        <summary type="html"><![CDATA[Don’t know how any thinking person can support leftist policies. Lot of NPCs out there. https://twitter.com/Cernovich/status/1661576728266031106
 
 Cernovich: When I see posts like this on housing costs, I both AGREE and empathize but am dumbfounded how they remain left wing. These problems are due to Democrat policies like open borders and inflation due to money printing. https://t.co/LA1NpFZx8E]]></summary>
         <author>
@@ -986,7 +986,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://t.co/nZGnR5FpEn
+R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
