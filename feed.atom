@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T04:14:32.943Z</id>
+    <id>urn:2023-05-27T05:11:50.242Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T04:14:32.943Z</updated>
+    <updated>2023-05-27T05:11:50.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Crypto_Camp_ 二阳刚好。。。 真惨。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1662318070277238784</id>
+        <link href="https://twitter.com/AntCaveClub/status/1662318070277238784"/>
+        <updated>2023-05-27T04:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @Crypto_Camp_ 二阳刚好。。。 真惨。]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 但如果 TSS 使用不当，例如零知识证明缺失、私钥分片存储不当等问题，仍然可能会造成私钥的泄露和资产的丢失。对于 Ledger Key Recover ，作者建议还是谨慎使...]]></title>
         <id>https://twitter.com/wublockchain12/status/1662284051544428545</id>
@@ -173,11 +183,11 @@ A thread. https://t.co/rQ7ynfJ3MG]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol ...]]></title>
+        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662265016282755079</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662265016282755079"/>
         <updated>2023-05-27T01:10:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol https://twitter.com/bobeunlimited/status/1662091954937634816
+        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol
 
 Bob Elliott: The US economy has shifted from a supply-driven inflation shock to an entrenched inflation dynamic.
 Today's PCE report highlights how elevated income growth maintains elevated nominal spending which keeps inflation well above the Fed's mandate.
@@ -218,11 +228,11 @@ https://www.theblock.co/post/232388/makerdao-core-team-proposes-raising-dai-savi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
@@ -950,7 +960,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -969,12 +979,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1208,16 +1218,6 @@ Text-to-3D printers are about to be a thing very soon. https://t.co/vulI4qSWlY]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[周末，OpenAI、Warren Buffet、Microsoft/AMD 和 Craft Ventures 在 AI 领域发布了重大公告。 以下是需要了解的所有内容的概要：]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1655473638932627463</id>
-        <link href="https://twitter.com/AntCaveClub/status/1655473638932627463"/>
-        <updated>2023-05-08T07:24:07.000Z</updated>
-        <summary type="html"><![CDATA[周末，OpenAI、Warren Buffet、Microsoft/AMD 和 Craft Ventures 在 AI 领域发布了重大公告。  以下是需要了解的所有内容的概要：]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT fiskantes.lens ⭐️🩸: Memecoins pumps are a demonstration of nihilism which currently plagues crypto market participants There is a clear urge t...]]></title>
         <id>https://twitter.com/Fiskantes/status/1654659934875963392</id>
         <link href="https://twitter.com/Fiskantes/status/1654659934875963392"/>
@@ -1242,11 +1242,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1262,7 +1262,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1300,7 +1300,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
+✨ That's how it should be!
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
