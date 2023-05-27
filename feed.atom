@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T03:13:11.583Z</id>
+    <id>urn:2023-05-27T04:14:32.943Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T03:13:11.583Z</updated>
+    <updated>2023-05-27T04:14:32.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 但如果 TSS 使用不当，例如零知识证明缺失、私钥分片存储不当等问题，仍然可能会造成私钥的泄露和资产的丢失。对于 Ledger Key Recover ，作者建议还是谨慎使...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662284051544428545</id>
+        <link href="https://twitter.com/wublockchain12/status/1662284051544428545"/>
+        <updated>2023-05-27T02:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Re 但如果 TSS 使用不当，例如零知识证明缺失、私钥分片存储不当等问题，仍然可能会造成私钥的泄露和资产的丢失。对于 Ledger Key Recover ，作者建议还是谨慎使用该功能。阅读全文：https://mp.weixin.qq.com/s/uTDxiLiqQZgTRA8gA8I70w]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂 MPC 钱包技术原理（撰文：Dr. Simon Shieh）：本文以此前饱受争议的 Ledger Key Recover 为切入点，介绍了其背后 MPC 钱包的核心技术原理 TSS。作者认...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662284047815704576</id>
+        <link href="https://twitter.com/wublockchain12/status/1662284047815704576"/>
+        <updated>2023-05-27T02:26:15.000Z</updated>
+        <summary type="html"><![CDATA[一文读懂 MPC 钱包技术原理（撰文：Dr. Simon Shieh）：本文以此前饱受争议的 Ledger Key Recover 为切入点，介绍了其背后 MPC 钱包的核心技术原理 TSS。作者认为如果使用得当，TSS 的引入对于降低用户门槛和提高安全性方面有很大的帮助。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re OF1 BOX 基于 Polygon，未来 Nike .SWOOSH 还将推出一个收藏市场。https://dune.com/sealaunch/nike-our-force-1-box]]></title>
         <id>https://twitter.com/wublockchain12/status/1662275256567070720</id>
@@ -272,26 +292,6 @@ We're working on getting the site down and fix… https://twitter.com/i/web/stat
         <link href="https://twitter.com/wublockchain12/status/1662111280612925441"/>
         <updated>2023-05-26T14:59:44.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，The Sandbox 发推表示，首席执行官兼联合创始人Arthur Madrid的Twitter账户被黑，黑客利用该账户发布了一个网络钓鱼诈骗链接，推文声称提供SAND代币的空投是虚假消息。请勿点击该链接，而是举报该帖子以便屏蔽。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 DLNews，DWF Labs 于 4 月低调推出新投资部门 DWF Ventures，该部门在其迪拜实体 DWF Labs DMCC 下运营，据称将专注于传统风险融资交易且任务是只通过代币或...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662102613813518337</id>
-        <link href="https://twitter.com/wublockchain12/status/1662102613813518337"/>
-        <updated>2023-05-26T14:25:18.000Z</updated>
-        <summary type="html"><![CDATA[据 DLNews，DWF Labs 于 4 月低调推出新投资部门 DWF Ventures，该部门在其迪拜实体 DWF Labs DMCC 下运营，据称将专注于传统风险融资交易且任务是只通过代币或股权轮次进行基本面驱动的投资。DWF Labs 今年以来高调宣布投资 13… https://twitter.com/i/web/status/1662102613813518337]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re scanblocks RPC 通过扫描给定范围内的所有块过滤器，实现快速钱包重新扫描。https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-not...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662098377893646336</id>
-        <link href="https://twitter.com/wublockchain12/status/1662098377893646336"/>
-        <updated>2023-05-26T14:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Re scanblocks RPC 通过扫描给定范围内的所有块过滤器，实现快速钱包重新扫描。https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-25.0.md]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -950,7 +950,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -969,12 +969,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1242,11 +1242,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1262,7 +1262,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
@@ -1300,7 +1300,7 @@ https://t.me/EtherDROPS6_bot?start=promo_DEFIEDUCATOR
 🚫 No revenue for me 
 🚫 No paid shills
 ✅ Just transparency & referral links
-✨ That's how it should be!
+✨ That's how it should be! https://twitter.com/etherdrops_bot/status/1616050356366053383
 
 Etherdrops Bot: 💸 Introducing EtherDrops Referral Program: Refer & Earn
 Earn 20% of revenue generated via your leads.
