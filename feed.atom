@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-28T07:11:04.943Z</id>
+    <id>urn:2023-05-28T08:15:09.964Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-28T07:11:04.943Z</updated>
+    <updated>2023-05-28T08:15:09.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: Tornado Cash 恶意提案风波，MakerDAO 提议提高 DAI 储蓄率， Base 发布主网路线图等（0522–0528） https://www.wu-talk.com/index.php?m=co...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662707391497125888</id>
+        <link href="https://twitter.com/wublockchain12/status/1662707391497125888"/>
+        <updated>2023-05-28T06:28:28.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: Tornado Cash 恶意提案风波，MakerDAO 提议提高 DAI 储蓄率， Base 发布主网路线图等（0522–0528）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14671]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 据@EmberCN 监测，黄立成地址在 5 月 26 日通过两个地址花费 1541.5 枚 ETH（约 284 万美元）买入 Jimbos Protocol 代币 JIMBO。https://twitter.com/EmberCN...]]></title>
         <id>https://twitter.com/wublockchain12/status/1662688279375011840</id>
@@ -234,16 +245,6 @@ https://etherscan.io/address/0x91364516D3CAD16E1666261dbdbb39c881Dbe9eE]]></summ
         <summary type="html"><![CDATA[Re 早先，美国国税局（IRS）向 FTX 及其附属实体提出了价值近440亿美元的索赔。其中最大的索赔包括针对 Alameda Research LLC 的204亿美元和79亿美元的索赔。https://twitter.com/FTX_Committee/status/1662538013258182657
 
 Official Committee of Unsecured Creditors of FTX: On April 27 and 28, the U.S. Internal Revenue Service submitted numerous proofs of claim asserting substantial claims against various Debtors. The Debtors and the Committee are in the process of assessing the nature, validity, priority and amount of such claims.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@FTX_Committee 推文，4 月 27 日至 28 日，美国国税局提交大量索赔证明，声称对各债务人有重大债权要求。债务人和委员会正在评估这些索赔的性质、...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662642926269366272</id>
-        <link href="https://twitter.com/wublockchain12/status/1662642926269366272"/>
-        <updated>2023-05-28T02:12:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@FTX_Committee 推文，4 月 27 日至 28 日，美国国税局提交大量索赔证明，声称对各债务人有重大债权要求。债务人和委员会正在评估这些索赔的性质、有效性、优先权和金额。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -512,11 +513,11 @@ Core PCE inflation still at 5%: https://t.co/gZcWLgI7SR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
@@ -982,7 +983,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1001,12 +1002,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1264,11 +1265,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1284,7 +1285,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
