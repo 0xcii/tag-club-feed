@@ -1,10 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-28T03:13:52.026Z</id>
+    <id>urn:2023-05-28T04:14:46.176Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-28T03:13:52.026Z</updated>
+    <updated>2023-05-28T04:14:46.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，随着近期英伟达股价飙涨，总市值已经达到9631亿美金，接近一万亿美金。相当于加密货币排名前八市值的代币总市值之和。目前加密货币市场总市值为1.19万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662672046575476736</id>
+        <link href="https://twitter.com/wublockchain12/status/1662672046575476736"/>
+        <updated>2023-05-28T04:08:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，随着近期英伟达股价飙涨，总市值已经达到9631亿美金，接近一万亿美金。相当于加密货币排名前八市值的代币总市值之和。目前加密货币市场总市值为1.19万亿美金。https://www.coingecko.com/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @OuroborosCap8 Tuesday bruh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1662668926856343553</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1662668926856343553"/>
+        <updated>2023-05-28T03:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @OuroborosCap8 Tuesday bruh]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该所谓的 Spiral Finance 在 Twitter 列表搜索中有数十个相类似项目，以及所谓官推则一直在各种 KOL 上大量刷留言；其最后一条发言（不含转推）在 5 月 13 日...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662667823976681475</id>
+        <link href="https://twitter.com/wublockchain12/status/1662667823976681475"/>
+        <updated>2023-05-28T03:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 该所谓的 Spiral Finance 在 Twitter 列表搜索中有数十个相类似项目，以及所谓官推则一直在各种 KOL 上大量刷留言；其最后一条发言（不含转推）在 5 月 13 日，而 BitX 的首推则在 5 月 12 日，并且发现其部分（刷的）留言用户重叠。
+https://twitter.com/star_okx/status/1662647040671903745?s=46
+
+Star: Because bitcoin network don’t support smart contracts, my understanding is the brc20 DEX actually ask users deposit tokens to a centralized wallet and swap them,then sent to users’ wallets. I think the model’s biggest risk is compliance risk which is the centralized wallet… https://twitter.com/i/web/status/1662647040671903745]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re BitX 对此回应称，其使用与 CEX 相同的方法通过控制热钱包 API 处理取款和存款。需要注意的是，用户 @imwilliam1230 指出，BitX 的 UI 设计与 zkSync Era 上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662667683744325639</id>
+        <link href="https://twitter.com/wublockchain12/status/1662667683744325639"/>
+        <updated>2023-05-28T03:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Re BitX 对此回应称，其使用与 CEX 相同的方法通过控制热钱包 API 处理取款和存款。需要注意的是，用户 @imwilliam1230 指出，BitX 的 UI 设计与 zkSync Era 上疑似 Scam 项目 Spiral Finance 十分相似，其 Token SPIRAL 上线后一路破发，日交易量几乎不足 1 百美金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据派盾分析，Jimbos Protocol 遭黑客攻击是由于流动性转移操作缺乏滑点控制，导致协议所拥有的流动性被投资到了一个倾斜/不平衡的价格范围中，而攻击者利用这...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662665813520977921</id>
+        <link href="https://twitter.com/wublockchain12/status/1662665813520977921"/>
+        <updated>2023-05-28T03:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Re 据派盾分析，Jimbos Protocol 遭黑客攻击是由于流动性转移操作缺乏滑点控制，导致协议所拥有的流动性被投资到了一个倾斜/不平衡的价格范围中，而攻击者利用这一点进行了反向交换以获取利润。https://twitter.com/peckshield/status/1662650673731624961?s=20
+
+PeckShield Inc.: It appears today's @jimbosprotocol hack leads to the 4090 ETH loss (w/ ~$7.5M).  
+This hack is due to the lack of slippage control of liquidity-shifting operation -- such that the protocol-owned liquidity is invested into a skewed/imbalanced price range, which is exploited in… https://twitter.com/i/web/status/1662650673731624961 https://t.co/TPlqNlvnZD]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Magic Eden已将M2开源代码上传至GitHub。 https://twitter.com/MagicEden/status/1662199147577876481]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662663935408099328</id>
+        <link href="https://twitter.com/wublockchain12/status/1662663935408099328"/>
+        <updated>2023-05-28T03:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Re Magic Eden已将M2开源代码上传至GitHub。
+https://twitter.com/MagicEden/status/1662199147577876481
+
+Magic Eden 🪄: Our core marketplace contract is officially open!
+You can now parse ME transactions directly with our IDL
+Imagine visiting a restaurant but you can't see the recipe. The IDL is like the recipe to our smart contract for all to see, making devs' lives easier when building with us https://t.co/cbJAr2qexz]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 MagicEden 官推，跨链 NFT 市场 Magic Eden 宣布其核心市场合约已正式开放，用户可直接通过接口定义语言 (IDL )解析平台交易。此外，开发者现在可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662663931989729280</id>
+        <link href="https://twitter.com/wublockchain12/status/1662663931989729280"/>
+        <updated>2023-05-28T03:35:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 MagicEden 官推，跨链 NFT 市场 Magic Eden 宣布其核心市场合约已正式开放，用户可直接通过接口定义语言 (IDL )解析平台交易。此外，开发者现在可以使用 CPI 来创建 / 完成列表，Magic Eden 删除了相关功能的共同签名，任何人都可以在其 NFT 上架合约上进行构建。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，BRC20 DEX BitX 宣布进行资格性空投。徐明星发推文指出由于比特币网络不支持智能合约， BRC20 DEX 的运行逻辑是要求用户将代币存入一个中心化钱包，Sw...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662659343450505221</id>
+        <link href="https://twitter.com/wublockchain12/status/1662659343450505221"/>
+        <updated>2023-05-28T03:17:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，BRC20 DEX BitX 宣布进行资格性空投。徐明星发推文指出由于比特币网络不支持智能合约， BRC20 DEX 的运行逻辑是要求用户将代币存入一个中心化钱包，Swap 后再发送至用户钱包。这种模式最大的风险是合规风险，即中心化钱包接受存款却没有进行任何 KYC 和 AML，且钱包安全也是个重要问题。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 由于 LSD 已成为最大的 TVL 资产类别，围绕 ETH 做更多的收益策略，在 LSD 领域集成 DeFi 正在成为社区关注的新趋势。https://dune.com/defimochi/lsdfi-summ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662653954264797201</id>
+        <link href="https://twitter.com/wublockchain12/status/1662653954264797201"/>
+        <updated>2023-05-28T02:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 由于 LSD 已成为最大的 TVL 资产类别，围绕 ETH 做更多的收益策略，在 LSD 领域集成 DeFi 正在成为社区关注的新趋势。https://dune.com/defimochi/lsdfi-summer]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据面板，5 月 27 日 LSDFi 协议流入达 2500 万美元，创下历史单日流入新高，其中 Lybra Finance 为主要流入达 2400 万美元。当前 LS...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662653951152631809</id>
+        <link href="https://twitter.com/wublockchain12/status/1662653951152631809"/>
+        <updated>2023-05-28T02:56:07.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据面板，5 月 27 日 LSDFi 协议流入达 2500 万美元，创下历史单日流入新高，其中 Lybra Finance 为主要流入达 2400 万美元。当前 LSDFi TVL 约 2.5 亿美元，其中 Lybra Finance 占比 48.3%、Pendle 占比 15.9%、Unsheth 占比 12.9%、Alchemix 占比 5.3% 等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前被盗资金已经通过跨链协议转移到以太坊上的 0x5f3591e2921d5c9291f5b224e909ab978a22ba7e 地址，到目前该笔资金仍存放在该地址上。JIMBO 代币价格下跌超 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662650336031670273</id>
+        <link href="https://twitter.com/wublockchain12/status/1662650336031670273"/>
+        <updated>2023-05-28T02:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前被盗资金已经通过跨链协议转移到以太坊上的 0x5f3591e2921d5c9291f5b224e909ab978a22ba7e 地址，到目前该笔资金仍存放在该地址上。JIMBO 代币价格下跌超 40%。
+https://twitter.com/PeckShieldAlert/status/1662644004599787520?s=20
+
+PeckShieldAlert: @peckshield @jimbosprotocol #PeckShieldAlert $JIMBO has dropped -40%
+https://dexscreener.com/arbitrum/0x16a5d28b20a3fddecdcaf02df4b3935734df1a1f https://t.co/zMPs75jUtK]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据派盾监测，Arbitrum 生态流动性协议，jimbos protocol 疑似遭受攻击，被盗取了 4000 多个 ETH （ 约 750 万美元）。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662650331514413056</id>
+        <link href="https://twitter.com/wublockchain12/status/1662650331514413056"/>
+        <updated>2023-05-28T02:41:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据派盾监测，Arbitrum 生态流动性协议，jimbos protocol 疑似遭受攻击，被盗取了 4000 多个 ETH （ 约 750 万美元）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 从其前两个项目 k 线来看，BEN 和 PSYOP 开盘后都有不错的财富效应，可能是吸引用户投资的关键；不过也有不少用户对其表达不满，认为其通过操纵 K 线、不断发...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662643438628794368</id>
+        <link href="https://twitter.com/wublockchain12/status/1662643438628794368"/>
+        <updated>2023-05-28T02:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 从其前两个项目 k 线来看，BEN 和 PSYOP 开盘后都有不错的财富效应，可能是吸引用户投资的关键；不过也有不少用户对其表达不满，认为其通过操纵 K 线、不断发售项目等方式 PUA 社区维持热度。吴说提醒投资者切勿 FOMO，理性对待。
+https://etherscan.io/address/0x91364516D3CAD16E1666261dbdbb39c881Dbe9eE]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Twitter KOL ben.eth 再次为其第三个项目 LOYAL 在 Twitter 上募集资金。结合此前的 PSYOP 的募资，当前 ben.eth 钱包中已有超过 9300 枚 ETH，价值超...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662643433830514688</id>
+        <link href="https://twitter.com/wublockchain12/status/1662643433830514688"/>
+        <updated>2023-05-28T02:14:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Twitter KOL ben.eth 再次为其第三个项目 LOYAL 在 Twitter 上募集资金。结合此前的 PSYOP 的募资，当前 ben.eth 钱包中已有超过 9300 枚 ETH，价值超过1700 万美元，近 24 小时有超过 5000 枚 ETH 的流入。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 芝商所加密货币产品全球负责人 Giovanni Vicioso 表示，提供这些新的期权合约，将为市场参与者提供更高的精度和多功能性，以管理短期比特币和以太坊价格风险...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662643215491821569</id>
+        <link href="https://twitter.com/wublockchain12/status/1662643215491821569"/>
+        <updated>2023-05-28T02:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 芝商所加密货币产品全球负责人 Giovanni Vicioso 表示，提供这些新的期权合约，将为市场参与者提供更高的精度和多功能性，以管理短期比特币和以太坊价格风险。https://www.livebitcoinnews.com/cme-group-to-allow-bitcoin-contracts-to-expire-every-day-of-the-week/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Live Bitcoinnews，芝商所 (CME Group) 宣布将以太坊和比特币标准以及微型合约的到期日增加到每日。此前，芝商所只提供周一、周三和周五到期的合约。新增功能...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662643212731957248</id>
+        <link href="https://twitter.com/wublockchain12/status/1662643212731957248"/>
+        <updated>2023-05-28T02:13:26.000Z</updated>
+        <summary type="html"><![CDATA[据 Live Bitcoinnews，芝商所 (CME Group) 宣布将以太坊和比特币标准以及微型合约的到期日增加到每日。此前，芝商所只提供周一、周三和周五到期的合约。新增功能将确保周二和周四到期的合约也将可供交易者使用。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 早先，美国国税局（IRS）向 FTX 及其附属实体提出了价值近440亿美元的索赔。其中最大的索赔包括针对 Alameda Research LLC 的204亿美元和79亿美元的索赔。htt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662642929129918465</id>
+        <link href="https://twitter.com/wublockchain12/status/1662642929129918465"/>
+        <updated>2023-05-28T02:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 早先，美国国税局（IRS）向 FTX 及其附属实体提出了价值近440亿美元的索赔。其中最大的索赔包括针对 Alameda Research LLC 的204亿美元和79亿美元的索赔。https://twitter.com/FTX_Committee/status/1662538013258182657
+
+Official Committee of Unsecured Creditors of FTX: On April 27 and 28, the U.S. Internal Revenue Service submitted numerous proofs of claim asserting substantial claims against various Debtors. The Debtors and the Committee are in the process of assessing the nature, validity, priority and amount of such claims.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@FTX_Committee 推文，4 月 27 日至 28 日，美国国税局提交大量索赔证明，声称对各债务人有重大债权要求。债务人和委员会正在评估这些索赔的性质、...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662642926269366272</id>
+        <link href="https://twitter.com/wublockchain12/status/1662642926269366272"/>
+        <updated>2023-05-28T02:12:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@FTX_Committee 推文，4 月 27 日至 28 日，美国国税局提交大量索赔证明，声称对各债务人有重大债权要求。债务人和委员会正在评估这些索赔的性质、有效性、优先权和金额。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xAobby Well said.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662639012803223552</id>
@@ -56,17 +254,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说周精选：香港将宣布散户交易新规、核心PCE指数超预期、 Multichain跨链异常与新闻Top10（0520-0526） https://www.wu-talk.com/index.php?m=content&c=index...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662630539357212672</id>
-        <link href="https://twitter.com/wublockchain12/status/1662630539357212672"/>
-        <updated>2023-05-28T01:23:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：香港将宣布散户交易新规、核心PCE指数超预期、 Multichain跨链异常与新闻Top10（0520-0526）
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14669]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Blockanalia 厉害👍🏻]]></title>
         <id>https://twitter.com/8848Community/status/1662624743466622976</id>
         <link href="https://twitter.com/8848Community/status/1662624743466622976"/>
@@ -74,73 +261,6 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14669]]></
         <summary type="html"><![CDATA[Re @Blockanalia 厉害👍🏻]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 CNN，美国白宫政府和众议院共和党人原则上就提高债务上限达成一致，双方将连夜审查协议文本，以确保其与暂定协议一致。https://edition.cnn.com/20...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662624000814764034</id>
-        <link href="https://twitter.com/wublockchain12/status/1662624000814764034"/>
-        <updated>2023-05-28T00:57:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 CNN，美国白宫政府和众议院共和党人原则上就提高债务上限达成一致，双方将连夜审查协议文本，以确保其与暂定协议一致。https://edition.cnn.com/2023/05/27/politics/debt-limit-negotiations-latest/index.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/star_okx/status/1662615200288362496]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662619514243256322</id>
-        <link href="https://twitter.com/wublockchain12/status/1662619514243256322"/>
-        <updated>2023-05-28T00:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/star_okx/status/1662615200288362496
-
-Star: Governments always confuse crypto,blockchain and web3, they even create a word called “none token blockchain” 🤣 https://twitter.com/hmalviya9/status/1662441670208802816]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1662460142732943362]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662619511416324096</id>
-        <link href="https://twitter.com/wublockchain12/status/1662619511416324096"/>
-        <updated>2023-05-28T00:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1662460142732943362
-
-CZ 🔶 Binance: A few more pages (that received as pics). Not sure of authenticity. Talks a lot about NFTs, VR, AI, metaverse, etc. Looks like ByteDance, JD, Baidu each have their sections. Gavin Wood & Beeple was mentioned too. Web 3,  web 3, web 3 all over the places... https://t.co/DJI1xk4KQZ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，针对北京 Web3 白皮书，CZ 表示自己阅读后发现谈了很多 NFT VR AI 元宇宙的内容；Gavin Wood（波卡创始人、提出 Web3 概念）和 Beeple 也被提及。但徐...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662619509029761025</id>
-        <link href="https://twitter.com/wublockchain12/status/1662619509029761025"/>
-        <updated>2023-05-28T00:39:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，针对北京 Web3 白皮书，CZ 表示自己阅读后发现谈了很多 NFT VR AI 元宇宙的内容；Gavin Wood（波卡创始人、提出 Web3 概念）和 Beeple 也被提及。但徐明星表示，政府总是混淆加密货币、区块链和 Web3，他们甚至创造了一个词叫“无币区块链”。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/zachxbt/status/1662588069441093633]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662617575283630080</id>
-        <link href="https://twitter.com/wublockchain12/status/1662617575283630080"/>
-        <updated>2023-05-28T00:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/zachxbt/status/1662588069441093633
-
-ZachXBT: If you actually think that the owner of the successful JaredFromSubway MEV bot is on CT larping as a BAYC with a checkmark saying GM you are exit liquidity.
-I keep seeing way too many people fall for this basic scam. https://t.co/mXgehRfV3T]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Zachxbt 揭露，一些注册为金 V 蓝 V 的伪造的 JaredFromSubway 账号自称可提供开源 MEV 机器人，可以帮助投资者赚取数百万美金，导致部分人盲目汇...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662617573022908416</id>
-        <link href="https://twitter.com/wublockchain12/status/1662617573022908416"/>
-        <updated>2023-05-28T00:31:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Zachxbt 揭露，一些注册为金 V 蓝 V 的伪造的 JaredFromSubway  账号自称可提供开源 MEV 机器人，可以帮助投资者赚取数百万美金，导致部分人盲目汇出加密货币。用户需谨慎识别。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -269,27 +389,6 @@ Web3变成Web负3
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 受害人在社交平台上被人推荐至一个虚假投资平台投资比特币，后尝试取回投资金额未果才发觉被骗。 https://www.youtube.com/watch?v=1iDtxuWeMf4]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662468356904214528</id>
-        <link href="https://twitter.com/wublockchain12/status/1662468356904214528"/>
-        <updated>2023-05-27T14:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Re 受害人在社交平台上被人推荐至一个虚假投资平台投资比特币，后尝试取回投资金额未果才发觉被骗。
-https://www.youtube.com/watch?v=1iDtxuWeMf4]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，香港九龙城警区在 5 月 23 日至 25 日开展了反诈行动，以洗钱罪和欺诈罪拘捕 9 男 5 女，涉案金额约 4500 万元，其中最大的案件是一起投资加密货币的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662468355218108417</id>
-        <link href="https://twitter.com/wublockchain12/status/1662468355218108417"/>
-        <updated>2023-05-27T14:38:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，香港九龙城警区在 5 月 23 日至 25 日开展了反诈行动，以洗钱罪和欺诈罪拘捕 9 男 5 女，涉案金额约 4500 万元，其中最大的案件是一起投资加密货币的诈骗案，受害人损失约 1270 万元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @CryptoHappyBoy 牛逼]]></title>
         <id>https://twitter.com/8848Community/status/1662463704569618434</id>
         <link href="https://twitter.com/8848Community/status/1662463704569618434"/>
@@ -297,26 +396,6 @@ https://www.youtube.com/watch?v=1iDtxuWeMf4]]></summary>
         <summary type="html"><![CDATA[Re @CryptoHappyBoy 牛逼]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 币安日本在初始阶段仅部分代币可用于现货交易且不提供衍生品服务，目前也无法确认日本平台可上架代币的确切列表。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662460997460975616</id>
-        <link href="https://twitter.com/wublockchain12/status/1662460997460975616"/>
-        <updated>2023-05-27T14:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 币安日本在初始阶段仅部分代币可用于现货交易且不提供衍生品服务，目前也无法确认日本平台可上架代币的确切列表。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安全球站宣布目前的服务将于 2023 年 11 月 30 日停止为日本居民提供。5月26日日本居民用户将无法在全球平台上开设新的衍生品账户。日本居民用户完...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662459622320656384</id>
-        <link href="https://twitter.com/wublockchain12/status/1662459622320656384"/>
-        <updated>2023-05-27T14:03:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安全球站宣布目前的服务将于 2023 年 11 月 30 日停止为日本居民提供。5月26日日本居民用户将无法在全球平台上开设新的衍生品账户。日本居民用户完成身份验证（KYC）的迁移链接将于2023年8月1日至11月30日开放。币安计划于 2023 年夏季推出日本本地平台。https://www.binance.com/en/land/japan-may-notice-en?fbclid]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -328,36 +407,6 @@ https://www.youtube.com/watch?v=1iDtxuWeMf4]]></summary>
 Fidelity projected retirement age https://t.co/rH2OMiHCZ5]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/FN69SRPxZ4]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662458210459209728</id>
-        <link href="https://twitter.com/wublockchain12/status/1662458210459209728"/>
-        <updated>2023-05-27T13:58:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/FN69SRPxZ4]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 自 2 月 7 日 Osmosis 链上收入模块 ProtoRev 批准以来，已捕获了约 4.6 万美元收入，包括价值 3.3 万美元的 OSMO、1 万美元的 ATOM 和 3 千美元的 USDC。目...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662445576099880961</id>
-        <link href="https://twitter.com/wublockchain12/status/1662445576099880961"/>
-        <updated>2023-05-27T13:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 自 2 月 7 日 Osmosis 链上收入模块 ProtoRev 批准以来，已捕获了约 4.6 万美元收入，包括价值 3.3 万美元的 OSMO、1 万美元的 ATOM 和 3 千美元的 USDC。目前该提案投票尚未达到法定人数，但在已投票的占比中，同意和拒绝数相差无几，投票将于 6 月 1 日结束。https://www.mintscan.io/osmosis/proposals/519]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Osmosis 社区发布 519 号提案以实现通缩机制，要求从协议收入模块 ProtoRev 中获得的全部 OSMO 进行销毁，以及 ProtoRev 模块中非 OSMO 资产将被发送...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662445573952409600</id>
-        <link href="https://twitter.com/wublockchain12/status/1662445573952409600"/>
-        <updated>2023-05-27T13:08:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Osmosis 社区发布 519 号提案以实现通缩机制，要求从协议收入模块 ProtoRev 中获得的全部 OSMO 进行销毁，以及 ProtoRev 模块中非 OSMO 资产将被发送至社区资金池，并将同时销毁相应价值的社区资金池中的 OSMO。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -401,36 +450,6 @@ More details below: https://t.co/3HYPnHskOY]]></summary>
         <summary type="html"><![CDATA[舒服了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 并且正在认真研究比特币上出现的 NFT、Ordinals。（TheBlock）https://www.theblock.co/post/232399/arthur-hayes-predicts-volatile-2023-followed-by-stron...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662400097819435011</id>
-        <link href="https://twitter.com/wublockchain12/status/1662400097819435011"/>
-        <updated>2023-05-27T10:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 并且正在认真研究比特币上出现的 NFT、Ordinals。（TheBlock）https://www.theblock.co/post/232399/arthur-hayes-predicts-volatile-2023-followed-by-strong-bitcoin-rally?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在最新的播客中，BitMex 前首席执行官 Arthur Hayes 表示 2023 年将是动荡的一年，但对 2024 年以后的比特币前景持乐观态度，并表示 2024 年比特币减半事件是一...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662400095684538368</id>
-        <link href="https://twitter.com/wublockchain12/status/1662400095684538368"/>
-        <updated>2023-05-27T10:07:23.000Z</updated>
-        <summary type="html"><![CDATA[在最新的播客中，BitMex 前首席执行官 Arthur Hayes 表示 2023 年将是动荡的一年，但对 2024 年以后的比特币前景持乐观态度，并表示 2024 年比特币减半事件是一个关键事件。他提到他的个人家族办公室 Maelstrom 在以太坊质押方面做了一些尝试，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Reflexer Finance 曾在2020年8月获得由 Paradigm 牵头的169万美元的种子轮融资，也曾被 Vitalik 认为是理想的去中心化稳定币（RAI）。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662399937295040512</id>
-        <link href="https://twitter.com/wublockchain12/status/1662399937295040512"/>
-        <updated>2023-05-27T10:06:45.000Z</updated>
-        <summary type="html"><![CDATA[Re Reflexer Finance 曾在2020年8月获得由 Paradigm 牵头的169万美元的种子轮融资，也曾被 Vitalik 认为是理想的去中心化稳定币（RAI）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -518,16 +537,6 @@ Talk of an AI bubble seems premature for semiconductors. https://t.co/GlmPFeGDTW
         <link href="https://twitter.com/DeFiSurfer808/status/1662117356364271616"/>
         <updated>2023-05-26T15:23:53.000Z</updated>
         <summary type="html"><![CDATA[Re @_fabknowledge_ Classic early cycle. Multiple expands]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Crowded_Mkt_Rpt Chasing baby]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1662116529989910528</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1662116529989910528"/>
-        <updated>2023-05-26T15:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @Crowded_Mkt_Rpt Chasing baby]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
