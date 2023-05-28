@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-28T11:09:28.204Z</id>
+    <id>urn:2023-05-28T12:22:51.255Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-28T11:09:28.204Z</updated>
+    <updated>2023-05-28T12:22:51.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re USDC 市场份额的下滑主要是受硅谷银行爆雷事件的牵连。而 BUSD 市场份额下滑则主要是因为纽约金融服务局要求其发行商 Paxos 停止发行 BUSD。https://twitter....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662789155062173696</id>
+        <link href="https://twitter.com/wublockchain12/status/1662789155062173696"/>
+        <updated>2023-05-28T11:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Re USDC 市场份额的下滑主要是受硅谷银行爆雷事件的牵连。而 BUSD 市场份额下滑则主要是因为纽约金融服务局要求其发行商 Paxos 停止发行 BUSD。https://twitter.com/coingecko/status/1662783294835146754
+
+CoinGecko: 1-year change of stablecoin market dominance:
+$USDT: 47.4% -> 65.89% 📈
+$USDC: 34.5% -> 23.02% 📉
+$BUSD: 11.8% -> 4.21% 📉
+$DAI: 4% -> 3.66% 📉
+$TUSD: 0.8% -> 1.62% 📈 https://t.co/ZeBS59fEGQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CoinGecko ，稳定币市场份额一年变化统计显示，USDT 从 47.4% 上升至 65.89% ，USDC 从 34.5% 下降至 23.02%，BUSD 从 11.8% 下降至 4.21%，DAI 从...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662789151522185217</id>
+        <link href="https://twitter.com/wublockchain12/status/1662789151522185217"/>
+        <updated>2023-05-28T11:53:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CoinGecko ，稳定币市场份额一年变化统计显示，USDT 从 47.4% 上升至 65.89% ，USDC 从 34.5% 下降至 23.02%，BUSD 从 11.8% 下降至 4.21%，DAI 从 4% 下降至 3.66%，TUSD 从 0.8% 上升至 1.62%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 早先 STEPN 创始人 Jerry 也支付了 1500 万美元现金购买了澳洲 Pymble 区的豪宅。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1662783048428187649</id>
+        <link href="https://twitter.com/wublockchain12/status/1662783048428187649"/>
+        <updated>2023-05-28T11:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 早先 STEPN 创始人 Jerry 也支付了 1500 万美元现金购买了澳洲 Pymble 区的豪宅。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Nibiru 产品类似于 Frax、 Curve 以及 GMX 的结合。https://nibiru.fi/blog/posts/016-itn-3.html]]></title>
         <id>https://twitter.com/wublockchain12/status/1662759345489313799</id>
@@ -213,41 +250,6 @@ Imagine visiting a restaurant but you can't see the recipe. The IDL is like the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 目前被盗资金已经通过跨链协议转移到以太坊上的 0x5f3591e2921d5c9291f5b224e909ab978a22ba7e 地址，到目前该笔资金仍存放在该地址上。JIMBO 代币价格下跌超 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662650336031670273</id>
-        <link href="https://twitter.com/wublockchain12/status/1662650336031670273"/>
-        <updated>2023-05-28T02:41:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前被盗资金已经通过跨链协议转移到以太坊上的 0x5f3591e2921d5c9291f5b224e909ab978a22ba7e 地址，到目前该笔资金仍存放在该地址上。JIMBO 代币价格下跌超 40%。
-https://twitter.com/PeckShieldAlert/status/1662644004599787520?s=20
-
-PeckShieldAlert: @peckshield @jimbosprotocol #PeckShieldAlert $JIMBO has dropped -40%
-https://dexscreener.com/arbitrum/0x16a5d28b20a3fddecdcaf02df4b3935734df1a1f https://t.co/zMPs75jUtK]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据派盾监测，Arbitrum 生态流动性协议，jimbos protocol 疑似遭受攻击，被盗取了 4000 多个 ETH （ 约 750 万美元）。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662650331514413056</id>
-        <link href="https://twitter.com/wublockchain12/status/1662650331514413056"/>
-        <updated>2023-05-28T02:41:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据派盾监测，Arbitrum 生态流动性协议，jimbos protocol 疑似遭受攻击，被盗取了 4000 多个 ETH （ 约 750 万美元）。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 从其前两个项目 k 线来看，BEN 和 PSYOP 开盘后都有不错的财富效应，可能是吸引用户投资的关键；不过也有不少用户对其表达不满，认为其通过操纵 K 线、不断发...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1662643438628794368</id>
-        <link href="https://twitter.com/wublockchain12/status/1662643438628794368"/>
-        <updated>2023-05-28T02:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 从其前两个项目 k 线来看，BEN 和 PSYOP 开盘后都有不错的财富效应，可能是吸引用户投资的关键；不过也有不少用户对其表达不满，认为其通过操纵 K 线、不断发售项目等方式 PUA 社区维持热度。吴说提醒投资者切勿 FOMO，理性对待。
-https://etherscan.io/address/0x91364516D3CAD16E1666261dbdbb39c881Dbe9eE]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @0xAobby Well said.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662639012803223552</id>
         <link href="https://twitter.com/OnChainWizard/status/1662639012803223552"/>
@@ -278,11 +280,11 @@ https://etherscan.io/address/0x91364516D3CAD16E1666261dbdbb39c881Dbe9eE]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada is so embarrassing 😂]]></title>
+        <title type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662591099062435841</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662591099062435841"/>
         <updated>2023-05-27T22:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Canada is so embarrassing 😂
+        <summary type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761
 
 The_Real_Fly: 🤡 https://t.co/dZIQpIHfp3]]></summary>
         <author>
@@ -477,11 +479,11 @@ More details below: https://t.co/3HYPnHskOY]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol]]></title>
+        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol ...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662265016282755079</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662265016282755079"/>
         <updated>2023-05-27T01:10:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol
+        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol https://twitter.com/bobeunlimited/status/1662091954937634816
 
 Bob Elliott: The US economy has shifted from a supply-driven inflation shock to an entrenched inflation dynamic.
 Today's PCE report highlights how elevated income growth maintains elevated nominal spending which keeps inflation well above the Fed's mandate.
@@ -511,11 +513,11 @@ Core PCE inflation still at 5%: https://t.co/gZcWLgI7SR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
