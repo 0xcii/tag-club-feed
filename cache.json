@@ -6,6 +6,56 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1663112859566632966",
+          "author": "吴说区块链",
+          "description": "Re 链上数据显示，该 Waifu_TV 地址最初的 Nakamigos 购买资金便是由 ben.eth 资助，在近 6 小时 ben.eth 向该地址转入了 435 ETH。通过几轮 Memecoins 预售募资，ben.eth 地址尚有超过 1.03 万枚 ETH，价值超过 1900 万美元。https://pro.nansen.ai/nft-god-mode/balances?nft_address=0xd774557b647330c91bf44cfeab205095f7e6c367?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23 & https://etherscan.io/txs?a=0x6f51f5715f72e9c2200ec6a6fe9942023fbe7bc3",
+          "link": "https://twitter.com/wublockchain12/status/1663112859566632966",
+          "publishedOn": "2023-05-29T09:19:39.000Z",
+          "wordCount": null,
+          "title": "Re 链上数据显示，该 Waifu_TV 地址最初的 Nakamigos 购买资金便是由 ben.eth 资助，在近 6 小时 ben.eth 向该地址转入了 435 ETH。通过几轮 Memecoins 预售募资...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1663112735666872321",
+          "author": "吴说区块链",
+          "description": "吴说获悉，近 24 小时，Nakamigos 地板价涨超 36% 至 0.59 ETH，交易量增长 243% 达 1.08k ETH，为 Ethereum NFT 交易量第三。据 Nansen 数据，OpenSea 名称为 Waifu_TV 地址（0x6f…7bc3）在近 6 小时购买了 365 枚 Nakamigos NFT，并向 ben.eth 转移了 143 枚。",
+          "link": "https://twitter.com/wublockchain12/status/1663112735666872321",
+          "publishedOn": "2023-05-29T09:19:09.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，近 24 小时，Nakamigos 地板价涨超 36% 至 0.59 ETH，交易量增长 243% 达 1.08k ETH，为 Ethereum NFT 交易量第三。据 Nansen 数据，OpenSea 名称为 W...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1663106236357963776",
+          "author": "吴说区块链",
+          "description": "Re 此外，交易在执行后并不立即从交易池中删除，状态从“pending”变更为“selected”，并继续存在于 PostgreSQL 数据库中。因此，另一个漏洞是通过发送失败的 tx 来恶意标记任何存款计数。目前 Polygon zkEVM 团队已通过移除 claim tx 的特定 gas 逻辑来修复了这个漏洞。https://twitter.com/0xiczc/status/1662090451493740545?s=20\n\niczc: 1/ Recently, I discovered a vulnerability in the  @0xPolygon zkEVM and earned my first L2 bug bounty from @Immunefi.\nThis vulnerability causes the assets being bridged from the L1 to Polygon zkEVM(L2) cannot be claimed properly in the L2, thus blocking L1->L2 asset migration.",
+          "link": "https://twitter.com/wublockchain12/status/1663106236357963776",
+          "publishedOn": "2023-05-29T08:53:20.000Z",
+          "wordCount": null,
+          "title": "Re 此外，交易在执行后并不立即从交易池中删除，状态从“pending”变更为“selected”，并继续存在于 PostgreSQL 数据库中。因此，另一个漏洞是通过发送失败的 t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1663106076886339585",
+          "author": "吴说区块链",
+          "description": "Re iczc 表示，发现可以通过将 Gas fee 设置为非零绕过 claim tx 的“isReverted”预址行检查，这将使得恶意行为者可以通过发送大量低成本的 claim tx 来对序列器和证明者进行 DoS 攻击，从而增加计算开销。",
+          "link": "https://twitter.com/wublockchain12/status/1663106076886339585",
+          "publishedOn": "2023-05-29T08:52:42.000Z",
+          "wordCount": null,
+          "title": "Re iczc 表示，发现可以通过将 Gas fee 设置为非零绕过 claim tx 的“isReverted”预址行检查，这将使得恶意行为者可以通过发送大量低成本的 claim tx 来对序列...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1663105904823402496",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Scroll 安全研究员 iczc 在近期发现了 Polygon zkEVM 的一个漏洞，并获得了 Immunefi 赏金，该漏洞会导致从 L1 桥接到 Polygon zkEVM 的资产无法在 L2 中领取，从而阻止了 L1 向 L2 资产迁移。",
+          "link": "https://twitter.com/wublockchain12/status/1663105904823402496",
+          "publishedOn": "2023-05-29T08:52:01.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Scroll 安全研究员 iczc 在近期发现了 Polygon zkEVM 的一个漏洞，并获得了 Immunefi 赏金，该漏洞会导致从 L1 桥接到 Polygon zkEVM 的资产无法在 L2...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1663050749868404738",
           "author": "吴说区块链",
           "description": "据路透社，埃尔多安以 52.1% 的选票再次赢得土耳其大选，反对党领袖 Kilicdaroglu 获得 47.9% 的选票。埃尔多安表示，通货膨胀是土耳其最紧迫的问题。\nhttps://www.reuters.com/world/middle-east/erdogan-positioned-extend-rule-turkey-runoff-election-2023-05-27/ https://twitter.com/wublockchain12/status/1657593888255930368\n\n吴说区块链: 吴说获悉，据 rossaprimavera，2023 年土耳其总统候选人——土耳其最大反对党领袖 Kemal Kılıçdaroğlu 是加密货币和 Web3 的支持者，他表示将在上台后取消对 PayPal 的禁令并扩大 Web3 平台，还批评了土耳其中央银行禁止在土耳其境内使用加密货币作为支付方式的决定。",
@@ -154,56 +204,6 @@
           "wordCount": null,
           "title": "吴说获悉，据 @EDCON2024，以太坊开发者大会「EDCON 2024」将在日本举办。EDCON 2023（Community Ethereum Development Conference）刚刚于 2023 年 5 月 19 日...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1662829814196342784",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，在今晚 CCTV 5 播出的 2023 年世界乒乓球锦标赛单打决赛实况录像中，Memecoin FLOKI 作为世界乒乓球锦标赛的合作方出现在广告牌中，并配有官网链接。受此影响，FLOKI 一度涨超 10%。此前国际乒乓球联合会宣布了与 FLOKI 的合作关系，FLOKI 将在该系列比赛中获得场地广告。H/T：@btcc77 https://t.co/RchlsbYB9d",
-          "link": "https://twitter.com/wublockchain12/status/1662829814196342784",
-          "publishedOn": "2023-05-28T14:34:56.000Z",
-          "wordCount": null,
-          "title": "Re 吴说获悉，在今晚 CCTV 5 播出的 2023 年世界乒乓球锦标赛单打决赛实况录像中，Memecoin FLOKI 作为世界乒乓球锦标赛的合作方出现在广告牌中，并配有官网链接...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1662807089109143553",
-          "author": "吴说区块链",
-          "description": "Re 2、虽然潜在的协议可能消除了主要的经济不确定性，但对于与实体经济没有直接联系并且严重依赖法币流动性的比特币等资产来说，实际上可能会面临困境。此外，发行更多美国政府债券将增加公共支出，这对经济有利，进一步推迟降息。（CoinDesk）https://www.coindesk.com/markets/2023/05/22/us-debt-deal-may-weigh-over-bitcoin-observers/?utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main&utm_medium=social",
-          "link": "https://twitter.com/wublockchain12/status/1662807089109143553",
-          "publishedOn": "2023-05-28T13:04:38.000Z",
-          "wordCount": null,
-          "title": "Re 2、虽然潜在的协议可能消除了主要的经济不确定性，但对于与实体经济没有直接联系并且严重依赖法币流动性的比特币等资产来说，实际上可能会面临困境。此外，发...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1662806933563400193",
-          "author": "吴说区块链",
-          "description": "Re 一些分析师对提高美国政府 31.4 万亿美元债务限额的潜在协议表示担忧，认为这可能给加密货币市场带来痛苦: 1、一旦提高债务限额，财政部将通过发行政府债券来恢复现金储备，这可能会吸收系统中的流动性，并对债券收益率施加上行压力，而比特币被认为与债券收益率呈相反的方向变动；",
-          "link": "https://twitter.com/wublockchain12/status/1662806933563400193",
-          "publishedOn": "2023-05-28T13:04:01.000Z",
-          "wordCount": null,
-          "title": "Re 一些分析师对提高美国政府 31.4 万亿美元债务限额的潜在协议表示担忧，认为这可能给加密货币市场带来痛苦: 1、一旦提高债务限额，财政部将通过发行政府债券来...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1662803806630051840",
-          "author": "吴说区块链",
-          "description": "吴说获悉，在昨日播出的由芒果 TV 和湖南卫视出品的音乐节目《声生不息·宝岛季》中，华裔女歌手莫文蔚身穿 CryptoPunks 礼服登台献唱。该礼服由 Vivienne Tam 设计，出自于 Metaverse, Past, Present, and Future 系列，衣服上印有 CryptoPunks 4372、3752、7279、2950 和 1942。H/T：@0xRodo https://t.co/M3f5ulrvZb",
-          "link": "https://twitter.com/wublockchain12/status/1662803806630051840",
-          "publishedOn": "2023-05-28T12:51:35.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，在昨日播出的由芒果 TV 和湖南卫视出品的音乐节目《声生不息·宝岛季》中，华裔女歌手莫文蔚身穿 CryptoPunks 礼服登台献唱。该礼服由 Vivienne Tam ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1662789155062173696",
-          "author": "吴说区块链",
-          "description": "Re USDC 市场份额的下滑主要是受硅谷银行爆雷事件的牵连。而 BUSD 市场份额下滑则主要是因为纽约金融服务局要求其发行商 Paxos 停止发行 BUSD。https://twitter.com/coingecko/status/1662783294835146754\n\nCoinGecko: 1-year change of stablecoin market dominance:\n$USDT: 47.4% -> 65.89% 📈\n$USDC: 34.5% -> 23.02% 📉\n$BUSD: 11.8% -> 4.21% 📉\n$DAI: 4% -> 3.66% 📉\n$TUSD: 0.8% -> 1.62% 📈 https://t.co/ZeBS59fEGQ",
-          "link": "https://twitter.com/wublockchain12/status/1662789155062173696",
-          "publishedOn": "2023-05-28T11:53:22.000Z",
-          "wordCount": null,
-          "title": "Re USDC 市场份额的下滑主要是受硅谷银行爆雷事件的牵连。而 BUSD 市场份额下滑则主要是因为纽约金融服务局要求其发行商 Paxos 停止发行 BUSD。https://twitter....",
-          "imageUrl": null
         }
       ]
     },
@@ -212,6 +212,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
       "articles": [
+        {
+          "id": "https://twitter.com/8848Community/status/1663095462474436610",
+          "author": "8848 社区（8848 Community）",
+          "description": "Re @cz_binance 你俩长得还挺像",
+          "link": "https://twitter.com/8848Community/status/1663095462474436610",
+          "publishedOn": "2023-05-29T08:10:31.000Z",
+          "wordCount": null,
+          "title": "Re @cz_binance 你俩长得还挺像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1663094815247179776",
+          "author": "8848 社区（8848 Community）",
+          "description": "还有一年时间\n一年后，这个zks地址应该已经超过1千万吧？ https://t.co/58MFFvnVkf",
+          "link": "https://twitter.com/8848Community/status/1663094815247179776",
+          "publishedOn": "2023-05-29T08:07:57.000Z",
+          "wordCount": null,
+          "title": "还有一年时间 一年后，这个zks地址应该已经超过1千万吧？ https://t.co/58MFFvnVkf",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/8848Community/status/1662624743466622976",
           "author": "8848 社区（8848 Community）",
@@ -390,26 +410,6 @@
           "publishedOn": "2023-05-23T11:40:31.000Z",
           "wordCount": null,
           "title": "Re @sueli07469986 姐，你暴富啦？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/8848Community/status/1660898640351870976",
-          "author": "8848 社区（8848 Community）",
-          "description": "Re @BigGobal 为他点赞",
-          "link": "https://twitter.com/8848Community/status/1660898640351870976",
-          "publishedOn": "2023-05-23T06:41:08.000Z",
-          "wordCount": null,
-          "title": "Re @BigGobal 为他点赞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/FyRkabR0qGdFkjP/status/1660895497392103425",
-          "author": "8848 社区（8848 Community）",
-          "description": "RT 灰熊白猫\nRe @8848Community 谁割了多愁善感的你\n谁拿了你的usdt\n谁把你的钱包清洗\n你给谁做的嫁衣",
-          "link": "https://twitter.com/FyRkabR0qGdFkjP/status/1660895497392103425",
-          "publishedOn": "2023-05-23T06:28:39.000Z",
-          "wordCount": null,
-          "title": "RT 灰熊白猫: Re @8848Community 谁割了多愁善感的你 谁拿了你的usdt 谁把你的钱包清洗 你给谁做的嫁衣",
           "imageUrl": null
         }
       ]
@@ -1003,11 +1003,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1662591099062435841",
           "author": "DeFi Surfer",
-          "description": "Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761\n\nThe_Real_Fly: 🤡 https://t.co/dZIQpIHfp3",
+          "description": "Canada is so embarrassing 😂\n\nThe_Real_Fly: 🤡 https://t.co/dZIQpIHfp3",
           "link": "https://twitter.com/DeFiSurfer808/status/1662591099062435841",
           "publishedOn": "2023-05-27T22:46:22.000Z",
           "wordCount": null,
-          "title": "Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761",
+          "title": "Canada is so embarrassing 😂",
           "imageUrl": null
         },
         {
@@ -1113,11 +1113,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1662265016282755079",
           "author": "DeFi Surfer",
-          "description": "It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol https://twitter.com/bobeunlimited/status/1662091954937634816\n\nBob Elliott: The US economy has shifted from a supply-driven inflation shock to an entrenched inflation dynamic.\nToday's PCE report highlights how elevated income growth maintains elevated nominal spending which keeps inflation well above the Fed's mandate.\nCore PCE inflation still at 5%: https://t.co/gZcWLgI7SR",
+          "description": "It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol\n\nBob Elliott: The US economy has shifted from a supply-driven inflation shock to an entrenched inflation dynamic.\nToday's PCE report highlights how elevated income growth maintains elevated nominal spending which keeps inflation well above the Fed's mandate.\nCore PCE inflation still at 5%: https://t.co/gZcWLgI7SR",
           "link": "https://twitter.com/DeFiSurfer808/status/1662265016282755079",
           "publishedOn": "2023-05-27T01:10:37.000Z",
           "wordCount": null,
-          "title": "It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol ...",
+          "title": "It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol",
           "imageUrl": null
         },
         {
