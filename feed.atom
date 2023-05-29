@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T08:16:48.755Z</id>
+    <id>urn:2023-05-29T09:13:08.886Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-29T08:16:48.755Z</updated>
+    <updated>2023-05-29T09:13:08.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -138,6 +138,29 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=14689]]></
         <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周美联储会议纪要显示6月暂停加息存分歧，而核心PCE物价指数超预期上行加重加息预期，通胀顽固的背景下，就业市场数据便更显重要；本周重点关注非农就业数据能否降温，同时持续关注美国债务上限进展。https://www.wu-talk.com/index.php]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @passedpawn @_FabianHD Great chart]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1662907334681673728</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1662907334681673728"/>
+        <updated>2023-05-28T19:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @passedpawn @_FabianHD Great chart]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT PassedPawn.eth: So ends the unfunded fiscal spending binge of 2022-23, $900 billion net from the peak. This is the second major draw - the first co...]]></title>
+        <id>https://twitter.com/passedpawn/status/1662896692063076353</id>
+        <link href="https://twitter.com/passedpawn/status/1662896692063076353"/>
+        <updated>2023-05-28T19:00:41.000Z</updated>
+        <summary type="html"><![CDATA[RT PassedPawn.eth
+So ends the unfunded fiscal spending binge of 2022-23, $900 billion net from the peak.
+This is the second major draw - the first consumed the entirety of 2021 at more than $1.5 trillion.
+Macro is full of numerous variables and complex interactions. This is an important one. https://t.co/HhjSvH0aO1]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -530,16 +553,6 @@ Talk of an AI bubble seems premature for semiconductors. https://t.co/GlmPFeGDTW
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @knlae_ TSMC looks mad undervalued. They make all the chips lol]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1662119242110750720</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1662119242110750720"/>
-        <updated>2023-05-26T15:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @knlae_ TSMC looks mad undervalued. They make all the chips lol]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @merryselfs 🤬🤬🤬可恶，大道消息无大道]]></title>
         <id>https://twitter.com/8848Community/status/1662089009026469888</id>
         <link href="https://twitter.com/8848Community/status/1662089009026469888"/>
@@ -592,18 +605,6 @@ Ace-Pilot: ≥500 次]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT CW Lin: Nvidia co-founder Jensen Huang (黃仁勳) walking through Taipei's night market last night as Nvidia's market cap reaches 1T. #taipei #taiwan...]]></title>
-        <id>https://twitter.com/_cw_lin/status/1662007747712540672</id>
-        <link href="https://twitter.com/_cw_lin/status/1662007747712540672"/>
-        <updated>2023-05-26T08:08:20.000Z</updated>
-        <summary type="html"><![CDATA[RT CW Lin
-Nvidia co-founder Jensen Huang (黃仁勳) walking through Taipei's night market last night as Nvidia's market cap reaches 1T.
-#taipei #taiwan https://t.co/8WZSv1k2p8]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[你们都是处于一个什么状态]]></title>
         <id>https://twitter.com/8848Community/status/1661645257820491777</id>
         <link href="https://twitter.com/8848Community/status/1661645257820491777"/>
@@ -648,17 +649,17 @@ Linea 第四周
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这个别忘了，第一周最后一天 https://twitter.com/8848Community/status/1659203892092239872]]></title>
+        <title type="html"><![CDATA[这个别忘了，第一周最后一天]]></title>
         <id>https://twitter.com/8848Community/status/1661255397116899328</id>
         <link href="https://twitter.com/8848Community/status/1661255397116899328"/>
         <updated>2023-05-24T06:18:45.000Z</updated>
-        <summary type="html"><![CDATA[这个别忘了，第一周最后一天 https://twitter.com/8848Community/status/1659203892092239872
+        <summary type="html"><![CDATA[这个别忘了，第一周最后一天
 
 8848 社区（8848 Community）: Starknet生态钱包Braavos推出Starknet旅途地图NFT活动，活动持续5周
 头盔钱包的stark之旅可以领取NFT了
 https://braavos.app/starknet-journey-map-nft-interactive-passport-to-the-starknet-adventure/
 但是
-卡崩了 https://twitter.com/myBraavos/status/1659188834058534913 https://t.co/c5LG8B5FHm]]></summary>
+卡崩了 https://t.co/c5LG8B5FHm]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -674,11 +675,11 @@ https://braavos.app/starknet-journey-map-nft-interactive-passport-to-the-starkne
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token https://twitter.com/shardeum/status/1660986467420700672]]></title>
+        <title type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token]]></title>
         <id>https://twitter.com/8848Community/status/1660997042502799361</id>
         <link href="https://twitter.com/8848Community/status/1660997042502799361"/>
         <updated>2023-05-23T13:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token https://twitter.com/shardeum/status/1660986467420700672
+        <summary type="html"><![CDATA[Shardeum计划于今年Q3或Q4启动主网，并上线Token
 
 Shardeum: Wen Mainnet?
 https://shardeum.org/blog/newsletter-2023-05-22-shardeum-mainnet-q3-q4-2023/]]></summary>
