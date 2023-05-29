@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T16:16:34.240Z</id>
+    <id>urn:2023-05-29T17:12:17.137Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-29T16:16:34.240Z</updated>
+    <updated>2023-05-29T17:12:17.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re 中国的监管和经济重新开放正越来越多地影响加密货币市场情绪。https://research.kaiko.com/insights/72-of-eth-liquidity-is-concentrated-on-5-exchanges]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663211792863199232</id>
-        <link href="https://twitter.com/wublockchain12/status/1663211792863199232"/>
-        <updated>2023-05-29T15:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 中国的监管和经济重新开放正越来越多地影响加密货币市场情绪。https://research.kaiko.com/insights/72-of-eth-liquidity-is-concentrated-on-5-exchanges]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Kaiko 分析，BTC 与中国股票（沪深 300）之间的相关性在今年有所加强，尽管仍相对较低，约为 20%。有趣的是，BTC 与美国股市之间的相关性有所下降...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663211748672032770</id>
-        <link href="https://twitter.com/wublockchain12/status/1663211748672032770"/>
-        <updated>2023-05-29T15:52:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 分析，BTC 与中国股票（沪深 300）之间的相关性在今年有所加强，尽管仍相对较低，约为 20%。有趣的是，BTC 与美国股市之间的相关性有所下降，在 4 月份达到多年低点。近期香港与中国内地的动向吸引了更多市场的关注，但也有观点认为只是情绪而非实质的利好。 https://twitter.com/i/web/status/1663211748672032770]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Kaiko 研究，72% 的 ETH 流动性集中在 5 个交易所：Binance、Bitfinex、OKX、Coinbase 和 Kraken。所有其他交易所 (41) 仅占市场深度的 28%。美国...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663210335699075075</id>
-        <link href="https://twitter.com/wublockchain12/status/1663210335699075075"/>
-        <updated>2023-05-29T15:46:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 研究，72% 的 ETH 流动性集中在 5 个交易所：Binance、Bitfinex、OKX、Coinbase 和 Kraken。所有其他交易所 (41) 仅占市场深度的 28%。美国可用交易所的市场深度份额约为 40%，低于去年 5 月 Terra 崩盘前 54%… https://twitter.com/i/web/status/1663210335699075075]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[区块链行业新闻就像是一场电影，但是你需要知道哪个角色是最重要的。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663206345036959745</id>
@@ -43,43 +13,6 @@
         <summary type="html"><![CDATA[区块链行业新闻就像是一场电影，但是你需要知道哪个角色是最重要的。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 不过，Proof 研究总监 NFTstatistics.eth 对 Blend 积分的实际分配表示疑惑，其在对照实验中发现提供价值相对低一些的贷款所获取的积分比相对高的贷款更多。h...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663189441010372608</id>
-        <link href="https://twitter.com/wublockchain12/status/1663189441010372608"/>
-        <updated>2023-05-29T14:23:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 不过，Proof 研究总监 NFTstatistics.eth 对 Blend 积分的实际分配表示疑惑，其在对照实验中发现提供价值相对低一些的贷款所获取的积分比相对高的贷款更多。https://twitter.com/NFTgators/status/1663160774561234947?s=20 & https://twitter.com/punk9059/status/1662933103994867712?s=20
-
-NFTstatistics.eth: Ran a Blend experiment: 
-I filled two wallets with 7 ETH each
-One offered 6.7 ETH loans on MAYC
-The other offered 6.6 ETH loans on MAYC
-The 6.6 ETH consistently earned more Blur points. 
-Are lenders not compensated for taking more risk? How do lending points actually work? https://t.co/usVDlS67lf]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 NFTgators 援引 @1kbeetlejuice 数据面板，Blur 借贷协议 Blend 在 5 月 28 日借贷交易量达 14.5k ETH，创下单日新高。在过去的一周（5.22-28），...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663189339290083329</id>
-        <link href="https://twitter.com/wublockchain12/status/1663189339290083329"/>
-        <updated>2023-05-29T14:23:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 NFTgators 援引 @1kbeetlejuice 数据面板，Blur 借贷协议 Blend 在 5 月 28 日借贷交易量达 14.5k ETH，创下单日新高。在过去的一周（5.22-28），以美元计价，Blend 周交易量达 9800 万美元，亦创下周新高，约占借贷协议市场份额的 90%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据俄罗斯媒体报道，俄罗斯政府官员表示当局放弃了创建国家加密货币交易所的想法，而是为此类结构的建立和运作制定规则；新机制将有助于降低制裁风险和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663188950595555328</id>
-        <link href="https://twitter.com/wublockchain12/status/1663188950595555328"/>
-        <updated>2023-05-29T14:22:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据俄罗斯媒体报道，俄罗斯政府官员表示当局放弃了创建国家加密货币交易所的想法，而是为此类结构的建立和运作制定规则；新机制将有助于降低制裁风险和网络攻击的可能性，并支持竞争。中央银行可能会监管加密货币交易所的工作。https://iz-ru.translate.goog/1519017/mariia-kolobova/novyi-bitok-v-rossii-poiaviatsia-pravila-sozdaniia-i-raboty-kriptobirzh?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -255,6 +188,90 @@ Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></s
         <link href="https://twitter.com/wublockchain12/status/1663138615755685890"/>
         <updated>2023-05-29T11:02:00.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Dilation Effect 链上研究指出，币安存在大量币种授权额度无限制，合约的授权没有定期清理，币种授权规则不统一等，内部安全管理存在问题；此外，KuCoin 超过10亿美金用户资产全部都授权给了名为 Bridge 的合约，且授权额度完全无限制，存在较大的安全风险；相较之下 Jump… https://twitter.com/i/web/status/1663138615755685890]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Fantom 联合创始人 Andre Cronje 发推称，已推出 Gas Monetization 即 Gas货币化项目，将奖励利用其网络并为高燃料费使用做出贡献的项目，Fantom 的 g...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663135724840034304</id>
+        <link href="https://twitter.com/wublockchain12/status/1663135724840034304"/>
+        <updated>2023-05-29T10:50:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Fantom 联合创始人 Andre Cronje 发推称，已推出 Gas Monetization 即 Gas货币化项目，将奖励利用其网络并为高燃料费使用做出贡献的项目，Fantom 的 gas 燃烧率从 20% 降低到 5%，符合条件的 DApp将获得其产生的 gas 费用的 15% 作为奖励，该计划于今年早些通过社区治理投票。… https://twitter.com/i/web/status/1663135724840034304]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB 链 NFT 市场 Tabi 完成 1000 万美元天使轮投资，Animoca Brands 、Binance Labs、Draper Dragon、Hashkey Capital等参投。据悉，Tabi 前称 Treasureland ，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663135502193807360</id>
+        <link href="https://twitter.com/wublockchain12/status/1663135502193807360"/>
+        <updated>2023-05-29T10:49:37.000Z</updated>
+        <summary type="html"><![CDATA[BNB 链 NFT 市场 Tabi 完成 1000 万美元天使轮投资，Animoca Brands 、Binance Labs、Draper Dragon、Hashkey Capital等参投。据悉，Tabi 前称 Treasureland ，资金将用于开发 Tabi 的游戏生态系统和构建其即将推出的链上身份协议。除了 NFT 交易和 Launchpad 功能外，Tabi… https://twitter.com/i/web/status/1663135502193807360]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1663089459703988226]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663133589335330819</id>
+        <link href="https://twitter.com/wublockchain12/status/1663133589335330819"/>
+        <updated>2023-05-29T10:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1663089459703988226
+
+BITMAIN: #ANTMINER Z15 Pro is coming！
+☑️840KSol
+☑️2650W
+☑️3.15KSol/J
+Only💲2,999/unit
+Did you guess the right price❓
+⏰Deposit Payment Time: May 30, 9:00 (EST)
+⚡️Fast shipping within 7 days after payment!
+🎉Enjoy up to 30% off with coupon！
+Don’t miss out! 🔗https://bitmain.com https://t.co/07jdPwyP3v]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特大陆推出蚂蚁矿机 Z15Pro，840KSol 算力、2650 W 功耗与 3.15 KSol/J 的能效比，用于 EquiHash/Zcash 的挖掘，售价为 2999 美金一台；相比于 Z15 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663133481826910210</id>
+        <link href="https://twitter.com/wublockchain12/status/1663133481826910210"/>
+        <updated>2023-05-29T10:41:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特大陆推出蚂蚁矿机 Z15Pro，840KSol 算力、2650 W 功耗与 3.15 KSol/J 的能效比，用于 EquiHash/Zcash 的挖掘，售价为 2999 美金一台；相比于 Z15 算力翻倍，能效比也有大幅提升。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 链上数据显示，该 Waifu_TV 地址最初的 Nakamigos 购买资金便是由 ben.eth 资助，在近 6 小时 ben.eth 向该地址转入了 435 ETH。通过几轮 Memecoins 预售募资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663112859566632966</id>
+        <link href="https://twitter.com/wublockchain12/status/1663112859566632966"/>
+        <updated>2023-05-29T09:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Re 链上数据显示，该 Waifu_TV 地址最初的 Nakamigos 购买资金便是由 ben.eth 资助，在近 6 小时 ben.eth 向该地址转入了 435 ETH。通过几轮 Memecoins 预售募资，ben.eth 地址尚有超过 1.03 万枚 ETH，价值超过 1900 万美元。https://pro.nansen.ai/nft-god-mode/balances?nft_address=0xd774557b647330c91bf44cfeab205095f7e6c367?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23 & https://etherscan.io/txs?a=0x6f51f5715f72e9c2200ec6a6fe9942023fbe7bc3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，近 24 小时，Nakamigos 地板价涨超 36% 至 0.59 ETH，交易量增长 243% 达 1.08k ETH，为 Ethereum NFT 交易量第三。据 Nansen 数据，OpenSea 名称为 W...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663112735666872321</id>
+        <link href="https://twitter.com/wublockchain12/status/1663112735666872321"/>
+        <updated>2023-05-29T09:19:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，近 24 小时，Nakamigos 地板价涨超 36% 至 0.59 ETH，交易量增长 243% 达 1.08k ETH，为 Ethereum NFT 交易量第三。据 Nansen 数据，OpenSea 名称为 Waifu_TV 地址（0x6f…7bc3）在近 6 小时购买了 365 枚 Nakamigos NFT，并向 ben.eth 转移了 143 枚。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外，交易在执行后并不立即从交易池中删除，状态从“pending”变更为“selected”，并继续存在于 PostgreSQL 数据库中。因此，另一个漏洞是通过发送失败的 t...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663106236357963776</id>
+        <link href="https://twitter.com/wublockchain12/status/1663106236357963776"/>
+        <updated>2023-05-29T08:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外，交易在执行后并不立即从交易池中删除，状态从“pending”变更为“selected”，并继续存在于 PostgreSQL 数据库中。因此，另一个漏洞是通过发送失败的 tx 来恶意标记任何存款计数。目前 Polygon zkEVM 团队已通过移除 claim tx 的特定 gas 逻辑来修复了这个漏洞。https://twitter.com/0xiczc/status/1662090451493740545?s=20
+
+iczc: 1/ Recently, I discovered a vulnerability in the  @0xPolygon zkEVM and earned my first L2 bug bounty from @Immunefi.
+This vulnerability causes the assets being bridged from the L1 to Polygon zkEVM(L2) cannot be claimed properly in the L2, thus blocking L1->L2 asset migration.]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
