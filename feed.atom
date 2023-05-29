@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T14:11:25.183Z</id>
+    <id>urn:2023-05-29T15:13:02.459Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-29T14:11:25.183Z</updated>
+    <updated>2023-05-29T15:13:02.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Biteye：以太坊黑山大会热点趋势和重点关注项目。EthStorage 是本次 EDCON 的第一名，是一个基于以太坊数据可用性的可编程动态存储二层解决方案。Cell Protocol ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663185758474366981</id>
-        <link href="https://twitter.com/wublockchain12/status/1663185758474366981"/>
-        <updated>2023-05-29T14:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Biteye：以太坊黑山大会热点趋势和重点关注项目。EthStorage 是本次 EDCON 的第一名，是一个基于以太坊数据可用性的可编程动态存储二层解决方案。Cell Protocol 在本次大会中获得了 Future of Social Network 的 Special Award 奖项，此项目提供了一个针对 Web3 社交定制的可组合的大规模 Layer 3… https://twitter.com/i/web/status/1663185758474366981]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1663172839393071104]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663183177039638530</id>
-        <link href="https://twitter.com/wublockchain12/status/1663183177039638530"/>
-        <updated>2023-05-29T13:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1663172839393071104
-
-Adam@Greeks.live: 在经历了两周多的横盘后，市场迎来了久违的上涨，主要加密货币上涨超4%。
-周末的IV一度创出新的历史低点，随后价格上涨带动各主要期限IV小幅反弹，但是鉴于市场VRP创出了一个月内的新高，IV上涨空间有限，短暂的反弹后仍大概率进入下降通道。… https://twitter.com/i/web/status/1663172839393071104 https://t.co/rGv8IJjOYi]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BTC__options 分析，市场 VRP 创出了一个月内的新高，IV 上涨空间有限，短暂的反弹后仍大概率进入下降通道。从期权市场的反应看，大部分机构不看...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663183070705651712</id>
-        <link href="https://twitter.com/wublockchain12/status/1663183070705651712"/>
-        <updated>2023-05-29T13:58:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options 分析，市场 VRP 创出了一个月内的新高，IV 上涨空间有限，短暂的反弹后仍大概率进入下降通道。从期权市场的反应看，大部分机构不看好反弹的持续性，BTC 和 ETH 回到整数点位的压力很大。VRP为波动率风险溢价，等于IV与RV的差值。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/Ywj9A6bc5t]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663182832368508934</id>
-        <link href="https://twitter.com/wublockchain12/status/1663182832368508934"/>
-        <updated>2023-05-29T13:57:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/Ywj9A6bc5t]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @AnClint 宾周]]></title>
         <id>https://twitter.com/8848Community/status/1663175696808812544</id>
@@ -56,16 +13,6 @@ Adam@Greeks.live: 在经历了两周多的横盘后，市场迎来了久违的
         <summary type="html"><![CDATA[Re @AnClint 宾周]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG 一文简析全链游戏引擎：在全链游戏中，游戏状态全部存储在区块链上，第一个全链游戏引擎是由 Lattice 推出的 MUD ，使用 ECS 架构，每个游戏都部署一个世界...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663169193481744384</id>
-        <link href="https://twitter.com/wublockchain12/status/1663169193481744384"/>
-        <updated>2023-05-29T13:03:30.000Z</updated>
-        <summary type="html"><![CDATA[IOSG 一文简析全链游戏引擎：在全链游戏中，游戏状态全部存储在区块链上，第一个全链游戏引擎是由 Lattice 推出的 MUD ，使用 ECS 架构，每个游戏都部署一个世界合约，是该世界所有物体（Entity）的注册表；Entity 是数字 ID，组件附着在 Entity 上，可被添加到世界中。StarkNet 上的 Dojo Engine… https://twitter.com/i/web/status/1663169193481744384]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -89,16 +36,6 @@ Adam@Greeks.live: 在经历了两周多的横盘后，市场迎来了久违的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，币安发布公告称，由于关于 Tornado Cash（TORN）DAO 恢复治理的提案被通过并执行，币安已恢复 TORN 于以太坊网络和 BNB 智能链的充值业务，币安决定于...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663158465714622466</id>
-        <link href="https://twitter.com/wublockchain12/status/1663158465714622466"/>
-        <updated>2023-05-29T12:20:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安发布公告称，由于关于 Tornado Cash（TORN）DAO 恢复治理的提案被通过并执行，币安已恢复 TORN 于以太坊网络和 BNB 智能链的充值业务，币安决定于 5 月 30 日前，将 Tornado Cash（TORN）移至创新区。此前 TORN 于以太坊网络和 BNB 智能链的充值业务，已于 5月 21… https://twitter.com/i/web/status/1663158465714622466]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitter 好占内存]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
@@ -108,16 +45,6 @@ Adam@Greeks.live: 在经历了两周多的横盘后，市场迎来了久违的
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BKEX 交易所公告称，平台部分用户资金涉及到洗钱，BKEX 目前正在配合警方取证，对此将暂停提现、配合工作。BKEX 创始人为纪佳铭，2018年6月成立 BKEX...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663155801459154945</id>
-        <link href="https://twitter.com/wublockchain12/status/1663155801459154945"/>
-        <updated>2023-05-29T12:10:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BKEX 交易所公告称，平台部分用户资金涉及到洗钱，BKEX 目前正在配合警方取证，对此将暂停提现、配合工作。BKEX 创始人为纪佳铭，2018年6月成立 BKEX，获得黄天威、节点资本、了得资本、FBG、BICA、 AlphaCoin… https://twitter.com/i/web/status/1663155801459154945]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -267,6 +194,26 @@ This vulnerability causes the assets being bridged from the L1 to Polygon zkEVM(
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re iczc 表示，发现可以通过将 Gas fee 设置为非零绕过 claim tx 的“isReverted”预址行检查，这将使得恶意行为者可以通过发送大量低成本的 claim tx 来对序列...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663106076886339585</id>
+        <link href="https://twitter.com/wublockchain12/status/1663106076886339585"/>
+        <updated>2023-05-29T08:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Re iczc 表示，发现可以通过将 Gas fee 设置为非零绕过 claim tx 的“isReverted”预址行检查，这将使得恶意行为者可以通过发送大量低成本的 claim tx 来对序列器和证明者进行 DoS 攻击，从而增加计算开销。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Scroll 安全研究员 iczc 在近期发现了 Polygon zkEVM 的一个漏洞，并获得了 Immunefi 赏金，该漏洞会导致从 L1 桥接到 Polygon zkEVM 的资产无法在 L2...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663105904823402496</id>
+        <link href="https://twitter.com/wublockchain12/status/1663105904823402496"/>
+        <updated>2023-05-29T08:52:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Scroll 安全研究员 iczc 在近期发现了 Polygon zkEVM 的一个漏洞，并获得了 Immunefi 赏金，该漏洞会导致从 L1 桥接到 Polygon zkEVM 的资产无法在 L2 中领取，从而阻止了 L1 向 L2 资产迁移。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @cz_binance 你俩长得还挺像]]></title>
         <id>https://twitter.com/8848Community/status/1663095462474436610</id>
         <link href="https://twitter.com/8848Community/status/1663095462474436610"/>
@@ -285,6 +232,70 @@ This vulnerability causes the assets being bridged from the L1 to Polygon zkEVM(
 一年后，这个zks地址应该已经超过1千万吧？ https://t.co/58MFFvnVkf]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社，埃尔多安以 52.1% 的选票再次赢得土耳其大选，反对党领袖 Kilicdaroglu 获得 47.9% 的选票。埃尔多安表示，通货膨胀是土耳其最紧迫的问题。 https://w...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663050749868404738</id>
+        <link href="https://twitter.com/wublockchain12/status/1663050749868404738"/>
+        <updated>2023-05-29T05:12:51.000Z</updated>
+        <summary type="html"><![CDATA[据路透社，埃尔多安以 52.1% 的选票再次赢得土耳其大选，反对党领袖 Kilicdaroglu 获得 47.9% 的选票。埃尔多安表示，通货膨胀是土耳其最紧迫的问题。
+https://www.reuters.com/world/middle-east/erdogan-positioned-extend-rule-turkey-runoff-election-2023-05-27/ https://twitter.com/wublockchain12/status/1657593888255930368
+
+吴说区块链: 吴说获悉，据 rossaprimavera，2023 年土耳其总统候选人——土耳其最大反对党领袖 Kemal Kılıçdaroğlu 是加密货币和 Web3 的支持者，他表示将在上台后取消对 PayPal 的禁令并扩大 Web3 平台，还批评了土耳其中央银行禁止在土耳其境内使用加密货币作为支付方式的决定。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前报道近期巴厘岛杀人事件为李某（男方）先将程某（女方）杀害后自杀，男方曾投资加密货币。https://en.antaranews.com/news/283182/bali-to-crack-down-on...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663049992863612930</id>
+        <link href="https://twitter.com/wublockchain12/status/1663049992863612930"/>
+        <updated>2023-05-29T05:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前报道近期巴厘岛杀人事件为李某（男方）先将程某（女方）杀害后自杀，男方曾投资加密货币。https://en.antaranews.com/news/283182/bali-to-crack-down-on-foreign-tourists-using-crypto-as-payment]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据印尼媒体，巴厘岛政府将打击外国游客在酒店、餐馆、旅游目的地、购物中心和其他地方使用加密货币作为支付手段。巴厘岛州长 Wayan Koster 周日表示，包括使用加...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663049960320012289</id>
+        <link href="https://twitter.com/wublockchain12/status/1663049960320012289"/>
+        <updated>2023-05-29T05:09:43.000Z</updated>
+        <summary type="html"><![CDATA[据印尼媒体，巴厘岛政府将打击外国游客在酒店、餐馆、旅游目的地、购物中心和其他地方使用加密货币作为支付手段。巴厘岛州长 Wayan Koster 周日表示，包括使用加密货币作为支付手段在内的违规行为将得到坚决处理，严厉措施包括驱逐出境、行政制裁、刑事处罚、关闭营业场所等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 发布第七次储备证明（快照日期 5-19），公示币种已增至 22 个，总计价值达 100 亿美元。用户 BTC 资产沉淀较上次（4-22）降低 4.1%，减少 5264 枚...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663023967278612481</id>
+        <link href="https://twitter.com/wublockchain12/status/1663023967278612481"/>
+        <updated>2023-05-29T03:26:25.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 发布第七次储备证明（快照日期 5-19），公示币种已增至 22 个，总计价值达 100 亿美元。用户 BTC 资产沉淀较上次（4-22）降低 4.1%，减少 5264 枚 BTC；用户 ETH 资产沉淀降低 12.3%，减少 15.7 万枚 ETH；用户 USDT 资产沉淀增长 4.3%，增加 1.85 亿枚 USDT。
+https://www.okx.com/cn/proof-of-reserves/detail]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaxDAO：《新西兰加密资产税收概览》新西兰政府已承认加密货币的合法性，并将其视为一种资产和投资形式，通过持有、交易和挖矿而获得的收入具备合法性且需缴纳相...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663021692137136139</id>
+        <link href="https://twitter.com/wublockchain12/status/1663021692137136139"/>
+        <updated>2023-05-29T03:17:23.000Z</updated>
+        <summary type="html"><![CDATA[TaxDAO：《新西兰加密资产税收概览》新西兰政府已承认加密货币的合法性，并将其视为一种资产和投资形式，通过持有、交易和挖矿而获得的收入具备合法性且需缴纳相应税款。加密货币收入可能来自以下任何活动：挖矿、质押、贷款、销售、交易、获得商品和服务的报酬、NFT交易、空投和分叉。阅读全文：… https://twitter.com/i/web/status/1663021692137136139]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 CoinDesk 对印度六大加密交易所的采访，各家都在去年印度开始对加密货币征收高额税以来进入生存模式。CoinDCX 通过多元化经营和最近的 1.35 亿美元 D 轮融资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663015570823073792</id>
+        <link href="https://twitter.com/wublockchain12/status/1663015570823073792"/>
+        <updated>2023-05-29T02:53:04.000Z</updated>
+        <summary type="html"><![CDATA[据 CoinDesk 对印度六大加密交易所的采访，各家都在去年印度开始对加密货币征收高额税以来进入生存模式。CoinDCX 通过多元化经营和最近的 1.35 亿美元 D 轮融资；WazirX 的策略是与合作伙伴重新谈判合同；CoinSwitch 从加密交易所转型为加密投资平台； ZebPay… https://twitter.com/i/web/status/1663015570823073792]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
