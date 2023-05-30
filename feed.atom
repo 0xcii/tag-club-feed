@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T08:16:26.305Z</id>
+    <id>urn:2023-05-30T09:12:50.630Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T08:16:26.306Z</updated>
+    <updated>2023-05-30T09:12:50.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[基于 Cardano 的 DEX Minswap 的交易量近日出现大幅增长，从5月初的 100 万美元左右增长到周二的 1800 万美元。增加的交易量中，有相当一部分来自基于Cardano 的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663438636422164481</id>
+        <link href="https://twitter.com/wublockchain12/status/1663438636422164481"/>
+        <updated>2023-05-30T06:54:10.000Z</updated>
+        <summary type="html"><![CDATA[基于 Cardano 的 DEX Minswap 的交易量近日出现大幅增长，从5月初的 100 万美元左右增长到周二的 1800 万美元。增加的交易量中，有相当一部分来自基于Cardano 的 meme 币 snek 和 bank。snek 的市值在周二早上达到 8000 万美元，成为市值排名第八的 meme 币。（CoinDesk）https://www.coindesk.com/tech/2023/05/30/cardano-dex-minswap-sees-volume-jump-driven-by-snek-bank-meme-coins/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5 月 31 日，将解锁 3.865 亿枚 OP（总计5.875亿美元），占总供应量9%。https://twitter.com/spotonchain/status/1663425481017016320]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663437693530050560</id>
+        <link href="https://twitter.com/wublockchain12/status/1663437693530050560"/>
+        <updated>2023-05-30T06:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Re 5 月 31 日，将解锁 3.865 亿枚 OP（总计5.875亿美元），占总供应量9%。https://twitter.com/spotonchain/status/1663425481017016320
+
+Spot On Chain: 🚨🚨 Over the past 42 hours, @wintermute_t has moved 2.651M $OP to #Binance at $1.63 on avg ($4.31M).
+⚠️ 386.5M $OP ($587.5M) will be unlocked in 18 hours:
+- 204M $OP to core contributors
+- 182.5M $OP to investors
+- Represents 9% of total supply or 53.5% of circulating supply https://t.co/XLSkeaEqHp]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Spot On Chain监测，在过去 42 小时，加密做市商 Wintermute 已将 265.1 万枚 OP 转移到币安，平均价格为 1.63 美元（共计 431 万美元）。去年 6 月，Optimis...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663437688949862400</id>
+        <link href="https://twitter.com/wublockchain12/status/1663437688949862400"/>
+        <updated>2023-05-30T06:50:24.000Z</updated>
+        <summary type="html"><![CDATA[据 Spot On Chain监测，在过去 42 小时，加密做市商 Wintermute 已将 265.1 万枚 OP 转移到币安，平均价格为 1.63 美元（共计 431 万美元）。去年 6 月，Optimism 基金会邀请 Wintermute 提供流动性供应服务，向其分配了 2000 万枚 OP 代币的临时赠款。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社，币安澳大利亚分公司（Binance Australia）的比特币价格周二比当地其他加密交易所的比特币价格低近 9000 澳元（约 5860 美元），这表明客户正在寻求快...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663431857441226754</id>
+        <link href="https://twitter.com/wublockchain12/status/1663431857441226754"/>
+        <updated>2023-05-30T06:27:14.000Z</updated>
+        <summary type="html"><![CDATA[据路透社，币安澳大利亚分公司（Binance Australia）的比特币价格周二比当地其他加密交易所的比特币价格低近 9000 澳元（约 5860 美元），这表明客户正在寻求快速退出头寸。在本月早些时候，币安表示，在第三方服务提供商切断其服务后，澳大利亚的一些客户将无法存款或取款。https://www.reuters.com/technology/binance-australia-customers-seen-selling-bitcoin-discount-rival-exchanges-2023-05-30/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 币安曾考虑收购一家银行，但发现需要广泛遵守当地法规。市场正在从 2022 年的熊市中复苏，CZ 表示这给市场带来了“复杂的情绪”，因为目前还不清楚未来将推动...]]></title>
         <id>https://twitter.com/wublockchain12/status/1663411176414547974</id>
@@ -177,36 +223,6 @@ https://www.binance.com/en/support/announcement/binance-adds-ada-tusd-ltc-tusd-t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Sui 基金会宣布，首届官方Sui 黑客松从今天开始接受报名，截止日期为 7 月 5 日。此次黑客松为 Sui 基金会与 KuCoin Labs 共同举办，将于7月19日在巴...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663372505191682048</id>
-        <link href="https://twitter.com/wublockchain12/status/1663372505191682048"/>
-        <updated>2023-05-30T02:31:23.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Sui 基金会宣布，首届官方Sui 黑客松从今天开始接受报名，截止日期为 7 月 5 日。此次黑客松为 Sui 基金会与 KuCoin Labs 共同举办，将于7月19日在巴黎 Builder House 和在线上举办 Demo Day。可参与此次黑客松的项目类别为：基础设施和工具；NFT、社交和DAO；游戏和AIGC；DeFi与支付。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 自委内瑞拉的加密货币监管机构 Sunacrip 干预两个多月以来，法定货币的提款也被冻结。此前 Sunacrip 负责人 Joselit Ramirez 因涉嫌参与一项价值数十亿美元的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663371803329433600</id>
-        <link href="https://twitter.com/wublockchain12/status/1663371803329433600"/>
-        <updated>2023-05-30T02:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 自委内瑞拉的加密货币监管机构 Sunacrip 干预两个多月以来，法定货币的提款也被冻结。此前 Sunacrip 负责人 Joselit Ramirez 因涉嫌参与一项价值数十亿美元的加密腐败计划而被捕。https://news.bitcoin.com/venezuelan-petro-blockchain-faces-operational-difficulties-hundreds-of-wallets-allegedly-blocked/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 http://Bitcoin.com，自上周以来，委内瑞拉官方加密货币 Petro 的区块链一直面临运营问题。加密货币爱好者私人协会 Asonacrip 发布警告称， Petro 区块链于 5...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663371798166245377</id>
-        <link href="https://twitter.com/wublockchain12/status/1663371798166245377"/>
-        <updated>2023-05-30T02:28:35.000Z</updated>
-        <summary type="html"><![CDATA[据 http://Bitcoin.com，自上周以来，委内瑞拉官方加密货币 Petro 的区块链一直面临运营问题。加密货币爱好者私人协会 Asonacrip 发布警告称， Petro 区块链于 5 月 24 日停止出块，之后于 5 月 27 日重新开始出块，但在 5 月 28 日再次停止。区块链首次停运时，数百个 Petro 钱包被删除或封锁。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Parallax Finance: 🤝Unveiling our next alliance that we have in our advisory board.🤝 We've joined forces with @OnChainWizard. He's a multi-fac...]]></title>
         <id>https://twitter.com/parallaxfin/status/1663369293831233536</id>
         <link href="https://twitter.com/parallaxfin/status/1663369293831233536"/>
@@ -214,7 +230,7 @@ https://www.binance.com/en/support/announcement/binance-adds-ada-tusd-ltc-tusd-t
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
+We'll need his help for our LSDfi-built journey. 👇
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
@@ -222,16 +238,6 @@ A quick thread on the LSDfi opportunity and Parallax
 https://twitter.com/parallaxfin/status/1651989075191115785?s=20]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @bcrypt5 数据面板，Bitcoin Ordinals Inscriptions 铸造数已超过 1 千万个，其中超过 80% 与 BRC-20 相关；共累积支付了 1578.46 BTC 费用，约 44...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663362483061690368</id>
-        <link href="https://twitter.com/wublockchain12/status/1663362483061690368"/>
-        <updated>2023-05-30T01:51:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @bcrypt5 数据面板，Bitcoin Ordinals Inscriptions 铸造数已超过 1 千万个，其中超过 80% 与 BRC-20 相关；共累积支付了 1578.46 BTC 费用，约 4400 万美元。当前每日 Ordinals Inscriptions 铸造约在 200k。https://dune.com/dgtl_assets/bitcoin-ordinals-analysis]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -726,11 +732,11 @@ Core PCE inflation still at 5%: https://t.co/gZcWLgI7SR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
