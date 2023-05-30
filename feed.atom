@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T05:12:29.235Z</id>
+    <id>urn:2023-05-30T06:16:15.010Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T05:12:29.235Z</updated>
+    <updated>2023-05-30T06:16:15.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 该标准的其他特征还包括费用成本低（可以使用仅 100 字节的 JSON 进行铸造）、通过索引器可以完整地呈现元数据、具备未来升级和附加链上数据的能力。https://...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663394981661511692</id>
+        <link href="https://twitter.com/wublockchain12/status/1663394981661511692"/>
+        <updated>2023-05-30T04:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Re 该标准的其他特征还包括费用成本低（可以使用仅 100 字节的 JSON 进行铸造）、通过索引器可以完整地呈现元数据、具备未来升级和附加链上数据的能力。https://ordinals.market/brc-721e]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 在桥接 NFT 时，会将 NFT 的数据编码到一个销毁交易中，在此期间会指定一个用于接收 Inscription 的比特币地址，这也意味着销毁交易本身起到了链上Inscriptio...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663394977655955456</id>
+        <link href="https://twitter.com/wublockchain12/status/1663394977655955456"/>
+        <updated>2023-05-30T04:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 在桥接 NFT 时，会将 NFT 的数据编码到一个销毁交易中，在此期间会指定一个用于接收 Inscription 的比特币地址，这也意味着销毁交易本身起到了链上Inscription 请求作用。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Ordinals Market 和 Bitcoin Miladys 联合发布了 BRC-721E 标准，允许将不可变的、可验证的 ERC-721 NFT 迁移至 Ordinals。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663394973197434881</id>
+        <link href="https://twitter.com/wublockchain12/status/1663394973197434881"/>
+        <updated>2023-05-30T04:00:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Ordinals Market 和 Bitcoin Miladys 联合发布了 BRC-721E 标准，允许将不可变的、可验证的 ERC-721 NFT 迁移至 Ordinals。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 一些公司已经提高薪资高达 20% 来吸引经验丰富的人才。https://www.bloomberg.com/news/articles/2023-05-26/firms-that-connect-crypto-to-banking-hunt-com...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663394394559631361</id>
+        <link href="https://twitter.com/wublockchain12/status/1663394394559631361"/>
+        <updated>2023-05-30T03:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Re 一些公司已经提高薪资高达 20% 来吸引经验丰富的人才。https://www.bloomberg.com/news/articles/2023-05-26/firms-that-connect-crypto-to-banking-hunt-compliance-employees?utm_source=twitter&utm_campaign=socialflow-organic&utm_content=crypto&utm_medium=social#xj4y7vzkg]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据彭博社，自 Silvergate 和Signature Bank 破产以来，欧洲金融机构为满足激增的需求竞相招聘顶级加密合规人员。Greengage Global Holding、BCB Group、Blockban...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663394391581691904</id>
+        <link href="https://twitter.com/wublockchain12/status/1663394391581691904"/>
+        <updated>2023-05-30T03:58:21.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社，自 Silvergate 和Signature Bank 破产以来，欧洲金融机构为满足激增的需求竞相招聘顶级加密合规人员。Greengage Global Holding、BCB Group、Blockbank 和 Fiat Republic 等公司正壮大其合规团队，以确保新客户符合反洗钱和监管标准。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据币安公告，币安将于 5 月 31 日16:00（UTC+8）上线 ADA/TUSD、LTC/TUSD 和 TUSD/BUSD 现货交易对。目前 TUSD 在币安上有 18 个现货交易对，日交易量...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663390702380908544</id>
+        <link href="https://twitter.com/wublockchain12/status/1663390702380908544"/>
+        <updated>2023-05-30T03:43:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据币安公告，币安将于 5 月 31 日16:00（UTC+8）上线 ADA/TUSD、LTC/TUSD 和 TUSD/BUSD 现货交易对。目前 TUSD 在币安上有 18 个现货交易对，日交易量超 18.6 亿美元，主要集中在 BTC/TUSD （占比 90%以上）。
+https://www.binance.com/en/support/announcement/binance-adds-ada-tusd-ltc-tusd-tusd-busd-trading-pairs-98f1744496e143a4bd1e1eafc9dd73af]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Future3 Campus 将推出首期 5000 万美金的种子基金用于 Web3.0 项目孵化。Future3 Camp 1计划于 7月 22 日开营。https://mp.weixin.qq.com/s/viz5sQeb4GWjfBl...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663389036139139078</id>
+        <link href="https://twitter.com/wublockchain12/status/1663389036139139078"/>
+        <updated>2023-05-30T03:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Re Future3 Campus 将推出首期 5000 万美金的种子基金用于 Web3.0 项目孵化。Future3 Camp 1计划于 7月 22 日开营。https://mp.weixin.qq.com/s/viz5sQeb4GWjfBllTKezog]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，万向区块链实验室、HashKey Capital 宣布联合发起 Web3.0 创新孵化平台 Future3 Campus，重点聚焦 Web3.0 Massive Adoption、DePIN、AI 三大赛道，以...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663389032473321472</id>
+        <link href="https://twitter.com/wublockchain12/status/1663389032473321472"/>
+        <updated>2023-05-30T03:37:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，万向区块链实验室、HashKey Capital 宣布联合发起 Web3.0 创新孵化平台 Future3 Campus，重点聚焦 Web3.0 Massive Adoption、DePIN、AI 三大赛道，以上海、粤港澳大湾区、新加坡为主要孵化基地。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前，黑客将 90 万枚 BNB 抵押到Venus，后来未能成功转移这些资产，只能保留在协议中。https://app.venus.io/governance/proposal/122]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663385636576038913</id>
+        <link href="https://twitter.com/wublockchain12/status/1663385636576038913"/>
+        <updated>2023-05-30T03:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前，黑客将 90 万枚 BNB 抵押到Venus，后来未能成功转移这些资产，只能保留在协议中。https://app.venus.io/governance/proposal/122]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，BNB Chain 第二大 DeFi 协议 Venus 发起 VIP-122 提案投票，目前有 8 个地址，共计约 2.78 万票支持。该提案建议调整风险参数和利率曲线模型，包括调...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663380347042828288</id>
+        <link href="https://twitter.com/wublockchain12/status/1663380347042828288"/>
+        <updated>2023-05-30T03:02:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，BNB Chain 第二大 DeFi 协议 Venus 发起 VIP-122 提案投票，目前有 8 个地址，共计约 2.78 万票支持。该提案建议调整风险参数和利率曲线模型，包括调整代币 BNB、ETH、BTCB、LINK、MATIC、XRP 和LTC 的利率参数，其中将把 BNB 最大借贷利率从 261%提高到 437%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @lorenhuang22 舒服了]]></title>
         <id>https://twitter.com/8848Community/status/1663376044039221248</id>
@@ -13,6 +114,64 @@
         <summary type="html"><![CDATA[Re @lorenhuang22 舒服了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 参赛项目将有机会赢取总奖金 28.5 万美元。https://blog.sui.io/announcing-sui-x-kucoin-labs-summer-hackathon/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663372507976699905</id>
+        <link href="https://twitter.com/wublockchain12/status/1663372507976699905"/>
+        <updated>2023-05-30T02:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 参赛项目将有机会赢取总奖金 28.5 万美元。https://blog.sui.io/announcing-sui-x-kucoin-labs-summer-hackathon/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Sui 基金会宣布，首届官方Sui 黑客松从今天开始接受报名，截止日期为 7 月 5 日。此次黑客松为 Sui 基金会与 KuCoin Labs 共同举办，将于7月19日在巴...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663372505191682048</id>
+        <link href="https://twitter.com/wublockchain12/status/1663372505191682048"/>
+        <updated>2023-05-30T02:31:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Sui 基金会宣布，首届官方Sui 黑客松从今天开始接受报名，截止日期为 7 月 5 日。此次黑客松为 Sui 基金会与 KuCoin Labs 共同举办，将于7月19日在巴黎 Builder House 和在线上举办 Demo Day。可参与此次黑客松的项目类别为：基础设施和工具；NFT、社交和DAO；游戏和AIGC；DeFi与支付。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 自委内瑞拉的加密货币监管机构 Sunacrip 干预两个多月以来，法定货币的提款也被冻结。此前 Sunacrip 负责人 Joselit Ramirez 因涉嫌参与一项价值数十亿美元的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663371803329433600</id>
+        <link href="https://twitter.com/wublockchain12/status/1663371803329433600"/>
+        <updated>2023-05-30T02:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 自委内瑞拉的加密货币监管机构 Sunacrip 干预两个多月以来，法定货币的提款也被冻结。此前 Sunacrip 负责人 Joselit Ramirez 因涉嫌参与一项价值数十亿美元的加密腐败计划而被捕。https://news.bitcoin.com/venezuelan-petro-blockchain-faces-operational-difficulties-hundreds-of-wallets-allegedly-blocked/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 http://Bitcoin.com，自上周以来，委内瑞拉官方加密货币 Petro 的区块链一直面临运营问题。加密货币爱好者私人协会 Asonacrip 发布警告称， Petro 区块链于 5...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663371798166245377</id>
+        <link href="https://twitter.com/wublockchain12/status/1663371798166245377"/>
+        <updated>2023-05-30T02:28:35.000Z</updated>
+        <summary type="html"><![CDATA[据 http://Bitcoin.com，自上周以来，委内瑞拉官方加密货币 Petro 的区块链一直面临运营问题。加密货币爱好者私人协会 Asonacrip 发布警告称， Petro 区块链于 5 月 24 日停止出块，之后于 5 月 27 日重新开始出块，但在 5 月 28 日再次停止。区块链首次停运时，数百个 Petro 钱包被删除或封锁。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Parallax Finance: 🤝Unveiling our next alliance that we have in our advisory board.🤝 We've joined forces with @OnChainWizard. He's a multi-fac...]]></title>
+        <id>https://twitter.com/parallaxfin/status/1663369293831233536</id>
+        <link href="https://twitter.com/parallaxfin/status/1663369293831233536"/>
+        <updated>2023-05-30T02:18:38.000Z</updated>
+        <summary type="html"><![CDATA[RT Parallax Finance
+🤝Unveiling our next alliance that we have in our advisory board.🤝
+We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
+We'll need his help for our LSDfi-built journey. 👇
+
+Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
+A quick thread on the LSDfi opportunity and Parallax  
+//Thread//
+https://twitter.com/parallaxfin/status/1651989075191115785?s=20]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -167,80 +326,6 @@ zkMe: 🚀Buckle up, we're just getting started.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，BNB 链 DEX Pancakeswap 发布塔防 GameFi 项目Pancake Protectors ，由 BNB 链上的 Gamefi 协议 Mobox 提供支持，集成了 PancakeSwap 的原生代币 Cake...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663351162563866625</id>
-        <link href="https://twitter.com/wublockchain12/status/1663351162563866625"/>
-        <updated>2023-05-30T01:06:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BNB 链 DEX Pancakeswap 发布塔防 GameFi 项目Pancake Protectors ，由 BNB 链上的 Gamefi 协议 Mobox 提供支持，集成了 PancakeSwap 的原生代币 Cake，允许玩家使用 CAKE 来加速升级进度、招募英雄、质押 CAKE 赚取资源。
-https://blog.pancakeswap.finance/articles/pancake-protectors-is-here-discover-the-power-of-cake-and-perks-for-pancake-squads-and-bunnies]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/jimbosprotocol/status/1663204958093836288]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663341147966832640</id>
-        <link href="https://twitter.com/wublockchain12/status/1663341147966832640"/>
-        <updated>2023-05-30T00:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/jimbosprotocol/status/1663204958093836288
-
-Jimbos Protocol (v2, soon): Over the past 24 hours, we’ve been working with security experts, bridges, and exchanges. Thanks to their help, we’ve identified promising leads, and one in particular.
-We hope the attacker will *voluntarily* cooperate - before they have no choice but to once we pass their info]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Jimbos Protocol 官推，在过去的 24 小时，Jimbos 与安全专家、跨链桥和交易所合作找到了一名攻击者的线索，希望攻击者自愿合作，否则将其信息提供...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663341145462816769</id>
-        <link href="https://twitter.com/wublockchain12/status/1663341145462816769"/>
-        <updated>2023-05-30T00:26:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Jimbos Protocol 官推，在过去的 24 小时，Jimbos 与安全专家、跨链桥和交易所合作找到了一名攻击者的线索，希望攻击者自愿合作，否则将其信息提供给相关方。Jimbos 对攻击者表示，若攻击者将被盗金额的 90% 退回，就不再追究责任，否则将对攻击者采取法律行动。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 该税收计划最初由白宫于 5 月初提出，呼吁从 2024 年开始对比特币和其他加密货币挖矿所使用的电力征收 10% 的税款，到 2026 年将提高至 30% 。俄亥俄州的共和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663333344514560000</id>
-        <link href="https://twitter.com/wublockchain12/status/1663333344514560000"/>
-        <updated>2023-05-29T23:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 该税收计划最初由白宫于 5 月初提出，呼吁从 2024 年开始对比特币和其他加密货币挖矿所使用的电力征收 10% 的税款，到 2026 年将提高至 30% 。俄亥俄州的共和党众议员 Warren Davidson 在周日表示，挖矿税不会生效。https://fortune.com/crypto/2023/05/29/plan-for-30-tax-on-bitcoin-mining-appears-dead-under-debt-ceiling-deal/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据《财富》报道，随着美国总统拜登与共和党高级成员就防止美国债务违约达成更大的协议，白宫对加密货币挖矿领域征收高额税款的计划似乎已经夭折，这让...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663333341893120001</id>
-        <link href="https://twitter.com/wublockchain12/status/1663333341893120001"/>
-        <updated>2023-05-29T23:55:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据《财富》报道，随着美国总统拜登与共和党高级成员就防止美国债务违约达成更大的协议，白宫对加密货币挖矿领域征收高额税款的计划似乎已经夭折，这让比特币挖矿者松了一口气。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Gemini 在其文件中表示，“ SEC 试图将 Earn 计划变成它本来不是的东西：未注册证券的销售。”（The Block）https://www.theblock.co/post/232488/genesis-ge...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663329915117391874</id>
-        <link href="https://twitter.com/wublockchain12/status/1663329915117391874"/>
-        <updated>2023-05-29T23:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Re Gemini 在其文件中表示，“ SEC 试图将 Earn 计划变成它本来不是的东西：未注册证券的销售。”（The Block）https://www.theblock.co/post/232488/genesis-gemini-seek-dismissal-of-sec-lawsuit-over-lending-product]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 和 Genesis 正寻求解除 SEC 对其提起的诉讼动议。今年1月，SEC 指控这两家公司的 Earn 计划构成未注册的证券销售。在上周五的一份法庭文件中，Genesis 辩...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663329912286240768</id>
-        <link href="https://twitter.com/wublockchain12/status/1663329912286240768"/>
-        <updated>2023-05-29T23:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Gemini 和 Genesis 正寻求解除 SEC 对其提起的诉讼动议。今年1月，SEC 指控这两家公司的 Earn 计划构成未注册的证券销售。在上周五的一份法庭文件中，Genesis 辩称 Earn 涉及贷款的创建，而不是证券。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @JumperExchange nice video]]></title>
         <id>https://twitter.com/8848Community/status/1663234600213291008</id>
         <link href="https://twitter.com/8848Community/status/1663234600213291008"/>
@@ -261,36 +346,6 @@ We hope the attacker will *voluntarily* cooperate - before they have no choice b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 中国的监管和经济重新开放正越来越多地影响加密货币市场情绪。https://research.kaiko.com/insights/72-of-eth-liquidity-is-concentrated-on-5-exchanges]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663211792863199232</id>
-        <link href="https://twitter.com/wublockchain12/status/1663211792863199232"/>
-        <updated>2023-05-29T15:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 中国的监管和经济重新开放正越来越多地影响加密货币市场情绪。https://research.kaiko.com/insights/72-of-eth-liquidity-is-concentrated-on-5-exchanges]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Kaiko 分析，BTC 与中国股票（沪深 300）之间的相关性在今年有所加强，尽管仍相对较低，约为 20%。有趣的是，BTC 与美国股市之间的相关性有所下降...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663211748672032770</id>
-        <link href="https://twitter.com/wublockchain12/status/1663211748672032770"/>
-        <updated>2023-05-29T15:52:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 分析，BTC 与中国股票（沪深 300）之间的相关性在今年有所加强，尽管仍相对较低，约为 20%。有趣的是，BTC 与美国股市之间的相关性有所下降，在 4 月份达到多年低点。近期香港与中国内地的动向吸引了更多市场的关注，但也有观点认为只是情绪而非实质的利好。 https://twitter.com/i/web/status/1663211748672032770]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Kaiko 研究，72% 的 ETH 流动性集中在 5 个交易所：Binance、Bitfinex、OKX、Coinbase 和 Kraken。所有其他交易所 (41) 仅占市场深度的 28%。美国...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663210335699075075</id>
-        <link href="https://twitter.com/wublockchain12/status/1663210335699075075"/>
-        <updated>2023-05-29T15:46:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 研究，72% 的 ETH 流动性集中在 5 个交易所：Binance、Bitfinex、OKX、Coinbase 和 Kraken。所有其他交易所 (41) 仅占市场深度的 28%。美国可用交易所的市场深度份额约为 40%，低于去年 5 月 Terra 崩盘前 54%… https://twitter.com/i/web/status/1663210335699075075]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[区块链行业新闻就像是一场电影，但是你需要知道哪个角色是最重要的。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663206345036959745</id>
         <link href="https://twitter.com/AntCaveClub/status/1663206345036959745"/>
@@ -298,43 +353,6 @@ We hope the attacker will *voluntarily* cooperate - before they have no choice b
         <summary type="html"><![CDATA[区块链行业新闻就像是一场电影，但是你需要知道哪个角色是最重要的。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 不过，Proof 研究总监 NFTstatistics.eth 对 Blend 积分的实际分配表示疑惑，其在对照实验中发现提供价值相对低一些的贷款所获取的积分比相对高的贷款更多。h...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663189441010372608</id>
-        <link href="https://twitter.com/wublockchain12/status/1663189441010372608"/>
-        <updated>2023-05-29T14:23:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 不过，Proof 研究总监 NFTstatistics.eth 对 Blend 积分的实际分配表示疑惑，其在对照实验中发现提供价值相对低一些的贷款所获取的积分比相对高的贷款更多。https://twitter.com/NFTgators/status/1663160774561234947?s=20 & https://twitter.com/punk9059/status/1662933103994867712?s=20
-
-NFTstatistics.eth: Ran a Blend experiment: 
-I filled two wallets with 7 ETH each
-One offered 6.7 ETH loans on MAYC
-The other offered 6.6 ETH loans on MAYC
-The 6.6 ETH consistently earned more Blur points. 
-Are lenders not compensated for taking more risk? How do lending points actually work? https://t.co/usVDlS67lf]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 NFTgators 援引 @1kbeetlejuice 数据面板，Blur 借贷协议 Blend 在 5 月 28 日借贷交易量达 14.5k ETH，创下单日新高。在过去的一周（5.22-28），...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663189339290083329</id>
-        <link href="https://twitter.com/wublockchain12/status/1663189339290083329"/>
-        <updated>2023-05-29T14:23:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 NFTgators 援引 @1kbeetlejuice 数据面板，Blur 借贷协议 Blend 在 5 月 28 日借贷交易量达 14.5k ETH，创下单日新高。在过去的一周（5.22-28），以美元计价，Blend 周交易量达 9800 万美元，亦创下周新高，约占借贷协议市场份额的 90%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据俄罗斯媒体报道，俄罗斯政府官员表示当局放弃了创建国家加密货币交易所的想法，而是为此类结构的建立和运作制定规则；新机制将有助于降低制裁风险和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663188950595555328</id>
-        <link href="https://twitter.com/wublockchain12/status/1663188950595555328"/>
-        <updated>2023-05-29T14:22:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据俄罗斯媒体报道，俄罗斯政府官员表示当局放弃了创建国家加密货币交易所的想法，而是为此类结构的建立和运作制定规则；新机制将有助于降低制裁风险和网络攻击的可能性，并支持竞争。中央银行可能会监管加密货币交易所的工作。https://iz-ru.translate.goog/1519017/mariia-kolobova/novyi-bitok-v-rossii-poiaviatsia-pravila-sozdaniia-i-raboty-kriptobirzh?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -486,11 +504,11 @@ Macro is full of numerous variables and complex interactions. This is an importa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761]]></title>
+        <title type="html"><![CDATA[Canada is so embarrassing 😂]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662591099062435841</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662591099062435841"/>
         <updated>2023-05-27T22:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761
+        <summary type="html"><![CDATA[Canada is so embarrassing 😂
 
 The_Real_Fly: 🤡 https://t.co/dZIQpIHfp3]]></summary>
         <author>
@@ -685,11 +703,11 @@ More details below: https://t.co/3HYPnHskOY]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol ...]]></title>
+        <title type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662265016282755079</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662265016282755079"/>
         <updated>2023-05-27T01:10:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol https://twitter.com/bobeunlimited/status/1662091954937634816
+        <summary type="html"><![CDATA[It’s pretty funny how credit card data is slowing dramatically in real time and we still have long threads about how inflation is “entrenched” lol
 
 Bob Elliott: The US economy has shifted from a supply-driven inflation shock to an entrenched inflation dynamic.
 Today's PCE report highlights how elevated income growth maintains elevated nominal spending which keeps inflation well above the Fed's mandate.
@@ -719,11 +737,11 @@ Core PCE inflation still at 5%: https://t.co/gZcWLgI7SR]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
@@ -948,20 +966,6 @@ Let's dive in 👇 https://t.co/UN6ADxkMDH]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re PASTE THIS using token addresses from Influencer calls: select * from dex.trades Where block_time > now() - interval '30' day and token_bought_addr...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1659567150460198912</id>
-        <link href="https://twitter.com/OnChainWizard/status/1659567150460198912"/>
-        <updated>2023-05-19T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Re PASTE THIS using token addresses from Influencer calls:
-select * from dex.trades
-Where block_time > now() - interval '30' day
-and token_bought_address  = 0x6982508145454Ce325dDbE47a25d4ec3d2311933
-and amount_usd > 500]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT drej 🦇 🔊: You might be surprised to hear that the average internet user is missing out on $900/year in revenue by not monetizing their contri...]]></title>
         <id>https://twitter.com/0xdrej/status/1658903603942137856</id>
         <link href="https://twitter.com/0xdrej/status/1658903603942137856"/>
@@ -978,7 +982,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -997,12 +1001,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1234,11 +1238,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1254,7 +1258,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
