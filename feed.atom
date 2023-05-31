@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T16:16:26.092Z</id>
+    <id>urn:2023-05-31T17:12:07.305Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-31T16:16:26.092Z</updated>
+    <updated>2023-05-31T17:12:07.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 不过面对“合约拥有者更改”的操作是否是官方的“紧急措施”时，官方并无正面回答，只是表示资金安全请放心。https://etherscan.io/address/0xb815114245B6E0...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663937161199251457</id>
+        <link href="https://twitter.com/wublockchain12/status/1663937161199251457"/>
+        <updated>2023-05-31T15:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过面对“合约拥有者更改”的操作是否是官方的“紧急措施”时，官方并无正面回答，只是表示资金安全请放心。https://etherscan.io/address/0xb815114245B6E0f7d31910ae87c58b35C7D39827]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，目前社区有言论表示 LSDfi 协议 unsheth 金库疑似出现安全隐患，链上数据显示目前金库似乎已无法取款。不过目前官方在 Discord 中表示已经已启动紧急...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663934064250994688</id>
+        <link href="https://twitter.com/wublockchain12/status/1663934064250994688"/>
+        <updated>2023-05-31T15:42:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，目前社区有言论表示 LSDfi 协议 unsheth 金库疑似出现安全隐患，链上数据显示目前金库似乎已无法取款。不过目前官方在 Discord 中表示已经已启动紧急措施，相关以太坊资金是安全的。https://discord.com/channels/1065877674729406554/1065877675912212492/1113491396771463209]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Tether 宣布投资 CityPay。CityPay 为格鲁吉亚的数百家酒店的客户提供支付服务。Tether 新闻稿称格鲁吉亚是世界上对加密货币最友好的国家之一，2.89% ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663927642884800512</id>
+        <link href="https://twitter.com/wublockchain12/status/1663927642884800512"/>
+        <updated>2023-05-31T15:17:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Tether 宣布投资 CityPay。CityPay 为格鲁吉亚的数百家酒店的客户提供支付服务。Tether 新闻稿称格鲁吉亚是世界上对加密货币最友好的国家之一，2.89% 的格鲁吉亚人拥有某种形式的加密货币。https://tether.to/en/tether-expands-its-presence-in-georgia-with-investment-in-citypayio/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Dune 数据，目前有超过1000万人拥有基于 Polygon 的 Reddit 可收藏头像，共计1399万个，当前市值为39,611,774美元。累计销售额为32,704,898 美元，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663922570092220416</id>
+        <link href="https://twitter.com/wublockchain12/status/1663922570092220416"/>
+        <updated>2023-05-31T14:57:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Dune 数据，目前有超过1000万人拥有基于 Polygon 的 Reddit 可收藏头像，共计1399万个，当前市值为39,611,774美元。累计销售额为32,704,898 美元，销售交易量超 30 万笔。H/T @NFTgators
+https://dune.com/polygon_analytics/reddit-collectible-avatars]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，币安今日发布更新返佣政策和 VIP3 及以上等级用户交易手续费的公告，“VIP3 及以上等级用户进行现货和杠杆交易时将享受 6 折交易手续费优惠；VIP3 及...]]></title>
         <id>https://twitter.com/wublockchain12/status/1663915657765724161</id>
@@ -250,18 +291,6 @@ Onchain Wizard: This whale went from zero to over $41mm during the last bull r
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Onchain Wizard: This whale went from zero to over $41mm during the last bull run 🔥(and recently started trading again) . Let's look how they mad...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1663875138863919110</id>
-        <link href="https://twitter.com/OnChainWizard/status/1663875138863919110"/>
-        <updated>2023-05-31T11:48:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Onchain Wizard
-This whale went from zero to over $41mm during the last bull run 🔥(and recently started trading again) .   Let's look how they made their $ historically and what they are buying now
-//Thread// https://t.co/DjMJRLMmkc]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re They also made ~$2.5mm on $ICE, $267k on $GMX and ~$100k on $ROOK]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663875142773100544</id>
         <link href="https://twitter.com/OnChainWizard/status/1663875142773100544"/>
@@ -311,46 +340,6 @@ Onchain Wizard: $SPELL revival incoming?   This wallet that made over $8mm in 
         <link href="https://twitter.com/wublockchain12/status/1663874763872415744"/>
         <updated>2023-05-31T11:47:11.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 Ninja News，币安为遵守当地监管要求，禁止法国用户交易隐私代币，包括 DCR、DASH、ZEC、ZEN、PIVX、NAV、SCRT、XVG、FIRO、BEAM、XMR、MOB。此前，欧盟修订的反洗钱法规要求禁止银行和加密货币提供商交易 Zcash、Monero 和 Dash 等隐私 Token，迪拜和日本也有类似规定。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.theblock.co/post/232671/tron-vulnerability-500-million-resolved?utm_source=twitter&utm_medium=social]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663865630360236032</id>
-        <link href="https://twitter.com/wublockchain12/status/1663865630360236032"/>
-        <updated>2023-05-31T11:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.theblock.co/post/232671/tron-vulnerability-500-million-resolved?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 dWallet Labs 的网络安全研究团队 0d ，Tron 链此前有一个严重的漏洞，使 5 亿美元面临风险，目前已经修复。该零日漏洞与 Tron 的多重签名账户有关，该漏洞可...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663865627701018624</id>
-        <link href="https://twitter.com/wublockchain12/status/1663865627701018624"/>
-        <updated>2023-05-31T11:10:53.000Z</updated>
-        <summary type="html"><![CDATA[据 dWallet Labs 的网络安全研究团队 0d ，Tron 链此前有一个严重的漏洞，使 5 亿美元面临风险，目前已经修复。该零日漏洞与 Tron 的多重签名账户有关，该漏洞可能允许任何单个签名者获得不受限制的访问权限，从而可能危及其中持有的加密资产。Tron 发言人向 The Block 证实了该消息。（The Block）]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.zawya.com/en/press-release/government-news/cbuae-issues-new-guidance-for-licensed-financial-institutions-on-anti-money-laundering-and-c...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663864967370776576</id>
-        <link href="https://twitter.com/wublockchain12/status/1663864967370776576"/>
-        <updated>2023-05-31T11:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.zawya.com/en/press-release/government-news/cbuae-issues-new-guidance-for-licensed-financial-institutions-on-anti-money-laundering-and-combatting-the-financing-of-terrorism-kgmzxmio]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 ZAWYA，阿联酋央行（CBUAE）发布了针对持牌金融机构（LFIs）的反洗钱和打击恐怖融资（AML/CFT）的新指导方针，该方针考虑了金融行动特别工作组（FA...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663864964728389632</id>
-        <link href="https://twitter.com/wublockchain12/status/1663864964728389632"/>
-        <updated>2023-05-31T11:08:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 ZAWYA，阿联酋央行（CBUAE）发布了针对持牌金融机构（LFIs）的反洗钱和打击恐怖融资（AML/CFT）的新指导方针，该方针考虑了金融行动特别工作组（FATF）的标准，并讨论了处理虚拟资产（VA）和虚拟资产服务提供商（VASP）所产生的风险。该方针将在一个月内生效。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -853,11 +842,11 @@ Macro is full of numerous variables and complex interactions. This is an importa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761]]></title>
+        <title type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/the_real_fly/status/1662287034046709761]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662591099062435841</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662591099062435841"/>
         <updated>2023-05-27T22:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761
+        <summary type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/the_real_fly/status/1662287034046709761
 
 The_Real_Fly: 🤡 https://t.co/dZIQpIHfp3]]></summary>
         <author>
@@ -913,6 +902,20 @@ Fidelity projected retirement age https://t.co/rH2OMiHCZ5]]></summary>
         <summary type="html"><![CDATA[Re @Crypto_Camp_ 二阳刚好。。。 真惨。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
+        <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
+        <updated>2023-05-26T19:56:17.000Z</updated>
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
+
+Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
+Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
+Here's why this is a transformational step for Ethereum privacy: https://t.co/GgYg5djVZu]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
