@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T06:18:24.282Z</id>
+    <id>urn:2023-05-31T07:12:40.137Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-31T06:18:24.282Z</updated>
+    <updated>2023-05-31T07:12:40.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 期权在市场做市商协议中很常见，通过代币价格表现为市场做市商提供财务回报，但将期权作为市场做市商的报酬是复杂且存在风险的，可能存在价格操纵的风险。阅...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663788853478694912</id>
+        <link href="https://twitter.com/wublockchain12/status/1663788853478694912"/>
+        <updated>2023-05-31T06:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Re 期权在市场做市商协议中很常见，通过代币价格表现为市场做市商提供财务回报，但将期权作为市场做市商的报酬是复杂且存在风险的，可能存在价格操纵的风险。阅读全文：https://mp.weixin.qq.com/s/jXSAx_0EwSf5GB3YV0LE5A]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币做市商科普（作者：Paperclip Partners）近期随着 DWF 与 Wintermute 的争议，做市商的角色再次被关注。本文对做市商的定义、作用、运作模式、收费方式...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663788851419316224</id>
+        <link href="https://twitter.com/wublockchain12/status/1663788851419316224"/>
+        <updated>2023-05-31T06:05:48.000Z</updated>
+        <summary type="html"><![CDATA[加密货币做市商科普（作者：Paperclip Partners）近期随着 DWF 与 Wintermute 的争议，做市商的角色再次被关注。本文对做市商的定义、作用、运作模式、收费方式等进行了详细的介绍；市场做市商可能需要设置费用、循环费用或代币借款；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安方面回复：团队正在优化质押流程以降低任何潜在的智能合约风险。安全团队已针对不同币种设置了不同的授权限额，且会在每次合约完成后撤销质押许可。但希望澄...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663785390724218880</id>
+        <link href="https://twitter.com/wublockchain12/status/1663785390724218880"/>
+        <updated>2023-05-31T05:52:03.000Z</updated>
+        <summary type="html"><![CDATA[币安方面回复：团队正在优化质押流程以降低任何潜在的智能合约风险。安全团队已针对不同币种设置了不同的授权限额，且会在每次合约完成后撤销质押许可。但希望澄清在不同的质押项目中，将会为不同的币种做不同的限制，因此针对某一币种/项目的授权规则不会完全一致。https://twitter.com/binancezh/status/1663780698539560965 https://twitter.com/wublockchain12/status/1663138615755685890
+
+吴说区块链: 吴说获悉，Dilation Effect 链上研究指出，币安存在大量币种授权额度无限制，合约的授权没有定期清理，币种授权规则不统一等，内部安全管理存在问题；此外，KuCoin 超过10亿美金用户资产全部都授权给了名为 Bridge 的合约，且授权额度完全无限制，存在较大的安全风险；相较之下 Jump… https://twitter.com/i/web/status/1663138615755685890]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re LINA 是多链兼容 delta-one 资产协议 Linear Finance 的原生通证。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663770521396482048</id>
+        <link href="https://twitter.com/wublockchain12/status/1663770521396482048"/>
+        <updated>2023-05-31T04:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Re LINA 是多链兼容 delta-one 资产协议 Linear Finance 的原生通证。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 其中在 Binance LINA U 本位永续合约近 24 小时交易量高达 52.46 亿美元，超过了 ETH 为站内第二。https://www.coinglass.com/zh/FundingRate]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663769494810968067</id>
+        <link href="https://twitter.com/wublockchain12/status/1663769494810968067"/>
+        <updated>2023-05-31T04:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 其中在 Binance LINA U 本位永续合约近 24 小时交易量高达 52.46 亿美元，超过了 ETH 为站内第二。https://www.coinglass.com/zh/FundingRate]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，LINA 出现轧空行情，据 coinglass 数据，LINA U 本位永续合约年化资金费率在各大交易所达惊人的负费率，其中 Binance 达 -1450%、Bybit 达 -1640%、Bi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1663769491791298561</id>
+        <link href="https://twitter.com/wublockchain12/status/1663769491791298561"/>
+        <updated>2023-05-31T04:48:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，LINA 出现轧空行情，据 coinglass 数据，LINA U 本位永续合约年化资金费率在各大交易所达惊人的负费率，其中 Binance 达 -1450%、Bybit 达 -1640%、Bitget 达 -1460% 等，而 LINA 在近 24 小时涨超 30% 至 $0.024 上方，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re （4）今年 Proof 取消了备受期待的 Proof 会议，废弃了元宇宙规划 Highrise 和 Moonbirds coin，社区失去期待；（5）Proof 将几乎 50% 的总储备资金放在破产...]]></title>
         <id>https://twitter.com/wublockchain12/status/1663753219728867328</id>
@@ -40,11 +102,11 @@ How Moonbirds went from the next BAYC to the most fudded NFT project in Web3 �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有starknet id.域名的，可以做做任务 https://twitter.com/Starknet_id/status/1663563064590102532]]></title>
+        <title type="html"><![CDATA[有starknet id.域名的，可以做做任务]]></title>
         <id>https://twitter.com/8848Community/status/1663748659497037825</id>
         <link href="https://twitter.com/8848Community/status/1663748659497037825"/>
         <updated>2023-05-31T03:26:06.000Z</updated>
-        <summary type="html"><![CDATA[有starknet id.域名的，可以做做任务 https://twitter.com/Starknet_id/status/1663563064590102532
+        <summary type="html"><![CDATA[有starknet id.域名的，可以做做任务
 
 Starknet.id: We are thrilled to announce the launch of our latest campaign with @starknet_quest – an exclusive NFT quest giveaway for Starknet ID users! 
 Win the Starknet ID Tribe totem NFT.
@@ -190,67 +252,6 @@ Chris: . $WFAI #waifu #WaifuAI token just launched. 5% supply out per website,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14754]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663712313655066625</id>
-        <link href="https://twitter.com/wublockchain12/status/1663712313655066625"/>
-        <updated>2023-05-31T01:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14754]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 同时，服务不会保存或者上传用户眼睛虹膜的照片，最后输出保存的只有生成的虹膜代码。通过采用 ZKPs 技术，Worldcoin 账户可实现不与 Orb 的相关数据关联。ZK...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663712311545327616</id>
-        <link href="https://twitter.com/wublockchain12/status/1663712311545327616"/>
-        <updated>2023-05-31T01:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Re 同时，服务不会保存或者上传用户眼睛虹膜的照片，最后输出保存的只有生成的虹膜代码。通过采用 ZKPs 技术，Worldcoin 账户可实现不与 Orb 的相关数据关联。ZKP 还保护 World ID 的使用不与任何生物特征数据或个人虹膜代码绑定。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《浅析 Worldcoin：是什么怎么用？如何保护隐私？有哪些风险》Worldcoin 的愿景是一个全球大规模采纳的加密货币经济网络。Worldcoin 研发了一个生物识别设备 Orb...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663712309880184833</id>
-        <link href="https://twitter.com/wublockchain12/status/1663712309880184833"/>
-        <updated>2023-05-31T01:01:39.000Z</updated>
-        <summary type="html"><![CDATA[《浅析 Worldcoin：是什么怎么用？如何保护隐私？有哪些风险》Worldcoin 的愿景是一个全球大规模采纳的加密货币经济网络。Worldcoin 研发了一个生物识别设备 Orb（扫描虹膜），通过捕获用户眼睛虹膜的照片进而转换为一串虹膜代码（iris code），帮助用户进行注册；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/30/texas-bill-that-would-limit-miners-participation-in-cost-saving-grid-programs-stopped-in-house-committee...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663710635736338432</id>
-        <link href="https://twitter.com/wublockchain12/status/1663710635736338432"/>
-        <updated>2023-05-31T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/05/30/texas-bill-that-would-limit-miners-participation-in-cost-saving-grid-programs-stopped-in-house-committee/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国德克萨斯州一项限制比特币矿工参与需求响应计划的法案未通过州众议院的一个委员会，这意味着其进展已经停止。法案 SB 1751于 4 月在州参议院获得一致通过，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663710634176024577</id>
-        <link href="https://twitter.com/wublockchain12/status/1663710634176024577"/>
-        <updated>2023-05-31T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[美国德克萨斯州一项限制比特币矿工参与需求响应计划的法案未通过州众议院的一个委员会，这意味着其进展已经停止。法案 SB 1751于 4 月在州参议院获得一致通过，内容包括限制比特币矿工参与需求响应计划（电网需求激增时，矿工获得获得信贷支付以关闭运营），并取消行业的税收减免。（CoinDesk）]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re MoonPay 通过向投资者出售股份筹集了 4.05 亿美元，剩余的 1.5 亿美元代表内部人员在二级交易中套现的所持股份，A 轮融资几周后，Ivan Soto-Wright 在迈阿密...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1663705775141953536</id>
-        <link href="https://twitter.com/wublockchain12/status/1663705775141953536"/>
-        <updated>2023-05-31T00:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Re MoonPay 通过向投资者出售股份筹集了 4.05 亿美元，剩余的 1.5 亿美元代表内部人员在二级交易中套现的所持股份，A 轮融资几周后，Ivan Soto-Wright 在迈阿密购买了一座价值 3800 万美元的豪宅。
-https://www.theinformation.com/articles/moonpay-ceo-other-executives-cashed-out-before-crypto-business-dropped]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @sinstockpapi Kind of seems like you wouldn’t want to be buying tobacco stocks under this framework…]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1663680041065107458</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1663680041065107458"/>
@@ -282,11 +283,11 @@ ISE Equity call/put ratio 1.93, highest since March 2022]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧 https://twitter.com/LineaBuild/status/1663557540410695686]]></title>
+        <title type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧]]></title>
         <id>https://twitter.com/8848Community/status/1663607943278002176</id>
         <link href="https://twitter.com/8848Community/status/1663607943278002176"/>
         <updated>2023-05-30T18:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧 https://twitter.com/LineaBuild/status/1663557540410695686
+        <summary type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧
 
 Linea: It's go time!
 https://galxe.com/Linea/campaign/GC8ofUNp65]]></summary>
@@ -317,13 +318,13 @@ https://galxe.com/Linea/campaign/GC8ofUNp65]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我靠 nansen直接裁员30%啊 我还以为他们帮arb过滤女巫时候赚翻了 https://twitter.com/ASvanevik/status/1663565124970610688]]></title>
+        <title type="html"><![CDATA[我靠 nansen直接裁员30%啊 我还以为他们帮arb过滤女巫时候赚翻了]]></title>
         <id>https://twitter.com/8848Community/status/1663572720137932800</id>
         <link href="https://twitter.com/8848Community/status/1663572720137932800"/>
         <updated>2023-05-30T15:46:58.000Z</updated>
         <summary type="html"><![CDATA[我靠
 nansen直接裁员30%啊
-我还以为他们帮arb过滤女巫时候赚翻了 https://twitter.com/ASvanevik/status/1663565124970610688
+我还以为他们帮arb过滤女巫时候赚翻了
 
 Alex Svanevik 🐧: This week we announced the extremely difficult decision to reduce the size of the Nansen team.
 I’m endlessly grateful to the incredible people we are parting ways with. They will go on to achieve great things, and we'll ensure they get a soft landing, with severance and support.]]></summary>
@@ -403,7 +404,7 @@ The devs literally could not even be bothered to change the metadata for this lo
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
+We'll need his help for our LSDfi-built journey. 👇
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
@@ -672,11 +673,11 @@ Macro is full of numerous variables and complex interactions. This is an importa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada is so embarrassing 😂]]></title>
+        <title type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1662591099062435841</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1662591099062435841"/>
         <updated>2023-05-27T22:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Canada is so embarrassing 😂
+        <summary type="html"><![CDATA[Canada is so embarrassing 😂 https://twitter.com/The_Real_Fly/status/1662287034046709761
 
 The_Real_Fly: 🤡 https://t.co/dZIQpIHfp3]]></summary>
         <author>
@@ -811,11 +812,11 @@ More details below: https://t.co/3HYPnHskOY]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057]]></title>
+        <title type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE]]></title>
         <id>https://twitter.com/OnChainWizard/status/1662185910425796626</id>
         <link href="https://twitter.com/OnChainWizard/status/1662185910425796626"/>
         <updated>2023-05-26T19:56:17.000Z</updated>
-        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE https://twitter.com/silentdao_/status/1662038330270253057
+        <summary type="html"><![CDATA[👀 pretty cool seeing Silent bring privacy solutions to AAVE
 
 Silent Protocol: 1/ One of the leading money markets is coming to Silent with @AaveAave, courtesy of a grant from the AAVE Grants DAO.
 Silent brings compliant privacy for users while they lend, borrow and operate on Aave.
