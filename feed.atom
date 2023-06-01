@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T14:12:01.957Z</id>
+    <id>urn:2023-06-01T15:13:13.127Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T14:12:01.957Z</updated>
+    <updated>2023-06-01T15:13:13.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特币矿企 CleanSpark 今天宣布花费 4050 万美元购买 12,500 台全新的 比特币大陆 S19 XP 比特币矿机，低于当前平均市场价格。此前该公司还在 2 月份...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664258485448749056</id>
+        <link href="https://twitter.com/wublockchain12/status/1664258485448749056"/>
+        <updated>2023-06-01T13:11:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特币矿企 CleanSpark 今天宣布花费 4050 万美元购买 12,500 台全新的 比特币大陆 S19 XP 比特币矿机，低于当前平均市场价格。此前该公司还在 2 月份和 4 月份分别购买了 2 万 S19j Pro+ 矿机和 4.5 万台 S19 XP 矿机。
+https://www.globenewswire.com/news-release/2023/06/01/2680404/0/en/CleanSpark-Buys-12-500-Antminer-S19-XP-Bitcoin-Miners-for-40-5M.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊基金会宣布开放第四批以太坊协议奖学金 (EPF) 的申请，申请日期为 6 月 1 日至 16 日，可为研究员提供为期四个月（2023 年 7 月到 11 月）的奖...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664249182650253313</id>
+        <link href="https://twitter.com/wublockchain12/status/1664249182650253313"/>
+        <updated>2023-06-01T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊基金会宣布开放第四批以太坊协议奖学金 (EPF) 的申请，申请日期为 6 月 1 日至 16 日，可为研究员提供为期四个月（2023 年 7 月到 11 月）的奖学金，最后将在伊斯坦布尔的 Devconnect 举行现场活动。
+https://blog.ethereum.org/2023/06/01/ethereum-protocol-fellowship-fourth-apps-open]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Sashimi 在 2021 年 12 月遭到攻击损失了 21 万美元，随后该项目被放弃。https://platform.arkhamintelligence.com/explorer/tx/0xa8cdbfb7c5268820e0935a9b5...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664229786460516352</id>
+        <link href="https://twitter.com/wublockchain12/status/1664229786460516352"/>
+        <updated>2023-06-01T11:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Re Sashimi 在 2021 年 12 月遭到攻击损失了 21 万美元，随后该项目被放弃。https://platform.arkhamintelligence.com/explorer/tx/0xa8cdbfb7c5268820e0935a9b58148e4e2caf92133b9a7d5ab7aac1b3a5d53582]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 监测，在本日 00:24 AM UTC，一个 MEV 机器人（0xb2…2B96 为 MEV bot 调用合约，0xb4…0343 为单次使用的 MEV bot）通过闪电贷借用了 95k ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664229784447229954</id>
+        <link href="https://twitter.com/wublockchain12/status/1664229784447229954"/>
+        <updated>2023-06-01T11:17:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 监测，在本日 00:24 AM UTC，一个 MEV 机器人（0xb2…2B96 为 MEV bot 调用合约，0xb4…0343 为单次使用的 MEV bot）通过闪电贷借用了 95k WETH（价值近 1.8 亿美元）以攻击 Sashimi Swap 并将 Sashimi 的 investment vault 合约和 ETH 合约的余额清空，但仅约 3,500 美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 吴说获悉，HashKey PRO 今日也宣布根据 6 月 1 日生效的《反洗钱和打击恐怖主义融资条例》(第615章)提交牌照申请，以在香港提供零售服务。 https://www.hashk...]]></title>
         <id>https://twitter.com/wublockchain12/status/1664224959122767874</id>
@@ -82,7 +124,7 @@ https://www.hashkey.com/cn/newsroom/hashkey-pro-submits-application]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1664201247304581120"/>
         <updated>2023-06-01T09:24:31.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，币安澳大利亚发文称，澳大利亚的币安用户不再可以通过银行转账进行澳元存款和取款。币安已于 6 月 1 日起停止所有澳元交易对，用户可以将澳元余额兑换成 USDT。用户仍可使用信用卡或借记卡买卖加密货币，其币安 P2P 市场也将继续照常运营。
-https://twitter.com/Binance_AUS/status/1664173402930950144?s=20
+https://twitter.com/Binance_AUS/status/1664173402930950144?s=20 https://twitter.com/wublockchain12/status/1662366237027090433
 
 吴说区块链: 吴说获悉，CZ 发推表示，对于币安关闭在澳大利亚的业务及澳元交易对，这是由法币渠道做出的决定，即银行合作伙伴停止与其合作。没有法币渠道，就无法存取或提取澳元，该货币对也就失去了流动性。此前，澳大利亚四大银行之一的 Westpac 银行禁止客户与币安进行交易，]]></summary>
         <author>
@@ -121,11 +163,11 @@ https://www.coindesk.com/business/2023/06/01/olive-oil-producer-issues-first-eur
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[头盔第三周任务，继续做呗。]]></title>
+        <title type="html"><![CDATA[头盔第三周任务，继续做呗。 https://twitter.com/myBraavos/status/1663935075954696201]]></title>
         <id>https://twitter.com/8848Community/status/1664174987488661504</id>
         <link href="https://twitter.com/8848Community/status/1664174987488661504"/>
         <updated>2023-06-01T07:40:10.000Z</updated>
-        <summary type="html"><![CDATA[头盔第三周任务，继续做呗。
+        <summary type="html"><![CDATA[头盔第三周任务，继续做呗。 https://twitter.com/myBraavos/status/1663935075954696201
 
 Braavos - StarkNet Wallet: 🎉 Step 3 of the #StarknetJourney campaign is here!
 Participate in this exciting #NFTgiveaway and enhance your Dynamic Map NFT! 🗺
@@ -191,31 +233,11 @@ https://osl.com/en/press-release/osl-applies-for-licensing-uplift-to-enable-reta
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 其中拓铸造展功能包括允许在协议层面配置转账费用、赋予代币创建者对其代币转移的额外控制层、允许授权钱包以外的人关闭一个代币的铸造、允许代币赚取利息、...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664164860412977152</id>
-        <link href="https://twitter.com/wublockchain12/status/1664164860412977152"/>
-        <updated>2023-06-01T06:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 其中拓铸造展功能包括允许在协议层面配置转账费用、赋予代币创建者对其代币转移的额外控制层、允许授权钱包以外的人关闭一个代币的铸造、允许代币赚取利息、引入 Soulbound Token 和使用零知识证明对代币余额和转账金额进行加密；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，近期 Solana 上诞生了一种名为 Token2022 的新代币标准，有别于以往的 SPL Token。根据 Helius 的解读，Token2022 标准引入了拓展功能，包括铸造拓展...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664164858475188225</id>
-        <link href="https://twitter.com/wublockchain12/status/1664164858475188225"/>
-        <updated>2023-06-01T06:59:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，近期 Solana 上诞生了一种名为 Token2022 的新代币标准，有别于以往的 SPL Token。根据 Helius 的解读，Token2022 标准引入了拓展功能，包括铸造拓展和账户拓展，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[orbiter跨链的dicord被黑，不要乱点链接]]></title>
+        <title type="html"><![CDATA[orbiter跨链的dicord被黑，不要乱点链接 https://twitter.com/Orbiter_Finance/status/1664141758241050627]]></title>
         <id>https://twitter.com/8848Community/status/1664154044770967553</id>
         <link href="https://twitter.com/8848Community/status/1664154044770967553"/>
         <updated>2023-06-01T06:16:57.000Z</updated>
-        <summary type="html"><![CDATA[orbiter跨链的dicord被黑，不要乱点链接
+        <summary type="html"><![CDATA[orbiter跨链的dicord被黑，不要乱点链接 https://twitter.com/Orbiter_Finance/status/1664141758241050627
 
 Orbiter Finance 🛸: 🛸 Attention community!!! ⚠️⚠️⚠️
 Orbiter Finance's Discord was hacked, we are trying our best to slove it, please don't trust anything in the discord server. Don't click on any links!!!]]></summary>
@@ -224,34 +246,11 @@ Orbiter Finance's Discord was hacked, we are trying our best to slove it, please
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/Gemini/status/1664107397445550081?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664149451219550208</id>
-        <link href="https://twitter.com/wublockchain12/status/1664149451219550208"/>
-        <updated>2023-06-01T05:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/Gemini/status/1664107397445550081?s=20
-
-Gemini: 1/ We’re coming to the UAE! 🇦🇪
-We’re thrilled to announce that Gemini will soon begin the process of acquiring a crypto license to serve customers based in the United Arab Emirates (UAE). https://t.co/Ycdj9RxMbE]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，加密交易所 Gemini 宣布正在申请阿拉伯联合酋长国 (UAE) 数字资产许可证。Gemini 在 4 月份宣布计划扩张亚太市场，并在美国境外开设衍生品平台 Gemini...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664149449059471360</id>
-        <link href="https://twitter.com/wublockchain12/status/1664149449059471360"/>
-        <updated>2023-06-01T05:58:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加密交易所 Gemini 宣布正在申请阿拉伯联合酋长国 (UAE) 数字资产许可证。Gemini 在 4 月份宣布计划扩张亚太市场，并在美国境外开设衍生品平台 Gemini Foundation。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平时收到类似的也会多看确认。大家也要小心，别偶尔大意]]></title>
+        <title type="html"><![CDATA[平时收到类似的也会多看确认。大家也要小心，别偶尔大意 https://twitter.com/DawnsXu/status/1663846118307020800]]></title>
         <id>https://twitter.com/8848Community/status/1664124953854353410</id>
         <link href="https://twitter.com/8848Community/status/1664124953854353410"/>
         <updated>2023-06-01T04:21:21.000Z</updated>
-        <summary type="html"><![CDATA[平时收到类似的也会多看确认。大家也要小心，别偶尔大意
+        <summary type="html"><![CDATA[平时收到类似的也会多看确认。大家也要小心，别偶尔大意 https://twitter.com/DawnsXu/status/1663846118307020800
 
 上野 Dawns.eth at Home 🦇🔊: 注意：电报新骗局，假装安全助手，骗你点击
 #电报 #Telegram  #Scam #ETH #BTC #NFT #Web3  #骗子 https://t.co/fTUMVZnVPf]]></summary>
@@ -342,11 +341,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -380,11 +379,11 @@ I found a new LSD protocol with some notable followers which has raised $133.000
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人字拖的奥德赛第四周，明天再领吧。顺便活跃6月的交互记录。]]></title>
+        <title type="html"><![CDATA[人字拖的奥德赛第四周，明天再领吧。顺便活跃6月的交互记录。 https://twitter.com/argentHQ/status/1663893641897603072]]></title>
         <id>https://twitter.com/8848Community/status/1663900674629980161</id>
         <link href="https://twitter.com/8848Community/status/1663900674629980161"/>
         <updated>2023-05-31T13:30:09.000Z</updated>
-        <summary type="html"><![CDATA[人字拖的奥德赛第四周，明天再领吧。顺便活跃6月的交互记录。
+        <summary type="html"><![CDATA[人字拖的奥德赛第四周，明天再领吧。顺便活跃6月的交互记录。 https://twitter.com/argentHQ/status/1663893641897603072
 
 Argent: It's time to claim your MintSquare Xplorer NFT 
 Important: Due to network congestion, it may take a few hours for your NFT to appear in your wallet after minting. Please be patient and wait for it to appear.
@@ -554,11 +553,11 @@ Onchain Wizard: $SPELL revival incoming?   This wallet that made over $8mm in 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有starknet id.域名的，可以做做任务]]></title>
+        <title type="html"><![CDATA[有starknet id.域名的，可以做做任务 https://twitter.com/Starknet_id/status/1663563064590102532]]></title>
         <id>https://twitter.com/8848Community/status/1663748659497037825</id>
         <link href="https://twitter.com/8848Community/status/1663748659497037825"/>
         <updated>2023-05-31T03:26:06.000Z</updated>
-        <summary type="html"><![CDATA[有starknet id.域名的，可以做做任务
+        <summary type="html"><![CDATA[有starknet id.域名的，可以做做任务 https://twitter.com/Starknet_id/status/1663563064590102532
 
 Starknet.id: We are thrilled to announce the launch of our latest campaign with @starknet_quest – an exclusive NFT quest giveaway for Starknet ID users! 
 Win the Starknet ID Tribe totem NFT.
@@ -619,11 +618,11 @@ ISE Equity call/put ratio 1.93, highest since March 2022]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧]]></title>
+        <title type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧 https://twitter.com/LineaBuild/status/1663557540410695686]]></title>
         <id>https://twitter.com/8848Community/status/1663607943278002176</id>
         <link href="https://twitter.com/8848Community/status/1663607943278002176"/>
         <updated>2023-05-30T18:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧
+        <summary type="html"><![CDATA[Linea新的一周，先睡觉了，明天睡醒再做吧 https://twitter.com/LineaBuild/status/1663557540410695686
 
 Linea: It's go time!
 https://galxe.com/Linea/campaign/GC8ofUNp65]]></summary>
@@ -654,13 +653,13 @@ https://galxe.com/Linea/campaign/GC8ofUNp65]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我靠 nansen直接裁员30%啊 我还以为他们帮arb过滤女巫时候赚翻了]]></title>
+        <title type="html"><![CDATA[我靠 nansen直接裁员30%啊 我还以为他们帮arb过滤女巫时候赚翻了 https://twitter.com/ASvanevik/status/1663565124970610688]]></title>
         <id>https://twitter.com/8848Community/status/1663572720137932800</id>
         <link href="https://twitter.com/8848Community/status/1663572720137932800"/>
         <updated>2023-05-30T15:46:58.000Z</updated>
         <summary type="html"><![CDATA[我靠
 nansen直接裁员30%啊
-我还以为他们帮arb过滤女巫时候赚翻了
+我还以为他们帮arb过滤女巫时候赚翻了 https://twitter.com/ASvanevik/status/1663565124970610688
 
 Alex Svanevik 🐧: This week we announced the extremely difficult decision to reduce the size of the Nansen team.
 I’m endlessly grateful to the incredible people we are parting ways with. They will go on to achieve great things, and we'll ensure they get a soft landing, with severance and support.]]></summary>
@@ -740,7 +739,7 @@ The devs literally could not even be bothered to change the metadata for this lo
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇
+We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
@@ -874,11 +873,11 @@ Andromeda, which allows users to zap in and out of index vaults https://t.co/SeY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存
+        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1016,7 +1015,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1035,12 +1034,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1070,7 +1069,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://t.co/nZGnR5FpEn
+R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
@@ -1272,11 +1271,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>
@@ -1292,7 +1291,7 @@ Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE
         <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
 Well there it is.
 Justin Sun’s conglomerate bought TrueUSD but was still paying the initial US owners to administer it.
-Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing…
+Then it moves to offshore banks and now control of the private keys are transferred as it grows in market cap with no real proof of backing… https://twitter.com/Protos/status/1653724009421238274
 
 Protos: Control of TrueUSD private keys transferred to Techteryx https://protos.com/control-of-trueusd-private-keys-transferred-to-techteryx/]]></summary>
         <author>
