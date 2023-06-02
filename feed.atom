@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T09:12:54.125Z</id>
+    <id>urn:2023-06-02T10:13:18.560Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T09:12:54.125Z</updated>
+    <updated>2023-06-02T10:13:18.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664558009736118274</id>
+        <link href="https://twitter.com/wublockchain12/status/1664558009736118274"/>
+        <updated>2023-06-02T09:02:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到指定地址，黑客可以保留 50,000 美元，否则将对其采取法律措施。目前协议功能恢复正常。https://twitter.com/unsheth_xyz/status/1664534089704275968?s=20
+
+吴说区块链: 吴说获悉，unsheth 对此回应称，5 月 31 日 22 时，unshETH 合约的部署者私钥之一被泄露，团队出于谨慎考虑紧急暂停了 unshETH 以太坊的提款，unshETH 以太坊存款（3500 万美元 tvl）通过多重签名 + 时间锁得到保护，并没有风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @baofuliu 做了。但没收到空投]]></title>
         <id>https://twitter.com/8848Community/status/1664548633155616768</id>
@@ -191,21 +203,11 @@ Adam@Greeks.live: 【6月2日期权交割数据】
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 过渡安排只适用于提供非证券型代币交易平台；对于在香港运营的定义是看交易所是否“对香港公众进行市场推广”。阅读全文：https://www.wu-talk.com/index.php...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664443847383064576</id>
-        <link href="https://twitter.com/wublockchain12/status/1664443847383064576"/>
-        <updated>2023-06-02T01:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Re 过渡安排只适用于提供非证券型代币交易平台；对于在香港运营的定义是看交易所是否“对香港公众进行市场推广”。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=10&id=14832]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good thread from Defi Mang]]></title>
+        <title type="html"><![CDATA[Good thread from Defi Mang https://twitter.com/defimann/status/1664347780859527169]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1664426691404480514</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1664426691404480514"/>
         <updated>2023-06-02T00:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Good thread from Defi Mang
+        <summary type="html"><![CDATA[Good thread from Defi Mang https://twitter.com/defimann/status/1664347780859527169
 
 DeFi Man 🫐: While I am not usually bullish on most new dex perp protocols, I am quite impressed by what the @HyperliquidX crew has achieved
 - One of the first fully on-chain orderbook
@@ -986,7 +988,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1005,12 +1007,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1242,11 +1244,11 @@ Fade with extreme caution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/RNWG2l1Ax1]]></title>
+        <title type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1]]></title>
         <id>https://twitter.com/DeFi_educator/status/1654130091880792064</id>
         <link href="https://twitter.com/DeFi_educator/status/1654130091880792064"/>
         <updated>2023-05-04T14:25:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/RNWG2l1Ax1
+        <summary type="html"><![CDATA[https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1
 
 
 Breaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.]]></summary>

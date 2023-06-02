@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1664558009736118274",
+          "author": "吴说区块链",
+          "description": "吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到指定地址，黑客可以保留 50,000 美元，否则将对其采取法律措施。目前协议功能恢复正常。https://twitter.com/unsheth_xyz/status/1664534089704275968?s=20\n\n吴说区块链: 吴说获悉，unsheth 对此回应称，5 月 31 日 22 时，unshETH 合约的部署者私钥之一被泄露，团队出于谨慎考虑紧急暂停了 unshETH 以太坊的提款，unshETH 以太坊存款（3500 万美元 tvl）通过多重签名 + 时间锁得到保护，并没有风险。",
+          "link": "https://twitter.com/wublockchain12/status/1664558009736118274",
+          "publishedOn": "2023-06-02T09:02:10.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1664536465408417794",
           "author": "吴说区块链",
           "description": "吴说获悉，游戏 Layer2 链 COMBO 宣布推出 8000 万美元的生态系统基金，将提供给在 COMBO 上创建 web3 游戏的开发人员并为其提供接触游戏行业资深人士和顾问的机会。据称，该基金将通过投资多个项目建立 web3 游戏开发者社区和生态系统。https://medium.combonetwork.io/powering-growth-introducing-combos-80m-ecosystem-fund-5e073dad1bc2",
@@ -163,16 +173,6 @@
           "publishedOn": "2023-06-02T01:36:22.000Z",
           "wordCount": null,
           "title": "Silvergate Bank 已同意美联储的命令，将在 10 天内向加州金融监管机构提交自我清算计划。尽管 Silvergate 自愿宣布清算并计划“全额偿还所有存款”，但美联储的...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1664443847383064576",
-          "author": "吴说区块链",
-          "description": "Re 过渡安排只适用于提供非证券型代币交易平台；对于在香港运营的定义是看交易所是否“对香港公众进行市场推广”。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=10&id=14832",
-          "link": "https://twitter.com/wublockchain12/status/1664443847383064576",
-          "publishedOn": "2023-06-02T01:28:31.000Z",
-          "wordCount": null,
-          "title": "Re 过渡安排只适用于提供非证券型代币交易平台；对于在香港运营的定义是看交易所是否“对香港公众进行市场推广”。阅读全文：https://www.wu-talk.com/index.php...",
           "imageUrl": null
         }
       ]
@@ -629,7 +629,7 @@
         {
           "id": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "author": "DeFi Educator",
-          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
+          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
           "link": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "publishedOn": "2023-05-16T14:39:21.000Z",
           "wordCount": null,
@@ -649,11 +649,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "author": "DeFi Educator",
-          "description": "That’s it. Game over. \n@Ledger\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
+          "description": "That’s it. Game over. \n@Ledger https://twitter.com/k06a/status/1658375564154089478\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
           "link": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "publishedOn": "2023-05-16T10:26:31.000Z",
           "wordCount": null,
-          "title": "That’s it. Game over. @Ledger",
+          "title": "That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478",
           "imageUrl": null
         },
         {
@@ -699,11 +699,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1654130091880792064",
           "author": "DeFi Educator",
-          "description": "https://t.co/RNWG2l1Ax1\n\n\nBreaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.",
+          "description": "https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1\n\n\nBreaking Market News: ECB'S PRESIDENT LAGARDE: WE LACK A QUANTITATIVE ESTIMATE FOR WHAT IS SUFFICIENTLY RESTRICTIVE.",
           "link": "https://twitter.com/DeFi_educator/status/1654130091880792064",
           "publishedOn": "2023-05-04T14:25:20.000Z",
           "wordCount": null,
-          "title": "https://t.co/RNWG2l1Ax1",
+          "title": "https://twitter.com/financialjuice/status/1654111876991557637 https://t.co/RNWG2l1Ax1",
           "imageUrl": null
         }
       ]
@@ -923,11 +923,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1664426691404480514",
           "author": "DeFi Surfer",
-          "description": "Good thread from Defi Mang\n\nDeFi Man 🫐: While I am not usually bullish on most new dex perp protocols, I am quite impressed by what the @HyperliquidX crew has achieved\n- One of the first fully on-chain orderbook\n- Live on their own L1 - seamless integration with Arbitrum\nDo you want to find more? Let's dive 🎯 https://t.co/5PwJyYr7aG",
+          "description": "Good thread from Defi Mang https://twitter.com/defimann/status/1664347780859527169\n\nDeFi Man 🫐: While I am not usually bullish on most new dex perp protocols, I am quite impressed by what the @HyperliquidX crew has achieved\n- One of the first fully on-chain orderbook\n- Live on their own L1 - seamless integration with Arbitrum\nDo you want to find more? Let's dive 🎯 https://t.co/5PwJyYr7aG",
           "link": "https://twitter.com/DeFiSurfer808/status/1664426691404480514",
           "publishedOn": "2023-06-02T00:20:21.000Z",
           "wordCount": null,
-          "title": "Good thread from Defi Mang",
+          "title": "Good thread from Defi Mang https://twitter.com/defimann/status/1664347780859527169",
           "imageUrl": null
         },
         {
