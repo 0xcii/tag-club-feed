@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T14:11:25.957Z</id>
+    <id>urn:2023-06-02T15:13:29.328Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T14:11:25.957Z</updated>
+    <updated>2023-06-02T15:13:29.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,26 @@ BlockBeats｜We're hiring!: 详解Binance Launchpad，来看看IEO还是好投
         <summary type="html"><![CDATA[Re @adamscochran Best explanation I’ve seen is end of Covid benefits plus slowing economy pulling low wage workers off the sidelines]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《比特币核心开发者重视什么方向？》（作者：闪电HSL）基于比特币发展出来的发币技术本质上都是染色币，但比特币核心开发者最关心的其实是使用币技术栈，对发币...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664612425033986049</id>
+        <link href="https://twitter.com/wublockchain12/status/1664612425033986049"/>
+        <updated>2023-06-02T12:38:23.000Z</updated>
+        <summary type="html"><![CDATA[《比特币核心开发者重视什么方向？》（作者：闪电HSL）基于比特币发展出来的发币技术本质上都是染色币，但比特币核心开发者最关心的其实是使用币技术栈，对发币技术体系基本上是持负面态度，例如限制 Opreturn 输出可使用的字节空间，以实现限制染色币的发展。https://mp.weixin.qq.com/s/iUZqL82jrvPx6lPzQv75LQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国公布5月失业率 3.7% 超过预期，为2022年10月以来新高。预期值为3.50%，前值3.40%。美国5月季调后新增非农就业人口 33.9万人，为2023年1月以来最大...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1664610871132454913</id>
+        <link href="https://twitter.com/wublockchain12/status/1664610871132454913"/>
+        <updated>2023-06-02T12:32:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国公布5月失业率 3.7% 超过预期，为2022年10月以来新高。预期值为3.50%，前值3.40%。美国5月季调后新增非农就业人口 33.9万人，为2023年1月以来最大增幅，预期19.0万人，前值25.3万人。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -88,9 +108,9 @@ BlockBeats｜We're hiring!: 详解Binance Launchpad，来看看IEO还是好投
         <id>https://twitter.com/wublockchain12/status/1664558009736118274</id>
         <link href="https://twitter.com/wublockchain12/status/1664558009736118274"/>
         <updated>2023-06-02T09:02:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到指定地址，黑客可以保留 50,000 美元，否则将对其采取法律措施。目前协议功能恢复正常。https://twitter.com/unsheth_xyz/status/1664534089704275968?s=20 https://twitter.com/wublockchain12/status/1664073329576402944
+        <summary type="html"><![CDATA[吴说获悉，LSDfi 协议 unsheth 发推称，黑客已决定归还合同所有权，但仍有375,000 美元的资金未归还，并表示，若在北京时间 6 月 3 日 09:00 前将剩余资金归还到指定地址，黑客可以保留 50,000 美元，否则将对其采取法律措施。目前协议功能恢复正常。https://twitter.com/unsheth_xyz/status/1664534089704275968?s=20
 
-吴说区块链: 吴说获悉，unsheth 对此回应称，5 月 31 日 22 时，unshETH 合约的部署者私钥之一被泄露，团队出于谨慎考虑紧急暂停了 unshETH 以太坊的提款，unshETH 以太坊存款（3500 万美元 tvl）通过多重签名 + 时间锁得到保护，并没有风险。 https://twitter.com/wublockchain12/status/1663934064250994688]]></summary>
+吴说区块链: 吴说获悉，unsheth 对此回应称，5 月 31 日 22 时，unshETH 合约的部署者私钥之一被泄露，团队出于谨慎考虑紧急暂停了 unshETH 以太坊的提款，unshETH 以太坊存款（3500 万美元 tvl）通过多重签名 + 时间锁得到保护，并没有风险。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -211,31 +231,6 @@ BlockBeats｜We're hiring!: 详解Binance Launchpad，来看看IEO还是好投
         <link href="https://twitter.com/wublockchain12/status/1664469898846937089"/>
         <updated>2023-06-02T03:12:02.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，香港一家拥有本地财团背景的 MEEX 已加入申牌行列，目前已经开放非限制地区用户注册、开户、交易。联合创始人为 Simon Wu，管理团队包括香港证监会第1、4、9号牌照公司高管、虚拟资产行业运营高管、香港持牌律师等。目前该平台支持 BTC、ETH… https://twitter.com/i/web/status/1664469898846937089]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 目前除BTC短期仍略高于今年初外，其他BTC、ETH各主要期限隐含波动率IV均出现了历史新低，超短期期权IV均再度逼近30%的超低水平。 期权市场参与者非常不看好本...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664461402122366983</id>
-        <link href="https://twitter.com/wublockchain12/status/1664461402122366983"/>
-        <updated>2023-06-02T02:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前除BTC短期仍略高于今年初外，其他BTC、ETH各主要期限隐含波动率IV均出现了历史新低，超短期期权IV均再度逼近30%的超低水平。 期权市场参与者非常不看好本月的走势，在缺乏资金和热点的当下，市场情绪十分低迷。
-https://twitter.com/BTC__options/status/1664459121138212865?s=20
-
-Adam@Greeks.live: 【6月2日期权交割数据】 
-2.2万张BTC期权即将到期，Put Call Ratio为0.71，最大痛点27000美元，名义价值5.9亿美元。 
-13.1万张ETH期权即将到期，Put Call Ratio为1.00，最大痛点1850美元，名义价值2.5亿美元。… https://twitter.com/i/web/status/1664459121138212865 https://t.co/jECOesSugL]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Greekslive，2.2万张BTC期权即将到期，Put Call Ratio为0.71，最大痛点27000美元，名义价值5.9亿美元。 13.1万张ETH期权即将到期，Put Call Ratio...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1664461298854420481</id>
-        <link href="https://twitter.com/wublockchain12/status/1664461298854420481"/>
-        <updated>2023-06-02T02:37:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，2.2万张BTC期权即将到期，Put Call Ratio为0.71，最大痛点27000美元，名义价值5.9亿美元。 13.1万张ETH期权即将到期，Put Call Ratio为1.00，最大痛点1850美元，名义价值2.5亿美元。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
