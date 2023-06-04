@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T11:09:54.302Z</id>
+    <id>urn:2023-06-04T12:23:47.487Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-04T11:09:54.302Z</updated>
+    <updated>2023-06-04T12:23:47.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 目前涉案的黑客因贿赂罪被被判处 2.5 至 3.5 年的缓刑，Tambiev 则否认腐败指控并要求恢复职务，调查仍在进行中。 https://www.kommersant.ru/doc/6026773]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665268227801247744</id>
+        <link href="https://twitter.com/wublockchain12/status/1665268227801247744"/>
+        <updated>2023-06-04T08:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前涉案的黑客因贿赂罪被被判处 2.5 至 3.5 年的缓刑，Tambiev 则否认腐败指控并要求恢复职务，调查仍在进行中。
+https://www.kommersant.ru/doc/6026773]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据俄罗斯生意人报，一位名叫 Marat Tambiev 的莫斯科调查部门负责人被指控收受比特币贿赂以换取其不没收所调查黑客组织的资产。警方发现 Tambiev 共持...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665268223967633408</id>
+        <link href="https://twitter.com/wublockchain12/status/1665268223967633408"/>
+        <updated>2023-06-04T08:04:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据俄罗斯生意人报，一位名叫 Marat Tambiev 的莫斯科调查部门负责人被指控收受比特币贿赂以换取其不没收所调查黑客组织的资产。警方发现 Tambiev 共持有 1032.1枚比特币（约 2800 万美元），并冻结了其中的一部分。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 阅读全文： https://mp.weixin.qq.com/s/X1V_bfrSg-S9-rd_XQAK4A]]></title>
         <id>https://twitter.com/wublockchain12/status/1665260208078090240</id>
@@ -209,29 +230,6 @@ https://web.archive.org/web/20220210153123/https://leastauthority.com/blog/discl
         <updated>2023-06-04T01:24:04.000Z</updated>
         <summary type="html"><![CDATA[吴说周精选：币安启动裁员、CNHC 团队失联、BKEX 暂停提币与新闻Top10（0527-0602）
 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14878]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前，慢雾表示，Atomic Wallet 可能是受到供应链攻击。https://twitter.com/zachxbt/status/1665151915355676674]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665161110528618497</id>
-        <link href="https://twitter.com/wublockchain12/status/1665161110528618497"/>
-        <updated>2023-06-04T00:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前，慢雾表示，Atomic Wallet 可能是受到供应链攻击。https://twitter.com/zachxbt/status/1665151915355676674
-
-ZachXBT: Update: Just surpassed $14M worth of stolen funds on my graph across Bitcoin, ETH, Tron, BSC, ADA, Ripple, Polkadot, Cosmos, Algo, Avax, XLM, LTC and Doge. 
-I would estimate $20m has been stolen at minimum.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@Zachxbt ，Atomic Wallet 被盗事件中，观察到最大的单一受害者是 280 万美元，初步估计被盗资金至少达到 2000 万美元，涉及BTC、ETH、Tron、BSC、A...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665161108007813120</id>
-        <link href="https://twitter.com/wublockchain12/status/1665161108007813120"/>
-        <updated>2023-06-04T00:58:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@Zachxbt ，Atomic Wallet 被盗事件中，观察到最大的单一受害者是 280 万美元，初步估计被盗资金至少达到 2000 万美元，涉及BTC、ETH、Tron、BSC、ADA 等多个加密货币。警惕钓鱼骗子，他们已经开始在 Twitter 上发布假的 Atomic Wallet 退款推文，以利用绝望的受害者。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -979,11 +977,11 @@ Andromeda, which allows users to zap in and out of index vaults https://t.co/SeY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
+        <summary type="html"><![CDATA[Twitter 好占内存
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1056,7 +1054,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1075,12 +1073,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1110,7 +1108,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
