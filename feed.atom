@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T12:28:58.341Z</id>
+    <id>urn:2023-06-05T13:17:07.240Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-05T12:28:58.341Z</updated>
+    <updated>2023-06-05T13:17:07.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/embercn/status/1665693560119914497?s=46]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665696462506950656</id>
+        <link href="https://twitter.com/wublockchain12/status/1665696462506950656"/>
+        <updated>2023-06-05T12:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/embercn/status/1665693560119914497?s=46
+
+余烬: 40 分钟前，以太坊联合创始人 Jeffrey Wilcke @jeffehh 将 22,000 $ETH($41.13M) 转入 #Kraken。
+Jeffrey Wilcke 地址上次转出 ETH 已是 29 个月前(2021/01/06)：他在当时将 1.5 万 ETH 转入了 Kraken。
+目前 Jeffrey Wilcke 地址仍持有超过 15 万 ETH($280M)。
+推文由 @LionDEX_CN 赞助 https://t.co/PxAh2UNLRN]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@EmberCN监测，40 分钟前，以太坊联合创始人 Jeffrey Wilcke 将 22,000 枚 ETH($41.13M) 转入 Kraken 交易所。Jeffrey Wilcke 地址上次转出 ETH 是 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665696351374708737</id>
+        <link href="https://twitter.com/wublockchain12/status/1665696351374708737"/>
+        <updated>2023-06-05T12:25:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@EmberCN监测，40 分钟前，以太坊联合创始人 Jeffrey Wilcke 将 22,000 枚 ETH($41.13M) 转入 Kraken 交易所。Jeffrey Wilcke 地址上次转出 ETH 是 29 个月前(2021/01/06)将 1.5 万 ETH 转入了 Kraken。目前 Jeffrey Wilcke 地址仍持有超过 15 万 ETH($280M)。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据 Token Terminal 数据，5 月 Arbitrum 向 Ethereum 支付的供应方费用达 9 百万美元，Optimism 向 Ethereum 支付的供应方费用达 450 万美元，均创下...]]></title>
         <id>https://twitter.com/wublockchain12/status/1665669289544929281</id>
@@ -214,16 +239,6 @@ This is a distinct reversal from the 2020-21 bull cycle https://t.co/GTvhewPBKB]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 OKLink 数据，上海升级以来已有超 300 万枚 ETH 解除质押，当前验证者数 602,860。当前 ETH 质押量为1929万枚，质押率为16.04%。https://www.oklin...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665560531288088576</id>
-        <link href="https://twitter.com/wublockchain12/status/1665560531288088576"/>
-        <updated>2023-06-05T03:25:49.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 OKLink 数据，上海升级以来已有超 300 万枚 ETH 解除质押，当前验证者数 602,860。当前 ETH 质押量为1929万枚，质押率为16.04%。https://www.oklink.com/cn/eth/shanghai-upgrade?tab=2]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[https://dune.com/sixdegree/zksync-airdrop-simulation-ranking zksync 使用数据参考]]></title>
         <id>https://twitter.com/8848Community/status/1665558489131802628</id>
         <link href="https://twitter.com/8848Community/status/1665558489131802628"/>
@@ -258,20 +273,6 @@ zksync 使用数据参考]]></summary>
 7 狂躁吹顶]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，升级后，在未来的某一个区块激活高度，可以将特定类型的诅咒铭文解析成为正常的正数铭文，即当现有的诅咒铭文被解析成为正的，新的诅咒铭文将被插入，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665545798824902656</id>
-        <link href="https://twitter.com/wublockchain12/status/1665545798824902656"/>
-        <updated>2023-06-05T02:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，升级后，在未来的某一个区块激活高度，可以将特定类型的诅咒铭文解析成为正常的正数铭文，即当现有的诅咒铭文被解析成为正的，新的诅咒铭文将被插入，这意味着每一个持有的特定的负数铭文都会被改变，并可能会多次改变（不会影响正铭文）。https://twitter.com/LeonidasNFT/status/1665437076450336768?s=20
-
-Leonidas.og: Version 0.6.0 of the Ordinals Protocol just went live!
-Here is everything you need to know about this major update:
-Many previously unrecognized inscriptions are now indexed by the Ordinals Protocol as "Cursed Inscriptions". This is important because over 70k existing but… https://twitter.com/i/web/status/1665437076450336768 https://t.co/Mh1pArg2p9]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
