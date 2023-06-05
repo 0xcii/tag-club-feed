@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T01:16:26.425Z</id>
+    <id>urn:2023-06-05T02:49:30.821Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-05T01:16:26.425Z</updated>
+    <updated>2023-06-05T02:49:30.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，L2 网络 Starknet 宣布即将推出 v0.12.0 版本，专注于提高网络吞吐量以改善规模和交易延迟。定序器引入了一个新的 Rust 实现，将增强Cairo-rs、blocki...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665542106679525378</id>
+        <link href="https://twitter.com/wublockchain12/status/1665542106679525378"/>
+        <updated>2023-06-05T02:12:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，L2 网络 Starknet 宣布即将推出 v0.12.0 版本，专注于提高网络吞吐量以改善规模和交易延迟。定序器引入了一个新的 Rust 实现，将增强Cairo-rs、blockifier 和使用Papyrus存储以提升性能，此外，将移除交易 Pending 状态以及增加新的区块哈希系统调用。https://docs.starknet.io/documentation/starknet_versions/upcoming_versions/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说本周宏观指标与分析：上周美国非农数据喜忧参半，就业远超预期，失业率意外上行，市场押注6月利率维持不变，7月加息预期有所上升；本周重点关注多国PMI数据...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665539814219829250</id>
+        <link href="https://twitter.com/wublockchain12/status/1665539814219829250"/>
+        <updated>2023-06-05T02:03:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周美国非农数据喜忧参半，就业远超预期，失业率意外上行，市场押注6月利率维持不变，7月加息预期有所上升；本周重点关注多国PMI数据以及澳大利亚、加拿大等多家央行的议息会议等。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14898]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX Web3 钱包在 6 月 2 日上线 Cryptopedia 第二期 Suiswap 的交互活动，目前已有超过 4 万个地址参与了该活动，接近第一期 zkSync 交互活动参与地址...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665539031718035456</id>
+        <link href="https://twitter.com/wublockchain12/status/1665539031718035456"/>
+        <updated>2023-06-05T02:00:24.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX Web3 钱包在 6 月 2 日上线 Cryptopedia 第二期 Suiswap 的交互活动，目前已有超过 4 万个地址参与了该活动，接近第一期 zkSync 交互活动参与地址（4.5 万）。有社区反馈，受该活动影响，近日 Sui 链上交易变得缓慢。SuiVision 数据显示，6 月 4 日，Sui 链上事务块达 27.3… https://twitter.com/i/web/status/1665539031718035456]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西市场估值最大的加密交易所 Mercado Bitcoin 已获巴西央行颁发的支付提供商许可证，并将在获批后推出 MB Pay。MB Pay可使用交易所持有的加密资产为巴西用户提...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665536834045362178</id>
+        <link href="https://twitter.com/wublockchain12/status/1665536834045362178"/>
+        <updated>2023-06-05T01:51:40.000Z</updated>
+        <summary type="html"><![CDATA[巴西市场估值最大的加密交易所 Mercado Bitcoin 已获巴西央行颁发的支付提供商许可证，并将在获批后推出 MB Pay。MB Pay可使用交易所持有的加密资产为巴西用户提供固定收益投资、质押等服务，为用户提供加密出口的借记卡有望很快上线。其他获得巴西许可证的有币安合作伙伴 Latam… https://twitter.com/i/web/status/1665536834045362178]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kongtou8888 应该没有]]></title>
+        <id>https://twitter.com/8848Community/status/1665536456717406210</id>
+        <link href="https://twitter.com/8848Community/status/1665536456717406210"/>
+        <updated>2023-06-05T01:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @kongtou8888 应该没有]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博社报道称，最近被提拔负责币安美国以外所有市场的区域负责人 Richard Teng 可能会成为 CZ 的币安 CEO 接班人。Richard Teng 是一位52岁的新加坡人，曾在新加...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665533197432619010</id>
+        <link href="https://twitter.com/wublockchain12/status/1665533197432619010"/>
+        <updated>2023-06-05T01:37:13.000Z</updated>
+        <summary type="html"><![CDATA[彭博社报道称，最近被提拔负责币安美国以外所有市场的区域负责人 Richard Teng 可能会成为 CZ 的币安 CEO 接班人。Richard Teng 是一位52岁的新加坡人，曾在新加坡金融监管局（13年）、阿布扎比自由贸易区担任高级管理岗位，有丰富的合规经验。https://www.bloomberg.com/news/articles/2023-06-05/binance-s-richard-teng-emerges-as-cz-s-heir-apparent-as-regulators-circle]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回顾比特币大会 2023: 5 月 18 日至 20 日在佛罗里达州迈阿密海滩举行，参会人数约 1.5 万人，不足去年 3.5 万人的一半。关于 Ordinals BRC20、美国监管政策（矿...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665529324890476545</id>
+        <link href="https://twitter.com/wublockchain12/status/1665529324890476545"/>
+        <updated>2023-06-05T01:21:49.000Z</updated>
+        <summary type="html"><![CDATA[回顾比特币大会 2023: 5 月 18 日至 20 日在佛罗里达州迈阿密海滩举行，参会人数约 1.5 万人，不足去年 3.5 万人的一半。关于 Ordinals BRC20、美国监管政策（矿业征税、ETF）等成为讨论热点；神马也在大会上发布了多款最新矿机。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14899]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每周矿业资讯 0529-0604 https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=14900]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665528049339895808</id>
+        <link href="https://twitter.com/wublockchain12/status/1665528049339895808"/>
+        <updated>2023-06-05T01:16:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说每周矿业资讯 0529-0604
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=9&id=14900]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM Linea 185万真的是卷死人啊 https://t.co/gZpTGME6EH]]></title>
+        <id>https://twitter.com/8848Community/status/1665523772005163009</id>
+        <link href="https://twitter.com/8848Community/status/1665523772005163009"/>
+        <updated>2023-06-05T00:59:45.000Z</updated>
+        <summary type="html"><![CDATA[GM 
+Linea 185万真的是卷死人啊 https://t.co/gZpTGME6EH]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @hildobby_ 数据面板，在经历此前 Memecoins 行情和大量 MEV Bot 活动后，以太坊每日平均 GAS 再次降至过去 2 月以来低点，6 月 3 日平均 GAS 为 2...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665516772030840832</id>
+        <link href="https://twitter.com/wublockchain12/status/1665516772030840832"/>
+        <updated>2023-06-05T00:31:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @hildobby_ 数据面板，在经历此前 Memecoins 行情和大量 MEV Bot 活动后，以太坊每日平均 GAS 再次降至过去 2 月以来低点，6 月 3 日平均 GAS 为 24gwei，当前实时 GAS 为 17gwei。
+https://dune.com/hildobby/Gas]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @GavinSBaker Helluva call]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1665476694893789184</id>
@@ -28,11 +131,11 @@ $1T+ getting sucked up into T bills in a short amount of time sure seems like it
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holy ratio 😂]]></title>
+        <title type="html"><![CDATA[Holy ratio 😂 https://twitter.com/peta/status/1664323464705245185]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1665474689571880962</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1665474689571880962"/>
         <updated>2023-06-04T21:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Holy ratio 😂
+        <summary type="html"><![CDATA[Holy ratio 😂 https://twitter.com/peta/status/1664323464705245185
 
 PETA: Think twice before ordering that chicken sandwich... T-Rexes wouldn't approve of you eating their descendants 👉 https://bit.ly/trexkintochicken #DinosaurDay https://t.co/GauRbTwjju]]></summary>
         <author>
@@ -224,91 +327,6 @@ https://mp.weixin.qq.com/s/X1V_bfrSg-S9-rd_XQAK4A]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/mdudas/status/1664978469623676931?s=19]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665259110168776705</id>
-        <link href="https://twitter.com/wublockchain12/status/1665259110168776705"/>
-        <updated>2023-06-04T07:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/mdudas/status/1664978469623676931?s=19]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，TheBlock 创始人 Mike Dudas 表示，过去几周多个大型 OTC 交易台已停止支持 Filecoin。灰度在2021年推出 Grayscale Filecoin Trust，但 SEC 在一封信...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665259106301534210</id>
-        <link href="https://twitter.com/wublockchain12/status/1665259106301534210"/>
-        <updated>2023-06-04T07:28:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，TheBlock 创始人 Mike Dudas 表示，过去几周多个大型 OTC 交易台已停止支持 Filecoin。灰度在2021年推出 Grayscale Filecoin Trust，但 SEC 在一封信中告诉 Grayscale，FIL“符合联邦证券法对证券的定义”，因此必须撤回申请。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/myanTokenGeek/status/1665193330081406977?s=19]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665258939657891843</id>
-        <link href="https://twitter.com/wublockchain12/status/1665258939657891843"/>
-        <updated>2023-06-04T07:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/myanTokenGeek/status/1665193330081406977?s=19
-
-Yan Meng @ Solv Protocol | ERC-3525: 现在的感觉让我回想起 19 年。那年开年的时候是市场最低点，后来比特币价格几个月内回升了四五倍，国内出现了明显的“盘币合流”，类似 VDS 之类的资金盘项目掀起一波小高潮。等到这一波砸下去，投机人群基本上就凉凉退场了。然后就是死气沉沉，黑暗中只有 Libra、DeFi 等少数几个微弱的闪光点，到了 10… https://twitter.com/i/web/status/1665193330081406977]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Solv 创始人孟岩表示，ZK、扩容、RWA、账户抽象、CBDC 等是真正能够撑起下一轮牛市的主题，预测今年下半年 RWA 和产业区块链会有比较大的进展，有可能...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665258934914129920</id>
-        <link href="https://twitter.com/wublockchain12/status/1665258934914129920"/>
-        <updated>2023-06-04T07:27:23.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Solv 创始人孟岩表示，ZK、扩容、RWA、账户抽象、CBDC 等是真正能够撑起下一轮牛市的主题，预测今年下半年 RWA 和产业区块链会有比较大的进展，有可能走向实际应用落地，加密行业复苏要等到明年年中以后。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周热门项目动态: EDCON 2024 将在日本举办、Scroll 主网将于 8 月初上线、莫文蔚身穿 CryptoPunks 礼服登台综艺等（0528-0603） https://www.wu-talk.com/inde...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665207150380036098</id>
-        <link href="https://twitter.com/wublockchain12/status/1665207150380036098"/>
-        <updated>2023-06-04T04:01:37.000Z</updated>
-        <summary type="html"><![CDATA[一周热门项目动态: EDCON 2024 将在日本举办、Scroll 主网将于 8 月初上线、莫文蔚身穿 CryptoPunks 礼服登台综艺等（0528-0603）
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=14887]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 类似于 CSGO 的皮肤经济和原神等的 F2P+IAP 模式与 Web3 游戏系统有许多相似之处。此前，在今年 3 月，CSGO AK-47 Wild Lotus 皮肤以约 16 万美元价格出售，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665187894120595456</id>
-        <link href="https://twitter.com/wublockchain12/status/1665187894120595456"/>
-        <updated>2023-06-04T02:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 类似于 CSGO 的皮肤经济和原神等的 F2P+IAP 模式与 Web3 游戏系统有许多相似之处。此前，在今年 3 月，CSGO AK-47 Wild Lotus 皮肤以约 16 万美元价格出售，使其成为有史以来最贵的皮肤销售之一。https://twitter.com/Delphi_Digital/status/1665058264508424192?s=20
-
-Delphi Digital: CS:GO has more than $32B in Trading Volume Since 2019. https://t.co/ufECmbBXWz]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Delphi Digital 指出，遵循先入场再通过应用内购买（IAP）实现营收的模式，将 Free-to-Play 游戏带入了新的高度，比如 2022 年年度游戏艾尔登法环通过游戏出...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665187890198896641</id>
-        <link href="https://twitter.com/wublockchain12/status/1665187890198896641"/>
-        <updated>2023-06-04T02:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Re Delphi Digital 指出，遵循先入场再通过应用内购买（IAP）实现营收的模式，将 Free-to-Play 游戏带入了新的高度，比如 2022 年年度游戏艾尔登法环通过游戏出售年收入约为 7.9 亿美元（不含豪华版、IAP 和折扣），而 F2P 游戏原神则在同一时期创造了约 18 亿美元收入。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Delphi Digital，自 2019 年以来，CSGO 交易量超过了 320 亿美元，比前五大 NFT 集合（Axie、BAYC、CryptoPunks、MAYC 和 Art Blocks）累积交易量...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665187886210199554</id>
-        <link href="https://twitter.com/wublockchain12/status/1665187886210199554"/>
-        <updated>2023-06-04T02:45:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Delphi Digital，自 2019 年以来，CSGO 交易量超过了 320 亿美元，比前五大 NFT 集合（Axie、BAYC、CryptoPunks、MAYC 和 Art Blocks）累积交易量还要高出 60%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ValueStockGeek Don’t think it’s appropriate to value pypl on revenue]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1665176435017883648</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1665176435017883648"/>
@@ -394,11 +412,11 @@ Some of these wouldn’t be surprised to be smaller in 20 years. Like $ko could 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This @jam_croissant dude is extremely articulate. Good clip]]></title>
+        <title type="html"><![CDATA[This @jam_croissant dude is extremely articulate. Good clip https://twitter.com/stealthqe4/status/1664702249505808384]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1664729412309340165</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1664729412309340165"/>
         <updated>2023-06-02T20:23:15.000Z</updated>
-        <summary type="html"><![CDATA[This @jam_croissant dude is extremely articulate. Good clip
+        <summary type="html"><![CDATA[This @jam_croissant dude is extremely articulate. Good clip https://twitter.com/stealthqe4/status/1664702249505808384
 
 QE Infinity: This is excellent.  
  https://t.co/mKpnBnPDxp]]></summary>
@@ -613,11 +631,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -842,21 +860,6 @@ https://galxe.com/Linea/campaign/GC8ofUNp65]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我靠 nansen直接裁员30%啊 我还以为他们帮arb过滤女巫时候赚翻了]]></title>
-        <id>https://twitter.com/8848Community/status/1663572720137932800</id>
-        <link href="https://twitter.com/8848Community/status/1663572720137932800"/>
-        <updated>2023-05-30T15:46:58.000Z</updated>
-        <summary type="html"><![CDATA[我靠
-nansen直接裁员30%啊
-我还以为他们帮arb过滤女巫时候赚翻了
-
-Alex Svanevik 🐧: This week we announced the extremely difficult decision to reduce the size of the Nansen team.
-I’m endlessly grateful to the incredible people we are parting ways with. They will go on to achieve great things, and we'll ensure they get a soft landing, with severance and support.]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT thiccy: Re The IDO is for 10M SUI and values Suiswap at 200M FDV The metadata for SuiSwap site is a picture of AptosSwap The devs literally could n...]]></title>
         <id>https://twitter.com/thiccythot_/status/1663462977410854912</id>
         <link href="https://twitter.com/thiccythot_/status/1663462977410854912"/>
@@ -871,16 +874,6 @@ The devs literally could not even be bothered to change the metadata for this lo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @lorenhuang22 舒服了]]></title>
-        <id>https://twitter.com/8848Community/status/1663376044039221248</id>
-        <link href="https://twitter.com/8848Community/status/1663376044039221248"/>
-        <updated>2023-05-30T02:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @lorenhuang22 舒服了]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Parallax Finance: 🤝Unveiling our next alliance that we have in our advisory board.🤝 We've joined forces with @OnChainWizard. He's a multi-fac...]]></title>
         <id>https://twitter.com/parallaxfin/status/1663369293831233536</id>
         <link href="https://twitter.com/parallaxfin/status/1663369293831233536"/>
@@ -888,7 +881,7 @@ The devs literally could not even be bothered to change the metadata for this lo
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
+We'll need his help for our LSDfi-built journey. 👇
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
@@ -972,11 +965,11 @@ Andromeda, which allows users to zap in and out of index vaults https://t.co/SeY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
+        <summary type="html"><![CDATA[Twitter 好占内存
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1103,7 +1096,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
