@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T05:12:56.892Z</id>
+    <id>urn:2023-06-06T06:16:23.395Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T05:12:56.892Z</updated>
+    <updated>2023-06-06T06:16:23.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我还在坚持，你却居然卖掉了所有的硬币 https://t.co/PHh5P7WrNh]]></title>
+        <id>https://twitter.com/8848Community/status/1665962390880649216</id>
+        <link href="https://twitter.com/8848Community/status/1665962390880649216"/>
+        <updated>2023-06-06T06:02:40.000Z</updated>
+        <summary type="html"><![CDATA[我还在坚持，你却居然卖掉了所有的硬币 https://t.co/PHh5P7WrNh]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安将于 6 月 7 日 20:00 （UTC+8）暂停 ZEN 代币的充值、提现业务，以支持 Horizen（ZEN）将于 Horizen 区块高度 1,363,115（预计北京时间 6 月7 日...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665947596589002752</id>
+        <link href="https://twitter.com/wublockchain12/status/1665947596589002752"/>
+        <updated>2023-06-06T05:03:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安将于 6 月 7 日 20:00 （UTC+8）暂停 ZEN 代币的充值、提现业务，以支持 Horizen（ZEN）将于 Horizen 区块高度 1,363,115（预计北京时间 6 月7 日 21:00）进行的网络升级及硬分叉。本次 Horizen（ZEN）的网络升级及硬分叉不会产生新的分叉币。https://www.binance.com/zh-CN/support/announcement/%E5%85%B3%E4%BA%8E%E6%94%AF%E6%8C%81horizen-zen-%E7%BD%91%E7%BB%9C%E5%8D%87%E7%BA%A7%E5%8F%8A%E7%A1%AC%E5%88%86%E5%8F%89%E7%9A%84%E5%85%AC%E5%91%8A-a805e87526f64b8bbb565970868039c7]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re FBG Capital 曾投资隐私计算网络 Oasis、加密 Staking 平台 RockX 和不久前被警方调查的加密交易所 BKEX 等 。https://twitter.com/lookonchain/status/16659...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665939189224062979</id>
+        <link href="https://twitter.com/wublockchain12/status/1665939189224062979"/>
+        <updated>2023-06-06T04:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Re FBG Capital 曾投资隐私计算网络 Oasis、加密 Staking 平台 RockX 和不久前被警方调查的加密交易所 BKEX 等 。https://twitter.com/lookonchain/status/1665913473753288704
+
+Lookonchain: Before the #SEC sued #Binance news reported, @FBGCapital withdrew 35M $USDT from #Binance and 9M $USDT from #OKX.
+After the #SEC sued #Binance news reported, @FBGCapital deposited all 44M $USDT to #Binance.
+@cz_binance 
+https://etherscan.io/address/0xc3f7a7ed42125d2b45bcf8ebcb9fc5657eb674cd#tokentxns https://t.co/ef4UjlXSWA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@lookonchain ，在 SEC 起诉币安的报道公布之前，FBG Capital 从币安提取了 3500 万枚 USDT，从 OKX 提取了900万枚USDT。而在 SEC 起诉币安的报道公...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1665939186602618881</id>
+        <link href="https://twitter.com/wublockchain12/status/1665939186602618881"/>
+        <updated>2023-06-06T04:30:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@lookonchain ，在 SEC 起诉币安的报道公布之前，FBG Capital 从币安提取了 3500 万枚 USDT，从 OKX 提取了900万枚USDT。而在 SEC 起诉币安的报道公布之后，FBG Capital又将 4400 万枚 USDT 全部存入币安。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 今年3月，Coinbase 已收到了 SEC 的警告，称其上市的一些潜在未注册证券可能很快会面临执法行动。（CoinDesk） https://www.coindesk.com/business/2023/06/0...]]></title>
         <id>https://twitter.com/wublockchain12/status/1665933134070956032</id>
@@ -208,7 +253,7 @@ Arthur Hayes: The market is down on some binance FUD. But regardless of the ca
         <updated>2023-06-06T01:44:49.000Z</updated>
         <summary type="html"><![CDATA[Re https://twitter.com/star_okx/status/1665888525768687617
 
-Star: OKX wallet will support account abstraction in the coming weeks. I can not wait to try it ASAP. https://twitter.com/okx/status/1665878922251190273 https://t.co/uDZG6Znx3D]]></summary>
+Star: OKX wallet will support account abstraction in the coming weeks. I can not wait to try it ASAP. https://t.co/uDZG6Znx3D]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -219,41 +264,6 @@ Star: OKX wallet will support account abstraction in the coming weeks. I can n
         <link href="https://twitter.com/wublockchain12/status/1665897493236977671"/>
         <updated>2023-06-06T01:44:47.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，徐明星表示，OKX 钱包将在未来几周内支持账户抽象（Account Abstraction）。AA 钱包使用包含自定义验证逻辑的智能合约钱包作为账户；允许不同的帐户合约使用不同的签名验证方案、不同的交易支付模式以及支持多笔交易打包在一起发送等等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1665886019034697729]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665893658372214784</id>
-        <link href="https://twitter.com/wublockchain12/status/1665893658372214784"/>
-        <updated>2023-06-06T01:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1665886019034697729
-
-Adam@Greeks.live: 受SEC起诉币安的消息影响，主要加密货币均出现大幅下跌，BTC和ETH的最大下跌幅度超过5%。
-但与此同时，期权隐含波动率并未出现明显上升，部分期限IV甚至在下降。
-最近几周大量鲸鱼在使用数亿美元的期权仓位同时做空价格和波动率，无论是价格和实际都非常好。… https://twitter.com/i/web/status/1665886019034697729 https://t.co/OnvUBFdNFS]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，受SEC起诉币安的消息影响，主要加密货币均出现大幅下跌，BTC和ETH的最大下跌幅度超过5%。但期权隐含波动率并未出现明显上升，部分...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665893654538637312</id>
-        <link href="https://twitter.com/wublockchain12/status/1665893654538637312"/>
-        <updated>2023-06-06T01:29:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，受SEC起诉币安的消息影响，主要加密货币均出现大幅下跌，BTC和ETH的最大下跌幅度超过5%。但期权隐含波动率并未出现明显上升，部分期限IV甚至在下降。最近几周大量鲸鱼在使用数亿美元的期权仓位同时做空价格和波动率。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Reginald Fowler 还将被罚没7.4亿美元，并支付价值 5300 万美元的赔偿金。 https://www.forbes.com/sites/antoniopequenoiv/2023/06/05/ex-minnesota-vikings...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1665892935752364032</id>
-        <link href="https://twitter.com/wublockchain12/status/1665892935752364032"/>
-        <updated>2023-06-06T01:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Re Reginald Fowler 还将被罚没7.4亿美元，并支付价值 5300 万美元的赔偿金。
-https://www.forbes.com/sites/antoniopequenoiv/2023/06/05/ex-minnesota-vikings-part-owner-gets-75-month-prison-sentence-for-crypto-fraud/?sh=1de52a941dd5]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -320,11 +330,11 @@ Time to go long 🚀]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good thread for long $tsla thesis]]></title>
+        <title type="html"><![CDATA[Good thread for long $tsla thesis https://twitter.com/forwardcap/status/1665716242219429894]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1665801952205185026</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1665801952205185026"/>
         <updated>2023-06-05T19:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Good thread for long $tsla thesis
+        <summary type="html"><![CDATA[Good thread for long $tsla thesis https://twitter.com/forwardcap/status/1665716242219429894
 
 Forward Cap: 1/ Ford CEO Jim Farley explains Tesla's many competitive advantages against legacy automakers
 A timeline:]]></summary>
@@ -367,12 +377,12 @@ https://medium.com/@parallaxfinance/introducing-plx-and-yplx-ba88e05ec841 https:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Hsaka: No mention of Garlichouse coin.]]></title>
+        <title type="html"><![CDATA[RT Hsaka: No mention of Garlichouse coin. https://twitter.com/SplitCapital/status/1665743397053669377]]></title>
         <id>https://twitter.com/HsakaTrades/status/1665745531145015296</id>
         <link href="https://twitter.com/HsakaTrades/status/1665745531145015296"/>
         <updated>2023-06-05T15:40:57.000Z</updated>
         <summary type="html"><![CDATA[RT Hsaka
-No mention of Garlichouse coin.
+No mention of Garlichouse coin. https://twitter.com/SplitCapital/status/1665743397053669377
 
 Zaheer: SEC claiming SOL, ADA, MATIC, FIL, ATOM, SAND etc are all securities. https://t.co/OQJvfjbmRu]]></summary>
         <author>
@@ -532,11 +542,11 @@ $1T+ getting sucked up into T bills in a short amount of time sure seems like it
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holy ratio 😂]]></title>
+        <title type="html"><![CDATA[Holy ratio 😂 https://twitter.com/peta/status/1664323464705245185]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1665474689571880962</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1665474689571880962"/>
         <updated>2023-06-04T21:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Holy ratio 😂
+        <summary type="html"><![CDATA[Holy ratio 😂 https://twitter.com/peta/status/1664323464705245185
 
 PETA: Think twice before ordering that chicken sandwich... T-Rexes wouldn't approve of you eating their descendants 👉 https://bit.ly/trexkintochicken #DinosaurDay https://t.co/GauRbTwjju]]></summary>
         <author>
@@ -807,23 +817,6 @@ https://www.argent.xyz/blog/xplorer/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[群友的七宗罪： 傲慢: 融一千万刀的项目不就是土狗吗？不值得我撸 嫉妒: 草！空投怎么没有我？归零吧 暴怒: 反撸了，日你妈！ 懒惰: 这个任务太麻烦了，不做了 ...]]></title>
-        <id>https://twitter.com/8848Community/status/1663895021836472320</id>
-        <link href="https://twitter.com/8848Community/status/1663895021836472320"/>
-        <updated>2023-05-31T13:07:41.000Z</updated>
-        <summary type="html"><![CDATA[群友的七宗罪： 
-傲慢: 融一千万刀的项目不就是土狗吗？不值得我撸
-嫉妒: 草！空投怎么没有我？归零吧
-暴怒: 反撸了，日你妈！
-懒惰: 这个任务太麻烦了，不做了
-贪婪: 做他100个号
-暴食: 还有6天就是周四了，V50我KFC
-色欲: 还有吗，多发点，爱看 https://t.co/7Dmk5CG2v7]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @AustinB95811150 Lol but it’s actually alpha tho]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663894436361764867</id>
         <link href="https://twitter.com/OnChainWizard/status/1663894436361764867"/>
@@ -1007,11 +1000,11 @@ Andromeda, which allows users to zap in and out of index vaults https://t.co/SeY
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
+        <summary type="html"><![CDATA[Twitter 好占内存
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1138,7 +1131,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
+R.I.P. https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
