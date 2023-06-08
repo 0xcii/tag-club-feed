@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T09:12:43.117Z</id>
+    <id>urn:2023-06-08T10:13:53.114Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-08T09:12:43.117Z</updated>
+    <updated>2023-06-08T10:13:53.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1080,7 +1080,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1099,12 +1099,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1199,16 +1199,6 @@ Snapshot will be taken on 16 May 23:59 UTC 👀
 Register yours before it's too late on http://xplorer.starknet.id]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BigDickBull69 0x616a8E4374D9042B9c4ED2eea34309c9C34De896]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1656059586699309056</id>
-        <link href="https://twitter.com/DeFi_educator/status/1656059586699309056"/>
-        <updated>2023-05-09T22:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @BigDickBull69 0x616a8E4374D9042B9c4ED2eea34309c9C34De896]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
