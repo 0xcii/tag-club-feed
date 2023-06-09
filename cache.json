@@ -6,9 +6,89 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1667169050466693123",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报 https://t.co/4Qw4C13gIT",
+          "link": "https://twitter.com/wublockchain12/status/1667169050466693123",
+          "publishedOn": "2023-06-09T13:57:30.000Z",
+          "wordCount": null,
+          "title": "吴说每日晚报 https://t.co/4Qw4C13gIT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667167378721873927",
+          "author": "吴说区块链",
+          "description": "Re 具体来说，这 5800 枚 BTC 均来自为被标记为 Coinbase 的钱包地址 bc1q...298v，分 1200、2545、2000 三笔转入该地址后又转入了币安。因此可能是 Glassnode 钱包标识问题，与币印无关。\nhttps://bitinfocharts.com/bitcoin/address/1Ni1bjMnq3k7QyhRCWZtgZdpnZMpFu8ACo",
+          "link": "https://twitter.com/wublockchain12/status/1667167378721873927",
+          "publishedOn": "2023-06-09T13:50:52.000Z",
+          "wordCount": null,
+          "title": "Re 具体来说，这 5800 枚 BTC 均来自为被标记为 Coinbase 的钱包地址 bc1q...298v，分 1200、2545、2000 三笔转入该地址后又转入了币安。因此可能是 Glassnode ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667166222771683328",
+          "author": "吴说区块链",
+          "description": "吴说获悉，今日 CryptoSlate 引援 Glassnode 数据称已半破产状态的币印自 5 月 30 日以来向币安发送了超 5800 枚 BTC。但根据吴说的链上查验，Glassnode 所标识的钱包或为 1Ni1...8ACo，链上行为显示该钱包地址大概率属于交易所地址，目前被 OKlink 标记为币安。\n\n吴说区块链: 吴说获悉，昨日 CoinDesk 引援 CryptoQuant 数据称已半破产状态的币印于 4 月 21 日从其主钱包中转移出 5,640 枚 BTC，但根据吴说的链上查验，CryptoQuant 所标识的钱包或为 14nr…acji，当天巨量比特币转入 Binance，但其链上行为并无法明确辨别为币印钱包。https://www.coindesk.com/business/2023/04/25/embattled-crypto-mining-and-wallet-firm-poolin-moved-150m-in-bitcoin/CryptoQuant",
+          "link": "https://twitter.com/wublockchain12/status/1667166222771683328",
+          "publishedOn": "2023-06-09T13:46:16.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，今日 CryptoSlate 引援 Glassnode 数据称已半破产状态的币印自 5 月 30 日以来向币安发送了超 5800 枚 BTC。但根据吴说的链上查验，Glassnode 所标识...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667159142145085441",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Vitalik 发布文章，称如果没有三个过渡的完成，以太坊将会失败，包括：向 L2 扩展过渡、向智能合约钱包过渡、向隐私保护过渡。Vitalik 表示，需要改进的不仅仅是协议的功能，与以太坊交互的方式需要从根本上改变，需要对应用程序和钱包进行深刻的改变。阅读全文：https://vitalik.eth.limo/general/2023/06/09/three_transitions.html",
+          "link": "https://twitter.com/wublockchain12/status/1667159142145085441",
+          "publishedOn": "2023-06-09T13:18:08.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Vitalik 发布文章，称如果没有三个过渡的完成，以太坊将会失败，包括：向 L2 扩展过渡、向智能合约钱包过渡、向隐私保护过渡。Vitalik 表示，需要改进...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667157098252341250",
+          "author": "吴说区块链",
+          "description": "Re Robinhood 目前还提供 BTC ETH LTC ETC BSV BCH DOGE SHIB COMP LINK UNI AVAX XLM USDC XTZ AAVE 的交易。",
+          "link": "https://twitter.com/wublockchain12/status/1667157098252341250",
+          "publishedOn": "2023-06-09T13:10:01.000Z",
+          "wordCount": null,
+          "title": "Re Robinhood 目前还提供 BTC ETH LTC ETC BSV BCH DOGE SHIB COMP LINK UNI AVAX XLM USDC XTZ AAVE 的交易。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667155585454993416",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Robinhood决定于北京时间6月28日6:59停止支持Cardano（ADA）、Polygon（MATIC）和Solana（SOL），这三种代币均是美国SEC近日针对 Binance 和 Coinbase 提起的诉讼中提到的。其他币种不受影响，截止日期前可正常交易或转移ADA、MATIC 和 SOL，之后Robinhood Crypto账户中的所有 ADA、MATIC 和… https://twitter.com/i/web/status/1667155585454993416\n\n吴说区块链: Robinhood 表示，本周可能会将美国证券交易委员会针对 Binance 和 Coinbase 提起的诉讼中提到的代币退市，包括 Solana、Polygon 和 Cardano。Robinhood 提供 18 种不同的代币，而在 Coinbase 上则有数百种。（彭博社）https://www.bloomberg.com/news/articles/2023-06-06/robinhood-reviews-crypto-offerings-after-regulatory-crackdown",
+          "link": "https://twitter.com/wublockchain12/status/1667155585454993416",
+          "publishedOn": "2023-06-09T13:04:00.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Robinhood决定于北京时间6月28日6:59停止支持Cardano（ADA）、Polygon（MATIC）和Solana（SOL），这三种代币均是美国SEC近日针对 Binance 和 Coinbase...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667147468218470402",
+          "author": "吴说区块链",
+          "description": "Re 而 2022 年底提起的一项集体诉讼指控比伯、麦当娜、希尔顿、哈特、库里等名人在社交媒体和电视上宣传 Bored Apes 和 MoonPay，但既没有透露他们在这些公司的经济利益，也没有透露他们是否收到了补偿 。该诉讼目前正在等待程序性裁决后推进。https://www.theblock.co/post/233594/moonpay-gave-hollywood-celebs-bored-apes-to-promote-itself?utm_source=twitter&utm_medium=social",
+          "link": "https://twitter.com/wublockchain12/status/1667147468218470402",
+          "publishedOn": "2023-06-09T12:31:45.000Z",
+          "wordCount": null,
+          "title": "Re 而 2022 年底提起的一项集体诉讼指控比伯、麦当娜、希尔顿、哈特、库里等名人在社交媒体和电视上宣传 Bored Apes 和 MoonPay，但既没有透露他们在这些公司的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667147441907597313",
+          "author": "吴说区块链",
+          "description": "据 The Block 援引知情人士消息，MoonPay 于2021年底向名人赠送 Bored Ape NFT 作为礼物，但没有期待付款以提升知名度。MoonPay 对此否认表示会发出发票，并由使用 MoonPay 礼宾服务的 VIP 客户付款，名人客户全额支付 NFT 的价格及服务费用。",
+          "link": "https://twitter.com/wublockchain12/status/1667147441907597313",
+          "publishedOn": "2023-06-09T12:31:38.000Z",
+          "wordCount": null,
+          "title": "据 The Block 援引知情人士消息，MoonPay 于2021年底向名人赠送 Bored Ape NFT 作为礼物，但没有期待付款以提升知名度。MoonPay 对此否认表示会发出发票，并由使...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1667124478135132161",
           "author": "吴说区块链",
-          "description": "Re 2021 年 5 月 V 神将 500 ETH 和超过 50 万亿 SHIB（彼时价值约 11 亿美元）捐赠给了 Crypto Relief，随后其通过 Wintermute 变现了 4.6 亿美元，后又返还了 1 亿美元给 V 神。目前 Crypto Relief 钱包地址还有 2 亿美元资产。https://platform.arkhamintelligence.com/explorer/address/0x68A99f89E475a078645f4BAC491360aFe255Dff1 & https://twitter.com/ArkhamIntel/status/1667118636618612737?s=20\n\nArkham: gm\nCrypto Relief India was the COVID fund that received $1.5B in SHIB from Vitalik Buterin.\nIn 2021, they raised over $460M from selling off the SHIB to Wintermute.\nLast night, they sent $90M to a Multisig owned by Vitalik's team to fund medical research. https://twitter.com/CryptoRelief_/status/1666858343544258560 https://t.co/CNn17xgbFh",
+          "description": "Re 2021 年 5 月 V 神将 500 ETH 和超过 50 万亿 SHIB（彼时价值约 11 亿美元）捐赠给了 Crypto Relief，随后其通过 Wintermute 变现了 4.6 亿美元，后又返还了 1 亿美元给 V 神。目前 Crypto Relief 钱包地址还有 2 亿美元资产。https://platform.arkhamintelligence.com/explorer/address/0x68A99f89E475a078645f4BAC491360aFe255Dff1 & https://twitter.com/ArkhamIntel/status/1667118636618612737?s=20\n\nArkham: gm\nCrypto Relief India was the COVID fund that received $1.5B in SHIB from Vitalik Buterin.\nIn 2021, they raised over $460M from selling off the SHIB to Wintermute.\nLast night, they sent $90M to a Multisig owned by Vitalik's team to fund medical research. https://t.co/CNn17xgbFh",
           "link": "https://twitter.com/wublockchain12/status/1667124478135132161",
           "publishedOn": "2023-06-09T11:00:23.000Z",
           "wordCount": null,
@@ -123,76 +203,6 @@
           "publishedOn": "2023-06-09T07:03:29.000Z",
           "wordCount": null,
           "title": "吴说获悉，加密资产市场监管 (MiCA)法案今日正式在欧盟官方公报 (OJEU) 上发布，标志着该法案正式通过并进入欧盟法规。与相关立法一起发布的完整法律要求加密钱...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667048926619516929",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 @OPLabsPBC 数据面板，在完成 Bedrock 升级后，Optimism DEX Trade gas 相比升级前节省 55%，NFT Mint 节省 62%，NFT Trade 节省 45%，永续合约节省 55%，ERC 20 转移节省 62%，ETH 转移节省 66%，部署中等规模合约节省 33% 等。https://dune.com/oplabspbc/optimism-bedrock-migration-impact-dashboard",
-          "link": "https://twitter.com/wublockchain12/status/1667048926619516929",
-          "publishedOn": "2023-06-09T06:00:11.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 @OPLabsPBC 数据面板，在完成 Bedrock 升级后，Optimism DEX Trade gas 相比升级前节省 55%，NFT Mint 节省 62%，NFT Trade 节省 45%，永续合约节...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667047318665953281",
-          "author": "吴说区块链",
-          "description": "Re 同时赋予美联储共和党先前法案的一些额外权力，包括在紧急情况下干预国家监管发行人的权力。各州也可以将其监管职责移交给联邦监管机构。若该法案被国会两院提出并通过，将建立美国第一个稳定币法规。（CoinDesk）https://www.coindesk.com/policy/2023/06/09/new-stablecoin-bill-drafted-by-house-republicans-as-compromise-with-democrats/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
-          "link": "https://twitter.com/wublockchain12/status/1667047318665953281",
-          "publishedOn": "2023-06-09T05:53:47.000Z",
-          "wordCount": null,
-          "title": "Re 同时赋予美联储共和党先前法案的一些额外权力，包括在紧急情况下干预国家监管发行人的权力。各州也可以将其监管职责移交给联邦监管机构。若该法案被国会两院...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667047296377421824",
-          "author": "吴说区块链",
-          "description": "美国众议院金融服务委员会共和党主席发布了稳定币监管主要立法提案的新草案，计划在 6 月 13 日的委员会听证会上进一步讨论。该草案融合了两党的部分立场，将要求美联储制定发行稳定币的要求，但仍让州监管机构监督发行代币的公司。",
-          "link": "https://twitter.com/wublockchain12/status/1667047296377421824",
-          "publishedOn": "2023-06-09T05:53:42.000Z",
-          "wordCount": null,
-          "title": "美国众议院金融服务委员会共和党主席发布了稳定币监管主要立法提案的新草案，计划在 6 月 13 日的委员会听证会上进一步讨论。该草案融合了两党的部分立场，将要...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667046752304918528",
-          "author": "吴说区块链",
-          "description": "Re 陈茂波说，区块链可以构筑开放、安全和低成本平台，香港计划引进一套合适的监管制度，促进互联网3.0和虚拟资产在香港继续有责任地发展。https://topics.caixin.com/2023-06-09/102063753.html",
-          "link": "https://twitter.com/wublockchain12/status/1667046752304918528",
-          "publishedOn": "2023-06-09T05:51:32.000Z",
-          "wordCount": null,
-          "title": "Re 陈茂波说，区块链可以构筑开放、安全和低成本平台，香港计划引进一套合适的监管制度，促进互联网3.0和虚拟资产在香港继续有责任地发展。https://topics.caixi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667046718788235264",
-          "author": "吴说区块链",
-          "description": "吴说获悉，香港特别行政区政府财政司司长陈茂波6月9日财新峰会表示，确实有部分虚拟资产服务提供者在经营上不规矩，比如经营者自己的资金和客户的资金违规混合在一起，经营者自己运作平台，同时也做庄家。“但互联网3.0的基本技术是区块链，你喜欢也好、不喜欢也好，区块链以后肯定会一直发展下去。”",
-          "link": "https://twitter.com/wublockchain12/status/1667046718788235264",
-          "publishedOn": "2023-06-09T05:51:24.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，香港特别行政区政府财政司司长陈茂波6月9日财新峰会表示，确实有部分虚拟资产服务提供者在经营上不规矩，比如经营者自己的资金和客户的资金违规混合在...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667032331805396992",
-          "author": "吴说区块链",
-          "description": "Re 受 v2 消息影响，SUDO 一度涨超 10%，但据 @rob_0x 数据面板，近 7 天 sudoswap 日均交易量为 $16,942，日均捕获费用为$85，日均用户为 39，日均交易笔数为 66，经营较为惨淡。https://dune.com/0xRob/sudoamm",
-          "link": "https://twitter.com/wublockchain12/status/1667032331805396992",
-          "publishedOn": "2023-06-09T04:54:14.000Z",
-          "wordCount": null,
-          "title": "Re 受 v2 消息影响，SUDO 一度涨超 10%，但据 @rob_0x 数据面板，近 7 天 sudoswap 日均交易量为 $16,942，日均捕获费用为$85，日均用户为 39，日均交易笔数为 6...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667008293250949128",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 @sankin_eth 的 Dune 数据面板，OKX 在 6 月 8 日执行了第 20 次 OKB 回购销毁，回购并销毁的 OKB 数量约为 550 万枚，约合 2.44 亿美元，再次创 OKB 销毁价值新高。OKX 此前表示根据季节性市场和运营业绩进行销毁，没有再透露具体销毁的规则。https://dune.com/sankin/okb-buy-back-and-burn-report",
-          "link": "https://twitter.com/wublockchain12/status/1667008293250949128",
-          "publishedOn": "2023-06-09T03:18:43.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 @sankin_eth 的 Dune 数据面板，OKX 在 6 月 8 日执行了第 20 次 OKB 回购销毁，回购并销毁的 OKB 数量约为 550 万枚，约合 2.44 亿美元，再次创 O...",
           "imageUrl": null
         }
       ]
@@ -841,16 +851,6 @@
           "publishedOn": "2023-05-30T02:18:38.000Z",
           "wordCount": null,
           "title": "RT Parallax Finance: 🤝Unveiling our next alliance that we have in our advisory board.🤝 We've joined forces with @OnChainWizard. He's a multi-fac...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1663354314063003648",
-          "author": "Onchain Wizard",
-          "description": "Re I'm excited to be working with the gifted @arndxt_xo and the rest of the @parallaxfin team, and think that this project should be a major player in the heating up LSDfi space.",
-          "link": "https://twitter.com/OnChainWizard/status/1663354314063003648",
-          "publishedOn": "2023-05-30T01:19:06.000Z",
-          "wordCount": null,
-          "title": "Re I'm excited to be working with the gifted @arndxt_xo and the rest of the @parallaxfin team, and think that this project should be a major player in...",
           "imageUrl": null
         }
       ]
