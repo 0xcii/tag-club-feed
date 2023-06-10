@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T04:15:10.629Z</id>
+    <id>urn:2023-06-10T05:12:13.992Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T04:15:10.629Z</updated>
+    <updated>2023-06-10T05:12:13.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @bishengkegs 卖了。我卖掉了我所有的一切。我拥有的每一枚硬币都不见了。我完全退出了加密货币市场，我再也受不了了。激进的倾销、操纵，一切都那么激烈。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1667394364648337411</id>
+        <link href="https://twitter.com/AntCaveClub/status/1667394364648337411"/>
+        <updated>2023-06-10T04:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @bishengkegs 卖了。我卖掉了我所有的一切。我拥有的每一枚硬币都不见了。我完全退出了加密货币市场，我再也受不了了。激进的倾销、操纵，一切都那么激烈。]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁干的 https://t.co/xV498obFGi]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1667391568469426177</id>
+        <link href="https://twitter.com/AntCaveClub/status/1667391568469426177"/>
+        <updated>2023-06-10T04:41:43.000Z</updated>
+        <summary type="html"><![CDATA[谁干的 https://t.co/xV498obFGi]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，灰度（Grayscale）向美国证券交易委员会 （SEC） 提出请求，撤回其推出 Filecoin（FIL）信托产品的申请。灰度在其撤回请求中表示，它仍然认为 FIL 不...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667376865546502145</id>
+        <link href="https://twitter.com/wublockchain12/status/1667376865546502145"/>
+        <updated>2023-06-10T03:43:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，灰度（Grayscale）向美国证券交易委员会 （SEC） 提出请求，撤回其推出 Filecoin（FIL）信托产品的申请。灰度在其撤回请求中表示，它仍然认为 FIL 不是证券。此前，SEC 在一封信中告诉 Grayscale，FIL“符合联邦证券法对证券的定义”，因此必须撤回申请。
+https://www.globenewswire.com/en/news-release/2023/06/09/2685811/0/en/Grayscale-Investments-Files-Request-for-Withdrawal-of-Voluntary-Registration-Statement-on-Form-10-for-Grayscale-Filecoin-Trust.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该矿工大约在完成 9 亿次哈希计算后，便成功挖得区块，按照当前的难度水平（51T），这个结果的发生概率大约是1/5,500。据了解，http://Solo.ckpool.org 是一...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667369137654620162</id>
+        <link href="https://twitter.com/wublockchain12/status/1667369137654620162"/>
+        <updated>2023-06-10T03:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 该矿工大约在完成 9 亿次哈希计算后，便成功挖得区块，按照当前的难度水平（51T），这个结果的发生概率大约是1/5,500。据了解，http://Solo.ckpool.org 是一个独立的矿池服务，允许矿工以独立挖矿的方式参与比特币挖矿，而不是加入传统的合作矿池。https://twitter.com/ckpooldev/status/1667282510424969219
+
+Dr. Con Kolivas: Congratulations to miner 151XTfHBfaDqoNWGGeYobNX2YzFFWuB5YD with only ~17TH for solving the 275th block at http://solo.ckpool.org! That is likely a single S9 miner. A miner of this size would only solve a block once every ~450 years on average https://explorer.btc.com/btc/block/793607]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 http://solo.ckpool.org 服务管理人 Dr. Con Kolivas 表示，一个使用其独立矿池服务的矿工今日仅以约 17TH 的算力幸运地挖出了一个区块，该矿工可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667369135452590081</id>
+        <link href="https://twitter.com/wublockchain12/status/1667369135452590081"/>
+        <updated>2023-06-10T03:12:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 http://solo.ckpool.org 服务管理人 Dr. Con Kolivas 表示，一个使用其独立矿池服务的矿工今日仅以约 17TH 的算力幸运地挖出了一个区块，该矿工可能仅是运行一台 S9 矿机，这样算力规模的矿工平均每 450 年才能挖出一个区块。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 此外，Dorsey 还授权 FTX 可临时从其客户名单中删除公司和机构投资者的名字。 https://www.reuters.com/legal/ftx-customer-names-will-not-be-revealed-by-b...]]></title>
         <id>https://twitter.com/wublockchain12/status/1667353737197932546</id>
@@ -152,6 +205,17 @@ Re @DeFiSurfer808 this video should help https://youtu.be/xvnT9tTov-E]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Mostly Peaceful Memes: Pretty much https://twitter.com/i/web/status/1667231636134699008 https://t.co/R4XsXerjQU]]></title>
+        <id>https://twitter.com/MostlyPeacefull/status/1667231636134699008</id>
+        <link href="https://twitter.com/MostlyPeacefull/status/1667231636134699008"/>
+        <updated>2023-06-09T18:06:12.000Z</updated>
+        <summary type="html"><![CDATA[RT Mostly Peaceful Memes
+Pretty much https://twitter.com/i/web/status/1667231636134699008 https://t.co/R4XsXerjQU]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Based https://twitter.com/graduatedben/status/1667185007503220737]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1667203722181591046</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1667203722181591046"/>
@@ -247,7 +311,7 @@ https://bitinfocharts.com/bitcoin/address/1Ni1bjMnq3k7QyhRCWZtgZdpnZMpFu8ACo]]><
         <id>https://twitter.com/wublockchain12/status/1667166222771683328</id>
         <link href="https://twitter.com/wublockchain12/status/1667166222771683328"/>
         <updated>2023-06-09T13:46:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，今日 CryptoSlate 引援 Glassnode 数据称已半破产状态的币印自 5 月 30 日以来向币安发送了超 5800 枚 BTC。但根据吴说的链上查验，Glassnode 所标识的钱包或为 1Ni1...8ACo，链上行为显示该钱包地址大概率属于交易所地址，目前被 OKlink 标记为币安。 https://twitter.com/wublockchain12/status/1650905865023819776
+        <summary type="html"><![CDATA[吴说获悉，今日 CryptoSlate 引援 Glassnode 数据称已半破产状态的币印自 5 月 30 日以来向币安发送了超 5800 枚 BTC。但根据吴说的链上查验，Glassnode 所标识的钱包或为 1Ni1...8ACo，链上行为显示该钱包地址大概率属于交易所地址，目前被 OKlink 标记为币安。
 
 吴说区块链: 吴说获悉，昨日 CoinDesk 引援 CryptoQuant 数据称已半破产状态的币印于 4 月 21 日从其主钱包中转移出 5,640 枚 BTC，但根据吴说的链上查验，CryptoQuant 所标识的钱包或为 14nr…acji，当天巨量比特币转入 Binance，但其链上行为并无法明确辨别为币印钱包。https://www.coindesk.com/business/2023/04/25/embattled-crypto-mining-and-wallet-firm-poolin-moved-150m-in-bitcoin/CryptoQuant]]></summary>
         <author>
@@ -308,41 +372,6 @@ June: https://t.co/1enygsgqF3]]></summary>
         <summary type="html"><![CDATA[Re @winstnn @Louround_ @ChainEDGE_io]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 而 2022 年底提起的一项集体诉讼指控比伯、麦当娜、希尔顿、哈特、库里等名人在社交媒体和电视上宣传 Bored Apes 和 MoonPay，但既没有透露他们在这些公司的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667147468218470402</id>
-        <link href="https://twitter.com/wublockchain12/status/1667147468218470402"/>
-        <updated>2023-06-09T12:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 而 2022 年底提起的一项集体诉讼指控比伯、麦当娜、希尔顿、哈特、库里等名人在社交媒体和电视上宣传 Bored Apes 和 MoonPay，但既没有透露他们在这些公司的经济利益，也没有透露他们是否收到了补偿 。该诉讼目前正在等待程序性裁决后推进。https://www.theblock.co/post/233594/moonpay-gave-hollywood-celebs-bored-apes-to-promote-itself?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 The Block 援引知情人士消息，MoonPay 于2021年底向名人赠送 Bored Ape NFT 作为礼物，但没有期待付款以提升知名度。MoonPay 对此否认表示会发出发票，并由使...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667147441907597313</id>
-        <link href="https://twitter.com/wublockchain12/status/1667147441907597313"/>
-        <updated>2023-06-09T12:31:38.000Z</updated>
-        <summary type="html"><![CDATA[据 The Block 援引知情人士消息，MoonPay 于2021年底向名人赠送 Bored Ape NFT 作为礼物，但没有期待付款以提升知名度。MoonPay 对此否认表示会发出发票，并由使用 MoonPay 礼宾服务的 VIP 客户付款，名人客户全额支付 NFT 的价格及服务费用。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2021 年 5 月 V 神将 500 ETH 和超过 50 万亿 SHIB（彼时价值约 11 亿美元）捐赠给了 Crypto Relief，随后其通过 Wintermute 变现了 4.6 亿美元，后又返还了 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667124478135132161</id>
-        <link href="https://twitter.com/wublockchain12/status/1667124478135132161"/>
-        <updated>2023-06-09T11:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 2021 年 5 月 V 神将 500 ETH 和超过 50 万亿 SHIB（彼时价值约 11 亿美元）捐赠给了 Crypto Relief，随后其通过 Wintermute 变现了 4.6 亿美元，后又返还了 1 亿美元给 V 神。目前 Crypto Relief 钱包地址还有 2 亿美元资产。https://platform.arkhamintelligence.com/explorer/address/0x68A99f89E475a078645f4BAC491360aFe255Dff1 & https://twitter.com/ArkhamIntel/status/1667118636618612737?s=20
-
-Arkham: gm
-Crypto Relief India was the COVID fund that received $1.5B in SHIB from Vitalik Buterin.
-In 2021, they raised over $460M from selling off the SHIB to Wintermute.
-Last night, they sent $90M to a Multisig owned by Vitalik's team to fund medical research. https://twitter.com/CryptoRelief_/status/1666858343544258560 https://t.co/CNn17xgbFh]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -500,17 +529,6 @@ How to get it? Read on 👇 https://t.co/kF7CfxaoVa]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Hal Press: So much hopium on the timeline. The reality is crypto is likely dead through the rest of the year. We haven't even started scratching th...]]></title>
-        <id>https://twitter.com/NorthRockLP/status/1666481958669385730</id>
-        <link href="https://twitter.com/NorthRockLP/status/1666481958669385730"/>
-        <updated>2023-06-07T16:27:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Hal Press
-So much hopium on the timeline. The reality is crypto is likely dead through the rest of the year. We haven't even started scratching the surface of the regulation that is still yet to come, we haven't absorbed 1 BTC of the supply from Gox/Gov, activity is at the lows and there… https://twitter.com/i/web/status/1666481958669385730]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在吗？ 看看4不是4 https://t.co/zGato8ohEE]]></title>
         <id>https://twitter.com/8848Community/status/1666458547939360769</id>
         <link href="https://twitter.com/8848Community/status/1666458547939360769"/>
@@ -522,11 +540,11 @@ So much hopium on the timeline. The reality is crypto is likely dead through the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963]]></title>
+        <title type="html"><![CDATA[braavos 第四周]]></title>
         <id>https://twitter.com/8848Community/status/1666446765694828546</id>
         <link href="https://twitter.com/8848Community/status/1666446765694828546"/>
         <updated>2023-06-07T14:07:24.000Z</updated>
-        <summary type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963
+        <summary type="html"><![CDATA[braavos 第四周
 
 Braavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!
 Participate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺
@@ -562,13 +580,13 @@ Hard BBACAC BCBCCB]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464]]></title>
+        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖]]></title>
         <id>https://twitter.com/8848Community/status/1666289973547659264</id>
         <link href="https://twitter.com/8848Community/status/1666289973547659264"/>
         <updated>2023-06-07T03:44:22.000Z</updated>
         <summary type="html"><![CDATA[慌不慌？
 可能也要反女巫活人验证了
-😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464
+😖😖😖
 
 Linea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.
 Please be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.
@@ -625,11 +643,11 @@ SEC 在 Coinbase 案中将 SOL、ADA、MATIC、FIL、SAND、AXS、CHZ、FLOW、I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960]]></title>
+        <title type="html"><![CDATA[bye bye]]></title>
         <id>https://twitter.com/8848Community/status/1666055278071271424</id>
         <link href="https://twitter.com/8848Community/status/1666055278071271424"/>
         <updated>2023-06-06T12:11:46.000Z</updated>
-        <summary type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960
+        <summary type="html"><![CDATA[bye bye
 
 Mint Square ⏹️ NFT marketplace for ZK-rollups: It is with a heavy heart we announce that we will end the Mint Square marketplace service on June 30.
 Buying and selling will continue to be enabled until June 30. After that trading will no longer be possible.
@@ -764,12 +782,12 @@ https://medium.com/@parallaxfinance/introducing-plx-and-yplx-ba88e05ec841 https:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504]]></title>
+        <title type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色]]></title>
         <id>https://twitter.com/8848Community/status/1665709668508004354</id>
         <link href="https://twitter.com/8848Community/status/1665709668508004354"/>
         <updated>2023-06-05T13:18:27.000Z</updated>
         <summary type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的
-可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504
+可以去他们 Discord 领个角色
 
 AVNU: Dear community!
 To start the week perfectly, we have exciting news for you 😏
@@ -845,11 +863,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -992,7 +1010,7 @@ The devs literally could not even be bothered to change the metadata for this lo
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
+We'll need his help for our LSDfi-built journey. 👇
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
@@ -1023,11 +1041,11 @@ https://twitter.com/parallaxfin/status/1651989075191115785?s=20]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存
+        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1154,7 +1172,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://t.co/nZGnR5FpEn
+R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>
