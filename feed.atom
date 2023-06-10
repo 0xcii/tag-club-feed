@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T12:22:15.042Z</id>
+    <id>urn:2023-06-10T13:13:38.410Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T12:22:15.042Z</updated>
+    <updated>2023-06-10T13:13:38.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说团队进行的数据统计显示：5 月份主要交易所的现货交易量环比下降 28%，下降至近两年最低，其中 Upbit -58%、Bitmart -48% 与 Bitfinex -41%。衍生品交易量环...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667498128105418752</id>
+        <link href="https://twitter.com/wublockchain12/status/1667498128105418752"/>
+        <updated>2023-06-10T11:45:09.000Z</updated>
+        <summary type="html"><![CDATA[吴说团队进行的数据统计显示：5 月份主要交易所的现货交易量环比下降 28%，下降至近两年最低，其中 Upbit -58%、Bitmart -48% 与 Bitfinex -41%。衍生品交易量环比下降 15.5%，其中Bybit -26%、http://Crypto.com -24% 与 Kucoin -23%。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15085 https://t.co/LM9Rhrbo9q]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I dunno lads it’s still pretty early in the summer]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1667489204291469312</id>
@@ -252,17 +262,6 @@ Cos(余弦)😶‍🌫️: 钓鱼盗比特币倒是没什么好说的，但是
         <link href="https://twitter.com/wublockchain12/status/1667390206134358016"/>
         <updated>2023-06-10T04:36:18.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，最近1小时多个被 SEC 列为证券或 Robinhood 下架的代币暴跌，MATIC 下跌 19%、SOL 下跌 17%、ADA 下跌 16%、FIL 下跌 22%、SAND 下跌 19%。1小时内爆仓金额超过 2 亿美金 。值得注意的是，一些未被列入证券的代币例如 OP SUI BSV EOS 等也出现暴跌。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，灰度（Grayscale）向美国证券交易委员会 （SEC） 提出请求，撤回其推出 Filecoin（FIL）信托产品的申请。灰度在其撤回请求中表示，它仍然认为 FIL 不...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667376865546502145</id>
-        <link href="https://twitter.com/wublockchain12/status/1667376865546502145"/>
-        <updated>2023-06-10T03:43:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，灰度（Grayscale）向美国证券交易委员会 （SEC） 提出请求，撤回其推出 Filecoin（FIL）信托产品的申请。灰度在其撤回请求中表示，它仍然认为 FIL 不是证券。此前，SEC 在一封信中告诉 Grayscale，FIL“符合联邦证券法对证券的定义”，因此必须撤回申请。
-https://www.globenewswire.com/en/news-release/2023/06/09/2685811/0/en/Grayscale-Investments-Files-Request-for-Withdrawal-of-Voluntary-Registration-Statement-on-Form-10-for-Grayscale-Filecoin-Trust.html]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -871,11 +870,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -1018,7 +1017,7 @@ The devs literally could not even be bothered to change the metadata for this lo
         <summary type="html"><![CDATA[RT Parallax Finance
 🤝Unveiling our next alliance that we have in our advisory board.🤝
 We've joined forces with @OnChainWizard. He's a multi-faceted talent with deep knowledge in on-chain analytics and a maintains an alpha-packed newsletter. 
-We'll need his help for our LSDfi-built journey. 👇 https://twitter.com/OnChainWizard/status/1663353220046151681
+We'll need his help for our LSDfi-built journey. 👇
 
 Onchain Wizard: I'm excited to announce I'll be helping out @parallaxfin with some advisory work as they gear up to launch their suite of LSDfi products.   
 A quick thread on the LSDfi opportunity and Parallax  
