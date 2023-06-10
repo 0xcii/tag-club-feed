@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T16:15:48.762Z</id>
+    <id>urn:2023-06-10T17:11:03.916Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T16:15:48.762Z</updated>
+    <updated>2023-06-10T17:11:03.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1667554966662266883]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667558361825673216</id>
+        <link href="https://twitter.com/wublockchain12/status/1667558361825673216"/>
+        <updated>2023-06-10T15:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/cz_binance/status/1667554966662266883
+
+CZ 🔶 Binance: According to our data, last 24hrs, @Binance net outflow is about $392m.
+Our wallet addresses are public. Some 3rd party analytics measure Change in AUM (asset under management) in USD equivalent as outflow. This would include crypto price drops (which decrease AUM) as "outflow".… https://twitter.com/i/web/status/1667554966662266883]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CZ 表示，过去24小时币安净流出 3.92 亿美元。他表示，有些计算只衡量流出，而不衡量流入。在像今天这样价格剧烈波动的日子里，许多套利交易者在交易...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667558159173718017</id>
+        <link href="https://twitter.com/wublockchain12/status/1667558159173718017"/>
+        <updated>2023-06-10T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CZ 表示，过去24小时币安净流出 3.92 亿美元。他表示，有些计算只衡量流出，而不衡量流入。在像今天这样价格剧烈波动的日子里，许多套利交易者在交易所之间转移大量资金，通常比平时多出几倍。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，今日 15：30 币安上 BNB/USDC 交易对 BNB 价格闪跌至 57 USDC，随后又迅速回升至正常价格水平。值得注意的是，该时段交易量仅为 541.57 枚 BNB，与正...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667557284006989825</id>
+        <link href="https://twitter.com/wublockchain12/status/1667557284006989825"/>
+        <updated>2023-06-10T15:40:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，今日 15：30 币安上 BNB/USDC 交易对 BNB 价格闪跌至 57 USDC，随后又迅速回升至正常价格水平。值得注意的是，该时段交易量仅为 541.57 枚 BNB，与正常时段相比交易量并不很高，或体现出该交易对交易深度较差。此前币安上 WBTC/BTC、ARB/TUSD交易对也发生类似情况。 https://t.co/xaXyqYwANi]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boom! Just got 2.5 Sepolia ETH from https://sepolia-faucet.pk910.de/ (Mining for 1h 59min with 435.24 H/s) #sepolia #faucet]]></title>
         <id>https://twitter.com/AntCaveClub/status/1667556287100637187</id>
@@ -227,16 +260,6 @@ Thanks for your understanding and we are sorry for any inconvenience. Please con
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，TUSD 发布公告称，暂停通过 Prime Trust 铸造 TUSD ，以等待进一步通知。Prime Trust 是一家为包括 Swan、Abra 和 Okcoin 在内的加密货币公司构建加密...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667402144423747584</id>
-        <link href="https://twitter.com/wublockchain12/status/1667402144423747584"/>
-        <updated>2023-06-10T05:23:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，TUSD 发布公告称，暂停通过 Prime Trust 铸造 TUSD ，以等待进一步通知。Prime Trust 是一家为包括 Swan、Abra 和 Okcoin 在内的加密货币公司构建加密货币和法币支付、托管和监管服务的加密货币服务公司，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这个游戏 到底谁在赢啊 https://t.co/8FO8cbMsNf]]></title>
         <id>https://twitter.com/8848Community/status/1667399466322894849</id>
         <link href="https://twitter.com/8848Community/status/1667399466322894849"/>
@@ -245,26 +268,6 @@ Thanks for your understanding and we are sorry for any inconvenience. Please con
 到底谁在赢啊 https://t.co/8FO8cbMsNf]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 当 ETH 跌至 $1,681，将有超过 2600 万美元 ETH 担保物面临清算；当 BTC 跌至 $23,194，将有超过 2400 万美元 WBTC 担保物面临清算。https://app.parsec.fina...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667398055229022208</id>
-        <link href="https://twitter.com/wublockchain12/status/1667398055229022208"/>
-        <updated>2023-06-10T05:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Re 当 ETH 跌至 $1,681，将有超过 2600 万美元 ETH 担保物面临清算；当 BTC 跌至 $23,194，将有超过 2400 万美元 WBTC 担保物面临清算。https://app.parsec.finance/dashboard & https://defillama.com/liquidations/eth]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 parsec 数据，当前本日 DeFi 链上清算量已超过 1100 万美元，为自今年 5 月 12 日以来高点，其中 LINK 清算量达 395 万美元，USDC 达 204 万美元，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667398052737589248</id>
-        <link href="https://twitter.com/wublockchain12/status/1667398052737589248"/>
-        <updated>2023-06-10T05:07:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 parsec 数据，当前本日 DeFi 链上清算量已超过 1100 万美元，为自今年 5 月 12 日以来高点，其中 LINK 清算量达 395 万美元，USDC 达 204 万美元，AVAX 达 175 万美元，FXS 达 134 万美元等。DeFiLlama 数据显示，当 ETH 跌至 $1,753，将有 8350 万美元 stETH 担保物面临清算；]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -350,11 +353,11 @@ Pretty much https://twitter.com/i/web/status/1667231636134699008 https://t.co/R4
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Based]]></title>
+        <title type="html"><![CDATA[Based https://twitter.com/graduatedben/status/1667185007503220737]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1667203722181591046</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1667203722181591046"/>
         <updated>2023-06-09T16:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Based
+        <summary type="html"><![CDATA[Based https://twitter.com/graduatedben/status/1667185007503220737
 
 Dr. Benjamin Braddock: Swedish PM: “Mass immigration doesn’t work…they have to go back.”
 Announces a set of policies that will make Sweden the strictest nation-state in the EU on immigration. 
@@ -372,7 +375,7 @@ https://www.aftonbladet.se/debatt/a/wA5gkd/kristersson-tre-saker-kravs-for-att-s
 https://twitter.com/i/web/status/1667203583765544965 https://t.co/PT6xzfZ11h
 
 
-Cem Karsan 🥐: https://t.co/wqMrjKtyUS]]></summary>
+Cem Karsan 🥐: https://twitter.com/carlquintanilla/status/1667142217864036354 https://t.co/wqMrjKtyUS]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
@@ -446,11 +449,11 @@ June: https://t.co/1enygsgqF3]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Barron’s a contra or na]]></title>
+        <title type="html"><![CDATA[Is Barron’s a contra or na https://twitter.com/carlquintanilla/status/1666833422206005248]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1666983279810039808</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1666983279810039808"/>
         <updated>2023-06-09T01:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Is Barron’s a contra or na
+        <summary type="html"><![CDATA[Is Barron’s a contra or na https://twitter.com/carlquintanilla/status/1666833422206005248
 
 Carl Quintanilla: BARRON’S: “Investors are positioned for the worst .. The only problem: They may be positioned for a bear market that already occurred. And the higher the $SPX goes .. the more likely it is that bearish investors will have to start buying..”
 @barronsonline
@@ -1146,7 +1149,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1165,12 +1168,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger
+@Ledger https://twitter.com/k06a/status/1658375564154089478
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
