@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1667872248685015040",
+          "author": "吴说区块链",
+          "description": "Re 同时，以太坊储备也一直在稳步下降，加密交易所中约 56% 的以太坊是被美国境外机构持有的。比特币在美国的现货交易量主导地位已低于2017 年的水平，目前为 21%。https://cryptopotato.com/over-50-of-btc-on-exchanges-have-moved-outside-the-us-due-to-regulatory-uncertainty-data/",
+          "link": "https://twitter.com/wublockchain12/status/1667872248685015040",
+          "publishedOn": "2023-06-11T12:31:46.000Z",
+          "wordCount": null,
+          "title": "Re 同时，以太坊储备也一直在稳步下降，加密交易所中约 56% 的以太坊是被美国境外机构持有的。比特币在美国的现货交易量主导地位已低于2017 年的水平，目前为 21...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667872246222958593",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 CryptoPotato 引用 CryptoQuant 报告，美国加密交易所的比特币储备已降至 2017 年水平。由于美国法规不明确，加密公司为了保护客户资产，将超过一半的比特币转移到离岸和国际交易所。",
+          "link": "https://twitter.com/wublockchain12/status/1667872246222958593",
+          "publishedOn": "2023-06-11T12:31:45.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 CryptoPotato 引用 CryptoQuant 报告，美国加密交易所的比特币储备已降至 2017 年水平。由于美国法规不明确，加密公司为了保护客户资产，将超过一...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1667839096629379073",
           "author": "吴说区块链",
           "description": "Re 攻击者于 6 月 7 日在 GovernorBravo 合约中创建了一个恶意的治理提案，将多个 ABep20Delegator 合约的管理员设置为恶意合约，然后通过了该提案。https://twitter.com/BeosinAlert/status/1667790289946435584\n\nBeosin Alert: ⚠️Atlantis Loans was under a governance attack for ~$1M. \nThe attacker gained control over the contract and replaced with a contract containing backdoor function to transfer tokens approved by users. \nAttacker:\nhttps://bscscan.com/address/0xEADe071FF23bceF312deC938eCE29f7da62CF45b",
@@ -183,26 +203,6 @@
           "publishedOn": "2023-06-11T02:20:46.000Z",
           "wordCount": null,
           "title": "吴说获悉，加密矿企 TeraWulf 公布了 5 月份生产和运营情况更新。5 月自挖 323 枚比特币，平均每天产出 10.4 枚比特币，产出单枚比特币平均电力成本为 6200 美元...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667715051543990273",
-          "author": "吴说区块链",
-          "description": "香港立法委员吴庄杰接受链捕手采访时表示香港的 Web3 行业起码缺 5~10 万人；有国际视野、熟悉法律法规、同时又懂 Web3 的人才绝对是稀缺的；希望未来三年孵化 1000 家 Web3 企业。阅读全文：https://www.chaincatcher.com/article/2094490",
-          "link": "https://twitter.com/wublockchain12/status/1667715051543990273",
-          "publishedOn": "2023-06-11T02:07:07.000Z",
-          "wordCount": null,
-          "title": "香港立法委员吴庄杰接受链捕手采访时表示香港的 Web3 行业起码缺 5~10 万人；有国际视野、熟悉法律法规、同时又懂 Web3 的人才绝对是稀缺的；希望未来三年孵化 1...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667713002001539072",
-          "author": "吴说区块链",
-          "description": "Re https://data.chain.link/ethereum/mainnet/crypto-usd/tusd-usd",
-          "link": "https://twitter.com/wublockchain12/status/1667713002001539072",
-          "publishedOn": "2023-06-11T01:58:58.000Z",
-          "wordCount": null,
-          "title": "Re https://data.chain.link/ethereum/mainnet/crypto-usd/tusd-usd",
           "imageUrl": null
         }
       ]
