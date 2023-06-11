@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T11:10:18.316Z</id>
+    <id>urn:2023-06-11T12:23:30.281Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-11T11:10:18.316Z</updated>
+    <updated>2023-06-11T12:23:30.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/mikeburgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[Re 攻击者于 6 月 7 日在 GovernorBravo 合约中创建了一个恶意的治理提案，将多个 ABep20Delegator 合约的管理员设置为恶意合约，然后通过了该提案。https://twi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667839096629379073</id>
+        <link href="https://twitter.com/wublockchain12/status/1667839096629379073"/>
+        <updated>2023-06-11T10:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 攻击者于 6 月 7 日在 GovernorBravo 合约中创建了一个恶意的治理提案，将多个 ABep20Delegator 合约的管理员设置为恶意合约，然后通过了该提案。https://twitter.com/BeosinAlert/status/1667790289946435584
+
+Beosin Alert: ⚠️Atlantis Loans was under a governance attack for ~$1M. 
+The attacker gained control over the contract and replaced with a contract containing backdoor function to transfer tokens approved by users. 
+Attacker:
+https://bscscan.com/address/0xEADe071FF23bceF312deC938eCE29f7da62CF45b]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@BeosinAlert，BSC 生态协议 Atlantis Loans 遭受了一次价值约 100 万美元的治理攻击。攻击者控制了合约，并替换成了一个包含后门功能的合约，用于...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667839092900642816</id>
+        <link href="https://twitter.com/wublockchain12/status/1667839092900642816"/>
+        <updated>2023-06-11T10:20:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@BeosinAlert，BSC 生态协议 Atlantis Loans 遭受了一次价值约 100 万美元的治理攻击。攻击者控制了合约，并替换成了一个包含后门功能的合约，用于转移用户批准的代币。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/mikeburgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Nansen 数据，在经历 SEC 诉讼的动荡一周，近 7 天，Binance 多链资产（不含 Bitcoin）净流出为 23.5 亿美元，Binance US 净流出为 1.12 亿美元，C...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667822945417457664</id>
+        <link href="https://twitter.com/wublockchain12/status/1667822945417457664"/>
+        <updated>2023-06-11T09:15:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Nansen 数据，在经历 SEC 诉讼的动荡一周，近 7 天，Binance 多链资产（不含 Bitcoin）净流出为 23.5 亿美元，Binance US 净流出为 1.12 亿美元，Coinbase 净流出为 17.8 亿美元，其中 Coinbase Custody 净流出为 7.38 亿美元。https://pro.nansen.ai/exchange-flows?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 http://Bitcoin.com，SEC 互联网执法办公室创始人和前负责人 John Reed Stark 警告称，加密交易平台正在经历美国监管/执法的围攻，而这只是刚刚开...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1667819500606218241</id>
+        <link href="https://twitter.com/wublockchain12/status/1667819500606218241"/>
+        <updated>2023-06-11T09:02:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 http://Bitcoin.com，SEC 互联网执法办公室创始人和前负责人 John Reed Stark 警告称，加密交易平台正在经历美国监管/执法的围攻，而这只是刚刚开始，建议投资者立即退出加密交易所。交易所未在 SEC 注册，这限制了该机构保护加密投资者的能力。https://news.bitcoin.com/founder-of-sec-office-of-internet-enforcement-warns-of-upcoming-regulatory-siege-get-out-of-crypto-platforms-now/]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -190,47 +235,6 @@ Polygon (Labs): We are proud of the history of the Polygon network – develop
         <link href="https://twitter.com/wublockchain12/status/1667713002001539072"/>
         <updated>2023-06-11T01:58:58.000Z</updated>
         <summary type="html"><![CDATA[Re https://data.chain.link/ethereum/mainnet/crypto-usd/tusd-usd]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Chainlink 数据显示，当前 TUSD/USD 价格为 $0.996，有轻微脱钩；Binance TUSD/USDT 曾一度跌至 $0.9906，近 24 小时交易达 3.6 亿美元。昨日TUSD 发布公告称...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667712999287832576</id>
-        <link href="https://twitter.com/wublockchain12/status/1667712999287832576"/>
-        <updated>2023-06-11T01:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Re Chainlink 数据显示，当前 TUSD/USD 价格为 $0.996，有轻微脱钩；Binance TUSD/USDT 曾一度跌至 $0.9906，近 24 小时交易达 3.6 亿美元。昨日TUSD 发布公告称暂停通过 Prime Trust 铸造TUSD。H/T：@0xhiger
-https://curve.fi/#/ethereum/pools/tusd/deposit]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，当前 Curve 上 TVL 为 1550 万美元的tusd（usd） pool 发生倾斜，TUSD 占比高达 81%，USDT 占比最小，用户更亲睐于将 TUSD 兑换成以 USDT 为主的稳定...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667712996779659264</id>
-        <link href="https://twitter.com/wublockchain12/status/1667712996779659264"/>
-        <updated>2023-06-11T01:58:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，当前 Curve 上 TVL 为 1550 万美元的tusd（usd） pool 发生倾斜，TUSD 占比高达 81%，USDT 占比最小，用户更亲睐于将 TUSD 兑换成以 USDT 为主的稳定币，该 tusd pool 近 24 小时交易量达 1220 万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 尽管不愿将 Coinbase 与币安进行比较，但本人和 Coinbase 的管理层成员并未受到起诉。长期以来，Coinbase 与美国证券交易委员会主席 Gary Gensler 之间的关系...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667698539189903360</id>
-        <link href="https://twitter.com/wublockchain12/status/1667698539189903360"/>
-        <updated>2023-06-11T01:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 尽管不愿将 Coinbase 与币安进行比较，但本人和 Coinbase 的管理层成员并未受到起诉。长期以来，Coinbase 与美国证券交易委员会主席 Gary Gensler 之间的关系一直紧张，但与其他监管机构的合作没有问题。https://www.youtube.com/watch?v=ZjLGyWsgbTA]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据华尔街日报，Coinbase 首席执行官 Brian Armstrong 在接受采访时表示，比特币和以太坊的交易费用是公司主要的收入来源，但还有 50% 的收入来自非交...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1667698534387429376</id>
-        <link href="https://twitter.com/wublockchain12/status/1667698534387429376"/>
-        <updated>2023-06-11T01:01:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据华尔街日报，Coinbase 首席执行官 Brian Armstrong 在接受采访时表示，比特币和以太坊的交易费用是公司主要的收入来源，但还有 50% 的收入来自非交易费用，并且公司在美国之外也有收入来源。Coinbase 是一家在美国成立的公司，他们不会放弃美国市场。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -607,11 +611,11 @@ How to get it? Read on 👇 https://t.co/kF7CfxaoVa]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[braavos 第四周]]></title>
+        <title type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963]]></title>
         <id>https://twitter.com/8848Community/status/1666446765694828546</id>
         <link href="https://twitter.com/8848Community/status/1666446765694828546"/>
         <updated>2023-06-07T14:07:24.000Z</updated>
-        <summary type="html"><![CDATA[braavos 第四周
+        <summary type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963
 
 Braavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!
 Participate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺
@@ -647,13 +651,13 @@ Hard BBACAC BCBCCB]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖]]></title>
+        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464]]></title>
         <id>https://twitter.com/8848Community/status/1666289973547659264</id>
         <link href="https://twitter.com/8848Community/status/1666289973547659264"/>
         <updated>2023-06-07T03:44:22.000Z</updated>
         <summary type="html"><![CDATA[慌不慌？
 可能也要反女巫活人验证了
-😖😖😖
+😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464
 
 Linea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.
 Please be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.
@@ -710,11 +714,11 @@ SEC 在 Coinbase 案中将 SOL、ADA、MATIC、FIL、SAND、AXS、CHZ、FLOW、I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bye bye]]></title>
+        <title type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960]]></title>
         <id>https://twitter.com/8848Community/status/1666055278071271424</id>
         <link href="https://twitter.com/8848Community/status/1666055278071271424"/>
         <updated>2023-06-06T12:11:46.000Z</updated>
-        <summary type="html"><![CDATA[bye bye
+        <summary type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960
 
 Mint Square ⏹️ NFT marketplace for ZK-rollups: It is with a heavy heart we announce that we will end the Mint Square marketplace service on June 30.
 Buying and selling will continue to be enabled until June 30. After that trading will no longer be possible.
@@ -849,12 +853,12 @@ https://medium.com/@parallaxfinance/introducing-plx-and-yplx-ba88e05ec841 https:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色]]></title>
+        <title type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504]]></title>
         <id>https://twitter.com/8848Community/status/1665709668508004354</id>
         <link href="https://twitter.com/8848Community/status/1665709668508004354"/>
         <updated>2023-06-05T13:18:27.000Z</updated>
         <summary type="html"><![CDATA[如果之前有 AVNU 早期采用者 NFT 的
-可以去他们 Discord 领个角色
+可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504
 
 AVNU: Dear community!
 To start the week perfectly, we have exciting news for you 😏
@@ -1069,11 +1073,11 @@ The devs literally could not even be bothered to change the metadata for this lo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存
+        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
@@ -1146,7 +1150,7 @@ You might be surprised to hear that the average internet user is missing out on 
         <link href="https://twitter.com/econoalchemist/status/1658482272293781507"/>
         <updated>2023-05-16T14:39:21.000Z</updated>
         <summary type="html"><![CDATA[RT burn the bridge
-1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282
+1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.
 
 Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover 
 🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK]]></summary>
@@ -1165,12 +1169,12 @@ Ledger: Exciting update, Ledger has a new product, Ledger Recover, that’s la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478]]></title>
+        <title type="html"><![CDATA[That’s it. Game over. @Ledger]]></title>
         <id>https://twitter.com/DeFi_educator/status/1658418645922463745</id>
         <link href="https://twitter.com/DeFi_educator/status/1658418645922463745"/>
         <updated>2023-05-16T10:26:31.000Z</updated>
         <summary type="html"><![CDATA[That’s it. Game over. 
-@Ledger https://twitter.com/k06a/status/1658375564154089478
+@Ledger
 
 Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ]]></summary>
         <author>
@@ -1200,7 +1204,7 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
 他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://t.co/nZGnR5FpEn
+R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
 
 
 Fenng: 听到一个意外消息，希望不是真的。]]></summary>

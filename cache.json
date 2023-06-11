@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1667839096629379073",
+          "author": "吴说区块链",
+          "description": "Re 攻击者于 6 月 7 日在 GovernorBravo 合约中创建了一个恶意的治理提案，将多个 ABep20Delegator 合约的管理员设置为恶意合约，然后通过了该提案。https://twitter.com/BeosinAlert/status/1667790289946435584\n\nBeosin Alert: ⚠️Atlantis Loans was under a governance attack for ~$1M. \nThe attacker gained control over the contract and replaced with a contract containing backdoor function to transfer tokens approved by users. \nAttacker:\nhttps://bscscan.com/address/0xEADe071FF23bceF312deC938eCE29f7da62CF45b",
+          "link": "https://twitter.com/wublockchain12/status/1667839096629379073",
+          "publishedOn": "2023-06-11T10:20:02.000Z",
+          "wordCount": null,
+          "title": "Re 攻击者于 6 月 7 日在 GovernorBravo 合约中创建了一个恶意的治理提案，将多个 ABep20Delegator 合约的管理员设置为恶意合约，然后通过了该提案。https://twi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667839092900642816",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据@BeosinAlert，BSC 生态协议 Atlantis Loans 遭受了一次价值约 100 万美元的治理攻击。攻击者控制了合约，并替换成了一个包含后门功能的合约，用于转移用户批准的代币。",
+          "link": "https://twitter.com/wublockchain12/status/1667839092900642816",
+          "publishedOn": "2023-06-11T10:20:01.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据@BeosinAlert，BSC 生态协议 Atlantis Loans 遭受了一次价值约 100 万美元的治理攻击。攻击者控制了合约，并替换成了一个包含后门功能的合约，用于...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667822945417457664",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Nansen 数据，在经历 SEC 诉讼的动荡一周，近 7 天，Binance 多链资产（不含 Bitcoin）净流出为 23.5 亿美元，Binance US 净流出为 1.12 亿美元，Coinbase 净流出为 17.8 亿美元，其中 Coinbase Custody 净流出为 7.38 亿美元。https://pro.nansen.ai/exchange-flows?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23",
+          "link": "https://twitter.com/wublockchain12/status/1667822945417457664",
+          "publishedOn": "2023-06-11T09:15:51.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Nansen 数据，在经历 SEC 诉讼的动荡一周，近 7 天，Binance 多链资产（不含 Bitcoin）净流出为 23.5 亿美元，Binance US 净流出为 1.12 亿美元，C...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1667819500606218241",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 http://Bitcoin.com，SEC 互联网执法办公室创始人和前负责人 John Reed Stark 警告称，加密交易平台正在经历美国监管/执法的围攻，而这只是刚刚开始，建议投资者立即退出加密交易所。交易所未在 SEC 注册，这限制了该机构保护加密投资者的能力。https://news.bitcoin.com/founder-of-sec-office-of-internet-enforcement-warns-of-upcoming-regulatory-siege-get-out-of-crypto-platforms-now/",
+          "link": "https://twitter.com/wublockchain12/status/1667819500606218241",
+          "publishedOn": "2023-06-11T09:02:10.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 http://Bitcoin.com，SEC 互联网执法办公室创始人和前负责人 John Reed Stark 警告称，加密交易平台正在经历美国监管/执法的围攻，而这只是刚刚开...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1667813234227957760",
           "author": "吴说区块链",
           "description": "一周热门项目动态: Optimism 完成 Bedrock 升级、坎昆升级 EIP 列表确定、Curve 创始人被指控欺诈等（0604-0610）\nhttps://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15100",
@@ -164,46 +204,6 @@
           "wordCount": null,
           "title": "Re https://data.chain.link/ethereum/mainnet/crypto-usd/tusd-usd",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667712999287832576",
-          "author": "吴说区块链",
-          "description": "Re Chainlink 数据显示，当前 TUSD/USD 价格为 $0.996，有轻微脱钩；Binance TUSD/USDT 曾一度跌至 $0.9906，近 24 小时交易达 3.6 亿美元。昨日TUSD 发布公告称暂停通过 Prime Trust 铸造TUSD。H/T：@0xhiger\nhttps://curve.fi/#/ethereum/pools/tusd/deposit",
-          "link": "https://twitter.com/wublockchain12/status/1667712999287832576",
-          "publishedOn": "2023-06-11T01:58:58.000Z",
-          "wordCount": null,
-          "title": "Re Chainlink 数据显示，当前 TUSD/USD 价格为 $0.996，有轻微脱钩；Binance TUSD/USDT 曾一度跌至 $0.9906，近 24 小时交易达 3.6 亿美元。昨日TUSD 发布公告称...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667712996779659264",
-          "author": "吴说区块链",
-          "description": "吴说获悉，当前 Curve 上 TVL 为 1550 万美元的tusd（usd） pool 发生倾斜，TUSD 占比高达 81%，USDT 占比最小，用户更亲睐于将 TUSD 兑换成以 USDT 为主的稳定币，该 tusd pool 近 24 小时交易量达 1220 万美元。",
-          "link": "https://twitter.com/wublockchain12/status/1667712996779659264",
-          "publishedOn": "2023-06-11T01:58:57.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，当前 Curve 上 TVL 为 1550 万美元的tusd（usd） pool 发生倾斜，TUSD 占比高达 81%，USDT 占比最小，用户更亲睐于将 TUSD 兑换成以 USDT 为主的稳定...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667698539189903360",
-          "author": "吴说区块链",
-          "description": "Re 尽管不愿将 Coinbase 与币安进行比较，但本人和 Coinbase 的管理层成员并未受到起诉。长期以来，Coinbase 与美国证券交易委员会主席 Gary Gensler 之间的关系一直紧张，但与其他监管机构的合作没有问题。https://www.youtube.com/watch?v=ZjLGyWsgbTA",
-          "link": "https://twitter.com/wublockchain12/status/1667698539189903360",
-          "publishedOn": "2023-06-11T01:01:30.000Z",
-          "wordCount": null,
-          "title": "Re 尽管不愿将 Coinbase 与币安进行比较，但本人和 Coinbase 的管理层成员并未受到起诉。长期以来，Coinbase 与美国证券交易委员会主席 Gary Gensler 之间的关系...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1667698534387429376",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据华尔街日报，Coinbase 首席执行官 Brian Armstrong 在接受采访时表示，比特币和以太坊的交易费用是公司主要的收入来源，但还有 50% 的收入来自非交易费用，并且公司在美国之外也有收入来源。Coinbase 是一家在美国成立的公司，他们不会放弃美国市场。",
-          "link": "https://twitter.com/wublockchain12/status/1667698534387429376",
-          "publishedOn": "2023-06-11T01:01:29.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据华尔街日报，Coinbase 首席执行官 Brian Armstrong 在接受采访时表示，比特币和以太坊的交易费用是公司主要的收入来源，但还有 50% 的收入来自非交...",
-          "imageUrl": null
         }
       ]
     },
@@ -255,11 +255,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1666446765694828546",
           "author": "8848 社区（8848 Community）",
-          "description": "braavos 第四周\n\nBraavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!\nParticipate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺\nYour mission is to set up a domain such as '.braavos.stark' on your account.\nTo claim, visit https://starknet-journey-map.braavos.app/\nHere is your guide!👇 https://t.co/6jnH5v4pra",
+          "description": "braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963\n\nBraavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!\nParticipate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺\nYour mission is to set up a domain such as '.braavos.stark' on your account.\nTo claim, visit https://starknet-journey-map.braavos.app/\nHere is your guide!👇 https://t.co/6jnH5v4pra",
           "link": "https://twitter.com/8848Community/status/1666446765694828546",
           "publishedOn": "2023-06-07T14:07:24.000Z",
           "wordCount": null,
-          "title": "braavos 第四周",
+          "title": "braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963",
           "imageUrl": null
         },
         {
@@ -285,11 +285,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1666289973547659264",
           "author": "8848 社区（8848 Community）",
-          "description": "慌不慌？\n可能也要反女巫活人验证了\n😖😖😖\n\nLinea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.\nPlease be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.\nThe human verification that will be rolled out soon will be… https://twitter.com/i/web/status/1666204769617342464",
+          "description": "慌不慌？\n可能也要反女巫活人验证了\n😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464\n\nLinea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.\nPlease be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.\nThe human verification that will be rolled out soon will be… https://twitter.com/i/web/status/1666204769617342464",
           "link": "https://twitter.com/8848Community/status/1666289973547659264",
           "publishedOn": "2023-06-07T03:44:22.000Z",
           "wordCount": null,
-          "title": "慌不慌？ 可能也要反女巫活人验证了 😖😖😖",
+          "title": "慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464",
           "imageUrl": null
         },
         {
@@ -325,11 +325,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1666055278071271424",
           "author": "8848 社区（8848 Community）",
-          "description": "bye bye\n\nMint Square ⏹️ NFT marketplace for ZK-rollups: It is with a heavy heart we announce that we will end the Mint Square marketplace service on June 30.\nBuying and selling will continue to be enabled until June 30. After that trading will no longer be possible.\nWe'd like to thank everyone for your support throughout this time🙏",
+          "description": "bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960\n\nMint Square ⏹️ NFT marketplace for ZK-rollups: It is with a heavy heart we announce that we will end the Mint Square marketplace service on June 30.\nBuying and selling will continue to be enabled until June 30. After that trading will no longer be possible.\nWe'd like to thank everyone for your support throughout this time🙏",
           "link": "https://twitter.com/8848Community/status/1666055278071271424",
           "publishedOn": "2023-06-06T12:11:46.000Z",
           "wordCount": null,
-          "title": "bye bye",
+          "title": "bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960",
           "imageUrl": null
         },
         {
@@ -395,11 +395,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1665709668508004354",
           "author": "8848 社区（8848 Community）",
-          "description": "如果之前有 AVNU 早期采用者 NFT 的\n可以去他们 Discord 领个角色\n\nAVNU: Dear community!\nTo start the week perfectly, we have exciting news for you 😏\nIf you own the AVNU Early Adopter NFT, you are eligible for two gifts:\n➡️ An exclusive Discord role (part of a larger community campaign)\n➡️ An NFT on the Mainnet\nJoin us on Discord to learn more! https://t.co/Dkj5y9JLoL",
+          "description": "如果之前有 AVNU 早期采用者 NFT 的\n可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504\n\nAVNU: Dear community!\nTo start the week perfectly, we have exciting news for you 😏\nIf you own the AVNU Early Adopter NFT, you are eligible for two gifts:\n➡️ An exclusive Discord role (part of a larger community campaign)\n➡️ An NFT on the Mainnet\nJoin us on Discord to learn more! https://t.co/Dkj5y9JLoL",
           "link": "https://twitter.com/8848Community/status/1665709668508004354",
           "publishedOn": "2023-06-05T13:18:27.000Z",
           "wordCount": null,
-          "title": "如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色",
+          "title": "如果之前有 AVNU 早期采用者 NFT 的 可以去他们 Discord 领个角色 https://twitter.com/avnu_fi/status/1665689982923669504",
           "imageUrl": null
         },
         {
@@ -502,11 +502,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1663157549850578945",
           "author": "链求君 | (C,C)",
-          "description": "Twitter 好占内存\n\nElon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt",
+          "description": "Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472\n\nElon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt",
           "link": "https://twitter.com/AntCaveClub/status/1663157549850578945",
           "publishedOn": "2023-05-29T12:17:14.000Z",
           "wordCount": null,
-          "title": "Twitter 好占内存",
+          "title": "Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472",
           "imageUrl": null
         },
         {
@@ -562,7 +562,7 @@
         {
           "id": "https://twitter.com/ghosTM55/status/1657946836643241985",
           "author": "链求君 | (C,C)",
-          "description": "RT Thomas Yao\n经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世\n陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献\n他一生有很多成就，而我愿意最后以一起打游戏的好友记住他\nR.I.P. https://t.co/nZGnR5FpEn\n\n\nFenng: 听到一个意外消息，希望不是真的。",
+          "description": "RT Thomas Yao\n经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世\n陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献\n他一生有很多成就，而我愿意最后以一起打游戏的好友记住他\nR.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn\n\n\nFenng: 听到一个意外消息，希望不是真的。",
           "link": "https://twitter.com/ghosTM55/status/1657946836643241985",
           "publishedOn": "2023-05-15T03:11:43.000Z",
           "wordCount": null,
@@ -619,11 +619,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1667826525494755329",
           "author": "DeFi Educator",
-          "description": "https://twitter.com/mikeburgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C\n\n\nDIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.\nHOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy",
+          "description": "https://t.co/BtM5Q9Hs8C\n\n\nDIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.\nHOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy",
           "link": "https://twitter.com/DeFi_educator/status/1667826525494755329",
           "publishedOn": "2023-06-11T09:30:05.000Z",
           "wordCount": null,
-          "title": "https://twitter.com/mikeburgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C",
+          "title": "https://t.co/BtM5Q9Hs8C",
           "imageUrl": null
         },
         {
@@ -679,7 +679,7 @@
         {
           "id": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "author": "DeFi Educator",
-          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address. https://twitter.com/Ledger/status/1658458714771169282\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
+          "description": "RT burn the bridge\n1/5 Ledger offers new private key backup service that requires KYC documents. Bold move for a company that neglected to secure over 1 million customer records including full name, phone #, email, & physical address.\n\nLedger: Exciting update, Ledger has a new product, Ledger Recover, that’s launching soon: https://www.ledger.com/recover \n🧵Here’s what Ledger Recover is and what it isn’t, explained by @P3b7_ & in the thread below. https://t.co/RW1w07H6pK",
           "link": "https://twitter.com/econoalchemist/status/1658482272293781507",
           "publishedOn": "2023-05-16T14:39:21.000Z",
           "wordCount": null,
@@ -699,11 +699,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "author": "DeFi Educator",
-          "description": "That’s it. Game over. \n@Ledger https://twitter.com/k06a/status/1658375564154089478\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
+          "description": "That’s it. Game over. \n@Ledger\n\nAnton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet security assumption that “it should have no API to expose seed phrase (private key)” https://t.co/H31NHShhyZ",
           "link": "https://twitter.com/DeFi_educator/status/1658418645922463745",
           "publishedOn": "2023-05-16T10:26:31.000Z",
           "wordCount": null,
-          "title": "That’s it. Game over. @Ledger https://twitter.com/k06a/status/1658375564154089478",
+          "title": "That’s it. Game over. @Ledger",
           "imageUrl": null
         },
         {
