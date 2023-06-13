@@ -1,173 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T14:11:46.694Z</id>
+    <id>urn:2023-06-13T15:13:00.740Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-13T14:11:46.694Z</updated>
+    <updated>2023-06-13T15:13:00.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 makerburn 数据，当前 MakerDAO 年化收入达 9500 万美元，创下自 2022 年 2 月中旬以来高点，对比年初增长 147%，主要原因是 MakerDAO 利用 PSM US...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668615702952173569</id>
-        <link href="https://twitter.com/wublockchain12/status/1668615702952173569"/>
-        <updated>2023-06-13T13:45:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 makerburn 数据，当前 MakerDAO 年化收入达 9500 万美元，创下自 2022 年 2 月中旬以来高点，对比年初增长 147%，主要原因是 MakerDAO 利用 PSM USDC 购买更多的美国国债，并从中获得利息收益。H/T：@0xngmi https://makerburn.com/?continueFlag=22783de146e77a59faa4664ef13ba7a0#/charts/revenue]]></summary>
+        <title type="html"><![CDATA[Re @xcurveth Wtf man]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1668635746876502016</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1668635746876502016"/>
+        <updated>2023-06-13T15:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @xcurveth Wtf man]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/PtmcBUvc5J]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668615037819428864</id>
-        <link href="https://twitter.com/wublockchain12/status/1668615037819428864"/>
-        <updated>2023-06-13T13:43:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/PtmcBUvc5J]]></summary>
+        <title type="html"><![CDATA[Interesting reaction by crypto to today’s cpi print.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1668622294141517830</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1668622294141517830"/>
+        <updated>2023-06-13T14:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Interesting reaction by crypto to today’s cpi print.]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 在5月 CPI 公布后，CME 显示一天之后的美联储利率决定有 93.1% 概率为不加息。数据显示通胀下降原因是当月能源价格大幅下跌 3.6%，能源价格同比去年下降了 11...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668614712467259394</id>
-        <link href="https://twitter.com/wublockchain12/status/1668614712467259394"/>
-        <updated>2023-06-13T13:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 在5月 CPI 公布后，CME 显示一天之后的美联储利率决定有 93.1% 概率为不加息。数据显示通胀下降原因是当月能源价格大幅下跌 3.6%，能源价格同比去年下降了 11.7%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 代码采用 Business Source License 1.1 发布，并在四年后永久转为 GPL 许可证。治理层可投票决定向资金池添加协议费用，但不超过上限金额。https://blog.unis...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668606934671568897</id>
-        <link href="https://twitter.com/wublockchain12/status/1668606934671568897"/>
-        <updated>2023-06-13T13:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 代码采用 Business Source License 1.1 发布，并在四年后永久转为 GPL 许可证。治理层可投票决定向资金池添加协议费用，但不超过上限金额。https://blog.uniswap.org/uniswap-v4]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Uniswap 发布 Uniswap v4 代码草稿，引入挂钩（hooks）的概念，为更灵活的决策提供支持。v4 池将支持动态费用、链上限价单和时间加权平均做市商（TWAM...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668606930498252802</id>
-        <link href="https://twitter.com/wublockchain12/status/1668606930498252802"/>
-        <updated>2023-06-13T13:11:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Uniswap 发布 Uniswap v4 代码草稿，引入挂钩（hooks）的概念，为更灵活的决策提供支持。v4 池将支持动态费用、链上限价单和时间加权平均做市商（TWAMM）。同时，v4 池将以单一合约形式存在，降低了创建矿池的成本。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 值得注意的是，官方删除了昨日 Founders Fund 领投 900 万美元融资，Pantera Capital、Binance Labs、Coinbase Ventures 和 Apollo Crypto 参投的投资信息。 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668602896051761153</id>
-        <link href="https://twitter.com/wublockchain12/status/1668602896051761153"/>
-        <updated>2023-06-13T12:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Re 值得注意的是，官方删除了昨日 Founders Fund 领投 900 万美元融资，Pantera Capital、Binance Labs、Coinbase Ventures 和 Apollo Crypto 参投的投资信息。
-https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E4%B8%8A%E7%BA%BF%E7%AC%AC34%E6%9C%9F%E6%96%B0%E5%B8%81%E6%8C%96%E7%9F%BF-%E4%BD%BF%E7%94%A8bnb-tusd%E6%8C%96%E7%9F%BFmaverick-protocol-mav-a28d005ed545464cbb9a3661c26e6b38]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布上线 Launchpool 上第 34 个项目 Maverick Protocol（MAV），用户将能够在 25 天内将BNB 和 TUSD 放入单独的池中以挖矿 MAV 代币，挖矿从 202...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668602891979091968</id>
-        <link href="https://twitter.com/wublockchain12/status/1668602891979091968"/>
-        <updated>2023-06-13T12:55:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布上线 Launchpool 上第 34 个项目 Maverick Protocol（MAV），用户将能够在 25 天内将BNB 和 TUSD 放入单独的池中以挖矿 MAV 代币，挖矿从 2023 年 6 月 14 日 08:00（UTC +8）开始。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 对于这一情况，团队并未考虑在内，依旧收归用户所有 HFT。通过治理页面发现，在后续的 Hashflow 的一些治理提案中，该由 GSR 资助的地址成为了提案通过与否的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668600406409379841</id>
-        <link href="https://twitter.com/wublockchain12/status/1668600406409379841"/>
-        <updated>2023-06-13T12:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 对于这一情况，团队并未考虑在内，依旧收归用户所有 HFT。通过治理页面发现，在后续的 Hashflow 的一些治理提案中，该由 GSR 资助的地址成为了提案通过与否的决定力量，且往往无法达到法定人数。Hashflow 在去年 7 月完成了 2500 万美元融资，GSR 参投。https://twitter.com/FatManHashflow/status/1667954514157248513?s=20
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://twitter.com/8848Community/status/1668611392591769606</id>
+        <link href="https://twitter.com/8848Community/status/1668611392591769606"/>
+        <updated>2023-06-13T13:28:51.000Z</updated>
+        <summary type="html"><![CDATA[4
 
-FatManHashflow: Hashflow - a DeFi exchange - has rugged early supporters of their tokens through implementation of a DAO proposal authored by their CTO.
-At the time of writing, an estimated 7-8 figures USD worth of locked $HFT tokens belonging to users have been voided to the DAO treasury. https://t.co/76NEADafLc]]></summary>
+Uniswap Labs 🦄: 1/ Today, we’re announcing our vision for Uniswap v4 🦄
+We see Uniswap as core financial infrastructure & think it should be built in public with space for community feedback and contribution.
+An early implementation of the code can be found here:
+http://github.com/Uniswap/v4-core https://t.co/9vGJElba2x]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 该提案最终由 GSR 资助的地址发起（转移进 2.5m HFT），并最终通过。然而散户未领取的主要原因是当 HFT 价格下跌，待领取的 HFT 奖励无法覆盖掉 Gas 成本。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668600401950826496</id>
-        <link href="https://twitter.com/wublockchain12/status/1668600401950826496"/>
-        <updated>2023-06-13T12:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 该提案最终由 GSR 资助的地址发起（转移进 2.5m HFT），并最终通过。然而散户未领取的主要原因是当 HFT 价格下跌，待领取的 HFT 奖励无法覆盖掉 Gas 成本。]]></summary>
+        <title type="html"><![CDATA[RT Stuart Alderoty: 1/ It’s been 5 years since Bill Hinman gave his infamous speech – and through the SEC’s lawsuit against @Ripple (and 7 court or...]]></title>
+        <id>https://twitter.com/s_alderoty/status/1668601225418543109</id>
+        <link href="https://twitter.com/s_alderoty/status/1668601225418543109"/>
+        <updated>2023-06-13T12:48:27.000Z</updated>
+        <summary type="html"><![CDATA[RT Stuart Alderoty
+1/ It’s been 5 years since Bill Hinman gave his infamous speech – and through the SEC’s lawsuit against @Ripple (and 7 court orders), we can finally share what happened behind the scenes through the now public emails / drafts of the speech. https://t.co/sx2TpW0TYe]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，用户 @FatManHashflow 发推揭露 Hashflow 在运营和治理过程中存在混乱。比如争议较大的 CTO gxmxni 发布的“超过 60 天未领取的 HFT 奖励将作废”提案...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668600397924306944</id>
-        <link href="https://twitter.com/wublockchain12/status/1668600397924306944"/>
-        <updated>2023-06-13T12:45:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，用户 @FatManHashflow 发推揭露 Hashflow 在运营和治理过程中存在混乱。比如争议较大的 CTO gxmxni 发布的“超过 60 天未领取的 HFT 奖励将作废”提案，当 HFT 奖励超过 60 天未被领取，当前授予的归属的或未归属的 HFT 都将被回收至 DAO 国库。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 5月 CPI 数据较上月大幅下降，这是连续第 11 次下降，创 2021 年 3 月以来新低。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668598938604294144</id>
-        <link href="https://twitter.com/wublockchain12/status/1668598938604294144"/>
-        <updated>2023-06-13T12:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 5月 CPI 数据较上月大幅下降，这是连续第 11 次下降，创 2021 年 3 月以来新低。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国 5 月未季调 CPI 年率 4%，预期 4.1%，前值 4.9%。美国 5 月未季调核心 CPI 年率 5.3%，预期 5.3%，前值 5.5%。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668596749450252288</id>
-        <link href="https://twitter.com/wublockchain12/status/1668596749450252288"/>
-        <updated>2023-06-13T12:30:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国 5 月未季调 CPI 年率 4%，预期 4.1%，前值 4.9%。美国 5 月未季调核心 CPI 年率 5.3%，预期 5.3%，前值 5.5%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前英国下议院财政特别委员会的议员提议，加密货币应该像赌博一样受到监管， Andrew Griffith 表示不同意，称合适的监管机构是金融监管机构。他同时称赞了风...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668593482242600960</id>
-        <link href="https://twitter.com/wublockchain12/status/1668593482242600960"/>
-        <updated>2023-06-13T12:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前英国下议院财政特别委员会的议员提议，加密货币应该像赌博一样受到监管， Andrew Griffith 表示不同意，称合适的监管机构是金融监管机构。他同时称赞了风险投资巨头 Andreessen Horowitz（a16z）选择伦敦作为其在美国以外的第一个办公地点。（CoinDesk）
-https://www.coindesk.com/policy/2023/06/13/uk-has-no-plans-for-crypto-tsar-proposed-by-some-lawmakers-minister-says/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国财政部经济大臣 Andrew Griffith 告诉立法者，政府没有计划在周二的辩论中任命“加密沙皇”。这场辩论由跨党派的加密和数字资产所有议会小组（APPG）主持，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668593478207680513</id>
-        <link href="https://twitter.com/wublockchain12/status/1668593478207680513"/>
-        <updated>2023-06-13T12:17:40.000Z</updated>
-        <summary type="html"><![CDATA[英国财政部经济大臣 Andrew Griffith 告诉立法者，政府没有计划在周二的辩论中任命“加密沙皇”。这场辩论由跨党派的加密和数字资产所有议会小组（APPG）主持，该小组在 6 月初发布了一份报告，要求政府任命一名官员专门监督加密监管。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2020年12月，SEC 针对 Ripple Labs 发起了一场备受关注的诉讼，指控该公司通过未注册的数字资产证券发行筹集了超过 13 亿美元，涉及其加密货币 XRP。Ripple ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668589804702007297</id>
-        <link href="https://twitter.com/wublockchain12/status/1668589804702007297"/>
-        <updated>2023-06-13T12:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 2020年12月，SEC 针对 Ripple Labs 发起了一场备受关注的诉讼，指控该公司通过未注册的数字资产证券发行筹集了超过 13 亿美元，涉及其加密货币 XRP。Ripple 辩称， Hinman 的言论，尤其是关于以太坊的地位，与 SEC 声称 XRP 是一种证券的说法相矛盾。（TheBlock）https://www.theblock.co/post/234408/sec-comments-on-hinman-speech-released-in-ripple-labs-filing?utm_source=news.xml&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC 前公司融资部主任 William Hinman 与 Ripple Labs 的诉讼相关文件已被公开。文件显示了交易与市场部对 William Hinman 2018 年演讲草稿的评论，该演讲中他认...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668589800339959808</id>
-        <link href="https://twitter.com/wublockchain12/status/1668589800339959808"/>
-        <updated>2023-06-13T12:03:03.000Z</updated>
-        <summary type="html"><![CDATA[SEC 前公司融资部主任 William Hinman 与 Ripple Labs 的诉讼相关文件已被公开。文件显示了交易与市场部对 William Hinman 2018 年演讲草稿的评论，该演讲中他认为比特币和以太坊不属于证券。]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -216,7 +97,7 @@ Stay tuned for updates! ✨]]></summary>
         <link href="https://twitter.com/8848Community/status/1668572627731087360"/>
         <updated>2023-06-13T10:54:49.000Z</updated>
         <summary type="html"><![CDATA[有时候撸着撸着，项目就没了
-NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。 https://twitter.com/abacus_wtf/status/1668358993054429184
+NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。
 
 🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3]]></summary>
         <author>
@@ -247,6 +128,177 @@ Adam@Greeks.live: 今晚20:30，美国5月CPI数据出炉，市场预测本次
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 《数据法案》对智能合约的要求包括内置功能以中断或停止交易，这种设计将削弱去中心化金融系统的创新性。https://www.dlnews.com/articles/regulation/eu-rul...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668563911220797444</id>
+        <link href="https://twitter.com/wublockchain12/status/1668563911220797444"/>
+        <updated>2023-06-13T10:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 《数据法案》对智能合约的要求包括内置功能以中断或停止交易，这种设计将削弱去中心化金融系统的创新性。https://www.dlnews.com/articles/regulation/eu-rules-on-smart-contracts-could-damage-defi-if-not-changed/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DL News，欧盟《数据法案》草案显示，智能合约将纳入与使用“一系列电子数据记录”的计算机程序相同的定义中。这个定义比之前被取消的那个更为普遍...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668563907039084546</id>
+        <link href="https://twitter.com/wublockchain12/status/1668563907039084546"/>
+        <updated>2023-06-13T10:20:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DL News，欧盟《数据法案》草案显示，智能合约将纳入与使用“一系列电子数据记录”的计算机程序相同的定义中。这个定义比之前被取消的那个更为普遍，可能给区块链开发者带来更多问题。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Haru Invest 发推称，他们的办公室正常运作，并否认了关于" Rug Pull 争议"的报道。此前，韩国每日经济报道，Haru Invest 关闭了线下办公室并采取远程工作方...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668558035185459200</id>
+        <link href="https://twitter.com/wublockchain12/status/1668558035185459200"/>
+        <updated>2023-06-13T09:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Re Haru Invest 发推称，他们的办公室正常运作，并否认了关于" Rug Pull 争议"的报道。此前，韩国每日经济报道，Haru Invest 关闭了线下办公室并采取远程工作方式。https://twitter.com/haruinvest/status/1668542464825921540
+
+Haru Invest: Please note that there have been several media articles recently that are factually incorrect.
+Our office is currently continuing our work and the so-called ‘Rug pull controversy’ mentioned in some articles is completely untrue.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据韩媒 Decenter ，币安正在考虑将 GoPax 首席代表职位交由副总裁李仲勋（音译）担任，以完成 GoPax 的收购。此前，GoPax 于今年 2 月任命了币安亚太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668557695258071041</id>
+        <link href="https://twitter.com/wublockchain12/status/1668557695258071041"/>
+        <updated>2023-06-13T09:55:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据韩媒 Decenter ，币安正在考虑将 GoPax 首席代表职位交由副总裁李仲勋（音译）担任，以完成 GoPax 的收购。此前，GoPax 于今年 2 月任命了币安亚太区总裁冯宏为其新董事长，并加强了币安的控制力。SEC 最近对币安提起的诉讼，加剧了对本次收购能否成功的担忧。https://www.decenter.kr/NewsView/29QU9J4WF1/GZ03]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前，该平台被黑客窃取 442 枚以太坊（价值80万美元）。https://twitter.com/pgpsam/status/1668366929164406786]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668547369041022976</id>
+        <link href="https://twitter.com/wublockchain12/status/1668547369041022976"/>
+        <updated>2023-06-13T09:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前，该平台被黑客窃取 442 枚以太坊（价值80万美元）。https://twitter.com/pgpsam/status/1668366929164406786
+
+Sam Forman: We've sent the following message to the Sturdy hacker on-chain:
+"To the exploiter: as we have seen with recent hacks, exploits are not as easy to escape from as they used to be. That said, we are willing to offer you $100k as a bounty, and will not pursue you further if you send… https://twitter.com/i/web/status/1668366929164406786]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，DeFi 借贷协议 Sturdy Finance 创始人 Sam Forman 发推表示，他的团队向攻击者的地址发送了一个链上消息，该消息提供了一个10万美元的悬赏，如果攻击...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668547364620242945</id>
+        <link href="https://twitter.com/wublockchain12/status/1668547364620242945"/>
+        <updated>2023-06-13T09:14:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，DeFi 借贷协议 Sturdy Finance 创始人 Sam Forman 发推表示，他的团队向攻击者的地址发送了一个链上消息，该消息提供了一个10万美元的悬赏，如果攻击者将被盗资金退还到Sturdy拥有的指定地址，团队将“不追究刑事责任”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 如果投票通过，将开始最终确定利益相关者，并在目标链上部署 v3 合约。随后将进行合同审计和链上投票。投票截止日期为 6 月 18 日。https://snapshot.org/#/u...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668538594376699904</id>
+        <link href="https://twitter.com/wublockchain12/status/1668538594376699904"/>
+        <updated>2023-06-13T08:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 如果投票通过，将开始最终确定利益相关者，并在目标链上部署 v3 合约。随后将进行合同审计和链上投票。投票截止日期为 6 月 18 日。https://snapshot.org/#/uniswap/proposal/0x36a17f6c311f3d910bc11cb4cd55891a7e6c71facd04e7bffcfb267fdd88c45b]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Uniswap 社区正在进行温度检查投票，支持将 Uniswap V3 部署至 Filecoin 虚拟机（FVM）的提案。目前，支持率已达到100%。这一提案旨在推进 Uniswap 的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668538589968486400</id>
+        <link href="https://twitter.com/wublockchain12/status/1668538589968486400"/>
+        <updated>2023-06-13T08:39:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Uniswap 社区正在进行温度检查投票，支持将 Uniswap V3 部署至 Filecoin 虚拟机（FVM）的提案。目前，支持率已达到100%。这一提案旨在推进 Uniswap 的多链愿景，由 Michigan Blockchain 团队发起。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Damus 的 zaps 功能允许用户发帖赚取比特币，或针对帖子进行比特币打赏。2 月 3 日， Damus 已从中国大陆苹果应用商店下架。 https://twitter.com/damusapp/s...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668535372866019339</id>
+        <link href="https://twitter.com/wublockchain12/status/1668535372866019339"/>
+        <updated>2023-06-13T08:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Re Damus 的 zaps 功能允许用户发帖赚取比特币，或针对帖子进行比特币打赏。2 月 3 日， Damus 已从中国大陆苹果应用商店下架。
+https://twitter.com/damusapp/status/1668529709867495424
+
+Damus⚡️: Damus will be removed from the app store in 14 days, apple says zaps are not allowed on their platform because they *could* be used by content creators to sell digital content. This is right before we’re about to give our talk at the oslo freedom forum on how decentralized social… https://twitter.com/i/web/status/1668529709867495424 https://t.co/uAK1U0UBet]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，基于 Nostr 协议的去中心化社交网络应用 Damus 官推表示，将在 14 天内从苹果应用商店中下架。该决定是因为苹果认为 zaps 可能被内容创作者用于出售数...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668535369003065347</id>
+        <link href="https://twitter.com/wublockchain12/status/1668535369003065347"/>
+        <updated>2023-06-13T08:26:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，基于 Nostr 协议的去中心化社交网络应用 Damus 官推表示，将在 14 天内从苹果应用商店中下架。该决定是因为苹果认为 zaps 可能被内容创作者用于出售数字内容。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/abacus_wtf/status/1668358993054429184]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668528951378194436</id>
+        <link href="https://twitter.com/wublockchain12/status/1668528951378194436"/>
+        <updated>2023-06-13T08:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/abacus_wtf/status/1668358993054429184
+
+🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，NFT 估价系统 Abacus 发推表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668528947389403136</id>
+        <link href="https://twitter.com/wublockchain12/status/1668528947389403136"/>
+        <updated>2023-06-13T08:01:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，NFT 估价系统 Abacus 发推表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由 @traditionow 发起的FREE MINT 文护保护项目 Pocket With Love 已和Visa，妇基会，Bilibili，特仑苏，亚朵，雷允上，织造司等企业达成合作。以“1个真工艺刺...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668525362786222080</id>
+        <link href="https://twitter.com/wublockchain12/status/1668525362786222080"/>
+        <updated>2023-06-13T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[由 @traditionow 发起的FREE MINT 文护保护项目 Pocket With Love 已和Visa，妇基会，Bilibili，特仑苏，亚朵，雷允上，织造司等企业达成合作。以“1个真工艺刺绣口袋=绣娘6小时工作时间”的公平贸易认购形式，助力羌、壮、东乡三大少数民族绣娘及其刺绣艺术的传承。https://tnworld.traditionow.xyz/pocket]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re OpenEden 的国债保险库将与 Chainlink 集成，通过链上证据确保代币由实际资产支持。（Blockworks）https://blockworks.co/news/tokenized-us-treasury-bills]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668523843672223745</id>
+        <link href="https://twitter.com/wublockchain12/status/1668523843672223745"/>
+        <updated>2023-06-13T07:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Re OpenEden 的国债保险库将与 Chainlink 集成，通过链上证据确保代币由实际资产支持。（Blockworks）https://blockworks.co/news/tokenized-us-treasury-bills]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密资产管理平台 Finblox 与OpenEden 合作，在东南亚新兴市场推出代币化的美国国债。该合作将提供 24/7 全天候的智能合约保险库，服务范围覆盖菲律宾、印度尼西...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668523839691849728</id>
+        <link href="https://twitter.com/wublockchain12/status/1668523839691849728"/>
+        <updated>2023-06-13T07:40:57.000Z</updated>
+        <summary type="html"><![CDATA[加密资产管理平台 Finblox 与OpenEden 合作，在东南亚新兴市场推出代币化的美国国债。该合作将提供 24/7 全天候的智能合约保险库，服务范围覆盖菲律宾、印度尼西亚、印度和越南的客户。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国金融行为监管局（ FCA） 提议禁止公司将加密货币作为抵御通胀的手段进行推广。此前，6 月 8 日，FCA 发布的规定包括禁止赠送非同质化代币和空投活动，并要求...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1668522849596997632</id>
+        <link href="https://twitter.com/wublockchain12/status/1668522849596997632"/>
+        <updated>2023-06-13T07:37:01.000Z</updated>
+        <summary type="html"><![CDATA[英国金融行为监管局（ FCA） 提议禁止公司将加密货币作为抵御通胀的手段进行推广。此前，6 月 8 日，FCA 发布的规定包括禁止赠送非同质化代币和空投活动，并要求稳定币发行者能够证明其稳定性和与法定货币的联系。（CoinDesk）https://www.coindesk.com/policy/2023/06/13/fca-right-to-propose-stop-to-marketing-crypto-as-inflation-resistant-uk-industry-members-say/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[不撸这个逼毛了！我去蜜雪冰城打工（您有新的订单请及时接单）（拿起杯）（贴标签）（装入波霸）（装入冰淇淋）（加抹茶粉）（加水）（叮叮叮搅匀）（哐啷哐啷加...]]></title>
         <id>https://twitter.com/8848Community/status/1668509829974081539</id>
         <link href="https://twitter.com/8848Community/status/1668509829974081539"/>
@@ -267,11 +319,11 @@ Adam@Greeks.live: 今晚20:30，美国5月CPI数据出炉，市场预测本次
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707]]></title>
+        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家]]></title>
         <id>https://twitter.com/8848Community/status/1668262211876270081</id>
         <link href="https://twitter.com/8848Community/status/1668262211876270081"/>
         <updated>2023-06-12T14:21:20.000Z</updated>
-        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707
+        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家
 
 Linea: 📢Excited to announce "I'm a First Class Linea Citizen": a campaign to combat bots, prioritize real user engagement in Linea Voyage.
 We’ve teamed up with @gitcoinpassport, @Galxe Passport, and @guildxyz to create a fair, authentic community experience👇
@@ -555,16 +607,6 @@ People in crypto still learning the hardest part about making money is keeping i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I dunno lads it’s still pretty early in the summer]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1667489204291469312</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1667489204291469312"/>
-        <updated>2023-06-10T11:09:41.000Z</updated>
-        <summary type="html"><![CDATA[I dunno lads it’s still pretty early in the summer]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这个游戏 到底谁在赢啊 https://t.co/8FO8cbMsNf]]></title>
         <id>https://twitter.com/8848Community/status/1667399466322894849</id>
         <link href="https://twitter.com/8848Community/status/1667399466322894849"/>
@@ -593,17 +635,6 @@ People in crypto still learning the hardest part about making money is keeping i
         <summary type="html"><![CDATA[谁干的 https://t.co/xV498obFGi]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mostly Peaceful Memes: Pretty much https://twitter.com/i/web/status/1667231636134699008 https://t.co/R4XsXerjQU]]></title>
-        <id>https://twitter.com/MostlyPeacefull/status/1667231636134699008</id>
-        <link href="https://twitter.com/MostlyPeacefull/status/1667231636134699008"/>
-        <updated>2023-06-09T18:06:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Mostly Peaceful Memes
-Pretty much https://twitter.com/i/web/status/1667231636134699008 https://t.co/R4XsXerjQU]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -689,11 +720,11 @@ How to get it? Read on 👇 https://t.co/kF7CfxaoVa]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963]]></title>
+        <title type="html"><![CDATA[braavos 第四周]]></title>
         <id>https://twitter.com/8848Community/status/1666446765694828546</id>
         <link href="https://twitter.com/8848Community/status/1666446765694828546"/>
         <updated>2023-06-07T14:07:24.000Z</updated>
-        <summary type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963
+        <summary type="html"><![CDATA[braavos 第四周
 
 Braavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!
 Participate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺
@@ -729,13 +760,13 @@ Hard BBACAC BCBCCB]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464]]></title>
+        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖]]></title>
         <id>https://twitter.com/8848Community/status/1666289973547659264</id>
         <link href="https://twitter.com/8848Community/status/1666289973547659264"/>
         <updated>2023-06-07T03:44:22.000Z</updated>
         <summary type="html"><![CDATA[慌不慌？
 可能也要反女巫活人验证了
-😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464
+😖😖😖
 
 Linea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.
 Please be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.
@@ -792,11 +823,11 @@ SEC 在 Coinbase 案中将 SOL、ADA、MATIC、FIL、SAND、AXS、CHZ、FLOW、I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960]]></title>
+        <title type="html"><![CDATA[bye bye]]></title>
         <id>https://twitter.com/8848Community/status/1666055278071271424</id>
         <link href="https://twitter.com/8848Community/status/1666055278071271424"/>
         <updated>2023-06-06T12:11:46.000Z</updated>
-        <summary type="html"><![CDATA[bye bye https://twitter.com/MintSquareNFT/status/1666053878465576960
+        <summary type="html"><![CDATA[bye bye
 
 Mint Square ⏹️ NFT marketplace for ZK-rollups: It is with a heavy heart we announce that we will end the Mint Square marketplace service on June 30.
 Buying and selling will continue to be enabled until June 30. After that trading will no longer be possible.
@@ -822,16 +853,6 @@ We'd like to thank everyone for your support throughout this time🙏]]></summar
         <updated>2023-06-06T07:48:27.000Z</updated>
         <summary type="html"><![CDATA[GM
 谁保护你更多？]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小牛dc被黑了，别点 https://t.co/kgc3jaTNzm]]></title>
-        <id>https://twitter.com/8848Community/status/1665986381016109056</id>
-        <link href="https://twitter.com/8848Community/status/1665986381016109056"/>
-        <updated>2023-06-06T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[小牛dc被黑了，别点 https://t.co/kgc3jaTNzm]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -940,11 +961,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -1208,23 +1229,6 @@ Anton Bukov 🦇🔊 ⚖️: OMG, @Ledger is breaking the main hardware wallet
 许多其他公司将效仿。   
 您现在应该学习和利用 AI 来做好准备。   
 以下是关于 AI 的 6 大顶尖课程（权威且免费），来自吴恩达，coursera，哈佛，斯坦福，谷歌等。可让您遥遥领先：]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Thomas Yao: 经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世 陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨...]]></title>
-        <id>https://twitter.com/ghosTM55/status/1657946836643241985</id>
-        <link href="https://twitter.com/ghosTM55/status/1657946836643241985"/>
-        <updated>2023-05-15T03:11:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Thomas Yao
-经过 @kevinzhow 确认，我们的挚友左耳朵耗子 @haoel 已于周六晚突发心梗辞世
-陈皓是个有原则、正直、风趣、聪明的人，他对 IT 行业作出了不可磨灭的贡献
-他一生有很多成就，而我愿意最后以一起打游戏的好友记住他
-R.I.P. https://twitter.com/Fenng/status/1657899758630088704 https://t.co/nZGnR5FpEn
-
-
-Fenng: 听到一个意外消息，希望不是真的。]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
         </author>
