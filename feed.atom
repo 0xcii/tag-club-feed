@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T17:11:46.214Z</id>
+    <id>urn:2023-06-14T18:15:20.775Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T17:11:46.214Z</updated>
+    <updated>2023-06-14T18:15:20.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 建议交易所采用白名单地址机制，确保用户是与属于自己或可接纳的第三方钱包地址进行交易；私钥必须保存在香港本地。阅读全文：https://mp.weixin.qq.com/s/0A...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669016011872555008</id>
+        <link href="https://twitter.com/wublockchain12/status/1669016011872555008"/>
+        <updated>2023-06-14T16:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Re 建议交易所采用白名单地址机制，确保用户是与属于自己或可接纳的第三方钱包地址进行交易；私钥必须保存在香港本地。阅读全文：https://mp.weixin.qq.com/s/0Akz8N9JtJyqhUGZgQMp8w]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读香港合规交易所的申牌的托管要求（作者：Cobo）必须用一个全资附属公司以信托方式来提供托管，此设定意味着不允许交易所使用第三方托管商的托管服务；对于交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669016010106761217</id>
+        <link href="https://twitter.com/wublockchain12/status/1669016010106761217"/>
+        <updated>2023-06-14T16:16:40.000Z</updated>
+        <summary type="html"><![CDATA[解读香港合规交易所的申牌的托管要求（作者：Cobo）必须用一个全资附属公司以信托方式来提供托管，此设定意味着不允许交易所使用第三方托管商的托管服务；对于交易所采用的托管技术，香港证监会持开放态度；98% 的用户资产必须放在冷钱包，其他不超过 2% 的用户资产则存放在热钱包；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 去中心化交易协议 Hashflow 是币安 31 期新币挖矿项目，曾在 2022 年 7 月份以 4 亿美元估值完成 2500 万美元 A 轮融资。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669010685098098691</id>
+        <link href="https://twitter.com/wublockchain12/status/1669010685098098691"/>
+        <updated>2023-06-14T15:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 去中心化交易协议 Hashflow 是币安 31 期新币挖矿项目，曾在 2022 年 7 月份以 4 亿美元估值完成 2500 万美元 A 轮融资。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Https://twitter.com/peckshield/status/1669000647364997121]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669009614841712643</id>
+        <link href="https://twitter.com/wublockchain12/status/1669009614841712643"/>
+        <updated>2023-06-14T15:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Re Https://twitter.com/peckshield/status/1669000647364997121
+
+PeckShield Inc.: Hi @hashflow, you may want to take a look:  https://etherscan.io/tx/0xdedda493272b6b35660b9cc9070d2ea32ee61279b821184ff837e0a5752f4042
+It appears there is an approve-related issue.]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，PeckShield 发推称，Hashflow 疑似遭遇与授权有关的攻击，目前损失金额约为 40 万美元（ARB 网络 19.5 万美元；ETH 网络 21.5 万美元）。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669009500026867712</id>
+        <link href="https://twitter.com/wublockchain12/status/1669009500026867712"/>
+        <updated>2023-06-14T15:50:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，PeckShield 发推称，Hashflow 疑似遭遇与授权有关的攻击，目前损失金额约为 40 万美元（ARB 网络 19.5 万美元；ETH 网络 21.5 万美元）。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1668999471349526529?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669004163622244353</id>
+        <link href="https://twitter.com/wublockchain12/status/1669004163622244353"/>
+        <updated>2023-06-14T15:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1668999471349526529?s=20
+
+Adam@Greeks.live: 【大宗订单异动】
+在过去的半小时内，大宗成交了近5万张主动买ETH-29SEP23-2200-C，名义价值超8500万美元。
+从Playback数据回溯看，这一笔大宗订单是此前巨鲸的卖单平仓，平仓量高达此期权持仓量的一半以上。… https://twitter.com/i/web/status/1668999471349526529 https://t.co/DDpG7NdBO7]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Greekslive，在过去的半小时内，大宗成交了近 5 万张主动买ETH-29SEP23-2200-C，名义价值超 8500 万美元。很可能是巨鲸想趁着明天凌晨美联储会议这...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669004036446748672</id>
+        <link href="https://twitter.com/wublockchain12/status/1669004036446748672"/>
+        <updated>2023-06-14T15:29:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，在过去的半小时内，大宗成交了近 5 万张主动买ETH-29SEP23-2200-C，名义价值超 8500 万美元。很可能是巨鲸想趁着明天凌晨美联储会议这一事件驱动平仓，一方面可能是认为下跌进入尾声，另一方面也可能是认为市场很难出现暴涨暴跌，才选择了以上操作。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance 的塞浦路斯子公司 Binance Cyprus Limited 正在审查注销申请。Binance 于去年 10 月获得加密资产服务提供商 （CASP）的注册，允许其在塞浦路斯提供现货...]]></title>
         <id>https://twitter.com/wublockchain12/status/1668982704308625412</id>
@@ -101,7 +178,7 @@ V4 由 Uniswap DAO 和 UNI Token 的持有者进行治理，对每个池子同�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672]]></title>
+        <title type="html"><![CDATA[Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务]]></title>
         <id>https://twitter.com/8848Community/status/1668970368466554881</id>
         <link href="https://twitter.com/8848Community/status/1668970368466554881"/>
         <updated>2023-06-14T13:15:18.000Z</updated>
@@ -109,7 +186,7 @@ V4 由 Uniswap DAO 和 UNI Token 的持有者进行治理，对每个池子同�
 卧槽，快40个任务啊
 高三作业都没这么多
 linea团队有sm癖好吗
-这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672
+这么多任务
 
 Linea: 1/
 📣It’s Week 7 of Linea Voyage, Linea fam! Welcome to Social & Entertainment Week.
@@ -174,41 +251,11 @@ https://www.coindesk.com/markets/2023/06/14/someone-flash-loaned-200m-from-maker
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[周三一套利机器人通过闪电贷从 MakerDAO 借出了价值 2 亿美元的 DAI，扣除交易费用后获利 3.24 美元。其具体方式是人利用了 MakerDAO 的“DssFlash”合约借入 2 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668950652264005633</id>
-        <link href="https://twitter.com/wublockchain12/status/1668950652264005633"/>
-        <updated>2023-06-14T11:56:57.000Z</updated>
-        <summary type="html"><![CDATA[周三一套利机器人通过闪电贷从 MakerDAO 借出了价值 2 亿美元的 DAI，扣除交易费用后获利 3.24 美元。其具体方式是人利用了 MakerDAO 的“DssFlash”合约借入 2 亿美元的 DAI，再使用 Aave 贷出 WETH，再用 WETH 于 Curve上购买 Threshold Network（T），]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 据调查，被重定向的钱包账号上至少有价值 19000 美元的加密货币。https://www.ithome.com/0/699/756.htm]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668932184294686720</id>
-        <link href="https://twitter.com/wublockchain12/status/1668932184294686720"/>
-        <updated>2023-06-14T10:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Re 据调查，被重定向的钱包账号上至少有价值 19000 美元的加密货币。https://www.ithome.com/0/699/756.htm]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据IT之家报道，网络安全公司 Dr. Web 发现有攻击者分发携带隐藏挖矿代码的 Win10 ISO 镜像，警告用户不要通过非信任渠道下载精简、盗版的 Win10 ISO ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668932182025596929</id>
-        <link href="https://twitter.com/wublockchain12/status/1668932182025596929"/>
-        <updated>2023-06-14T10:43:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据IT之家报道，网络安全公司 Dr. Web 发现有攻击者分发携带隐藏挖矿代码的 Win10 ISO 镜像，警告用户不要通过非信任渠道下载精简、盗版的 Win10 ISO 镜像。一旦设备感染，就会被监测进程资源管理器、任务管理器、进程监视器、进程等，并被替换剪贴板中的加密货币钱包地址。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411]]></title>
+        <title type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去]]></title>
         <id>https://twitter.com/8848Community/status/1668928217233895425</id>
         <link href="https://twitter.com/8848Community/status/1668928217233895425"/>
         <updated>2023-06-14T10:27:48.000Z</updated>
-        <summary type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411
+        <summary type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去
 
 Braavos - StarkNet Wallet: Unleash the final chapter! 🎉
 Milestone 5 of the #StarknetJourney is live!
@@ -221,26 +268,6 @@ Keep reading 👀👇 https://t.co/IVeKqciZJQ]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Optimistic rollups 的广泛应用与空投的财富效应，让用户对 zk-rollups 也有类似的期待。H/T：@blockworksres https://blockworks.co/newsletter/issue/31779...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668917949690703873</id>
-        <link href="https://twitter.com/wublockchain12/status/1668917949690703873"/>
-        <updated>2023-06-14T09:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Re Optimistic rollups 的广泛应用与空投的财富效应，让用户对 zk-rollups 也有类似的期待。H/T：@blockworksres https://blockworks.co/newsletter/issue/31779319 & https://dune.com/hashed_official/zk-bridge-market-share]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @subinium 数据面板，在过去一周，约 65,600 枚 ETH 桥接至 zk-rollups，其中 zkSync Era 吸收了约 80% 的桥接份额，在 6 月 12 日一度高达 86.5%...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668917947174367232</id>
-        <link href="https://twitter.com/wublockchain12/status/1668917947174367232"/>
-        <updated>2023-06-14T09:47:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @subinium 数据面板，在过去一周，约 65,600 枚 ETH 桥接至 zk-rollups，其中 zkSync Era 吸收了约 80% 的桥接份额，在 6 月 12 日一度高达 86.5%，创下新高，继续巩固其在 zk-rollups 的主导地位。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @DocumentingBTC why don't you tag the company @BitcoinBrabant so people who want to build similar solutions can actually contact them?]]></title>
         <id>https://twitter.com/DeFi_educator/status/1668914468527456258</id>
         <link href="https://twitter.com/DeFi_educator/status/1668914468527456258"/>
@@ -248,26 +275,6 @@ Keep reading 👀👇 https://t.co/IVeKqciZJQ]]></summary>
         <summary type="html"><![CDATA[Re @DocumentingBTC why don't you tag the company @BitcoinBrabant so people who want to build similar solutions can actually contact them?]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/06/14/bankrupt-crypto-exchange-bittrex-us-set-to-allow-withdrawals-starting-thursday/]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668910311414575110</id>
-        <link href="https://twitter.com/wublockchain12/status/1668910311414575110"/>
-        <updated>2023-06-14T09:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/06/14/bankrupt-crypto-exchange-bittrex-us-set-to-allow-withdrawals-starting-thursday/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破产的加密货币交易所 Bittrex 在美国的分支机构 Bittrex US 将于当地时间周四重新开放提款。法官在周二的裁决中授权 Bittrex US 允许客户提取加密货币和法定货...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1668910309040599040</id>
-        <link href="https://twitter.com/wublockchain12/status/1668910309040599040"/>
-        <updated>2023-06-14T09:16:39.000Z</updated>
-        <summary type="html"><![CDATA[破产的加密货币交易所 Bittrex 在美国的分支机构 Bittrex US 将于当地时间周四重新开放提款。法官在周二的裁决中授权 Bittrex US 允许客户提取加密货币和法定货币。截至5月10日，该公司声称其美国分部持有价值3亿美元的客户现金和加密货币。（CoinDesk）]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -305,7 +312,7 @@ Keep reading 👀👇 https://t.co/IVeKqciZJQ]]></summary>
         <id>https://twitter.com/8848Community/status/1668630551924969483</id>
         <link href="https://twitter.com/8848Community/status/1668630551924969483"/>
         <updated>2023-06-13T14:44:59.000Z</updated>
-        <summary type="html"><![CDATA[之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？ https://twitter.com/Chainflip/status/1668618140966846472
+        <summary type="html"><![CDATA[之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？
 
 CHAINFLIP LABS: Attention, Early Chainflip Advocates! We're excited to announce the availability of our Chainflip Early Supporters Pass, run through @Galxe.
 1. Details on if you qualify below:⬇️
@@ -325,11 +332,11 @@ https://galxe.com/ChainflipLabs/campaign/GCwevUQZAy https://t.co/JcP93bCcir]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 https://twitter.com/Uniswap/status/1668603580184502276]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://twitter.com/8848Community/status/1668611392591769606</id>
         <link href="https://twitter.com/8848Community/status/1668611392591769606"/>
         <updated>2023-06-13T13:28:51.000Z</updated>
-        <summary type="html"><![CDATA[4 https://twitter.com/Uniswap/status/1668603580184502276
+        <summary type="html"><![CDATA[4
 
 Uniswap Labs 🦄: 1/ Today, we’re announcing our vision for Uniswap v4 🦄
 We see Uniswap as core financial infrastructure & think it should be built in public with space for community feedback and contribution.
@@ -371,7 +378,7 @@ http://github.com/Uniswap/v4-core https://t.co/9vGJElba2x]]></summary>
         <link href="https://twitter.com/8848Community/status/1668572627731087360"/>
         <updated>2023-06-13T10:54:49.000Z</updated>
         <summary type="html"><![CDATA[有时候撸着撸着，项目就没了
-NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。 https://twitter.com/abacus_wtf/status/1668358993054429184
+NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。
 
 🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3]]></summary>
         <author>
@@ -399,11 +406,11 @@ NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707]]></title>
+        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家]]></title>
         <id>https://twitter.com/8848Community/status/1668262211876270081</id>
         <link href="https://twitter.com/8848Community/status/1668262211876270081"/>
         <updated>2023-06-12T14:21:20.000Z</updated>
-        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707
+        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家
 
 Linea: 📢Excited to announce "I'm a First Class Linea Citizen": a campaign to combat bots, prioritize real user engagement in Linea Voyage.
 We’ve teamed up with @gitcoinpassport, @Galxe Passport, and @guildxyz to create a fair, authentic community experience👇
@@ -767,11 +774,11 @@ How to get it? Read on 👇 https://t.co/kF7CfxaoVa]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963]]></title>
+        <title type="html"><![CDATA[braavos 第四周]]></title>
         <id>https://twitter.com/8848Community/status/1666446765694828546</id>
         <link href="https://twitter.com/8848Community/status/1666446765694828546"/>
         <updated>2023-06-07T14:07:24.000Z</updated>
-        <summary type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963
+        <summary type="html"><![CDATA[braavos 第四周
 
 Braavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!
 Participate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺
@@ -807,13 +814,13 @@ Hard BBACAC BCBCCB]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464]]></title>
+        <title type="html"><![CDATA[慌不慌？ 可能也要反女巫活人验证了 😖😖😖]]></title>
         <id>https://twitter.com/8848Community/status/1666289973547659264</id>
         <link href="https://twitter.com/8848Community/status/1666289973547659264"/>
         <updated>2023-06-07T03:44:22.000Z</updated>
         <summary type="html"><![CDATA[慌不慌？
 可能也要反女巫活人验证了
-😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464
+😖😖😖
 
 Linea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.
 Please be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.
@@ -973,11 +980,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -1123,11 +1130,11 @@ The devs literally could not even be bothered to change the metadata for this lo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存
+        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
