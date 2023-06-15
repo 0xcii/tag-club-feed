@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T12:25:37.505Z</id>
+    <id>urn:2023-06-15T13:16:59.858Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T12:25:37.505Z</updated>
+    <updated>2023-06-15T13:16:59.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey 旗下的支付巨头 Block 宣布将在外部测试版中让公众体验其比特币自托管钱包 Bitkey。该钱包与 Block 的另一款产品 Cash App 以及 Coinbase 合作，以...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669319116635910144</id>
+        <link href="https://twitter.com/wublockchain12/status/1669319116635910144"/>
+        <updated>2023-06-15T12:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Jack Dorsey 旗下的支付巨头 Block 宣布将在外部测试版中让公众体验其比特币自托管钱包 Bitkey。该钱包与 Block 的另一款产品 Cash App 以及 Coinbase 合作，以允许用户将比特币直接转移到客户的 Bitkey 钱包中。 Bitkey 的密钥分为三部分，分别储存在用户的手机上、一个六边形的硬件设备上以及 Block… https://twitter.com/i/web/status/1669319116635910144]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We still have DOJ indictments against Binance and Tether and at least another 9 months of QT to look forward to. Seems a bit early to be calling botto...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1669317177353162752</id>
@@ -14,6 +24,51 @@
 Seems a bit early to be calling bottoms no?]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Tether 此前于 6 月 12 日已在以太坊网络增发了 10 亿枚 USDT，并联合币安将 7.5 亿枚 Tron 链上的 USDT 转换为 7.5 亿枚以太坊链上的 USDT。 https://twitte...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669315003827245066</id>
+        <link href="https://twitter.com/wublockchain12/status/1669315003827245066"/>
+        <updated>2023-06-15T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Re Tether 此前于 6 月 12 日已在以太坊网络增发了 10 亿枚 USDT，并联合币安将 7.5 亿枚 Tron 链上的 USDT 转换为 7.5 亿枚以太坊链上的 USDT。
+https://twitter.com/whale_alert/status/1669310427489091584?s=20
+
+Whale Alert: 💵 💵 💵 💵 💵 💵 💵 💵 💵 💵  250,000,000 #USDT (252,715,000 USD) minted at Tether Treasury
+https://whale-alert.io/transaction/ethereum/0x1a8df497fb65237f77e7fad6b4a991bc4170187ef98d9093510cc19073b31543]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，Tether 于今日 19:46:23 在以太坊网络增发 2.5 亿枚 USDT。Tether CTO Paolo Ardoino 补充表示，这是一笔在以太坊网络已授权但...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669315001784598528</id>
+        <link href="https://twitter.com/wublockchain12/status/1669315001784598528"/>
+        <updated>2023-06-15T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，Tether 于今日 19:46:23 在以太坊网络增发 2.5 亿枚 USDT。Tether CTO Paolo Ardoino 补充表示，这是一笔在以太坊网络已授权但未发行的交易，意味着本次增发将用于下一次发行请求和链上交互。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 当前 3pool TVL 为 3.83 亿美元，流动性利用率高达 167%。值得注意的是，Cruve 3pool TVL 曾在 2022 年 1 月达 60 亿美元峰值，随后持续下跌，年初至今 TVL ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669313908442824704</id>
+        <link href="https://twitter.com/wublockchain12/status/1669313908442824704"/>
+        <updated>2023-06-15T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Re 当前 3pool TVL 为 3.83 亿美元，流动性利用率高达 167%。值得注意的是，Cruve 3pool TVL 曾在 2022 年 1 月达 60 亿美元峰值，随后持续下跌，年初至今 TVL 已下跌约 37%。https://dune.com/mrblock_buidl/Curve.fi
+https://dune.com/21shares_research/stablecoin-dex-liquidity-and-demand]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @mrblocktw 和 @21Shares 数据面板，由于大户在 Curve 将 USDT 出售，Curve 3pool USDT 占比一度高达 70%，是自去年 11 月 FTX 崩溃后的 Tether FU...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669313906194649088</id>
+        <link href="https://twitter.com/wublockchain12/status/1669313906194649088"/>
+        <updated>2023-06-15T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @mrblocktw 和 @21Shares 数据面板，由于大户在 Curve 将 USDT 出售，Curve 3pool USDT 占比一度高达 70%，是自去年 11 月 FTX 崩溃后的 Tether FUD 以来高点；本日 3pool 交易量已达 6.4 亿美元，为今年 3 月 11 日以来高点，Curve 站内单日交易量超过了 10 亿美元；]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +82,44 @@ Seems a bit early to be calling bottoms no?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，币安地址在 19：30 分钟于 Tron 链上铸造约 10.7 亿枚 TUSD。此前 TUSD 总供应量约为 20.4 亿枚。 https://whale-alert.io/tran...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669312064215728129</id>
+        <link href="https://twitter.com/wublockchain12/status/1669312064215728129"/>
+        <updated>2023-06-15T11:53:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，币安地址在 19：30 分钟于 Tron 链上铸造约 10.7 亿枚 TUSD。此前 TUSD 总供应量约为 20.4 亿枚。
+https://whale-alert.io/transaction/tron/c9c7a01fd21f5ba3608e668b15cba37b0c2368824e58535f5dddc36217a8c446]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/MistTrack_io/status/1669283974517264384?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669310527535980544</id>
+        <link href="https://twitter.com/wublockchain12/status/1669310527535980544"/>
+        <updated>2023-06-15T11:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/MistTrack_io/status/1669283974517264384?s=20
+
+MistTrack🕵️: 🚨MistTrack Alert🚨
+North Korean hackers are laundering funds linked to @AtomicWallet Hack.
+They deployed two smart contracts about 6 hours ago:
+0xe07e2153542Eb4b768B4D73081143C90d25F1d58
+0x3c3ed2597b140f31241281523952e936037cbed3.
+Let's take a look👇]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 MistTrack 监测，朝鲜黑客正在清洗与 AtomicWallet 攻击相关的资金。洗钱方式大致为通过部署合约将 WETH 换为 ETH，并将 ETH 分发至多个地址然后桥...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669310525568860160</id>
+        <link href="https://twitter.com/wublockchain12/status/1669310525568860160"/>
+        <updated>2023-06-15T11:46:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 MistTrack 监测，朝鲜黑客正在清洗与 AtomicWallet 攻击相关的资金。洗钱方式大致为通过部署合约将 WETH 换为 ETH，并将 ETH 分发至多个地址然后桥接至 Avalanche 换成 BTC，最后将 BTC 跨链至 Bitcoin 网络。洗钱手法与 Harmony 黑客事件类似。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Damn bro it’s almost like whether the US guv is printing tons of money matters a lot… #bitcoin]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1669307052588449793</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1669307052588449793"/>
@@ -35,6 +128,27 @@ Seems a bit early to be calling bottoms no?]]></summary>
 #bitcoin]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 根据项目的结果，富士通将于 6 月 30 日推出一个新的基于区块链技术的跨境合作平台，即“富士通 Web3 加速平台”，以使用区块链技术连接不同经济区域的交易。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669299648882950144</id>
+        <link href="https://twitter.com/wublockchain12/status/1669299648882950144"/>
+        <updated>2023-06-15T11:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Re 根据项目的结果，富士通将于 6 月 30 日推出一个新的基于区块链技术的跨境合作平台，即“富士通 Web3 加速平台”，以使用区块链技术连接不同经济区域的交易。
+https://www.fujitsu.com/global/about/resources/news/press-releases/2023/0615-02.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，日本最大的 IT 服务提供商富士通宣布其专有的“ConnectionChain”区块链技术自 2022 年 1 月开始为期一年的试点项目已成功完成。亚洲开发银行、Consen...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669299647008088064</id>
+        <link href="https://twitter.com/wublockchain12/status/1669299647008088064"/>
+        <updated>2023-06-15T11:03:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，日本最大的 IT 服务提供商富士通宣布其专有的“ConnectionChain”区块链技术自 2022 年 1 月开始为期一年的试点项目已成功完成。亚洲开发银行、ConsenSys 等公司一起展示了这项技术在简化和增强金融证券的跨境交易方面的有效性。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -100,93 +214,6 @@ https://www.coindesk.com/web3/2023/06/14/apecoin-dao-special-council-six-figure-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[近期 ApeCoin (APE) 持有者就授予 ApeCoin DAO 领导层和社区委员会成员的六位数年薪展开了辩论。部分用户认为这些委员没有创造出任何明显的价值，APE 成功的完全...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669239057623416835</id>
-        <link href="https://twitter.com/wublockchain12/status/1669239057623416835"/>
-        <updated>2023-06-15T07:02:58.000Z</updated>
-        <summary type="html"><![CDATA[近期 ApeCoin (APE) 持有者就授予 ApeCoin DAO 领导层和社区委员会成员的六位数年薪展开了辩论。部分用户认为这些委员没有创造出任何明显的价值，APE 成功的完全在于 Yuga Labs，另外一部分用户则认为这是委员们应得的报酬。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 其中一个大户地址 czsamsun.eth 于 1 小时前通过 1.7 万枚 ETH 和 1.4 万枚 stETH 作为抵押品从 Aave V2 中借出了 3150 万 USDT，随后将其全部在 1inch 中兑...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669236759476187136</id>
-        <link href="https://twitter.com/wublockchain12/status/1669236759476187136"/>
-        <updated>2023-06-15T06:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Re 其中一个大户地址 czsamsun.eth 于 1 小时前通过 1.7 万枚 ETH 和 1.4 万枚 stETH 作为抵押品从 Aave V2 中借出了 3150 万 USDT，随后将其全部在 1inch 中兑换成 USDC。然后又将 1000 万 USDC 和 2100 万 USDC 分别存入了 V2 和 V3 ，随后从 V3 中借出 1200 万 USDT 并存入至… https://twitter.com/i/web/status/1669236759476187136]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Tether CTO 表示，当前市场处于紧张状态，因此攻击者很容易利用这种普遍情绪，Tether 已准备好赎回任意金额。 https://twitter.com/paoloardoino/status/1669...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669236600059105280</id>
-        <link href="https://twitter.com/wublockchain12/status/1669236600059105280"/>
-        <updated>2023-06-15T06:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Re Tether CTO 表示，当前市场处于紧张状态，因此攻击者很容易利用这种普遍情绪，Tether 已准备好赎回任意金额。
-https://twitter.com/paoloardoino/status/1669223742831042562?s=20
-
-Paolo Ardoino 🍐: Markets are edgy in these days, so it's easy for attackers to capitalize on this general sentiment.
-But at Tether we're ready as always. Let them come.
-We're ready to redeem any amount.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，Aave V2 中 USDT 借贷利率飙升，其中存款利率飙升超过 20%，贷款利率飙升超过 30%，有大户在 Aave 上借出 USDT 并在 Curve 等 DEX 上抛售。https:/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669232950922313728</id>
-        <link href="https://twitter.com/wublockchain12/status/1669232950922313728"/>
-        <updated>2023-06-15T06:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，Aave V2 中 USDT 借贷利率飙升，其中存款利率飙升超过 20%，贷款利率飙升超过 30%，有大户在 Aave 上借出 USDT 并在 Curve 等 DEX 上抛售。https://app.aave.com/reserve-overview/?underlyingAsset=0xdac17f958d2ee523a2206206994597c13d831ec7&marketName=proto_mainnet]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破产的对冲基金财产周三提交的文件称，Kyle Davies 因未能回应有关三箭资本 (3AC) 倒闭信息的传票而应被认定为藐视法庭。文件敦促纽约法院对故意无视先前请求的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669231874944929792</id>
-        <link href="https://twitter.com/wublockchain12/status/1669231874944929792"/>
-        <updated>2023-06-15T06:34:26.000Z</updated>
-        <summary type="html"><![CDATA[破产的对冲基金财产周三提交的文件称，Kyle Davies 因未能回应有关三箭资本 (3AC) 倒闭信息的传票而应被认定为藐视法庭。文件敦促纽约法院对故意无视先前请求的人处以每天 1 万美元的罚款，理由是 Davies 奢侈的生活方式和经营公司的丰厚利润。藐视法庭是一种民事犯罪，听证会将于 8 月 8… https://twitter.com/i/web/status/1669231874944929792]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 该情况由 USDT 价格下跌导致，目前 USDT 价格为 0.9977，达 2022 年 5 月 13 日以来低点。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669229876631703552</id>
-        <link href="https://twitter.com/wublockchain12/status/1669229876631703552"/>
-        <updated>2023-06-15T06:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 该情况由 USDT 价格下跌导致，目前 USDT 价格为 0.9977，达 2022 年 5 月 13 日以来低点。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙加密货币交易所 Bit2Me 在由 Investcorp 牵头的一轮融资中筹集了 1500 万美元，西班牙最大电信公司 Telefónica 的投资部门 Telefónica Ventures 等参投...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669227246060736513</id>
-        <link href="https://twitter.com/wublockchain12/status/1669227246060736513"/>
-        <updated>2023-06-15T06:16:02.000Z</updated>
-        <summary type="html"><![CDATA[西班牙加密货币交易所 Bit2Me 在由 Investcorp 牵头的一轮融资中筹集了 1500 万美元，西班牙最大电信公司 Telefónica 的投资部门 Telefónica Ventures 等参投。资金来提升其在公司西班牙的地位，并加速其在拉丁美洲的扩张。（CoinDesk）
-https://www.coindesk.com/business/2023/06/15/crypto-exchange-bit2me-raises-15m-to-grow-in-spain-and-latin-america/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安上 USDC/USDT 交易对中 USDC 价格持续走高，当前已达 1.0034 美元，创 2022 年 6 月 13 日以来高点。Curve 3pool 中 USDT 占比已达 73.79%，DAI ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669225128742506497</id>
-        <link href="https://twitter.com/wublockchain12/status/1669225128742506497"/>
-        <updated>2023-06-15T06:07:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安上 USDC/USDT 交易对中 USDC 价格持续走高，当前已达 1.0034 美元，创 2022 年 6 月 13 日以来高点。Curve 3pool 中 USDT 占比已达 73.79%，DAI 为13.05%，USDC 为 13.16%，处于倾斜状态中。
-https://curve.fi/#/ethereum/pools/3pool/deposit https://t.co/fwFM02upxg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @silentdao_ 🔥]]></title>
         <id>https://twitter.com/OnChainWizard/status/1669223737537724419</id>
         <link href="https://twitter.com/OnChainWizard/status/1669223737537724419"/>
@@ -194,67 +221,6 @@ https://curve.fi/#/ethereum/pools/3pool/deposit https://t.co/fwFM02upxg]]></summ
         <summary type="html"><![CDATA[Re @silentdao_ 🔥]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Aave-Chan Initiative 创始人 Marc Zeller 表示，DeFi 的核心精神应该是中立性；通过增加储备因子（RF）或降低清算门槛（LT）来人为增加清算的机率可能不是最...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669215099519897600</id>
-        <link href="https://twitter.com/wublockchain12/status/1669215099519897600"/>
-        <updated>2023-06-15T05:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Re Aave-Chan Initiative 创始人 Marc Zeller 表示，DeFi 的核心精神应该是中立性；通过增加储备因子（RF）或降低清算门槛（LT）来人为增加清算的机率可能不是最明智的办法。
-https://governance.aave.com/t/gauntlet-recommendation-to-freeze-crv-and-set-crv-ltv-0-on-aave-v2/13644]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re DeFi 协议风险评估平台 Gauntlet 此前于 6 月 13 日在 Aave 治理论坛上发布冻结 michwill（0x7a…5428）该地址 CRV 抵押品，并将 LTV 设置为零的提议，以期减...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669215097741533186</id>
-        <link href="https://twitter.com/wublockchain12/status/1669215097741533186"/>
-        <updated>2023-06-15T05:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Re DeFi 协议风险评估平台 Gauntlet 此前于 6 月 13 日在 Aave 治理论坛上发布冻结 michwill（0x7a…5428）该地址 CRV 抵押品，并将 LTV 设置为零的提议，以期减少该地址的借款或增加其他形式的抵押品。有社区用户表示，这笔债务可能无意还清。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 在 Abracadabra 以 60,904,437 CRV 做抵押借出 1550 万 MIM，健康率为 1.7；在 Fraxlend 以 46,650,000 CRV 做抵押借出 1280 万 FRAX，健康率为 1.58；在 Inv...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669215095724052483</id>
-        <link href="https://twitter.com/wublockchain12/status/1669215095724052483"/>
-        <updated>2023-06-15T05:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 在 Abracadabra 以 60,904,437 CRV 做抵押借出 1550 万 MIM，健康率为 1.7；在 Fraxlend 以 46,650,000 CRV 做抵押借出 1280 万 FRAX，健康率为 1.58；在 Inverse 以 16,128,033 CRV 做抵押借出 460 万 DOLA，健康率为 1.5。https://debank.com/profile/0x7a16ff8270133f063aab6c9977183d9e72835428]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 近 24 小时 CRV 下跌超 10%。空头主力可能是源于对 Curve 创始人 michwill（0x7a…5428）头寸仓位清算的押注，该地址有 4.3 亿枚 CRV（约占流通量的 50%）用...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669215093803085826</id>
-        <link href="https://twitter.com/wublockchain12/status/1669215093803085826"/>
-        <updated>2023-06-15T05:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 近 24 小时 CRV 下跌超 10%。空头主力可能是源于对 Curve 创始人 michwill（0x7a…5428）头寸仓位清算的押注，该地址有 4.3 亿枚 CRV（约占流通量的 50%）用于借贷协议的担保物，当前在 Aave V2 以 288,790,893 CRV 做抵押借出 6300 万 USDT，健康率为 1.53，清算线约 $0.37；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Coinglass 数据，全网 CRV U 本位永续合约 8 小时成交量加权资金费率达 -0.0733%，创下年内新低，由空头向多头补贴。https://www.coinglass.com/zh...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669215092020490241</id>
-        <link href="https://twitter.com/wublockchain12/status/1669215092020490241"/>
-        <updated>2023-06-15T05:27:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Coinglass 数据，全网 CRV U 本位永续合约 8 小时成交量加权资金费率达 -0.0733%，创下年内新低，由空头向多头补贴。https://www.coinglass.com/zh/currencies/CRV]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re SBF 的辩护团队提出了额外的动议，以各种理由驳回大部分其他指控，司法部驳回该动议的听证会将于6 月 15 日美国东部时间上午 10:30 举行。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669209361770754048</id>
-        <link href="https://twitter.com/wublockchain12/status/1669209361770754048"/>
-        <updated>2023-06-15T05:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Re SBF 的辩护团队提出了额外的动议，以各种理由驳回大部分其他指控，司法部驳回该动议的听证会将于6 月 15 日美国东部时间上午 10:30 举行。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
