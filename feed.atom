@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T04:14:58.502Z</id>
+    <id>urn:2023-06-15T05:11:59.090Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T04:14:58.502Z</updated>
+    <updated>2023-06-15T05:11:59.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Greekslive，尽管今日市场波动放大带动多个期限的实现波动率 RV 上升，但是主要期限隐含波动率 IV 并未出现相应增长，目前短期 VRP 全部转为倒挂。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669182566321254401</id>
+        <link href="https://twitter.com/wublockchain12/status/1669182566321254401"/>
+        <updated>2023-06-15T03:18:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，尽管今日市场波动放大带动多个期限的实现波动率 RV 上升，但是主要期限隐含波动率 IV 并未出现相应增长，目前短期 VRP 全部转为倒挂。VRP 倒挂对 IV 的支撑效果较为明显，结合目前 IV 已经处于历史低位，短期内 IV… https://twitter.com/i/web/status/1669182566321254401
+
+吴说区块链: 吴说获悉，据 Greekslive，在过去的半小时内，大宗成交了近 5 万张主动买ETH-29SEP23-2200-C，名义价值超 8500 万美元。很可能是巨鲸想趁着明天凌晨美联储会议这一事件驱动平仓，一方面可能是认为下跌进入尾声，另一方面也可能是认为市场很难出现暴涨暴跌，才选择了以上操作。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/Sei_FND/status/1669155262958272513?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669180156676820992</id>
+        <link href="https://twitter.com/wublockchain12/status/1669180156676820992"/>
+        <updated>2023-06-15T03:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/Sei_FND/status/1669155262958272513?s=20
+
+Sei Foundation: 1/ We’ve recently heard rumors that a face scan / KYC would be required for Sei’s incentivized testnet and airdrop.
+This is categorically false. No face scan / KYC will be required for incentivized testnet nor airdrop 🚢]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Sei 基金会发文称，Sei 的激励测试网和空投需要面部扫描/KYC 的传言不实，Sei 基金会是在收到 Sei Discord 频道存在机器人垃圾邮件的反馈后，尝试将面...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1669180154609029121</id>
+        <link href="https://twitter.com/wublockchain12/status/1669180154609029121"/>
+        <updated>2023-06-15T03:08:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Sei 基金会发文称，Sei 的激励测试网和空投需要面部扫描/KYC 的传言不实，Sei 基金会是在收到 Sei Discord 频道存在机器人垃圾邮件的反馈后，尝试将面部扫描工具添加到 Discord 中。此前 Sei 以 8 亿美元的估值筹集了 3000 万美元，Jump Capital、Multicoin Capital 等参投。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ResearchQf What semis u like here?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1669170800245587968</id>
@@ -21,7 +56,7 @@
         <link href="https://twitter.com/wublockchain12/status/1669170017345372166"/>
         <updated>2023-06-15T02:28:38.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据余烬监测，BLUR 已在 6 小时前解锁 1.91 亿枚(5931 万美元)，不过并没有在链上进行分发，而是直接转入了 Coinbase 的机构交易/托管平台 Coinbase Prim。
-https://twitter.com/EmberCN/status/1669167023761547265?s=20 https://twitter.com/wublockchain12/status/1668083722737029120
+https://twitter.com/EmberCN/status/1669167023761547265?s=20
 
 吴说区块链: 吴说获悉，据 TokenUnlocks 数据，Blur 的核心贡献者、投资者、顾问的代币将于本周 6 月 15 日 2:00 进行首次解锁，分别为 115,680,252 BLUR、75,417,843 BLUR、4,901,905 BLUR，解锁总量为 195,999,999.97，价值约 6 千万美元。当前 BLUR 已跌破 $0.3，处于历史新低。https://token.unlocks.app/blur]]></summary>
         <author>
@@ -163,7 +198,7 @@ https://www.coindesk.com/policy/2023/06/15/bitcoin-friendly-miami-mayor-francis-
         <link href="https://twitter.com/wublockchain12/status/1669142754851684352"/>
         <updated>2023-06-15T00:40:18.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，MakerDAO 社区目前正在对一项提案进行投票，提案内容是将 GUSD 的最大金额从 Maker 的 DAI 稳定币储备中持有的 5 亿美元减少到 1.1 亿美元。目前提案赞成率为 95%，15 小时后投票截止。MakerDAO 所持有 GUSD 占 GUSD 5.68 亿美元总流通供应量的 88%。
-https://vote.makerdao.com/polling/QmaXg3JT#vote-breakdown https://twitter.com/wublockchain12/status/1664431718949089281
+https://vote.makerdao.com/polling/QmaXg3JT#vote-breakdown
 
 吴说区块链: MakerDAO已投票决定从其储备资产中放弃5亿美元的Paxos Dollar（USDP）稳定币，将 USDP 的债务上限从 5 亿美元降至零，而 MakerDAO 目前持有 USDP 总供应量的大约一半。此前，纽约州监管机构于 2 月迫使Paxos停止铸造 BUSD 。提案认为，持有稳定币不会为 MakerDAO… https://twitter.com/i/web/status/1664431718949089281]]></summary>
         <author>
@@ -207,38 +242,6 @@ https://www.theblock.co/post/234723/bnb-chain-volume-rose-65-between-april-and-m
         <link href="https://twitter.com/wublockchain12/status/1669134225629642752"/>
         <updated>2023-06-15T00:06:25.000Z</updated>
         <summary type="html"><![CDATA[Re 2020 年 4 月 Jack Dorsey 表示将把自己持有的 Block（当时称为 Square）的 10 亿美元股权捐给一个名为 Smart Small 的新基金，目前融资总额达到 14 亿美元的 Smart Small 已经花费了 5.15 亿美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币非营利组织 Brink 从 Jack Dorsey 的 Smart Small 资助计划筹集了 500 万美元，以继续资助独立的比特币开发商。资金将以每年 100 万美元的速度在五年内分...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669134223465402368</id>
-        <link href="https://twitter.com/wublockchain12/status/1669134223465402368"/>
-        <updated>2023-06-15T00:06:24.000Z</updated>
-        <summary type="html"><![CDATA[比特币非营利组织 Brink 从 Jack Dorsey 的 Smart Small 资助计划筹集了 500 万美元，以继续资助独立的比特币开发商。资金将以每年 100 万美元的速度在五年内分配，目的是维持现有的受赠人并可能增加新的合格申请人。（The Block）
-https://www.theblock.co/post/234580/brink-gets-5-million-of-funding-for-bitcoin-devs-from-jack-dorseys-fund?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re FPG 于 2018 年在麻省理工学院成立，其客户管理着价值超过 500 亿美元的资产，去年 12 月 FPG 表示其区块链基金会客户占整个财资管理市场的 5%。 https://www...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669132183439826946</id>
-        <link href="https://twitter.com/wublockchain12/status/1669132183439826946"/>
-        <updated>2023-06-14T23:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Re FPG 于 2018 年在麻省理工学院成立，其客户管理着价值超过 500 亿美元的资产，去年 12 月 FPG 表示其区块链基金会客户占整个财资管理市场的 5%。
-https://www.theblock.co/post/234587/crypto-fpg-halts-withdrawals-cyber-attack?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 The Block 报道，加密大宗经纪公司 Floating Point Group (FPG) 在周日发生“网络安全事件”后，该公司已停止交易、存款和取款。FPG 损失的加密货币数量在 15...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1669132181426536448</id>
-        <link href="https://twitter.com/wublockchain12/status/1669132181426536448"/>
-        <updated>2023-06-14T23:58:17.000Z</updated>
-        <summary type="html"><![CDATA[据 The Block 报道，加密大宗经纪公司 Floating Point Group (FPG)  在周日发生“网络安全事件”后，该公司已停止交易、存款和取款。FPG 损失的加密货币数量在 1500 万至 2000 万美元之间，目前已与第三方取证专家和执法部门合作。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -862,6 +865,17 @@ Re The numbers don't lie. https://t.co/lec4wkp6RO]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《证券》 SEC 在 Coinbase 案中将 SOL、ADA、MATIC、FIL、SAND、AXS、CHZ、FLOW、ICP、NEAR、VGX、DASH 和 NEXO 定义为证券。]]></title>
+        <id>https://twitter.com/8848Community/status/1666058426932416512</id>
+        <link href="https://twitter.com/8848Community/status/1666058426932416512"/>
+        <updated>2023-06-06T12:24:17.000Z</updated>
+        <summary type="html"><![CDATA[《证券》
+SEC 在 Coinbase 案中将 SOL、ADA、MATIC、FIL、SAND、AXS、CHZ、FLOW、ICP、NEAR、VGX、DASH 和 NEXO 定义为证券。]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT rektdiomedes: Things the US government protects people from: ❌ Slot machines ❌ Oxycontin ❌ Microplastics ❌ Seed oils ❌ Non-bankruptable studen...]]></title>
         <id>https://twitter.com/rektdiomedes/status/1665977954143174656</id>
         <link href="https://twitter.com/rektdiomedes/status/1665977954143174656"/>
@@ -965,11 +979,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
