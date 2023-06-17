@@ -6,6 +6,136 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1669909266415910912",
+          "author": "吴说区块链",
+          "description": "Re 攻击者利用这个漏洞清空了 Guard 的执行者白名单，导致多签账户的交易无法通过 Guard 的检查。在无法解决 Safe Guard 逻辑的情况下，提案呼吁通过 EIP1271 添加删除 Guard 功能，并提出了进一步改进CoWSwap 的 DAO 交易结算和在 Yearn V3 中添加 EIP1271 交互的计划。https://twitter.com/bantg/status/1669827080941449223\n\nbanteg: How we rescued funds from a bricked Safe with EIP-1271\nhttps://mirror.xyz/yearn-finance-engineering.eth/pqWg0IXZI93NV50scPh0qy-nc0SmqFYTHufc2Tw85GU",
+          "link": "https://twitter.com/wublockchain12/status/1669909266415910912",
+          "publishedOn": "2023-06-17T03:26:09.000Z",
+          "wordCount": null,
+          "title": "Re 攻击者利用这个漏洞清空了 Guard 的执行者白名单，导致多签账户的交易无法通过 Guard 的检查。在无法解决 Safe Guard 逻辑的情况下，提案呼吁通过 EIP1271 添...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669909264373288960",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Yearn 开发者提议使用 EIP1271 来解决多签合约被攻击的问题，并介绍了如何利用 EIP1271 在CoWSwap 上创建订单。此前，Yearn 的辅助多签账户\"yTrades\"遭遇复杂攻击，导致约100万美元的资产被困。原因是团队没有将协议的主多签账户设置为 Guard 合约的治理角色。",
+          "link": "https://twitter.com/wublockchain12/status/1669909264373288960",
+          "publishedOn": "2023-06-17T03:26:08.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Yearn 开发者提议使用 EIP1271 来解决多签合约被攻击的问题，并介绍了如何利用 EIP1271 在CoWSwap 上创建订单。此前，Yearn 的辅助多签账户\"yTrades\"...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669908227474219011",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/sendwyre/status/1669688772844220418\n\nWyre: After nearly a decade, Wyre is winding down. Due to market conditions, we made this decision to protect the best interest of our key stakeholders and customers. This decision is not due to any regulatory agency direction. Wyre continues to secure customer assets.",
+          "link": "https://twitter.com/wublockchain12/status/1669908227474219011",
+          "publishedOn": "2023-06-17T03:22:01.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/sendwyre/status/1669688772844220418",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669908114714554370",
+          "author": "吴说区块链",
+          "description": "吴说获悉，加密货币支付公司 Wyre 发推表示将关闭公司，在 Wyre 平台上拥有资产的用户可以在 7 月 14 日之前通过 Wyre 的仪表板提取资产，此后将有一个单独的程序来回收平台上剩余资产。此前 1 月，成立于 2013 年的 Wyre 告知员工其因裁员而倒闭。",
+          "link": "https://twitter.com/wublockchain12/status/1669908114714554370",
+          "publishedOn": "2023-06-17T03:21:34.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，加密货币支付公司 Wyre 发推表示将关闭公司，在 Wyre 平台上拥有资产的用户可以在 7 月 14 日之前通过 Wyre 的仪表板提取资产，此后将有一个单独的程...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669898147244695552",
+          "author": "吴说区块链",
+          "description": "Re 而在2022年账目中显示，这些头寸缩减至 1420 万英镑、1620 万英镑和 1620 万英镑。（The Block）\nhttps://www.theblock.co/post/235168/uk-investment-marked-down-stakes-crypto-startups?utm_source=twitter&utm_medium=social",
+          "link": "https://twitter.com/wublockchain12/status/1669898147244695552",
+          "publishedOn": "2023-06-17T02:41:58.000Z",
+          "wordCount": null,
+          "title": "Re 而在2022年账目中显示，这些头寸缩减至 1420 万英镑、1620 万英镑和 1620 万英镑。（The Block） https://www.theblock.co/post/235168/uk-investment-marked...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669898144983945216",
+          "author": "吴说区块链",
+          "description": "英国投资信托公司 RIT Capital Partners Plc 今年早些时候降低了对几家知名加密初创公司的投资价值。该信托基金自2021年以来已向加密公司投资数千万英镑。据 2021 年年度报告显示，Animoca Brands、Kraken 和 Paxos 的头寸分别为 2780 万英镑、3320 万英镑和 2080 万英镑。",
+          "link": "https://twitter.com/wublockchain12/status/1669898144983945216",
+          "publishedOn": "2023-06-17T02:41:57.000Z",
+          "wordCount": null,
+          "title": "英国投资信托公司 RIT Capital Partners Plc 今年早些时候降低了对几家知名加密初创公司的投资价值。该信托基金自2021年以来已向加密公司投资数千万英镑。据 202...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669891107088637952",
+          "author": "吴说区块链",
+          "description": "Re ZachXBT 发推回应，不知道是谁发行的 ZACH ，但已把收到的 ZACH 发送到了销毁地址，不想对他人倾销。\nhttps://twitter.com/zachxbt/status/1669837186387292160\n\nZachXBT: @0xSisyphus Have no idea who made this but sent the ZACH tokens I received to the burn address bc I do not wish to dump on people.\nhttps://etherscan.io/tx/0x1ffb40ef8ef433115ce550bb47922904acf57ed6b38845b9aaa249021f8d9271",
+          "link": "https://twitter.com/wublockchain12/status/1669891107088637952",
+          "publishedOn": "2023-06-17T02:13:59.000Z",
+          "wordCount": null,
+          "title": "Re ZachXBT 发推回应，不知道是谁发行的 ZACH ，但已把收到的 ZACH 发送到了销毁地址，不想对他人倾销。 https://twitter.com/zachxbt/status/16698371863872921...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669887131580534786",
+          "author": "吴说区块链",
+          "description": "Re 这些非循环供应地址的 LINK 都是在一年前由 Team Wallet 或 Node Operators 钱包转入。\nhttps://twitter.com/EmberCN/status/1669885644670406658?s=20\n\n余烬: 5 小时前，Chainlink 4 个标注为 Noncirculating Supply (非循环供应)的钱包一共转出了 2100 万 $LINK($111M)\n其中 1795 万($95M) 转入了 #Binance，305 万($16M) 转至 0xD50f 多签地址\n这些非循环供应地址的 LINK 都是在一年前由 Team Wallet 或 Node Operators 钱包转入\n推文由 @LionDEX_CN 赞助 https://t.co/N3NSxBkXYG",
+          "link": "https://twitter.com/wublockchain12/status/1669887131580534786",
+          "publishedOn": "2023-06-17T01:58:11.000Z",
+          "wordCount": null,
+          "title": "Re 这些非循环供应地址的 LINK 都是在一年前由 Team Wallet 或 Node Operators 钱包转入。 https://twitter.com/EmberCN/status/1669885644670406658?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669887129118466048",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据余烬监测，Chainlink 4 个标注为 Noncirculating Supply (非循环供应)的钱包在 5 小时前一共转出了 2100 万枚 LINK(约合 1.11 亿美元)，其中 1795 万枚 LINK (9500 万美元) 转入了 Binance，305 万枚 LINK(1600 万美元) 转至 0xD50f 多签地址。",
+          "link": "https://twitter.com/wublockchain12/status/1669887129118466048",
+          "publishedOn": "2023-06-17T01:58:11.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据余烬监测，Chainlink 4 个标注为 Noncirculating Supply (非循环供应)的钱包在 5 小时前一共转出了 2100 万枚 LINK(约合 1.11 亿美元)，其中 1795 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669885446036525058",
+          "author": "吴说区块链",
+          "description": "Re 阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=15297",
+          "link": "https://twitter.com/wublockchain12/status/1669885446036525058",
+          "publishedOn": "2023-06-17T01:51:29.000Z",
+          "wordCount": null,
+          "title": "Re 阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=15297",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669885444023263234",
+          "author": "吴说区块链",
+          "description": "《Arthur Hayes 博文: 美国监管加剧 香港欢迎加密货币 这意味着什么？》香港将成为中国资本获准拥有加密金融资产的渠道；中国加密货币交易员通过香港的金融管道回归，将重新点燃市场；与此同时，破产的美国大众富人实际上被拒之门外；会在熊市积累阶段采取缓慢操作买进，不使用杠杆。",
+          "link": "https://twitter.com/wublockchain12/status/1669885444023263234",
+          "publishedOn": "2023-06-17T01:51:29.000Z",
+          "wordCount": null,
+          "title": "《Arthur Hayes 博文: 美国监管加剧 香港欢迎加密货币 这意味着什么？》香港将成为中国资本获准拥有加密金融资产的渠道；中国加密货币交易员通过香港的金融管道...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669882652663623680",
+          "author": "吴说区块链",
+          "description": "Re Tether 累计收到 45 万枚 BTC 和 110 万枚 ETH 作为抵押品，并在此期间偿还了 80 亿美元的贷款。（The Block）\nhttps://www.theblock.co/post/235212/tether-issued-11-6-billion-of-loans-between-2019-and-may-2021",
+          "link": "https://twitter.com/wublockchain12/status/1669882652663623680",
+          "publishedOn": "2023-06-17T01:40:23.000Z",
+          "wordCount": null,
+          "title": "Re Tether 累计收到 45 万枚 BTC 和 110 万枚 ETH 作为抵押品，并在此期间偿还了 80 亿美元的贷款。（The Block） https://www.theblock.co/post/235212/tether-...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1669882650293837824",
+          "author": "吴说区块链",
+          "description": "据纽约总检察长发布的文件，Tether 在 2019 年 6 月至 2021 年 5 月期间发行了 116 亿美元的抵押贷款。其中，89% 以 BTC 为抵押品；9% 以 ETH 为抵押品；剩余 2% 分配给 Tether Gold（XAUT）和其它证券作为抵押。",
+          "link": "https://twitter.com/wublockchain12/status/1669882650293837824",
+          "publishedOn": "2023-06-17T01:40:23.000Z",
+          "wordCount": null,
+          "title": "据纽约总检察长发布的文件，Tether 在 2019 年 6 月至 2021 年 5 月期间发行了 116 亿美元的抵押贷款。其中，89% 以 BTC 为抵押品；9% 以 ETH 为抵押品；剩余 2%...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1669878035808673793",
           "author": "吴说区块链",
           "description": "Re 任何以太坊交易，如果其输入数据是有效 Ethscription 的交易哈希，且交易发送方是 Ethscription 的所有者，那即是有效的 Ethscription 转移；创建交易的接收方是 Ethscription 的初始所有者，创建交易的发送方是 Ethscription 的创建者。https://twitter.com/dumbnamenumbers/status/1669822912579223552?s=20\n\nMiddlemarch: Introducing Ethscriptions: a new way of creating and sharing digital artifacts on Ethereum using transaction calldata.\nhttps://ethscriptions.com/\nALSO: Introducing Ethereum Punks. Because why should all non-contract Punk collecting happen on Bitcoin?\nhttps://ethereumpunks.net/… https://twitter.com/i/web/status/1669822912579223552",
@@ -74,116 +204,6 @@
           "wordCount": null,
           "title": "美国证券交易委员会执法部门负责人 Gurbir Grewal 周五表示“我们不关心这些标签。我们关心的是产品，标签对我们来说并不重要。当我们仔细审查时，我们看到很多 ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669873968529166337",
-          "author": "吴说区块链",
-          "description": "Re 最大捐赠包括一个以 ZachXBT 命名的 Memecoin 的价值 12.5 万美元 ETH（该 Memecoin 买卖包含 2% 税，由 ZachXBT 捐赠地址所有），以及 Memeland 捐赠的 6.9 ETH 等。https://platform.arkhamintelligence.com/explorer/address/0x6eA158145907a1fAc74016087611913A96d96624",
-          "link": "https://twitter.com/wublockchain12/status/1669873968529166337",
-          "publishedOn": "2023-06-17T01:05:53.000Z",
-          "wordCount": null,
-          "title": "Re 最大捐赠包括一个以 ZachXBT 命名的 Memecoin 的价值 12.5 万美元 ETH（该 Memecoin 买卖包含 2% 税，由 ZachXBT 捐赠地址所有），以及 Memeland 捐赠的 6.9 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669873966406852608",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，据 Arkham 数据，在黄立成对 ZachXBT 提起诉讼后，目前 ZachXBT 捐赠地址（0x6e…6624）已收到价值超过 40 万美元的加密捐赠以示支持，主要包括 131 枚 ETH（价值 22.6 万）和 14.4 万 USDC 以及 2 万 USDT 等，",
-          "link": "https://twitter.com/wublockchain12/status/1669873966406852608",
-          "publishedOn": "2023-06-17T01:05:53.000Z",
-          "wordCount": null,
-          "title": "Re 吴说获悉，据 Arkham 数据，在黄立成对 ZachXBT 提起诉讼后，目前 ZachXBT 捐赠地址（0x6e…6624）已收到价值超过 40 万美元的加密捐赠以示支持，主要包括 13...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669860935450923008",
-          "author": "吴说区块链",
-          "description": "Re 此前，ZachXBT 在文中提到 Huang 在 2018 年从 Formosa Financial 挪用了 22000 个 ETH，并在其倒闭后又陆续推出了十多个失败的发币和 NFT 项目。（The Block）\nhttps://www.theblock.co/post/235220/crypto-sleuth-zachxbt-sued-for-defamation?utm_source=news.xml&utm_medium=social",
-          "link": "https://twitter.com/wublockchain12/status/1669860935450923008",
-          "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": null,
-          "title": "Re 此前，ZachXBT 在文中提到 Huang 在 2018 年从 Formosa Financial 挪用了 22000 个 ETH，并在其倒闭后又陆续推出了十多个失败的发币和 NFT 项目。（The Block...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669860933219520512",
-          "author": "吴说区块链",
-          "description": "加密巨鲸麻吉大哥黄立成（Jeffrey Huang）以诽谤罪对“链上侦探”ZachXBT 提起诉讼，声称 ZachXBT 于2022 年在 Medium 上指控 Huang 挪用了价值数千万美元的加密货币的文章是虚假的。ZachXBT 表示将为维护言论自由设立捐款地址以应对可能超过100万美元的法律费用。",
-          "link": "https://twitter.com/wublockchain12/status/1669860933219520512",
-          "publishedOn": "2023-06-17T00:14:05.000Z",
-          "wordCount": null,
-          "title": "加密巨鲸麻吉大哥黄立成（Jeffrey Huang）以诽谤罪对“链上侦探”ZachXBT 提起诉讼，声称 ZachXBT 于2022 年在 Medium 上指控 Huang 挪用了价值数千万美元的加密...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669731538546851842",
-          "author": "吴说区块链",
-          "description": "Re https://www.globenewswire.com/news-release/2023/06/16/2689691/0/en/Bitdeer-Announces-US-1-000-000-Share-Repurchase-Program.html",
-          "link": "https://twitter.com/wublockchain12/status/1669731538546851842",
-          "publishedOn": "2023-06-16T15:39:55.000Z",
-          "wordCount": null,
-          "title": "Re https://www.globenewswire.com/news-release/2023/06/16/2689691/0/en/Bitdeer-Announces-US-1-000-000-Share-Repurchase-Program.html",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669731426454097921",
-          "author": "吴说区块链",
-          "description": "吴说获悉，比特小鹿宣布其董事会已批准一项股份回购计划，根据该计划，公司可回购价值不超过 1,000,000 美元的 A 类普通股，有效期至 2023 年 9 月 15 日。根据股份回购计划，Bitdeer 可以通过多种方式购买其股份，包括公开市场交易、私下协商交易、其任意组合或其他法律允许的方式。",
-          "link": "https://twitter.com/wublockchain12/status/1669731426454097921",
-          "publishedOn": "2023-06-16T15:39:28.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，比特小鹿宣布其董事会已批准一项股份回购计划，根据该计划，公司可回购价值不超过 1,000,000 美元的 A 类普通股，有效期至 2023 年 9 月 15 日。根据...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669728873377058816",
-          "author": "吴说区块链",
-          "description": "吴说获悉，MakerDAO 宣布将于6月19日北京时间 22:00 将 DAI 储蓄率（DSR）从 1% 提高到 3.49%，选择加入 DSR 的 DAI 持有者收益率是一致的。DSR 年收益率由 Maker 治理参与者通过执行投票决定的，并且可能会在未来进行调整。MakerDAO 此前称，去年将 DSR 提高到1%推动一个月内存入超过3500万枚… https://twitter.com/i/web/status/1669728873377058816",
-          "link": "https://twitter.com/wublockchain12/status/1669728873377058816",
-          "publishedOn": "2023-06-16T15:29:20.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，MakerDAO 宣布将于6月19日北京时间 22:00 将 DAI 储蓄率（DSR）从 1% 提高到 3.49%，选择加入 DSR 的 DAI 持有者收益率是一致的。DSR 年收益率由 Make...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669725147425820672",
-          "author": "吴说区块链",
-          "description": "据 DL News，Do Kwon 辩称，他们通过新加坡的一家机构获得哥斯达黎加护照和比利时身份证，并认为他正在参与一个“黄金护照”计划，高价值投资者能够快速获得某些国家的公民身份。Kwon 引用格林纳达、葡萄牙、迪拜和黑山提供类似的计划，并说他为其哥斯达黎加护照支付了 250,000 欧元。Do Kwon 和 Han… https://twitter.com/i/web/status/1669725147425820672\n\n吴说区块链: 据 DL News，黑山法院下令 Do Kwon 及 Han Chang-Joon 继续监禁六个月，因为法官正在考虑韩国及美国当局提出的引渡请求。法院于本月重新批准了二人的保释请求。此前报道，现黑山总理 Dritan Abazovic 敦促检察机关对 Do Kwon 与 Europe Now 政治运动领导人 Milojko Spajic… https://twitter.com/i/web/status/1669504098914422786",
-          "link": "https://twitter.com/wublockchain12/status/1669725147425820672",
-          "publishedOn": "2023-06-16T15:14:31.000Z",
-          "wordCount": null,
-          "title": "据 DL News，Do Kwon 辩称，他们通过新加坡的一家机构获得哥斯达黎加护照和比利时身份证，并认为他正在参与一个“黄金护照”计划，高价值投资者能够快速获得某些...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669714309784702976",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，Tether 回应称，Tether 对中国商业票据的敞口主要是在银行业，但持有的所有中国商业票据都具有流动性，并且由国际商业票据市场上的大型知名发行人发行，评级为A1或以上。Tether 在包括中国商业票据在内的任何商业票据上都没有损失一分钱。https://tether.to/en/Everything-You-Need-To-Know-About-What-We-Shared-With-NYAG/",
-          "link": "https://twitter.com/wublockchain12/status/1669714309784702976",
-          "publishedOn": "2023-06-16T14:31:27.000Z",
-          "wordCount": null,
-          "title": "Re 吴说获悉，Tether 回应称，Tether 对中国商业票据的敞口主要是在银行业，但持有的所有中国商业票据都具有流动性，并且由国际商业票据市场上的大型知名发行人...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669712775369867266",
-          "author": "吴说区块链",
-          "description": "Re 第二阶段将引入 VIP 功能，VIP 会员观看 15 分钟即可领取每日奖励，并使用累积的门票进入下一阶段的彩票池和幸运树。 Playbux 此前曾完成 200 万美元种子轮融资，Binance Labs 领投，http://Gate.io 等参投。https://iqiyi.playbux.co/watch-to-earn-announcement",
-          "link": "https://twitter.com/wublockchain12/status/1669712775369867266",
-          "publishedOn": "2023-06-16T14:25:22.000Z",
-          "wordCount": null,
-          "title": "Re 第二阶段将引入 VIP 功能，VIP 会员观看 15 分钟即可领取每日奖励，并使用累积的门票进入下一阶段的彩票池和幸运树。 Playbux 此前曾完成 200 万美元种子轮融...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1669712633526878208",
-          "author": "吴说区块链",
-          "description": "吴说获悉， http://Playbux.co 和爱奇艺宣布合作推出观众与数字内容互动的新方式 Watch to Earn。现开启第一阶段：当每天观看时间达到30分钟后可领抽奖券、BRK、宝箱碎片和“Watch to Earn”NFT等每日奖励。 https://twitter.com/i/web/status/1669712633526878208",
-          "link": "https://twitter.com/wublockchain12/status/1669712633526878208",
-          "publishedOn": "2023-06-16T14:24:48.000Z",
-          "wordCount": null,
-          "title": "吴说获悉， http://Playbux.co 和爱奇艺宣布合作推出观众与数字内容互动的新方式 Watch to Earn。现开启第一阶段：当每天观看时间达到30分钟后可领抽奖券、BRK、...",
-          "imageUrl": null
         }
       ]
     },
@@ -195,27 +215,27 @@
         {
           "id": "https://twitter.com/8848Community/status/1668970368466554881",
           "author": "8848 社区（8848 Community）",
-          "description": "Linea 第七周\n卧槽，快40个任务啊\n高三作业都没这么多\nlinea团队有sm癖好吗\n这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672\n\nLinea: 1/\n📣It’s Week 7 of Linea Voyage, Linea fam! Welcome to Social & Entertainment Week.\nTogether with 19 innovative partners, we'll explore new frontiers in web3's social and gaming landscape.\n Get ready for a week filled with infinite possibilities.\nhttps://linea.mirror.xyz/KbiYIo44bvDjSSA8EEK5IUDmbDJd3pvUDwZMDZ1rNVU",
+          "description": "Linea 第七周\n卧槽，快40个任务啊\n高三作业都没这么多\nlinea团队有sm癖好吗\n这么多任务\n\nLinea: 1/\n📣It’s Week 7 of Linea Voyage, Linea fam! Welcome to Social & Entertainment Week.\nTogether with 19 innovative partners, we'll explore new frontiers in web3's social and gaming landscape.\n Get ready for a week filled with infinite possibilities.\nhttps://linea.mirror.xyz/KbiYIo44bvDjSSA8EEK5IUDmbDJd3pvUDwZMDZ1rNVU",
           "link": "https://twitter.com/8848Community/status/1668970368466554881",
           "publishedOn": "2023-06-14T13:15:18.000Z",
           "wordCount": null,
-          "title": "Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672",
+          "title": "Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1668928217233895425",
           "author": "8848 社区（8848 Community）",
-          "description": "braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411\n\nBraavos - StarkNet Wallet: Unleash the final chapter! 🎉\nMilestone 5 of the #StarknetJourney is live!\nOwning the Dynamic Map unlocks awaited financial opportunities for the Starknet Community, exclusively on Braavos  💫\nThe big reveal is around the corner! 🪙\nReady for the uncharted?\nKeep reading 👀👇 https://t.co/IVeKqciZJQ",
+          "description": "braavos钱包的奥德赛第五周，这周任务是需要跨币进去\n\nBraavos - StarkNet Wallet: Unleash the final chapter! 🎉\nMilestone 5 of the #StarknetJourney is live!\nOwning the Dynamic Map unlocks awaited financial opportunities for the Starknet Community, exclusively on Braavos  💫\nThe big reveal is around the corner! 🪙\nReady for the uncharted?\nKeep reading 👀👇 https://t.co/IVeKqciZJQ",
           "link": "https://twitter.com/8848Community/status/1668928217233895425",
           "publishedOn": "2023-06-14T10:27:48.000Z",
           "wordCount": null,
-          "title": "braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411",
+          "title": "braavos钱包的奥德赛第五周，这周任务是需要跨币进去",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/8848Community/status/1668630551924969483",
           "author": "8848 社区（8848 Community）",
-          "description": "之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？ https://twitter.com/Chainflip/status/1668618140966846472\n\nCHAINFLIP LABS: Attention, Early Chainflip Advocates! We're excited to announce the availability of our Chainflip Early Supporters Pass, run through @Galxe.\n1. Details on if you qualify below:⬇️\nhttps://galxe.com/ChainflipLabs/campaign/GCwevUQZAy https://t.co/JcP93bCcir",
+          "description": "之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？\n\nCHAINFLIP LABS: Attention, Early Chainflip Advocates! We're excited to announce the availability of our Chainflip Early Supporters Pass, run through @Galxe.\n1. Details on if you qualify below:⬇️\nhttps://galxe.com/ChainflipLabs/campaign/GCwevUQZAy https://t.co/JcP93bCcir",
           "link": "https://twitter.com/8848Community/status/1668630551924969483",
           "publishedOn": "2023-06-13T14:44:59.000Z",
           "wordCount": null,
@@ -225,11 +245,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1668611392591769606",
           "author": "8848 社区（8848 Community）",
-          "description": "4 https://twitter.com/Uniswap/status/1668603580184502276\n\nUniswap Labs 🦄: 1/ Today, we’re announcing our vision for Uniswap v4 🦄\nWe see Uniswap as core financial infrastructure & think it should be built in public with space for community feedback and contribution.\nAn early implementation of the code can be found here:\nhttp://github.com/Uniswap/v4-core https://t.co/9vGJElba2x",
+          "description": "4\n\nUniswap Labs 🦄: 1/ Today, we’re announcing our vision for Uniswap v4 🦄\nWe see Uniswap as core financial infrastructure & think it should be built in public with space for community feedback and contribution.\nAn early implementation of the code can be found here:\nhttp://github.com/Uniswap/v4-core https://t.co/9vGJElba2x",
           "link": "https://twitter.com/8848Community/status/1668611392591769606",
           "publishedOn": "2023-06-13T13:28:51.000Z",
           "wordCount": null,
-          "title": "4 https://twitter.com/Uniswap/status/1668603580184502276",
+          "title": "4",
           "imageUrl": null
         },
         {
@@ -245,7 +265,7 @@
         {
           "id": "https://twitter.com/8848Community/status/1668572627731087360",
           "author": "8848 社区（8848 Community）",
-          "description": "有时候撸着撸着，项目就没了\nNFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。 https://twitter.com/abacus_wtf/status/1668358993054429184\n\n🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3",
+          "description": "有时候撸着撸着，项目就没了\nNFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。\n\n🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3",
           "link": "https://twitter.com/8848Community/status/1668572627731087360",
           "publishedOn": "2023-06-13T10:54:49.000Z",
           "wordCount": null,
@@ -265,11 +285,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1668262211876270081",
           "author": "8848 社区（8848 Community）",
-          "description": "有福了兄弟们  反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707\n\nLinea: 📢Excited to announce \"I'm a First Class Linea Citizen\": a campaign to combat bots, prioritize real user engagement in Linea Voyage.\nWe’ve teamed up with @gitcoinpassport, @Galxe Passport, and @guildxyz to create a fair, authentic community experience👇\nhttps://galxe.com/Linea/campaign/GCKurUN4yC",
+          "description": "有福了兄弟们  反女巫三剑客齐聚一家\n\nLinea: 📢Excited to announce \"I'm a First Class Linea Citizen\": a campaign to combat bots, prioritize real user engagement in Linea Voyage.\nWe’ve teamed up with @gitcoinpassport, @Galxe Passport, and @guildxyz to create a fair, authentic community experience👇\nhttps://galxe.com/Linea/campaign/GCKurUN4yC",
           "link": "https://twitter.com/8848Community/status/1668262211876270081",
           "publishedOn": "2023-06-12T14:21:20.000Z",
           "wordCount": null,
-          "title": "有福了兄弟们 反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707",
+          "title": "有福了兄弟们 反女巫三剑客齐聚一家",
           "imageUrl": null
         },
         {
@@ -325,11 +345,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1666446765694828546",
           "author": "8848 社区（8848 Community）",
-          "description": "braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963\n\nBraavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!\nParticipate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺\nYour mission is to set up a domain such as '.braavos.stark' on your account.\nTo claim, visit https://starknet-journey-map.braavos.app/\nHere is your guide!👇 https://t.co/6jnH5v4pra",
+          "description": "braavos 第四周\n\nBraavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!\nParticipate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺\nYour mission is to set up a domain such as '.braavos.stark' on your account.\nTo claim, visit https://starknet-journey-map.braavos.app/\nHere is your guide!👇 https://t.co/6jnH5v4pra",
           "link": "https://twitter.com/8848Community/status/1666446765694828546",
           "publishedOn": "2023-06-07T14:07:24.000Z",
           "wordCount": null,
-          "title": "braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963",
+          "title": "braavos 第四周",
           "imageUrl": null
         },
         {
@@ -355,11 +375,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1666289973547659264",
           "author": "8848 社区（8848 Community）",
-          "description": "慌不慌？\n可能也要反女巫活人验证了\n😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464\n\nLinea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.\nPlease be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.\nThe human verification that will be rolled out soon will be… https://twitter.com/i/web/status/1666204769617342464",
+          "description": "慌不慌？\n可能也要反女巫活人验证了\n😖😖😖\n\nLinea: 🚨 Everyone, just a reminder that ANYONE asking you for money to participate in the Linea Voyage is trying to scam you.\nPlease be aware that there is no cost to prove the Voyage quest that you are not a bot or a sybil.\nThe human verification that will be rolled out soon will be… https://twitter.com/i/web/status/1666204769617342464",
           "link": "https://twitter.com/8848Community/status/1666289973547659264",
           "publishedOn": "2023-06-07T03:44:22.000Z",
           "wordCount": null,
-          "title": "慌不慌？ 可能也要反女巫活人验证了 😖😖😖 https://twitter.com/LineaBuild/status/1666204769617342464",
+          "title": "慌不慌？ 可能也要反女巫活人验证了 😖😖😖",
           "imageUrl": null
         },
         {
@@ -619,11 +639,11 @@
         {
           "id": "https://twitter.com/DeFi_educator/status/1667826525494755329",
           "author": "DeFi Educator",
-          "description": "https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C\n\n\nDIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.\nHOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy",
+          "description": "https://t.co/BtM5Q9Hs8C\n\n\nDIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.\nHOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy",
           "link": "https://twitter.com/DeFi_educator/status/1667826525494755329",
           "publishedOn": "2023-06-11T09:30:05.000Z",
           "wordCount": null,
-          "title": "https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C",
+          "title": "https://t.co/BtM5Q9Hs8C",
           "imageUrl": null
         },
         {
@@ -881,6 +901,16 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1669896642915606531",
+          "author": "DeFi Surfer",
+          "description": "Re @PremiaFinance @veH0rny doxxed",
+          "link": "https://twitter.com/DeFiSurfer808/status/1669896642915606531",
+          "publishedOn": "2023-06-17T02:35:59.000Z",
+          "wordCount": null,
+          "title": "Re @PremiaFinance @veH0rny doxxed",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1669894268654333953",
           "author": "DeFi Surfer",
           "description": "Re @EricJhonsa TSMC",
@@ -913,7 +943,7 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1669731774161903617",
           "author": "DeFi Surfer",
-          "description": "Just had realization to extent RRP funds go to short term T bills, completely neutral to guv’s finances (ie no new liquidity or incremental int expense).\nSo wouldn’t be until RRP is drained ($2T to go) until things get interesting. https://twitter.com/inartecarlodoss/status/1669639714687557639\n\nKKGB Kitty: Not sure why it’s not dawning on folks yet, but once RRP is drained, a key system buffer would have been deactivated.",
+          "description": "Just had realization to extent RRP funds go to short term T bills, completely neutral to guv’s finances (ie no new liquidity or incremental int expense).\nSo wouldn’t be until RRP is drained ($2T to go) until things get interesting.\n\nKKGB Kitty: Not sure why it’s not dawning on folks yet, but once RRP is drained, a key system buffer would have been deactivated.",
           "link": "https://twitter.com/DeFiSurfer808/status/1669731774161903617",
           "publishedOn": "2023-06-16T15:40:51.000Z",
           "wordCount": null,
@@ -923,11 +953,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1669729801467478018",
           "author": "DeFi Surfer",
-          "description": "What axe does this guy have to grind with Binance. Wasn’t he a big FTX supporter https://twitter.com/travis_kling/status/1669728684775813122\n\nTravis Kling: @binance This is because you are bad actors and the Dutch government knows that. So does the French government. And the Canadian government. And Australia. And the United States.\nYou’ll never get MiCA approval. You’ve broken far too many laws and lied far too much for far too long.",
+          "description": "What axe does this guy have to grind with Binance. Wasn’t he a big FTX supporter\n\nTravis Kling: @binance This is because you are bad actors and the Dutch government knows that. So does the French government. And the Canadian government. And Australia. And the United States.\nYou’ll never get MiCA approval. You’ve broken far too many laws and lied far too much for far too long.",
           "link": "https://twitter.com/DeFiSurfer808/status/1669729801467478018",
           "publishedOn": "2023-06-16T15:33:01.000Z",
           "wordCount": null,
-          "title": "What axe does this guy have to grind with Binance. Wasn’t he a big FTX supporter https://twitter.com/travis_kling/status/1669728684775813122",
+          "title": "What axe does this guy have to grind with Binance. Wasn’t he a big FTX supporter",
           "imageUrl": null
         },
         {
@@ -1023,11 +1053,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1669488134932021248",
           "author": "DeFi Surfer",
-          "description": "Good Counterpoint\nGuess if / when it comes thru it could matter at the margin https://twitter.com/poltrackrr/status/1669487384826658817\n\nElderberryLind: If financial advisors are able to to suggest people  put 1-2% of their portfolio in a BTC ETF run by Blackrock and they can take their cut they will. The entire incentive structure will change from where we are today https://twitter.com/DeFiSurfer808/status/1669484433353891840",
+          "description": "Good Counterpoint\nGuess if / when it comes thru it could matter at the margin\n\nElderberryLind: If financial advisors are able to to suggest people  put 1-2% of their portfolio in a BTC ETF run by Blackrock and they can take their cut they will. The entire incentive structure will change from where we are today",
           "link": "https://twitter.com/DeFiSurfer808/status/1669488134932021248",
           "publishedOn": "2023-06-15T23:32:43.000Z",
           "wordCount": null,
-          "title": "Good Counterpoint Guess if / when it comes thru it could matter at the margin https://twitter.com/poltrackrr/status/1669487384826658817",
+          "title": "Good Counterpoint Guess if / when it comes thru it could matter at the margin",
           "imageUrl": null
         },
         {
@@ -1043,11 +1073,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1669486259373510656",
           "author": "DeFi Surfer",
-          "description": "💯 https://twitter.com/corky_bingbang/status/1669485937213202432\n\nMonkey: @DeFiSurfer808 Agree. Only matters if there's actual demand for BTC. \nI don't see retirement funds clambering over each other to buy BTC.",
+          "description": "💯\n\nMonkey: @DeFiSurfer808 Agree. Only matters if there's actual demand for BTC. \nI don't see retirement funds clambering over each other to buy BTC.",
           "link": "https://twitter.com/DeFiSurfer808/status/1669486259373510656",
           "publishedOn": "2023-06-15T23:25:16.000Z",
           "wordCount": null,
-          "title": "💯 https://twitter.com/corky_bingbang/status/1669485937213202432",
+          "title": "💯",
           "imageUrl": null
         },
         {
@@ -1068,16 +1098,6 @@
           "publishedOn": "2023-06-15T23:19:31.000Z",
           "wordCount": null,
           "title": "Re @spliffymagoo Hope I’m wrong but think 2020 showed ur vote doesn’t matter. They’ll just drop hundreds of thousands of votes in the middle of the...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1669484436193447937",
-          "author": "DeFi Surfer",
-          "description": "Re The core issue facing crypto is its core / only use case is speculation (ie NgU).\nWith cash paying 5% rn, demand for speculation (and thus crypto) is going to be challenged for the time being.",
-          "link": "https://twitter.com/DeFiSurfer808/status/1669484436193447937",
-          "publishedOn": "2023-06-15T23:18:01.000Z",
-          "wordCount": null,
-          "title": "Re The core issue facing crypto is its core / only use case is speculation (ie NgU). With cash paying 5% rn, demand for speculation (and thus crypto) ...",
           "imageUrl": null
         }
       ]
