@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-18T05:12:13.852Z</id>
+    <id>urn:2023-06-18T06:15:38.023Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-18T05:12:13.852Z</updated>
+    <updated>2023-06-18T06:15:38.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: 以太坊基金会公布第一季度受赠项目及分配信息、Uniswap 发布 v4 代码草稿、Polygon 宣布推出 Polygon 2.0 等（0611-0617） https://www.wu-ta...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670283676859658240</id>
+        <link href="https://twitter.com/wublockchain12/status/1670283676859658240"/>
+        <updated>2023-06-18T04:13:55.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: 以太坊基金会公布第一季度受赠项目及分配信息、Uniswap 发布 v4 代码草稿、Polygon 宣布推出 Polygon 2.0 等（0611-0617）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15322]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Joe Rogan: That would be a great suggestion if you could assure that the industry you were representing wasn’t completely captured by heartless mo...]]></title>
         <id>https://twitter.com/joerogan/status/1670277653142577153</id>
@@ -17,6 +28,53 @@ Tom Nichols: No medical professional should ever agree to do this. Never. It e
 Never debate a conspiracy theorist.]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re TapiocaDao 使用 L0 技术，支持任何 EVM 和非 EVM 链。用户可以在一条链上抵押资产并在另一条链上借入资产，而无需经历链与链之间转移资产的麻烦。https://tw...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670271226105966592</id>
+        <link href="https://twitter.com/wublockchain12/status/1670271226105966592"/>
+        <updated>2023-06-18T03:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Re TapiocaDao 使用 L0 技术，支持任何 EVM 和非 EVM 链。用户可以在一条链上抵押资产并在另一条链上借入资产，而无需经历链与链之间转移资产的麻烦。https://twitter.com/tapioca_dao/status/1669812616024272902
+
+TapiocaDAO: Announcing TapiocaDAO's completion of a $6m seed raise! https://t.co/dXTGIRfzj3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，全链货币市场协议 TapiocaDAO 官推宣布完成 600 万美元种子轮融资，参投方包括 Fisher8 Capital、LayerZero Labs、PARC Capital、Jones DAO等，个人投...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670271222075236352</id>
+        <link href="https://twitter.com/wublockchain12/status/1670271222075236352"/>
+        <updated>2023-06-18T03:24:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，全链货币市场协议 TapiocaDAO 官推宣布完成 600 万美元种子轮融资，参投方包括 Fisher8 Capital、LayerZero Labs、PARC Capital、Jones DAO等，个人投资者包括 Library Onchain 创始人 Zoomer Oracle、Squirrel（Arrakis Finance）、DCF GOD、CryptoCondom 等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不过，目前该 Recursive Playground 仅推出了一个体验 NFT，具体其他信息未知。https://twitter.com/OrdzWorld/status/1670004656297357313?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670270443696316416</id>
+        <link href="https://twitter.com/wublockchain12/status/1670270443696316416"/>
+        <updated>2023-06-18T03:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过，目前该 Recursive Playground 仅推出了一个体验 NFT，具体其他信息未知。https://twitter.com/OrdzWorld/status/1670004656297357313?s=20
+
+Ordinals World: 🧵《第一个可互动递归铭文NFT诞生，
+解锁NFT全新玩法》thread👇
+在@ord_io 上发现一个很有意思的递归铭文NFT @recursivePlay 居然可以和它互动，这是在Ordinals上第一次出现这样的NFT，非常棒的体验。突然意识到这会开启nft的全新玩法，有非常重要的里程碑意义。主要两点
+1/3… https://twitter.com/i/web/status/1670004656297357313 https://t.co/eAd2p7nU16]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Ordinals World 分享，近期 Bitcoin 上诞生了首个可互动的递归铭文 NFT：Recursive Playground，可以用鼠标与之互动让其发生变化，类似于在玩小游...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670270438533136384</id>
+        <link href="https://twitter.com/wublockchain12/status/1670270438533136384"/>
+        <updated>2023-06-18T03:21:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Ordinals World 分享，近期 Bitcoin 上诞生了首个可互动的递归铭文 NFT：Recursive Playground，可以用鼠标与之互动让其发生变化，类似于在玩小游戏，这未来可能会催生出基于重力、流体力学、时间、随机进化等逻辑的互动型 NFT，以及全链游戏/元宇宙生态等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -41,7 +99,7 @@ Joe Rogan: Peter, if you claim what RFKjr is saying is “misinformation” I 
         <updated>2023-06-18T03:04:38.000Z</updated>
         <summary type="html"><![CDATA[Re Stephen Palley 曾代表已故的 David Kleiman 亲属对 Craig Wright 提起诉讼，指控其在 2013 年 4 月 David Kleiman 去世后盗取了其持有的比特币。法官裁定 David Kleiman 亲属胜诉。https://twitter.com/stephendpalley/status/1669796600456028167?s=20
 
-Palley: Along with Jess Meyers and the team at Brown Rudnick, I’m honored to represent @zachxbt in his ongoing mission to speak truth to power.]]></summary>
+Palley: Along with Jess Meyers and the team at Brown Rudnick, I’m honored to represent @zachxbt in his ongoing mission to speak truth to power. https://twitter.com/zachxbt/status/1669783717236342785]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -196,16 +254,6 @@ https://www.reuters.com/technology/sec-enforcement-chief-rejects-criticism-crypt
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据纽约邮报（New York Post），马斯克在一份信函中否认了涉及狗狗币（DOGE）的“鲸鱼”指控。马斯克的律师表示，原告错误地将马斯克与特定钱包关联起...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670230293796753409</id>
-        <link href="https://twitter.com/wublockchain12/status/1670230293796753409"/>
-        <updated>2023-06-18T00:41:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据纽约邮报（New York Post），马斯克在一份信函中否认了涉及狗狗币（DOGE）的“鲸鱼”指控。马斯克的律师表示，原告错误地将马斯克与特定钱包关联起来，并坚称指控“毫无根据”。此]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这不是早已经有了吗？大家都知道精品刷这个啊？@gitcoinpassport 是一个协议不只是一个网站。 理论上所有项目方都可以使用并添加拓展。"链上KYC"一定会成常态。 ...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1670230223940628480</id>
         <link href="https://twitter.com/AntCaveClub/status/1670230223940628480"/>
@@ -218,37 +266,6 @@ https://youtu.be/X71GWp3kzRo https://twitter.com/hebi555/status/1670038034002374
 何币: zksync 会推出一个积分任务系统，应该两周后上线。大概有几十个任务。 https://t.co/Ic111w8TRZ]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Bappebti （印尼商品期货交易监督机构）发布了有关在印度尼西亚可交易的加密资产清单的新规定。用户务必经过 Bappebti 许可加密交易平台上进行交易，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670229245019435009</id>
-        <link href="https://twitter.com/wublockchain12/status/1670229245019435009"/>
-        <updated>2023-06-18T00:37:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Bappebti （印尼商品期货交易监督机构）发布了有关在印度尼西亚可交易的加密资产清单的新规定。用户务必经过 Bappebti 许可加密交易平台上进行交易，并使用已在清单中注册的加密资产，目前可供交易的加密资产包括 BTC、ETH、LTC、SOL、XRP等共计501 种。https://bappebti.go.id/pbk/sk_kep_kepala_bappebti/detail/12673]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Euler Finance 在 3 月遭受黑客攻击并损失约 2 亿美元的加密货币。经过三周的谈判，该黑客已归还全部被盗资金。 https://www.dlnews.com/articles/defi/euler...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670219722774970368</id>
-        <link href="https://twitter.com/wublockchain12/status/1670219722774970368"/>
-        <updated>2023-06-17T23:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Re Euler Finance 在 3 月遭受黑客攻击并损失约 2 亿美元的加密货币。经过三周的谈判，该黑客已归还全部被盗资金。
-https://www.dlnews.com/articles/defi/euler-hacker-sends-cryptic-messages-after-returning-crypto/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 DL News，Euler Finance 黑客周六发送了一对神秘的信息，自称是阿根廷人和"Peronist"（庇隆主义者），并敦促初学者黑客们选择追求悬赏而非偷来的财富。信息中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670219718857465857</id>
-        <link href="https://twitter.com/wublockchain12/status/1670219718857465857"/>
-        <updated>2023-06-17T23:59:46.000Z</updated>
-        <summary type="html"><![CDATA[据 DL News，Euler Finance 黑客周六发送了一对神秘的信息，自称是阿根廷人和"Peronist"（庇隆主义者），并敦促初学者黑客们选择追求悬赏而非偷来的财富。信息中还含有一条神秘警告，称"选择好十月，我们会全力以赴"。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -289,17 +306,6 @@ https://www.dlnews.com/articles/defi/euler-hacker-sends-cryptic-messages-after-r
         <summary type="html"><![CDATA[干净的圈子，规律的生活，最爱的啤酒(10多一罐）每周末晚上都要来几杯，不是炫富，只是为数不多的爱好 https://t.co/GFHFtj7Hpu]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 新机制可以将 MEV 内化到 LP 的回报中，以便 LP 可以从 MEV 中受益。阅读全文： https://mp.weixin.qq.com/s/RNi8Ml3ocZZ87vUhg2ZPFw]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670076685897830401</id>
-        <link href="https://twitter.com/wublockchain12/status/1670076685897830401"/>
-        <updated>2023-06-17T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 新机制可以将 MEV 内化到 LP 的回报中，以便 LP 可以从 MEV 中受益。阅读全文：
-https://mp.weixin.qq.com/s/RNi8Ml3ocZZ87vUhg2ZPFw]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
