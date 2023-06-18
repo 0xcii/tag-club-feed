@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-18T12:23:37.378Z</id>
+    <id>urn:2023-06-18T13:13:57.721Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-18T12:23:37.378Z</updated>
+    <updated>2023-06-18T13:13:57.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/lidocommunity/status/1670392726955741186]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670416114722160640</id>
+        <link href="https://twitter.com/wublockchain12/status/1670416114722160640"/>
+        <updated>2023-06-18T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/lidocommunity/status/1670392726955741186
+
+Lido DAO Feed: Lido updated to 'Trustless' by @ethereum 🏝️
+https://ethereum.org/en/staking/pools/#explore-staking-pools https://t.co/ifVqjmWfFS]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Lido 社区发推称，以太坊官方已将 Lido 质押服务状态更新为“Trustless”，这意味着该服务不需要信任任何人来托管密钥或分配奖励。3月份，Lido Financ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670416110829830146</id>
+        <link href="https://twitter.com/wublockchain12/status/1670416110829830146"/>
+        <updated>2023-06-18T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Lido 社区发推称，以太坊官方已将 Lido 质押服务状态更新为“Trustless”，这意味着该服务不需要信任任何人来托管密钥或分配奖励。3月份，Lido Finance 发布了全面去中心化进程更新计划，Lido 必须经过三个步骤才能转变为完全去信任的协议。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该规定对于“通信协议系统”的定义模糊不清，并且宽泛解释使得即使没有实际参与交易所核心功能的个体也可能受到证券监管的限制。这种扭曲的定义将改变传统对...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670404916412813317</id>
+        <link href="https://twitter.com/wublockchain12/status/1670404916412813317"/>
+        <updated>2023-06-18T12:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Re 该规定对于“通信协议系统”的定义模糊不清，并且宽泛解释使得即使没有实际参与交易所核心功能的个体也可能受到证券监管的限制。这种扭曲的定义将改变传统对交易所的理解。该规则提案绕过了数字资产是否属于证券的问题，赋予 SEC 广泛的监管自由裁量权。阅读全文：https://fortune.com/crypto/2023/06/18/sec-define-exchange-proposal-crypto-regulation/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC 定义“交易所”的努力应引起每个美国人的关注，即使与加密货币无关（作者： Amanda Tuminelli Fortune）SEC 最新的规则修改旨在扩大对另类交易系统（ATS）的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1670404911920721920</id>
+        <link href="https://twitter.com/wublockchain12/status/1670404911920721920"/>
+        <updated>2023-06-18T12:15:40.000Z</updated>
+        <summary type="html"><![CDATA[SEC 定义“交易所”的努力应引起每个美国人的关注，即使与加密货币无关（作者： Amanda Tuminelli  Fortune）SEC 最新的规则修改旨在扩大对另类交易系统（ATS）的定义，将数字资产行业参与者纳入证券交易所监管范围。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 负责注册 Binance Nigeria Limited 的人表示，他注册这家公司是出于“套利目的”。目前，尼日利亚的公司注册网站列出了四个公司名称中带有“Binance”的实体...]]></title>
         <id>https://twitter.com/wublockchain12/status/1670378443882770432</id>
@@ -213,41 +256,6 @@ TapiocaDAO: Announcing TapiocaDAO's completion of a $6m seed raise! https://t.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，全链货币市场协议 TapiocaDAO 官推宣布完成 600 万美元种子轮融资，参投方包括 Fisher8 Capital、LayerZero Labs、PARC Capital、Jones DAO等，个人投...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670271222075236352</id>
-        <link href="https://twitter.com/wublockchain12/status/1670271222075236352"/>
-        <updated>2023-06-18T03:24:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，全链货币市场协议 TapiocaDAO 官推宣布完成 600 万美元种子轮融资，参投方包括 Fisher8 Capital、LayerZero Labs、PARC Capital、Jones DAO等，个人投资者包括 Library Onchain 创始人 Zoomer Oracle、Squirrel（Arrakis Finance）、DCF GOD、CryptoCondom 等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 不过，目前该 Recursive Playground 仅推出了一个体验 NFT，具体其他信息未知。https://twitter.com/OrdzWorld/status/1670004656297357313?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670270443696316416</id>
-        <link href="https://twitter.com/wublockchain12/status/1670270443696316416"/>
-        <updated>2023-06-18T03:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 不过，目前该 Recursive Playground 仅推出了一个体验 NFT，具体其他信息未知。https://twitter.com/OrdzWorld/status/1670004656297357313?s=20
-
-Ordinals World: 🧵《第一个可互动递归铭文NFT诞生，
-解锁NFT全新玩法》thread👇
-在@ord_io 上发现一个很有意思的递归铭文NFT @recursivePlay 居然可以和它互动，这是在Ordinals上第一次出现这样的NFT，非常棒的体验。突然意识到这会开启nft的全新玩法，有非常重要的里程碑意义。主要两点
-1/3… https://twitter.com/i/web/status/1670004656297357313 https://t.co/eAd2p7nU16]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Ordinals World 分享，近期 Bitcoin 上诞生了首个可互动的递归铭文 NFT：Recursive Playground，可以用鼠标与之互动让其发生变化，类似于在玩小游...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670270438533136384</id>
-        <link href="https://twitter.com/wublockchain12/status/1670270438533136384"/>
-        <updated>2023-06-18T03:21:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Ordinals World 分享，近期 Bitcoin 上诞生了首个可互动的递归铭文 NFT：Recursive Playground，可以用鼠标与之互动让其发生变化，类似于在玩小游戏，这未来可能会催生出基于重力、流体力学、时间、随机进化等逻辑的互动型 NFT，以及全链游戏/元宇宙生态等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT James Todaro, MD: The corrupt establishment stooges continually refuse to enter public debates. This repeated approach ranges from politics (prior ...]]></title>
         <id>https://twitter.com/JamesTodaroMD/status/1670268214582956033</id>
         <link href="https://twitter.com/JamesTodaroMD/status/1670268214582956033"/>
@@ -260,18 +268,6 @@ Instead they rely upon pedigree (“we are the experts”), censorship, and mass
 Joe Rogan: Peter, if you claim what RFKjr is saying is “misinformation” I am offering you $100,000.00 to the charity of your choice if you’re willing to debate him on my show with no time limit.]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Stephen Palley 曾代表已故的 David Kleiman 亲属对 Craig Wright 提起诉讼，指控其在 2013 年 4 月 David Kleiman 去世后盗取了其持有的比特币。法官裁定 Da...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1670266242496868352</id>
-        <link href="https://twitter.com/wublockchain12/status/1670266242496868352"/>
-        <updated>2023-06-18T03:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Re Stephen Palley 曾代表已故的 David Kleiman 亲属对 Craig Wright 提起诉讼，指控其在 2013 年 4 月 David Kleiman 去世后盗取了其持有的比特币。法官裁定 David Kleiman 亲属胜诉。https://twitter.com/stephendpalley/status/1669796600456028167?s=20
-
-Palley: Along with Jess Meyers and the team at Brown Rudnick, I’m honored to represent @zachxbt in his ongoing mission to speak truth to power. https://twitter.com/zachxbt/status/1669783717236342785]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -737,15 +733,15 @@ Something that’s a consensus long by society doesn’t print 10-100x’s.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
