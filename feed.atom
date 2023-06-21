@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T03:13:39.148Z</id>
+    <id>urn:2023-06-21T04:15:25.066Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T03:13:39.148Z</updated>
+    <updated>2023-06-21T04:15:25.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,56 @@
         <summary type="html"><![CDATA[Would be funny but perhaps not surprising if the Fed succeeds in arresting inflation thru major monetary tightening and #Bitcoin goes up anyway. https://t.co/3nTiNA043F]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 递归铭文极大地降低了比特币生态的创业门槛。递归铭文极大地降低了比特币生态的创业门槛，为比特链上的 GameFi 和元宇宙的实现带来了可能。阅读全文：https:/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671339567990050817</id>
+        <link href="https://twitter.com/wublockchain12/status/1671339567990050817"/>
+        <updated>2023-06-21T02:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Re 递归铭文极大地降低了比特币生态的创业门槛。递归铭文极大地降低了比特币生态的创业门槛，为比特链上的 GameFi 和元宇宙的实现带来了可能。阅读全文：https://mirror.xyz/evg.eth/7cF5D0B7Mo5SajVv0JFN6hCJigq2AWdNd7lu0Flnq-0]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐：一文介绍“递归铭文”（作者：@Darren_web3）递归铭文即铭文之间可以引用彼此的内容，实现了超越 Gbrc721 的功能，这个创新直接在链上实现，无需依赖链下...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671339565712539648</id>
+        <link href="https://twitter.com/wublockchain12/status/1671339565712539648"/>
+        <updated>2023-06-21T02:09:39.000Z</updated>
+        <summary type="html"><![CDATA[推荐：一文介绍“递归铭文”（作者：@Darren_web3）递归铭文即铭文之间可以引用彼此的内容，实现了超越 Gbrc721 的功能，这个创新直接在链上实现，无需依赖链下解析。本文将以形象化的方式从起源、实现方式及程度，以及可能的影响和可能存在的风险四个角度对递归铭文进行深入剖析。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 若 72 小时后仍存在不平衡，且未有其他 ripcord 触发，系统则会生成一个新的认证报告，显示在该时间点上的余额。从 6 月 10 日暂停至今，目前截至最近的一次...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671339046810042368</id>
+        <link href="https://twitter.com/wublockchain12/status/1671339046810042368"/>
+        <updated>2023-06-21T02:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Re 若 72 小时后仍存在不平衡，且未有其他 ripcord 触发，系统则会生成一个新的认证报告，显示在该时间点上的余额。从 6 月 10 日暂停至今，目前截至最近的一次更新 6 月 20 日 9:56 PM，TrueUSD 尚处于 balance ripcord 状态；此外其他赎回和铸造仍然存在。https://protos.com/scoop-trueusd-pauses-attestations-amid-prime-trust-issues/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re LedgerLens 系统从“负债来源”或“资产来源”收到错误，即导致总负债之和大于相关资产的总和，将会触发 balance ripcord。一般而言，balance ripcord 是由于...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671339044599656448</id>
+        <link href="https://twitter.com/wublockchain12/status/1671339044599656448"/>
+        <updated>2023-06-21T02:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Re LedgerLens 系统从“负债来源”或“资产来源”收到错误，即导致总负债之和大于相关资产的总和，将会触发 balance ripcord。一般而言，balance ripcord 是由于正常运行中出现的临时不平衡所触发的，则 72 小时后到期；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Protos，近期 TUSD 暂停通过 Prime Trust 铸造 TUSD 的原因可能是由于余额问题导致 TUSD 运营商 Archblock 的“ripcord”系统被触发。ripcord 是 L...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671339042099859456</id>
+        <link href="https://twitter.com/wublockchain12/status/1671339042099859456"/>
+        <updated>2023-06-21T02:07:34.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Protos，近期 TUSD 暂停通过 Prime Trust 铸造 TUSD 的原因可能是由于余额问题导致 TUSD 运营商 Archblock 的“ripcord”系统被触发。ripcord 是 LedgerLens 实时储备 系统生成新的认证报告所需的预设条件或要求，当在上一个报告间隔期间，]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -36,6 +86,27 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 此前 Voyager 在一份法庭文件中提出，计划在6 月 20 日至 7 月 5 日期间重新向客户开放的计划，以便债权人可以提取约 35% 的加密货币。H/T：@lookonchain。 h...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671335585703931904</id>
+        <link href="https://twitter.com/wublockchain12/status/1671335585703931904"/>
+        <updated>2023-06-21T01:53:50.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前 Voyager 在一份法庭文件中提出，计划在6 月 20 日至 7 月 5 日期间重新向客户开放的计划，以便债权人可以提取约 35% 的加密货币。H/T：@lookonchain。
+https://etherscan.io/address/0x500a746c9a44f68fe6aa86a92e7b3af4f322ae66#tokentxns]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，被 Etherscan 标记为「Voyager 1」的地址过去 24 小时流出超 1400 万美元的资金，疑似是 Voyager 开放客户提款。目前该地址仍持有约 2.23 亿美元的资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671335583237672961</id>
+        <link href="https://twitter.com/wublockchain12/status/1671335583237672961"/>
+        <updated>2023-06-21T01:53:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，被 Etherscan 标记为「Voyager 1」的地址过去 24 小时流出超 1400 万美元的资金，疑似是 Voyager 开放客户提款。目前该地址仍持有约 2.23 亿美元的资金，主要是 1.15 亿美元的 USDC 和 7000 万美元的 ETH。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[机构进场啦!机构进场啦!!!]]></title>
         <id>https://twitter.com/8848Community/status/1671334925390483457</id>
         <link href="https://twitter.com/8848Community/status/1671334925390483457"/>
@@ -43,6 +114,76 @@
         <summary type="html"><![CDATA[机构进场啦!机构进场啦!!!]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，过去24小时比特币大幅上涨6.9%，最近7天涨幅10.6%，Tradingview 显示比特币市值占比已达到51%。上周四以来已经出现了 iShares Bitwise WisdomTree Inv...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671332463514353674</id>
+        <link href="https://twitter.com/wublockchain12/status/1671332463514353674"/>
+        <updated>2023-06-21T01:41:25.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，过去24小时比特币大幅上涨6.9%，最近7天涨幅10.6%，Tradingview 显示比特币市值占比已达到51%。上周四以来已经出现了 iShares Bitwise WisdomTree Invesco 四家大型 ETF 机构申请比特币 ETF。在美国 SEC 将大量山寨币认定为证券后，更多资金可能回流比特币。https://www.coingecko.com/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前提供虚拟资产指数并受市场认可的机构主要有 Galaxy，21Shares，CF Benchmarks，Bitwise，Wisdomtree 和 Wilshire 六家机构。阅读全文：https://www.wu-ta...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671331446555037696</id>
+        <link href="https://twitter.com/wublockchain12/status/1671331446555037696"/>
+        <updated>2023-06-21T01:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前提供虚拟资产指数并受市场认可的机构主要有 Galaxy，21Shares，CF Benchmarks，Bitwise，Wisdomtree 和 Wilshire 六家机构。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=15413 https://t.co/lUxwjvdkQs]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《研究：哪些加密货币纳入香港认可的代币指数？指数经济的产业化分析》经整理可发现，在满足证监会要求的情况下，目前共有 13 款加密资产可作为供散户交易的备选...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671331444768276480</id>
+        <link href="https://twitter.com/wublockchain12/status/1671331444768276480"/>
+        <updated>2023-06-21T01:37:22.000Z</updated>
+        <summary type="html"><![CDATA[《研究：哪些加密货币纳入香港认可的代币指数？指数经济的产业化分析》经整理可发现，在满足证监会要求的情况下，目前共有 13 款加密资产可作为供散户交易的备选资料，分别是：BTC, ETH, ADA, SOL, MATIC, DOT, LTC, AVAX, UNI, LINK, AAVE, BCH 和 CRV。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此前声称因 Reth 推出而停止开发的以太坊客户端 Akula 开发者曾表示，Paradigm CTO 询问了很多关于 Akula 的深度细节，竞品 Reth 的架构和代码都是复制粘贴他...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671330821859586048</id>
+        <link href="https://twitter.com/wublockchain12/status/1671330821859586048"/>
+        <updated>2023-06-21T01:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 此前声称因 Reth 推出而停止开发的以太坊客户端 Akula 开发者曾表示，Paradigm CTO 询问了很多关于 Akula 的深度细节，竞品 Reth 的架构和代码都是复制粘贴他们的。Paradigm CTO 对此予以否认。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Reth 由 Paradigm 资助的 8 人核心团队以及 90 多个其他贡献者共同构建，使用 Rust 编写，支持任何以太坊类网络（Mainnet，Sepolia，Goerli 等），目前仍处于...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671330819825356800</id>
+        <link href="https://twitter.com/wublockchain12/status/1671330819825356800"/>
+        <updated>2023-06-21T01:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Re Reth 由 Paradigm 资助的 8 人核心团队以及 90 多个其他贡献者共同构建，使用 Rust 编写，支持任何以太坊类网络（Mainnet，Sepolia，Goerli 等），目前仍处于早期测试阶段，尚未经过审计。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 提供 JSON-RPC API，可以将吞吐量扩展至数千个请求，具有低延迟和高成功率。此外，Reth 可以被视为一个 SDK，用于构建 EVM 基础设施。Reth 未来将专注于以太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671329392830869504</id>
+        <link href="https://twitter.com/wublockchain12/status/1671329392830869504"/>
+        <updated>2023-06-21T01:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 提供 JSON-RPC API，可以将吞吐量扩展至数千个请求，具有低延迟和高成功率。此外，Reth 可以被视为一个 SDK，用于构建 EVM 基础设施。Reth 未来将专注于以太坊路线图，坎昆和 EIP-4844 是首要任务，以及提高现有特征的稳定性和关键节点的质量功能。https://www.paradigm.xyz/2023/06/reth-alpha]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Paradigm 首席 CTO 和研究合伙人 Georgios Konstantopoulos 发布了 Reth v0.1.0-alpha 版本，Reth 是一个模块化、开发者友好的、高性能的以太坊节点，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671329390582726656</id>
+        <link href="https://twitter.com/wublockchain12/status/1671329390582726656"/>
+        <updated>2023-06-21T01:29:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Paradigm 首席 CTO 和研究合伙人 Georgios Konstantopoulos 发布了 Reth v0.1.0-alpha 版本，Reth 是一个模块化、开发者友好的、高性能的以太坊节点，使用 Apache/mit 许可证。Reth 在 50 小时内同步了链从创世到 1740 万个区块，数据库大小约为 1.92 TB；]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -106,40 +247,6 @@ Crypto-Keeper: @EricBalchunas @NateGeraci Invesco Galaxy 19b4 dropped https://
 
 alex: 1/ after almost 3 years building flashbots, i've decided it's time for me to leave. thanks to my co-founders and the entire flashbots crew for 3 memorable years.
 for anyone interested, here's the message i sent to the team earlier today. https://t.co/MiH7OIRYbF]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊基础设施服务公司 Flashbots 联合创始人 Alex Obadia 宣布离开公司。Flashbots 旨在对抗 MEV 技术对以太坊的负面影响，为以太坊验证者提供区块...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671316385946038272</id>
-        <link href="https://twitter.com/wublockchain12/status/1671316385946038272"/>
-        <updated>2023-06-21T00:37:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊基础设施服务公司 Flashbots 联合创始人 Alex Obadia 宣布离开公司。Flashbots 旨在对抗 MEV 技术对以太坊的负面影响，为以太坊验证者提供区块建议服务。Obadia 表示：“我们承诺保护的系统仍然容易受到跨域 MEV 和独占订单流等现象的中心化影响。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/0xPolygonLabs/status/1671208777784209441]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671308249818337281</id>
-        <link href="https://twitter.com/wublockchain12/status/1671308249818337281"/>
-        <updated>2023-06-21T00:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/0xPolygonLabs/status/1671208777784209441
-
-Polygon (Labs): 1/ Today a proposal was published to upgrade Polygon PoS to a zkEVM validium, a first-of-its-kind, decentralized ZK Layer 2.
-As a zkEVM validium, Polygon PoS would inherit Ethereum's unmatched security, while preserving low fees & high scalability.
-👉🏽 https://go.polygon.technology/44dysMh https://t.co/9r9VILxdvu]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Polygon 提议将 Polygon PoS 升级为 zkEVM Validium，以提高安全性和性能。该提案利用零知识扩展技术 validium 来增强数据可用性。如果该提案被批准，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671308138577014784</id>
-        <link href="https://twitter.com/wublockchain12/status/1671308138577014784"/>
-        <updated>2023-06-21T00:04:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Polygon 提议将 Polygon PoS 升级为 zkEVM Validium，以提高安全性和性能。该提案利用零知识扩展技术 validium 来增强数据可用性。如果该提案被批准，升级将在2024年第一季度末在主网上运行，同时升级将标志着现有链首次添加 ZK 证明并过渡到 L2。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -245,46 +352,6 @@ Who’s right?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Teddy DAO 计划逐步利用JustGiving 支持的 45 万个慈善机构，致力于通过加密货币捐赠来解决现实世界的问题。(CoinDesk）https://www.coindesk.com/web3/2023/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671196602739101696</id>
-        <link href="https://twitter.com/wublockchain12/status/1671196602739101696"/>
-        <updated>2023-06-20T16:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Re Teddy DAO 计划逐步利用JustGiving 支持的 45 万个慈善机构，致力于通过加密货币捐赠来解决现实世界的问题。(CoinDesk）https://www.coindesk.com/web3/2023/06/20/web3-charity-teddy-dao-is-raising-money-through-daily-nft-auctions/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 慈善组织 Teddy DAO 与筹款平台 JustGiving 合作，通过每日 NFT 拍卖筹集资金。这些拍卖的 NFT 由数字艺术家 Yumi 创作，并在跨链智能合约平台 Moonbeam 上...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671196598339264513</id>
-        <link href="https://twitter.com/wublockchain12/status/1671196598339264513"/>
-        <updated>2023-06-20T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Web3 慈善组织 Teddy DAO 与筹款平台 JustGiving 合作，通过每日 NFT 拍卖筹集资金。这些拍卖的 NFT 由数字艺术家 Yumi 创作，并在跨链智能合约平台 Moonbeam 上铸造。拍卖获胜者可以选择将拍卖收益捐赠给 JustGiving 支持的 400 个慈善机构之一。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 该投资可能为 RTokens （ Reserve 的稳定币）带来新功能，包括抵押贷款、钱包产品和更透明的金融科技系统。这对于 CRV 代币持有者来说可能是个好消息，因为 C...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671192520603369472</id>
-        <link href="https://twitter.com/wublockchain12/status/1671192520603369472"/>
-        <updated>2023-06-20T16:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 该投资可能为 RTokens （ Reserve 的稳定币）带来新功能，包括抵押贷款、钱包产品和更透明的金融科技系统。这对于 CRV 代币持有者来说可能是个好消息，因为 CRV 最近达到了一年来的最低点。https://cointelegraph.com/news/stablecoin-protocol-reserve-invests-convex-curve-stake-dao]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Cointelegraph，稳定币协议 Reserve 宣布，将向 Curve (CRV)、Convex (CVX) 和 Stake DAO (SDT) 的治理代币投资 2000 万美元，旨在增加其稳定币的流动性并增...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671192516883009538</id>
-        <link href="https://twitter.com/wublockchain12/status/1671192516883009538"/>
-        <updated>2023-06-20T16:25:19.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph，稳定币协议 Reserve 宣布，将向 Curve (CRV)、Convex (CVX) 和 Stake DAO (SDT) 的治理代币投资 2000 万美元，旨在增加其稳定币的流动性并增强在这些应用的治理系统中的投票权力。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ethersole Yea nfw]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1671188021926850560</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1671188021926850560"/>
@@ -305,56 +372,6 @@ Who’s right?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 阅读全文：https://chatbot.theb.ai/#/chat/1686808974292]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671178401972097024</id>
-        <link href="https://twitter.com/wublockchain12/status/1671178401972097024"/>
-        <updated>2023-06-20T15:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文：https://chatbot.theb.ai/#/chat/1686808974292]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Vitalik 发表新文章，讨论跨链社交恢复钱包与跨链证明，Verkle 证明的 ZK-SNARKs 或定制的 KZG 解决方案似乎是最佳选择；钱包不仅可以存在于 L2 上，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671178390727172101</id>
-        <link href="https://twitter.com/wublockchain12/status/1671178390727172101"/>
-        <updated>2023-06-20T15:29:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Vitalik 发表新文章，讨论跨链社交恢复钱包与跨链证明，Verkle 证明的 ZK-SNARKs 或定制的 KZG 解决方案似乎是最佳选择；钱包不仅可以存在于 L2 上，还可以放置在与以太坊连接水平较低的系统上，如 L3s；但密钥库应该在 L1 上或高安全性的 ZK-rollup L2 上。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，EDX Markets 宣布正式启动交易服务，并完成新一轮融资，投资方包括 Miami International Holdings、DV Crypto、GTS、GSR Markets LTD 等。EDX 将于...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671173898694713345</id>
-        <link href="https://twitter.com/wublockchain12/status/1671173898694713345"/>
-        <updated>2023-06-20T15:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，EDX Markets 宣布正式启动交易服务，并完成新一轮融资，投资方包括 Miami International Holdings、DV Crypto、GTS、GSR Markets LTD 等。EDX 将于今年晚些时候推出 EDX Clearing，以结算在 EDX Markets 上匹配的交易。https://www.businesswire.com/news/home/20230620110605/en/Digital-Asset-Platform-EDX-Markets-Begins-Trading-and-Completes-New-Funding-Round]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Iris Energy 已经采购了交货期较长的物品，以扩大建设另一个 100 兆瓦（MW）的设施，如果满载挖矿设备，采矿哈希率将达到 13.6 EH/s。（CoinDesk）https://ww...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671167847840772098</id>
-        <link href="https://twitter.com/wublockchain12/status/1671167847840772098"/>
-        <updated>2023-06-20T14:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Re Iris Energy 已经采购了交货期较长的物品，以扩大建设另一个 100 兆瓦（MW）的设施，如果满载挖矿设备，采矿哈希率将达到 13.6 EH/s。（CoinDesk）https://www.coindesk.com/business/2023/06/20/bitcoin-miner-iris-energy-revives-high-performance-computing-strategy-amid-booming-interest-in-ai/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿企 Iris Energy 周二表示，随着人们对人工智能的兴趣持续高涨，正在恢复其围绕托管高性能计算以及比特币矿工的战略，计划到 2024 年初将其数据中心容量...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671167841989726211</id>
-        <link href="https://twitter.com/wublockchain12/status/1671167841989726211"/>
-        <updated>2023-06-20T14:47:16.000Z</updated>
-        <summary type="html"><![CDATA[比特币矿企 Iris Energy 周二表示，随着人们对人工智能的兴趣持续高涨，正在恢复其围绕托管高性能计算以及比特币矿工的战略，计划到 2024 年初将其数据中心容量从目前的 5.6 EH/s 提高到 9.1 EH/s。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Guru.Asymmetry: Alts doing what they do best in bear markets. Getting hammered. 🩸 With $NQ potentially topping here after the recent run and alt...]]></title>
         <id>https://twitter.com/Asymmetry_Fi/status/1671166788816756738</id>
         <link href="https://twitter.com/Asymmetry_Fi/status/1671166788816756738"/>
@@ -366,28 +383,6 @@ With $NQ potentially topping here after the recent run and alts having poor perf
 I use $NQ over $SPX or other indices as proxy due to the tech composition… https://twitter.com/i/web/status/1671166788816756738 https://t.co/VRKHB68OV3]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此前 2 月份， Kaito 完成 530 万美元种子轮融资，红杉资本等参投。https://twitter.com/_kaitoai/status/1671156485936799750]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671162413629198336</id>
-        <link href="https://twitter.com/wublockchain12/status/1671162413629198336"/>
-        <updated>2023-06-20T14:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Re 此前 2 月份， Kaito 完成 530 万美元种子轮融资，红杉资本等参投。https://twitter.com/_kaitoai/status/1671156485936799750
-
-Kaito AI: Today, we are starting to roll out beta test access to our 35,000 waitlisted users, marking the birth of the industry's first LLM-based crypto search engine, 'WHAT', 15 months after the initial inception of Kaito AI. https://t.co/NtSupCldRi]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，基于人工智能的加密搜索引擎 Kaito 官推宣布，推出基于 LLM 的加密搜索引擎「WHAT」Beta 版，并向候补用户推出 Beta 测试访问权限。Kaito 表示，WHAT ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671162409258733571</id>
-        <link href="https://twitter.com/wublockchain12/status/1671162409258733571"/>
-        <updated>2023-06-20T14:25:41.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，基于人工智能的加密搜索引擎  Kaito 官推宣布，推出基于 LLM 的加密搜索引擎「WHAT」Beta 版，并向候补用户推出 Beta 测试访问权限。Kaito 表示，WHAT 结合了 Auto-GPT、高级大型语言模型（例如 GPT4）和 Kaito 专有的实时加密搜索引擎。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -541,13 +536,13 @@ there
 Are
 Not
 Enough 
-Coins. https://twitter.com/gametheorizing/status/1646905049812205568
+Coins.
 
 Jordi Alexander: People surprised by the ETH + BTC squeeze. Wait till you see what happens in 2024.
 Simple clarity-
 1. Only 2 tokens have crossed the chasm of being a crypto store of value.
 2. ETH supply has run out and BTC's is shrinking to under 1% soon.
-There. aren't. enough. coins. https://twitter.com/milesdeutscher/status/1605212345747111936]]></summary>
+There. aren't. enough. coins.]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -621,7 +616,7 @@ https://youtu.be/X71GWp3kzRo https://twitter.com/hebi555/status/1670038034002374
         <updated>2023-06-16T20:34:00.000Z</updated>
         <summary type="html"><![CDATA[RT Justin Slaughter
 So, I respectfully disagree with Noelle on this one. I think BlackRock is doing this on the merits (seeking to get a bitcoin ETF approved) rather than trying to send a political message. 
-Bear with me, because this is complicated in terms of Democratic politics. https://twitter.com/noelleinmadrid/status/1669624250804600832
+Bear with me, because this is complicated in terms of Democratic politics.
 
 Noelle Acheson: My take on the BlackRock BTC ETF filing:
 - **BIG** news - BlackRock is the world's largest asset manager
@@ -885,15 +880,15 @@ Something that’s a consensus long by society doesn’t print 10-100x’s.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
