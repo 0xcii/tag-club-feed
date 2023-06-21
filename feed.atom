@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T06:16:30.309Z</id>
+    <id>urn:2023-06-21T07:12:04.466Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T06:16:30.309Z</updated>
+    <updated>2023-06-21T07:12:04.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[感谢带单老师 https://t.co/6whpd2wwZY]]></title>
-        <id>https://twitter.com/8848Community/status/1671382156000759810</id>
-        <link href="https://twitter.com/8848Community/status/1671382156000759810"/>
-        <updated>2023-06-21T04:58:53.000Z</updated>
-        <summary type="html"><![CDATA[感谢带单老师 https://t.co/6whpd2wwZY]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @DLF2216 1995 年开始跟海贼王, 一路看路飞成长起来的.]]></title>
         <id>https://twitter.com/AntCaveClub/status/1671377178515107843</id>
@@ -23,50 +13,6 @@
         <summary type="html"><![CDATA[Re @DLF2216 1995 年开始跟海贼王,   一路看路飞成长起来的.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 修复方法建议通过铸造一个 NFT，将其转移到销毁地址来删除后门。 https://twitter.com/0xngmi/status/1671344096441499648]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671364331165077505</id>
-        <link href="https://twitter.com/wublockchain12/status/1671364331165077505"/>
-        <updated>2023-06-21T03:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 修复方法建议通过铸造一个 NFT，将其转移到销毁地址来删除后门。
-https://twitter.com/0xngmi/status/1671344096441499648
-
-0xngmi: .@foundation's NFT contracts have an exploit that allows foundation's team to destroy almost all NFTs minted on their platform.
-Here's a thread explaining the exploit👇]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，DefiLlama 创始人 0xngmi 发现 NFT 市场 Foundation 的 NFT 合约存在漏洞，可导致基金会团队销毁几乎所有在其平台上铸造的 NFT。该合约使用转发代理模...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671364328346501120</id>
-        <link href="https://twitter.com/wublockchain12/status/1671364328346501120"/>
-        <updated>2023-06-21T03:48:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，DefiLlama 创始人 0xngmi 发现 NFT 市场 Foundation 的 NFT 合约存在漏洞，可导致基金会团队销毁几乎所有在其平台上铸造的 NFT。该合约使用转发代理模式节省部署的 Gas，意味着所有集合调用一个单一的合约来使用它的代码不是问题，且基金会的集合拥有销毁 NFT 的功能。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.mas.gov.sg/news/media-releases/2023/mas-proposes-standards-for-digital-money]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671361969696411648</id>
-        <link href="https://twitter.com/wublockchain12/status/1671361969696411648"/>
-        <updated>2023-06-21T03:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.mas.gov.sg/news/media-releases/2023/mas-proposes-standards-for-digital-money]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，新加坡金融管理局 (MAS) 今天发布了一份 Purpose Bound Money (PBM) 技术白皮书，提出了一个通用协议来指定数字货币的使用条件，如 CBDC、代币化银行...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671361967435698178</id>
-        <link href="https://twitter.com/wublockchain12/status/1671361967435698178"/>
-        <updated>2023-06-21T03:38:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，新加坡金融管理局 (MAS) 今天发布了一份 Purpose Bound Money (PBM) 技术白皮书，提出了一个通用协议来指定数字货币的使用条件，如 CBDC、代币化银行存款，以及区块链上的稳定币。白皮书是与国际货币基金组织、意大利银行、韩国银行、金融机构和金融科技公司合作开发的。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -283,6 +229,49 @@ Crypto-Keeper: @EricBalchunas @NateGeraci Invesco Galaxy 19b4 dropped https://
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，继 BlackRock 提交现货比特币 ETF 申请后，彭博社高级 ETF 分析师 Eric Balchunas 发推表示，资产管理公司 WisdomTree 再次提交现货比特币 ETF 申请。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671324268284772353</id>
+        <link href="https://twitter.com/wublockchain12/status/1671324268284772353"/>
+        <updated>2023-06-21T01:08:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，继 BlackRock 提交现货比特币 ETF 申请后，彭博社高级 ETF 分析师 Eric Balchunas 发推表示，资产管理公司 WisdomTree 再次提交现货比特币 ETF 申请。此外，Invesco 也新提交了现货比特币 ETF 的 19b-4 文件。此前 SEC 已多次拒绝现货币 ETF。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.tradingview.com/chart/5Op6vIU4/?symbol=OTC%3AGBTC & https://cryptoquant.com/asset/btc/chart/fund-data/fund-market-premium?symbol=gbtc&w...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671322976825004032</id>
+        <link href="https://twitter.com/wublockchain12/status/1671322976825004032"/>
+        <updated>2023-06-21T01:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.tradingview.com/chart/5Op6vIU4/?symbol=OTC%3AGBTC & https://cryptoquant.com/asset/btc/chart/fund-data/fund-market-premium?symbol=gbtc&window=DAY&sma=0&ema=0&priceScale=log&metricScale=linear&chartStyle=line]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Trading View 数据，美东时间 6 月 20 日 GBTC 大涨 11.44%，交易量达 1024 万美元，创下自去年 11 月 22 日以来交易量高点。自贝莱德申请提交比特...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671322974740443138</id>
+        <link href="https://twitter.com/wublockchain12/status/1671322974740443138"/>
+        <updated>2023-06-21T01:03:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Trading View 数据，美东时间 6 月 20 日 GBTC 大涨 11.44%，交易量达 1024 万美元，创下自去年 11 月 22 日以来交易量高点。自贝莱德申请提交比特币 ETF 申请以来，GBTC 已上涨超 25%。CryptoQuant 数据显示，当前 GBTC 溢价为 -34.19%，为今年以来第二高点。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 我们已经成长为现任者，现在还需要保护系统免受我们自己的侵害。” https://twitter.com/ObadiaAlex/status/1671151059585097729]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671316388018016256</id>
+        <link href="https://twitter.com/wublockchain12/status/1671316388018016256"/>
+        <updated>2023-06-21T00:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Re 我们已经成长为现任者，现在还需要保护系统免受我们自己的侵害。” https://twitter.com/ObadiaAlex/status/1671151059585097729
+
+alex: 1/ after almost 3 years building flashbots, i've decided it's time for me to leave. thanks to my co-founders and the entire flashbots crew for 3 memorable years.
+for anyone interested, here's the message i sent to the team earlier today. https://t.co/MiH7OIRYbF]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT West 4th St Capital: We are hiring another analyst (1-4 years of experience) to expand the team. I work at a $1bn + long/short hedge fund in NYC wi...]]></title>
         <id>https://twitter.com/West4thCapital/status/1671307598606262274</id>
         <link href="https://twitter.com/West4thCapital/status/1671307598606262274"/>
@@ -469,18 +458,18 @@ I'm sorry, but after watching, Blackrock, Fidelity, Citadel, Schwab and now Deut
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吃瓜🥵🥵🥵 项目方白嫖mod]]></title>
+        <title type="html"><![CDATA[吃瓜🥵🥵🥵 项目方白嫖mod https://twitter.com/CamelNotes/status/1671052751613337601]]></title>
         <id>https://twitter.com/8848Community/status/1671110335187816448</id>
         <link href="https://twitter.com/8848Community/status/1671110335187816448"/>
         <updated>2023-06-20T10:58:46.000Z</updated>
         <summary type="html"><![CDATA[吃瓜🥵🥵🥵
-项目方白嫖mod
+项目方白嫖mod https://twitter.com/CamelNotes/status/1671052751613337601
 
 Note: 推特发布了事实， @holographxyz 没一个项目方的人敢反驳吭声
 dis频道聊天说了事实，直接删了2天的频道记录+禁言部分人
 禁了我一个，中文玩家还有千千万
 兄弟们，交个朋友，请转发🔁这条推特，让更多玩家看清holograph项目方的真实面目 💀💀
-不胜感激！🙏🙏 https://t.co/iZ05Ahw61F]]></summary>
+不胜感激！🙏🙏 https://twitter.com/CamelNotes/status/1670646150016417792 https://t.co/iZ05Ahw61F]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
@@ -557,13 +546,13 @@ there
 Are
 Not
 Enough 
-Coins.
+Coins. https://twitter.com/gametheorizing/status/1646905049812205568
 
 Jordi Alexander: People surprised by the ETH + BTC squeeze. Wait till you see what happens in 2024.
 Simple clarity-
 1. Only 2 tokens have crossed the chasm of being a crypto store of value.
 2. ETH supply has run out and BTC's is shrinking to under 1% soon.
-There. aren't. enough. coins.]]></summary>
+There. aren't. enough. coins. https://twitter.com/milesdeutscher/status/1605212345747111936]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -637,7 +626,7 @@ https://youtu.be/X71GWp3kzRo https://t.co/Tavlpw9wCL
         <updated>2023-06-16T20:34:00.000Z</updated>
         <summary type="html"><![CDATA[RT Justin Slaughter
 So, I respectfully disagree with Noelle on this one. I think BlackRock is doing this on the merits (seeking to get a bitcoin ETF approved) rather than trying to send a political message. 
-Bear with me, because this is complicated in terms of Democratic politics.
+Bear with me, because this is complicated in terms of Democratic politics. https://twitter.com/noelleinmadrid/status/1669624250804600832
 
 Noelle Acheson: My take on the BlackRock BTC ETF filing:
 - **BIG** news - BlackRock is the world's largest asset manager
@@ -729,7 +718,7 @@ This is what it means for you: https://t.co/0JsHwbgOAE]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务]]></title>
+        <title type="html"><![CDATA[Linea 第七周 卧槽，快40个任务啊 高三作业都没这么多 linea团队有sm癖好吗 这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672]]></title>
         <id>https://twitter.com/8848Community/status/1668970368466554881</id>
         <link href="https://twitter.com/8848Community/status/1668970368466554881"/>
         <updated>2023-06-14T13:15:18.000Z</updated>
@@ -737,7 +726,7 @@ This is what it means for you: https://t.co/0JsHwbgOAE]]></summary>
 卧槽，快40个任务啊
 高三作业都没这么多
 linea团队有sm癖好吗
-这么多任务
+这么多任务 https://twitter.com/LineaBuild/status/1668968567889436672
 
 Linea: 1/
 📣It’s Week 7 of Linea Voyage, Linea fam! Welcome to Social & Entertainment Week.
@@ -749,11 +738,11 @@ https://linea.mirror.xyz/KbiYIo44bvDjSSA8EEK5IUDmbDJd3pvUDwZMDZ1rNVU]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去]]></title>
+        <title type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411]]></title>
         <id>https://twitter.com/8848Community/status/1668928217233895425</id>
         <link href="https://twitter.com/8848Community/status/1668928217233895425"/>
         <updated>2023-06-14T10:27:48.000Z</updated>
-        <summary type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去
+        <summary type="html"><![CDATA[braavos钱包的奥德赛第五周，这周任务是需要跨币进去 https://twitter.com/myBraavos/status/1668916135897489411
 
 Braavos - StarkNet Wallet: Unleash the final chapter! 🎉
 Milestone 5 of the #StarknetJourney is live!
@@ -780,7 +769,7 @@ Keep reading 👀👇 https://t.co/IVeKqciZJQ]]></summary>
         <id>https://twitter.com/8848Community/status/1668630551924969483</id>
         <link href="https://twitter.com/8848Community/status/1668630551924969483"/>
         <updated>2023-06-13T14:44:59.000Z</updated>
-        <summary type="html"><![CDATA[之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？
+        <summary type="html"><![CDATA[之前说不给mint了早期NFT的人空投，现在又搞这个早期支持者OAT，是要想干嘛？之前被骂惨了社区大量早期支持者流失，现在准备快要上线发币了，又弄点早期支持者活动勋章来招揽下人气？ https://twitter.com/Chainflip/status/1668618140966846472
 
 CHAINFLIP LABS: Attention, Early Chainflip Advocates! We're excited to announce the availability of our Chainflip Early Supporters Pass, run through @Galxe.
 1. Details on if you qualify below:⬇️
@@ -790,11 +779,11 @@ https://galxe.com/ChainflipLabs/campaign/GCwevUQZAy https://t.co/JcP93bCcir]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[4 https://twitter.com/Uniswap/status/1668603580184502276]]></title>
         <id>https://twitter.com/8848Community/status/1668611392591769606</id>
         <link href="https://twitter.com/8848Community/status/1668611392591769606"/>
         <updated>2023-06-13T13:28:51.000Z</updated>
-        <summary type="html"><![CDATA[4
+        <summary type="html"><![CDATA[4 https://twitter.com/Uniswap/status/1668603580184502276
 
 Uniswap Labs 🦄: 1/ Today, we’re announcing our vision for Uniswap v4 🦄
 We see Uniswap as core financial infrastructure & think it should be built in public with space for community feedback and contribution.
@@ -836,7 +825,7 @@ http://github.com/Uniswap/v4-core https://t.co/9vGJElba2x]]></summary>
         <link href="https://twitter.com/8848Community/status/1668572627731087360"/>
         <updated>2023-06-13T10:54:49.000Z</updated>
         <summary type="html"><![CDATA[有时候撸着撸着，项目就没了
-NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。
+NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些情况，决定逐步结束运营。Abacus 团队表示，如果用户在 Abacus 中有任何资金或资产，建议将其取出，Abacus 前端也将在接下来的一周内关闭。 https://twitter.com/abacus_wtf/status/1668358993054429184
 
 🧮 | Abacus.wtf: https://t.co/KMVI6lR5H3]]></summary>
         <author>
@@ -854,11 +843,11 @@ NFT 估值和借贷协议 Abacus 表示，鉴于内部和外部存在的一些�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家]]></title>
+        <title type="html"><![CDATA[有福了兄弟们 反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707]]></title>
         <id>https://twitter.com/8848Community/status/1668262211876270081</id>
         <link href="https://twitter.com/8848Community/status/1668262211876270081"/>
         <updated>2023-06-12T14:21:20.000Z</updated>
-        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家
+        <summary type="html"><![CDATA[有福了兄弟们  反女巫三剑客齐聚一家 https://twitter.com/LineaBuild/status/1668256194635464707
 
 Linea: 📢Excited to announce "I'm a First Class Linea Citizen": a campaign to combat bots, prioritize real user engagement in Linea Voyage.
 We’ve teamed up with @gitcoinpassport, @Galxe Passport, and @guildxyz to create a fair, authentic community experience👇
@@ -901,15 +890,15 @@ Something that’s a consensus long by society doesn’t print 10-100x’s.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1068,6 +1057,22 @@ How to get it? Read on 👇 https://t.co/kF7CfxaoVa]]></summary>
         <updated>2023-06-07T14:54:13.000Z</updated>
         <summary type="html"><![CDATA[在吗？
 看看4不是4 https://t.co/zGato8ohEE]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963]]></title>
+        <id>https://twitter.com/8848Community/status/1666446765694828546</id>
+        <link href="https://twitter.com/8848Community/status/1666446765694828546"/>
+        <updated>2023-06-07T14:07:24.000Z</updated>
+        <summary type="html"><![CDATA[braavos 第四周 https://twitter.com/myBraavos/status/1666438527016488963
+
+Braavos - StarkNet Wallet: 🎉 Step 4 of the #StarknetJourney campaign is here!
+Participate in this exciting #NFTgiveaway and complete your Dynamic Map NFT! 🗺
+Your mission is to set up a domain such as '.braavos.stark' on your account.
+To claim, visit https://starknet-journey-map.braavos.app/
+Here is your guide!👇 https://t.co/6jnH5v4pra]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
         </author>
