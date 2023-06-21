@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T05:12:48.306Z</id>
+    <id>urn:2023-06-21T06:16:30.309Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T05:12:48.306Z</updated>
+    <updated>2023-06-21T06:16:30.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,50 @@
         <summary type="html"><![CDATA[Re @DLF2216 1995 年开始跟海贼王,   一路看路飞成长起来的.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 修复方法建议通过铸造一个 NFT，将其转移到销毁地址来删除后门。 https://twitter.com/0xngmi/status/1671344096441499648]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671364331165077505</id>
+        <link href="https://twitter.com/wublockchain12/status/1671364331165077505"/>
+        <updated>2023-06-21T03:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 修复方法建议通过铸造一个 NFT，将其转移到销毁地址来删除后门。
+https://twitter.com/0xngmi/status/1671344096441499648
+
+0xngmi: .@foundation's NFT contracts have an exploit that allows foundation's team to destroy almost all NFTs minted on their platform.
+Here's a thread explaining the exploit👇]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，DefiLlama 创始人 0xngmi 发现 NFT 市场 Foundation 的 NFT 合约存在漏洞，可导致基金会团队销毁几乎所有在其平台上铸造的 NFT。该合约使用转发代理模...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671364328346501120</id>
+        <link href="https://twitter.com/wublockchain12/status/1671364328346501120"/>
+        <updated>2023-06-21T03:48:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，DefiLlama 创始人 0xngmi 发现 NFT 市场 Foundation 的 NFT 合约存在漏洞，可导致基金会团队销毁几乎所有在其平台上铸造的 NFT。该合约使用转发代理模式节省部署的 Gas，意味着所有集合调用一个单一的合约来使用它的代码不是问题，且基金会的集合拥有销毁 NFT 的功能。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.mas.gov.sg/news/media-releases/2023/mas-proposes-standards-for-digital-money]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671361969696411648</id>
+        <link href="https://twitter.com/wublockchain12/status/1671361969696411648"/>
+        <updated>2023-06-21T03:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.mas.gov.sg/news/media-releases/2023/mas-proposes-standards-for-digital-money]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，新加坡金融管理局 (MAS) 今天发布了一份 Purpose Bound Money (PBM) 技术白皮书，提出了一个通用协议来指定数字货币的使用条件，如 CBDC、代币化银行...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1671361967435698178</id>
+        <link href="https://twitter.com/wublockchain12/status/1671361967435698178"/>
+        <updated>2023-06-21T03:38:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，新加坡金融管理局 (MAS) 今天发布了一份 Purpose Bound Money (PBM) 技术白皮书，提出了一个通用协议来指定数字货币的使用条件，如 CBDC、代币化银行存款，以及区块链上的稳定币。白皮书是与国际货币基金组织、意大利银行、韩国银行、金融机构和金融科技公司合作开发的。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -239,49 +283,6 @@ Crypto-Keeper: @EricBalchunas @NateGeraci Invesco Galaxy 19b4 dropped https://
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，继 BlackRock 提交现货比特币 ETF 申请后，彭博社高级 ETF 分析师 Eric Balchunas 发推表示，资产管理公司 WisdomTree 再次提交现货比特币 ETF 申请。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671324268284772353</id>
-        <link href="https://twitter.com/wublockchain12/status/1671324268284772353"/>
-        <updated>2023-06-21T01:08:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，继 BlackRock 提交现货比特币 ETF 申请后，彭博社高级 ETF 分析师 Eric Balchunas 发推表示，资产管理公司 WisdomTree 再次提交现货比特币 ETF 申请。此外，Invesco 也新提交了现货比特币 ETF 的 19b-4 文件。此前 SEC 已多次拒绝现货币 ETF。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://www.tradingview.com/chart/5Op6vIU4/?symbol=OTC%3AGBTC & https://cryptoquant.com/asset/btc/chart/fund-data/fund-market-premium?symbol=gbtc&w...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671322976825004032</id>
-        <link href="https://twitter.com/wublockchain12/status/1671322976825004032"/>
-        <updated>2023-06-21T01:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.tradingview.com/chart/5Op6vIU4/?symbol=OTC%3AGBTC & https://cryptoquant.com/asset/btc/chart/fund-data/fund-market-premium?symbol=gbtc&window=DAY&sma=0&ema=0&priceScale=log&metricScale=linear&chartStyle=line]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Trading View 数据，美东时间 6 月 20 日 GBTC 大涨 11.44%，交易量达 1024 万美元，创下自去年 11 月 22 日以来交易量高点。自贝莱德申请提交比特...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671322974740443138</id>
-        <link href="https://twitter.com/wublockchain12/status/1671322974740443138"/>
-        <updated>2023-06-21T01:03:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Trading View 数据，美东时间 6 月 20 日 GBTC 大涨 11.44%，交易量达 1024 万美元，创下自去年 11 月 22 日以来交易量高点。自贝莱德申请提交比特币 ETF 申请以来，GBTC 已上涨超 25%。CryptoQuant 数据显示，当前 GBTC 溢价为 -34.19%，为今年以来第二高点。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 我们已经成长为现任者，现在还需要保护系统免受我们自己的侵害。” https://twitter.com/ObadiaAlex/status/1671151059585097729]]></title>
-        <id>https://twitter.com/wublockchain12/status/1671316388018016256</id>
-        <link href="https://twitter.com/wublockchain12/status/1671316388018016256"/>
-        <updated>2023-06-21T00:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Re 我们已经成长为现任者，现在还需要保护系统免受我们自己的侵害。” https://twitter.com/ObadiaAlex/status/1671151059585097729
-
-alex: 1/ after almost 3 years building flashbots, i've decided it's time for me to leave. thanks to my co-founders and the entire flashbots crew for 3 memorable years.
-for anyone interested, here's the message i sent to the team earlier today. https://t.co/MiH7OIRYbF]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT West 4th St Capital: We are hiring another analyst (1-4 years of experience) to expand the team. I work at a $1bn + long/short hedge fund in NYC wi...]]></title>
         <id>https://twitter.com/West4thCapital/status/1671307598606262274</id>
         <link href="https://twitter.com/West4thCapital/status/1671307598606262274"/>
@@ -485,11 +486,11 @@ dis频道聊天说了事实，直接删了2天的频道记录+禁言部分人
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。 https://twitter.com/0xngmi/status/1670954337592307717]]></title>
+        <title type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1671091424484556800</id>
         <link href="https://twitter.com/AntCaveClub/status/1671091424484556800"/>
         <updated>2023-06-20T09:43:37.000Z</updated>
-        <summary type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。 https://twitter.com/0xngmi/status/1670954337592307717
+        <summary type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。
 
 0xngmi: Launched a crypto calendar with the most important crypto and macro events to track
 https://defillama.com/calendar https://t.co/1Q474DL4DS]]></summary>
@@ -611,7 +612,7 @@ A Comprehensive Thread🧵👇 https://t.co/9Y6HwJECLe]]></summary>
         <updated>2023-06-18T00:41:31.000Z</updated>
         <summary type="html"><![CDATA[这不是早已经有了吗？大家都知道精品刷这个啊？@gitcoinpassport 是一个协议不只是一个网站。
 理论上所有项目方都可以使用并添加拓展。"链上KYC"一定会成常态。
-https://youtu.be/X71GWp3kzRo https://twitter.com/hebi555/status/1670038034002374658 https://t.co/Tavlpw9wCL
+https://youtu.be/X71GWp3kzRo https://t.co/Tavlpw9wCL
 
 
 何币: zksync 会推出一个积分任务系统，应该两周后上线。大概有几十个任务。 https://t.co/Ic111w8TRZ]]></summary>
@@ -673,11 +674,11 @@ This is crazy 😝 https://t.co/xg6ad5GwRm]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这所好像是换了批人。 https://twitter.com/Atirisvvvvv/status/1669210306239684613]]></title>
+        <title type="html"><![CDATA[这所好像是换了批人。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1669412536603779074</id>
         <link href="https://twitter.com/AntCaveClub/status/1669412536603779074"/>
         <updated>2023-06-15T18:32:19.000Z</updated>
-        <summary type="html"><![CDATA[这所好像是换了批人。 https://twitter.com/Atirisvvvvv/status/1669210306239684613
+        <summary type="html"><![CDATA[这所好像是换了批人。
 
 元宇宙阿Q: 抹茶交易所是真狗，奉劝所有想上、准备上抹茶交易所的项目方，如果真心是为了用户、项目前景考虑的话，千万不要上抹茶，至少现阶段不考虑，现在是各个交易所都很缺钱，但凡一上抹茶就是让自己用户去接抹茶的砸盘，项目方给了的币要砸，项目方不给的币用数据也要砸，不做市？不好意思，不做市不开充提。]]></summary>
         <author>
@@ -1186,11 +1187,11 @@ Instead download anki, download a pre-made deck of the 1000-2000 most used words
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/4WupVoe5a5]]></title>
+        <title type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5]]></title>
         <id>https://twitter.com/OnChainWizard/status/1663967858747899904</id>
         <link href="https://twitter.com/OnChainWizard/status/1663967858747899904"/>
         <updated>2023-05-31T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/4WupVoe5a5
+        <summary type="html"><![CDATA[https://twitter.com/fintechfrank/status/1663865463162511360 https://t.co/4WupVoe5a5
 
 
 Frank Chaparro: gm 🌞
@@ -1291,11 +1292,11 @@ Onchain Wizard: $SPELL revival incoming?   This wallet that made over $8mm in 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472]]></title>
+        <title type="html"><![CDATA[Twitter 好占内存]]></title>
         <id>https://twitter.com/AntCaveClub/status/1663157549850578945</id>
         <link href="https://twitter.com/AntCaveClub/status/1663157549850578945"/>
         <updated>2023-05-29T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 好占内存 https://twitter.com/elonmusk/status/1662654838398697472
+        <summary type="html"><![CDATA[Twitter 好占内存
 
 Elon Musk: Sorry this app takes up so much space https://t.co/bCCfcOhNJt]]></summary>
         <author>
