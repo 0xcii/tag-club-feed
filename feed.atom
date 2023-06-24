@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-24T14:12:03.562Z</id>
+    <id>urn:2023-06-24T15:13:51.930Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-24T14:12:03.562Z</updated>
+    <updated>2023-06-24T15:13:51.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @mhonkasalo Kind of wild seeing bill go from legendary investor to twitter bad takes machine]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1672623638988611585</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1672623638988611585"/>
+        <updated>2023-06-24T15:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @mhonkasalo Kind of wild seeing bill go from legendary investor to twitter bad takes machine]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @biancoresearch What about labor bruh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1672622835376746497</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1672622835376746497"/>
+        <updated>2023-06-24T15:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @biancoresearch What about labor bruh]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hmeisler It would be very surprising if semis peaked at the bottom of the inventory correction]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1672616131448717313</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1672616131448717313"/>
+        <updated>2023-06-24T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @hmeisler It would be very surprising if semis peaked at the bottom of the inventory correction]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/CjADJ6ZntM]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672602713459412994</id>
+        <link href="https://twitter.com/wublockchain12/status/1672602713459412994"/>
+        <updated>2023-06-24T13:48:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/CjADJ6ZntM]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Paesec 数据显示，一度有超过 400 枚 Azuki 处于清算状态中。https://blur.io/collection/azuki/loans & https://app.parsec.finance/dashboard https://t.co...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672584789952712706</id>
+        <link href="https://twitter.com/wublockchain12/status/1672584789952712706"/>
+        <updated>2023-06-24T12:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Re Paesec 数据显示，一度有超过 400 枚 Azuki 处于清算状态中。https://blur.io/collection/azuki/loans & https://app.parsec.finance/dashboard https://t.co/TLgkwQohtA]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，今天下午 Azuki 地板价闪崩，从 17.5 ETH 一度下跌至 14.11 ETH，当前地板价约 14.73 ETH，近 24 小时下跌超过 11%，这可能是对于 Azuki Elemental...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672584787427721216</id>
+        <link href="https://twitter.com/wublockchain12/status/1672584787427721216"/>
+        <updated>2023-06-24T12:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，今天下午 Azuki 地板价闪崩，从 17.5 ETH 一度下跌至 14.11 ETH，当前地板价约 14.73 ETH，近 24 小时下跌超过 11%，这可能是对于 Azuki Elementals 预售消息的 sell the news 行为。当前 Blend 中有 61 枚 Azuki 的 LTV＞100%，即贷款价值大于资产价值；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @hmeisler Damn RIP to the banks]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1672564094040264706</id>
@@ -272,26 +332,6 @@ BREAKING: Wagner technical force is reportedly now outside of the Russian Southe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://stellar.org/blog/coinbase-integrates-with-usdc-on-stellar]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672419282087731200</id>
-        <link href="https://twitter.com/wublockchain12/status/1672419282087731200"/>
-        <updated>2023-06-24T01:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Re https://stellar.org/blog/coinbase-integrates-with-usdc-on-stellar]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Stellar 发展基金会（SDF）发文称，Coinbase 已支持在 Stellar 网络上存入与提取 USDC。Stellar 上的 USDC 可以提供“接近零”的交易成本，且可以在五...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672419279726325762</id>
-        <link href="https://twitter.com/wublockchain12/status/1672419279726325762"/>
-        <updated>2023-06-24T01:40:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Stellar 发展基金会（SDF）发文称，Coinbase 已支持在 Stellar 网络上存入与提取 USDC。Stellar 上的 USDC 可以提供“接近零”的交易成本，且可以在五秒内完成交易。SDF 表示，这一举措将为 USDC 以及 Stellar 生态现有钱包、交易所和金融科技业务带来“重大的出入金渠道”。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @DecryptSim Ooo interesting]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1672418319763210243</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1672418319763210243"/>
@@ -302,22 +342,11 @@ BREAKING: Wagner technical force is reportedly now outside of the Russian Southe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说周精选：多家美国巨头提交现货比特币 ETF 申请、首个杠杆比特币 ETF 通过与新闻Top10（0617–0623） https://www.wu-talk.com/index.php?m=content&c=index&...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672413175520854016</id>
-        <link href="https://twitter.com/wublockchain12/status/1672413175520854016"/>
-        <updated>2023-06-24T01:15:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：多家美国巨头提交现货比特币 ETF 申请、首个杠杆比特币 ETF 通过与新闻Top10（0617–0623）
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15511]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It’s funny bob’s tweeting this out dogmatically when evidence is starting to mount the labor market is in fact weakening (hours worked, adp pays per...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1672412230749495297</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1672412230749495297"/>
         <updated>2023-06-24T01:12:02.000Z</updated>
-        <summary type="html"><![CDATA[It’s funny bob’s tweeting this out dogmatically when evidence is starting to mount the labor market is in fact weakening (hours worked, adp pays per control decelerating fast, job claims ticking steadily higher)
+        <summary type="html"><![CDATA[It’s funny bob’s tweeting this out dogmatically when evidence is starting to mount the labor market is in fact weakening (hours worked, adp pays per control decelerating fast, job claims ticking steadily higher) https://twitter.com/bobeunlimited/status/1671884336101224452
 
 Bob Elliott: This is your weekly reminder that the US labor market remains secularly tight.
 CC in line with UE rate well under 4% and suggesting another decent payrolls number.  IC modest uptick hasn't come down - suggests folks getting re-hired.
@@ -347,11 +376,11 @@ First CC, continues to move *down* SA. https://t.co/zq4Rj1W8lW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At what point do you just acknowledge that #bitcoin is in an uptrend]]></title>
+        <title type="html"><![CDATA[At what point do you just acknowledge that #bitcoin is in an uptrend https://twitter.com/resdegen/status/1672275909540184066]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1672387178616242177</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1672387178616242177"/>
         <updated>2023-06-23T23:32:29.000Z</updated>
-        <summary type="html"><![CDATA[At what point do you just acknowledge that #bitcoin is in an uptrend
+        <summary type="html"><![CDATA[At what point do you just acknowledge that #bitcoin is in an uptrend https://twitter.com/resdegen/status/1672275909540184066
 
 Res: $BTC doing the same as it did before.
 Remember BTC moves hard in a short period of time, then consolidates, and it's time for ETH and other alts. Feeling this time will be similar. 
@@ -491,16 +520,6 @@ Framework by @RektProof https://t.co/BY6E9HcUfG]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @IYKYKcap $pypl]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1672344284547231750</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1672344284547231750"/>
-        <updated>2023-06-23T20:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @IYKYKcap $pypl]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @CrossChainAlex I def disagree. But depends how you categorize "whale wallet". I literally only trade what smart money does and have since '21 prof...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1672336730077143041</id>
         <link href="https://twitter.com/OnChainWizard/status/1672336730077143041"/>
@@ -524,16 +543,6 @@ Framework by @RektProof https://t.co/BY6E9HcUfG]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DoveyWan Where’s rest of piece]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1672316098622922766</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1672316098622922766"/>
-        <updated>2023-06-23T18:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DoveyWan Where’s rest of piece]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Web3Tinkle @LmaoGPT]]></title>
         <id>https://twitter.com/AntCaveClub/status/1672309730986041344</id>
         <link href="https://twitter.com/AntCaveClub/status/1672309730986041344"/>
@@ -541,20 +550,6 @@ Framework by @RektProof https://t.co/BY6E9HcUfG]]></summary>
         <summary type="html"><![CDATA[Re @Web3Tinkle @LmaoGPT]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT i/o: Sounds crazy, but he has scientific support. https://t.co/IQJGbYuDUL]]></title>
-        <id>https://twitter.com/monitoringbias/status/1672304014032093184</id>
-        <link href="https://twitter.com/monitoringbias/status/1672304014032093184"/>
-        <updated>2023-06-23T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[RT i/o
-Sounds crazy, but he has scientific support. https://t.co/IQJGbYuDUL
-
-
-Don’t @ Me PhD: 3 years of mandatory TRT for all white men and the woke nonsense will end for good]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
