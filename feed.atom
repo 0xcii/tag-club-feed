@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T10:14:42.906Z</id>
+    <id>urn:2023-06-25T11:12:47.547Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-25T10:14:42.906Z</updated>
+    <updated>2023-06-25T11:12:47.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/SlowMist_Team/status/1639113556003295240]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672913582764478464</id>
+        <link href="https://twitter.com/wublockchain12/status/1672913582764478464"/>
+        <updated>2023-06-25T10:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/SlowMist_Team/status/1639113556003295240
+
+SlowMist: 🚨$ARB Airdrop, Scammers' Carnival🚨
+After the $ARB airdrop, while the community is cheering, scammers are enjoying the carnival by stealing $ARB through phishing, front-running leaked private keys, etc. Here is a simple example:👇
+The scammer built an https://arbiscan.io/tx/0x89aabc9a091234c435212723c1a5ad8771f4891d25ba06169bcaa1819648571e… https://twitter.com/i/web/status/1639113556003295240 https://t.co/k7hALbqMR6]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据慢雾揭露了一种盗取空投的骗局：黑客构建了一个可升级的 DEX 路由器，通过早期的宣传引诱用户批准该路由器进行代币交换，当用户申请 ARB 空投并将其...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672913578318503937</id>
+        <link href="https://twitter.com/wublockchain12/status/1672913578318503937"/>
+        <updated>2023-06-25T10:24:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据慢雾揭露了一种盗取空投的骗局：黑客构建了一个可升级的 DEX 路由器，通过早期的宣传引诱用户批准该路由器进行代币交换，当用户申请 ARB 空投并将其交换为批准的代币时，路由器所有者通过合同升级窃取用户之前批准的代币。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 新的端点地址已启用，请确保在 2023 年 7 月 24 日之前完成迁移。今年一月份，ETC 宣布将 Ethereum Classic 主网的RPC URL 从 Ethercluster 更改为 Rivet，还...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672912316000768000</id>
+        <link href="https://twitter.com/wublockchain12/status/1672912316000768000"/>
+        <updated>2023-06-25T10:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Re 新的端点地址已启用，请确保在 2023 年 7 月 24 日之前完成迁移。今年一月份，ETC 宣布将 Ethereum Classic 主网的RPC URL 从 Ethercluster 更改为 Rivet，还将把 Ethercluster Mordor 测试网端点移至新端点。
+https://etccooperative.org/posts/2023-06-24-important-announcement-migrate-the-etc-and-mordor-rpc-endpoints-by-july-24-2023-en]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊经典（ETC）发文提醒钱包运营商、交易所、矿池、DApp 开发人员以及其他使用 Ethereum Classic 主网和 Mordor 测试网Ethercluster 端点的所有用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672912311873601537</id>
+        <link href="https://twitter.com/wublockchain12/status/1672912311873601537"/>
+        <updated>2023-06-25T10:19:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊经典（ETC）发文提醒钱包运营商、交易所、矿池、DApp 开发人员以及其他使用 Ethereum Classic 主网和 Mordor 测试网Ethercluster 端点的所有用户，基于以太坊的开源云架构 Ethercluster 将于 2023 年 7 月 24 日停止。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据面板，目前由 LST 作为支撑的稳定币市值达 1.37 亿美元，持续创下新高，其中 Lybra 的 eUSD 占比约70% 达 9500 万美元，Gravita ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672909791604375552</id>
+        <link href="https://twitter.com/wublockchain12/status/1672909791604375552"/>
+        <updated>2023-06-25T10:09:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @defi_mochi 数据面板，目前由 LST 作为支撑的稳定币市值达 1.37 亿美元，持续创下新高，其中 Lybra 的 eUSD 占比约70% 达 9500 万美元，Gravita 的 GRAI 达 1080 万美元，Raft 的 R 近 3100 万美元。当前 LSDFi 协议整体 TVL 约5.37 亿美元。https://dune.com/defimochi/lsdfi-summer]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 相较之下被明确列为证券的代币、交易所代币、VC主导、中心化较强的代币可能相对不被看好。https://www.coingecko.com/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672905006637539328</id>
+        <link href="https://twitter.com/wublockchain12/status/1672905006637539328"/>
+        <updated>2023-06-25T09:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 相较之下被明确列为证券的代币、交易所代币、VC主导、中心化较强的代币可能相对不被看好。https://www.coingecko.com/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Coingecko，最近24小时蓝筹 DeFi 代币普遍上涨，AAVE +25% SNX +18% UNI +11% CRV +7%。由于美国 SEC 将去中心化等作为衡量代币是否属于证券的标准之一，POW ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672905002137051136</id>
+        <link href="https://twitter.com/wublockchain12/status/1672905002137051136"/>
+        <updated>2023-06-25T09:50:08.000Z</updated>
+        <summary type="html"><![CDATA[据 Coingecko，最近24小时蓝筹 DeFi 代币普遍上涨，AAVE +25% SNX +18% UNI +11% CRV +7%。由于美国 SEC 将去中心化等作为衡量代币是否属于证券的标准之一，POW DeFi MEME 等代币可能受到机构资金的投入；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 用户可以进行微交易、访问高级内容，并参与代币化经济。此外，该插件还为去中心化应用的开发提供了机会。https://cointelegraph.com/news/chat-gpt-plugin-go...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672897238450970624</id>
+        <link href="https://twitter.com/wublockchain12/status/1672897238450970624"/>
+        <updated>2023-06-25T09:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Re 用户可以进行微交易、访问高级内容，并参与代币化经济。此外，该插件还为去中心化应用的开发提供了机会。https://cointelegraph.com/news/chat-gpt-plugin-goes-live-hedera-network]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Cointelegraph，ChatGPT 插件已在 Hedera 网络上线，实现与区块链的整合。插件允许用户通过网络浏览器或镜像节点 API 查看 Hedera 账户的余额，简化了资产监...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1672897231761080322</id>
+        <link href="https://twitter.com/wublockchain12/status/1672897231761080322"/>
+        <updated>2023-06-25T09:19:15.000Z</updated>
+        <summary type="html"><![CDATA[据 Cointelegraph，ChatGPT 插件已在 Hedera 网络上线，实现与区块链的整合。插件允许用户通过网络浏览器或镜像节点 API 查看 Hedera 账户的余额，简化了资产监控和管理。该集成利用区块链技术验证 AI 生成内容的来源和完整性，确保可靠性。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，巴比特旗下 DeFi 之道宣布即日起暂停发布加密货币相关资讯以及暂停接受加密货币内容投稿。巴比特总站全面转向 AI 赛道，也覆盖元宇宙 Web3 等内容。作...]]></title>
         <id>https://twitter.com/wublockchain12/status/1672880812331769857</id>
@@ -152,37 +247,6 @@ https://snapshot.org/#/aave.eth/proposal/0xd3a059a055c6f310993bfa8acf2721fd93a0f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，美国法院判决英国黑客 Joseph James O'Connor （绰号 PlugwalkJoe）犯有计算机黑客和 SIM卡交换阴谋，窃取价值约 79.4 万美元（目前价值约160万美元）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672807918633377793</id>
-        <link href="https://twitter.com/wublockchain12/status/1672807918633377793"/>
-        <updated>2023-06-25T03:24:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国法院判决英国黑客 Joseph James O'Connor （绰号 PlugwalkJoe）犯有计算机黑客和 SIM卡交换阴谋，窃取价值约 79.4 万美元（目前价值约160万美元）的加密货币。根据美国司法部的指控，这起发生在 2019 年的盗窃案涉及 770 枚 BCH、6,363 枚 LTC、407 枚 ETH 和 7 枚 BTC，2021 年起诉。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 然而，政治不稳定导致利比亚的电力网络已遭受严重损坏。当局正加大力度打击这类活动，并调查其他潜在的挖矿场所。 https://www.middleeasteye.net/news/libya...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672806354459987969</id>
-        <link href="https://twitter.com/wublockchain12/status/1672806354459987969"/>
-        <updated>2023-06-25T03:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Re 然而，政治不稳定导致利比亚的电力网络已遭受严重损坏。当局正加大力度打击这类活动，并调查其他潜在的挖矿场所。
-https://www.middleeasteye.net/news/libya-chinese-nationals-arrested-mining-cryptocurrency]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Middle East Eye，利比亚当局在兹利坦市逮捕了 50 名中国公民，涉嫌在废弃的铁厂内从事非法加密货币挖矿活动。这是继前一天在米苏拉塔抓捕 10 名中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672806350123073536</id>
-        <link href="https://twitter.com/wublockchain12/status/1672806350123073536"/>
-        <updated>2023-06-25T03:18:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Middle East Eye，利比亚当局在兹利坦市逮捕了 50 名中国公民，涉嫌在废弃的铁厂内从事非法加密货币挖矿活动。这是继前一天在米苏拉塔抓捕 10 名中国公民后的最新逮捕行动。利比亚因廉价电力成本成为加密货币挖矿的理想场所，尽管官方禁止该行为。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Charles telling it like it is 😂 https://twitter.com/iohk_charles/status/1672765484440092672]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1672796330329100290</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1672796330329100290"/>
@@ -192,66 +256,6 @@ https://www.middleeasteye.net/news/libya-chinese-nationals-arrested-mining-crypt
 Charles Hoskinson: @IrinaHeaver That probably went to Biden :)]]></summary>
         <author>
             <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Matrixport 分析师Markus Thielen 分析指出，尽管美国 SEC 在起诉币安和 Coinbase，但比特币与以太坊都在美国交易时段价格上涨，而在亚洲交易时段价格...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672793561966989312</id>
-        <link href="https://twitter.com/wublockchain12/status/1672793561966989312"/>
-        <updated>2023-06-25T02:27:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Matrixport 分析师Markus Thielen 分析指出，尽管美国 SEC 在起诉币安和 Coinbase，但比特币与以太坊都在美国交易时段价格上涨，而在亚洲交易时段价格下跌；说明这一次的涨幅是由机构受到比特币ETF和提供受监管的交易所服务所推动的。https://t.me/matrixportnews/253 https://t.co/AvjK9gvgzY]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2020 年 SEC 指控 XRP 是一种证券，美国大多数交易所都将该代币摘牌，但 XRP 仍然表现良好，市值目前排名第六；美国用户可能无法访问它，但仍然可以在世界各...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672791074518212608</id>
-        <link href="https://twitter.com/wublockchain12/status/1672791074518212608"/>
-        <updated>2023-06-25T02:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Re 2020 年 SEC 指控 XRP 是一种证券，美国大多数交易所都将该代币摘牌，但 XRP 仍然表现良好，市值目前排名第六；美国用户可能无法访问它，但仍然可以在世界各地（的离岸交易所）进行交易。（Coindesk）https://www.coindesk.com/consensus-magazine/2023/06/20/what-can-you-do-with-a-blockchain-token-that-is-classified-as-a-security/?utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social&utm_content=editorial]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakkt 的总法律顾问 Marc D'Annunzio 认为，将代币分类为证券有两个主要影响：它影响公司需要向潜在投资者提供的信息披露，以及影响代币的发行方式，但不会“极...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672791070269411328</id>
-        <link href="https://twitter.com/wublockchain12/status/1672791070269411328"/>
-        <updated>2023-06-25T02:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Bakkt 的总法律顾问 Marc D'Annunzio 认为，将代币分类为证券有两个主要影响：它影响公司需要向潜在投资者提供的信息披露，以及影响代币的发行方式，但不会“极大地影响这些代币”。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2023 年 3 月，泰国财政部长宣部将免除发行数字投资型代币的公司的企业所得税和增值税，以促进行业发展。阅读全文：https://mp.weixin.qq.com/s/t0krJAzjVjvK...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672785784745889803</id>
-        <link href="https://twitter.com/wublockchain12/status/1672785784745889803"/>
-        <updated>2023-06-25T01:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Re 2023 年 3 月，泰国财政部长宣部将免除发行数字投资型代币的公司的企业所得税和增值税，以促进行业发展。阅读全文：https://mp.weixin.qq.com/s/t0krJAzjVjvKYu3Ay6AoSg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《泰国数字资产税收现状及未来趋势》（作者：TaxDAO）来自加密货币的利润以及挖矿的利润或报酬，需缴纳预扣税为 15%；利润按照累进制的个人所得税征收，最高可达...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672785780073467904</id>
-        <link href="https://twitter.com/wublockchain12/status/1672785780073467904"/>
-        <updated>2023-06-25T01:56:23.000Z</updated>
-        <summary type="html"><![CDATA[《泰国数字资产税收现状及未来趋势》（作者：TaxDAO）来自加密货币的利润以及挖矿的利润或报酬，需缴纳预扣税为 15%；利润按照累进制的个人所得税征收，最高可达 35%；企业所得税税率为净利润的 20%；还需按销售价格的 7% 征收增值税；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 找出哪些资产是可交易的，哪些是可隔离的非常重要；让加密货币网络作为中立的结算层，实现无需许可的参与；3A Web3 游戏被高估了，小型工作室可以通过快速的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1672784409165180929</id>
-        <link href="https://twitter.com/wublockchain12/status/1672784409165180929"/>
-        <updated>2023-06-25T01:50:56.000Z</updated>
-        <summary type="html"><![CDATA[Re 找出哪些资产是可交易的，哪些是可隔离的非常重要；让加密货币网络作为中立的结算层，实现无需许可的参与；3A Web3 游戏被高估了，小型工作室可以通过快速的迭代周期来快速积累知识。阅读全文：https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=47&id=15525]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -453,7 +457,7 @@ OSINTtechnical: A somewhat surreal sight in Rostov as street cleaners continue
         <updated>2023-06-24T02:33:02.000Z</updated>
         <summary type="html"><![CDATA[据说今天俄罗斯内乱。 
 苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。
-俄罗斯平民可能集体梭哈比特币！
+俄罗斯平民可能集体梭哈比特币！ https://twitter.com/CausMoney/status/1672391688097087489
 
 加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变
 #乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发
@@ -598,7 +602,7 @@ First CC, continues to move *down* SA. https://t.co/zq4Rj1W8lW]]></summary>
         <updated>2023-06-23T17:03:33.000Z</updated>
         <summary type="html"><![CDATA[Re @zksync 的人确实一直对外说过, 2/3 的币交给社区: 
 业务开发主管：  “代币是一个很好的工具；它们可以实现有效的去中心化。  三分之二的代币将被分配......  ...zkSync 网络将由社区拥有多数股权。”
-那 @gitcoinpassport  必须朝死里干!   没有过投票、多签、域名、1 ETH Gas磨损, 还敢说是OG ? ?
+那 @gitcoinpassport  必须朝死里干!   没有过投票、多签、域名、1 ETH Gas磨损, 还敢说是OG ? ? https://twitter.com/CC2Ventures/status/1672236172452458497
 
 CC2: Brilliant @zksync Clip #2 – this time with absolute clarity.
 Head of Biz Dev:
@@ -618,7 +622,7 @@ $ZKS https://twitter.com/i/web/status/1672236172452458497 https://t.co/ybmEFrJX9
         <summary type="html"><![CDATA[好家伙, 已经开始升华到革命了. 
 “克拉克三定律”都用上了, 据说一旦一个项目方开始形而上了, 不聊价值聊信仰了,  这肯定是格局拉满, 得满仓梭哈了。 
 上一个搞项目到说过  : 
-比特币的本质是，一旦0.1版本发布，其核心设计在整个生命周期将成为定局。——Satoshi Nakamoto
+比特币的本质是，一旦0.1版本发布，其核心设计在整个生命周期将成为定局。——Satoshi Nakamoto https://twitter.com/zksync/status/1672224297337643008
 
 zkSync ∎: Sharing the first draft of The ZK Credo — a declaration of the foundational principles for the emerging ZK-powered Internet of Value.
 v1 is now live on GitHub for community discussion and feedback from the Credo's rightful owner: You!
@@ -652,13 +656,13 @@ Let's break down their most exciting investments for 2023.🧵 https://t.co/m0HG
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[跟高考公布成绩一样, 蹲在这里猜你们考上哪了? ZK/CREDO? 🪂 又是希腊文又是摩斯密码的. 有没有项目方发甲骨文的.]]></title>
+        <title type="html"><![CDATA[跟高考公布成绩一样, 蹲在这里猜你们考上哪了? ZK/CREDO? 🪂 又是希腊文又是摩斯密码的. 有没有项目方发甲骨文的. https://twitter.com/zksync/status/1672107...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1672181891188027395</id>
         <link href="https://twitter.com/AntCaveClub/status/1672181891188027395"/>
         <updated>2023-06-23T09:56:45.000Z</updated>
         <summary type="html"><![CDATA[跟高考公布成绩一样, 蹲在这里猜你们考上哪了? 
  ZK/CREDO? 🪂    又是希腊文又是摩斯密码的. 
-有没有项目方发甲骨文的.
+有没有项目方发甲骨文的. https://twitter.com/zksync/status/1672107319616757760
 
 zkSync ∎: --.. -.- / -.-. .-. . -.. --- https://t.co/YHhhBniE6E]]></summary>
         <author>
@@ -666,11 +670,11 @@ zkSync ∎: --.. -.- / -.-. .-. . -.. --- https://t.co/YHhhBniE6E]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[又来一个发布, $MNT 空投名牌交代过, 测试网玩过会给 , 都来的太快, 营养快线跟不上了...]]></title>
+        <title type="html"><![CDATA[又来一个发布, $MNT 空投名牌交代过, 测试网玩过会给 , 都来的太快, 营养快线跟不上了... https://twitter.com/0xMantle/status/1672067610526220288]]></title>
         <id>https://twitter.com/AntCaveClub/status/1672181360415617024</id>
         <link href="https://twitter.com/AntCaveClub/status/1672181360415617024"/>
         <updated>2023-06-23T09:54:38.000Z</updated>
-        <summary type="html"><![CDATA[又来一个发布,   $MNT 空投名牌交代过, 测试网玩过会给 , 都来的太快, 营养快线跟不上了...
+        <summary type="html"><![CDATA[又来一个发布,   $MNT 空投名牌交代过, 测试网玩过会给 , 都来的太快, 营养快线跟不上了... https://twitter.com/0xMantle/status/1672067610526220288
 
 Mantle: [Proposal] $MNT Supply Optimization in Preparation for Launch
 A new soft proposal has been posted to the #Mantle forum for discussion 🧵]]></summary>
@@ -679,11 +683,11 @@ A new soft proposal has been posted to the #Mantle forum for discussion 🧵]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀👀路线图, $STARK 还没出来, 150K 域名已经卖出. https://t.co/9pOPb4mAj9]]></title>
+        <title type="html"><![CDATA[👀👀路线图, $STARK 还没出来, 150K 域名已经卖出. https://twitter.com/Starknet_id/status/1670705513296797697 https://t.co/9pOPb4mAj9]]></title>
         <id>https://twitter.com/AntCaveClub/status/1672174511280758790</id>
         <link href="https://twitter.com/AntCaveClub/status/1672174511280758790"/>
         <updated>2023-06-23T09:27:25.000Z</updated>
-        <summary type="html"><![CDATA[👀👀路线图,   $STARK 还没出来, 150K 域名已经卖出. https://t.co/9pOPb4mAj9
+        <summary type="html"><![CDATA[👀👀路线图,   $STARK 还没出来, 150K 域名已经卖出. https://twitter.com/Starknet_id/status/1670705513296797697 https://t.co/9pOPb4mAj9
 
 
 Starknet.id: 🌴 150K SUBSCRIBERS 🌴 
@@ -851,11 +855,11 @@ To start, we're providing a quickstart guide & tools to help you with building y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[啥意思？ 三箭资本投了三箭资本的债权平台opnx？ 帮助推动三箭资本债权人的损失赔偿。是这样吗？]]></title>
+        <title type="html"><![CDATA[啥意思？ 三箭资本投了三箭资本的债权平台opnx？ 帮助推动三箭资本债权人的损失赔偿。是这样吗？ https://twitter.com/OPNX_Official/status/167150326426383155...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1671521975943016448</id>
         <link href="https://twitter.com/AntCaveClub/status/1671521975943016448"/>
         <updated>2023-06-21T14:14:29.000Z</updated>
-        <summary type="html"><![CDATA[啥意思？ 三箭资本投了三箭资本的债权平台opnx？ 帮助推动三箭资本债权人的损失赔偿。是这样吗？
+        <summary type="html"><![CDATA[啥意思？ 三箭资本投了三箭资本的债权平台opnx？ 帮助推动三箭资本债权人的损失赔偿。是这样吗？ https://twitter.com/OPNX_Official/status/1671503264263831553
 
 OPNX 🐂: We are excited to announce OPNX's ecosystem partner—  3AC Ventures. 
 The partnership will invest in projects building in the OPNX ecosystem and working towards a decentralized future.   
@@ -867,11 +871,11 @@ https://www.3acventures.com/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还是要来了啊 https://t.co/AGoZe8FnO0]]></title>
+        <title type="html"><![CDATA[还是要来了啊 https://twitter.com/ConsenSys/status/1671254162053660672 https://t.co/AGoZe8FnO0]]></title>
         <id>https://twitter.com/AntCaveClub/status/1671504969516847104</id>
         <link href="https://twitter.com/AntCaveClub/status/1671504969516847104"/>
         <updated>2023-06-21T13:06:54.000Z</updated>
-        <summary type="html"><![CDATA[还是要来了啊 https://t.co/AGoZe8FnO0
+        <summary type="html"><![CDATA[还是要来了啊 https://twitter.com/ConsenSys/status/1671254162053660672 https://t.co/AGoZe8FnO0
 
 
 
@@ -992,11 +996,11 @@ dis频道聊天说了事实，直接删了2天的频道记录+禁言部分人
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。]]></title>
+        <title type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。 https://twitter.com/0xngmi/status/1670954337592307717]]></title>
         <id>https://twitter.com/AntCaveClub/status/1671091424484556800</id>
         <link href="https://twitter.com/AntCaveClub/status/1671091424484556800"/>
         <updated>2023-06-20T09:43:37.000Z</updated>
-        <summary type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。
+        <summary type="html"><![CDATA[羊驼再加一个加密日历， 列出重点事件与时间。 https://twitter.com/0xngmi/status/1670954337592307717
 
 0xngmi: Launched a crypto calendar with the most important crypto and macro events to track
 https://defillama.com/calendar https://t.co/1Q474DL4DS]]></summary>
@@ -1093,7 +1097,7 @@ A Comprehensive Thread🧵👇 https://t.co/9Y6HwJECLe]]></summary>
         <updated>2023-06-18T00:41:31.000Z</updated>
         <summary type="html"><![CDATA[这不是早已经有了吗？大家都知道精品刷这个啊？@gitcoinpassport 是一个协议不只是一个网站。
 理论上所有项目方都可以使用并添加拓展。"链上KYC"一定会成常态。
-https://youtu.be/X71GWp3kzRo https://t.co/Tavlpw9wCL
+https://youtu.be/X71GWp3kzRo https://twitter.com/hebi555/status/1670038034002374658 https://t.co/Tavlpw9wCL
 
 
 何币: zksync 会推出一个积分任务系统，应该两周后上线。大概有几十个任务。 https://t.co/Ic111w8TRZ]]></summary>
