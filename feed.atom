@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T08:18:32.510Z</id>
+    <id>urn:2023-06-27T09:14:09.078Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T08:18:32.510Z</updated>
+    <updated>2023-06-27T09:14:09.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 目前，还在讨论集成 Celer 的跨链消息传递框架，这是一种通用的消息传递协议，可以无缝地使开发人员能够在 Sui 上构建具有跨链应用逻辑的 dApps。https://blo...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673602790583844865</id>
+        <link href="https://twitter.com/wublockchain12/status/1673602790583844865"/>
+        <updated>2023-06-27T08:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前，还在讨论集成 Celer 的跨链消息传递框架，这是一种通用的消息传递协议，可以无缝地使开发人员能够在 Sui 上构建具有跨链应用逻辑的 dApps。https://blog.celer.network/2023/06/26/celer-announces-cbridge-bridging-support-for-sui/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Celer Network 宣布其 cBridge 已新增支持 Sui，允许将 ETH、WBTC、USDC、USDT 和 DAI 桥接到 Sui。Celer 通过 xAsset 模型支持资产和代币桥接，这是...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673602785454194689</id>
+        <link href="https://twitter.com/wublockchain12/status/1673602785454194689"/>
+        <updated>2023-06-27T08:02:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Celer Network 宣布其 cBridge 已新增支持 Sui，允许将 ETH、WBTC、USDC、USDT 和 DAI 桥接到 Sui。Celer 通过 xAsset 模型支持资产和代币桥接，这是一种用于在外部链和 Sui 之间进行代币转移的锁定和铸造方法。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 截止目前，Fireblocks 已经通过提供基础设施支持50 多家主要金融机构进入数字资产领域，包括 BNY Mellon（纽约梅隆银行）、BNP Paribas （法国巴黎银行）和澳...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673594949378658304</id>
+        <link href="https://twitter.com/wublockchain12/status/1673594949378658304"/>
+        <updated>2023-06-27T07:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 截止目前，Fireblocks 已经通过提供基础设施支持50 多家主要金融机构进入数字资产领域，包括 BNY Mellon（纽约梅隆银行）、BNP Paribas （法国巴黎银行）和澳大利亚 ANZ 银行等。（ CoinDesk ）https://www.coindesk.com/business/2023/06/27/fireblocks-adds-support-for-amazon-web-services-google-cloud-platform-and-alibaba-cloud/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密托管提供商 Fireblocks 宣布开始为云服务提供商 Amazon Web Services (AWS)、Google Cloud Platform、Alibaba Cloud、Thales 和Securosus 提供支持。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673594944249036800</id>
+        <link href="https://twitter.com/wublockchain12/status/1673594944249036800"/>
+        <updated>2023-06-27T07:31:43.000Z</updated>
+        <summary type="html"><![CDATA[加密托管提供商 Fireblocks 宣布开始为云服务提供商 Amazon Web Services (AWS)、Google Cloud Platform、Alibaba Cloud、Thales 和Securosus 提供支持。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 此外新管理层指控旧 FTX 集团就混合客户资金的账户向银行做出了“虚假陈述”，并解雇了一名对这种做法表示担忧的员工。（彭博社）https://www.bloomberg.com/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673585033578446849</id>
+        <link href="https://twitter.com/wublockchain12/status/1673585033578446849"/>
+        <updated>2023-06-27T06:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 此外新管理层指控旧 FTX 集团就混合客户资金的账户向银行做出了“虚假陈述”，并解雇了一名对这种做法表示担忧的员工。（彭博社）https://www.bloomberg.com/news/articles/2023-06-26/ftx-new-management-recovers-7-billion-in-substantial-progress?leadSource=uverify%20wall]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 新管理层在周一的一份报告中称，迄今已收回约70亿美元的流动资产，去年申请破产时 FTX 已挪用客户资产约 87 亿美元，但总负债仍在 150 亿美元以上。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673585029690331136</id>
+        <link href="https://twitter.com/wublockchain12/status/1673585029690331136"/>
+        <updated>2023-06-27T06:52:19.000Z</updated>
+        <summary type="html"><![CDATA[FTX 新管理层在周一的一份报告中称，迄今已收回约70亿美元的流动资产，去年申请破产时 FTX 已挪用客户资产约 87 亿美元，但总负债仍在 150 亿美元以上。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ANZ（澳新银行）的银行服务组合负责人 Nigel Dobson 引用澳大利亚金融犯罪交流的数据，表示这一比例可能高达 40%。https://cointelegraph.com/news/australia...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673579571713650688</id>
+        <link href="https://twitter.com/wublockchain12/status/1673579571713650688"/>
+        <updated>2023-06-27T06:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Re ANZ（澳新银行）的银行服务组合负责人 Nigel Dobson 引用澳大利亚金融犯罪交流的数据，表示这一比例可能高达 40%。https://cointelegraph.com/news/australian-banks-claim-40-percent-scams-touch-crypto]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 Cointelegarph，在 6 月 26 日澳大利亚区块链周的一次小组讨论中，澳大利亚Commonwealth Bank（澳大利亚联邦银行）的区块链和数字资产管理总监 Sophie Gil...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673579567225925632</id>
+        <link href="https://twitter.com/wublockchain12/status/1673579567225925632"/>
+        <updated>2023-06-27T06:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 Cointelegarph，在 6 月 26 日澳大利亚区块链周的一次小组讨论中，澳大利亚Commonwealth Bank（澳大利亚联邦银行）的区块链和数字资产管理总监 Sophie Gilder 透露，澳大利亚人被诈骗的资金中，三分之一涉及加密货币。”]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试网还没开始别光顾着玩，赶紧，关注DC预习 测试网阶段才是最可怕的，不刷，你就拉开差距了 宣布融资时个分水岭，不刷，它就快照了 主网上线才是最可怕的，不...]]></title>
         <id>https://twitter.com/8848Community/status/1673578152420073473</id>
@@ -20,6 +100,37 @@
 🥲]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1673518499770269696]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673576428833767425</id>
+        <link href="https://twitter.com/wublockchain12/status/1673576428833767425"/>
+        <updated>2023-06-27T06:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1673518499770269696
+
+BITMAIN: 😎BITMAIN Introduces New #ANTMINER S19j XP 
+👏Best performance beyond your expectations
+🫵On sale now!
+☑️151T
+☑️3247W
+☑️21.5J/T
+💲33/T
+🎟Up to 30% off with coupon
+📦Shipping in Q4 2023
+🥳Bulk orders can enjoy up to 1/3 hashrate bonus, please consult BD for details https://t.co/EMDWqA9hkf]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特大陆宣布推出新款蚂蚁 S19j XP 矿机。S19j XP 的参数包括 151T 的算力以及 21.5J/T 的功耗比。已于北京时间 6 月 26 日开启抢购，预计今年第四季...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673576424165478414</id>
+        <link href="https://twitter.com/wublockchain12/status/1673576424165478414"/>
+        <updated>2023-06-27T06:18:07.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特大陆宣布推出新款蚂蚁 S19j XP 矿机。S19j XP 的参数包括 151T 的算力以及 21.5J/T 的功耗比。已于北京时间 6 月 26 日开启抢购，预计今年第四季度发货。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -150,46 +261,6 @@ https://bit.ly/tegro-seed-funding]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，NFT 交易平台 Tegro 宣布以 1 亿美元估值完成种子轮融资，Polygon Ventures 和一批私人投资机构参投，具体融资金额暂未披露。Tegro 由加密交易所 Wazi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673541846470103042</id>
-        <link href="https://twitter.com/wublockchain12/status/1673541846470103042"/>
-        <updated>2023-06-27T04:00:43.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，NFT 交易平台 Tegro 宣布以 1 亿美元估值完成种子轮融资，Polygon Ventures 和一批私人投资机构参投，具体融资金额暂未披露。Tegro 由加密交易所 WazirX 的前联合创始人 Siddharth Menon 创立，支持在以太坊、Polygon 和其他 EVM 兼容链上进行 NFT 的批量交易。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 不过，即将到来的 6 月 28 日零时的 Azuki Elementals 销售或许可以改善这种情况。H/T：@NorthRockLP https://ultrasound.money/]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673537558326939648</id>
-        <link href="https://twitter.com/wublockchain12/status/1673537558326939648"/>
-        <updated>2023-06-27T03:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Re 不过，即将到来的 6 月 28 日零时的 Azuki Elementals 销售或许可以改善这种情况。H/T：@NorthRockLP https://ultrasound.money/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 ultrasound money 数据，近 7 日 ETH 供应量增长超过 1,500 枚，年化增长率约为 0.07%。主网链上活动低迷是主要原因，近两日即便在热门小时段（21 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673537551423135750</id>
-        <link href="https://twitter.com/wublockchain12/status/1673537551423135750"/>
-        <updated>2023-06-27T03:43:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 ultrasound money 数据，近 7 日 ETH 供应量增长超过 1,500 枚，年化增长率约为 0.07%。主网链上活动低迷是主要原因，近两日即便在热门小时段（21 时前后），ETH 也无法实现通缩。 https://t.co/gVqbGUlnYV]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 CNBC，Robinhood 周一表示，由于客户参与度下降，该公司将裁员约 7% 的全职员工。一周前，Robinhood 宣布以约 9500 万美元的现金收购金融科技公司 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673529824948948995</id>
-        <link href="https://twitter.com/wublockchain12/status/1673529824948948995"/>
-        <updated>2023-06-27T03:12:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 CNBC，Robinhood 周一表示，由于客户参与度下降，该公司将裁员约 7% 的全职员工。一周前，Robinhood 宣布以约 9500 万美元的现金收购金融科技公司 X1 Inc，以寻找新的收入来源来抵消其主要交易部门的疲软。https://www.cnbc.com/2023/06/26/robinhood-cutting-7percent-of-its-full-time-employees-.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[群友的温馨提示: op :三天后解锁3200万 ygg: 明天解锁270万 sui: 7.3号解锁4500万 dydx：7.4号解锁1200万 apt : 7.12号解锁3400万 imx ：7.15号解锁1300万 ape :...]]></title>
         <id>https://twitter.com/8848Community/status/1673528963350806530</id>
         <link href="https://twitter.com/8848Community/status/1673528963350806530"/>
@@ -212,46 +283,6 @@ arb：明年三月解锁13亿]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据韩媒 Hankyung，韩国第二大交易所 Bithumb 宣布，从 6 月 28 日开始，直至另行通知，比特币市场的交易手续费将被免除。在活动期间，买入和卖出订单...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673527246139846656</id>
-        <link href="https://twitter.com/wublockchain12/status/1673527246139846656"/>
-        <updated>2023-06-27T03:02:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据韩媒 Hankyung，韩国第二大交易所 Bithumb 宣布，从 6 月 28 日开始，直至另行通知，比特币市场的交易手续费将被免除。在活动期间，买入和卖出订单将不收取任何手续费。https://www.hankyung.com/finance/article/202306276575B]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊基金会宣布推出首个 Devconnect Istanbul 学者计划，旨在为地理和人口上在以太坊中代表不足的社区的有才华和价值观一致的个人提供财务支持，以...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673519683721650182</id>
-        <link href="https://twitter.com/wublockchain12/status/1673519683721650182"/>
-        <updated>2023-06-27T02:32:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊基金会宣布推出首个 Devconnect Istanbul 学者计划，旨在为地理和人口上在以太坊中代表不足的社区的有才华和价值观一致的个人提供财务支持，以便他们于 11 月份参加在伊斯坦布尔举行的 Devconnect 活动。申请截止日期为 2023 年 7 月 23 日。https://blog.ethereum.org/2023/06/26/devconnect-instanbul-scholars]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re DeFirewall 是一种创新的风险评估工具。https://safe.mirror.xyz/rInLWZwD_sf7enjoFerj6FIzCYmVMGrrV8Nhg4THdwI]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673516006403350528</id>
-        <link href="https://twitter.com/wublockchain12/status/1673516006403350528"/>
-        <updated>2023-06-27T02:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Re DeFirewall 是一种创新的风险评估工具。https://safe.mirror.xyz/rInLWZwD_sf7enjoFerj6FIzCYmVMGrrV8Nhg4THdwI]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，数字资产管理平台 Safe（原 Gnosis Safe）发文宣布，与区块链安全公司 Redefine 合作，整合其 DeFirewall 技术，推出钱包交易风险扫描器功能。这一功...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673516001051447296</id>
-        <link href="https://twitter.com/wublockchain12/status/1673516001051447296"/>
-        <updated>2023-06-27T02:18:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，数字资产管理平台 Safe（原 Gnosis Safe）发文宣布，与区块链安全公司 Redefine 合作，整合其 DeFirewall 技术，推出钱包交易风险扫描器功能。这一功能将首先在 Polygon 网络上推出，紧接着在以太坊上推出，支持用户在进行下一笔交易之前扫描潜在风险。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673515457285062656</id>
         <link href="https://twitter.com/AntCaveClub/status/1673515457285062656"/>
@@ -261,26 +292,6 @@ arb：明年三月解锁13亿]]></summary>
 Awawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another "cycle". They fizzle to 0.]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 出售公司资产以弥补损失也在考虑之中，并采取措施降低运营成本以防止进一步的资产损失。客户的法律权利将受到尊重，并且不采取法律行动不会影响客户获得损失...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673511420825313280</id>
-        <link href="https://twitter.com/wublockchain12/status/1673511420825313280"/>
-        <updated>2023-06-27T01:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Re 出售公司资产以弥补损失也在考虑之中，并采取措施降低运营成本以防止进一步的资产损失。客户的法律权利将受到尊重，并且不采取法律行动不会影响客户获得损失赔偿的可能性。https://haruinvest.com/blog/haru-answer-to-your-inquiries/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，加密资产管理平台 Haru Invest 在回复客户提问时称，正在评估其在 B&S 的损失范围，并计划退还由内部资产管理团队和其他合作伙伴管理的资产。由于损失...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673511416526159872</id>
-        <link href="https://twitter.com/wublockchain12/status/1673511416526159872"/>
-        <updated>2023-06-27T01:59:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加密资产管理平台 Haru Invest 在回复客户提问时称，正在评估其在 B&S 的损失范围，并计划退还由内部资产管理团队和其他合作伙伴管理的资产。由于损失的规模和百分比尚未确定，正在考虑通过多轮分发将剩余资产分发给客户。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
