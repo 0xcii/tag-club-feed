@@ -1,86 +1,220 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T10:15:51.349Z</id>
+    <id>urn:2023-06-27T11:12:09.247Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T10:15:51.349Z</updated>
+    <updated>2023-06-27T11:12:09.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re 目前，还在讨论集成 Celer 的跨链消息传递框架，这是一种通用的消息传递协议，可以无缝地使开发人员能够在 Sui 上构建具有跨链应用逻辑的 dApps。https://blo...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673602790583844865</id>
-        <link href="https://twitter.com/wublockchain12/status/1673602790583844865"/>
-        <updated>2023-06-27T08:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前，还在讨论集成 Celer 的跨链消息传递框架，这是一种通用的消息传递协议，可以无缝地使开发人员能够在 Sui 上构建具有跨链应用逻辑的 dApps。https://blog.celer.network/2023/06/26/celer-announces-cbridge-bridging-support-for-sui/]]></summary>
+        <title type="html"><![CDATA[Re 基于这个无法阅读得 Root，黑客通过在钓鱼网站上生成恶意签名来迷惑用户，如果用户进行签署，就会失去其在 Blur 上获得授权的 NFT。因此用户在签名时需要确保...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673644205095407616</id>
+        <link href="https://twitter.com/wublockchain12/status/1673644205095407616"/>
+        <updated>2023-06-27T10:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 基于这个无法阅读得 Root，黑客通过在钓鱼网站上生成恶意签名来迷惑用户，如果用户进行签署，就会失去其在 Blur 上获得授权的 NFT。因此用户在签名时需要确保来源是官方网站。https://twitter.com/realScamSniffer/status/1673363556933464069?s=20
+
+Scam Sniffer: 1/ In the last two days, 4 Azuki were drained due to phishing attacks using Blur's bulk listing signature.
+Let's review the phishing exploit via the Blur Protocol.
+https://etherscan.io/tx/0x1d82a4145a342b1fc4bc422fa889b9036f8ec4b233199f9364bc18c39de187e5 https://t.co/kKk9DzbFE4]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Celer Network 宣布其 cBridge 已新增支持 Sui，允许将 ETH、WBTC、USDC、USDT 和 DAI 桥接到 Sui。Celer 通过 xAsset 模型支持资产和代币桥接，这是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673602785454194689</id>
-        <link href="https://twitter.com/wublockchain12/status/1673602785454194689"/>
-        <updated>2023-06-27T08:02:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Celer Network 宣布其 cBridge 已新增支持 Sui，允许将 ETH、WBTC、USDC、USDT 和 DAI 桥接到 Sui。Celer 通过 xAsset 模型支持资产和代币桥接，这是一种用于在外部链和 Sui 之间进行代币转移的锁定和铸造方法。]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据 Scam Sniffer，在过去的两天里，由于 Blur 批量挂单签名的网络钓鱼攻击，多枚 Azuki 被盗。Blur 批量挂单会要求用户签署一个无法阅读的 Root，该 R...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673644200590725125</id>
+        <link href="https://twitter.com/wublockchain12/status/1673644200590725125"/>
+        <updated>2023-06-27T10:47:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Scam Sniffer，在过去的两天里，由于 Blur 批量挂单签名的网络钓鱼攻击，多枚 Azuki 被盗。Blur 批量挂单会要求用户签署一个无法阅读的 Root，该 Root 是由多个订单哈希生成的 Merkle Tree。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 截止目前，Fireblocks 已经通过提供基础设施支持50 多家主要金融机构进入数字资产领域，包括 BNY Mellon（纽约梅隆银行）、BNP Paribas （法国巴黎银行）和澳...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673594949378658304</id>
-        <link href="https://twitter.com/wublockchain12/status/1673594949378658304"/>
-        <updated>2023-06-27T07:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 截止目前，Fireblocks 已经通过提供基础设施支持50 多家主要金融机构进入数字资产领域，包括 BNY Mellon（纽约梅隆银行）、BNP Paribas （法国巴黎银行）和澳大利亚 ANZ 银行等。（ CoinDesk ）https://www.coindesk.com/business/2023/06/27/fireblocks-adds-support-for-amazon-web-services-google-cloud-platform-and-alibaba-cloud/]]></summary>
+        <title type="html"><![CDATA[Re Delysium 是一个由玩家完全控制的大型多人在线游戏，支持玩家创造各类定制化的实体资产、叙述资产以及本地 AI 元宇宙世界。https://twitter.com/The_Delysium...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673638572447141894</id>
+        <link href="https://twitter.com/wublockchain12/status/1673638572447141894"/>
+        <updated>2023-06-27T10:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Re Delysium 是一个由玩家完全控制的大型多人在线游戏，支持玩家创造各类定制化的实体资产、叙述资产以及本地 AI 元宇宙世界。https://twitter.com/The_Delysium/status/1673633229352632321
+
+Delysium - $AGI 🟨: Welcoming aboard @0xPolygon 
+This isn't just a strategic investment.  
+It's a vote of confidence, a shared belief in a future where AI and blockchain converge.  
+It's exciting to have you stand beside us, as we take yet another step towards realizing our vision:  
+To redefine… https://twitter.com/i/web/status/1673633229352632321 https://t.co/JgP46emOf5]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加密托管提供商 Fireblocks 宣布开始为云服务提供商 Amazon Web Services (AWS)、Google Cloud Platform、Alibaba Cloud、Thales 和Securosus 提供支持。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673594944249036800</id>
-        <link href="https://twitter.com/wublockchain12/status/1673594944249036800"/>
-        <updated>2023-06-27T07:31:43.000Z</updated>
-        <summary type="html"><![CDATA[加密托管提供商 Fireblocks 宣布开始为云服务提供商 Amazon Web Services (AWS)、Google Cloud Platform、Alibaba Cloud、Thales 和Securosus 提供支持。]]></summary>
+        <title type="html"><![CDATA[吴说获悉，Web3 链游项目 Delysium 发推称获得 Polygon 战略投资，投资金额未披露。2022年，Delysium 先后完成 2 轮融资，共筹集 1400 万美元，领投方包括 Antho...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673638568277987328</id>
+        <link href="https://twitter.com/wublockchain12/status/1673638568277987328"/>
+        <updated>2023-06-27T10:25:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Web3 链游项目 Delysium 发推称获得 Polygon 战略投资，投资金额未披露。2022年，Delysium 先后完成 2 轮融资，共筹集 1400 万美元，领投方包括 Anthos Capital、Galaxy Interactive、Republic Crypto 以及 Alameda Research等。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 此外新管理层指控旧 FTX 集团就混合客户资金的账户向银行做出了“虚假陈述”，并解雇了一名对这种做法表示担忧的员工。（彭博社）https://www.bloomberg.com/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673585033578446849</id>
-        <link href="https://twitter.com/wublockchain12/status/1673585033578446849"/>
-        <updated>2023-06-27T06:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外新管理层指控旧 FTX 集团就混合客户资金的账户向银行做出了“虚假陈述”，并解雇了一名对这种做法表示担忧的员工。（彭博社）https://www.bloomberg.com/news/articles/2023-06-26/ftx-new-management-recovers-7-billion-in-substantial-progress?leadSource=uverify%20wall]]></summary>
+        <title type="html"><![CDATA[Re Fableborne 允许玩家与链上资产进行互动，并将专注于提供具有竞争性的多人游戏和玩家拥有的经济体。（CoinDesk） https://www.coindesk.com/web3/2023/06/27/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673632423589052416</id>
+        <link href="https://twitter.com/wublockchain12/status/1673632423589052416"/>
+        <updated>2023-06-27T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Re Fableborne 允许玩家与链上资产进行互动，并将专注于提供具有竞争性的多人游戏和玩家拥有的经济体。（CoinDesk）
+https://www.coindesk.com/web3/2023/06/27/avalanche-backed-web3-gaming-studio-pixion-games-closes-55m-seed-round/]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTX 新管理层在周一的一份报告中称，迄今已收回约70亿美元的流动资产，去年申请破产时 FTX 已挪用客户资产约 87 亿美元，但总负债仍在 150 亿美元以上。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673585029690331136</id>
-        <link href="https://twitter.com/wublockchain12/status/1673585029690331136"/>
-        <updated>2023-06-27T06:52:19.000Z</updated>
-        <summary type="html"><![CDATA[FTX 新管理层在周一的一份报告中称，迄今已收回约70亿美元的流动资产，去年申请破产时 FTX 已挪用客户资产约 87 亿美元，但总负债仍在 150 亿美元以上。]]></summary>
+        <title type="html"><![CDATA[Web3 游戏工作室 Pixion Games 完成 550 万美元种子轮融资，投资方包括 Avalanche Foundation 的 Blizzard Fund、Shima Capital 和 ReadyPlayerDAO 等。融资将用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673632418698493960</id>
+        <link href="https://twitter.com/wublockchain12/status/1673632418698493960"/>
+        <updated>2023-06-27T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Web3 游戏工作室 Pixion Games 完成 550 万美元种子轮融资，投资方包括 Avalanche Foundation 的 Blizzard Fund、Shima Capital 和 ReadyPlayerDAO 等。融资将用于开发其基于 Avalanche 网络的动作角色扮演游戏 Fableborne。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re ANZ（澳新银行）的银行服务组合负责人 Nigel Dobson 引用澳大利亚金融犯罪交流的数据，表示这一比例可能高达 40%。https://cointelegraph.com/news/australia...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673579571713650688</id>
-        <link href="https://twitter.com/wublockchain12/status/1673579571713650688"/>
-        <updated>2023-06-27T06:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Re ANZ（澳新银行）的银行服务组合负责人 Nigel Dobson 引用澳大利亚金融犯罪交流的数据，表示这一比例可能高达 40%。https://cointelegraph.com/news/australian-banks-claim-40-percent-scams-touch-crypto]]></summary>
+        <title type="html"><![CDATA[Re 目前 Sui 官方和 Sui 基金会暂未对此事作出回应。在过去一个月，SUI 下跌约 28%，而 BTC 同期上涨约 14%。Token Unlocks 数据显示，7 月 3 日 8 时将有 61,08...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673630002259300358</id>
+        <link href="https://twitter.com/wublockchain12/status/1673630002259300358"/>
+        <updated>2023-06-27T09:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前 Sui 官方和 Sui 基金会暂未对此事作出回应。在过去一个月，SUI 下跌约 28%，而 BTC 同期上涨约 14%。Token Unlocks 数据显示，7 月 3 日 8 时将有 61,083,333.27 枚 SUI 解锁，价值约 4400 万美元。https://token.unlocks.app/sui]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 据 Cointelegarph，在 6 月 26 日澳大利亚区块链周的一次小组讨论中，澳大利亚Commonwealth Bank（澳大利亚联邦银行）的区块链和数字资产管理总监 Sophie Gil...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673579567225925632</id>
-        <link href="https://twitter.com/wublockchain12/status/1673579567225925632"/>
-        <updated>2023-06-27T06:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Re 据 Cointelegarph，在 6 月 26 日澳大利亚区块链周的一次小组讨论中，澳大利亚Commonwealth Bank（澳大利亚联邦银行）的区块链和数字资产管理总监 Sophie Gilder 透露，澳大利亚人被诈骗的资金中，三分之一涉及加密货币。”]]></summary>
+        <title type="html"><![CDATA[Re 钱包 0x341f 是 Sui 基金会钱包，该地址已累积了近 2,700 万枚 SUI 奖励，其中在 5 月 31 日，钱包 0x341f 通过将资金分割、层层转移等混淆手段或者团队主动...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673629996844474368</id>
+        <link href="https://twitter.com/wublockchain12/status/1673629996844474368"/>
+        <updated>2023-06-27T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Re 钱包 0x341f 是 Sui 基金会钱包，该地址已累积了近 2,700 万枚 SUI 奖励，其中在 5 月 31 日，钱包 0x341f 通过将资金分割、层层转移等混淆手段或者团队主动分割将 250 万枚 SUI 奖励（彼时约 250 万美元）的大部分转移至 Binance。https://twitter.com/DefiSquared/status/1673572324145078273?s=20
+
+DeFi^2: Exclusive new research on SUI:
+Intentionally misrepresented emissions and proof the team themselves are dumping rewards from *locked* and *non-circulating* staked SUI onto Binance. (1/12) https://t.co/jYRyeTFY56]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 另外，拥有近 30 亿“非流通”和“锁定”的 SUI 的 Sui 基金会正在从市场上倾销未锁定的质押奖励。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673629992687902722</id>
+        <link href="https://twitter.com/wublockchain12/status/1673629992687902722"/>
+        <updated>2023-06-27T09:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Re 另外，拥有近 30 亿“非流通”和“锁定”的 SUI 的 Sui 基金会正在从市场上倾销未锁定的质押奖励。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 如果把 Launchpad 中每月获得的 3,700 万 枚非基金会的 SUI 流通量包含在内，即意味着每个月被稀释约 20%。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673629987721871360</id>
+        <link href="https://twitter.com/wublockchain12/status/1673629987721871360"/>
+        <updated>2023-06-27T09:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Re 如果把 Launchpad 中每月获得的 3,700 万 枚非基金会的 SUI 流通量包含在内，即意味着每个月被稀释约 20%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Sui 社区团队成员 LukeG 也承认，SUI 解锁时间表尚未公布，Binance Launchpad 网站上的释放图表仅为预估。每月通过持续质押会产生大约 3,300 万枚 SUI，而在...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673629982667718656</id>
+        <link href="https://twitter.com/wublockchain12/status/1673629982667718656"/>
+        <updated>2023-06-27T09:50:57.000Z</updated>
+        <summary type="html"><![CDATA[Re Sui 社区团队成员 LukeG 也承认，SUI 解锁时间表尚未公布，Binance Launchpad 网站上的释放图表仅为预估。每月通过持续质押会产生大约 3,300 万枚 SUI，而在流通的 6 亿 SUI 中，其中约有 2.5 亿为非基金会的，这意味每月释放的 SUI 相当于增加 10% 的非基金会流通量。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，KOL DeFi^2 指控 Sui 团队歪曲代币释放量，并将来自“锁定”和“非流通”的质押 SUI 的奖励在 Binance 上倾销。首先，Sui 团队并未发布真实的发行量图...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673629973826129921</id>
+        <link href="https://twitter.com/wublockchain12/status/1673629973826129921"/>
+        <updated>2023-06-27T09:50:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，KOL DeFi^2 指控 Sui 团队歪曲代币释放量，并将来自“锁定”和“非流通”的质押 SUI 的奖励在 Binance 上倾销。首先，Sui 团队并未发布真实的发行量图表，如 CoinMarketCap 每月更新引用的是 Binance Launchpad 公告上的 SUI 释放图表。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re OKX 的香港团队有 500 人，专门负责牌照的有 60 人左右。阅读全文：https://foresightnews.pro/article/detail/36091]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673624925880614913</id>
+        <link href="https://twitter.com/wublockchain12/status/1673624925880614913"/>
+        <updated>2023-06-27T09:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Re OKX 的香港团队有 500 人，专门负责牌照的有 60 人左右。阅读全文：https://foresightnews.pro/article/detail/36091]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Foresight News 周舟报道，申请一张香港 VASP 牌照需要 2000 万港元 - 5000 万港元；每年的营运成本可能在 2000 万港币左右，初期成本可能在 3000 万至 4000 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673624919085813760</id>
+        <link href="https://twitter.com/wublockchain12/status/1673624919085813760"/>
+        <updated>2023-06-27T09:30:49.000Z</updated>
+        <summary type="html"><![CDATA[据 Foresight News 周舟报道，申请一张香港 VASP 牌照需要 2000 万港元 - 5000 万港元；每年的营运成本可能在 2000 万港币左右，初期成本可能在 3000 万至 4000 万港币；截止 2023 年 6 月 27 日，OKX 香港累计注册用户超过 8800 人，加密货币总交易量达到 1.5 亿美金；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 评判标准为至少三个月活跃期、市值排名前三十、不包括 BTC ETH 稳定币等。值得注意的是，这一指数纳入的币种引发很多争议，不仅包括平台币、隐私币、已被 SEC...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673624488381145088</id>
+        <link href="https://twitter.com/wublockchain12/status/1673624488381145088"/>
+        <updated>2023-06-27T09:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 评判标准为至少三个月活跃期、市值排名前三十、不包括 BTC ETH 稳定币等。值得注意的是，这一指数纳入的币种引发很多争议，不仅包括平台币、隐私币、已被 SEC 认定为证券的代币等，多名业内人士表示参考价值不高。 https://www.hkvac.io/hkvac_Index.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，香港民间虚拟资产评级机构 HKVAC 公布其虚拟资产指数，含 WBTC、BTCB、stETH、BCH、LTC、BNB、MATIC、ADA、ATOM、FIL、NEAR、ALGO、ICP、XRP、DOGE、D...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673624483247300609</id>
+        <link href="https://twitter.com/wublockchain12/status/1673624483247300609"/>
+        <updated>2023-06-27T09:29:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，香港民间虚拟资产评级机构 HKVAC 公布其虚拟资产指数，含 WBTC、BTCB、stETH、BCH、LTC、BNB、MATIC、ADA、ATOM、FIL、NEAR、ALGO、ICP、XRP、DOGE、DOT、WTRX、SHIB、TRX、LINK、LEO、XMR、XLM、OKB、LDO、HBAR、VET、QNT、FTM、EOS。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Maverick Protocol 已部署至 BNB Chain，目前支持以太坊、zkSync Era 和 BNB Chain。https://www.binance.com/en/support/announcement/binance-will-open-tr...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673621694974681088</id>
+        <link href="https://twitter.com/wublockchain12/status/1673621694974681088"/>
+        <updated>2023-06-27T09:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Re Maverick Protocol 已部署至 BNB Chain，目前支持以太坊、zkSync Era 和 BNB Chain。https://www.binance.com/en/support/announcement/binance-will-open-trading-for-maverick-protocol-mav-d4694febb3dd45da81348502484bf154]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据币安官方公告，币安将于2023 年 6 月 28 日 16:00（UTC+8） 上线 Maverick Protocol（MAV）并开放 MAV/BTC、MAV/USDT、MAV/TUSD 交易对。Maverick P...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673621689761157123</id>
+        <link href="https://twitter.com/wublockchain12/status/1673621689761157123"/>
+        <updated>2023-06-27T09:17:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据币安官方公告，币安将于2023 年 6 月 28 日 16:00（UTC+8） 上线 Maverick Protocol（MAV）并开放 MAV/BTC、MAV/USDT、MAV/TUSD 交易对。Maverick Protocol 为币安 Launchpool 上第 34 个项目， 其创始人 Alvin Xu 曾长期在波场集团工作，短期在 MetaMask 从事产品工作。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 双方还将通过Matter Labs 的开发者工具 ZK Stack 探索在 Klaytn 上构建 Hyperchain1 基础设施。https://www.blockchaintoday.co.kr/news/articleView.html?id...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673617421142478851</id>
+        <link href="https://twitter.com/wublockchain12/status/1673617421142478851"/>
+        <updated>2023-06-27T09:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 双方还将通过Matter Labs 的开发者工具 ZK Stack 探索在 Klaytn 上构建 Hyperchain1 基础设施。https://www.blockchaintoday.co.kr/news/articleView.html?idxno=34201]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Blockchain Today ， Klaytn 基金会与 zkSync Era 开发商 Matter Labs 达成合作，共同在 Klaytn 主网上开发 Layer 2 区块链基础设施。此次合作将利用 Matter ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673617415836676096</id>
+        <link href="https://twitter.com/wublockchain12/status/1673617415836676096"/>
+        <updated>2023-06-27T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[据 Blockchain Today ， Klaytn 基金会与 zkSync Era 开发商 Matter Labs 达成合作，共同在 Klaytn 主网上开发 Layer 2 区块链基础设施。此次合作将利用 Matter Labs 的 zkSync Era 技术，基于零知识证明（Zero-knowledge Proofs）来增强 Klaytn 主网的可扩展性。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -103,43 +237,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1673518499770269696]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673576428833767425</id>
-        <link href="https://twitter.com/wublockchain12/status/1673576428833767425"/>
-        <updated>2023-06-27T06:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BITMAINtech/status/1673518499770269696
-
-BITMAIN: 😎BITMAIN Introduces New #ANTMINER S19j XP 
-👏Best performance beyond your expectations
-🫵On sale now!
-☑️151T
-☑️3247W
-☑️21.5J/T
-💲33/T
-🎟Up to 30% off with coupon
-📦Shipping in Q4 2023
-🥳Bulk orders can enjoy up to 1/3 hashrate bonus, please consult BD for details https://t.co/EMDWqA9hkf]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，比特大陆宣布推出新款蚂蚁 S19j XP 矿机。S19j XP 的参数包括 151T 的算力以及 21.5J/T 的功耗比。已于北京时间 6 月 26 日开启抢购，预计今年第四季...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673576424165478414</id>
-        <link href="https://twitter.com/wublockchain12/status/1673576424165478414"/>
-        <updated>2023-06-27T06:18:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，比特大陆宣布推出新款蚂蚁 S19j XP 矿机。S19j XP 的参数包括 151T 的算力以及 21.5J/T 的功耗比。已于北京时间 6 月 26 日开启抢购，预计今年第四季度发货。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://twitter.com/Lthememecoin/status/16732246473...]]></title>
+        <title type="html"><![CDATA[怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://t.co/l5T8lUOOsI]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673569131638161408</id>
         <link href="https://twitter.com/AntCaveClub/status/1673569131638161408"/>
         <updated>2023-06-27T05:49:09.000Z</updated>
         <summary type="html"><![CDATA[怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.
- 用 GPT 来了波审计, 确实好使  👀 👇 https://twitter.com/Lthememecoin/status/1673224647351869443 https://t.co/l5T8lUOOsI
+ 用 GPT 来了波审计, 确实好使  👀 👇 https://t.co/l5T8lUOOsI
 
 
 
@@ -150,114 +253,6 @@ Every REAL person that participated has been recorded, and will be able to conne
 The claim window will be open for one-week post-TGE. 🪂 https://t.co/74L9AGKsdu]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，区块链游戏平台 XPLA 宣布完成新一轮融资，具体金额未披露，Big Brain Holdings、Play Ventures 和 IVC（Infinity Ventures Crypto）参投。XPLA 表示...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673567226006470657</id>
-        <link href="https://twitter.com/wublockchain12/status/1673567226006470657"/>
-        <updated>2023-06-27T05:41:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，区块链游戏平台 XPLA 宣布完成新一轮融资，具体金额未披露，Big Brain Holdings、Play Ventures 和 IVC（Infinity Ventures Crypto）参投。XPLA 表示，这些投资将有助于推动 Web3 游戏领域的创新，并为用户提供安全和稳定的工具。https://medium.com/@XPLA_Official/xpla-secures-funding-from-big-brain-holdings-play-ventures-and-ivc-bc9fc65552fc]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 根据我们的研究，其他申请人将能够以很少的成本通过类似协议修改他们的申请。”（TheBlock）https://www.theblock.co/post/236415/blackrock-etf-filing-coul...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673561229015805952</id>
-        <link href="https://twitter.com/wublockchain12/status/1673561229015805952"/>
-        <updated>2023-06-27T05:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 根据我们的研究，其他申请人将能够以很少的成本通过类似协议修改他们的申请。”（TheBlock）https://www.theblock.co/post/236415/blackrock-etf-filing-could-be-turning-point-for-bitcoin-ark-says?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ark Invest 认为贝莱德申请比特币现货 ETF 可能是“比特币走向机构接受之路的一个重大转折点”，表明大型机构参与者对数字资产的长期前景持积极态度。 “虽然它...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673561224372686849</id>
-        <link href="https://twitter.com/wublockchain12/status/1673561224372686849"/>
-        <updated>2023-06-27T05:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Ark Invest 认为贝莱德申请比特币现货 ETF 可能是“比特币走向机构接受之路的一个重大转折点”，表明大型机构参与者对数字资产的长期前景持积极态度。  “虽然它看起来很像之前的 ETF 申请，但贝莱德与纳斯达克合作，通过一项独特的监控共享协议来区分其申请，该协议旨在防止比特币相关市场操纵的风险。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布上线 BLUR 的韩国法币交易对。目前仅支持以太坊网络充值。Upbit 表示，可能对一定数额的存款进行审计，这些审计包括分析资...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673559396167880704</id>
-        <link href="https://twitter.com/wublockchain12/status/1673559396167880704"/>
-        <updated>2023-06-27T05:10:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，韩国最大交易所 Upbit 宣布上线 BLUR 的韩国法币交易对。目前仅支持以太坊网络充值。Upbit 表示，可能对一定数额的存款进行审计，这些审计包括分析资金流向。如果审核未完成，存款将无法反映在帐户中。https://upbit.com/service_center/notice?id=3596]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，http://Crypto.com 宣布将在新加坡建立其首个全球创新实验室，将新加坡作为其全球研发中心。新成立的全球创新实验室团队将积极尝试前沿技术，并与战略...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673550967646883841</id>
-        <link href="https://twitter.com/wublockchain12/status/1673550967646883841"/>
-        <updated>2023-06-27T04:36:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，http://Crypto.com 宣布将在新加坡建立其首个全球创新实验室，将新加坡作为其全球研发中心。新成立的全球创新实验室团队将积极尝试前沿技术，并与战略合作伙伴和黑客马拉松探索新的合作机会，以发现区块链、 Web3 和 AI 的新应用。
-https://crypto.com/company-news/crypto-com-to-establish-global-innovation-lab-to-advance-blockchain-web3-and-ai-projects]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 警方在行动中逮捕了 3 名主要犯罪嫌疑人，并扣押了涉案的 142 万枚 USDT、2台电脑、 12 部手机和 30 张银行卡。该团伙涉及的案件金额超过 1000 万元人民币。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673549365775073281</id>
-        <link href="https://twitter.com/wublockchain12/status/1673549365775073281"/>
-        <updated>2023-06-27T04:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 警方在行动中逮捕了 3 名主要犯罪嫌疑人，并扣押了涉案的 142 万枚 USDT、2台电脑、 12 部手机和 30 张银行卡。该团伙涉及的案件金额超过 1000 万元人民币。目前，3 名犯罪嫌疑人已被采取刑事强制措施。
-https://baijiahao.baidu.com/s?id=1769572718563884928&wfr=spider&for=pc]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据光明网，江西省萍乡市公安局峡山口分局近日成功打击了一个利用区块链技术进行网络传销的犯罪团伙。该团伙以发行“USEA币”和“TVL币”为手段，通过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673549361173921792</id>
-        <link href="https://twitter.com/wublockchain12/status/1673549361173921792"/>
-        <updated>2023-06-27T04:30:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据光明网，江西省萍乡市公安局峡山口分局近日成功打击了一个利用区块链技术进行网络传销的犯罪团伙。该团伙以发行“USEA币”和“TVL币”为手段，通过微信、QQ 等网络社交平台进行会员发展，并以销售虚拟货币和提供经济利益为诱饵，吸引会员投资。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 我们看到新兴市场对数字美元的巨大需求，而亚洲确实是其中的中心。https://finance.yahoo.com/news/crypto-firm-circle-eyeing-hong-023523777.html]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673544846051782656</id>
-        <link href="https://twitter.com/wublockchain12/status/1673544846051782656"/>
-        <updated>2023-06-27T04:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Re 我们看到新兴市场对数字美元的巨大需求，而亚洲确实是其中的中心。https://finance.yahoo.com/news/crypto-firm-circle-eyeing-hong-023523777.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，Circle/USDC 创始人 Jeremy Allaire 在天津达沃斯论坛表示，香港显然正在寻求将自己打造成非常重要的数字资产市场和稳定币中心，我们对此非...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673544841215737862</id>
-        <link href="https://twitter.com/wublockchain12/status/1673544841215737862"/>
-        <updated>2023-06-27T04:12:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，Circle/USDC 创始人 Jeremy Allaire 在天津达沃斯论坛表示，香港显然正在寻求将自己打造成非常重要的数字资产市场和稳定币中心，我们对此非常关注；香港发生的事情可能最终可以反映在大中华区的发展情况；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/TegroFi/status/1673223862241177603]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673541850756694016</id>
-        <link href="https://twitter.com/wublockchain12/status/1673541850756694016"/>
-        <updated>2023-06-27T04:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/TegroFi/status/1673223862241177603
-
-Tegro: 📢Exciting News
-🐯Tegro NFT20 Exchange secures seed funding at $100M valuation from @PolygonVentures & other private investors!👏
-This epic support fuels our mission to simplify NFT Trading for all & onboard the next 100M NFT Traders!🚀
-Read more👇
-https://bit.ly/tegro-seed-funding]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -283,11 +278,11 @@ arb：明年三月解锁13亿]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368...]]></title>
+        <title type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673515457285062656</id>
         <link href="https://twitter.com/AntCaveClub/status/1673515457285062656"/>
         <updated>2023-06-27T02:15:52.000Z</updated>
-        <summary type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368000000
+        <summary type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈
 
 Awawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another "cycle". They fizzle to 0.]]></summary>
         <author>
@@ -480,11 +475,11 @@ The stock market never ceases to confound me: Breadth was positive by 9-4 margin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112]]></title>
+        <title type="html"><![CDATA[这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来.]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673327714969821189</id>
         <link href="https://twitter.com/AntCaveClub/status/1673327714969821189"/>
         <updated>2023-06-26T13:49:50.000Z</updated>
-        <summary type="html"><![CDATA[这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112
+        <summary type="html"><![CDATA[这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来.
 
 sanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。
 地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm]]></summary>
@@ -507,11 +502,11 @@ Let's build together！
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which one - $btc or $eth 🤔 https://twitter.com/loomdart/status/1673226095292719105]]></title>
+        <title type="html"><![CDATA[Which one - $btc or $eth 🤔]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1673318041944244227</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1673318041944244227"/>
         <updated>2023-06-26T13:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Which one - $btc or $eth 🤔 https://twitter.com/loomdart/status/1673226095292719105
+        <summary type="html"><![CDATA[Which one - $btc or $eth 🤔
 
 loomdart - (FTX 2.0 Advocate): kinda wild how all u gotta do is long the greatest asset ever made and chill]]></summary>
         <author>
@@ -575,11 +570,11 @@ uniswap (OP)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376]]></title>
+        <title type="html"><![CDATA[好像知道你们要干什么了 👀👀]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673306790929506306</id>
         <link href="https://twitter.com/AntCaveClub/status/1673306790929506306"/>
         <updated>2023-06-26T12:26:42.000Z</updated>
-        <summary type="html"><![CDATA[好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376
+        <summary type="html"><![CDATA[好像知道你们要干什么了 👀👀
 
 DeBank: 1/3
 We're thrilled to announce our new feature "Web3 Badges", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge
@@ -710,7 +705,7 @@ https://t.co/oHvHl5X0j4]]></summary>
         <updated>2023-06-24T02:33:02.000Z</updated>
         <summary type="html"><![CDATA[据说今天俄罗斯内乱。 
 苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。
-俄罗斯平民可能集体梭哈比特币！ https://twitter.com/CausMoney/status/1672391688097087489
+俄罗斯平民可能集体梭哈比特币！
 
 加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变
 #乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发
@@ -811,7 +806,7 @@ BREAKING: Wagner technical force is reportedly now outside of the Russian Southe
         <updated>2023-06-23T17:03:33.000Z</updated>
         <summary type="html"><![CDATA[Re @zksync 的人确实一直对外说过, 2/3 的币交给社区: 
 业务开发主管：  “代币是一个很好的工具；它们可以实现有效的去中心化。  三分之二的代币将被分配......  ...zkSync 网络将由社区拥有多数股权。”
-那 @gitcoinpassport  必须朝死里干!   没有过投票、多签、域名、1 ETH Gas磨损, 还敢说是OG ? ? https://twitter.com/CC2Ventures/status/1672236172452458497
+那 @gitcoinpassport  必须朝死里干!   没有过投票、多签、域名、1 ETH Gas磨损, 还敢说是OG ? ?
 
 CC2: Brilliant @zksync Clip #2 – this time with absolute clarity.
 Head of Biz Dev:
@@ -831,7 +826,7 @@ $ZKS https://twitter.com/i/web/status/1672236172452458497 https://t.co/ybmEFrJX9
         <summary type="html"><![CDATA[好家伙, 已经开始升华到革命了. 
 “克拉克三定律”都用上了, 据说一旦一个项目方开始形而上了, 不聊价值聊信仰了,  这肯定是格局拉满, 得满仓梭哈了。 
 上一个搞项目到说过  : 
-比特币的本质是，一旦0.1版本发布，其核心设计在整个生命周期将成为定局。——Satoshi Nakamoto https://twitter.com/zksync/status/1672224297337643008
+比特币的本质是，一旦0.1版本发布，其核心设计在整个生命周期将成为定局。——Satoshi Nakamoto
 
 zkSync ∎: Sharing the first draft of The ZK Credo — a declaration of the foundational principles for the emerging ZK-powered Internet of Value.
 v1 is now live on GitHub for community discussion and feedback from the Credo's rightful owner: You!
