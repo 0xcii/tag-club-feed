@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T04:17:18.357Z</id>
+    <id>urn:2023-06-27T05:14:06.456Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T04:17:18.357Z</updated>
+    <updated>2023-06-27T05:14:06.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,6 +25,16 @@ avax: 8.26号解锁1.2亿
 arb：明年三月解锁13亿]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊基金会宣布推出首个 Devconnect Istanbul 学者计划，旨在为地理和人口上在以太坊中代表不足的社区的有才华和价值观一致的个人提供财务支持，以...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673519683721650182</id>
+        <link href="https://twitter.com/wublockchain12/status/1673519683721650182"/>
+        <updated>2023-06-27T02:32:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊基金会宣布推出首个 Devconnect Istanbul 学者计划，旨在为地理和人口上在以太坊中代表不足的社区的有才华和价值观一致的个人提供财务支持，以便他们于 11 月份参加在伊斯坦布尔举行的 Devconnect 活动。申请截止日期为 2023 年 7 月 23 日。https://blog.ethereum.org/2023/06/26/devconnect-instanbul-scholars]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -256,16 +266,6 @@ Awawat: There won't be another bull market for crypto. Markets that fail that 
         <updated>2023-06-27T00:24:59.000Z</updated>
         <summary type="html"><![CDATA[Re 以太坊团队提议不迟于 9 月份推出 Holešky，创世活动初步定于 2023 年 9 月 15 日 22:00。
 https://everstake.one/blog/new-ethereum-testnet-holesky-all-you-need-to-know-now]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据区块链质押服务提供商 Everstake 博客，以太坊团队即将推出名为 Holešky 的新测试网以取代 Goerli，成为质押、基础设施和协议开发者测试网，DApps ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673487548377894912</id>
-        <link href="https://twitter.com/wublockchain12/status/1673487548377894912"/>
-        <updated>2023-06-27T00:24:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据区块链质押服务提供商 Everstake 博客，以太坊团队即将推出名为 Holešky 的新测试网以取代 Goerli，成为质押、基础设施和协议开发者测试网，DApps 测试、智能合约和其他 EVM 功能将可在 Sepolia 测试网上进行测试。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
