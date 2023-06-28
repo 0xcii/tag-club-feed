@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T10:15:39.532Z</id>
+    <id>urn:2023-06-28T11:12:12.891Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T10:15:39.532Z</updated>
+    <updated>2023-06-28T11:12:12.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 同时无法使用充值服务。早年 KuCoin 有大量来自美国的用户，在遭到美国政府起诉后开始大幅收紧其 KYC 政策。https://www.kucoin.com/zh-hant/announcement/ha...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673998107598790657</id>
+        <link href="https://twitter.com/wublockchain12/status/1673998107598790657"/>
+        <updated>2023-06-28T10:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Re 同时无法使用充值服务。早年 KuCoin 有大量来自美国的用户，在遭到美国政府起诉后开始大幅收紧其 KYC 政策。https://www.kucoin.com/zh-hant/announcement/hant-enhancement-of-kucoin-customer-identification-and-verification-program]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，KuCoin 宣布，自2023年7月15日（UTC）起，新注册的用户必须完成KYC方可使用KuCoin的产品和服务。对于2023年7月15日（UTC）之前已经完成注册的用户，若...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673998105728147456</id>
+        <link href="https://twitter.com/wublockchain12/status/1673998105728147456"/>
+        <updated>2023-06-28T10:13:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，KuCoin 宣布，自2023年7月15日（UTC）起，新注册的用户必须完成KYC方可使用KuCoin的产品和服务。对于2023年7月15日（UTC）之前已经完成注册的用户，若未完成KYC则只能使用币币卖出、合约平仓、杠杆平仓、理仓财回、ETF赎回等服务，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该 GreenBean 合约是对 Azuki 主合约进行硬编码引用，最大供应量为 1 万，对版税实施的引用即可交易。https://etherscan.io/token/0xdfaa1a2d917df08ea9eae22...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673992414225399810</id>
+        <link href="https://twitter.com/wublockchain12/status/1673992414225399810"/>
+        <updated>2023-06-28T09:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Re 该 GreenBean 合约是对 Azuki 主合约进行硬编码引用，最大供应量为 1 万，对版税实施的引用即可交易。https://etherscan.io/token/0xdfaa1a2d917df08ea9eae22fec2dd729aa93f97b?a=0x0000e1d0e800eda5a145f74e4de557c3e764e3f2 & https://twitter.com/0xWave/status/1673983121942016000?s=20
+
+wave: The deployer of the Elemental Beans contract has deployed a new contract called GreenBean
+I decompiled the contract and saw a few things:
+Hardcoded reference to the main Azuki contract
+Hardcoded MAX_SUPPLY to 10,000
+References to the royalty implementation (implying tradable) https://t.co/PZ7Heh9EyY]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，根据链上数据，Azuki Elementals 和 Azuki Elemental Beans 部署者（0x48…5f88）在 16:51 部署了名为 GreenBean 的 ERC-1155 Token，并在 17:35 向 4...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673992412115652608</id>
+        <link href="https://twitter.com/wublockchain12/status/1673992412115652608"/>
+        <updated>2023-06-28T09:51:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，根据链上数据，Azuki Elementals 和 Azuki Elemental Beans 部署者（0x48…5f88）在 16:51 部署了名为 GreenBean 的 ERC-1155 Token，并在 17:35 向 400 名 Azuki 持有者空投了 881 枚 GreenBean。KOL @0xWave 反编译了该合约后指出，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 谈判内容包括可能向某些现有客户提供补偿，方式可能是向他们提供任何重组实体的股份；区块链技术公司 Figure 已表示有兴趣帮助重启 FTX。 https://www.wsj.co...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673991267188092929</id>
+        <link href="https://twitter.com/wublockchain12/status/1673991267188092929"/>
+        <updated>2023-06-28T09:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Re 谈判内容包括可能向某些现有客户提供补偿，方式可能是向他们提供任何重组实体的股份；区块链技术公司 Figure 已表示有兴趣帮助重启 FTX。
+https://www.wsj.com/amp/articles/ftx-begins-talks-on-reboot-as-managers-uncover-past-misconduct-38ad7e3c]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据华尔街日报，FTX 现任 CEO John J. Ray III 表示，该公司“已开始征求有兴趣的各方重启 http://FTX.com 交易所”。知情人士称，FTX 一直在与投资者进行早期谈...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673991264751214592</id>
+        <link href="https://twitter.com/wublockchain12/status/1673991264751214592"/>
+        <updated>2023-06-28T09:46:33.000Z</updated>
+        <summary type="html"><![CDATA[据华尔街日报，FTX 现任 CEO John J. Ray III 表示，该公司“已开始征求有兴趣的各方重启 http://FTX.com 交易所”。知情人士称，FTX 一直在与投资者进行早期谈判，讨论通过合资企业等结构支持 http://FTX.com 交易所可能重启；作为任何重启的一部分，FTX 可能会重新命名；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 可以直接将原有的图像替换掉，而 Azuki 的图库链接路径来自于 IPFS。https://twitter.com/evilcos/status/1673955067081400321?s=20 & https://etherscan.io/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673988894797463557</id>
+        <link href="https://twitter.com/wublockchain12/status/1673988894797463557"/>
+        <updated>2023-06-28T09:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Re 可以直接将原有的图像替换掉，而 Azuki 的图库链接路径来自于 IPFS。https://twitter.com/evilcos/status/1673955067081400321?s=20 & https://etherscan.io/address/0xb6a37b5d14d502c3ab0ae6f3a0e058bc9517786e#writeContract
+
+Cos(余弦)😶‍🌫️: Azuki Elementals 的一些图有缺陷，owner 可以通过合约的 setBaseURI 改下新图库链接路径即可，比如现在路径是：
+https://elementals-metadata.azuki.com/elemental/
+你看，目前是中心化的路径…
+改路径倒是挺正常的行为，如果之后不再改的话，可以学 BAYC 把 owner 扔到黑洞地址就好。😅]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re SlowMist 创始人余弦表示，Azuki Elementals 的一些图像存在缺陷，合约所有者可以通过在 Elementals 合约的“setBaseURI(0x55f804b3)”中输入一个新的图库链...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673988892595458048</id>
+        <link href="https://twitter.com/wublockchain12/status/1673988892595458048"/>
+        <updated>2023-06-28T09:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Re SlowMist 创始人余弦表示，Azuki Elementals 的一些图像存在缺陷，合约所有者可以通过在 Elementals 合约的“setBaseURI(0x55f804b3)”中输入一个新的图库链接，将之前的 NFT 图像替换。另外，目前 Azuki Elementals 的图库链接路径是来自于中心化服务器，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 0xParc的Jason Morton、Axiom的Yi Sun、Poseidon ZKP的Shumo Chu等，助力开发者全面提升ZK应用和实战技能。https://build.bewater.xyz/en/campaigns/4]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673983778975531008</id>
+        <link href="https://twitter.com/wublockchain12/status/1673983778975531008"/>
+        <updated>2023-06-28T09:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Re 0xParc的Jason Morton、Axiom的Yi Sun、Poseidon ZKP的Shumo Chu等，助力开发者全面提升ZK应用和实战技能。https://build.bewater.xyz/en/campaigns/4]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，ABCDE宣布与Starkware、0xParc、BeWater等联合主办为期两个月的ZK Hacker Camp，招募30位ZK开发者和研究者进行ZK技术实践，拓展ZK技术的新边界。ABCDE...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673983776802897920</id>
+        <link href="https://twitter.com/wublockchain12/status/1673983776802897920"/>
+        <updated>2023-06-28T09:16:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，ABCDE宣布与Starkware、0xParc、BeWater等联合主办为期两个月的ZK Hacker Camp，招募30位ZK开发者和研究者进行ZK技术实践，拓展ZK技术的新边界。ABCDE ZK Hacker Camp包含为期6周的ZK实战workshop，导师来自Starkware的Gnana Lakshm，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 公司 Startale Labs 宣布获得日本互联网服务巨头索尼网络通信公司 350 万美元的投资，两家公司将探索联合投资机会，以加速 web3 的大规模采用。此前索尼和 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673980774826262530</id>
+        <link href="https://twitter.com/wublockchain12/status/1673980774826262530"/>
+        <updated>2023-06-28T09:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Web3 公司 Startale Labs 宣布获得日本互联网服务巨头索尼网络通信公司 350 万美元的投资，两家公司将探索联合投资机会，以加速 web3 的大规模采用。此前索尼和  Startale 在 2 月份宣布他们正在合作开发 Web3 孵化器。（NFTGATORS）
+https://www.nftgators.com/sony-invests-3-5m-in-web3-infrastructure-startup-startale-labs/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re TUSD 团队向吴说反馈：报道中提及的 2.6 万美元（26,434）已销毁对应 TUSD 代币，对应法币（26,269）转账待该美国存款机构处理，该金额不再属于 TUSD 支持资...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1673980555149598720</id>
+        <link href="https://twitter.com/wublockchain12/status/1673980555149598720"/>
+        <updated>2023-06-28T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Re TUSD 团队向吴说反馈：报道中提及的 2.6 万美元（26,434）已销毁对应 TUSD 代币，对应法币（26,269）转账待该美国存款机构处理，该金额不再属于 TUSD 支持资产；“没有敞口”指实际意义上无敞口，基于目前 TUSD 超过30 亿美元市值，165 美元 (26,434 - 26,269)为舍入误差。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 帮助 Conflux 与 Floki、Worldcoin、Blockbank、Lugaodes AirDAO、Mask 和 OpenEden 等建立合作关系。CFX 历史波动较大，请投资者注意风险。https://coindoo....]]></title>
         <id>https://twitter.com/wublockchain12/status/1673945039909818369</id>
@@ -100,27 +233,6 @@ Azuki 完了吗？]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance TUSD/USDT 价格一度下跌至 0.9977，目前已反弹至 0.9982，这可能与从 Binance Launchpool MAV 挖矿中退出有关。另一方面，Aave V2 中 TUSD 存...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673910054628786176</id>
-        <link href="https://twitter.com/wublockchain12/status/1673910054628786176"/>
-        <updated>2023-06-28T04:23:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance TUSD/USDT 价格一度下跌至 0.9977，目前已反弹至 0.9982，这可能与从 Binance Launchpool MAV 挖矿中退出有关。另一方面，Aave V2 中 TUSD 存贷款利率飙升，存款利率一度达 42%，贷款利率达 54%。https://www.binance.com/zh-CN/trade/TUSD_USDT?theme=dark&type=spot & https://app.aave.com/?marketName=proto_mainnet]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 发布第八次储备证明（快照日期 6-23），总计价值达 113亿美元。用户 BTC 资产沉淀较上次（5-19）增长12.1%，增加 14795枚 BTC；用户 ETH 资产沉淀...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673909844414435329</id>
-        <link href="https://twitter.com/wublockchain12/status/1673909844414435329"/>
-        <updated>2023-06-28T04:23:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 发布第八次储备证明（快照日期 6-23），总计价值达 113亿美元。用户 BTC 资产沉淀较上次（5-19）增长12.1%，增加 14795枚 BTC；用户 ETH 资产沉淀降低 6.7%，减少 7.58万枚 ETH；用户 USDT 资产沉淀增长 10.4%，增加 4.64亿枚 USDT。
-https://www.okx.com/cn/proof-of-reserves/detail https://twitter.com/i/web/status/1673909844414435329]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[图狗不哭 https://t.co/2KFlcRPaZr]]></title>
         <id>https://twitter.com/8848Community/status/1673900909905186818</id>
         <link href="https://twitter.com/8848Community/status/1673900909905186818"/>
@@ -128,30 +240,6 @@ https://www.okx.com/cn/proof-of-reserves/detail https://twitter.com/i/web/status
         <summary type="html"><![CDATA[图狗不哭 https://t.co/2KFlcRPaZr]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re PeckShield 称此次黑客攻击是由于预言机有缺陷造成的，被盗资金已通过 Stargate Finance 跨链。Themis Protocol 是一个多链支持的P2P 和 NFT 借贷协议。 http...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673895400762380288</id>
-        <link href="https://twitter.com/wublockchain12/status/1673895400762380288"/>
-        <updated>2023-06-28T03:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Re PeckShield 称此次黑客攻击是由于预言机有缺陷造成的，被盗资金已通过 Stargate Finance 跨链。Themis Protocol 是一个多链支持的P2P 和 NFT 借贷协议。
-https://twitter.com/ThemisProtocol/status/1673806486299099137
-https://twitter.com/peckshield/status/1673778002373509121
-
-PeckShield Inc.: 1/  @ThemisProtocol was exploited by a flashloan attack on @arbitrum  (tx: https://arbiscan.io/tx/0xff368294ccb3cd6e7e263526b5c820b22dea2b2fd8617119ba5c3ab8417403d8), leading to the gain of ~$370k for the exploiter.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，DeFi 协议 Themis Protocol 发推确认其协议被黑，已暂停借贷功能，首先将尝试与黑客合作取回资金，若黑客不愿意合作将与当局合作解决。目前正在制定补...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673895398161920000</id>
-        <link href="https://twitter.com/wublockchain12/status/1673895398161920000"/>
-        <updated>2023-06-28T03:25:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，DeFi 协议 Themis Protocol 发推确认其协议被黑，已暂停借贷功能，首先将尝试与黑客合作取回资金，若黑客不愿意合作将与当局合作解决。目前正在制定补偿计划。据 PeckShield 监测，ThemisProtocol 遭闪电贷攻击，黑客获利约 37 万美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -165,36 +253,6 @@ PeckShield Inc.: 1/  @ThemisProtocol was exploited by a flashloan attack on @a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 另外，对于 veMAV 治理持有者将根据 7 月 27 日 20 时 UTC 的快照按比例分配 1 千万枚 MAV，并自动质押 4 年。https://medium.com/maverick-protocol/maveric...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673877079337897984</id>
-        <link href="https://twitter.com/wublockchain12/status/1673877079337897984"/>
-        <updated>2023-06-28T02:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Re 另外，对于 veMAV 治理持有者将根据 7 月 27 日 20 时 UTC 的快照按比例分配 1 千万枚 MAV，并自动质押 4 年。https://medium.com/maverick-protocol/maverick-incentive-program-pre-season-ae5b6d1ee857]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 15% 分配给 Maverick UI 交易以及 20% 分配给 MAVA NFT 持有者。本次空投共有 26,155 个以太坊地址和 96,075 个 zkSync Era 地址有资格领取，将于 6 月 28 日...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673877076766773248</id>
-        <link href="https://twitter.com/wublockchain12/status/1673877076766773248"/>
-        <updated>2023-06-28T02:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 15% 分配给 Maverick UI 交易以及 20% 分配给 MAVA NFT 持有者。本次空投共有 26,155 个以太坊地址和 96,075 个 zkSync Era 地址有资格领取，将于 6 月 28 日 8 时 UTC 开始申领，与 MAV 上线时间相同。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance Launchpool 项目 Maverick Protocol 公布了季前赛激励计划空投细节，3 千万 MAV（总量的 1.5%）空投给合格用户，其中 60.7% 分配给流动性提供...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673877074241818624</id>
-        <link href="https://twitter.com/wublockchain12/status/1673877074241818624"/>
-        <updated>2023-06-28T02:12:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance Launchpool 项目 Maverick Protocol 公布了季前赛激励计划空投细节，3 千万 MAV（总量的 1.5%）空投给合格用户，其中 60.7% 分配给流动性提供者，1.3% 分配给 Maverick Warriors 贡献者或更高角色，3% 分配给参与快照投票，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[想找 3~4个人搭伙搞下zksync era的黑客松. 做个账户抽象Dapp, 奖池1.5wu. 需要懂点合约、页面、吹牛逼的勇士各一个. (奖金平分, 有意私我) 速战速决. https://t....]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673873481900097536</id>
         <link href="https://twitter.com/AntCaveClub/status/1673873481900097536"/>
@@ -203,48 +261,6 @@ PeckShield Inc.: 1/  @ThemisProtocol was exploited by a flashloan attack on @a
 速战速决. https://t.co/r3Ja96CcAV]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/lyu_johnny/status/1673731332869074944]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673866657729757185</id>
-        <link href="https://twitter.com/wublockchain12/status/1673866657729757185"/>
-        <updated>2023-06-28T01:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/lyu_johnny/status/1673731332869074944
-
-Johnny_KuCoin: If you see transfers between our wallets, please don't be surprised. We're just moving some funds from our cold wallets to hot wallets for operational purposes.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，KuCoin 表示，如果看到钱包之间的转账，请不要感到惊讶，只是出于运营目的将一些资金从冷钱包转移到热钱包。目前 KuCoin 储备证明显示总资产约为 30 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673866541211983874</id>
-        <link href="https://twitter.com/wublockchain12/status/1673866541211983874"/>
-        <updated>2023-06-28T01:30:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，KuCoin 表示，如果看到钱包之间的转账，请不要感到惊讶，只是出于运营目的将一些资金从冷钱包转移到热钱包。目前 KuCoin 储备证明显示总资产约为 30 亿美金，其中 USDT 占比约为 29.5%，BTC 占比约为 15.3%，平台币 KCS 占比约为 14.5%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 阅读全文：https://mp.weixin.qq.com/s/0i-16KWCKI2faA6botimKQ]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673864276602392579</id>
-        <link href="https://twitter.com/wublockchain12/status/1673864276602392579"/>
-        <updated>2023-06-28T01:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 阅读全文：https://mp.weixin.qq.com/s/0i-16KWCKI2faA6botimKQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐：三位行业老人畅谈热点话题全文：神鱼、李培才、葛越晟讨论了牛市究竟到来的时间与比特币减半；SEC监管对行业的利弊影响；香港政策对华人社区的利好有多少...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1673864274253590528</id>
-        <link href="https://twitter.com/wublockchain12/status/1673864274253590528"/>
-        <updated>2023-06-28T01:21:56.000Z</updated>
-        <summary type="html"><![CDATA[推荐：三位行业老人畅谈热点话题全文：神鱼、李培才、葛越晟讨论了牛市究竟到来的时间与比特币减半；SEC监管对行业的利弊影响；香港政策对华人社区的利好有多少；比特币铭文未来是否有价值；以太坊的公链“大一统”是否已经完成；此外还回顾了早期神鱼指导大家 GPU 挖矿与 50 块付费贴的趣事。]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1111,13 +1127,13 @@ there
 Are
 Not
 Enough 
-Coins. https://twitter.com/gametheorizing/status/1646905049812205568
+Coins.
 
 Jordi Alexander: People surprised by the ETH + BTC squeeze. Wait till you see what happens in 2024.
 Simple clarity-
 1. Only 2 tokens have crossed the chasm of being a crypto store of value.
 2. ETH supply has run out and BTC's is shrinking to under 1% soon.
-There. aren't. enough. coins. https://twitter.com/milesdeutscher/status/1605212345747111936]]></summary>
+There. aren't. enough. coins.]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1155,7 +1171,7 @@ A Comprehensive Thread🧵👇 https://t.co/9Y6HwJECLe]]></summary>
         <updated>2023-06-16T20:34:00.000Z</updated>
         <summary type="html"><![CDATA[RT Justin Slaughter
 So, I respectfully disagree with Noelle on this one. I think BlackRock is doing this on the merits (seeking to get a bitcoin ETF approved) rather than trying to send a political message. 
-Bear with me, because this is complicated in terms of Democratic politics. https://twitter.com/NoelleInMadrid/status/1669624250804600832
+Bear with me, because this is complicated in terms of Democratic politics.
 
 Noelle Acheson: My take on the BlackRock BTC ETF filing:
 - **BIG** news - BlackRock is the world's largest asset manager
@@ -1247,15 +1263,15 @@ Something that’s a consensus long by society doesn’t print 10-100x’s.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
