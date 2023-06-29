@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1674397169758113793",
+          "author": "吴说区块链",
+          "description": "吴说获悉，美国公布第一季度实际GDP年化季率终值 2%，预期1.40%，前值1.30%。第一季度核心PCE物价指数年化季率终值 4.9%，预期5.00%，前值5.00%。美国至6月24日当周初请失业金人数新增23.9万人，预期26.5万人，前值26.4万人。",
+          "link": "https://twitter.com/wublockchain12/status/1674397169758113793",
+          "publishedOn": "2023-06-29T12:39:28.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，美国公布第一季度实际GDP年化季率终值 2%，预期1.40%，前值1.30%。第一季度核心PCE物价指数年化季率终值 4.9%，预期5.00%，前值5.00%。美国至6月24日...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1674385341481115648",
+          "author": "吴说区块链",
+          "description": "Re 他批评 Vitalik 为 SCA(AA) 设计的链上社交恢复（Social Recovery）对用户不友好；Vitalik 期望所有的解决方案都在链上，所以给其他链下解决方案都扣上不安全不去中心化的帽子。阅读全文: https://medium.com/@bitizenwallet/vitalik-%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%93%E8%B6%8A%E7%9A%84%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98-%E4%BD%86%E4%B9%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E7%B3%9F%E7%B3%95%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-257fab2491bb",
+          "link": "https://twitter.com/wublockchain12/status/1674385341481115648",
+          "publishedOn": "2023-06-29T11:52:28.000Z",
+          "wordCount": null,
+          "title": "Re 他批评 Vitalik 为 SCA(AA) 设计的链上社交恢复（Social Recovery）对用户不友好；Vitalik 期望所有的解决方案都在链上，所以给其他链下解决方案都扣上不安全...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1674385339098746881",
+          "author": "吴说区块链",
+          "description": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA) 的 Signing Key，都可以大幅提升这两类钱包的安全性和易用性。\n\n吴说区块链: 吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
+          "link": "https://twitter.com/wublockchain12/status/1674385339098746881",
+          "publishedOn": "2023-06-29T11:52:28.000Z",
+          "wordCount": null,
+          "title": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA)...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1674379494730391557",
           "author": "吴说区块链",
           "description": "Re https://twitter.com/kate_young_ju/status/1674207293942972416?s=20\n\nKate Young Ju: Bad news: Liquid Staking Tokens utilize 41% of $ETH staked in the ecosystem. Almost 2x leveraged.\nGood news: LSTs did not contribute to the recent surge in ETH staking.\nhttps://cryptoquant.com/analytics/query/649cb348e926de4bebf67d03?v=649cb349e926de4bebf67d05 https://t.co/aF2KqJxIXO",
@@ -174,36 +204,6 @@
           "wordCount": null,
           "title": "吴说获悉，据香港电台，恒生投资管理董事兼行政总裁李佩珊表示，目前未有明确目标创造一只以虚拟资产为主题的ETF，但有密切关注相关资产类的发展，正检视现有投...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1674249061355114496",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Azuki 昨日通过 Elementals 销售获得的那 2 万枚ETH (约合 3700 万美元)已在 今日凌晨 2：28 转进 Coinbase Prime（Coinbase 的机构交易/托管平台）。H/T：@EmberCN\nhttps://etherscan.io/address/0xf815ba04372306bbf855a1341f8aeaa858dad495",
-          "link": "https://twitter.com/wublockchain12/status/1674249061355114496",
-          "publishedOn": "2023-06-29T02:50:56.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Azuki 昨日通过 Elementals 销售获得的那 2 万枚ETH (约合 3700 万美元)已在 今日凌晨 2：28 转进 Coinbase Prime（Coinbase 的机构交易/托管平台）。...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1674246775815966720",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
-          "link": "https://twitter.com/wublockchain12/status/1674246775815966720",
-          "publishedOn": "2023-06-29T02:41:52.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1674244972273623040",
-          "author": "吴说区块链",
-          "description": "吴说获悉，TRM Labs 推出非法加密生态系统报告，2016 年三分之二的加密货币黑客交易量来自比特币；2022 年比特币占比略低于 3%，以太坊（68%）和币安智能链（19%）占据主导地位。虽然比特币在 2016 年是恐怖主义融资的唯一货币，但到 2022 年，它几乎被 TRON 区块链上的资产取代，占… https://twitter.com/i/web/status/1674244972273623040",
-          "link": "https://twitter.com/wublockchain12/status/1674244972273623040",
-          "publishedOn": "2023-06-29T02:34:42.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，TRM Labs 推出非法加密生态系统报告，2016 年三分之二的加密货币黑客交易量来自比特币；2022 年比特币占比略低于 3%，以太坊（68%）和币安智能链（19%...",
-          "imageUrl": null
         }
       ]
     },
@@ -345,11 +345,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1672319607062011904",
           "author": "8848 社区（8848 Community）",
-          "description": "牛啊\n\n风无向😈: Respect 珠穆朗玛，Respect 8848社区\n@8848Community https://t.co/7yE72fuAEx",
+          "description": "牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408\n\n风无向😈: Respect 珠穆朗玛，Respect 8848社区\n@8848Community https://t.co/7yE72fuAEx",
           "link": "https://twitter.com/8848Community/status/1672319607062011904",
           "publishedOn": "2023-06-23T19:03:59.000Z",
           "wordCount": null,
-          "title": "牛啊",
+          "title": "牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408",
           "imageUrl": null
         },
         {
@@ -365,11 +365,11 @@
         {
           "id": "https://twitter.com/8848Community/status/1672096768560078850",
           "author": "8848 社区（8848 Community）",
-          "description": "做完了五周的奥德赛\n以为有点啥小奖励\n居然是解锁个新功能 \n让大家可以质押eth\n额😓，难怪大家都去冲你塔\n\nBraavos - StarkNet Wallet 👉👈: Braavosians, you can now Stake your #Starknet #ETH! 💰\nIntroducing Stake+. Two new products in the Braavos wallet:\n1. Lido Staking\n2. Staking Boost\nIn One-Click earn a double-digit yield on your ETH while paying low gas fees.\nCurious? Let's dive deeper into the specifics 👇 https://t.co/uka9whRiQ2",
+          "description": "做完了五周的奥德赛\n以为有点啥小奖励\n居然是解锁个新功能 \n让大家可以质押eth\n额😓，难怪大家都去冲你塔 https://twitter.com/myBraavos/status/1671881184098521096\n\nBraavos - StarkNet Wallet 👉👈: Braavosians, you can now Stake your #Starknet #ETH! 💰\nIntroducing Stake+. Two new products in the Braavos wallet:\n1. Lido Staking\n2. Staking Boost\nIn One-Click earn a double-digit yield on your ETH while paying low gas fees.\nCurious? Let's dive deeper into the specifics 👇 https://t.co/uka9whRiQ2",
           "link": "https://twitter.com/8848Community/status/1672096768560078850",
           "publishedOn": "2023-06-23T04:18:30.000Z",
           "wordCount": null,
-          "title": "做完了五周的奥德赛 以为有点啥小奖励 居然是解锁个新功能 让大家可以质押eth 额😓，难怪大家都去冲你塔",
+          "title": "做完了五周的奥德赛 以为有点啥小奖励 居然是解锁个新功能 让大家可以质押eth 额😓，难怪大家都去冲你塔 https://twitter.com/myBraavos/status/1671881184098...",
           "imageUrl": null
         },
         {
@@ -452,21 +452,21 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673569131638161408",
           "author": "链求君 | (C,C)",
-          "description": "怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.\n 用 GPT 来了波审计, 确实好使  👀 👇 https://twitter.com/Lthememecoin/status/1673224647351869443 https://t.co/l5T8lUOOsI\n\n\n\n\nL: The $L #airdrop reservation has now ended! ✅\nhttp://lthememecoin.com\nEvery REAL person that participated has been recorded, and will be able to connect to the site at TGE to claim their tokens. \nThe claim window will be open for one-week post-TGE. 🪂 https://t.co/74L9AGKsdu",
+          "description": "怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.\n 用 GPT 来了波审计, 确实好使  👀 👇 https://t.co/l5T8lUOOsI\n\n\n\n\nL: The $L #airdrop reservation has now ended! ✅\nhttp://lthememecoin.com\nEvery REAL person that participated has been recorded, and will be able to connect to the site at TGE to claim their tokens. \nThe claim window will be open for one-week post-TGE. 🪂 https://t.co/74L9AGKsdu",
           "link": "https://twitter.com/AntCaveClub/status/1673569131638161408",
           "publishedOn": "2023-06-27T05:49:09.000Z",
           "wordCount": null,
-          "title": "怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://twitter.com/Lthememecoin/status/16732246473...",
+          "title": "怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://t.co/l5T8lUOOsI",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1673515457285062656",
           "author": "链求君 | (C,C)",
-          "description": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368000000\n\nAwawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another \"cycle\". They fizzle to 0.",
+          "description": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈\n\nAwawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another \"cycle\". They fizzle to 0.",
           "link": "https://twitter.com/AntCaveClub/status/1673515457285062656",
           "publishedOn": "2023-06-27T02:15:52.000Z",
           "wordCount": null,
-          "title": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368...",
+          "title": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈",
           "imageUrl": null
         },
         {
@@ -492,11 +492,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673327714969821189",
           "author": "链求君 | (C,C)",
-          "description": "这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112\n\nsanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。\n地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm",
+          "description": "这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来.\n\nsanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。\n地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm",
           "link": "https://twitter.com/AntCaveClub/status/1673327714969821189",
           "publishedOn": "2023-06-26T13:49:50.000Z",
           "wordCount": null,
-          "title": "这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112",
+          "title": "这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来.",
           "imageUrl": null
         },
         {
@@ -522,11 +522,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673306790929506306",
           "author": "链求君 | (C,C)",
-          "description": "好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376\n\nDeBank: 1/3\nWe're thrilled to announce our new feature \"Web3 Badges\", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge\nThe first batch of badges to go live includes: 100/1000 days on chain, 1/10 ETH of gas use, UNI airdrop hunter. https://t.co/AsGwVgf5ZZ",
+          "description": "好像知道你们要干什么了 👀👀\n\nDeBank: 1/3\nWe're thrilled to announce our new feature \"Web3 Badges\", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge\nThe first batch of badges to go live includes: 100/1000 days on chain, 1/10 ETH of gas use, UNI airdrop hunter. https://t.co/AsGwVgf5ZZ",
           "link": "https://twitter.com/AntCaveClub/status/1673306790929506306",
           "publishedOn": "2023-06-26T12:26:42.000Z",
           "wordCount": null,
-          "title": "好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376",
+          "title": "好像知道你们要干什么了 👀👀",
           "imageUrl": null
         },
         {
@@ -582,7 +582,7 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1672432614509285376",
           "author": "链求君 | (C,C)",
-          "description": "据说今天俄罗斯内乱。 \n苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。\n俄罗斯平民可能集体梭哈比特币！ https://twitter.com/CausMoney/status/1672391688097087489\n\n加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变\n#乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发\nhttp://m.caus.com/detail/77186 https://t.co/LwyT0tJKPL",
+          "description": "据说今天俄罗斯内乱。 \n苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。\n俄罗斯平民可能集体梭哈比特币！\n\n加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变\n#乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发\nhttp://m.caus.com/detail/77186 https://t.co/LwyT0tJKPL",
           "link": "https://twitter.com/AntCaveClub/status/1672432614509285376",
           "publishedOn": "2023-06-24T02:33:02.000Z",
           "wordCount": null,
@@ -993,11 +993,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674388515302572032",
           "author": "DeFi Surfer",
-          "description": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead.\n\nBeth Kindig: The US and India continue to deepen their economic relationships following Modi’s visit to the White House. The two countries announced major investment initiatives by US companies in India, led by Micron, Applied Materials and Lam Research.\n$MU $AMAT $LRCX\n@FortuneMagazine https://t.co/zfzmR5BIRq",
+          "description": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead. https://twitter.com/beth_kindig/status/1674039947618316288\n\nBeth Kindig: The US and India continue to deepen their economic relationships following Modi’s visit to the White House. The two countries announced major investment initiatives by US companies in India, led by Micron, Applied Materials and Lam Research.\n$MU $AMAT $LRCX\n@FortuneMagazine https://t.co/zfzmR5BIRq",
           "link": "https://twitter.com/DeFiSurfer808/status/1674388515302572032",
           "publishedOn": "2023-06-29T12:05:05.000Z",
           "wordCount": null,
-          "title": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead.",
+          "title": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead....",
           "imageUrl": null
         },
         {
@@ -1073,11 +1073,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674205602627694592",
           "author": "DeFi Surfer",
-          "description": "How many L’s can Soylana possibly take 😮‍💨\n\nRollbit: $RLB has migrated to Ethereum! 💎\nThe most highly anticipated upgrade to $RLB has happened.\nMigrate your RLB seamlessly to ETH via Rollbit's RLB trading interface (requires account): https://rollbit.com/coins/my-wallets/deposit?coin=RLB\nRead more: https://blog.rollbit.com/rlb-eth-migration https://t.co/SfCv562JDx",
+          "description": "How many L’s can Soylana possibly take 😮‍💨 https://twitter.com/rollbitcom/status/1674142797501288451\n\nRollbit: $RLB has migrated to Ethereum! 💎\nThe most highly anticipated upgrade to $RLB has happened.\nMigrate your RLB seamlessly to ETH via Rollbit's RLB trading interface (requires account): https://rollbit.com/coins/my-wallets/deposit?coin=RLB\nRead more: https://blog.rollbit.com/rlb-eth-migration https://t.co/SfCv562JDx",
           "link": "https://twitter.com/DeFiSurfer808/status/1674205602627694592",
           "publishedOn": "2023-06-28T23:58:15.000Z",
           "wordCount": null,
-          "title": "How many L’s can Soylana possibly take 😮‍💨",
+          "title": "How many L’s can Soylana possibly take 😮‍💨 https://twitter.com/rollbitcom/status/1674142797501288451",
           "imageUrl": null
         },
         {
@@ -1153,11 +1153,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674120214441603072",
           "author": "DeFi Surfer",
-          "description": "As Tetranode proved with his vaccine hot takes, my dude should just stick to crypto",
+          "description": "As Tetranode proved with his vaccine hot takes, my dude should just stick to crypto https://twitter.com/tetranode/status/1674064986128150533",
           "link": "https://twitter.com/DeFiSurfer808/status/1674120214441603072",
           "publishedOn": "2023-06-28T18:18:57.000Z",
           "wordCount": null,
-          "title": "As Tetranode proved with his vaccine hot takes, my dude should just stick to crypto",
+          "title": "As Tetranode proved with his vaccine hot takes, my dude should just stick to crypto https://twitter.com/tetranode/status/1674064986128150533",
           "imageUrl": null
         },
         {
@@ -1183,7 +1183,7 @@
         {
           "id": "https://twitter.com/HsakaTrades/status/1674080699484078083",
           "author": "DeFi Surfer",
-          "description": "RT Hsaka\nSaylor PTSD stricken traders punished.\nBack to our regularly scheduled programme of waiting for the next $BTC move and then digging in our bag of narratives to ascribe one to the move.\n\nHsaka: @dukeofgosan initial moments are just the subconscious PTSD driven reactionary phase",
+          "description": "RT Hsaka\nSaylor PTSD stricken traders punished.\nBack to our regularly scheduled programme of waiting for the next $BTC move and then digging in our bag of narratives to ascribe one to the move. https://twitter.com/HsakaTrades/status/1674039812951805952\n\nHsaka: @dukeofgosan initial moments are just the subconscious PTSD driven reactionary phase",
           "link": "https://twitter.com/HsakaTrades/status/1674080699484078083",
           "publishedOn": "2023-06-28T15:41:56.000Z",
           "wordCount": null,
