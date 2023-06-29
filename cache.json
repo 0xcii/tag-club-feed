@@ -148,7 +148,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1674385339098746881",
           "author": "吴说区块链",
-          "description": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA) 的 Signing Key，都可以大幅提升这两类钱包的安全性和易用性。\n\n吴说区块链: 吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
+          "description": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA) 的 Signing Key，都可以大幅提升这两类钱包的安全性和易用性。 https://twitter.com/wublockchain12/status/1674246775815966720\n\n吴说区块链: 吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
           "link": "https://twitter.com/wublockchain12/status/1674385339098746881",
           "publishedOn": "2023-06-29T11:52:28.000Z",
           "wordCount": null,
@@ -991,6 +991,36 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1674555597780287489",
+          "author": "DeFi Surfer",
+          "description": "RFK is so overrated. He’s just a standard lib https://twitter.com/robertkennedyjr/status/1674527565170524161\n\nRobert F. Kennedy Jr: Regarding the Supreme Court banning affirmative action in higher ed — I know many Americans feel that purely race-based decisions are unfair. However, this feeling misses important context. The effects of racist policies going back centuries are now self-perpetuating.",
+          "link": "https://twitter.com/DeFiSurfer808/status/1674555597780287489",
+          "publishedOn": "2023-06-29T23:09:00.000Z",
+          "wordCount": null,
+          "title": "RFK is so overrated. He’s just a standard lib https://twitter.com/robertkennedyjr/status/1674527565170524161",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1674553456013484032",
+          "author": "DeFi Surfer",
+          "description": "Re @basedkarbon @NorthRockLP",
+          "link": "https://twitter.com/DeFiSurfer808/status/1674553456013484032",
+          "publishedOn": "2023-06-29T23:00:30.000Z",
+          "wordCount": null,
+          "title": "Re @basedkarbon @NorthRockLP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pythianism/status/1674524811375280129",
+          "author": "DeFi Surfer",
+          "description": "RT Vance Spencer\nHave a great weekend and week. I am logging off until after America's birthday. I don't want to catch any of you talking about Canada day or any other pagan stuff. Remember to never listen to devil goblins. Revanchist wealth and success incoming. https://twitter.com/i/web/status/1674524811375280129 https://t.co/8syoog911Q",
+          "link": "https://twitter.com/pythianism/status/1674524811375280129",
+          "publishedOn": "2023-06-29T21:06:40.000Z",
+          "wordCount": null,
+          "title": "RT Vance Spencer: Have a great weekend and week. I am logging off until after America's birthday. I don't want to catch any of you talking about Canad...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1674490741886709761",
           "author": "DeFi Surfer",
           "description": "Re @lBattleRhino @Starterup2 Balls tickling strong buy signal",
@@ -1158,36 +1188,6 @@
           "publishedOn": "2023-06-28T22:41:52.000Z",
           "wordCount": null,
           "title": "Re @JJcycles Lmao great movie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/JJcycles/status/1674185846990286848",
-          "author": "DeFi Surfer",
-          "description": "RT JJcycles\nRe @DeFiSurfer808 https://t.co/AGBFSTfCEF",
-          "link": "https://twitter.com/JJcycles/status/1674185846990286848",
-          "publishedOn": "2023-06-28T22:39:45.000Z",
-          "wordCount": null,
-          "title": "RT JJcycles: Re @DeFiSurfer808 https://t.co/AGBFSTfCEF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1674185298694008833",
-          "author": "DeFi Surfer",
-          "description": "Is $30k turning into support",
-          "link": "https://twitter.com/DeFiSurfer808/status/1674185298694008833",
-          "publishedOn": "2023-06-28T22:37:34.000Z",
-          "wordCount": null,
-          "title": "Is $30k turning into support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1674175335343050753",
-          "author": "DeFi Surfer",
-          "description": "Re @INArteCarloDoss Literally co-opted trump’s policy lmao",
-          "link": "https://twitter.com/DeFiSurfer808/status/1674175335343050753",
-          "publishedOn": "2023-06-28T21:57:59.000Z",
-          "wordCount": null,
-          "title": "Re @INArteCarloDoss Literally co-opted trump’s policy lmao",
           "imageUrl": null
         }
       ]
