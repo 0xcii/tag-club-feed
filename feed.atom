@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T11:11:29.449Z</id>
+    <id>urn:2023-06-30T12:27:32.247Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-30T11:11:29.449Z</updated>
+    <updated>2023-06-30T12:27:32.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安宣布其风险投资和孵化部门Binance Labs已开放其孵化计划第六季的申请，截止日期为北京时间 8 月 1 日 14:59，该计划为期 3 个月。上一季的币安孵...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674731550234255362</id>
+        <link href="https://twitter.com/wublockchain12/status/1674731550234255362"/>
+        <updated>2023-06-30T10:48:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安宣布其风险投资和孵化部门Binance Labs已开放其孵化计划第六季的申请，截止日期为北京时间 8 月 1 日 14:59，该计划为期 3 个月。上一季的币安孵化器计划收到了 900 多份申请，最终有 5 个在本季度结束时获得了Binance Labs的投资。https://www.binance.com/en/blog/ecosystem/open-applications-for-season-6-incubation--program--binance-labs-paris-meetup-event-5257718754087972873]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 下半年希望优先考虑FVM dApps的用户以及使用FVM的开发人员体验，专注于小型存储交易，推动Filecoin和FVM实现存储民主化。https://mp.weixin.qq.com/s/4962prw...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674716121386340354</id>
+        <link href="https://twitter.com/wublockchain12/status/1674716121386340354"/>
+        <updated>2023-06-30T09:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Re 下半年希望优先考虑FVM dApps的用户以及使用FVM的开发人员体验，专注于小型存储交易，推动Filecoin和FVM实现存储民主化。https://mp.weixin.qq.com/s/4962prwGEjdh9qgt-xiobw]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Filecoin 表示 Filecoin 虚拟机（FVM）自 3 月 14 日上线以来，已部署 2500 个智能合约，创建 9.1 万个钱包，每日发送 9.32 万枚 FIL，超1200个独立智...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674716087886438400</id>
+        <link href="https://twitter.com/wublockchain12/status/1674716087886438400"/>
+        <updated>2023-06-30T09:46:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Filecoin 表示 Filecoin 虚拟机（FVM）自 3 月 14 日上线以来，已部署 2500 个智能合约，创建 9.1 万个钱包，每日发送 9.32 万枚 FIL，超1200个独立智能合约和dApps在FVM上推出，从 FEVM 地址发送 283 万枚 FIL。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 可升级性允许合约支持添加新功能以适应未来以太坊用户的需求和功能；可移植性使用户可以在不需要转移资产或更改地址的情况下在钱包提供商之间切换；社交恢复...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674715056809078784</id>
+        <link href="https://twitter.com/wublockchain12/status/1674715056809078784"/>
+        <updated>2023-06-30T09:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Re 可升级性允许合约支持添加新功能以适应未来以太坊用户的需求和功能；可移植性使用户可以在不需要转移资产或更改地址的情况下在钱包提供商之间切换；社交恢复机制使用户在密钥丢失或被黑客攻击的情况下，通过预定义的守护者重新获得对他们钱包的访问权限。https://hackmd.io/@soulwallet/contract]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，智能合约钱包 Soul Wallet 宣布引入了模块和插件，同时保持核心合约不变；模块是一种白名单合约，能够代表智能合约钱包执行交易；插件（也称为钩子）...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674715033782349824</id>
+        <link href="https://twitter.com/wublockchain12/status/1674715033782349824"/>
+        <updated>2023-06-30T09:42:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，智能合约钱包 Soul Wallet 宣布引入了模块和插件，同时保持核心合约不变；模块是一种白名单合约，能够代表智能合约钱包执行交易；插件（也称为钩子）可以配置在执行交易之前进行额外的检查；为了支持永久所有权，智能合约需要支持可升级性、可移植性和社交恢复；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.coindesk.com/markets/2023/06/30/binances-institutional-clients-remain-optimistic-on-crypto-amid-tough-market/?utm_medium=social&utm_sou...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674710321053958144</id>
+        <link href="https://twitter.com/wublockchain12/status/1674710321053958144"/>
+        <updated>2023-06-30T09:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.coindesk.com/markets/2023/06/30/binances-institutional-clients-remain-optimistic-on-crypto-amid-tough-market/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据币安 2023 年 3 月至 5 月对其 208 名机构客户进行的一项调查，63.5％的受访者对明年的加密货币前景持乐观态度，88％对未来十年持乐观态度。47% 的机构投资者...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674710182180577280</id>
+        <link href="https://twitter.com/wublockchain12/status/1674710182180577280"/>
+        <updated>2023-06-30T09:23:16.000Z</updated>
+        <summary type="html"><![CDATA[据币安 2023 年 3 月至 5 月对其 208 名机构客户进行的一项调查，63.5％的受访者对明年的加密货币前景持乐观态度，88％对未来十年持乐观态度。47% 的机构投资者在过去一年中保留了加密货币配置，超过三分之一在同一时期增加了配置。投资者认为基础设施是最重要的，其次是Layer1、Layer2。（CoinDesk）]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 尽管本月波动水平上升，做市商也乐于主动买进仓位，但是在季度交割带来的强大抛压下，主要期限IV下跌趋势非常明显，目前Dvol已经跌至43%，距离历史最低水平仅...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674707503471550467</id>
+        <link href="https://twitter.com/wublockchain12/status/1674707503471550467"/>
+        <updated>2023-06-30T09:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Re 尽管本月波动水平上升，做市商也乐于主动买进仓位，但是在季度交割带来的强大抛压下，主要期限IV下跌趋势非常明显，目前Dvol已经跌至43%，距离历史最低水平仅3%。https://twitter.com/BTC__options/status/1674693214224400384
+
+Adam@Greeks.live: 季度交割已经完成，近几日BTC大宗看涨的成交较多，主要以季度末平仓和移仓为主，ETH的移仓主要在盘口进行。
+季度交割完成后，市场近几个月来积压的仓位得到释放，如果七月份行情支持的话，期权可能会迎来较大的变盘。… https://twitter.com/i/web/status/1674693214224400384 https://t.co/5clwdaX5e3]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @BTC__options，此次季度交割已完成，市场近几个月来积压的仓位得到释放，如果七月份行情支持的话，期权可能会迎来较大的变盘。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674707478599303168</id>
+        <link href="https://twitter.com/wublockchain12/status/1674707478599303168"/>
+        <updated>2023-06-30T09:12:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @BTC__options，此次季度交割已完成，市场近几个月来积压的仓位得到释放，如果七月份行情支持的话，期权可能会迎来较大的变盘。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @chaozuoye 那是真的不错]]></title>
         <id>https://twitter.com/8848Community/status/1674691013921878017</id>
@@ -153,100 +246,6 @@ Adam@Greeks.live: 【6月30日期权季度交割数据】
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 cryptoslate，欧洲数字银行 Revolut 近日表示，由于美国法律法规的变化将下架 ADA、MATIC、SOL。美国用户现已无法通过其应用程序购买；此后将无法...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674623505604947968</id>
-        <link href="https://twitter.com/wublockchain12/status/1674623505604947968"/>
-        <updated>2023-06-30T03:38:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 cryptoslate，欧洲数字银行 Revolut 近日表示，由于美国法律法规的变化将下架  ADA、MATIC、SOL。美国用户现已无法通过其应用程序购买；此后将无法再通过其平台持有或出售，具体日期未定。Revolut 目前支持 80 多种代币。Robinhood 和 Bakkt 本月已因美 SEC… https://twitter.com/i/web/status/1674623505604947968]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re CMC 数据显示，近 24 小时，韩国最大交易所 Upbit BCH/KRW 交易量超 3.5 亿美元，是全网交易量最大的 BCH 交易对，贡献了 BCH 现货交易量的 23.58%，是其站内...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674614526237626368</id>
-        <link href="https://twitter.com/wublockchain12/status/1674614526237626368"/>
-        <updated>2023-06-30T03:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Re CMC 数据显示，近 24 小时，韩国最大交易所 Upbit BCH/KRW 交易量超 3.5 亿美元，是全网交易量最大的 BCH 交易对，贡献了 BCH 现货交易量的 23.58%，是其站内 BTC/KRW 交易量的 3 倍。https://coinmarketcap.com/currencies/bitcoin-cash/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 用户在观看动漫节目后，可以与非玩家角色的 Azuki 进行互动（团队暗示有 Token 奖励）。而 GreenBean 是早已准备好的 NFT，与动漫有关，短期内不会可交易。ht...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674607892354461697</id>
-        <link href="https://twitter.com/wublockchain12/status/1674607892354461697"/>
-        <updated>2023-06-30T02:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Re 用户在观看动漫节目后，可以与非玩家角色的 Azuki 进行互动（团队暗示有 Token 奖励）。而 GreenBean 是早已准备好的 NFT，与动漫有关，短期内不会可交易。https://twitter.com/lasertheend/status/1674605066282749952?s=20
-
-尚｜弟弟 shangdidi: 听了 #Azuki 团队刚在discord的holders only AMA
-TL;DR:
-为什么elemental那么像azuki：因为团队希望延续目前已经证实成功的pfp。他们经历了多次迭代，但没有预料到稀释的问题。他们低估了这个问题的影响。他们认为人们会像对待奢侈手表一样，欣赏元素角色中微小的差异，但是很明显低估了]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Beanz 被归类为 Azuki 生态系统的第三层，在 Elemental 之下；Beanz 将作为一个独特 IP 以及拥有独立路线图，面向年轻受众和主流市场。此外，Azuki 正在开发...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674607792358068224</id>
-        <link href="https://twitter.com/wublockchain12/status/1674607792358068224"/>
-        <updated>2023-06-30T02:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Re Beanz 被归类为 Azuki 生态系统的第三层，在 Elemental 之下；Beanz 将作为一个独特 IP 以及拥有独立路线图，面向年轻受众和主流市场。此外，Azuki 正在开发新型的动漫内容并其起作为商业模式，计划从制作短篇动画开始。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @lasertheend 对 Azuki 最新的 Holder AMA 会议的总结，Elemental 与 Azuki 相似的原因是，团队希望延续已经证实成功的 PFP，但低估稀释问题的影响...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674607713228304384</id>
-        <link href="https://twitter.com/wublockchain12/status/1674607713228304384"/>
-        <updated>2023-06-30T02:36:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @lasertheend 对 Azuki 最新的 Holder AMA 会议的总结，Elemental 与 Azuki 相似的原因是，团队希望延续已经证实成功的 PFP，但低估稀释问题的影响力。目前团队重申 OG Azuki Holder 的优先级，将用社区投票来决定更新 Elemental 的背景以区别开。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，游戏巨头育碧（Ubisoft）宣布将基于 Oasys 推出其首款链游 Champions Tactics Grimoria Chronicles，是一款 PC 端的 PVP 战术角色扮演实验游戏。目前...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674602189959106560</id>
-        <link href="https://twitter.com/wublockchain12/status/1674602189959106560"/>
-        <updated>2023-06-30T02:14:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，游戏巨头育碧（Ubisoft）宣布将基于 Oasys 推出其首款链游 Champions Tactics Grimoria Chronicles，是一款 PC 端的 PVP 战术角色扮演实验游戏。目前，该游戏只有一个粗糙的网站，暂未透露细节。此前育碧在 Polygon 上推出了《刺客信条》 NFT 系列。https://championstactics.ubisoft.com/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 近 24 小时，MUX Protocol 交易量为 8980 万美元，持仓量约为 6200 万美元，与之对比的是，GMX 交易量为 1.2 亿美元，持仓量为 1.58 亿美元。https://stats.m...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674600443530584065</id>
-        <link href="https://twitter.com/wublockchain12/status/1674600443530584065"/>
-        <updated>2023-06-30T02:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 近 24 小时，MUX Protocol 交易量为 8980 万美元，持仓量约为 6200 万美元，与之对比的是，GMX 交易量为 1.2 亿美元，持仓量为 1.58 亿美元。https://stats.mux.network/public/dashboard/13f401da-31b4-4d35-8529-bb62ca408de8]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据官网数据，链上衍生品协议 MUX Protocol 在 6 月 28 日单日交易量达 3.41 亿美元，其中 60% 的交易量主要来自于对 Gains 和 GMX 的聚合流动性；协议...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674600418889056256</id>
-        <link href="https://twitter.com/wublockchain12/status/1674600418889056256"/>
-        <updated>2023-06-30T02:07:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据官网数据，链上衍生品协议 MUX Protocol 在 6 月 28 日单日交易量达 3.41 亿美元，其中 60% 的交易量主要来自于对 Gains 和 GMX 的聚合流动性；协议收入（协议费用+第三方 DEX 挖矿奖励）达 19.1 万美元，均创下历史单日新高。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Q&A 全文：未来一个世纪内对人类最有可能发生的灾难性情景排名第一是“人工智能”，第二是“经过工程改造的超级大流行病”；最喜欢的小说是《哈利波特与...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674592345625616384</id>
-        <link href="https://twitter.com/wublockchain12/status/1674592345625616384"/>
-        <updated>2023-06-30T01:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik Q&A 全文：未来一个世纪内对人类最有可能发生的灾难性情景排名第一是“人工智能”，第二是“经过工程改造的超级大流行病”；最喜欢的小说是《哈利波特与理性之道》与科幻小说《Unsong》；最感兴趣的领域除了加密货币和长寿，是“流浪”。阅读全文：https://mp.weixin.qq.com/s/RC6z3qrrbj7B9JaQZvsGOQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interesting… https://twitter.com/adamscochran/status/1674403960361197569]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1674565292326805504</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1674565292326805504"/>
@@ -373,11 +372,11 @@ https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://t.co/IXd3ayGp20]]></title>
+        <title type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://twitter.com/8848Community/status/1673322082300747777 https://t.co/IXd3ayGp20]]></title>
         <id>https://twitter.com/8848Community/status/1674411393217597441</id>
         <link href="https://twitter.com/8848Community/status/1674411393217597441"/>
         <updated>2023-06-29T13:35:59.000Z</updated>
-        <summary type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://t.co/IXd3ayGp20
+        <summary type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://twitter.com/8848Community/status/1673322082300747777 https://t.co/IXd3ayGp20
 
 
 8848 社区（8848 Community）: 时间飞逝，#币安 已经陪伴大家6年了。还记得当初认购的BNB可惜没拿住😭。6年很长又很短，我们还有更多个6年去探索 #Web3 的更多可能。
@@ -612,12 +611,12 @@ https://www.theblock.co/post/236588/fidelity-preparing-to-submit-spot-bitcoin-et
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://t.co/l5T8lUOOsI]]></title>
+        <title type="html"><![CDATA[怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://twitter.com/Lthememecoin/status/16732246473...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673569131638161408</id>
         <link href="https://twitter.com/AntCaveClub/status/1673569131638161408"/>
         <updated>2023-06-27T05:49:09.000Z</updated>
         <summary type="html"><![CDATA[怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.
- 用 GPT 来了波审计, 确实好使  👀 👇 https://t.co/l5T8lUOOsI
+ 用 GPT 来了波审计, 确实好使  👀 👇 https://twitter.com/Lthememecoin/status/1673224647351869443 https://t.co/l5T8lUOOsI
 
 
 
@@ -653,11 +652,11 @@ arb：明年三月解锁13亿]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈]]></title>
+        <title type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673515457285062656</id>
         <link href="https://twitter.com/AntCaveClub/status/1673515457285062656"/>
         <updated>2023-06-27T02:15:52.000Z</updated>
-        <summary type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈
+        <summary type="html"><![CDATA[加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368000000
 
 Awawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another "cycle". They fizzle to 0.]]></summary>
         <author>
@@ -688,11 +687,11 @@ Awawat: There won't be another bull market for crypto. Markets that fail that 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来.]]></title>
+        <title type="html"><![CDATA[这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673327714969821189</id>
         <link href="https://twitter.com/AntCaveClub/status/1673327714969821189"/>
         <updated>2023-06-26T13:49:50.000Z</updated>
-        <summary type="html"><![CDATA[这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来.
+        <summary type="html"><![CDATA[这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112
 
 sanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。
 地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm]]></summary>
@@ -741,11 +740,11 @@ uniswap (OP)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好像知道你们要干什么了 👀👀]]></title>
+        <title type="html"><![CDATA[好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376]]></title>
         <id>https://twitter.com/AntCaveClub/status/1673306790929506306</id>
         <link href="https://twitter.com/AntCaveClub/status/1673306790929506306"/>
         <updated>2023-06-26T12:26:42.000Z</updated>
-        <summary type="html"><![CDATA[好像知道你们要干什么了 👀👀
+        <summary type="html"><![CDATA[好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376
 
 DeBank: 1/3
 We're thrilled to announce our new feature "Web3 Badges", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge
@@ -876,7 +875,7 @@ https://t.co/oHvHl5X0j4]]></summary>
         <updated>2023-06-24T02:33:02.000Z</updated>
         <summary type="html"><![CDATA[据说今天俄罗斯内乱。 
 苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。
-俄罗斯平民可能集体梭哈比特币！
+俄罗斯平民可能集体梭哈比特币！ https://twitter.com/CausMoney/status/1672391688097087489
 
 加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变
 #乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发
@@ -948,11 +947,11 @@ BREAKING: Wagner technical force is reportedly now outside of the Russian Southe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[牛啊]]></title>
+        <title type="html"><![CDATA[牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408]]></title>
         <id>https://twitter.com/8848Community/status/1672319607062011904</id>
         <link href="https://twitter.com/8848Community/status/1672319607062011904"/>
         <updated>2023-06-23T19:03:59.000Z</updated>
-        <summary type="html"><![CDATA[牛啊
+        <summary type="html"><![CDATA[牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408
 
 风无向😈: Respect 珠穆朗玛，Respect 8848社区
 @8848Community https://t.co/7yE72fuAEx]]></summary>
