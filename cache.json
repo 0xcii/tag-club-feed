@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1674575784391090176",
+          "author": "吴说区块链",
+          "description": "Re 此前BlackRock 、Invesco、WisdomTree和 Bitwise等已提交申请，目前美国SEC尚未就任何新申请做出决定。https://cdn.cboe.com/resources/regulation/rule_filings/pending/2023/SR-CboeBZX-2023-044.pdf",
+          "link": "https://twitter.com/wublockchain12/status/1674575784391090176",
+          "publishedOn": "2023-06-30T00:29:13.000Z",
+          "wordCount": null,
+          "title": "Re 此前BlackRock 、Invesco、WisdomTree和 Bitwise等已提交申请，目前美国SEC尚未就任何新申请做出决定。https://cdn.cboe.com/resources/regulation/rule_fili...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1674575755622354946",
+          "author": "吴说区块链",
+          "description": "吴说获悉，资产管理巨头富达 (Fidelity) 已为其现货比特币 ETF Wise Origin Bitcoin Trust 重新提交了文件，这是富达第二次尝试此类产品，其首次提出于 2022 年初被美 SEC 拒绝。文件提出，交易所希望与一家未具名的美国现货比特币交易平台签订“监控共享协议”。",
+          "link": "https://twitter.com/wublockchain12/status/1674575755622354946",
+          "publishedOn": "2023-06-30T00:29:06.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，资产管理巨头富达 (Fidelity) 已为其现货比特币 ETF Wise Origin Bitcoin Trust 重新提交了文件，这是富达第二次尝试此类产品，其首次提出于 2022 年...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1674455331894886401",
           "author": "吴说区块链",
           "description": "Polygon Labs 表示，计划使用重新抵押和公共桥梁等机制来统一新的零知识链，以将 Polygon 过渡到 L2 生态系统。向 Polygon 2.0 的过渡预计将于明年第一季度进行。（The Block）\nhttps://www.theblock.co/post/237088/polygon-2-0-to-leverage-matic-re-staking-and-new-interoperability-layer?utm_source=onecryptofeed&utm_medium=social",
@@ -148,7 +168,7 @@
         {
           "id": "https://twitter.com/wublockchain12/status/1674385339098746881",
           "author": "吴说区块链",
-          "description": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA) 的 Signing Key，都可以大幅提升这两类钱包的安全性和易用性。 https://twitter.com/wublockchain12/status/1674246775815966720\n\n吴说区块链: 吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
+          "description": "MPC 钱包 Bitizen 创始人 Winson 发文反驳 Vitalik 的评论，认为 MPC 技术既可以用于跟 EOA 结合用于替代 EOA 的私钥，也可以用于 SCA(AA) 结合用于替代 SCA(AA) 的 Signing Key，都可以大幅提升这两类钱包的安全性和易用性。\n\n吴说区块链: 吴说获悉，Vitalik 在最新的推特 QA 中表示，基于MPC的外部账户（EOAs）在根本上存在缺陷，因为它们无法撤销密钥（重新共享密钥并不算，原始持有者仍然可以恢复密钥），并指出智能合约钱包是唯一的选择，因为它们能够解决这个问题；Vitalik 认为最安全的是 Gnosis Safe… https://twitter.com/i/web/status/1674246775815966720",
           "link": "https://twitter.com/wublockchain12/status/1674385339098746881",
           "publishedOn": "2023-06-29T11:52:28.000Z",
           "wordCount": null,
@@ -183,26 +203,6 @@
           "publishedOn": "2023-06-29T11:24:33.000Z",
           "wordCount": null,
           "title": "Web3 数据安全和隐私平台 Mind Network 宣布完成 250 万美元种子轮融资， Binance Labs、HashKey Capital 等参投。此前 Mind Network 曾参与币安第五季孵化计划...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1674371798090280960",
-          "author": "吴说区块链",
-          "description": "Re 然而，这个所谓的杀手揭示了这一切都是骗局，并威胁要将 Musbach 的信息分享给当局。Musbach 后来承认了雇佣杀手的罪行，目前被判处 78 个月（六年半）监禁和三年的监督释放，同时被罚款 3 万美元。\nhttps://www.justice.gov/usao-nj/pr/camden-county-man-sentenced-78-months-prison-hiring-hitman-internet",
-          "link": "https://twitter.com/wublockchain12/status/1674371798090280960",
-          "publishedOn": "2023-06-29T10:58:39.000Z",
-          "wordCount": null,
-          "title": "Re 然而，这个所谓的杀手揭示了这一切都是骗局，并威胁要将 Musbach 的信息分享给当局。Musbach 后来承认了雇佣杀手的罪行，目前被判处 78 个月（六年半）监禁和...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1674371796085403651",
-          "author": "吴说区块链",
-          "description": "吴说获悉，美国新泽西州男子 John Michael Musbach 在 2015 年因与一名 13 岁的孩子交换露骨图片被逮捕，后在暗网上花费 40 个比特币（当时约合 2 万美元）试图雇佣杀手杀死这名孩子，以阻止他在即将进行的刑事案件中作证。",
-          "link": "https://twitter.com/wublockchain12/status/1674371796085403651",
-          "publishedOn": "2023-06-29T10:58:39.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，美国新泽西州男子 John Michael Musbach 在 2015 年因与一名 13 岁的孩子交换露骨图片被逮捕，后在暗网上花费 40 个比特币（当时约合 2 万美元）试图...",
           "imageUrl": null
         }
       ]
@@ -452,21 +452,21 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673569131638161408",
           "author": "链求君 | (C,C)",
-          "description": "怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.\n 用 GPT 来了波审计, 确实好使  👀 👇 https://t.co/l5T8lUOOsI\n\n\n\n\nL: The $L #airdrop reservation has now ended! ✅\nhttp://lthememecoin.com\nEvery REAL person that participated has been recorded, and will be able to connect to the site at TGE to claim their tokens. \nThe claim window will be open for one-week post-TGE. 🪂 https://t.co/74L9AGKsdu",
+          "description": "怎么到处都在喊这个币,  70%  $L 币在庄手里.  而且合约也高度可控.\n 用 GPT 来了波审计, 确实好使  👀 👇 https://twitter.com/Lthememecoin/status/1673224647351869443 https://t.co/l5T8lUOOsI\n\n\n\n\nL: The $L #airdrop reservation has now ended! ✅\nhttp://lthememecoin.com\nEvery REAL person that participated has been recorded, and will be able to connect to the site at TGE to claim their tokens. \nThe claim window will be open for one-week post-TGE. 🪂 https://t.co/74L9AGKsdu",
           "link": "https://twitter.com/AntCaveClub/status/1673569131638161408",
           "publishedOn": "2023-06-27T05:49:09.000Z",
           "wordCount": null,
-          "title": "怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://t.co/l5T8lUOOsI",
+          "title": "怎么到处都在喊这个币, 70% $L 币在庄手里. 而且合约也高度可控. 用 GPT 来了波审计, 确实好使 👀 👇 https://twitter.com/Lthememecoin/status/16732246473...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/AntCaveClub/status/1673515457285062656",
           "author": "链求君 | (C,C)",
-          "description": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈\n\nAwawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another \"cycle\". They fizzle to 0.",
+          "description": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368000000\n\nAwawat: There won't be another bull market for crypto. Markets that fail that spectacularly do not recover for another \"cycle\". They fizzle to 0.",
           "link": "https://twitter.com/AntCaveClub/status/1673515457285062656",
           "publishedOn": "2023-06-27T02:15:52.000Z",
           "wordCount": null,
-          "title": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈",
+          "title": "加密货币不会再出现另一个牛市。严重失败的市场不会在另一个“周期”中恢复。它们最终会归零。 啊哈哈 https://twitter.com/Awawat_Trades/status/1673512746368...",
           "imageUrl": null
         },
         {
@@ -492,11 +492,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673327714969821189",
           "author": "链求君 | (C,C)",
-          "description": "这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来.\n\nsanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。\n地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm",
+          "description": "这项目方把撸毛的当牲口用了...  将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112\n\nsanyi.eth / 🦇🔊: Linea第八周来了，又是几十个任务。真的发财。\n地址：https://galxe.com/Linea/campaign/GCfkeUSkbD https://t.co/IbvvoFn5gm",
           "link": "https://twitter.com/AntCaveClub/status/1673327714969821189",
           "publishedOn": "2023-06-26T13:49:50.000Z",
           "wordCount": null,
-          "title": "这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来.",
+          "title": "这项目方把撸毛的当牲口用了... 将来不一定能把电费挣回来. https://twitter.com/sanyi_eth_/status/1673324129511002112",
           "imageUrl": null
         },
         {
@@ -522,11 +522,11 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1673306790929506306",
           "author": "链求君 | (C,C)",
-          "description": "好像知道你们要干什么了 👀👀\n\nDeBank: 1/3\nWe're thrilled to announce our new feature \"Web3 Badges\", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge\nThe first batch of badges to go live includes: 100/1000 days on chain, 1/10 ETH of gas use, UNI airdrop hunter. https://t.co/AsGwVgf5ZZ",
+          "description": "好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376\n\nDeBank: 1/3\nWe're thrilled to announce our new feature \"Web3 Badges\", a system that reflects the unique achievements accomplished by each 0x address. http://debank.com/badge\nThe first batch of badges to go live includes: 100/1000 days on chain, 1/10 ETH of gas use, UNI airdrop hunter. https://t.co/AsGwVgf5ZZ",
           "link": "https://twitter.com/AntCaveClub/status/1673306790929506306",
           "publishedOn": "2023-06-26T12:26:42.000Z",
           "wordCount": null,
-          "title": "好像知道你们要干什么了 👀👀",
+          "title": "好像知道你们要干什么了 👀👀 https://twitter.com/DeBankDeFi/status/1673276022526181376",
           "imageUrl": null
         },
         {
@@ -582,7 +582,7 @@
         {
           "id": "https://twitter.com/AntCaveClub/status/1672432614509285376",
           "author": "链求君 | (C,C)",
-          "description": "据说今天俄罗斯内乱。 \n苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。\n俄罗斯平民可能集体梭哈比特币！\n\n加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变\n#乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发\nhttp://m.caus.com/detail/77186 https://t.co/LwyT0tJKPL",
+          "description": "据说今天俄罗斯内乱。 \n苏联解体后的1991年到1994年在原苏联加盟国间形成的一个短时期货币同盟。卢布区的国家使用同一种货币，先是苏联卢布，然后是俄罗斯卢布。随着各国陆续放弃使用卢布，转而发行本国的货币，这一货币联盟也随之崩溃。\n俄罗斯平民可能集体梭哈比特币！ https://twitter.com/CausMoney/status/1672391688097087489\n\n加美财经caus.com: 俄罗斯军方和安全部门指责瓦格纳雇佣兵老板普里戈津试图发动政变\n#乌克兰战争 #俄罗斯 俄罗斯将军们周五晚些时候指控瓦格纳雇佣兵老板叶夫根尼·普里戈津试图对普京发\nhttp://m.caus.com/detail/77186 https://t.co/LwyT0tJKPL",
           "link": "https://twitter.com/AntCaveClub/status/1672432614509285376",
           "publishedOn": "2023-06-24T02:33:02.000Z",
           "wordCount": null,
@@ -991,13 +991,23 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1674565292326805504",
+          "author": "DeFi Surfer",
+          "description": "Interesting…\n\nAdam Cochran (adamscochran.eth): 1/7\nMost important change in the Coinbase vs SEC case:\nCB is arguing \"major questions doctrine\"\nThis is a statutory interpretation (legal theory essentially) that says only Congress has the right to decide \"major questions\" https://twitter.com/i/web/status/1674403960361197569",
+          "link": "https://twitter.com/DeFiSurfer808/status/1674565292326805504",
+          "publishedOn": "2023-06-29T23:47:32.000Z",
+          "wordCount": null,
+          "title": "Interesting…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1674555597780287489",
           "author": "DeFi Surfer",
-          "description": "RFK is so overrated. He’s just a standard lib https://twitter.com/robertkennedyjr/status/1674527565170524161\n\nRobert F. Kennedy Jr: Regarding the Supreme Court banning affirmative action in higher ed — I know many Americans feel that purely race-based decisions are unfair. However, this feeling misses important context. The effects of racist policies going back centuries are now self-perpetuating.",
+          "description": "RFK is so overrated. He’s just a standard lib\n\nRobert F. Kennedy Jr: Regarding the Supreme Court banning affirmative action in higher ed — I know many Americans feel that purely race-based decisions are unfair. However, this feeling misses important context. The effects of racist policies going back centuries are now self-perpetuating.",
           "link": "https://twitter.com/DeFiSurfer808/status/1674555597780287489",
           "publishedOn": "2023-06-29T23:09:00.000Z",
           "wordCount": null,
-          "title": "RFK is so overrated. He’s just a standard lib https://twitter.com/robertkennedyjr/status/1674527565170524161",
+          "title": "RFK is so overrated. He’s just a standard lib",
           "imageUrl": null
         },
         {
@@ -1031,6 +1041,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/tobi/status/1674478117237170179",
+          "author": "DeFi Surfer",
+          "description": "RT tobi lutke\nThe blockchain team at Shopify did a fantastic job creating a new tutorial for how to build a token-gated Shopify storefront from scratch.\nUsing Shopify functions, Remix, Hydrogen, Wallet-connect. Great time to build for the next crypto rebound !\n https://shopify.dev/docs/apps/blockchain/tokengating/build-a-tokengated-storefront",
+          "link": "https://twitter.com/tobi/status/1674478117237170179",
+          "publishedOn": "2023-06-29T18:01:08.000Z",
+          "wordCount": null,
+          "title": "RT tobi lutke: The blockchain team at Shopify did a fantastic job creating a new tutorial for how to build a token-gated Shopify storefront from scrat...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1674445759863746561",
           "author": "DeFi Surfer",
           "description": "Re @NotChaseColeman @brian_armstrong @iampaulgrewal @emiliemc Brian owns 20% / $3-4B of the equity via his class b shares lol",
@@ -1053,11 +1073,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674442895900786688",
           "author": "DeFi Surfer",
-          "description": "Damn this is big. Maybe can help address institutional racism in this country. https://twitter.com/monitoringbias/status/1674420441946161159\n\ni/o: SCOTUS rules 6-3 that the admissions programs of Harvard and UNC violate the Equal Protection Clause of the Fourteenth Amendment.\nJackson, Sotomayor, and Kagan dissent.\nhttps://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf",
+          "description": "Damn this is big. Maybe can help address institutional racism in this country.\n\ni/o: SCOTUS rules 6-3 that the admissions programs of Harvard and UNC violate the Equal Protection Clause of the Fourteenth Amendment.\nJackson, Sotomayor, and Kagan dissent.\nhttps://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf",
           "link": "https://twitter.com/DeFiSurfer808/status/1674442895900786688",
           "publishedOn": "2023-06-29T15:41:10.000Z",
           "wordCount": null,
-          "title": "Damn this is big. Maybe can help address institutional racism in this country. https://twitter.com/monitoringbias/status/1674420441946161159",
+          "title": "Damn this is big. Maybe can help address institutional racism in this country.",
           "imageUrl": null
         },
         {
@@ -1073,11 +1093,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674388515302572032",
           "author": "DeFi Surfer",
-          "description": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead. https://twitter.com/beth_kindig/status/1674039947618316288\n\nBeth Kindig: The US and India continue to deepen their economic relationships following Modi’s visit to the White House. The two countries announced major investment initiatives by US companies in India, led by Micron, Applied Materials and Lam Research.\n$MU $AMAT $LRCX\n@FortuneMagazine https://t.co/zfzmR5BIRq",
+          "description": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead.\n\nBeth Kindig: The US and India continue to deepen their economic relationships following Modi’s visit to the White House. The two countries announced major investment initiatives by US companies in India, led by Micron, Applied Materials and Lam Research.\n$MU $AMAT $LRCX\n@FortuneMagazine https://t.co/zfzmR5BIRq",
           "link": "https://twitter.com/DeFiSurfer808/status/1674388515302572032",
           "publishedOn": "2023-06-29T12:05:05.000Z",
           "wordCount": null,
-          "title": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead....",
+          "title": "The US has problems but it’s interesting to ponder what country could possibly displace the US hegemon if America maintains and widens its tech lead.",
           "imageUrl": null
         },
         {
@@ -1153,11 +1173,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1674205602627694592",
           "author": "DeFi Surfer",
-          "description": "How many L’s can Soylana possibly take 😮‍💨 https://twitter.com/rollbitcom/status/1674142797501288451\n\nRollbit: $RLB has migrated to Ethereum! 💎\nThe most highly anticipated upgrade to $RLB has happened.\nMigrate your RLB seamlessly to ETH via Rollbit's RLB trading interface (requires account): https://rollbit.com/coins/my-wallets/deposit?coin=RLB\nRead more: https://blog.rollbit.com/rlb-eth-migration https://t.co/SfCv562JDx",
+          "description": "How many L’s can Soylana possibly take 😮‍💨\n\nRollbit: $RLB has migrated to Ethereum! 💎\nThe most highly anticipated upgrade to $RLB has happened.\nMigrate your RLB seamlessly to ETH via Rollbit's RLB trading interface (requires account): https://rollbit.com/coins/my-wallets/deposit?coin=RLB\nRead more: https://blog.rollbit.com/rlb-eth-migration https://t.co/SfCv562JDx",
           "link": "https://twitter.com/DeFiSurfer808/status/1674205602627694592",
           "publishedOn": "2023-06-28T23:58:15.000Z",
           "wordCount": null,
-          "title": "How many L’s can Soylana possibly take 😮‍💨 https://twitter.com/rollbitcom/status/1674142797501288451",
+          "title": "How many L’s can Soylana possibly take 😮‍💨",
           "imageUrl": null
         },
         {
@@ -1168,26 +1188,6 @@
           "publishedOn": "2023-06-28T23:33:43.000Z",
           "wordCount": null,
           "title": "Re @InvestmentTalkk No way that’s an actual quote 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1674199256960323584",
-          "author": "DeFi Surfer",
-          "description": "Re @RJRCapital It’s memory dude. Didn’t u used to cover semis?",
-          "link": "https://twitter.com/DeFiSurfer808/status/1674199256960323584",
-          "publishedOn": "2023-06-28T23:33:02.000Z",
-          "wordCount": null,
-          "title": "Re @RJRCapital It’s memory dude. Didn’t u used to cover semis?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1674186379327152129",
-          "author": "DeFi Surfer",
-          "description": "Re @JJcycles Lmao great movie",
-          "link": "https://twitter.com/DeFiSurfer808/status/1674186379327152129",
-          "publishedOn": "2023-06-28T22:41:52.000Z",
-          "wordCount": null,
-          "title": "Re @JJcycles Lmao great movie",
           "imageUrl": null
         }
       ]
