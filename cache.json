@@ -961,6 +961,16 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1674917528034738184",
+          "author": "DeFi Surfer",
+          "description": "Re @DoubleWideCap Seems undervalued tbh",
+          "link": "https://twitter.com/DeFiSurfer808/status/1674917528034738184",
+          "publishedOn": "2023-06-30T23:07:11.000Z",
+          "wordCount": null,
+          "title": "Re @DoubleWideCap Seems undervalued tbh",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1674888812470714369",
           "author": "DeFi Surfer",
           "description": "Re @ParanoidAnalyst @Invesquotes If u know u know",
@@ -1149,18 +1159,14 @@
           "wordCount": null,
           "title": "RT QF Research: TMT IPO announced each Q since '95. New AI supply hasn't even begun coming to market. Don't forget to inflation and market cap adjust ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1674775166360928256",
-          "author": "DeFi Surfer",
-          "description": "Alrighty let’s see how strong that burger bid really is https://twitter.com/zerohedge/status/1674773757901131776\n\nzerohedge: *SEC SAYS SPOT BITCOIN ETF FILINGS ARE INADEQUATE: WSJ",
-          "link": "https://twitter.com/DeFiSurfer808/status/1674775166360928256",
-          "publishedOn": "2023-06-30T13:41:30.000Z",
-          "wordCount": null,
-          "title": "Alrighty let’s see how strong that burger bid really is https://twitter.com/zerohedge/status/1674773757901131776",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
