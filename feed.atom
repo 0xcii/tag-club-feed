@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T14:11:36.234Z</id>
+    <id>urn:2023-07-01T15:12:50.404Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T14:11:36.234Z</updated>
+    <updated>2023-07-01T15:12:50.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @BobEUnlimited Perhaps we’re focused on the wrong thing. Inflation’s looking pretty encouraging]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1675155378865164290</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1675155378865164290"/>
+        <updated>2023-07-01T14:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @BobEUnlimited Perhaps we’re focused on the wrong thing. Inflation’s looking pretty encouraging]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wolfofwolfst Looks like support gonna break soon]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1675144723944599555</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1675144723944599555"/>
+        <updated>2023-07-01T14:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @wolfofwolfst Looks like support gonna break soon]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/XneP0tQqli]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675143662626373634</id>
+        <link href="https://twitter.com/wublockchain12/status/1675143662626373634"/>
+        <updated>2023-07-01T14:05:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/XneP0tQqli]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @psdlt Lol I got this]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1675125454687150080</id>
@@ -13,6 +43,17 @@
         <summary type="html"><![CDATA[Re @psdlt Lol I got this]]></summary>
         <author>
             <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Aave 社区正在对“冻结 V2 以太坊池上的 TUSD 储备”AIP 提案进行链上投票。该提案将阻止用户在 Aave V2 以太坊池上存款或借款 TUSD。但用户仍可以从 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675123873317273600</id>
+        <link href="https://twitter.com/wublockchain12/status/1675123873317273600"/>
+        <updated>2023-07-01T12:47:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Aave 社区正在对“冻结 V2 以太坊池上的 TUSD 储备”AIP 提案进行链上投票。该提案将阻止用户在 Aave V2 以太坊池上存款或借款 TUSD。但用户仍可以从 Aave V2 以太坊池中偿还和提取 TUSD。目前该提案支持率为 83.76%。
+https://app.aave.com/governance/proposal/?proposalId=253]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -262,32 +303,6 @@ https://www.globenewswire.com/news-release/2023/06/30/2698079/0/en/Bitcoin-Depot
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/BeosinAlert/status/1674763287949606914?s=20 & https://twitter.com/Biswap_Dex/status/1674815400012292097?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674968438740230144</id>
-        <link href="https://twitter.com/wublockchain12/status/1674968438740230144"/>
-        <updated>2023-07-01T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/BeosinAlert/status/1674763287949606914?s=20 & https://twitter.com/Biswap_Dex/status/1674815400012292097?s=20
-
-Biswap: ❗️Exploit Alert❗️
-Dear Biswappers, suspicious activity was detected!
-Please, revoke the contract approvals below! Use this guide to do it ASAP👇
-1. Open https://bscscan.com/tokenapprovalchecker, and enter your address in the search bar.
-2. Next, connect your MetaMask wallet app or use… https://twitter.com/i/web/status/1674815400012292097 https://t.co/ycKCvkmfyn]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Beosin 监测，BSC 链上 DEX Biswap 的流动性迁移 V3Migrator 合约被黑客（0xA1…1976）攻击，已获利 7.3 万美元。Biswap 表示已检测到该漏洞，并呼...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674968436517257223</id>
-        <link href="https://twitter.com/wublockchain12/status/1674968436517257223"/>
-        <updated>2023-07-01T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Beosin 监测，BSC 链上 DEX Biswap 的流动性迁移 V3Migrator 合约被黑客（0xA1…1976）攻击，已获利 7.3 万美元。Biswap 表示已检测到该漏洞，并呼吁用户尽快取消授权；该漏洞与 v2 和 v3 AMM 协议无关，用户资产是安全的。Binance Labs 在 2021 年 10 月完成对 Biswap 的战略投资。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ✨ MikeAbundo.eth 🦇🔊: Re @DeFiSurfer808 https://twitter.com/MikeAbundo/status/1662419186109517825?s=20]]></title>
         <id>https://twitter.com/MikeAbundo/status/1674966116873936896</id>
         <link href="https://twitter.com/MikeAbundo/status/1674966116873936896"/>
@@ -415,26 +430,6 @@ SEC could’ve kept the feedback as grounds for eventual denial, but chose not t
         <link href="https://twitter.com/DeFiSurfer808/status/1674933206330622065"/>
         <updated>2023-07-01T00:09:29.000Z</updated>
         <summary type="html"><![CDATA[Re @veH0rny Oh damn Horny sold his account was a good run]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheCryptoDog Raw dog me doggo]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1674929132113739776</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1674929132113739776"/>
-        <updated>2023-06-30T23:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheCryptoDog Raw dog me doggo]]></summary>
-        <author>
-            <name>DeFi Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DoubleWideCap Seems undervalued tbh]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1674917528034738184</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1674917528034738184"/>
-        <updated>2023-06-30T23:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @DoubleWideCap Seems undervalued tbh]]></summary>
         <author>
             <name>DeFi Surfer</name>
         </author>
