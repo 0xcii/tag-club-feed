@@ -1,10 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T04:16:27.042Z</id>
+    <id>urn:2023-07-01T05:12:50.333Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T04:16:27.042Z</updated>
+    <updated>2023-07-01T05:12:50.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Huobi 更新回应称：文章中提到的 OTC 数据并非真实交易数据，而是测试数据；用户信息泄露仅涉及 4000 个用户；日志显示只有白帽下载，白帽自己也表示已经删除...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675009173153796097</id>
+        <link href="https://twitter.com/wublockchain12/status/1675009173153796097"/>
+        <updated>2023-07-01T05:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Re Huobi 更新回应称：文章中提到的 OTC 数据并非真实交易数据，而是测试数据；用户信息泄露仅涉及 4000 个用户；日志显示只有白帽下载，白帽自己也表示已经删除，因此没有事实上造成泄露。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Huobi 回应称事件发生于2021年6月22日日本站测试环境S3桶相关人员不规范操作导致，相关用户信息于2022年10月8日已经完全隔离。当前漏洞已修复，所有相关用户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675003424352632832</id>
+        <link href="https://twitter.com/wublockchain12/status/1675003424352632832"/>
+        <updated>2023-07-01T04:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Re Huobi 回应称事件发生于2021年6月22日日本站测试环境S3桶相关人员不规范操作导致，相关用户信息于2022年10月8日已经完全隔离。当前漏洞已修复，所有相关用户信息已经删除。阅读全文：https://mp.weixin.qq.com/s/NnUozRzTRp5yGE-E0-h_XQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据白帽黑客 Aaron Phillips 披露，火币在2021年时曾泄露了自 2017 年以来处理的每笔 OTC 交易，数据超过 2TB；此外泄露信息还包括部分用户数据、大户...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675003422200987648</id>
+        <link href="https://twitter.com/wublockchain12/status/1675003422200987648"/>
+        <updated>2023-07-01T04:48:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据白帽黑客 Aaron Phillips 披露，火币在2021年时曾泄露了自 2017 年以来处理的每笔 OTC 交易，数据超过 2TB；此外泄露信息还包括部分用户数据、大户信息、内部技术基础设施等。有火币用户已收到白帽通知邮件。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re http://galaxy.com/research/insights/ethereum-all-core-developers-consensus-call-112/]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674986380555096064</id>
+        <link href="https://twitter.com/wublockchain12/status/1674986380555096064"/>
+        <updated>2023-07-01T03:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Re http://galaxy.com/research/insights/ethereum-all-core-developers-consensus-call-112/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Devnet7 将 "目标 blob 限制" 和 "最大 blob 限制" 分别从 2 上调到 3、4 上调到 6（测试处理大区块的网络容量）；年底前淘汰 Goerli 测试网，用拥有更大活跃...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674986378206281729</id>
+        <link href="https://twitter.com/wublockchain12/status/1674986378206281729"/>
+        <updated>2023-07-01T03:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Re Devnet7 将 "目标 blob 限制" 和 "最大 blob 限制" 分别从 2 上调到 3、4 上调到 6（测试处理大区块的网络容量）；年底前淘汰 Goerli 测试网，用拥有更大活跃验证器集的 Holesky 新测试网替代；提高以太坊验证器有效余额的提案，以使质押的收益自动复合。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议112（ACDC）的总结，本次会议主要讨论了：负责 CL & EL 客户端间通信的 Engi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674986375916191744</id>
+        <link href="https://twitter.com/wublockchain12/status/1674986375916191744"/>
+        <updated>2023-07-01T03:40:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Galaxy Digital 研究团队副总裁 Christine Kim 对全核心开发者共识会议112（ACDC）的总结，本次会议主要讨论了：负责 CL & EL 客户端间通信的 Engine API 的两个相关修改（构建器重写标志等）；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七月开始了 又可以刷新的一个月的月活跃了 开心 https://t.co/hfjKu9VMJ4]]></title>
+        <id>https://twitter.com/8848Community/status/1674986082075828225</id>
+        <link href="https://twitter.com/8848Community/status/1674986082075828225"/>
+        <updated>2023-07-01T03:39:36.000Z</updated>
+        <summary type="html"><![CDATA[七月开始了
+又可以刷新的一个月的月活跃了
+开心 https://t.co/hfjKu9VMJ4]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 去年7月，Hidden Road 完成 5000 万美元 A 轮融资，FTX Ventures、Coinbase Ventures 等参投。 https://www.prnewswire.com/news-releases/hidden-roads-neth...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674985993278193665</id>
+        <link href="https://twitter.com/wublockchain12/status/1674985993278193665"/>
+        <updated>2023-07-01T03:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Re 去年7月，Hidden Road 完成 5000 万美元 A 轮融资，FTX Ventures、Coinbase Ventures 等参投。
+https://www.prnewswire.com/news-releases/hidden-roads-netherlands-entity-receives-registration-from-dnb-for-digital-assets-301866075.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，信贷服务商 Hidden Road 宣布其荷兰实体 Hidden Road Partners CIV NL B.V. 已在荷兰中央银行（DNB）完成加密服务提供商注册。该注册将允许 Hidden Ro...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674985991034269696</id>
+        <link href="https://twitter.com/wublockchain12/status/1674985991034269696"/>
+        <updated>2023-07-01T03:39:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，信贷服务商 Hidden Road 宣布其荷兰实体 Hidden Road Partners CIV NL B.V. 已在荷兰中央银行（DNB）完成加密服务提供商注册。该注册将允许 Hidden Road 在各种产品中为交易对手提供法定货币和数字资产之间进行交易的能力。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 TokenUnlocks，七月大额解锁（解锁额大于 1000 万美元）有 DYDX、APT、IMX、APE、AXS、OP 等，解锁价值超 1.47 亿美元。 https://token.unlocks.ap...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1674981100236730369</id>
+        <link href="https://twitter.com/wublockchain12/status/1674981100236730369"/>
+        <updated>2023-07-01T03:19:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 TokenUnlocks，七月大额解锁（解锁额大于 1000 万美元）有 DYDX、APT、IMX、APE、AXS、OP 等，解锁价值超 1.47 亿美元。
+https://token.unlocks.app/ https://t.co/lEfVi7UkKx]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @knlae_ I’m not seeing what you’re seeing but ok]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674972962712174599</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674972962712174599"/>
+        <updated>2023-07-01T02:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @knlae_ I’m not seeing what you’re seeing but ok]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @knlae_ Seems like he’s celebrating no]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674970501712625665</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674970501712625665"/>
+        <updated>2023-07-01T02:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @knlae_ Seems like he’s celebrating no]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Bitcoin Depot 成立于 2016 年，是北美最大的比特币 ATM 机提供商之一，在美国和加拿大拥有 7000 多个比特币 ATM。 https://www.globenewswire.com/news-rele...]]></title>
         <id>https://twitter.com/wublockchain12/status/1674969680950493189</id>
@@ -24,6 +148,16 @@ https://www.globenewswire.com/news-release/2023/06/30/2698079/0/en/Bitcoin-Depot
         <summary type="html"><![CDATA[吴说获悉，加密 ATM 公司 Bitcoin Depot 宣布与特殊目的收购公司（SPAC） GSR II Meteora Acquisition 完成此前宣布的业务合并，将于 7 月 3 日在纳斯达克上市。去年8月，双方计划以8.85亿美元的估值在纳斯达克合并上市。]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @knlae_ Na brah]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674968804365877251</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674968804365877251"/>
+        <updated>2023-07-01T02:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @knlae_ Na brah]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +187,19 @@ Please, revoke the contract approvals below! Use this guide to do it ASAP👇
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT ✨ MikeAbundo.eth 🦇🔊: Re @DeFiSurfer808 https://twitter.com/MikeAbundo/status/1662419186109517825?s=20]]></title>
+        <id>https://twitter.com/MikeAbundo/status/1674966116873936896</id>
+        <link href="https://twitter.com/MikeAbundo/status/1674966116873936896"/>
+        <updated>2023-07-01T02:20:16.000Z</updated>
+        <summary type="html"><![CDATA[RT ✨ MikeAbundo.eth 🦇🔊
+Re @DeFiSurfer808 https://twitter.com/MikeAbundo/status/1662419186109517825?s=20
+
+✨ MikeAbundo.eth 🦇🔊: Doubting that people will ever use Internet coins in 2023 is like doubting that people will ever watch Internet video in 2003.]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re Nansen 数据显示，Celo 交易用户和交易笔数主要集中在 Angle Protocol、Good Dollar 和 LayerZero 等协议的使用。https://dune.com/springzhang/celo-blockch...]]></title>
         <id>https://twitter.com/wublockchain12/status/1674962714349944833</id>
         <link href="https://twitter.com/wublockchain12/status/1674962714349944833"/>
@@ -70,6 +217,16 @@ Please, revoke the contract approvals below! Use this guide to do it ASAP👇
         <summary type="html"><![CDATA[吴说获悉，据 @superamscom 数据面板，近期 Celo 链出现显著增长，链上交易用户自 6 月 28 日连续四天超过 7 万，创下历史新高，但约 80%-90% 为新地址增长；链上交易笔数也在近两日超过 40 万笔，为近 5 个月以来高点，每日链上 Gas 使用亦处于高位。]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sinstockpapi This is a super risky portfolio]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674960815097520129</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674960815097520129"/>
+        <updated>2023-07-01T01:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @sinstockpapi This is a super risky portfolio]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -123,23 +280,16 @@ Please, revoke the contract approvals below! Use this guide to do it ASAP👇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，BendDAO 目前有 8 枚可供拍卖的 Azuki（累积 72.0636 ETH 的贷款）无人出价，可能将面临首次违约，主要原因是目前交易市场中的地板价（7.8 ETH）要明...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674953089735098373</id>
-        <link href="https://twitter.com/wublockchain12/status/1674953089735098373"/>
-        <updated>2023-07-01T01:28:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BendDAO 目前有 8 枚可供拍卖的 Azuki（累积 72.0636 ETH 的贷款）无人出价，可能将面临首次违约，主要原因是目前交易市场中的地板价（7.8 ETH）要明显低于 BendDAO 的拍卖中的债务（平均 9 ETH），即若参与拍卖，投资者所从拍卖中获得的潜在收益将为负数。]]></summary>
+        <title type="html"><![CDATA[RT Bluntz: the rest of this year is looking like its setting up for another bull run imo. $eth has a beautiful basing structure on the usd pair and it...]]></title>
+        <id>https://twitter.com/Bluntz_Capital/status/1674948325362257920</id>
+        <link href="https://twitter.com/Bluntz_Capital/status/1674948325362257920"/>
+        <updated>2023-07-01T01:09:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Bluntz
+the rest of this year is looking like its setting up for another bull run imo.
+$eth has a beautiful basing structure on the usd pair and its btc pair also has very nice early signs of reversal on high timeframes.
+i am expecting eth to outperform btc https://t.co/xBaD6cbYMT]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 富达投资 (Fidelity Investments) 带领几家公司提交了一系列新的现货比特币 ETF 申请，还包括 Invesco、VanEck、21Shares 和 WisdomTree，周五重新提交的所有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674950897452085250</id>
-        <link href="https://twitter.com/wublockchain12/status/1674950897452085250"/>
-        <updated>2023-07-01T01:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Re 富达投资 (Fidelity Investments) 带领几家公司提交了一系列新的现货比特币 ETF 申请，还包括 Invesco、VanEck、21Shares 和 WisdomTree，周五重新提交的所有五家公司均表示，Coinbase Global Inc. 将提供市场监督以支持其资金，这一事实在之前的版本中并未包含在内。https://www.bloomberg.com/news/articles/2023-06-30/fidelity-leads-flurry-of-bitcoin-btc-etf-refilings-to-answer-sec]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -153,76 +303,149 @@ Please, revoke the contract approvals below! Use this guide to do it ASAP👇
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/06/30/court-orders-kraken-to-turn-over-history-transaction-and-account-information-to-irs/?utm_medium=social&u...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674931464822202368</id>
-        <link href="https://twitter.com/wublockchain12/status/1674931464822202368"/>
-        <updated>2023-07-01T00:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Re https://www.coindesk.com/policy/2023/06/30/court-orders-kraken-to-turn-over-history-transaction-and-account-information-to-irs/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
+        <title type="html"><![CDATA[A lot of crazy shit came to be over the last 20 years… for example we all have a super computer in our pockets and can connect with anyone, anywhere ...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674946062849658881</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674946062849658881"/>
+        <updated>2023-07-01T01:00:35.000Z</updated>
+        <summary type="html"><![CDATA[A lot of crazy shit came to be over the last 20 years… for example we all have a super computer in our pockets and can connect with anyone, anywhere in the world in the blink of an eye. 
+Is it so crazy to imagine the emergence of an internet-native monetary system?]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[联邦法院命令加密货币交易所 Kraken 向美国国税局（IRS）提供特定用户的个人信息，以调查用户是否少报税款。该命令要求 Kraken 提供在2016年至2020年期间加密货...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674931462574047233</id>
-        <link href="https://twitter.com/wublockchain12/status/1674931462574047233"/>
-        <updated>2023-07-01T00:02:34.000Z</updated>
-        <summary type="html"><![CDATA[联邦法院命令加密货币交易所 Kraken 向美国国税局（IRS）提供特定用户的个人信息，以调查用户是否少报税款。该命令要求 Kraken 提供在2016年至2020年期间加密货币交易金额超过2万美元的用户信息，包括提供用户的姓名、出生日期、地址、电话号码、纳税人识别号等信息。（CoinDesk）]]></summary>
+        <title type="html"><![CDATA[Re @DegenSpartan Pretty crazy fidelity is using coinbase to custody tbh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674943545394774016</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674943545394774016"/>
+        <updated>2023-07-01T00:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @DegenSpartan Pretty crazy fidelity is using coinbase to custody tbh]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Cboe 表示预计将与 Coinbase,Inc. 签订 SSA 协议，Invesco、Wisdom Tree 和 Wise Origin 的文件中也包含了类似的表述。 https://www.cboe.com/us/equities/re...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674930561465597953</id>
-        <link href="https://twitter.com/wublockchain12/status/1674930561465597953"/>
-        <updated>2023-06-30T23:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Re Cboe 表示预计将与 Coinbase,Inc. 签订 SSA 协议，Invesco、Wisdom Tree 和 Wise Origin 的文件中也包含了类似的表述。
-https://www.cboe.com/us/equities/regulation/rule_filings/]]></summary>
+        <title type="html"><![CDATA[RT Joey Roth: Re @DeFiSurfer808 https://t.co/a6oZyZi4Hi]]></title>
+        <id>https://twitter.com/joeyroth/status/1674940713694535680</id>
+        <link href="https://twitter.com/joeyroth/status/1674940713694535680"/>
+        <updated>2023-07-01T00:39:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Joey Roth
+Re @DeFiSurfer808 https://t.co/a6oZyZi4Hi]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，芝加哥期权交易所（Cboe）周五提交了现货比特币 ETF 的最新19b-4文件，将加密交易所 Coinbase 指定为其监管共享协议（SSA）的合作伙伴。在富达提出...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674930559334895616</id>
-        <link href="https://twitter.com/wublockchain12/status/1674930559334895616"/>
-        <updated>2023-06-30T23:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，芝加哥期权交易所（Cboe）周五提交了现货比特币 ETF 的最新19b-4文件，将加密交易所 Coinbase 指定为其监管共享协议（SSA）的合作伙伴。在富达提出的现货 ETF Wise Origin Bitcoin Trust 的更新文件中，]]></summary>
+        <title type="html"><![CDATA[Re @dLuxGMI Bruh… makes sense]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674937612199419910</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674937612199419910"/>
+        <updated>2023-07-01T00:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @dLuxGMI Bruh… makes sense]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Celsius 获准可以从 2023 年 7 月 1 日或之后开始，将任何非 BTC 和非 ETH 加密货币出售或转换为 BTC 或 ETH。Celsius 持有价值 7050 万美元的 CEL、5...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674789682625024005</id>
-        <link href="https://twitter.com/wublockchain12/status/1674789682625024005"/>
-        <updated>2023-06-30T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Celsius 获准可以从 2023 年 7 月 1 日或之后开始，将任何非 BTC 和非 ETH 加密货币出售或转换为 BTC 或 ETH。Celsius 持有价值 7050 万美元的 CEL、5180 万美元的 MATIC、2620 万美元的 ADA、1730 万美元的 LINK、1440 万美元的 LTC 等。https://www.coindesk.com/policy/2023/06/30/bankrupt-celsius-can-convert-altcoins-to-btc-eth-starting-july-1-following-sec-talks/]]></summary>
+        <title type="html"><![CDATA[Fwiw eth/btc bottomed august 2019 at 0.02 before peaking in November 2021 at 0.08 👀]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674935950013616128</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674935950013616128"/>
+        <updated>2023-07-01T00:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Fwiw eth/btc bottomed august 2019 at 0.02 before peaking in November 2021 at 0.08 👀]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，彭博社 ETF 分析师 Eric Balchunas 表示，SEC 希望他们透露预计与他们签订“监控共享协议”的现货比特币交易所的名称，以及提供有关这些监控安排细...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674783538217103368</id>
-        <link href="https://twitter.com/wublockchain12/status/1674783538217103368"/>
-        <updated>2023-06-30T14:14:46.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，彭博社 ETF 分析师 Eric Balchunas 表示，SEC 希望他们透露预计与他们签订“监控共享协议”的现货比特币交易所的名称，以及提供有关这些监控安排细节的足够信息，“这是可以理解的，可以说是个好消息”。芝加哥期权交易所发言人表示，计划更新并重新提交文件。https://twitter.com/EricBalchunas/status/1674777296438165505
+        <title type="html"><![CDATA[hopium or real?? https://twitter.com/logicalbtc/status/1674809056480092166]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674934630720458753</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674934630720458753"/>
+        <updated>2023-07-01T00:15:09.000Z</updated>
+        <summary type="html"><![CDATA[hopium or real?? https://twitter.com/logicalbtc/status/1674809056480092166
 
-Eric Balchunas: Hold up a second, this isn't as bad as headline. The key paragraph is deep in story. Basically SEC wants them to name the "crypto exchange" and give more details on SSA. That's understandable, arguably good news. I was under impression they'd have to update that as well. https://t.co/bh9qn65Xh2]]></summary>
+brain genius: Interpretation:
+The SEC is so worried it’s going to lose Grayscale that it’s priming spot applications for quick approval thereafter. Commissioners don’t want to look hypocritical.
+SEC could’ve kept the feedback as grounds for eventual denial, but chose not to. Telling. https://twitter.com/Vlajournaliste/status/1674774424866676736]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/Es4UINvdO0]]></title>
-        <id>https://twitter.com/wublockchain12/status/1674783220767019012</id>
-        <link href="https://twitter.com/wublockchain12/status/1674783220767019012"/>
-        <updated>2023-06-30T14:13:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/Es4UINvdO0]]></summary>
+        <title type="html"><![CDATA[Re @DegenSpartan]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674934348313776128</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674934348313776128"/>
+        <updated>2023-07-01T00:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @DegenSpartan]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’re u doing if $btc goes to $200k and $eth goes to 0.2 $btc… 😳]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674934233335250950</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674934233335250950"/>
+        <updated>2023-07-01T00:13:34.000Z</updated>
+        <summary type="html"><![CDATA[What’re u doing if $btc goes to $200k and $eth goes to 0.2 $btc… 😳]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @veH0rny Oh damn Horny sold his account was a good run]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674933206330622065</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674933206330622065"/>
+        <updated>2023-07-01T00:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @veH0rny Oh damn Horny sold his account was a good run]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheCryptoDog Raw dog me doggo]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674929132113739776</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674929132113739776"/>
+        <updated>2023-06-30T23:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheCryptoDog Raw dog me doggo]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DoubleWideCap Seems undervalued tbh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674917528034738184</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674917528034738184"/>
+        <updated>2023-06-30T23:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @DoubleWideCap Seems undervalued tbh]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ParanoidAnalyst @Invesquotes If u know u know]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674888812470714369</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674888812470714369"/>
+        <updated>2023-06-30T21:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @ParanoidAnalyst @Invesquotes If u know u know]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @toptickcrypto Was just looking at btc vs it’s 200 wk moving average today and it’s still extremely cheap vs it’s long term trend]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674880346540703745</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674880346540703745"/>
+        <updated>2023-06-30T20:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @toptickcrypto Was just looking at btc vs it’s 200 wk moving average today and it’s still extremely cheap vs it’s long term trend]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @INArteCarloDoss Very thorough]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1674878536283193346</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1674878536283193346"/>
+        <updated>2023-06-30T20:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @INArteCarloDoss Very thorough]]></summary>
+        <author>
+            <name>DeFi Surfer</name>
         </author>
     </entry>
     <entry>
@@ -354,18 +577,6 @@ Azuki 完了吗？]]></summary>
 速战速决. https://t.co/r3Ja96CcAV]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tree News: THE BLOCK: Fidelity preparing to submit spot bitcoin ETF filing: Source https://www.theblock.co/post/236588/fidelity-preparing-to-submit...]]></title>
-        <id>https://twitter.com/News_Of_Alpha/status/1673693139561840642</id>
-        <link href="https://twitter.com/News_Of_Alpha/status/1673693139561840642"/>
-        <updated>2023-06-27T14:01:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Tree News
-THE BLOCK: Fidelity preparing to submit spot bitcoin ETF filing: Source
-https://www.theblock.co/post/236588/fidelity-preparing-to-submit-spot-bitcoin-etf-filing-source]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -676,59 +887,6 @@ BREAKING: Wagner technical force is reportedly now outside of the Russian Southe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Ox_deg @CrossChainAlex I just copy cohorts of wallets that together provide insights imo. But I’ve seen wallets with their own specialties print ...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1672374804098293761</id>
-        <link href="https://twitter.com/OnChainWizard/status/1672374804098293761"/>
-        <updated>2023-06-23T22:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @Ox_deg @CrossChainAlex I just copy cohorts of wallets that together provide insights imo.      But I’ve seen wallets with their own specialties print millions.   I frankly don’t have the time]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CrossChainAlex Oh those threads are garbage I get you now. I made one as a test and got 150k impressions. It’s just engagement bait]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1672357397652815872</id>
-        <link href="https://twitter.com/OnChainWizard/status/1672357397652815872"/>
-        <updated>2023-06-23T21:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @CrossChainAlex Oh those threads are garbage I get you now.   I made one as a test and got 150k impressions.    It’s just engagement bait]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CrossChainAlex I def disagree. But depends how you categorize "whale wallet". I literally only trade what smart money does and have since '21 prof...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1672336730077143041</id>
-        <link href="https://twitter.com/OnChainWizard/status/1672336730077143041"/>
-        <updated>2023-06-23T20:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @CrossChainAlex I def disagree.   But depends how you categorize "whale wallet".    I literally only trade what smart money does and have since '21 profitably.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408]]></title>
-        <id>https://twitter.com/8848Community/status/1672319607062011904</id>
-        <link href="https://twitter.com/8848Community/status/1672319607062011904"/>
-        <updated>2023-06-23T19:03:59.000Z</updated>
-        <summary type="html"><![CDATA[牛啊 https://twitter.com/0xFengwuxiang/status/1672223508955537408
-
-风无向😈: Respect 珠穆朗玛，Respect 8848社区
-@8848Community https://t.co/7yE72fuAEx]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChainEDGE_io makes it easy to not be a missooor. Smart money signals made it easy to spot $FUMO before a 10x+ run https://t.co/7MaiqfuDdT]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1672262266840838145</id>
-        <link href="https://twitter.com/OnChainWizard/status/1672262266840838145"/>
-        <updated>2023-06-23T15:16:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChainEDGE_io makes it easy to not be a missooor.    Smart money signals made it easy to spot $FUMO before a 10x+ run https://t.co/7MaiqfuDdT]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Emperor Osmo🧪: #Binance Labs has been on an investing spree in 2023. This $9 Billion behemoth VC is known for making 200x returns. Let's break d...]]></title>
         <id>https://twitter.com/Flowslikeosmo/status/1672243208708050945</id>
         <link href="https://twitter.com/Flowslikeosmo/status/1672243208708050945"/>
@@ -739,78 +897,6 @@ This $9 Billion behemoth VC is known for making 200x returns.
 Let's break down their most exciting investments for 2023.🧵 https://t.co/m0HG3wZ4KQ]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Lateralus_11235 @ChainEDGE_io Highly dependent on the trader/token/market]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1672035602697539585</id>
-        <link href="https://twitter.com/OnChainWizard/status/1672035602697539585"/>
-        <updated>2023-06-23T00:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @Lateralus_11235 @ChainEDGE_io Highly dependent on the trader/token/market]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Lateralus_11235 My newsletter + @ChainEDGE_io]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1671984956657004547</id>
-        <link href="https://twitter.com/OnChainWizard/status/1671984956657004547"/>
-        <updated>2023-06-22T20:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @Lateralus_11235 My newsletter + @ChainEDGE_io]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cryptowhail Same (bc I copy trade it)]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1671977851317264385</id>
-        <link href="https://twitter.com/OnChainWizard/status/1671977851317264385"/>
-        <updated>2023-06-22T20:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @cryptowhail Same (bc I copy trade it)]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$UNIBOT +65% since https://t.co/VpjqmLt3ry]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1671974884488912899</id>
-        <link href="https://twitter.com/OnChainWizard/status/1671974884488912899"/>
-        <updated>2023-06-22T20:14:10.000Z</updated>
-        <summary type="html"><![CDATA[$UNIBOT +65% since https://t.co/VpjqmLt3ry]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Evanss6.eth: >BlackRock files genuinely novel ETF >Fidelity and Schwab launch EdX >Soros and Citadel in the biz >Gensler out of favor with his own ...]]></title>
-        <id>https://twitter.com/Evan_ss6/status/1671923870108991493</id>
-        <link href="https://twitter.com/Evan_ss6/status/1671923870108991493"/>
-        <updated>2023-06-22T16:51:28.000Z</updated>
-        <summary type="html"><![CDATA[RT Evanss6.eth
->BlackRock files genuinely novel ETF
->Fidelity and Schwab launch EdX
->Soros and Citadel in the biz
->Gensler out of favor with his own party
->Powell: “stablecoins are a form of money” “crypto asset class has staying power”
-All in a week, after regulatory blitzkrieg
-The fix is in]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 🉐 Crypto Linn: Crypto’s global adoption is rapidly increasing, but privacy still poses significant threats to users. Public blockchains offer s...]]></title>
-        <id>https://twitter.com/crypto_linn/status/1671881767454937089</id>
-        <link href="https://twitter.com/crypto_linn/status/1671881767454937089"/>
-        <updated>2023-06-22T14:04:10.000Z</updated>
-        <summary type="html"><![CDATA[RT 🉐 Crypto Linn
-Crypto’s global adoption is rapidly increasing, but privacy still poses significant threats to users.
-Public blockchains offer security and trust but lack individual user privacy.
-This can be abused by malicious actors.
-To have complete security, we also require privacy.
-1/18 https://t.co/QWWa9p5Ygr]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -830,17 +916,6 @@ ve(3,3)关注项目数据更新（6.22）：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Steven: The number 1 trending collection on OpenSea is BlackRock. https://t.co/GDBDZwxOmS]]></title>
-        <id>https://twitter.com/Dogetoshi/status/1671628998818840577</id>
-        <link href="https://twitter.com/Dogetoshi/status/1671628998818840577"/>
-        <updated>2023-06-21T21:19:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Steven
-The number 1 trending collection on OpenSea is BlackRock. https://t.co/GDBDZwxOmS]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT vitalik.eth: Deeper dive on L2->L1 and cross-L2 reading. Much more technical than the previous post, but gets into some ideas on how it could be im...]]></title>
         <id>https://twitter.com/VitalikButerin/status/1671170970634317826</id>
         <link href="https://twitter.com/VitalikButerin/status/1671170970634317826"/>
@@ -851,18 +926,6 @@ There's a lot of value in identifying better strategies for L1 <-> L2 interactio
 https://vitalik.ca/general/2023/06/20/deeperdive.html]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 0xngmi: Launched a crypto calendar with the most important crypto and macro events to track https://defillama.com/calendar https://t.co/1Q474DL4DS]]></title>
-        <id>https://twitter.com/0xngmi/status/1670954337592307717</id>
-        <link href="https://twitter.com/0xngmi/status/1670954337592307717"/>
-        <updated>2023-06-20T00:38:53.000Z</updated>
-        <summary type="html"><![CDATA[RT 0xngmi
-Launched a crypto calendar with the most important crypto and macro events to track
-https://defillama.com/calendar https://t.co/1Q474DL4DS]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -911,20 +974,6 @@ If/when Blackrock's (who has a 99% ETF approval) Bitcoin ETF launches (very simi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT MooMs: LSDfi is where the next money will flow. #Binance has just released their LSDfi Report. 10 Insights you need to know (+ list of most promisi...]]></title>
-        <id>https://twitter.com/Moomsxxx/status/1670446076682289153</id>
-        <link href="https://twitter.com/Moomsxxx/status/1670446076682289153"/>
-        <updated>2023-06-18T14:59:14.000Z</updated>
-        <summary type="html"><![CDATA[RT MooMs
-LSDfi is where the next money will flow.
-#Binance has just released their LSDfi Report.
-10 Insights you need to know (+ list of most promising projects) 
-A Comprehensive Thread🧵👇 https://t.co/9Y6HwJECLe]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Justin Slaughter: So, I respectfully disagree with Noelle on this one. I think BlackRock is doing this on the merits (seeking to get a bitcoin ETF ...]]></title>
         <id>https://twitter.com/JBSDC/status/1669805547414073344</id>
         <link href="https://twitter.com/JBSDC/status/1669805547414073344"/>
@@ -964,29 +1013,6 @@ Today Machi filed the defamation lawsuit. The lawsuit is baseless and an attempt
         <summary type="html"><![CDATA[Re @napgener if this were the case you'd expect to see an opposite trend in funding rate for coin margined vs. stablecoin margined and that's not what i'm observing... https://t.co/O2WUkAe841]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @silentdao_ 🔥]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1669223737537724419</id>
-        <link href="https://twitter.com/OnChainWizard/status/1669223737537724419"/>
-        <updated>2023-06-15T06:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @silentdao_ 🔥]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Silent Protocol: 1/ We are very happy to announce that Silent Protocol is getting integrated into the Olympus DAO ecosystem. This is what it means ...]]></title>
-        <id>https://twitter.com/silentdao_/status/1668980569416388609</id>
-        <link href="https://twitter.com/silentdao_/status/1668980569416388609"/>
-        <updated>2023-06-14T13:55:50.000Z</updated>
-        <summary type="html"><![CDATA[RT Silent Protocol
-1/ 
-We are very happy to announce that Silent Protocol is getting integrated into the Olympus DAO ecosystem.
-This is what it means for you: https://t.co/0JsHwbgOAE]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -1037,31 +1063,6 @@ HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jay
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://onchainwizard.substack.com/p/summertime-sadness]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1667593187169280003</id>
-        <link href="https://twitter.com/OnChainWizard/status/1667593187169280003"/>
-        <updated>2023-06-10T18:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Re https://onchainwizard.substack.com/p/summertime-sadness]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much worse can it get? If you want to check out: -Sentiment bottom signals -What smart money is doing -Which Narratives will drive this summer You...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1667593185374224385</id>
-        <link href="https://twitter.com/OnChainWizard/status/1667593185374224385"/>
-        <updated>2023-06-10T18:02:52.000Z</updated>
-        <summary type="html"><![CDATA[How much worse can it get?     
-If you want to check out:
--Sentiment bottom signals 
--What smart money is doing
--Which Narratives will drive this summer
-You may like todays free newsletter post, aptly titled Summertime Sadness https://t.co/GSFIn9sLrm]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @thiccythot_ Fake news]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667552806541176833</id>
         <link href="https://twitter.com/DeFi_educator/status/1667552806541176833"/>
@@ -1069,26 +1070,6 @@ You may like todays free newsletter post, aptly titled Summertime Sadness https:
         <summary type="html"><![CDATA[Re @thiccythot_ Fake news]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @winstnn @Louround_ @ChainEDGE_io]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1667148919485128705</id>
-        <link href="https://twitter.com/OnChainWizard/status/1667148919485128705"/>
-        <updated>2023-06-09T12:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @winstnn @Louround_ @ChainEDGE_io]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Louround_ Ser you know there's another tool that helps to find gems early https://t.co/Jd9cZDvOLS]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1666659360812986369</id>
-        <link href="https://twitter.com/OnChainWizard/status/1666659360812986369"/>
-        <updated>2023-06-08T04:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @Louround_ Ser you know there's another tool that helps to find gems early https://t.co/Jd9cZDvOLS]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
