@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1675444009664397312",
+          "author": "吴说区块链",
+          "description": "Re 部分被盗代币（包括 sUSD,  RFuel , COOK 等）通过 Uniswap 和 PancakeSwap 兑换成价值约122万美元的主流资产，剩余的资金已经分发到多个链的 60 多个地址中，尚未转移。https://twitter.com/MistTrack_io/status/1675436475595526144\n\nMistTrack🕵️: 🚨MistTrack Security Alert🚨\n@PolyNetwork2 has been hacked again.\n1/ The main hacker profit address is 0xe0af…a599. The Hacker has cashed in over $4.39 million in mainstream assets. https://t.co/SYPFI4n9kF",
+          "link": "https://twitter.com/wublockchain12/status/1675444009664397312",
+          "publishedOn": "2023-07-02T09:59:14.000Z",
+          "wordCount": null,
+          "title": "Re 部分被盗代币（包括 sUSD, RFuel , COOK 等）通过 Uniswap 和 PancakeSwap 兑换成价值约122万美元的主流资产，剩余的资金已经分发到多个链的 60 多个地址中，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1675444004694163456",
+          "author": "吴说区块链",
+          "description": "Re 吴说获悉，据慢雾分析，Poly Network 攻击事件中，黑客已成功兑换超过 439 万美元的资产。黑客利用 Kucoin、FixedFloat、ChangeNOW、Tornado Cash 等平台，通过以太坊、BSC 链和Polygon 链进行操作。",
+          "link": "https://twitter.com/wublockchain12/status/1675444004694163456",
+          "publishedOn": "2023-07-02T09:59:13.000Z",
+          "wordCount": null,
+          "title": "Re 吴说获悉，据慢雾分析，Poly Network 攻击事件中，黑客已成功兑换超过 439 万美元的资产。黑客利用 Kucoin、FixedFloat、ChangeNOW、Tornado Cash 等平台，通...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1675440016976384001",
+          "author": "吴说区块链",
+          "description": "Re AzukiDAO 为 20000E DAO 提供资金，成立诉讼研究团队。AzukiDAO 和 20000E DAO 由前 Azuki 社区成员和持有者建立。\nhttps://snapshot.org/#/azuki-dao.eth/proposal/0x065ffcc4878fc66b574e8ad23d2c2033d7896c7683457a3f6e3f5e449e637298",
+          "link": "https://twitter.com/wublockchain12/status/1675440016976384001",
+          "publishedOn": "2023-07-02T09:43:22.000Z",
+          "wordCount": null,
+          "title": "Re AzukiDAO 为 20000E DAO 提供资金，成立诉讼研究团队。AzukiDAO 和 20000E DAO 由前 Azuki 社区成员和持有者建立。 https://snapshot.org/#/azuki-dao.eth/pr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1675440014237523968",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Snapshot 页面显示，AzukiDAO 正在发起一份名为「聘请一名律师，帮助社区从 Zagabond 处收回 20000 ETH」的提案。提案内容包括：聘请律师对 Azuki 项目创始人 Zagabond 提起诉讼，指控其不当行为；要求从 Azuki 团队追回 20,000 ETH，并将其用于社区发展和奖励；",
+          "link": "https://twitter.com/wublockchain12/status/1675440014237523968",
+          "publishedOn": "2023-07-02T09:43:22.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Snapshot 页面显示，AzukiDAO 正在发起一份名为「聘请一名律师，帮助社区从 Zagabond 处收回 20000 ETH」的提案。提案内容包括：聘请律师对 Azuki 项...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1675398000976470016",
           "author": "吴说区块链",
           "description": "Re Bittrex 的立场与 Coinbase 一致，认为虽然加密资产的初始销售可能被视为证券，但一旦在二级市场交易，应将其视为商品或其他类型的数字资产。Bittrex 还强调，SEC 在采取行动前没有提供充分的通知。https://cointelegraph.com/news/bittrex-challenges-sec-authority-crypto-lawsuit-seeks-dismissal",
@@ -163,36 +203,6 @@
           "publishedOn": "2023-07-02T03:19:23.000Z",
           "wordCount": null,
           "title": "Re 截至 11:10，黑客（0xe0...a599）已将 Metis 链上 BNB 和 BUSD、Ethereum 链上 ETH 和FEI、TRIBE 等十余种资产转移至新地址中。增发资产一览：https://1drv.m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1675337105801891840",
-          "author": "吴说区块链",
-          "description": "Re 据 Benson: 一些被盗资金（80万美元）已桥接到以太坊地址。https://twitter.com/BeosinAlert/status/1675335846000578561\n\nBeosin Alert: 🚨Poly Network was exploited again after 2021. \nThe hacker minted over $34B worth of assets on multiple chains.\nSome of the stolen funds ($800k) are bridged to Ethereum address:\nhttps://etherscan.io/address/0xe0Afadad1d93704761c8550F21A53DE3468Ba599 https://t.co/OK3ldcnARm",
-          "link": "https://twitter.com/wublockchain12/status/1675337105801891840",
-          "publishedOn": "2023-07-02T02:54:26.000Z",
-          "wordCount": null,
-          "title": "Re 据 Benson: 一些被盗资金（80万美元）已桥接到以太坊地址。https://twitter.com/BeosinAlert/status/1675335846000578561",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1675336255863914501",
-          "author": "吴说区块链",
-          "description": "吴说获悉，财联社发布的\" 2023 年上半年全球主要资产涨跌榜\"数据显示，比特币在全球主要资产标的中表现排名第一，涨幅为 83.81%，远高于第二名纳斯达克指数（涨幅为 31.73%）。比特币 1 月初价格曾长期徘徊在1.6 万美金左右，近期多次突破 3 万美金。https://finance.sina.com.cn/jjxw/2023-07-01/doc-imyzcxss6992456.shtml https://twitter.com/i/web/status/1675336255863914501",
-          "link": "https://twitter.com/wublockchain12/status/1675336255863914501",
-          "publishedOn": "2023-07-02T02:51:04.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，财联社发布的\" 2023 年上半年全球主要资产涨跌榜\"数据显示，比特币在全球主要资产标的中表现排名第一，涨幅为 83.81%，远高于第二名纳斯达克指数（涨...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1675335348371726337",
-          "author": "吴说区块链",
-          "description": "Re 需要注意的是，PolyNetwork 流动性不足，绝大部分 BNB 与 BUSD 应无法跨链跨出。https://debank.com/profile/0xe0afadad1d93704761c8550f21a53de3468ba599?chain=",
-          "link": "https://twitter.com/wublockchain12/status/1675335348371726337",
-          "publishedOn": "2023-07-02T02:47:27.000Z",
-          "wordCount": null,
-          "title": "Re 需要注意的是，PolyNetwork 流动性不足，绝大部分 BNB 与 BUSD 应无法跨链跨出。https://debank.com/profile/0xe0afadad1d93704761c8550f21a53de3468ba599?ch...",
           "imageUrl": null
         }
       ]
