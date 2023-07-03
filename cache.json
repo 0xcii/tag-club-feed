@@ -400,6 +400,26 @@
       "siteUrl": "https://twitter.com/AntCaveClub",
       "articles": [
         {
+          "id": "https://twitter.com/AntCaveClub/status/1675680545978880001",
+          "author": "链求君 | (C,C)",
+          "description": "Re @bishengkegs 大哥, 我也不知道你怎么做到的.  我关注几百人, 刷推 10 条之内必有你....",
+          "link": "https://twitter.com/AntCaveClub/status/1675680545978880001",
+          "publishedOn": "2023-07-03T01:39:09.000Z",
+          "wordCount": null,
+          "title": "Re @bishengkegs 大哥, 我也不知道你怎么做到的. 我关注几百人, 刷推 10 条之内必有你....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1675679220075491328",
+          "author": "链求君 | (C,C)",
+          "description": "加密趋势依然处于深度熊市📉  现在可能是好的入场时机. https://t.co/uYvqPeH1jm",
+          "link": "https://twitter.com/AntCaveClub/status/1675679220075491328",
+          "publishedOn": "2023-07-03T01:33:53.000Z",
+          "wordCount": null,
+          "title": "加密趋势依然处于深度熊市📉 现在可能是好的入场时机. https://t.co/uYvqPeH1jm",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/AntCaveClub/status/1675449577921744896",
           "author": "链求君 | (C,C)",
           "description": "英格兰准备每个月每人发2000$给公民。 而我们还在刺激消费。。。 https://twitter.com/unusual_whales/status/1675334969126711297 https://t.co/gbXGnKRdOi\n\n\nunusual_whales: BREAKING: Universal basic income of nearly $2,000 a month to be trialed in England for the first time",
@@ -560,16 +580,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/AntCaveClub/status/1672537255985160196",
-          "author": "链求君 | (C,C)",
-          "description": "Re @sanyuan2016 你是懂幽默的, 🤣",
-          "link": "https://twitter.com/AntCaveClub/status/1672537255985160196",
-          "publishedOn": "2023-06-24T09:28:50.000Z",
-          "wordCount": null,
-          "title": "Re @sanyuan2016 你是懂幽默的, 🤣",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/WeAreMessi/status/1672536611475849217",
           "author": "链求君 | (C,C)",
           "description": "RT Leo Messi 🔟 Fan Club\nPSG wishing Leo Messi on his 36th birthday! 🐐 \n#HappyBirthdayMessi #Messi #Messi𓃵 #HappyBdayMessi #Messi36 #MakeItCount \nhttps://t.co/oHvHl5X0j4",
@@ -577,16 +587,6 @@
           "publishedOn": "2023-06-24T09:26:17.000Z",
           "wordCount": null,
           "title": "RT Leo Messi 🔟 Fan Club: PSG wishing Leo Messi on his 36th birthday! 🐐 #HappyBirthdayMessi #Messi #Messi𓃵 #HappyBdayMessi #Messi36 #MakeItCou...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/unusual_whales/status/1672431599345082368",
-          "author": "链求君 | (C,C)",
-          "description": "RT unusual_whales\nBREAKING: Wagner is reportedly in the process of taking key areas in Rostov-on-Don. https://t.co/O7wRGUX6M5",
-          "link": "https://twitter.com/unusual_whales/status/1672431599345082368",
-          "publishedOn": "2023-06-24T02:29:00.000Z",
-          "wordCount": null,
-          "title": "RT unusual_whales: BREAKING: Wagner is reportedly in the process of taking key areas in Rostov-on-Don. https://t.co/O7wRGUX6M5",
           "imageUrl": null
         },
         {
@@ -1161,12 +1161,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
