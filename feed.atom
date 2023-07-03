@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-03T13:24:03.557Z</id>
+    <id>urn:2023-07-03T14:13:02.364Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-03T13:24:03.557Z</updated>
+    <updated>2023-07-03T14:13:02.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re BRC-69 保留了所有链上资源，并实现了 90% 以上的区块空间优化，该过程包括四个步骤：铭文特征、部署集合、编译集合以及铸造资产。该过程不需要外部索引器，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675863939199168512</id>
+        <link href="https://twitter.com/wublockchain12/status/1675863939199168512"/>
+        <updated>2023-07-03T13:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Re BRC-69 保留了所有链上资源，并实现了 90% 以上的区块空间优化，该过程包括四个步骤：铭文特征、部署集合、编译集合以及铸造资产。该过程不需要外部索引器，已经实现了递归铭文的所有前端界面将自动渲染图像。https://twitter.com/luminexio/status/1675832800761778183?s=20
+
+Luminex: 🟨 (1/7) GM! Today, we're excited to introduce BRC69, a revolutionary standard for creating Recursive #Ordinals collections with ease. This standard will be instrumental in launching Recursive collections on Bitcoin. 
+More details here: https://github.com/luminexord/brc69
+🧵👇 https://t.co/jmzSMVOYme]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，比特币 Ordinals Launchpad 平台 Luminex 宣布推出新的序数集合标准：BRC-69，该标准利用递归铭文优化 Ordinals 协议在比特币铭文的成本，可以轻松在...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1675863835549511685</id>
+        <link href="https://twitter.com/wublockchain12/status/1675863835549511685"/>
+        <updated>2023-07-03T13:47:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，比特币 Ordinals Launchpad 平台 Luminex 宣布推出新的序数集合标准：BRC-69，该标准利用递归铭文优化 Ordinals 协议在比特币铭文的成本，可以轻松在比特币上创建递归集合。此外，BRC-69 还带来了更高的灵活性，为预开图的收藏品发布和链上开图等功能提供了可能。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @crypto_condom Non sequitur. Think u missed the point of the tweet.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1675855581377187842</id>
@@ -270,16 +294,6 @@ Thanks to a community member for providing a source of information]]></summary>
 Beosin Alert: @PolyNetwork2 exploiter has swapped a total of 5,196 $ETH (~$10.1M) on Ethereum.
 Other tokens (~$260 million) may not be cashed out by the attacker due to low liqudity.
 The fees for these addresses on Ethereum are from @Bybit_Official, @kucoincom, @FixedFloat, @ChangeNOW_io https://t.co/rTxIvY993P]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布将于2023年07月05日11:00（东八区时间）移除以下现货交易对并停止交易： POWR/BUSD、QKC/BUSD、SC/BUSD、STEEM/BUSD。https://t.me/binance_c...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1675785969646329857</id>
-        <link href="https://twitter.com/wublockchain12/status/1675785969646329857"/>
-        <updated>2023-07-03T08:38:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布将于2023年07月05日11:00（东八区时间）移除以下现货交易对并停止交易： POWR/BUSD、QKC/BUSD、SC/BUSD、STEEM/BUSD。https://t.me/binance_cn/4955 https://twitter.com/i/web/status/1675785969646329857]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>

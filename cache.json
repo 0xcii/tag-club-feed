@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1675863939199168512",
+          "author": "吴说区块链",
+          "description": "Re BRC-69 保留了所有链上资源，并实现了 90% 以上的区块空间优化，该过程包括四个步骤：铭文特征、部署集合、编译集合以及铸造资产。该过程不需要外部索引器，已经实现了递归铭文的所有前端界面将自动渲染图像。https://twitter.com/luminexio/status/1675832800761778183?s=20\n\nLuminex: 🟨 (1/7) GM! Today, we're excited to introduce BRC69, a revolutionary standard for creating Recursive #Ordinals collections with ease. This standard will be instrumental in launching Recursive collections on Bitcoin. \nMore details here: https://github.com/luminexord/brc69\n🧵👇 https://t.co/jmzSMVOYme",
+          "link": "https://twitter.com/wublockchain12/status/1675863939199168512",
+          "publishedOn": "2023-07-03T13:47:53.000Z",
+          "wordCount": null,
+          "title": "Re BRC-69 保留了所有链上资源，并实现了 90% 以上的区块空间优化，该过程包括四个步骤：铭文特征、部署集合、编译集合以及铸造资产。该过程不需要外部索引器，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1675863835549511685",
+          "author": "吴说区块链",
+          "description": "吴说获悉，比特币 Ordinals Launchpad 平台 Luminex 宣布推出新的序数集合标准：BRC-69，该标准利用递归铭文优化 Ordinals 协议在比特币铭文的成本，可以轻松在比特币上创建递归集合。此外，BRC-69 还带来了更高的灵活性，为预开图的收藏品发布和链上开图等功能提供了可能。",
+          "link": "https://twitter.com/wublockchain12/status/1675863835549511685",
+          "publishedOn": "2023-07-03T13:47:29.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，比特币 Ordinals Launchpad 平台 Luminex 宣布推出新的序数集合标准：BRC-69，该标准利用递归铭文优化 Ordinals 协议在比特币铭文的成本，可以轻松在...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1675830026460360704",
           "author": "吴说区块链",
           "description": "Re 吴说获悉，AzukiDAO 发推回应确认了该事件，表示将关闭领取窗口，并决定提出将所有代币转移到 DAO 金库的提案，然后将从社区中选出多签贡献者。https://twitter.com/_AzukiDAO/status/1675826128030953473?s=20\n\nAzukiDAO: Yes, and then we close the claiming window and decide to make a proposal that transfer all the tokens to the DAO treasury, and then we will elect the muti-sign contributor from the community. https://twitter.com/metasleuth/status/1675783739174166528",
@@ -183,16 +203,6 @@
           "publishedOn": "2023-07-03T08:47:18.000Z",
           "wordCount": null,
           "title": "Re 据Beosin Alert监测，PolyNetwork攻击者已在以太坊上兑换了 5,196 ETH（约 1010 万美元）。由于流动性较低，攻击者可能无法兑现其他代币（约 2.6 亿美元）。h...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1675785969646329857",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安宣布将于2023年07月05日11:00（东八区时间）移除以下现货交易对并停止交易： POWR/BUSD、QKC/BUSD、SC/BUSD、STEEM/BUSD。https://t.me/binance_cn/4955 https://twitter.com/i/web/status/1675785969646329857",
-          "link": "https://twitter.com/wublockchain12/status/1675785969646329857",
-          "publishedOn": "2023-07-03T08:38:04.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，币安宣布将于2023年07月05日11:00（东八区时间）移除以下现货交易对并停止交易： POWR/BUSD、QKC/BUSD、SC/BUSD、STEEM/BUSD。https://t.me/binance_c...",
           "imageUrl": null
         }
       ]
@@ -1171,6 +1181,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
