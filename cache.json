@@ -420,6 +420,16 @@
       "siteUrl": "https://twitter.com/AntCaveClub",
       "articles": [
         {
+          "id": "https://twitter.com/AntCaveClub/status/1677125328794443776",
+          "author": "链求君 | (C,C)",
+          "description": "Re @sanyuan2016 我最讨厌这个跨链桥, 迟早出问题. 他出过很多次问题了. 而且每次都不在乎用户想法.",
+          "link": "https://twitter.com/AntCaveClub/status/1677125328794443776",
+          "publishedOn": "2023-07-07T01:20:12.000Z",
+          "wordCount": null,
+          "title": "Re @sanyuan2016 我最讨厌这个跨链桥, 迟早出问题. 他出过很多次问题了. 而且每次都不在乎用户想法.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/dYdX/status/1676637165965701120",
           "author": "链求君 | (C,C)",
           "description": "RT dYdX\nv4 Testnet is officially live 🚀🚀\nhttps://dydx.exchange/blog/public-testnet\nHere are all the links you may need for easy access!\nPublic Testnet: https://v4.testnet.dydx.exchange/\nTestnet Status Page: https://status.v4testnet.dydx.exchange/\nv4 Documentation: https://v4-teacher.vercel.app/\nFeedback and Block Explorer links👇",
@@ -608,16 +618,6 @@
           "wordCount": null,
           "title": "加密趋势依然处于深度熊市📉 现在可能是好的入场时机. https://t.co/uYvqPeH1jm",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1675449577921744896",
-          "author": "链求君 | (C,C)",
-          "description": "英格兰准备每个月每人发2000$给公民。 而我们还在刺激消费。。。 https://twitter.com/unusual_whales/status/1675334969126711297 https://t.co/gbXGnKRdOi\n\n\nunusual_whales: BREAKING: Universal basic income of nearly $2,000 a month to be trialed in England for the first time",
-          "link": "https://twitter.com/AntCaveClub/status/1675449577921744896",
-          "publishedOn": "2023-07-02T10:21:22.000Z",
-          "wordCount": null,
-          "title": "英格兰准备每个月每人发2000$给公民。 而我们还在刺激消费。。。 https://twitter.com/unusual_whales/status/1675334969126711297 https://t.co/gbXGnKRdOi",
-          "imageUrl": null
         }
       ]
     },
@@ -796,11 +796,11 @@
         {
           "id": "https://twitter.com/OnChainWizard/status/1676427750884737024",
           "author": "Onchain Wizard",
-          "description": "This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368\n\nOnChain Apprentice: 1/\nHello world👋\nI am a big fans of @OnChainWizard, have been using the tool @ChainEDGE_io since its launch\nI wanna do an experimental portfolio tracking by using ChainEdge's insight\nMy public address on it: 0x8befd2eda9ba5c66ffe1518b4ae4e8b8ff2f82aa",
+          "description": "This is alfa\n\nOnChain Apprentice: 1/\nHello world👋\nI am a big fans of @OnChainWizard, have been using the tool @ChainEDGE_io since its launch\nI wanna do an experimental portfolio tracking by using ChainEdge's insight\nMy public address on it: 0x8befd2eda9ba5c66ffe1518b4ae4e8b8ff2f82aa",
           "link": "https://twitter.com/OnChainWizard/status/1676427750884737024",
           "publishedOn": "2023-07-05T03:08:16.000Z",
           "wordCount": null,
-          "title": "This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368",
+          "title": "This is alfa",
           "imageUrl": null
         },
         {
@@ -1053,11 +1053,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1676990284314611716",
           "author": "Surfer",
-          "description": "Good illustration of why commodities like oil tend to be shitty investments over time https://twitter.com/corry_wang/status/1676947769456508928\n\nCorry Wang: It’s always fascinating to be reminded that Moore’s law applies to power consumption as much as it does to dollar cost\nFrom 2016 to 2020, Telefonica and Cogent’s datacenters tripled their served traffic, while energy consumption fell by -2% and -50% (!) respectively https://t.co/NSDVaCoROU",
+          "description": "Good illustration of why commodities like oil tend to be shitty investments over time\n\nCorry Wang: It’s always fascinating to be reminded that Moore’s law applies to power consumption as much as it does to dollar cost\nFrom 2016 to 2020, Telefonica and Cogent’s datacenters tripled their served traffic, while energy consumption fell by -2% and -50% (!) respectively https://t.co/NSDVaCoROU",
           "link": "https://twitter.com/DeFiSurfer808/status/1676990284314611716",
           "publishedOn": "2023-07-06T16:23:35.000Z",
           "wordCount": null,
-          "title": "Good illustration of why commodities like oil tend to be shitty investments over time https://twitter.com/corry_wang/status/1676947769456508928",
+          "title": "Good illustration of why commodities like oil tend to be shitty investments over time",
           "imageUrl": null
         },
         {
@@ -1093,7 +1093,7 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1676977938678575104",
           "author": "Surfer",
-          "description": "Re @Anointed_Ape @brynkahrl Positioning https://twitter.com/defisurfer808/status/1675970099654586368?s=46&t=_sZ6xyyOBuoMYsKE6B_heA\n\nSurfer: Great piece from Fallacy.\nHadn’t considered that the yield curve inversion is being exaggerated by positioning, with investors piling into long bonds. Fantastic insight. https://twitter.com/fallacyalarm/status/1675844361324580870 https://t.co/gNAIRBjUaJ",
+          "description": "Re @Anointed_Ape @brynkahrl Positioning https://twitter.com/defisurfer808/status/1675970099654586368?s=46&t=_sZ6xyyOBuoMYsKE6B_heA\n\nSurfer: Great piece from Fallacy.\nHadn’t considered that the yield curve inversion is being exaggerated by positioning, with investors piling into long bonds. Fantastic insight. https://t.co/gNAIRBjUaJ",
           "link": "https://twitter.com/DeFiSurfer808/status/1676977938678575104",
           "publishedOn": "2023-07-06T15:34:31.000Z",
           "wordCount": null,
@@ -1173,11 +1173,11 @@
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1676718592224792577",
           "author": "Surfer",
-          "description": "Stock yield was less than Fed Funds for most of the 90’s… https://twitter.com/theshortbear/status/1676683187769024512\n\nTHE SHORT BEAR: Treasury yields vs Nasdaq/S&P500.\nI see an increasing amount of charts calling for a large correction in the Nasdaq specifically due to the lack of cooperation from the 10y treasuries\nTruth is over the past 50y,the correlation was a mere 0.0816 for Nasdaq and 0.0464 for the S&P https://t.co/3e1IOKodPk",
+          "description": "Stock yield was less than Fed Funds for most of the 90’s…\n\nTHE SHORT BEAR: Treasury yields vs Nasdaq/S&P500.\nI see an increasing amount of charts calling for a large correction in the Nasdaq specifically due to the lack of cooperation from the 10y treasuries\nTruth is over the past 50y,the correlation was a mere 0.0816 for Nasdaq and 0.0464 for the S&P https://t.co/3e1IOKodPk",
           "link": "https://twitter.com/DeFiSurfer808/status/1676718592224792577",
           "publishedOn": "2023-07-05T22:23:58.000Z",
           "wordCount": null,
-          "title": "Stock yield was less than Fed Funds for most of the 90’s… https://twitter.com/theshortbear/status/1676683187769024512",
+          "title": "Stock yield was less than Fed Funds for most of the 90’s…",
           "imageUrl": null
         },
         {
