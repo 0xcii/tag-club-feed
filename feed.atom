@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T09:14:19.338Z</id>
+    <id>urn:2023-07-07T10:15:21.241Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T09:14:19.338Z</updated>
+    <updated>2023-07-07T10:15:21.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[摩根大通表示，美国 SEC 批准现货比特币 ETF 不会改变加密货币市场的游戏规则。报告称，此类 ETF 在加拿大和欧洲已经存在了一段时间，但未能吸引大量投资者的兴...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677256604927037440</id>
+        <link href="https://twitter.com/wublockchain12/status/1677256604927037440"/>
+        <updated>2023-07-07T10:01:51.000Z</updated>
+        <summary type="html"><![CDATA[摩根大通表示，美国 SEC 批准现货比特币 ETF 不会改变加密货币市场的游戏规则。报告称，此类 ETF 在加拿大和欧洲已经存在了一段时间，但未能吸引大量投资者的兴趣；实物支持的比特币 ETF 比期货基金具有一些优势，但这些优势相当有限。尽管SEC尚未批准此类… https://twitter.com/i/web/status/1677256604927037440]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨链桥 TOKI 和代币发行协议 Noble 将与日本最大的银行 MUFG 发起的 Progmat 项目合作，将完全抵押的日元稳定币引入 Cosmos 生态。Progmat 正在构建一个平台，使...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677243341078134785</id>
+        <link href="https://twitter.com/wublockchain12/status/1677243341078134785"/>
+        <updated>2023-07-07T09:09:08.000Z</updated>
+        <summary type="html"><![CDATA[跨链桥 TOKI 和代币发行协议 Noble 将与日本最大的银行 MUFG 发起的 Progmat 项目合作，将完全抵押的日元稳定币引入 Cosmos 生态。Progmat 正在构建一个平台，使银行和受监管的金融机构存入等量法币后能够发行自己的稳定币。 根据 6 月 1 日生效的日本稳定币法，利用 Progmat 的稳定币预计将于 2024… https://twitter.com/i/web/status/1677243341078134785]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Loki_Zeng 据 0xScope 监测，Multichain 事件的影响已延伸到 Fantom、Moonriver、Kava、Dogechain、Conflux 和 ETHW 生态，目前这些链上的多种稳定币资产已...]]></title>
         <id>https://twitter.com/wublockchain12/status/1677211629489106944</id>
@@ -219,26 +239,6 @@ Please don’t use the Multichain bridging service now. https://twitter.com/i/we
         <link href="https://twitter.com/wublockchain12/status/1677137977708003328"/>
         <updated>2023-07-07T02:10:28.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，比特币闪电网络开发商 Lightning Labs 宣布推出一套新的开发者工具，使人工智能开发人员能够构建无缝结合闪电网络和比特币的 LLM（大型语言模型）工具。这些工具基于L402 协议（一种闪电本机身份验证机制）和 Langchain （一种流行的库）构建… https://twitter.com/i/web/status/1677137977708003328]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，借贷协议 Aave 发布在 Linea 测试网上部署 Aave V3 的投票，以作为即将到来的主网部署过渡，目前已获得 240k 99.98% 的同意票。该提案中表示，Linea ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677131544329347072</id>
-        <link href="https://twitter.com/wublockchain12/status/1677131544329347072"/>
-        <updated>2023-07-07T01:44:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，借贷协议 Aave 发布在 Linea 测试网上部署 Aave V3 的投票，以作为即将到来的主网部署过渡，目前已获得 240k 99.98% 的同意票。该提案中表示，Linea 在公共测试版中处理了超过 3300 万笔交易，拥有 430 万个独立地址以及部署了超过 180 万个合约；Consensys 正在为预计于 7 月份发布的 Linea… https://twitter.com/i/web/status/1677131544329347072]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，黄立成在 ApeCoin 论坛发布提案，收购 1000 BAYC 2000 MUtants TBDDoggies 和 Punks 以及其他的 NFT 艺术品，将它们送到世界各地的博物馆。可以将其中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677130974629621765</id>
-        <link href="https://twitter.com/wublockchain12/status/1677130974629621765"/>
-        <updated>2023-07-07T01:42:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，黄立成在 ApeCoin 论坛发布提案，收购 1000 BAYC 2000 MUtants TBDDoggies 和 Punks 以及其他的 NFT 艺术品，将它们送到世界各地的博物馆。可以将其中一些 NFT 捐赠给世界各地著名博物馆的永久收藏。主要藏品将留在 DAO 进行全球巡回展览。该系列将有一个名称，以及由 Apecoin 提供支持的… https://twitter.com/i/web/status/1677130974629621765]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -588,11 +588,11 @@ Feedback and Block Explorer links👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is alfa]]></title>
+        <title type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368]]></title>
         <id>https://twitter.com/OnChainWizard/status/1676427750884737024</id>
         <link href="https://twitter.com/OnChainWizard/status/1676427750884737024"/>
         <updated>2023-07-05T03:08:16.000Z</updated>
-        <summary type="html"><![CDATA[This is alfa
+        <summary type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368
 
 OnChain Apprentice: 1/
 Hello world👋
