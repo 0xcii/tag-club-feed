@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T12:29:48.842Z</id>
+    <id>urn:2023-07-07T13:22:28.440Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T12:29:48.842Z</updated>
+    <updated>2023-07-07T13:22:28.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[从 Polygon 剥离出来的模块化扩展方案 Avail 推出新产品“数据证明桥”，旨在降低以太坊生态中 L2 和 L3 的成本，有助于保护链下数据。其连接到以太坊，并且可以...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677300948941828096</id>
+        <link href="https://twitter.com/wublockchain12/status/1677300948941828096"/>
+        <updated>2023-07-07T12:58:03.000Z</updated>
+        <summary type="html"><![CDATA[从 Polygon 剥离出来的模块化扩展方案 Avail 推出新产品“数据证明桥”，旨在降低以太坊生态中 L2 和 L3 的成本，有助于保护链下数据。其连接到以太坊，并且可以被以太坊作为基础层的 ZK-rollups和Optimistic rollups使用。据称，当 L3 或 validium 将交易数据发送到 Avail… https://twitter.com/i/web/status/1677300948941828096]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wabuffo Lol]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1677298006322978823</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1677298006322978823"/>
+        <updated>2023-07-07T12:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @wabuffo Lol]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国公布 6 月季调后非农就业人口录得增加 20.9万人，预期 23万人，前值 33.9万人；6 月失业率 3.6%，预期 3.6%，前值 3.7%。 https://twitter.com/i/...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677295308928356352</id>
+        <link href="https://twitter.com/wublockchain12/status/1677295308928356352"/>
+        <updated>2023-07-07T12:35:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国公布 6 月季调后非农就业人口录得增加 20.9万人，预期 23万人，前值 33.9万人；6 月失业率 3.6%，预期 3.6%，前值 3.7%。 https://twitter.com/i/web/status/1677295308928356352]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密货币交易所是否会涉嫌开设赌场罪？（作者：初焱）二元期权仅以涨跌方向决定其投注的盈亏，可能存在风险；明知其合作方为赌博网站，为其提供资金支付结算的OT...]]></title>
         <id>https://twitter.com/wublockchain12/status/1677285928866557954</id>
@@ -191,26 +221,6 @@ Please don’t use the Multichain bridging service now. https://twitter.com/i/we
         <summary type="html"><![CDATA[I just signed up for the Dolpin Atlantiq Pass allowlist on HeyMint! Get your spot here: https://heymint.xyz/dolpin-atlantiq-pass]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳理：Multichain 事件时间表一览: 1.25 亿资产神秘流出，跨链桥已暂停；曾获币安红杉投资，其总交易额已突破 1000 亿美元，连通 83 条公链，支持超过 3400 种资...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677172062497169412</id>
-        <link href="https://twitter.com/wublockchain12/status/1677172062497169412"/>
-        <updated>2023-07-07T04:25:54.000Z</updated>
-        <summary type="html"><![CDATA[梳理：Multichain 事件时间表一览: 1.25 亿资产神秘流出，跨链桥已暂停；曾获币安红杉投资，其总交易额已突破 1000 亿美元，连通 83 条公链，支持超过 3400 种资产跨链，跨链流动性超过 18 亿美元；5月官方表示突然无法联系到 CEO Zhaojun。阅读全文：https://mp.weixin.qq.com/s/7xukXugrFpUP5s6EcrbvuQ]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据彭博社，币安首席商务官 Yibo Ling 是离开的美国员工之一。知情人士称，在 6 月份的年中绩效评估中，多位员工被问及是否愿意调动，其中一些拒绝...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677168369257291776</id>
-        <link href="https://twitter.com/wublockchain12/status/1677168369257291776"/>
-        <updated>2023-07-07T04:11:14.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据彭博社，币安首席商务官 Yibo Ling 是离开的美国员工之一。知情人士称，在 6 月份的年中绩效评估中，多位员工被问及是否愿意调动，其中一些拒绝的员工被解雇。 早先吴说独家披露了币安在 6 月进行的大规模人员优化。https://www.bloomberg.com/news/articles/2023-07-06/binance-executive-patrick-hillmann-us-employees-leave-as-crisis-deepens]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -496,20 +506,6 @@ Why is wage growth falling if the labor market is so hot?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stock yield was less than Fed Funds for most of the 90’s…]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1676718592224792577</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1676718592224792577"/>
-        <updated>2023-07-05T22:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Stock yield was less than Fed Funds for most of the 90’s…
-
-THE SHORT BEAR: Treasury yields vs Nasdaq/S&P500.
-I see an increasing amount of charts calling for a large correction in the Nasdaq specifically due to the lack of cooperation from the 10y treasuries
-Truth is over the past 50y,the correlation was a mere 0.0816 for Nasdaq and 0.0464 for the S&P https://t.co/3e1IOKodPk]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT dYdX: v4 Testnet is officially live 🚀🚀 https://dydx.exchange/blog/public-testnet Here are all the links you may need for easy access! Public ...]]></title>
         <id>https://twitter.com/dYdX/status/1676637165965701120</id>
         <link href="https://twitter.com/dYdX/status/1676637165965701120"/>
@@ -588,11 +584,11 @@ Feedback and Block Explorer links👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368]]></title>
+        <title type="html"><![CDATA[This is alfa]]></title>
         <id>https://twitter.com/OnChainWizard/status/1676427750884737024</id>
         <link href="https://twitter.com/OnChainWizard/status/1676427750884737024"/>
         <updated>2023-07-05T03:08:16.000Z</updated>
-        <summary type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368
+        <summary type="html"><![CDATA[This is alfa
 
 OnChain Apprentice: 1/
 Hello world👋
