@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T22:12:37.902Z</id>
+    <id>urn:2023-07-08T23:13:35.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-08T22:12:37.902Z</updated>
+    <updated>2023-07-08T23:13:35.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,11 +46,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641]]></title>
+        <title type="html"><![CDATA[希望听到你们的好消息...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1677626350038048768</id>
         <link href="https://twitter.com/AntCaveClub/status/1677626350038048768"/>
         <updated>2023-07-08T10:31:05.000Z</updated>
-        <summary type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641
+        <summary type="html"><![CDATA[希望听到你们的好消息...
 
 Multichain (Previously Anyswap): The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. 
 There is no confirmed resume time.
