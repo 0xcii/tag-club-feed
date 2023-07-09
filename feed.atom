@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T05:13:10.486Z</id>
+    <id>urn:2023-07-09T06:17:29.543Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-09T05:13:10.486Z</updated>
+    <updated>2023-07-09T06:17:29.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @CensoredMen Based]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1677912891289223172</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1677912891289223172"/>
+        <updated>2023-07-09T05:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @CensoredMen Based]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一周热门项目动态: Uniswap v4 即将上线、Blur V2 宣布推出、AzukiDao 治理合约被攻击等（0702-0708） https://www.wu-talk.com/index.php?m=content&c=index&a=...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677910030983606277</id>
+        <link href="https://twitter.com/wublockchain12/status/1677910030983606277"/>
+        <updated>2023-07-09T05:18:20.000Z</updated>
+        <summary type="html"><![CDATA[一周热门项目动态: Uniswap v4 即将上线、Blur V2 宣布推出、AzukiDao 治理合约被攻击等（0702-0708）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15945]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @bcrypt5 数据面板，近期 Bitcoin Ordinals Inscriptions 铸造数迎来强劲反弹，7 月 8 日 Inscriptions 单日铸造数达 35 万个，为 5 月 14 日以来...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1677900696845266946</id>
+        <link href="https://twitter.com/wublockchain12/status/1677900696845266946"/>
+        <updated>2023-07-09T04:41:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @bcrypt5 数据面板，近期 Bitcoin Ordinals Inscriptions 铸造数迎来强劲反弹，7 月 8 日 Inscriptions 单日铸造数达 35 万个，为 5 月 14 日以来高点，但支付的费用却仅为 2.5 BTC，这或得益于递归铭文和 BRC-69 的推出，优化了铸造成本。值得注意的是，同日以应用（application）铸造的… https://twitter.com/i/web/status/1677900696845266946]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/ErigonEth/status/1677731373262446597]]></title>
         <id>https://twitter.com/wublockchain12/status/1677855889468936193</id>
@@ -121,11 +152,11 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15940]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[希望听到你们的好消息...]]></title>
+        <title type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641]]></title>
         <id>https://twitter.com/AntCaveClub/status/1677626350038048768</id>
         <link href="https://twitter.com/AntCaveClub/status/1677626350038048768"/>
         <updated>2023-07-08T10:31:05.000Z</updated>
-        <summary type="html"><![CDATA[希望听到你们的好消息...
+        <summary type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641
 
 Multichain (Previously Anyswap): The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. 
 There is no confirmed resume time.
@@ -235,26 +266,6 @@ https://platform.arkhamintelligence.com/explorer/entity/justin-sun]]></summary>
         <summary type="html"><![CDATA[吴说获悉，据链上数据，在短暂地离开后，Blur 积分榜第一名的 NFT 巨鲸（0xCB…4C82）已再度回归，近两日其向 Blur：Bid Pool 中存入了 900 ETH，近 24 小时其积分高达 8,200 再度登顶榜首。目前该巨鲸已实现损失扩大至 7,380 ETH。值得注意的是，此前其从 Blur 中撤出的 7,842.29 ETH，有 3,200 ETH… https://twitter.com/i/web/status/1677533383218569217
 
 吴说区块链: 吴说获悉，据链上数据，在 Blur V2 推出后，Blur 首位总积分超过 90 万、排名第一的 NFT 巨鲸（0xCB…4C82）从 Blur Bdi Pool 中撤出了 7,842.29 ETH（约 1494 万美元）。该巨鲸一人便约占了 Blur TVL 的 10%，Blur 积分的 8%；目前该巨鲸从 Blur Farming 中已实现损失超过 6,930 ETH，目前已没有任何… https://twitter.com/i/web/status/1676778025487310848]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，NYDIG 分析认为，SEC 对币安、Coinbase 的诉讼可能需要很多年才会解决；SEC 和 Ripple Labs 之间备受关注的诉讼始于 2.5 年前，至今仍未做出决定；最...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677507362268262402</id>
-        <link href="https://twitter.com/wublockchain12/status/1677507362268262402"/>
-        <updated>2023-07-08T02:38:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，NYDIG 分析认为，SEC 对币安、Coinbase 的诉讼可能需要很多年才会解决；SEC 和 Ripple Labs 之间备受关注的诉讼始于 2.5 年前，至今仍未做出决定；最近提交的案件的结果可能要等很多年才能知道，并且可能跨越 SEC 主席（Gensler 的任期于 2026 年 6 月 5… https://twitter.com/i/web/status/1677507362268262402]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，有媒体发布“Fantom基金会正在向所有受影响的用户紧急分发FTM”的消息，经吴说验证该消息来源为欺诈账号。吴说提醒用户注意安全，不要点击陌生链接。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677503671616307200</id>
-        <link href="https://twitter.com/wublockchain12/status/1677503671616307200"/>
-        <updated>2023-07-08T02:23:36.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，有媒体发布“Fantom基金会正在向所有受影响的用户紧急分发FTM”的消息，经吴说验证该消息来源为欺诈账号。吴说提醒用户注意安全，不要点击陌生链接。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -562,16 +573,6 @@ Why is wage growth falling if the labor market is so hot?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MorganWBender Damn dude 🤦]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1676767911288147968</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1676767911288147968"/>
-        <updated>2023-07-06T01:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @MorganWBender Damn dude 🤦]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT dYdX: v4 Testnet is officially live 🚀🚀 https://dydx.exchange/blog/public-testnet Here are all the links you may need for easy access! Public ...]]></title>
         <id>https://twitter.com/dYdX/status/1676637165965701120</id>
         <link href="https://twitter.com/dYdX/status/1676637165965701120"/>
@@ -650,11 +651,11 @@ Feedback and Block Explorer links👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368]]></title>
+        <title type="html"><![CDATA[This is alfa]]></title>
         <id>https://twitter.com/OnChainWizard/status/1676427750884737024</id>
         <link href="https://twitter.com/OnChainWizard/status/1676427750884737024"/>
         <updated>2023-07-05T03:08:16.000Z</updated>
-        <summary type="html"><![CDATA[This is alfa https://twitter.com/onchainapprent1/status/1676304803398586368
+        <summary type="html"><![CDATA[This is alfa
 
 OnChain Apprentice: 1/
 Hello world👋
@@ -838,7 +839,7 @@ https://etherscan.io/dex/uniswapv3/0xae2aa61bf2183890b2883229e00c31819279f534 ht
         <updated>2023-07-01T21:26:47.000Z</updated>
         <summary type="html"><![CDATA[RT Mike Benz
 Wow. Musk has no idea the DARPA rattlesnake he just stepped on by this doing this…
-My take on @elonmusk’s new rate limit policy, from the lens of the censorship industry: https://twitter.com/elonmusk/status/1675187969420828672 https://t.co/Rw4KBZsT9O
+My take on @elonmusk’s new rate limit policy, from the lens of the censorship industry: https://t.co/Rw4KBZsT9O
 
 
 Elon Musk: To address extreme levels of data scraping & system manipulation, we’ve applied the following temporary limits:
@@ -1158,13 +1159,13 @@ there
 Are
 Not
 Enough 
-Coins. https://twitter.com/gametheorizing/status/1646905049812205568
+Coins.
 
 Jordi Alexander: People surprised by the ETH + BTC squeeze. Wait till you see what happens in 2024.
 Simple clarity-
 1. Only 2 tokens have crossed the chasm of being a crypto store of value.
 2. ETH supply has run out and BTC's is shrinking to under 1% soon.
-There. aren't. enough. coins. https://twitter.com/milesdeutscher/status/1605212345747111936]]></summary>
+There. aren't. enough. coins.]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
@@ -1202,7 +1203,7 @@ A Comprehensive Thread🧵👇 https://t.co/9Y6HwJECLe]]></summary>
         <updated>2023-06-16T20:34:00.000Z</updated>
         <summary type="html"><![CDATA[RT Justin Slaughter
 So, I respectfully disagree with Noelle on this one. I think BlackRock is doing this on the merits (seeking to get a bitcoin ETF approved) rather than trying to send a political message. 
-Bear with me, because this is complicated in terms of Democratic politics. https://twitter.com/NoelleInMadrid/status/1669624250804600832
+Bear with me, because this is complicated in terms of Democratic politics.
 
 Noelle Acheson: My take on the BlackRock BTC ETF filing:
 - **BIG** news - BlackRock is the world's largest asset manager
@@ -1294,15 +1295,15 @@ Something that’s a consensus long by society doesn’t print 10-100x’s.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C]]></title>
+        <title type="html"><![CDATA[https://t.co/BtM5Q9Hs8C]]></title>
         <id>https://twitter.com/DeFi_educator/status/1667826525494755329</id>
         <link href="https://twitter.com/DeFi_educator/status/1667826525494755329"/>
         <updated>2023-06-11T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/MikeBurgersburg/status/1667527022736801796 https://t.co/BtM5Q9Hs8C
+        <summary type="html"><![CDATA[https://t.co/BtM5Q9Hs8C
 
 
 DIRTY BUBBLE MEDIA: GOOD LUCK, GOOD BYE.: 🚨BINANCE CHANGED TERMS OF SERVICE:  EXCHANGE CAN NOW CONVERT DELISTED CRYPTO TO A DIFFERENT TYPE OF THEIR CHOOSING, WITHOUT ANY ADVANCE NOTICE.
-HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://twitter.com/jaypinho/status/1667485001359802369 https://t.co/YnTyoyxRNy]]></summary>
+HOPE Y’ALL ARE LOOKING FORWARD TO OWNING LOTS OF $BNB. https://t.co/YnTyoyxRNy]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
