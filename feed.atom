@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T17:11:45.742Z</id>
+    <id>urn:2023-07-09T18:16:34.275Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-09T17:11:45.742Z</updated>
+    <updated>2023-07-09T18:16:34.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bitget 发布第八次资产储备证明（快照日期 7-6），用户 BTC 资产为2311.23 枚，较上次（6-8）增长 7%，增加 150.24 枚 BTC；用户 ETH 资产为 1.12 万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1678067250862125059</id>
+        <link href="https://twitter.com/wublockchain12/status/1678067250862125059"/>
+        <updated>2023-07-09T15:43:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bitget 发布第八次资产储备证明（快照日期 7-6），用户 BTC 资产为2311.23 枚，较上次（6-8）增长 7%，增加 150.24 枚 BTC；用户 ETH 资产为 1.12 万枚，较上次增长 9%，增加 955.47 ETH；用户 USDT 资产为 3.46 亿枚，较上次增长 4%，增加 0.13 亿枚 USDT。
+https://www.bitgetapp.com/zh-CN/proof-of-reserves]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 K33 Research 最新数据，截至 2023 年 7 月，加密行业拥有近 19 万名员工。大约三分之一的加密员工在交易所或经纪公司工作。26% 的人在提供与加密...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1678063253954629632</id>
+        <link href="https://twitter.com/wublockchain12/status/1678063253954629632"/>
+        <updated>2023-07-09T15:27:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 K33 Research 最新数据，截至 2023 年 7 月，加密行业拥有近 19 万名员工。大约三分之一的加密员工在交易所或经纪公司工作。26% 的人在提供与加密货币相关的各种金融服务公司工作。只有 6% 的人从事 NFT 领域的工作。约 55%… https://twitter.com/i/web/status/1678063253954629632]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/unisat_wallet/status/1678051526705836033]]></title>
         <id>https://twitter.com/wublockchain12/status/1678058624277696512</id>
@@ -206,57 +227,17 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=15940]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Paradigm 发布以太坊客户端 Reth v0.1.0 alpha.2 版本，此版本修复了一些内存不足的问题，改进了引擎 API 的性能，修复了 RPC 中的极端情况。Reth 是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677640774396280832</id>
-        <link href="https://twitter.com/wublockchain12/status/1677640774396280832"/>
-        <updated>2023-07-08T11:28:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Paradigm 发布以太坊客户端 Reth v0.1.0 alpha.2 版本，此版本修复了一些内存不足的问题，改进了引擎 API 的性能，修复了 RPC 中的极端情况。Reth 是一个模块化、开发者友好的、高性能的以太坊节点，由 Paradigm 资助的 8 人核心团队以及 90 多个其他贡献者共同构建，使用 Rust… https://twitter.com/i/web/status/1677640774396280832]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641]]></title>
+        <title type="html"><![CDATA[希望听到你们的好消息...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1677626350038048768</id>
         <link href="https://twitter.com/AntCaveClub/status/1677626350038048768"/>
         <updated>2023-07-08T10:31:05.000Z</updated>
-        <summary type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641
+        <summary type="html"><![CDATA[希望听到你们的好消息...
 
 Multichain (Previously Anyswap): The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. 
 There is no confirmed resume time.
 Please don’t use the Multichain bridging service now. https://twitter.com/i/web/status/1677180114227056641]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，蚂蚁链宣布隐私协作平台 AntChain FAIR 进行全新架构升级，引入零知识证明（ZKP）为核心的可验证计算技术。蚂蚁链自称通过软件算法优化，使“证明生成...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677624809935753216</id>
-        <link href="https://twitter.com/wublockchain12/status/1677624809935753216"/>
-        <updated>2023-07-08T10:24:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，蚂蚁链宣布隐私协作平台 AntChain FAIR 进行全新架构升级，引入零知识证明（ZKP）为核心的可验证计算技术。蚂蚁链自称通过软件算法优化，使“证明生成”端到端加速到原有基线的 2.8 倍，以及加入了 zkWASM——一种新型零知识证明虚拟机。https://www.thepaper.cn/newsDetail_forward_23779515]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，香港财政司司长陈茂波在上海表示，在香港现在的“新阶段”，我们开辟了两个新赛道，一个是绿色金融，一个是Web3，包括虚拟资产：“这一块在不同地方前...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677613895144574976</id>
-        <link href="https://twitter.com/wublockchain12/status/1677613895144574976"/>
-        <updated>2023-07-08T09:41:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，香港财政司司长陈茂波在上海表示，在香港现在的“新阶段”，我们开辟了两个新赛道，一个是绿色金融，一个是Web3，包括虚拟资产：“这一块在不同地方前阵子出了一些事情，我们总结经验，原来出事的都是因为未有好好的监管，它在运营上出现不规矩的运营，比方说把自己的钱跟客户的钱混在一起，比… https://twitter.com/i/web/status/1677613895144574976]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 165 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了 EIP 6466 & 6406 的影响分析（将数据编码从 RLP 更新为...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1677611046100688896</id>
-        <link href="https://twitter.com/wublockchain12/status/1677611046100688896"/>
-        <updated>2023-07-08T09:30:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 165 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了 EIP 6466 & 6406 的影响分析（将数据编码从 RLP 更新为 SSZ，报告显示 LayerZero, zkBridge, 以及 Telepathy 协议受影响）、Deneb 测试工作进展（待 Devnet 7… https://twitter.com/i/web/status/1677611046100688896]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -545,11 +526,11 @@ Why is wage growth falling if the labor market is so hot?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能不能让我和我的偶像来一场比赛]]></title>
+        <title type="html"><![CDATA[能不能让我和我的偶像来一场比赛 https://twitter.com/binancezh/status/1676577817956610050]]></title>
         <id>https://twitter.com/8848Community/status/1676917801125306373</id>
         <link href="https://twitter.com/8848Community/status/1676917801125306373"/>
         <updated>2023-07-06T11:35:34.000Z</updated>
-        <summary type="html"><![CDATA[能不能让我和我的偶像来一场比赛
+        <summary type="html"><![CDATA[能不能让我和我的偶像来一场比赛 https://twitter.com/binancezh/status/1676577817956610050
 
 币安Binance中文频道: ForeverCR7: GOAT NFT 已在 #币安NFT 独家发售！
 集齐七种不同设计的普通级(N) #NFT ，即有机会与C罗一起训练。现在分享你热爱的运动的照片，就像C罗热爱足球一样，可免费集CR7 NFT！
@@ -882,11 +863,11 @@ Elon Musk: To address extreme levels of data scraping & system manipulation, w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://t.co/IXd3ayGp20]]></title>
+        <title type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://twitter.com/8848Community/status/1673322082300747777 https://t.co/IXd3ayGp20]]></title>
         <id>https://twitter.com/8848Community/status/1674411393217597441</id>
         <link href="https://twitter.com/8848Community/status/1674411393217597441"/>
         <updated>2023-06-29T13:35:59.000Z</updated>
-        <summary type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://t.co/IXd3ayGp20
+        <summary type="html"><![CDATA[恭喜@mqac01 @DevinZacharias @una3366 三位家人 私信我你们的地址~ https://twitter.com/8848Community/status/1673322082300747777 https://t.co/IXd3ayGp20
 
 
 8848 社区（8848 Community）: 时间飞逝，#币安 已经陪伴大家6年了。还记得当初认购的BNB可惜没拿住😭。6年很长又很短，我们还有更多个6年去探索 #Web3 的更多可能。
