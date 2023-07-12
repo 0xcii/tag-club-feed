@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T09:13:52.431Z</id>
+    <id>urn:2023-07-12T10:15:07.371Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T09:13:52.431Z</updated>
+    <updated>2023-07-12T10:15:07.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @knlae_ So the stocks pump first? Interesting observation]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1679068507588157440</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1679068507588157440"/>
+        <updated>2023-07-12T10:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @knlae_ So the stocks pump first? Interesting observation]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据 Whale Alert，Tether 今日在波场网络上增发 10 亿枚USDT。Tether 首席技术官 Paolo Ardoino 补充表示，这是一笔在波场网络已授权但未发行的交易。C...]]></title>
         <id>https://twitter.com/wublockchain12/status/1679039408459358208</id>
@@ -436,16 +446,6 @@ You really can’t understand how much better Tesla is than legacy automaker veh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @smoovie420 G is the best in the game fr]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1678524400478433280</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1678524400478433280"/>
-        <updated>2023-07-10T21:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @smoovie420 G is the best in the game fr]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The ebay for Onchain alpha is going live 18th of July love the idea!]]></title>
         <id>https://twitter.com/DeFi_educator/status/1678374326918168577</id>
         <link href="https://twitter.com/DeFi_educator/status/1678374326918168577"/>
@@ -537,11 +537,11 @@ ToE's Weekly Highlights #31
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641]]></title>
+        <title type="html"><![CDATA[希望听到你们的好消息...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1677626350038048768</id>
         <link href="https://twitter.com/AntCaveClub/status/1677626350038048768"/>
         <updated>2023-07-08T10:31:05.000Z</updated>
-        <summary type="html"><![CDATA[希望听到你们的好消息... https://twitter.com/MultichainOrg/status/1677180114227056641
+        <summary type="html"><![CDATA[希望听到你们的好消息...
 
 Multichain (Previously Anyswap): The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. 
 There is no confirmed resume time.
