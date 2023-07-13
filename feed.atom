@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T08:17:49.870Z</id>
+    <id>urn:2023-07-13T09:14:29.612Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T08:17:49.870Z</updated>
+    <updated>2023-07-13T09:14:29.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -484,6 +484,19 @@ Bitcoin down, coinbase down
         <summary type="html"><![CDATA[Re @Citrini7 Lol how did u come up with this]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Adam Cochran (adamscochran.eth): Arkham also sniffs and logs its own users data, including binding their wallet addresses, device ids, locations, e...]]></title>
+        <id>https://twitter.com/adamscochran/status/1678497072180260864</id>
+        <link href="https://twitter.com/adamscochran/status/1678497072180260864"/>
+        <updated>2023-07-10T20:11:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
+Arkham also sniffs and logs its own users data, including binding their wallet addresses, device ids, locations, etc.
+They then mix that with public data scrapped from public sources, like Twitter which if you shared a ref link..
+Its free cause you are the product. https://t.co/Wvluh79CuZ]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
