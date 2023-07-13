@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T03:28:42.503Z</id>
+    <id>urn:2023-07-13T04:16:49.936Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T03:28:42.503Z</updated>
+    <updated>2023-07-13T04:16:49.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据链上数据，时隔一个半月，Terraform Labs 控制地址（0x15…Ca39）于 7 月 12 日和 13 日再度出售了 11 万枚 CVX，价值约 45 万美元，目前该地址还剩...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679313118848241665</id>
+        <link href="https://twitter.com/wublockchain12/status/1679313118848241665"/>
+        <updated>2023-07-13T02:13:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据链上数据，时隔一个半月，Terraform Labs 控制地址（0x15…Ca39）于 7 月 12 日和 13 日再度出售了 11 万枚 CVX，价值约 45 万美元，目前该地址还剩有 168 万枚 CVX，价值约 670 万美元，是最大的 EOA 持有者。该地址在 5 月 9 日从被 Etherscan 浏览器标记为 Terraform Labs… https://twitter.com/i/web/status/1679313118848241665]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 选项二则是维持现阶段流动性提供者和质押者 7：3 的协议费用分配，其中 Chainlink 预言机费用由 GMX 质押者支付，约为协议费用的 1.2%。目前该提案选项一遥遥...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679309002662977536</id>
+        <link href="https://twitter.com/wublockchain12/status/1679309002662977536"/>
+        <updated>2023-07-13T01:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Re 选项二则是维持现阶段流动性提供者和质押者 7：3 的协议费用分配，其中 Chainlink 预言机费用由 GMX 质押者支付，约为协议费用的 1.2%。目前该提案选项一遥遥领先，投票将于 7 月 19 日 8:00 AM 结束。https://snapshot.org/#/gmx.eth/proposal/0xd08ad5d5ce7439f5e9fbc59b1d5c94b98deb01e802a0d718e7cac743a4a06627]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，GMX 发布 GMX v2 费用分割提案，选项一将把 GMX 质押者和流动性提供者获得的协议费的 10% 分配给 GMX 国库，即调整后协议费用的 10% 分配给 GMX 国库...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679308999655817221</id>
+        <link href="https://twitter.com/wublockchain12/status/1679308999655817221"/>
+        <updated>2023-07-13T01:57:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，GMX 发布 GMX v2 费用分割提案，选项一将把 GMX 质押者和流动性提供者获得的协议费的 10% 分配给 GMX 国库，即调整后协议费用的 10% 分配给 GMX 国库，63% 分配给流动性提供者，27% 分配给 GMX 质押者，其中 Chainlink 预言机费用将由 GMX 国库获得的 10% 支付；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Nansen 数据显示，EigenLayer 相关合约在开放存款上限后一度将 Gas 中位数推高至 150 gwei。https://pro.nansen.ai/gas-tracker?utm_source=twitter&utm_medi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679306755011133440</id>
+        <link href="https://twitter.com/wublockchain12/status/1679306755011133440"/>
+        <updated>2023-07-13T01:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Re Nansen 数据显示，EigenLayer 相关合约在开放存款上限后一度将 Gas 中位数推高至 150 gwei。https://pro.nansen.ai/gas-tracker?utm_source=twitter&utm_medium=partnership&utm_campaign=wublockchain_23]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，EigenLayer 宣布分别将所有 LST（cbETH、stETH 和 rETH）的上限增加至 1.5 万枚，LST 存款总和为 3 万枚上限。Parsec 数据显示，由于用户 restaking ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679306125660016640</id>
+        <link href="https://twitter.com/wublockchain12/status/1679306125660016640"/>
+        <updated>2023-07-13T01:45:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，EigenLayer 宣布分别将所有 LST（cbETH、stETH 和 rETH）的上限增加至 1.5 万枚，LST 存款总和为 3 万枚上限。Parsec 数据显示，由于用户 restaking 热情高涨，该项升级后约不到 1 小时，LST 存款便已经触及 3 万枚上限。后 EigenLayer 宣布将 LST 硬顶提高至 4.5 万枚。目前当前 EigenLayer… https://twitter.com/i/web/status/1679306125660016640]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DeepSailCapital $wise]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1679305997368664066</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1679305997368664066"/>
+        <updated>2023-07-13T01:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @DeepSailCapital $wise]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Xterio 曾在 2022 年 8 月以 3 亿美元估值筹集了 4000 万美元，FTX Ventures 等领投，Animoca Brands 等参投。]]></title>
         <id>https://twitter.com/wublockchain12/status/1679301546159525888</id>
@@ -208,46 +268,6 @@ Stephane Deo: What a change!
 US core inflation dips below Fed funds rate for the first time since early 2019. https://t.co/aBjvX1dqJh]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 http://tech.eu，NFT 票务解决方案 GET Protocol 完成由 Flow Ventures 领投的 450 万美元种子轮融资，参投方包括 Animoca Brands、Redbeard Ventu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679151468778254338</id>
-        <link href="https://twitter.com/wublockchain12/status/1679151468778254338"/>
-        <updated>2023-07-12T15:31:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 http://tech.eu，NFT 票务解决方案 GET Protocol 完成由 Flow Ventures 领投的 450 万美元种子轮融资，参投方包括 Animoca Brands、Redbeard Ventures、Funfair Ventures，个人投资者包括 The Sandbox 联合创始人 Sebastien… https://twitter.com/i/web/status/1679151468778254338]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BC 科技胡振邦接受 Techub 采访时表示，预计香港最终会获得牌照的交易所的数量并不会太多，估计就四到五家。“参考日本的经验，刚发牌的时候，也有一百来家去申...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679148550792560641</id>
-        <link href="https://twitter.com/wublockchain12/status/1679148550792560641"/>
-        <updated>2023-07-12T15:19:46.000Z</updated>
-        <summary type="html"><![CDATA[BC 科技胡振邦接受 Techub 采访时表示，预计香港最终会获得牌照的交易所的数量并不会太多，估计就四到五家。“参考日本的经验，刚发牌的时候，也有一百来家去申请。但最终持牌后还持续经营的，也就几家而已，香港估计也是这种情况”。阅读全文：https://mp.weixin.qq.com/s/2VFUB3TOoOogViG6BZloyg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，疑似被美国司法部所查封的丝绸之路 BTC 相关地址 bc1qmxjefnuy06v345v6vhwpwt05dztztmx4g3y7wp、 bc1qe7nk2nlnjewghgw4sgm0r89zkjzsurda7z4rdg 正在转...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679133572463046662</id>
-        <link href="https://twitter.com/wublockchain12/status/1679133572463046662"/>
-        <updated>2023-07-12T14:20:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，疑似被美国司法部所查封的丝绸之路 BTC 相关地址 bc1qmxjefnuy06v345v6vhwpwt05dztztmx4g3y7wp、 bc1qe7nk2nlnjewghgw4sgm0r89zkjzsurda7z4rdg 正在转移超过 9k 多枚 BTC。其余 3 万多枚 BTC 仍留存在 bc1qf2yvj48mzkj7uf8lc2a9sa7w983qe256l5c8fs 尚未移动。此前美国政府曾在 3 月 14… https://twitter.com/i/web/status/1679133572463046662]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/qEVh526Wpi]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679127553464840192</id>
-        <link href="https://twitter.com/wublockchain12/status/1679127553464840192"/>
-        <updated>2023-07-12T13:56:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/qEVh526Wpi]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -458,16 +478,6 @@ Bitcoin down, coinbase down
         <link href="https://twitter.com/DeFiSurfer808/status/1678532185924464640"/>
         <updated>2023-07-10T22:30:33.000Z</updated>
         <summary type="html"><![CDATA[Re @Citrini7 Lol how did u come up with this]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Cryptovestor77 Lol I live in a city and don’t drive much 🤣]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1678531511383883776</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1678531511383883776"/>
-        <updated>2023-07-10T22:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @Cryptovestor77 Lol I live in a city and don’t drive much 🤣]]></summary>
         <author>
             <name>Surfer</name>
         </author>
