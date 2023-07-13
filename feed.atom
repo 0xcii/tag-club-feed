@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T05:13:52.396Z</id>
+    <id>urn:2023-07-13T06:18:49.872Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T05:13:52.396Z</updated>
+    <updated>2023-07-13T06:18:49.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/roham/status/1679301700669296640]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679341095640240129</id>
+        <link href="https://twitter.com/wublockchain12/status/1679341095640240129"/>
+        <updated>2023-07-13T04:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/roham/status/1679301700669296640
+
+roham: We said goodbye to 51 brilliant colleagues and friends today @dapperlabs – this is the note I sent our team.
+We remain fully dedicated to our core communities and committed to building amazing products that push the world forward together.
+If you're looking to hire some of the… https://twitter.com/i/web/status/1679301700669296640 https://t.co/xwhjZAYLN8]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Dapper Labs CEO Roham Gharegozlou 在推文中表示，Dapper Labs 已裁员 51 人，包括全职员工以及 C1 承包商。此前 Dapper Labs 曾在 2022 年 11 月裁...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679341093639569409</id>
+        <link href="https://twitter.com/wublockchain12/status/1679341093639569409"/>
+        <updated>2023-07-13T04:04:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Dapper Labs CEO Roham Gharegozlou 在推文中表示，Dapper Labs 已裁员 51 人，包括全职员工以及 C1 承包商。此前 Dapper Labs 曾在 2022 年 11 月裁员 22%，约 134 名员工；又在今年 3 月份裁员 20%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CryptoKoryo 欺诈者利用同名标签漏洞，使得 arkham 和 etherscan 都将此假代币和部署者标记为 “LayerZero” 和 “LayerZero: Deployer”。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679338239260528640</id>
+        <link href="https://twitter.com/wublockchain12/status/1679338239260528640"/>
+        <updated>2023-07-13T03:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @CryptoKoryo 欺诈者利用同名标签漏洞，使得 arkham 和 etherscan 都将此假代币和部署者标记为 “LayerZero” 和 “LayerZero: Deployer”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/CryptoKoryo/status/1679251104117444609?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679333147715207175</id>
+        <link href="https://twitter.com/wublockchain12/status/1679333147715207175"/>
+        <updated>2023-07-13T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/CryptoKoryo/status/1679251104117444609?s=20
+
+Crypto Koryo: Has LayerZero just deployed its $ZRO token on mainnet?  👀
+Let's find out. 👇🏻🧵 https://t.co/FW8d4S5O9z]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，今日 @CryptoKoryo 提及的已部署的 LayerZero Token 是一个假代币。LayerZero 代币尚未部署。但 arkham、nansen 和 etherscan 上都显示此假代币和部署...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1679333145584504832</id>
+        <link href="https://twitter.com/wublockchain12/status/1679333145584504832"/>
+        <updated>2023-07-13T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，今日 @CryptoKoryo 提及的已部署的 LayerZero Token 是一个假代币。LayerZero 代币尚未部署。但 arkham、nansen 和 etherscan 上都显示此假代币和部署者为 LayerZero。值得注意的是，该假代币存在部署者可增发与可修改余额的风险。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据链上数据，时隔一个半月，Terraform Labs 控制地址（0x15…Ca39）于 7 月 12 日和 13 日再度出售了 11 万枚 CVX，价值约 45 万美元，目前该地址还剩...]]></title>
         <id>https://twitter.com/wublockchain12/status/1679313118848241665</id>
@@ -173,28 +230,6 @@ https://hivedigitaltechnologies.com/news/hive-digital-technologies-debuts-new-na
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据 CoinDesk 报道，USDC 发行商 Circle 已小幅裁员，以维持“强劲的资产负债表”，使其能够“专注于核心业务活动和执行”。但 Circle 财务主管 Jeremy Fox-Geen ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679281145278771200</id>
-        <link href="https://twitter.com/wublockchain12/status/1679281145278771200"/>
-        <updated>2023-07-13T00:06:39.000Z</updated>
-        <summary type="html"><![CDATA[据 CoinDesk 报道，USDC 发行商 Circle 已小幅裁员，以维持“强劲的资产负债表”，使其能够“专注于核心业务活动和执行”。但 Circle 财务主管 Jeremy Fox-Geen 今年早些时候还向《华尔街日报》表示，计划将员工数量增加 25%，以实现扩张。
-https://www.coindesk.com/business/2023/07/12/circle-cuts-workforce-ends-certain-non-core-activities-will-continue-hiring-globally/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦法院下令数字资产交易所 Digitex Futures 及其创始人兼首席执行官 Adam Todd 支付超过 1500 万美元，此前美国商品期货交易委员会称他们试图操纵其原生代...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679279876745093120</id>
-        <link href="https://twitter.com/wublockchain12/status/1679279876745093120"/>
-        <updated>2023-07-13T00:01:36.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦法院下令数字资产交易所 Digitex Futures 及其创始人兼首席执行官 Adam Todd 支付超过 1500 万美元，此前美国商品期货交易委员会称他们试图操纵其原生代币 DGTX 的价格且未能向该机构注册，并于去年对 Todd 和 Digitex Futures 交易所提出指控。（The Block）
-https://www.theblock.co/post/239316/digitex-ceo-ordered-to-pay-more-than-15-million-over-cftc-charges?utm_source=rss&utm_medium=rss]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @NotChaseColeman A delayed ruling would keep the narrative alive into q1 2024]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1679268309282304000</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1679268309282304000"/>
@@ -223,37 +258,6 @@ https://www.theblock.co/post/239316/digitex-ceo-ordered-to-pay-more-than-15-mill
 GOOGLE PLAY CHANGES POLICY ON TOKENIZED DIGITAL ASSETS, ALLOWING NFTS IN APPS AND GAMES - COINDESK]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，法案还涉及税收待遇和联邦拨款等方面的调整。（The Block） https://www.theblock.co/post/239210/lummis-gillibrand-to-introduce-revised-comprehens...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679166101064933376</id>
-        <link href="https://twitter.com/wublockchain12/status/1679166101064933376"/>
-        <updated>2023-07-12T16:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，法案还涉及税收待遇和联邦拨款等方面的调整。（The Block）
-https://www.theblock.co/post/239210/lummis-gillibrand-to-introduce-revised-comprehensive-crypto-bill?utm_source=onecryptofeed&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国参议员 Cynthia Lummis 和 Kirsten Gillibrand 将推出综合加密货币监管法案的修订版。修订后的法案将扩大商品期货交易委员会的权力，并将赋予加密资产公司按...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679166098779033601</id>
-        <link href="https://twitter.com/wublockchain12/status/1679166098779033601"/>
-        <updated>2023-07-12T16:29:30.000Z</updated>
-        <summary type="html"><![CDATA[美国参议员 Cynthia Lummis 和 Kirsten Gillibrand 将推出综合加密货币监管法案的修订版。修订后的法案将扩大商品期货交易委员会的权力，并将赋予加密资产公司按照自己的条件定义其创建的资产的权力。同时，该法案还将重新定义符合证券资格的数字资产的托管规则。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 TechCrunch， Coinbase Wallet 计划推出链上沟通功能，用户可以向其他以太坊地址发送消息，支持 http://CB.ID、ENS 域名、Lens 以及 Unstopper Domains。目前...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1679157958519984129</id>
-        <link href="https://twitter.com/wublockchain12/status/1679157958519984129"/>
-        <updated>2023-07-12T15:57:09.000Z</updated>
-        <summary type="html"><![CDATA[据 TechCrunch， Coinbase Wallet 计划推出链上沟通功能，用户可以向其他以太坊地址发送消息，支持 http://CB.ID、ENS 域名、Lens 以及 Unstopper Domains。目前 Coinbase Wallet 尚未确定何时开放该功能。此外，加密消息传递将由开源消息传递网络 XMTP 提供支持，任何使用 XMTP… https://twitter.com/i/web/status/1679157958519984129]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
