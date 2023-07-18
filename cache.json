@@ -1,6 +1,213 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://twitter.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681104111713013761",
+          "author": "吴说区块链",
+          "description": "Chainlink 的跨链互操作性协议 (CCIP) 现已在 Avalanche、以太坊、Optimism 和 Polygon 区块链上面向早期访问用户推出，旨在链接公共和私有区块链应用程序的技术。Aave 和 Synthetix 是早期采用者之一。CCIP 一直是该协议与 SWIFT 合作的关键组成部分，SWIFT… https://twitter.com/i/web/status/1681104111713013761",
+          "link": "https://twitter.com/wublockchain12/status/1681104111713013761",
+          "publishedOn": "2023-07-18T00:50:28.000Z",
+          "wordCount": null,
+          "title": "Chainlink 的跨链互操作性协议 (CCIP) 现已在 Avalanche、以太坊、Optimism 和 Polygon 区块链上面向早期访问用户推出，旨在链接公共和私有区块链应用程序的技术...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681102035213783040",
+          "author": "吴说区块链",
+          "description": "Re 为 Gnosis Card 提供支持的主要合作伙伴之一是 Monerium。Monerium 受监管的稳定币 EURe 将可与 Gnosis Safe 的 web3 账户一起使用，使开发人员能够通过 Safe{Core} 的工具包将 web3 钱包链接到欧元银行账户。\nhttps://twitter.com/monerium/status/1680981337652576257?s=20\n\nMonerium: @gnosispay @Visa @TechCrunch \"One of the key partners powering Gnosis Card is Monerium, the company that offers the Euro-denominated EURe, the [first euro] stablecoin regulated in the European Union.\"",
+          "link": "https://twitter.com/wublockchain12/status/1681102035213783040",
+          "publishedOn": "2023-07-18T00:42:13.000Z",
+          "wordCount": null,
+          "title": "Re 为 Gnosis Card 提供支持的主要合作伙伴之一是 Monerium。Monerium 受监管的稳定币 EURe 将可与 Gnosis Safe 的 web3 账户一起使用，使开发人员能够通过 Safe...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681099342789365760",
+          "author": "吴说区块链",
+          "description": "Neon EVM 发布了一个解决方案，允许开发人员在 Solana 之上编写以太坊应用程序，并宣布完成了以太坊开发人员将其项目转移到 Solana 所需的工具。Neon EVM 由 Neon Labs 推出，该团队去年从 Jump Capital 和 Solana Capital 等公司筹集了 4000 万美元。（The Block）\nhttps://www.theblock.co/post/239960/neon-labs-releases-evm-to-bring-support-for-ethereum-apps-on-solana?utm_source=rss&utm_medium=rss",
+          "link": "https://twitter.com/wublockchain12/status/1681099342789365760",
+          "publishedOn": "2023-07-18T00:31:31.000Z",
+          "wordCount": null,
+          "title": "Neon EVM 发布了一个解决方案，允许开发人员在 Solana 之上编写以太坊应用程序，并宣布完成了以太坊开发人员将其项目转移到 Solana 所需的工具。Neon EVM 由 Neo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681097599343001600",
+          "author": "吴说区块链",
+          "description": "Re 此外 Gensler 周一还在美国新闻俱乐部午餐会上讨论人工智能时表示，该机构“很高兴”这 Ripple 的裁决保护了机构投资者，并驳回了 Ripple 提出的“公平通知”论点，但对其关于散户投资者的言论感到失望，并正在研究、评估这种观点。\nhttps://www.theblock.co/post/240105/gensler-responds-to-ripple-decision-says-hes-disappointed-over-treatment-of-retail-investors?utm_source=rss&utm_medium=rss",
+          "link": "https://twitter.com/wublockchain12/status/1681097599343001600",
+          "publishedOn": "2023-07-18T00:24:35.000Z",
+          "wordCount": null,
+          "title": "Re 此外 Gensler 周一还在美国新闻俱乐部午餐会上讨论人工智能时表示，该机构“很高兴”这 Ripple 的裁决保护了机构投资者，并驳回了 Ripple 提出的“公平通知”...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681096003318059009",
+          "author": "吴说区块链",
+          "description": "过去 18 个月里，加密货币交易所 Kraken 在美国现货交易量中的份额增加了一倍多。Kraken 产品总监 Shannon Kurtas 表示，这一增长主要是由于该交易所 Pro 应用程序的用户数量增加了 5 倍，该应用程序允许用户进行现货交易、合约交易和质押。（The Block）\nhttps://www.theblock.co/post/240124/kraken-share-of-us-spot-trading-volumes-reaches-18-month-high?utm_source=rss&utm_medium=rss",
+          "link": "https://twitter.com/wublockchain12/status/1681096003318059009",
+          "publishedOn": "2023-07-18T00:18:15.000Z",
+          "wordCount": null,
+          "title": "过去 18 个月里，加密货币交易所 Kraken 在美国现货交易量中的份额增加了一倍多。Kraken 产品总监 Shannon Kurtas 表示，这一增长主要是由于该交易所 Pro 应用程...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681094969640243200",
+          "author": "吴说区块链",
+          "description": "吴说获悉，香港证监会行政总裁梁凤仪参与香港会计师公会的 CPA 论坛上强调了会计和审计专业在验证虚拟资产的存在以及审计虚拟空间中的智能合约和其他技术⽅⾯的关键作⽤；审计⾏业需要制定良好的实践，并就如何审计虚拟资产和智能合约达成共识。https://sc.sfc.hk/TuniS/apps.sfc.hk/edistributionWeb/gateway/TC/news-and-announcements/news/doc?refNo=23PR79",
+          "link": "https://twitter.com/wublockchain12/status/1681094969640243200",
+          "publishedOn": "2023-07-18T00:14:08.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，香港证监会行政总裁梁凤仪参与香港会计师公会的 CPA 论坛上强调了会计和审计专业在验证虚拟资产的存在以及审计虚拟空间中的智能合约和其他技术⽅⾯的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1681094836030705664",
+          "author": "吴说区块链",
+          "description": "SEC 主席 Gary Gensler 在与 Yahoo Finance 的在线访谈中表示，在联邦法官上周在 Ripple 的执行案件中做出分歧决定后，确定他所领导的机构是否会起草更多针对加密货币的规则“现在还为时过早” 。Gensler 还认为去中心化金融实际上相当中心化，并拒绝直接就 Ripple… https://twitter.com/i/web/status/1681094836030705664",
+          "link": "https://twitter.com/wublockchain12/status/1681094836030705664",
+          "publishedOn": "2023-07-18T00:13:36.000Z",
+          "wordCount": null,
+          "title": "SEC 主席 Gary Gensler 在与 Yahoo Finance 的在线访谈中表示，在联邦法官上周在 Ripple 的执行案件中做出分歧决定后，确定他所领导的机构是否会起草更多针对加...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680959868176326665",
+          "author": "吴说区块链",
+          "description": "Uniswap 创始人 Hayden Adams 推出了一种名为 UniswapX 的新开源协议，该协议将聚合去中心化交易池的流动性。该聚合器服务已作为可选测试版功能在 Uniswap Labs 的以太坊前端平台上推出。UniswapX 的主要功能之一是无 Gas 执行，允许交换者授权链下订单，而填充者（fillers）则代表他们支付 Gas 费。… https://twitter.com/i/web/status/1680959868176326665",
+          "link": "https://twitter.com/wublockchain12/status/1680959868176326665",
+          "publishedOn": "2023-07-17T15:17:17.000Z",
+          "wordCount": null,
+          "title": "Uniswap 创始人 Hayden Adams 推出了一种名为 UniswapX 的新开源协议，该协议将聚合去中心化交易池的流动性。该聚合器服务已作为可选测试版功能在 Uniswap Labs ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680951899661512711",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/stakewise_io/status/1680928278108930049?s=20\n\nStakeWise: StakeWise V3 gives stakers the power to access liquid staking from any node, prioritizing control, self-custody, yield and decentralization 🌊\nTry StakeWise V3 on testnet: http://pacific.stakewise.io https://t.co/LLr8rlpbwv",
+          "link": "https://twitter.com/wublockchain12/status/1680951899661512711",
+          "publishedOn": "2023-07-17T14:45:38.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/stakewise_io/status/1680928278108930049?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680951854396571652",
+          "author": "吴说区块链",
+          "description": "吴说获悉，流动性质押解决方案 StakeWise 推出 V3 版本，质押者能够从任何节点访问流动质押，优先考虑控制、自托管、收益和去中心化。现可在测试网上试用 StakeWise V3，其提供了一个质押池市场 Vaults，通过流动质押代币 osETH 控制质押方式。",
+          "link": "https://twitter.com/wublockchain12/status/1680951854396571652",
+          "publishedOn": "2023-07-17T14:45:27.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，流动性质押解决方案 StakeWise 推出 V3 版本，质押者能够从任何节点访问流动质押，优先考虑控制、自托管、收益和去中心化。现可在测试网上试用 StakeW...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680944919949750273",
+          "author": "吴说区块链",
+          "description": "QCP 资本分析认为：Ripple 判决揭开了 ETH 和 山寨币关于证券与否的争论，预计价格将以谨慎的方式上涨；最大受益者是加密货币交易所，尤其是 Coinbase，预计其股价上涨 30-40% 更高；BTC 被设置为“反证券”货币，这一决定对其替代吸引力产生了相反的影响，BTC… https://twitter.com/i/web/status/1680944919949750273",
+          "link": "https://twitter.com/wublockchain12/status/1680944919949750273",
+          "publishedOn": "2023-07-17T14:17:54.000Z",
+          "wordCount": null,
+          "title": "QCP 资本分析认为：Ripple 判决揭开了 ETH 和 山寨币关于证券与否的争论，预计价格将以谨慎的方式上涨；最大受益者是加密货币交易所，尤其是 Coinbase，预计其股...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680938745636491264",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报 https://t.co/NFFYbZsVzB",
+          "link": "https://twitter.com/wublockchain12/status/1680938745636491264",
+          "publishedOn": "2023-07-17T13:53:21.000Z",
+          "wordCount": null,
+          "title": "吴说每日晚报 https://t.co/NFFYbZsVzB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680937526968700928",
+          "author": "吴说区块链",
+          "description": "吴说获悉，加密初创公司 Ethena 正在开发一种由以太坊衍生品担保的新型稳定币，该项目从 Arthur Hayes 文章中获得灵感，该公司筹集了由 Dragonfly 牵头的 600 万美元种子资金，融资还包括 Deribit、Bybit、OKX、Gemini 和 Huobi 等加密衍生品交易所，以及 BitMEX 创始人 Arthur Hayes… https://twitter.com/i/web/status/1680937526968700928",
+          "link": "https://twitter.com/wublockchain12/status/1680937526968700928",
+          "publishedOn": "2023-07-17T13:48:31.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，加密初创公司 Ethena 正在开发一种由以太坊衍生品担保的新型稳定币，该项目从 Arthur Hayes 文章中获得灵感，该公司筹集了由 Dragonfly 牵头的 600 万...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680930953156255753",
+          "author": "吴说区块链",
+          "description": "Axie Infinity背后公司Sky Mavis在2022年4月宣布的1.5亿美元融资中只获得了1100万美元，该轮融资由a16z和Animoca Brands牵头。Ronin Network于2022年3月被黑客攻击导致价值高达6.2亿美元的代币被盗，Sky Mavis当时表示能够偿还所有受此影响的用户。（Tech in Asia）https://www.techinasia.com/sky-mavis-scales-150m-funding-reimbursing-users",
+          "link": "https://twitter.com/wublockchain12/status/1680930953156255753",
+          "publishedOn": "2023-07-17T13:22:24.000Z",
+          "wordCount": null,
+          "title": "Axie Infinity背后公司Sky Mavis在2022年4月宣布的1.5亿美元融资中只获得了1100万美元，该轮融资由a16z和Animoca Brands牵头。Ronin Network于2022年3月被黑客攻...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680916710533087233",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 CoinShares，上周数字资产投资产品净流入 1.37 亿美元；过去 4 周累计流入 7.42 亿美元，这是自 2021 年第四季度以来最大规模的流入。比特币投资产品净流入 1.4 亿美元；做空比特币产品则连续 12 周流出 320 万美元；以太坊投资产品净流出 200… https://twitter.com/i/web/status/1680916710533087233",
+          "link": "https://twitter.com/wublockchain12/status/1680916710533087233",
+          "publishedOn": "2023-07-17T12:25:48.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 CoinShares，上周数字资产投资产品净流入 1.37 亿美元；过去 4 周累计流入 7.42 亿美元，这是自 2021 年第四季度以来最大规模的流入。比特币投资产...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680897642295971841",
+          "author": "吴说区块链",
+          "description": "吴说获悉，知名歌手林俊杰推特回复中展示其新一枚 Azuki Elemental NFT，链上数据显示该 NFT 于 17 天前被 ENS 为 “JJLin1010”（0x92657Fc9BbA9c0057bFA65fEA40000542f0Cc301）的地址 Mint，目前 Opensea 上的最高 Offer 是 2.5 ETH。此前，其知名藏品包括 BAYC 3914、CryptoPunk 8601、Azuki… https://twitter.com/i/web/status/1680897642295971841",
+          "link": "https://twitter.com/wublockchain12/status/1680897642295971841",
+          "publishedOn": "2023-07-17T11:10:02.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，知名歌手林俊杰推特回复中展示其新一枚 Azuki Elemental NFT，链上数据显示该 NFT 于 17 天前被 ENS 为 “JJLin1010”（0x92657Fc9BbA9c0057bFA65fEA4...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680889199535292417",
+          "author": "吴说区块链",
+          "description": "据 TheBlock 报道，ConsenSys 最近几周与潜在投资者进行了谈判，但其发言人表示，ConsenSys 拥有“充足的现金”，并未正式筹款，且一直在二级市场回购其被“明显低估”的股份。ConsenSys 上一次融资是在 2022 年初由 ParaFi Capital 领投的 D 轮融资，总估值达到 70 亿美元。https://www.theblock.co/post/239603/ethereum-consensys-investor-talks",
+          "link": "https://twitter.com/wublockchain12/status/1680889199535292417",
+          "publishedOn": "2023-07-17T10:36:29.000Z",
+          "wordCount": null,
+          "title": "据 TheBlock 报道，ConsenSys 最近几周与潜在投资者进行了谈判，但其发言人表示，ConsenSys 拥有“充足的现金”，并未正式筹款，且一直在二级市场回购其被“明显...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680884427436486658",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/gnosispay/status/1680874992509272065?s=20\n\nGnosis Pay 🦉💳: Payments are d̶u̶e̶ ̶ ̶̶̶f̶̶̶o̶̶̶r̶̶̶ ̶̶̶a̶̶̶ ̶̶̶c̶̶̶h̶̶̶a̶̶̶n̶̶̶g̶̶̶e̶̶̶ here for web3! 🦉 💳\nWe are extremely excited to announce Gnosis Pay and Gnosis Card, the World’s First Decentralized Payment Network and Self-Custodial Debit Card!\n🧵 ⬇️ https://t.co/mBeMAmwsEl",
+          "link": "https://twitter.com/wublockchain12/status/1680884427436486658",
+          "publishedOn": "2023-07-17T10:17:31.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/gnosispay/status/1680874992509272065?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680884319844282368",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Gnosis 宣布推出 Gnosis Pay 和自托管借记卡 Gnosis Card，让加密货币用户可以通过 Visa 钱包使用稳定币进行日常购买。据称，这是第一个与传统支付处理器集成的去中心化支付网络，并且是第一个直连链上自托管钱包的 Visa 认证消费者借记卡。",
+          "link": "https://twitter.com/wublockchain12/status/1680884319844282368",
+          "publishedOn": "2023-07-17T10:17:05.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Gnosis 宣布推出 Gnosis Pay 和自托管借记卡 Gnosis Card，让加密货币用户可以通过 Visa 钱包使用稳定币进行日常购买。据称，这是第一个与传统支付处...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1680875435662405632",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Lens Protocol 宣布推出 V2 版本，可将外部 web3 产品以及启用外部智能合约操作，直接引入 Lens 应用打造可组合社交网络，此功能甚至可以扩展到具有预言机支持的跨链操作，例如以太坊和 L2 上的操作；此外，V2 通过提供配置文件和 ERC-6551… https://twitter.com/i/web/status/1680875435662405632",
+          "link": "https://twitter.com/wublockchain12/status/1680875435662405632",
+          "publishedOn": "2023-07-17T09:41:47.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Lens Protocol 宣布推出 V2 版本，可将外部 web3 产品以及启用外部智能合约操作，直接引入 Lens 应用打造可组合社交网络，此功能甚至可以扩展到具有预...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @8848 社区（8848 Community）",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
@@ -764,6 +971,16 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1681100858631634945",
+          "author": "Surfer",
+          "description": "Re @Bluntz_Capital 😂",
+          "link": "https://twitter.com/DeFiSurfer808/status/1681100858631634945",
+          "publishedOn": "2023-07-18T00:37:32.000Z",
+          "wordCount": null,
+          "title": "Re @Bluntz_Capital 😂",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1681055394330824705",
           "author": "Surfer",
           "description": "Re @inmortalcrypto @ArbitrageAndy1 2019 bounced was waaaay more extended than this one",
@@ -941,16 +1158,6 @@
           "publishedOn": "2023-07-16T16:51:59.000Z",
           "wordCount": null,
           "title": "Re @naniXBT @rektcryptofox Men aren’t trying to solve for money Nani A girl that does OF is repulsive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1680619576596262913",
-          "author": "Surfer",
-          "description": "Re @kouroshshafi 2/3rds of its portfolio is well positioned vertical software / integrated payments / ecomm. In a better place than the stock implies",
-          "link": "https://twitter.com/DeFiSurfer808/status/1680619576596262913",
-          "publishedOn": "2023-07-16T16:45:06.000Z",
-          "wordCount": null,
-          "title": "Re @kouroshshafi 2/3rds of its portfolio is well positioned vertical software / integrated payments / ecomm. In a better place than the stock implies",
           "imageUrl": null
         },
         {
