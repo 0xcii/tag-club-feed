@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T06:16:52.988Z</id>
+    <id>urn:2023-07-20T07:12:05.088Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T06:16:52.988Z</updated>
+    <updated>2023-07-20T07:12:05.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，MEXC 公布最新资产储备（快照日期 7-10），用户 BTC 资产为 2321.7 枚，较上次（6-10）增长 9%，增加 195.88 枚 BTC；用户 ETH 资产为 1.58 万枚，较...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681899007755558912</id>
+        <link href="https://twitter.com/wublockchain12/status/1681899007755558912"/>
+        <updated>2023-07-20T05:29:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，MEXC 公布最新资产储备（快照日期 7-10），用户 BTC 资产为 2321.7 枚，较上次（6-10）增长 9%，增加 195.88 枚 BTC；用户 ETH 资产为 1.58 万枚，较上次增长 5.8%，增加 864 枚 ETH；用户 USDT 资产为 4.83 亿枚，较上次增长 6%，增加 0.28 亿枚 USDT。
+https://www.mexc.com/zh-CN/assets/reserve-ratio?handleDefaultLocale=keep]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 然后第三方竞争使用 AMM 池或个人资产等链上流动性来填充交易）、最佳报价者的优先成交权以及声望系统（解决存在 resolvers 刻意暂不成交压价的问题）。https...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681897335956344833</id>
+        <link href="https://twitter.com/wublockchain12/status/1681897335956344833"/>
+        <updated>2023-07-20T05:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 然后第三方竞争使用 AMM 池或个人资产等链上流动性来填充交易）、最佳报价者的优先成交权以及声望系统（解决存在 resolvers 刻意暂不成交压价的问题）。https://twitter.com/nzhlfred/status/1681652525752262656
+
+庞氏骗局局长⚡️: /10 其次是他提出的最佳报价者的优先成交权以及声望系统, 这个其实很有意思. 社区里你能看到很多吐槽 1inch fusion mode 的声音, 说很多 resolvers 就干等着等价格下来了再成交. 我认为这其实很大程度上是因为没有对 resolvers 有比较好的奖惩机制导致的,… https://twitter.com/i/web/status/1681652525752262656 https://t.co/LnmlxYxu0X]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，@nzhlfred 通过解构 UniswapX 协议的整体架构和功能流程，认为目前虽然社区批评 UniswapX “抄袭” 1inch fusion 模式或者 Cow Swap 这类链下订单撮合...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681897334106640385</id>
+        <link href="https://twitter.com/wublockchain12/status/1681897334106640385"/>
+        <updated>2023-07-20T05:22:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，@nzhlfred 通过解构 UniswapX 协议的整体架构和功能流程，认为目前虽然社区批评 UniswapX “抄袭” 1inch fusion 模式或者 Cow Swap 这类链下订单撮合聚合平台，但 UniswapX 还是有多个差异化创新点，如开放性\免许可性（通过将路由复杂性外包给第三方的开放网络来解决流动性割裂的问题，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据链上数据，在主网 Alpha 上线两天，由 ConsenSys 构建的 L2 网络 Linea ETH Bridge 已有超过 5,000 ETH 存入，由 1.9 万个独立地址完成了超过 2 万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681891119603261440</id>
+        <link href="https://twitter.com/wublockchain12/status/1681891119603261440"/>
+        <updated>2023-07-20T04:57:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据链上数据，在主网 Alpha 上线两天，由 ConsenSys 构建的 L2 网络 Linea ETH Bridge 已有超过 5,000 ETH 存入，由 1.9 万个独立地址完成了超过 2 万笔交易，其中最大的存入地址来源于一个创建约 1 个半月的地址：0xc4…5ecb，其累积向 Linea 存入了 1,340… https://twitter.com/i/web/status/1681891119603261440]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/memecoin]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681888088748957697</id>
+        <link href="https://twitter.com/wublockchain12/status/1681888088748957697"/>
+        <updated>2023-07-20T04:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/memecoin]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Memecoin 宣布将空投总计 172.5 亿枚 MEME 代币，占总供应量的 25%。Memeland 的所有 NFT（包括 MVP、Captainz 和 Potatoz）都有资格获得空投。Memeco...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681888086047748096</id>
+        <link href="https://twitter.com/wublockchain12/status/1681888086047748096"/>
+        <updated>2023-07-20T04:45:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Memecoin 宣布将空投总计 172.5 亿枚 MEME 代币，占总供应量的 25%。Memeland 的所有 NFT（包括 MVP、Captainz 和 Potatoz）都有资格获得空投。Memecoin 尚未公布立即解锁和延期解锁的代币具体份额。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bankless 最新发布的《以太坊 2023 年第二季度报告》数据显示，Q2 以太坊网络交易费用同比下降 33.3%，从 10.27 亿美元降至 8.47 亿美元；销毁 ETH 下...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1681874315657064450</id>
+        <link href="https://twitter.com/wublockchain12/status/1681874315657064450"/>
+        <updated>2023-07-20T03:50:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bankless 最新发布的《以太坊 2023 年第二季度报告》数据显示，Q2 以太坊网络交易费用同比下降 33.3%，从 10.27 亿美元降至 8.47 亿美元；销毁 ETH 下降 35%，从 10.9 亿美元降至 7.13 亿美元；ETH 平均通胀率从 0.71% 降至 -0.8%；平均每日活跃地址下降 6%，从 471,447 降至… https://twitter.com/i/web/status/1681874315657064450]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/michaelbouhanna/status/1681677821192683520]]></title>
         <id>https://twitter.com/wublockchain12/status/1681865637004558338</id>
@@ -189,41 +262,6 @@ I called out $wagie in our @ChainEDGE_io research dashboard a week ago.    Liter
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/arbitrum/status/1681693961595899909]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681829286355820544</id>
-        <link href="https://twitter.com/wublockchain12/status/1681829286355820544"/>
-        <updated>2023-07-20T00:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/arbitrum/status/1681693961595899909
-
-Arbitrum (💙,🧡): Introducing Phase 1 of the Arbitrum Foundation Grants.🎉💙🧡
-✨https://arbitrum.foundation/grants✨
-📰https://arbitrumfoundation.medium.com/introducing-the-arbitrum-foundation-grants-phase-1-42003c223064
-🧵👇 https://twitter.com/i/web/status/1681693961595899909 https://t.co/YioyfAySRM]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Arbitrum 官方宣布基金会赠款第一阶段计划，第一阶段专注于 Arbitrum Nova 和 Arbitrum One 的去中心化应用程序和基础设施。资助计划的各个阶段从一开...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681829283377950721</id>
-        <link href="https://twitter.com/wublockchain12/status/1681829283377950721"/>
-        <updated>2023-07-20T00:52:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Arbitrum 官方宣布基金会赠款第一阶段计划，第一阶段专注于 Arbitrum Nova 和 Arbitrum One 的去中心化应用程序和基础设施。资助计划的各个阶段从一开始就没有明确的“结束日期”，但预计将持续大约三个月，或者直到 Arbitrum 基金会认为该阶段的目标已经实现。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，红杉资本周三表示，长期合伙人 Michael Moritz 将离开这家风险投资公司，专注于 Sequoia Heritage。另一位高级合伙人 Mike Vernal 也将离职，其他人还...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681827772040204288</id>
-        <link href="https://twitter.com/wublockchain12/status/1681827772040204288"/>
-        <updated>2023-07-20T00:46:02.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，红杉资本周三表示，长期合伙人 Michael Moritz 将离开这家风险投资公司，专注于 Sequoia Heritage。另一位高级合伙人 Mike Vernal 也将离职，其他人还有 FTX 背后的公司投资者之一 Michelle Fradin，以及合伙人 Kais Khimji 和 Daniel Chen。Michelle Fradin 帮助领导了投资 FTX 的决定，… https://twitter.com/i/web/status/1681827772040204288]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Bobby Ong: Woke up to over 50k followers today. Thought we are in a zero growth environment but that's far from it. Growth is just harder to come b...]]></title>
         <id>https://twitter.com/bobbyong/status/1681825543770210304</id>
         <link href="https://twitter.com/bobbyong/status/1681825543770210304"/>
@@ -236,42 +274,6 @@ Here's to staying sharp and catching all the upcoming crypto trends and narrativ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/embercn/status/1681817760857477121?s=46]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681824678866722817</id>
-        <link href="https://twitter.com/wublockchain12/status/1681824678866722817"/>
-        <updated>2023-07-20T00:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/embercn/status/1681817760857477121?s=46
-
-余烬: 😂又一个刚找到私钥的？
-继昨天这个将 61,216.6 $ETH 转入 Kraken 的 ICO 参与者地址之后，5小时前又一个 ETH ICO 参与者地址从八年休眠中醒来：
-将从 #Ethereum 创世区块中获得的 200 ETH 转入 Coinbase。
-$62 (2015/7/30 价值) → $377,600 (2023/7/20 价值)
-推文由 @LionDEX_CN 赞助 https://t.co/Bs3TnR8RKz]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说获悉，据 @EmberCN 监测，5 小时前一个休眠 8 年的以太坊 ICO 参与者地址将从 Ethereum 创世区块中获得的 200 ETH 转入 Coinbase（从 2015 年 7 月 30 日...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681824676312432640</id>
-        <link href="https://twitter.com/wublockchain12/status/1681824676312432640"/>
-        <updated>2023-07-20T00:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说获悉，据 @EmberCN 监测，5 小时前一个休眠 8 年的以太坊 ICO 参与者地址将从 Ethereum 创世区块中获得的 200 ETH 转入 Coinbase（从 2015 年 7 月 30 日价值 62 美元到如今价值 37.76 万美元） 。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密矿企 Bitfarms (BITF) 在巴拉圭签订了两项电力购买协议，水力发电容量将增加至 150 兆瓦 (MW)。Bitfarms 周三表示，其中一笔交易位于 Villarrica，靠近 Bitf...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681822722936938496</id>
-        <link href="https://twitter.com/wublockchain12/status/1681822722936938496"/>
-        <updated>2023-07-20T00:25:58.000Z</updated>
-        <summary type="html"><![CDATA[加密矿企 Bitfarms (BITF) 在巴拉圭签订了两项电力购买协议，水力发电容量将增加至 150 兆瓦 (MW)。Bitfarms 周三表示，其中一笔交易位于 Villarrica，靠近 Bitfarms 已经运营的地点，价值高达 50 MW，而第二笔交易价值高达 100 MW，位于 Yguazu，靠近 Itaipu 水力发电厂。Bitfarms… https://twitter.com/i/web/status/1681822722936938496]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Citrini7 Bro how do u trade so many different assets]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1681820271349473280</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1681820271349473280"/>
@@ -279,18 +281,6 @@ $62 (2015/7/30 价值) → $377,600 (2023/7/20 价值)
         <summary type="html"><![CDATA[Re @Citrini7 Bro how do u trade so many different assets]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 目前，已使用 LayerZero 进行全链消息传递的项目可以立即添加对 Base 的支持，基于 Base 的开发者可以将其应用程序扩展至 LayerZero 网络。https://twitter.c...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1681819807019151362</id>
-        <link href="https://twitter.com/wublockchain12/status/1681819807019151362"/>
-        <updated>2023-07-20T00:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Re 目前，已使用 LayerZero 进行全链消息传递的项目可以立即添加对 Base 的支持，基于 Base 的开发者可以将其应用程序扩展至 LayerZero 网络。https://twitter.com/LayerZero_Labs/status/1681726537425633280
-
-LayerZero Labs: LayerZero is now live on @BuildOnBase mainnet! https://t.co/GkGu6juGXl]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
