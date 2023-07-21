@@ -1,10 +1,397 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T13:16:47.147Z</id>
+    <id>urn:2023-07-21T14:11:33.651Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T13:16:47.147Z</updated>
+    <updated>2023-07-21T14:11:33.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报 https://t.co/pzLqtEi3lL]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682389256311017474</id>
+        <link href="https://twitter.com/wublockchain12/status/1682389256311017474"/>
+        <updated>2023-07-21T13:57:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/pzLqtEi3lL]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask计划在2023年底之前通过Snaps协议实现支持跨链互操作性，将允许MetaMask用户与其他网络上的应用程序进行交互。这意味着开发者可以使用Snaps在MetaMask之...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682389109715918848</id>
+        <link href="https://twitter.com/wublockchain12/status/1682389109715918848"/>
+        <updated>2023-07-21T13:56:35.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask计划在2023年底之前通过Snaps协议实现支持跨链互操作性，将允许MetaMask用户与其他网络上的应用程序进行交互。这意味着开发者可以使用Snaps在MetaMask之上构建专门功能。MetaMask于2020年首次宣布了Snaps—“一个开源系统，允许任何人安全地扩展MetaMask的功能”，以创建新的Web3体验。（The… https://twitter.com/i/web/status/1682389109715918848]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2022年，币安法国录得400万欧元亏损，原因是该账目涵盖了14个月期间的支出但只有6个月期间收入；预计其2023年财务报表将实现盈利。https://www.binance.com/f...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682386711383244801</id>
+        <link href="https://twitter.com/wublockchain12/status/1682386711383244801"/>
+        <updated>2023-07-21T13:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 2022年，币安法国录得400万欧元亏损，原因是该账目涵盖了14个月期间的支出但只有6个月期间收入；预计其2023年财务报表将实现盈利。https://www.binance.com/fr/blog/ecosystem/binance-france-publishes-2022-accounts--what-do-they-say-and-faq-7753651850896626460]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安法国今天发布其首份经过RSM Paris审计的2022年财务报表：币安法国代管着价值约10亿欧元的加密资产（属于法国用户）；币安法国自有账户上持有700万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682386685169115136</id>
+        <link href="https://twitter.com/wublockchain12/status/1682386685169115136"/>
+        <updated>2023-07-21T13:46:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安法国今天发布其首份经过RSM Paris审计的2022年财务报表：币安法国代管着价值约10亿欧元的加密资产（属于法国用户）；币安法国自有账户上持有700万美元稳定币USDT；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Roberta66961503 G is the best account on twitter IMO]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682376448865189889</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682376448865189889"/>
+        <updated>2023-07-21T13:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @Roberta66961503 G is the best account on twitter IMO]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xcurve wildly underfollowed. Man is a market soothsayer. Must follow]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682375034935865345</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682375034935865345"/>
+        <updated>2023-07-21T13:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Xcurve wildly underfollowed.
+Man is a market soothsayer. Must follow
+
+xcurve 🦄 🤖: I was taught that you know you're doing something good if you're ruffling a few feathers along the way. 
+We're okay with it. Day 2 of $UNIBOT X will be better than Day 1 and tomorrow will be better than today. We move forward.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi 协议 Conic Finance 今日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。BlockSec 分析称，攻击者利用了一种重入漏洞，随后操纵了 Conic 依赖的有缺陷价格...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682369977670852611</id>
+        <link href="https://twitter.com/wublockchain12/status/1682369977670852611"/>
+        <updated>2023-07-21T12:40:34.000Z</updated>
+        <summary type="html"><![CDATA[DeFi 协议 Conic Finance 今日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。BlockSec 分析称，攻击者利用了一种重入漏洞，随后操纵了 Conic 依赖的有缺陷价格预言机，使其能够提取资金。Conic 团队回应正在调查关于 ETH Omnipool 的漏洞，已在 Conic 前端禁用了 ETH Omnipool 的存款功能。Conic… https://twitter.com/i/web/status/1682369977670852611]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrustlessTooth Ooooo shiiiit]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682362836373196800</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682362836373196800"/>
+        <updated>2023-07-21T12:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrustlessTooth Ooooo shiiiit]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fwiw this is what I’d expect the $eth chart to look like at the pico top and managers panicking about their $nvda u/ws… top soon?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682356275919613955</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682356275919613955"/>
+        <updated>2023-07-21T11:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Fwiw this is what I’d expect the $eth chart to look like at the pico top and managers panicking about their $nvda u/ws… top soon?
+
+Texas Oncologist: I swear the next time I hear "GS predicts X" as a solid reason for anything... Either they are clueless or they're telling you they're on the other side of the trade, but either way it's a fade.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utopia Labs 现允许企业将 USDC 发送到任何美国银行账户，而无需经过 CEX，旨在提高法币和加密货币之间的互操作性并加速加密支付的采用。据悉，企业需提交其 KYB...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682350610455179264</id>
+        <link href="https://twitter.com/wublockchain12/status/1682350610455179264"/>
+        <updated>2023-07-21T11:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Utopia Labs 现允许企业将 USDC 发送到任何美国银行账户，而无需经过 CEX，旨在提高法币和加密货币之间的互操作性并加速加密支付的采用。据悉，企业需提交其 KYB 和 KYC 以申请，USDC 转账仅限于以太坊链，不支持古巴、朝鲜、伊朗、叙利亚、白俄罗斯和俄罗斯等国家。 Utopia 去年完成由 Paradigm… https://twitter.com/i/web/status/1682350610455179264]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jimmyvs24 Lesgoh]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682350519031939072</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682350519031939072"/>
+        <updated>2023-07-21T11:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @jimmyvs24 Lesgoh]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another observation: It’s interesting G sticking his neck out there after $btc and $coin up 80% and 200%+ ytd… He implicitly suggesting we probably ...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682349661216989234</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682349661216989234"/>
+        <updated>2023-07-21T11:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Another observation:
+It’s interesting G sticking his neck out there after $btc and $coin up 80% and 200%+ ytd…
+He implicitly suggesting we probably don’t get another pullback? 🤔 🧐
+
+Surfer: FYI, here are the rough prices required for each asset to get a specified portfolio multiplier based on @DegenSpartan’s allocation below.
+What do you think? Depending on how high $btc goes doesn’t seem too crazy. https://t.co/qYuURPml10]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @_jacopino @DegenSpartan I imagine it’s roughly his current positioning. Just a hypothetical]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682341858125520896</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682341858125520896"/>
+        <updated>2023-07-21T10:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @_jacopino @DegenSpartan I imagine it’s roughly his current positioning. Just a hypothetical]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Wormhole 推出新的跨链桥 Wormhole Gateway，旨在通过 IBC 集成连接到多个 Cosmos 链和应用程序，为开发者和用户提供更便捷的方式将流动性引入 Cosmos...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682340578149711872</id>
+        <link href="https://twitter.com/wublockchain12/status/1682340578149711872"/>
+        <updated>2023-07-21T10:43:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Wormhole 推出新的跨链桥 Wormhole Gateway，旨在通过 IBC 集成连接到多个 Cosmos 链和应用程序，为开发者和用户提供更便捷的方式将流动性引入 Cosmos 生态系统。目前支持包括 Osmosis、Evmos、Neutron 和 Sei 等 23 个 Cosmos 链。
+https://wormhole.com/wormhole-gateway-the-gateway-to-the-cosmos-ecosystem/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @_jacopino @DegenSpartan It’s based on this https://twitter.com/degenspartan/status/1680833142306009088?s=46&t=_sZ6xyyOBuoMYsKE6B_heA]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682340373870391304</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682340373870391304"/>
+        <updated>2023-07-21T10:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @_jacopino @DegenSpartan It’s based on this https://twitter.com/degenspartan/status/1680833142306009088?s=46&t=_sZ6xyyOBuoMYsKE6B_heA
+
+찌 G 跻 じ MBA, CFA, FRM, CFP, NGMI, HFSP, HENTAI 🛡️: for funsies, here's a 1m demo portfolio
+BTC 25% - 8.25 BTC
+ETH 50% - 259 ETH
+LDO 7.5% - 34,246 LDO
+COIN 7.5% - 712 COIN
+USD 10% - 100,000 USD
+will check back in the future
+will use (peak +1 month) prices
+and see how whats the final multiple that it will clock in]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dkcrypto13 @DegenSpartan 😛]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682338770945728512</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682338770945728512"/>
+        <updated>2023-07-21T10:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @dkcrypto13 @DegenSpartan 😛]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DegenSpartan 🤣]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682338615261634561</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682338615261634561"/>
+        <updated>2023-07-21T10:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @DegenSpartan 🤣]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple 计划扩大在英国和欧洲的业务，但仍将美国视为其全球中心。Ripple 已向英国金融行为监管局申请注册为加密资产公司，并在爱尔兰申请了支付机构许可证。过去...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682337630950764544</id>
+        <link href="https://twitter.com/wublockchain12/status/1682337630950764544"/>
+        <updated>2023-07-21T10:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Ripple 计划扩大在英国和欧洲的业务，但仍将美国视为其全球中心。Ripple 已向英国金融行为监管局申请注册为加密资产公司，并在爱尔兰申请了支付机构许可证。过去 18 个月里，Ripple 在英国和欧洲的员工人数增长了 75%，目前，全球约 900 名员工中，有 100… https://twitter.com/i/web/status/1682337630950764544]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jimmyvs24 Might be first halving where we get miner bankruptcies as btc is pumping]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682336132061712389</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682336132061712389"/>
+        <updated>2023-07-21T10:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @jimmyvs24 Might be first halving where we get miner bankruptcies as btc is pumping]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FYI, here are the rough prices required for each asset to get a specified portfolio multiplier based on @DegenSpartan’s allocation below. What do you...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682334475093438464</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682334475093438464"/>
+        <updated>2023-07-21T10:19:29.000Z</updated>
+        <summary type="html"><![CDATA[FYI, here are the rough prices required for each asset to get a specified portfolio multiplier based on @DegenSpartan’s allocation below.
+What do you think? Depending on how high $btc goes doesn’t seem too crazy. https://t.co/qYuURPml10
+
+
+찌 G 跻 じ MBA, CFA, FRM, CFP, NGMI, HFSP, HENTAI 🛡️: with this allocation
+pessimistically, i expect to 2-3x my portfolio from here
+baseline, between 4-6x
+optimistically, ~8x
+in USD terms
+i think 10x and beyond is completely unrealistic
+that being said, all my "max price" expectations were surpassed in previous cycles]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lol]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682325872295002112</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682325872295002112"/>
+        <updated>2023-07-21T09:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Lol
+
+Cernovich: WTF]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DegenSpartan Have yet to see “Brian is bald” in any research. Try harder DG]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682323289987768321</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682323289987768321"/>
+        <updated>2023-07-21T09:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @DegenSpartan Have yet to see “Brian is bald” in any research. Try harder DG]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据监管文件，印度尼西亚商品期货监管机构（Bappebti）已确定加密资产交易所、清算机构和资产存储管理者。于 7 月 17 日批准 PT Bursa Komoditi Nusant...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682310608216281088</id>
+        <link href="https://twitter.com/wublockchain12/status/1682310608216281088"/>
+        <updated>2023-07-21T08:44:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据监管文件，印度尼西亚商品期货监管机构（Bappebti）已确定加密资产交易所、清算机构和资产存储管理者。于 7 月 17 日批准 PT Bursa Komoditi Nusantara 成为加密资产期货交易所，PT Kliring Berjangka Indonesia 作为加密资产实物市场清算机构；于 7 月 20 日批准 PT Tennet Depository… https://twitter.com/i/web/status/1682310608216281088]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安发布2023上半年报告。比特币市场主导地位在半年结束时达到了 2021 年 4 月以来的最高水平，而其年初至今超过 87% 的价格表现明显优于许多常见的 T...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682305898176479233</id>
+        <link href="https://twitter.com/wublockchain12/status/1682305898176479233"/>
+        <updated>2023-07-21T08:25:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安发布2023上半年报告。比特币市场主导地位在半年结束时达到了 2021 年 4 月以来的最高水平，而其年初至今超过 87% 的价格表现明显优于许多常见的 TradFi 投资。全球稳定币市值下降了 7.0%，但USDT 的市场份额年初至今显着增长了 25.8%。NFT… https://twitter.com/i/web/status/1682305898176479233]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 目前特斯拉已将其付款页面源代码中的“bitcoin”删除，但仍保留了“dogecoin”。 https://t.co/3xfVJcPtU6]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682300002398502914</id>
+        <link href="https://twitter.com/wublockchain12/status/1682300002398502914"/>
+        <updated>2023-07-21T08:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 目前特斯拉已将其付款页面源代码中的“bitcoin”删除，但仍保留了“dogecoin”。 https://t.co/3xfVJcPtU6]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国区块链周( Korea Blockchain week，简称 KBW )在 9 月 4 日至 10 日将在韩国首尔新罗酒店以及韩国首都首尔各地举办。由 Factblock 设立并主办，韩国加密风投...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682294171883933696</id>
+        <link href="https://twitter.com/wublockchain12/status/1682294171883933696"/>
+        <updated>2023-07-21T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[韩国区块链周( Korea Blockchain week，简称 KBW )在 9 月 4 日至 10 日将在韩国首尔新罗酒店以及韩国首都首尔各地举办。由 Factblock 设立并主办，韩国加密风投机构 Hashed 共同主办。已确认的演讲者有：Circle 首席执行官  Jeremy Allaire、BitGo 首席执行官 Mike Belshe、AVA Labs 首席执行官 Emin… https://twitter.com/i/web/status/1682294171883933696]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinglass 显示 24 小时内 BTC 合约交易量前五分别为币安 OKX Bybit Bitget CME，BTC 未平仓合约前五是币安 Bybit CME OKX Bitget。 ETH 合约交易量前...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682289150542897153</id>
+        <link href="https://twitter.com/wublockchain12/status/1682289150542897153"/>
+        <updated>2023-07-21T07:19:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinglass 显示 24 小时内 BTC 合约交易量前五分别为币安 OKX Bybit Bitget CME，BTC 未平仓合约前五是币安 Bybit CME OKX Bitget。 ETH 合约交易量前五是币安 OKX Bitget Bybit CME，ETH 未平仓合约前五是币安 Bybit OKX Deribit Bitget。
+https://www.coinglass.com/pro/futures/FuturesVolume]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/dappOS_com/status/1682281606680313856?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682288082463358976</id>
+        <link href="https://twitter.com/wublockchain12/status/1682288082463358976"/>
+        <updated>2023-07-21T07:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/dappOS_com/status/1682281606680313856?s=20
+
+dappOS ｜V2 Live soon: 🎉We are thrilled to announce that #dappOS has successfully closed a seed round funding, with @IDGCapital and #SequoiaChina leading the investment and participation from @OKX_Ventures,  @HashKey_Capital, @KuCoinVentures, #TRONDAOVentures, @gate_labs, #TaihillVenture, @symbolicvc,… https://twitter.com/i/web/status/1682281606680313856 https://t.co/bhu9UJY1k6]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Web3 操作协议 dappOS 宣布以 5000 万美元估值完成 IDG Capital 和红杉中国领投的种子轮融资， OKX Ventures、HashKey Capital、KuCoin Ventures 等参...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682288039413047297</id>
+        <link href="https://twitter.com/wublockchain12/status/1682288039413047297"/>
+        <updated>2023-07-21T07:14:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Web3 操作协议 dappOS 宣布以 5000 万美元估值完成 IDG Capital 和红杉中国领投的种子轮融资， OKX Ventures、HashKey Capital、KuCoin Ventures 等参投。 dappOS 此前参与币安 Web3 真人秀节目 Build The Block，是 Binance Labs 宣布投资孵化的第五季项目之一。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，WhatsApp 此前被报道数据泄露，5 亿用户数据在网上被出售。据称，该数据集包含来自 84 个国家/地区的 WhatsApp 用户数据。此类信息主要被攻击者用于网...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682285942277824512</id>
+        <link href="https://twitter.com/wublockchain12/status/1682285942277824512"/>
+        <updated>2023-07-21T07:06:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，WhatsApp 此前被报道数据泄露，5 亿用户数据在网上被出售。据称，该数据集包含来自 84 个国家/地区的 WhatsApp 用户数据。此类信息主要被攻击者用于网络钓鱼。CZ 发推提醒，数据仍在增长，小心钓鱼和其他社交软件诈骗。最好在所有加密货币交易所上启用硬件设备（Yubikey）的 2FA… https://twitter.com/i/web/status/1682285942277824512]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ResearchQf Lol why doesn’t tsmc mark up their chips!]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682187814362927105</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682187814362927105"/>
+        <updated>2023-07-21T00:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @ResearchQf Lol why doesn’t tsmc mark up their chips!]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @basedkarbon Legit]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682149145321111552</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682149145321111552"/>
+        <updated>2023-07-20T22:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @basedkarbon Legit]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @usdcbull1 A revanchist zupercycle to be precise]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682148542775738368</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682148542775738368"/>
+        <updated>2023-07-20T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @usdcbull1 A revanchist zupercycle to be precise]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TaxEvadingChair Based]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682148355504324610</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682148355504324610"/>
+        <updated>2023-07-20T21:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @TaxEvadingChair Based]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @InternetH0F The UK is a third world country who cares]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1682146039183147011</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1682146039183147011"/>
+        <updated>2023-07-20T21:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @InternetH0F The UK is a third world country who cares]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to ...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1682019384292782080</id>
@@ -16,320 +403,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Nick Ford: Lastest Bot Meta updates. Pick your fighter. S-Tier $WAGIE Integrated GMX perps $UNIBOT Unibot X tomorrow! Stay tuned $GENIE Genie Purpl...]]></title>
-        <id>https://twitter.com/CryptoWithNick/status/1681933718020308993</id>
-        <link href="https://twitter.com/CryptoWithNick/status/1681933718020308993"/>
-        <updated>2023-07-20T07:47:01.000Z</updated>
-        <summary type="html"><![CDATA[RT Nick Ford
-Lastest Bot Meta updates. Pick your fighter. 
-S-Tier
-$WAGIE Integrated GMX perps 
-$UNIBOT Unibot X tomorrow! Stay tuned
-$GENIE Genie Purple live next week! New features!
-A-Tier
-$LOOT Airdrop farming
-$ASAP Discord trading bot
-$SWIPE Telegram trading bot
-$NBOT New mixer and… https://twitter.com/i/web/status/1681933718020308993 https://t.co/jXdkRNSP0Q]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dimexinweb3 @ChainEDGE_io Don’t even need to copy a single wallet. Watch them move as a herd]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681851773340844033</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681851773340844033"/>
-        <updated>2023-07-20T02:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @dimexinweb3 @ChainEDGE_io Don’t even need to copy a single wallet.   Watch them move as a herd]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xAobby @ChainEDGE_io Glad to hear it]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681841371664007173</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681841371664007173"/>
-        <updated>2023-07-20T01:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xAobby @ChainEDGE_io Glad to hear it]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Onchain Wizard: I called out $wagie in our @ChainEDGE_io research dashboard a week ago. Literally just follow the smart money and the truth shall s...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681837298663448577</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681837298663448577"/>
-        <updated>2023-07-20T01:23:53.000Z</updated>
-        <summary type="html"><![CDATA[RT Onchain Wizard
-I called out $wagie in our @ChainEDGE_io research dashboard a week ago.    Literally just follow the smart money and the truth shall set you free. https://t.co/NVfBOUcIq0]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I called out $wagie in our @ChainEDGE_io research dashboard a week ago. Literally just follow the smart money and the truth shall set you free. https:...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681837298663448577</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681837298663448577"/>
-        <updated>2023-07-20T01:23:53.000Z</updated>
-        <summary type="html"><![CDATA[I called out $wagie in our @ChainEDGE_io research dashboard a week ago.    Literally just follow the smart money and the truth shall set you free. https://t.co/NVfBOUcIq0]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Bobby Ong: Woke up to over 50k followers today. Thought we are in a zero growth environment but that's far from it. Growth is just harder to come b...]]></title>
-        <id>https://twitter.com/bobbyong/status/1681825543770210304</id>
-        <link href="https://twitter.com/bobbyong/status/1681825543770210304"/>
-        <updated>2023-07-20T00:37:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Bobby Ong
-Woke up to over 50k followers today. Thought we are in a zero growth environment but that's far from it. Growth is just harder to come by during a bear market. 
-Here's to staying sharp and catching all the upcoming crypto trends and narratives together. Next stop: 100k followers]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Citrini7 Bro how do u trade so many different assets]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681820271349473280</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681820271349473280"/>
-        <updated>2023-07-20T00:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @Citrini7 Bro how do u trade so many different assets]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DylanLeClair_ What about ethe]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681813311132762113</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681813311132762113"/>
-        <updated>2023-07-19T23:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @DylanLeClair_ What about ethe]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dimexinweb3 @ChainEDGE_io It automates the process of finding the most consistently profitable wallets and streaming their activity into a highly ...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681796808421306368</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681796808421306368"/>
-        <updated>2023-07-19T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @dimexinweb3 @ChainEDGE_io It automates the process of finding the most consistently profitable wallets and streaming their activity into a highly filterable UI]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NotChaseColeman U worried they beat estimates or it goes down anyway]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681796107590946817</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681796107590946817"/>
-        <updated>2023-07-19T22:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @NotChaseColeman U worried they beat estimates or it goes down anyway]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cremieuxrecueil Cc @elonmusk]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681794698975870982</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681794698975870982"/>
-        <updated>2023-07-19T22:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @cremieuxrecueil Cc @elonmusk]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @narrativesai @ChainEDGE_io 🤝]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681794330325839872</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681794330325839872"/>
-        <updated>2023-07-19T22:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @narrativesai @ChainEDGE_io 🤝]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Narratives - Coming Soon: Highly recommend checking out @ChainEDGE_io. Had some great convos with @OnChainWizard and we share many viewpoints on wh...]]></title>
-        <id>https://twitter.com/narrativesai/status/1681793963148320768</id>
-        <link href="https://twitter.com/narrativesai/status/1681793963148320768"/>
-        <updated>2023-07-19T22:31:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Narratives - Coming Soon
-Highly recommend checking out @ChainEDGE_io. 
-Had some great convos with @OnChainWizard  and we share many viewpoints on where the industry is going. 
-Looking forward to releasing Narratives to the public soon in the company of great builders like him.
-
-Onchain Wizard: Instead of watching whales that crushed it on SHIB but can't adapt to the current PvP meta, just follow the new smart money via @ChainEDGE_io.    Never miss a new launch, emerging narrative or 100x trade again.
-https://www.chainedge.io/ https://t.co/3dPlc2hAoQ]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s the Hopium we need lads]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681790942322229250</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681790942322229250"/>
-        <updated>2023-07-19T22:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Here’s the Hopium we need lads
-
-Timothy Peterson, CFA CAIA: 13 years ago today #bitcoin had just begun trading on the Mt. Gox exchange for about 7.5 cents.  13 years from today, bitcoin will likely be trading for about $7.5 million.  That's not just hopium.  That's the mathematics of exponential growth, S-curve adoption, and network… https://twitter.com/i/web/status/1681709816593383434 https://t.co/vmfTkfzLZe]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep the pump going]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681787998889811975</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681787998889811975"/>
-        <updated>2023-07-19T22:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Keep the pump going
-
-Daily Chartbook: "Allocation to US equities surged 15ppt MoM to net 10% underweight, the highest allocation this year. US equity allocation has spiked 29ppt since May, the largest 2-month increase since Apr '22."
-- BofA https://t.co/wjE7QpZp4d]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @basedkarbon What’re ur core positions homie]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681785183064797184</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681785183064797184"/>
-        <updated>2023-07-19T21:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @basedkarbon What’re ur core positions homie]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When did retail become the smart money??]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681782449473241088</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681782449473241088"/>
-        <updated>2023-07-19T21:45:56.000Z</updated>
-        <summary type="html"><![CDATA[When did retail become the smart money??
-
-zerohedge: Retail is buying stocks at a record pace going into earnings; institutions are still on the sidelines (mostly bearish) and only dipping in because of FOMO 
-https://www.zerohedge.com/markets/record-retail-investor-purchases-heading-earnings-reluctant-institutions-get-dragged]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Women Based Again https://twitter.com/i/web/status/1681781339345780741]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681781339345780741</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681781339345780741"/>
-        <updated>2023-07-19T21:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Make Women Based Again https://twitter.com/i/web/status/1681781339345780741
-
-Rob Henderson: "While men’s votes skewing Republican and women’s skewing Democratic may seem like an immovable feature of the political landscape...Until the 1980s, it went the other way, with Republican candidates finding disproportionate popularity among women"https://www.tribdem.com/news/editorials/columns/inez-stepman-gender-crisis-is-really-a-marriage-crisis/article_be84edde-14e1-11ee-8a77-bfb4dd702153.html?utm_source=substack&utm_medium=email]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another thought provoking piece from Fallacy]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681779690996998150</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681779690996998150"/>
-        <updated>2023-07-19T21:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Another thought provoking piece from Fallacy
-
-Fallacy Alarm: Here is where 2023 differs from 2008.
-Back then it was a Private Debt Bubble. Now, it's a Public Debt Bubble, which has profound implications.
-$SPX
-https://www.fallacyalarm.com/p/this-is-where-2023-differs-from-2008]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xKawz @THORmaximalist #wen]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681778173401341953</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681778173401341953"/>
-        <updated>2023-07-19T21:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xKawz @THORmaximalist #wen]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xKawz Lol u gotta change ur brand to something like @THORmaximalist or something]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681777522290184194</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681777522290184194"/>
-        <updated>2023-07-19T21:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xKawz Lol u gotta change ur brand to something like @THORmaximalist or something]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instead of watching whales that crushed it on SHIB but can't adapt to the current PvP meta, just follow the new smart money via @ChainEDGE_io. Never m...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1681768930510094338</id>
-        <link href="https://twitter.com/OnChainWizard/status/1681768930510094338"/>
-        <updated>2023-07-19T20:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Instead of watching whales that crushed it on SHIB but can't adapt to the current PvP meta, just follow the new smart money via @ChainEDGE_io.    Never miss a new launch, emerging narrative or 100x trade again.
-https://www.chainedge.io/ https://t.co/3dPlc2hAoQ]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FloodCapital Does the coin benefit from that revenue tho]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681766102160875525</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681766102160875525"/>
-        <updated>2023-07-19T20:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @FloodCapital Does the coin benefit from that revenue tho]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AutomataEmily I think coin should trade at 10x sales. Think most of it just RE rating now that the existential risk is gone]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681765298393808896</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681765298393808896"/>
-        <updated>2023-07-19T20:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @AutomataEmily I think coin should trade at 10x sales. Think most of it just RE rating now that the existential risk is gone]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @kamikaz_ETH Where is a call me by your name Gif when u need it]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681738071048433664</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681738071048433664"/>
-        <updated>2023-07-19T18:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @kamikaz_ETH Where is a call me by your name Gif when u need it]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @resdegen Who’s doing such things]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681730431639535618</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681730431639535618"/>
-        <updated>2023-07-19T18:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @resdegen Who’s doing such things]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NotChaseColeman Gonna make for some epic pair trades sounds like]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1681730118631211035</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1681730118631211035"/>
-        <updated>2023-07-19T18:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @NotChaseColeman Gonna make for some epic pair trades sounds like]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Bizlet: She thinks women actually wanted this and it wasn't all a mass psyop to accept what they wanted to impose on you. LMAO.]]></title>
-        <id>https://twitter.com/bizlet7/status/1681699495782785024</id>
-        <link href="https://twitter.com/bizlet7/status/1681699495782785024"/>
-        <updated>2023-07-19T16:16:18.000Z</updated>
-        <summary type="html"><![CDATA[RT Bizlet
-She thinks women actually wanted this and it wasn't all a mass psyop to accept what they wanted to impose on you.
-LMAO.
-
-🥷🦅AP4Liberty 🇺🇲🥋: https://t.co/YDG1EvDe1O]]></summary>
+        <title type="html"><![CDATA[RT Sam Ro 📈: i dunno man. none of this is really screaming frothy to me. https://t.co/a9hy3FzgCU]]></title>
+        <id>https://twitter.com/SamRo/status/1682007726623272960</id>
+        <link href="https://twitter.com/SamRo/status/1682007726623272960"/>
+        <updated>2023-07-20T12:41:06.000Z</updated>
+        <summary type="html"><![CDATA[RT Sam Ro 📈
+i dunno man. none of this is really screaming frothy to me. https://t.co/a9hy3FzgCU]]></summary>
         <author>
             <name>Surfer</name>
         </author>
@@ -355,18 +434,6 @@ Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance
         <summary type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Route 2 FI: We are just getting started. https://cryptoslate.com/silent-protocol-ushers-in-a-new-era-of-defi-privacy-as-sora-ventures-leads-5m-roun...]]></title>
-        <id>https://twitter.com/Route2FI/status/1680544256165834753</id>
-        <link href="https://twitter.com/Route2FI/status/1680544256165834753"/>
-        <updated>2023-07-16T11:45:48.000Z</updated>
-        <summary type="html"><![CDATA[RT Route 2 FI
-We are just getting started.
-https://cryptoslate.com/silent-protocol-ushers-in-a-new-era-of-defi-privacy-as-sora-ventures-leads-5m-round/ https://t.co/smzT0OIynO]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -398,47 +465,6 @@ https://cryptoslate.com/silent-protocol-ushers-in-a-new-era-of-defi-privacy-as-s
         <summary type="html"><![CDATA[https://t.co/rPOb9G92wk]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT *Walter Bloomberg: GOOGLE PLAY CHANGES POLICY ON TOKENIZED DIGITAL ASSETS, ALLOWING NFTS IN APPS AND GAMES - COINDESK]]></title>
-        <id>https://twitter.com/DeItaone/status/1679190205108977681</id>
-        <link href="https://twitter.com/DeItaone/status/1679190205108977681"/>
-        <updated>2023-07-12T18:05:17.000Z</updated>
-        <summary type="html"><![CDATA[RT *Walter Bloomberg
-GOOGLE PLAY CHANGES POLICY ON TOKENIZED DIGITAL ASSETS, ALLOWING NFTS IN APPS AND GAMES - COINDESK]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @naniXBT Pizza or chocolate? https://t.co/SzhHnzLI3Q]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1678949463258275841</id>
-        <link href="https://twitter.com/OnChainWizard/status/1678949463258275841"/>
-        <updated>2023-07-12T02:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @naniXBT Pizza or chocolate? https://t.co/SzhHnzLI3Q]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These fatzukis are hilarious https://t.co/UMr8azMBvE]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1678949198828388352</id>
-        <link href="https://twitter.com/OnChainWizard/status/1678949198828388352"/>
-        <updated>2023-07-12T02:07:37.000Z</updated>
-        <summary type="html"><![CDATA[These fatzukis are hilarious https://t.co/UMr8azMBvE]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DegenSpartan Didn't realize I should be wearing gloves all this time ☹️]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1678794763196137474</id>
-        <link href="https://twitter.com/OnChainWizard/status/1678794763196137474"/>
-        <updated>2023-07-11T15:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @DegenSpartan Didn't realize I should be wearing gloves all this time ☹️]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -491,21 +517,6 @@ https://platform.arkhamintelligence.com/waitlist?referrer=ZGVmaWVkdWNhdG9yQHBoZG
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Parallax Finance: Just dropped a 25% APY.... ⚡LSD Strategy ⚡Single click interaction ⚡Deposit ANY asset rETH-wETH vault 🏦 👇 https://t.co/i...]]></title>
-        <id>https://twitter.com/parallaxfin/status/1678365998213373956</id>
-        <link href="https://twitter.com/parallaxfin/status/1678365998213373956"/>
-        <updated>2023-07-10T11:30:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Parallax Finance
-Just dropped a 25% APY....
-⚡LSD Strategy
-⚡Single click interaction
-⚡Deposit ANY asset
-rETH-wETH vault 🏦 👇 https://t.co/i7AvTJY9WX]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @baofuliu 以形补形]]></title>
         <id>https://twitter.com/8848Community/status/1678246222082220033</id>
         <link href="https://twitter.com/8848Community/status/1678246222082220033"/>
@@ -527,23 +538,6 @@ rETH-wETH vault 🏦 👇 https://t.co/i7AvTJY9WX]]></summary>
 也可不仅只苦行 https://t.co/7D7uaG6sYJ]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT arndxt: ToE's Weekly Highlights #31 🔹Macro: Banks earnings, Rates hike? 🔹Trend: ETH stats, RWA 🔹Defi: Layer 3, Defi 1.0. BCH, COMP pump �...]]></title>
-        <id>https://twitter.com/arndxt_xo/status/1678056883561852928</id>
-        <link href="https://twitter.com/arndxt_xo/status/1678056883561852928"/>
-        <updated>2023-07-09T15:01:52.000Z</updated>
-        <summary type="html"><![CDATA[RT arndxt
-ToE's Weekly Highlights #31
-🔹Macro: Banks earnings, Rates hike?
-🔹Trend: ETH stats, RWA
-🔹Defi: Layer 3, Defi 1.0. BCH, COMP pump
-🔹Tools: Chainedge guide, cheatsheets
-🔹Spicy drama: Multichain hacked, SEC defi projects, Unsettling finds at Kraken CEO home
-📩📭 (link in bio) https://t.co/cQkqF5quOt]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -578,16 +572,6 @@ Please don’t use the Multichain bridging service now. https://twitter.com/i/we
         <summary type="html"><![CDATA[😓内忧外患 https://t.co/l4Ei64ix9M]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tfw you run out of new memecoin names https://t.co/jbfwemq6H7]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1677331417716457474</id>
-        <link href="https://twitter.com/OnChainWizard/status/1677331417716457474"/>
-        <updated>2023-07-07T14:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Tfw you run out of new memecoin names https://t.co/jbfwemq6H7]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -651,21 +635,6 @@ The team is not sure what happened and is currently investigating.
 It is recommended that all users suspend the use of Multichain services and revoke all contract approvals… https://twitter.com/i/web/status/1677096839731097600]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Saushank.eth 🔮(🧙‍♂️,👾): One of my fav tools for chain analysis is @ChainEDGE_io by @OnChainWizard Its built by someone who truly unders...]]></title>
-        <id>https://twitter.com/saushank_/status/1676969320163975174</id>
-        <link href="https://twitter.com/saushank_/status/1676969320163975174"/>
-        <updated>2023-07-06T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Saushank.eth 🔮(🧙‍♂️,👾)
-One of my fav tools for chain analysis is @ChainEDGE_io by @OnChainWizard 
-Its built by someone who truly understands onchain data.
-He also writes a sick substack which has some great alpha bets and narratives.
-PS- I am biased as I use both
-https://onchainwizard.substack.com?r=ulgdq]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -771,22 +740,6 @@ Feedback and Block Explorer links👇]]></summary>
         <summary type="html"><![CDATA[和币有关的软件都是病毒😂😂😂 https://t.co/QvMM2mtkm9]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is alfa]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1676427750884737024</id>
-        <link href="https://twitter.com/OnChainWizard/status/1676427750884737024"/>
-        <updated>2023-07-05T03:08:16.000Z</updated>
-        <summary type="html"><![CDATA[This is alfa
-
-OnChain Apprentice: 1/
-Hello world👋
-I am a big fans of @OnChainWizard, have been using the tool @ChainEDGE_io since its launch
-I wanna do an experimental portfolio tracking by using ChainEdge's insight
-My public address on it: 0x8befd2eda9ba5c66ffe1518b4ae4e8b8ff2f82aa]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -905,16 +858,6 @@ Price action has largely been dominated by demand stemming from the calendar fut
 Even now, demand keeps surging, suggesting we are in the early stages of another price squeeze. https://t.co/04SM6yhvr5]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @scupytrooples Spoke to a few last week and they were surprised crypto was still around given all the banks that crypto killed]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1676050146344181769</id>
-        <link href="https://twitter.com/OnChainWizard/status/1676050146344181769"/>
-        <updated>2023-07-04T02:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @scupytrooples Spoke to a few last week and they were surprised crypto was still around given all the banks that crypto killed]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
