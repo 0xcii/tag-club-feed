@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T02:30:09.438Z</id>
+    <id>urn:2023-07-22T03:12:52.846Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-22T02:30:09.438Z</updated>
+    <updated>2023-07-22T03:12:52.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据币追统计，截至2023年7月19日，20个典型为网赌平台提供资金结算的支付平台收款地址，其直接或间接与18174个对手方共进行112290次资金交互，除其他网...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682577494048923648</id>
+        <link href="https://twitter.com/wublockchain12/status/1682577494048923648"/>
+        <updated>2023-07-22T02:25:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据币追统计，截至2023年7月19日，20个典型为网赌平台提供资金结算的支付平台收款地址，其直接或间接与18174个对手方共进行112290次资金交互，除其他网赌加密资金外，共收取洗钱关联加密资金4.19亿USDT、黑灰产关联加密资金4.28USDT，占总收入的44.42%。在过去一年，直接转入或间接关联主流交… https://twitter.com/i/web/status/1682577494048923648]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Whale Alert 监测到有 14,159 枚 BTC（约合 4.2 亿美元）由未知钱包转至未知钱包，经吴说链上查验，该地址与此前向币安转移 4451 枚 BTC 的地址为同一...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682576384978477056</id>
+        <link href="https://twitter.com/wublockchain12/status/1682576384978477056"/>
+        <updated>2023-07-22T02:20:45.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Whale Alert 监测到有 14,159 枚 BTC（约合 4.2 亿美元）由未知钱包转至未知钱包，经吴说链上查验，该地址与此前向币安转移 4451 枚 BTC 的地址为同一地址，转账行为应是币安的钱包整理。这 1.4 万枚 BTC 被转至 3G98jSULfhrES1J9HKfZdDjXx1sTNvHkhN，目前该地址共持有 2.5 万枚 BTC，约合… https://twitter.com/i/web/status/1682576384978477056
+
+吴说区块链: 吴说获悉，社区所传“巨鲸地址向币安转入 4451 枚比特币”一事应为币安钱包内部转账。该地址（31pCdkyF6Ep8UkzpkWpv3SMbY3C5s7VhXL）比特币均源自 3LoAAJN3tbMCEXWjGNeiyG2TtzLJYXcG5R 于 5 月 25 日的转账，后者的比特币则主要源自币安热钱包（bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h）的转进。… https://twitter.com/i/web/status/1681603600970305537]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CertiK，DeFi 协议 Conic Finance 再次遭到闪电贷攻击。截至目前，EOA 地址（0xB636）以及 EOA 地址（0xd050）已经获利至少 22.3 万美元。Conic Fi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682574337558339585</id>
+        <link href="https://twitter.com/wublockchain12/status/1682574337558339585"/>
+        <updated>2023-07-22T02:12:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CertiK，DeFi 协议 Conic Finance 再次遭到闪电贷攻击。截至目前，EOA 地址（0xB636）以及 EOA 地址（0xd050）已经获利至少 22.3 万美元。Conic Finance 昨日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。Conic Finance 发推表示，所有 Omnipools… https://twitter.com/i/web/status/1682574337558339585]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，一持有约 1037 枚 BTC（3100 万美元）的地址在休眠 11 年后被激活，上次活跃时间为 2012 年 4 月 11 日，目前已转至 bc1qtl80rm...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682569453505220609</id>
+        <link href="https://twitter.com/wublockchain12/status/1682569453505220609"/>
+        <updated>2023-07-22T01:53:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，一持有约 1037 枚 BTC（3100 万美元）的地址在休眠 11 年后被激活，上次活跃时间为 2012 年 4 月 11 日，目前已转至 bc1qtl80rmdpe2v662v4552x55wh7wwmss8w8lfx0y，暂无进一步移动。经吴说链上查验，这些资金可能被黑客所持有，其资金来源可追溯至 2021 年并持续至… https://twitter.com/i/web/status/1682569453505220609]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 blockworks，Google Cloud 正在策划更多以 Web3 为中心的产品，使其计算产品成为行业公司和开发人员的首选。谷歌云还将继续在 BigQuery（谷歌的“无服务器数...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682568455260868610</id>
+        <link href="https://twitter.com/wublockchain12/status/1682568455260868610"/>
+        <updated>2023-07-22T01:49:15.000Z</updated>
+        <summary type="html"><![CDATA[据 blockworks，Google Cloud 正在策划更多以 Web3 为中心的产品，使其计算产品成为行业公司和开发人员的首选。谷歌云还将继续在 BigQuery（谷歌的“无服务器数据仓库”）上提供以太坊等链上数据集。Google Cloud正在与专注于金融服务和游戏的玩家合作，探索 Web3… https://twitter.com/i/web/status/1682568455260868610]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 blockworks，Terraform 的新任首席执行官 Chris Amani 于 2022 年 1 月加入，即 UST 崩盘前大约四个月，此前曾担任首席运营官。他没有被单独指控欺诈。TFL 目...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682562346517135364</id>
+        <link href="https://twitter.com/wublockchain12/status/1682562346517135364"/>
+        <updated>2023-07-22T01:24:58.000Z</updated>
+        <summary type="html"><![CDATA[据 blockworks，Terraform 的新任首席执行官 Chris Amani 于 2022 年 1 月加入，即 UST 崩盘前大约四个月，此前曾担任首席运营官。他没有被单独指控欺诈。TFL 目前共有员工 40 名。当被问及是否欢迎创始人 Kwon 回到 Terra 时，Amani… https://twitter.com/i/web/status/1682562346517135364]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 去年在奥斯陆审理的一起案件中，多名证人提供了法医证据，表明赖特提供的声称支持他是中本聪的文件包含差异，例如当时无法使用的字体。（CoinDesk）https://w...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682561248360284160</id>
+        <link href="https://twitter.com/wublockchain12/status/1682561248360284160"/>
+        <updated>2023-07-22T01:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Re 去年在奥斯陆审理的一起案件中，多名证人提供了法医证据，表明赖特提供的声称支持他是中本聪的文件包含差异，例如当时无法使用的字体。（CoinDesk）https://www.coindesk.com/policy/2023/07/21/craig-wright-will-be-able-to-fight-bitcoin-copyright-claim-in-uk-after-winning-appeal/?utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682561245977903104</id>
+        <link href="https://twitter.com/wublockchain12/status/1682561245977903104"/>
+        <updated>2023-07-22T01:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应根据英国法律受到版权保护。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0x_Kun He blocked me can’t see]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1682557766571786240</id>
@@ -13,6 +95,27 @@
         <summary type="html"><![CDATA[Re @0x_Kun He blocked me can’t see]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682556787827036160</id>
+        <link href="https://twitter.com/wublockchain12/status/1682556787827036160"/>
+        <updated>2023-07-22T01:02:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上诉。SEC 的言论是对 Terraform Labs 和 Kwon 律师本周早些时候提交的一份文件的回应，该文件援引 Ripple 的裁决“证实 SEC… https://twitter.com/i/web/status/1682556787827036160]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721） https://www.wu-talk.com/index.php?m=content&c=inde...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682552283421347841</id>
+        <link href="https://twitter.com/wublockchain12/status/1682552283421347841"/>
+        <updated>2023-07-22T00:44:59.000Z</updated>
+        <summary type="html"><![CDATA[吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721）
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=16357]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -220,36 +323,6 @@ Lee Fang: As evidence continues to mount that corporate and university DEI pro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MetaMask计划在2023年底之前通过Snaps协议实现支持跨链互操作性，将允许MetaMask用户与其他网络上的应用程序进行交互。这意味着开发者可以使用Snaps在MetaMask之...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682389109715918848</id>
-        <link href="https://twitter.com/wublockchain12/status/1682389109715918848"/>
-        <updated>2023-07-21T13:56:35.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask计划在2023年底之前通过Snaps协议实现支持跨链互操作性，将允许MetaMask用户与其他网络上的应用程序进行交互。这意味着开发者可以使用Snaps在MetaMask之上构建专门功能。MetaMask于2020年首次宣布了Snaps—“一个开源系统，允许任何人安全地扩展MetaMask的功能”，以创建新的Web3体验。（The… https://twitter.com/i/web/status/1682389109715918848]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2022年，币安法国录得400万欧元亏损，原因是该账目涵盖了14个月期间的支出但只有6个月期间收入；预计其2023年财务报表将实现盈利。https://www.binance.com/f...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682386711383244801</id>
-        <link href="https://twitter.com/wublockchain12/status/1682386711383244801"/>
-        <updated>2023-07-21T13:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 2022年，币安法国录得400万欧元亏损，原因是该账目涵盖了14个月期间的支出但只有6个月期间收入；预计其2023年财务报表将实现盈利。https://www.binance.com/fr/blog/ecosystem/binance-france-publishes-2022-accounts--what-do-they-say-and-faq-7753651850896626460]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安法国今天发布其首份经过RSM Paris审计的2022年财务报表：币安法国代管着价值约10亿欧元的加密资产（属于法国用户）；币安法国自有账户上持有700万...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682386685169115136</id>
-        <link href="https://twitter.com/wublockchain12/status/1682386685169115136"/>
-        <updated>2023-07-21T13:46:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安法国今天发布其首份经过RSM Paris审计的2022年财务报表：币安法国代管着价值约10亿欧元的加密资产（属于法国用户）；币安法国自有账户上持有700万美元稳定币USDT；]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Bob Elliott: Re Those who have followed China’s progression for decades know that they have at times exerted substantial force behind stimulating ...]]></title>
         <id>https://twitter.com/BobEUnlimited/status/1682376601378365440</id>
         <link href="https://twitter.com/BobEUnlimited/status/1682376601378365440"/>
@@ -286,16 +359,6 @@ We're okay with it. Day 2 of $UNIBOT X will be better than Day 1 and tomorrow wi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi 协议 Conic Finance 今日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。BlockSec 分析称，攻击者利用了一种重入漏洞，随后操纵了 Conic 依赖的有缺陷价格...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682369977670852611</id>
-        <link href="https://twitter.com/wublockchain12/status/1682369977670852611"/>
-        <updated>2023-07-21T12:40:34.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 协议 Conic Finance 今日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。BlockSec 分析称，攻击者利用了一种重入漏洞，随后操纵了 Conic 依赖的有缺陷价格预言机，使其能够提取资金。Conic 团队回应正在调查关于 ETH Omnipool 的漏洞，已在 Conic 前端禁用了 ETH Omnipool 的存款功能。Conic… https://twitter.com/i/web/status/1682369977670852611]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @TrustlessTooth Ooooo shiiiit]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1682362836373196800</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1682362836373196800"/>
@@ -315,16 +378,6 @@ We're okay with it. Day 2 of $UNIBOT X will be better than Day 1 and tomorrow wi
 Texas Oncologist: I swear the next time I hear "GS predicts X" as a solid reason for anything... Either they are clueless or they're telling you they're on the other side of the trade, but either way it's a fade.]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utopia Labs 现允许企业将 USDC 发送到任何美国银行账户，而无需经过 CEX，旨在提高法币和加密货币之间的互操作性并加速加密支付的采用。据悉，企业需提交其 KYB...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682350610455179264</id>
-        <link href="https://twitter.com/wublockchain12/status/1682350610455179264"/>
-        <updated>2023-07-21T11:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Utopia Labs 现允许企业将 USDC 发送到任何美国银行账户，而无需经过 CEX，旨在提高法币和加密货币之间的互操作性并加速加密支付的采用。据悉，企业需提交其 KYB 和 KYC 以申请，USDC 转账仅限于以太坊链，不支持古巴、朝鲜、伊朗、叙利亚、白俄罗斯和俄罗斯等国家。 Utopia 去年完成由 Paradigm… https://twitter.com/i/web/status/1682350610455179264]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -363,17 +416,6 @@ What do you think? Depending on how high $btc goes doesn’t seem too crazy. htt
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Wormhole 推出新的跨链桥 Wormhole Gateway，旨在通过 IBC 集成连接到多个 Cosmos 链和应用程序，为开发者和用户提供更便捷的方式将流动性引入 Cosmos...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682340578149711872</id>
-        <link href="https://twitter.com/wublockchain12/status/1682340578149711872"/>
-        <updated>2023-07-21T10:43:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Wormhole 推出新的跨链桥 Wormhole Gateway，旨在通过 IBC 集成连接到多个 Cosmos 链和应用程序，为开发者和用户提供更便捷的方式将流动性引入 Cosmos 生态系统。目前支持包括 Osmosis、Evmos、Neutron 和 Sei 等 23 个 Cosmos 链。
-https://wormhole.com/wormhole-gateway-the-gateway-to-the-cosmos-ecosystem/]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @_jacopino @DegenSpartan It’s based on this https://twitter.com/degenspartan/status/1680833142306009088?s=46&t=_sZ6xyyOBuoMYsKE6B_heA]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1682340373870391304</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1682340373870391304"/>
@@ -391,36 +433,6 @@ will use (peak +1 month) prices
 and see how whats the final multiple that it will clock in]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple 计划扩大在英国和欧洲的业务，但仍将美国视为其全球中心。Ripple 已向英国金融行为监管局申请注册为加密资产公司，并在爱尔兰申请了支付机构许可证。过去...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682337630950764544</id>
-        <link href="https://twitter.com/wublockchain12/status/1682337630950764544"/>
-        <updated>2023-07-21T10:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Ripple 计划扩大在英国和欧洲的业务，但仍将美国视为其全球中心。Ripple 已向英国金融行为监管局申请注册为加密资产公司，并在爱尔兰申请了支付机构许可证。过去 18 个月里，Ripple 在英国和欧洲的员工人数增长了 75%，目前，全球约 900 名员工中，有 100… https://twitter.com/i/web/status/1682337630950764544]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据监管文件，印度尼西亚商品期货监管机构（Bappebti）已确定加密资产交易所、清算机构和资产存储管理者。于 7 月 17 日批准 PT Bursa Komoditi Nusant...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682310608216281088</id>
-        <link href="https://twitter.com/wublockchain12/status/1682310608216281088"/>
-        <updated>2023-07-21T08:44:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据监管文件，印度尼西亚商品期货监管机构（Bappebti）已确定加密资产交易所、清算机构和资产存储管理者。于 7 月 17 日批准 PT Bursa Komoditi Nusantara 成为加密资产期货交易所，PT Kliring Berjangka Indonesia 作为加密资产实物市场清算机构；于 7 月 20 日批准 PT Tennet Depository… https://twitter.com/i/web/status/1682310608216281088]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安发布2023上半年报告。比特币市场主导地位在半年结束时达到了 2021 年 4 月以来的最高水平，而其年初至今超过 87% 的价格表现明显优于许多常见的 T...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682305898176479233</id>
-        <link href="https://twitter.com/wublockchain12/status/1682305898176479233"/>
-        <updated>2023-07-21T08:25:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安发布2023上半年报告。比特币市场主导地位在半年结束时达到了 2021 年 4 月以来的最高水平，而其年初至今超过 87% 的价格表现明显优于许多常见的 TradFi 投资。全球稳定币市值下降了 7.0%，但USDT 的市场份额年初至今显着增长了 25.8%。NFT… https://twitter.com/i/web/status/1682305898176479233]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
