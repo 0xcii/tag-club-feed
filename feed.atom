@@ -1,143 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T08:14:23.873Z</id>
+    <id>urn:2023-07-22T09:11:20.102Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-22T08:14:23.873Z</updated>
+    <updated>2023-07-22T09:11:20.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 FinSMEs，区块链技术初创公司 Cymbal 宣布完成 1850 万美元融资，First Round Capital、Solana Ventures、Coinbase Ventures 等参投。Cymbal 正在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682608971839070208</id>
-        <link href="https://twitter.com/wublockchain12/status/1682608971839070208"/>
-        <updated>2023-07-22T04:30:14.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 FinSMEs，区块链技术初创公司 Cymbal 宣布完成 1850 万美元融资，First Round Capital、Solana Ventures、Coinbase Ventures 等参投。Cymbal 正在构建可读以太坊区块链浏览器，允许用户查看以太坊区块链并搜索存储在链上的数十亿个事件和活动。目前 Cymbal… https://twitter.com/i/web/status/1682608971839070208]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 该项目种子轮融资的投资者包括 Alameda Research、NGC Ventures、PetRock Capital、Coin98 Ventures 等。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682596314566254592</id>
-        <link href="https://twitter.com/wublockchain12/status/1682596314566254592"/>
-        <updated>2023-07-22T03:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 该项目种子轮融资的投资者包括 Alameda Research、NGC Ventures、PetRock Capital、Coin98 Ventures 等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OpenSea 在近日推出了“Make a deal”功能，由 Seaport 提供支持，用户可以用自己的 NFT（集合）去换取对方的 NFT（集合），并可以添加一定数量的 WET...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682596252394070019</id>
-        <link href="https://twitter.com/wublockchain12/status/1682596252394070019"/>
-        <updated>2023-07-22T03:39:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OpenSea 在近日推出了“Make a deal”功能，由 Seaport 提供支持，用户可以用自己的 NFT（集合）去换取对方的 NFT（集合），并可以添加一定数量的 WETH。OpenSea Deals 可以看作是一种 NFT 流动性解决方案，在不需要流动性资产 ETH 的前提下，实现 NFT 与 NFT… https://twitter.com/i/web/status/1682596252394070019]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DLNews，一些套利者通过名为 BC GAME的加密赌场在 Fantom 资产爆跌时完成套利，因为该赌场没有考虑到资产以其公允市场价值以外的任何价格交易的可...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682587327158419457</id>
-        <link href="https://twitter.com/wublockchain12/status/1682587327158419457"/>
-        <updated>2023-07-22T03:04:14.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DLNews，一些套利者通过名为 BC GAME的加密赌场在 Fantom 资产爆跌时完成套利，因为该赌场没有考虑到资产以其公允市场价值以外的任何价格交易的可能性。0xfad7 和一些其他钱包将脱钩的 Fantom USDC 发送至 BC GAME，随后在低风险游戏后下注，然后撤回资金，并将价值为 1 美元的 USDC… https://twitter.com/i/web/status/1682587327158419457]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，曾于 2021 年 9 月份通过 IDO 融资 8500 万美元的 Solana 上 DeFi 项目 Parrot Protocol 近日提出了一项争议性较大的提案。提议内容是将该其转为无代...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682582148489043969</id>
-        <link href="https://twitter.com/wublockchain12/status/1682582148489043969"/>
-        <updated>2023-07-22T02:43:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，曾于 2021 年 9 月份通过 IDO 融资 8500 万美元的 Solana 上 DeFi 项目 Parrot Protocol 近日提出了一项争议性较大的提案。提议内容是将该其转为无代币协议，并以 0.0045 美元的价格赎回其原生 Token PRT，目前提案已获得 1.14 亿票的赞成，赞成率为 97.3%。
-https://app.realms.today/dao/8YDTzT86Tv3JF7SvHwF3EEu4bsiPf8LTUz6ukqVHuoKR/proposal/FWTCFkn8sSccSUL3UXKfGUfcR91hqNbNh8vsU92LATJm… https://twitter.com/i/web/status/1682582148489043969]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据币追统计，截至2023年7月19日，20个典型为网赌平台提供资金结算的支付平台收款地址，其直接或间接与18174个对手方共进行112290次资金交互，除其他网...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682577494048923648</id>
-        <link href="https://twitter.com/wublockchain12/status/1682577494048923648"/>
-        <updated>2023-07-22T02:25:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据币追统计，截至2023年7月19日，20个典型为网赌平台提供资金结算的支付平台收款地址，其直接或间接与18174个对手方共进行112290次资金交互，除其他网赌加密资金外，共收取洗钱关联加密资金4.19亿USDT、黑灰产关联加密资金4.28USDT，占总收入的44.42%。在过去一年，直接转入或间接关联主流交… https://twitter.com/i/web/status/1682577494048923648]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Whale Alert 监测到有 14,159 枚 BTC（约合 4.2 亿美元）由未知钱包转至未知钱包，经吴说链上查验，该地址与此前向币安转移 4451 枚 BTC 的地址为同一...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682576384978477056</id>
-        <link href="https://twitter.com/wublockchain12/status/1682576384978477056"/>
-        <updated>2023-07-22T02:20:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Whale Alert 监测到有 14,159 枚 BTC（约合 4.2 亿美元）由未知钱包转至未知钱包，经吴说链上查验，该地址与此前向币安转移 4451 枚 BTC 的地址为同一地址，转账行为应是币安的钱包整理。这 1.4 万枚 BTC 被转至 3G98jSULfhrES1J9HKfZdDjXx1sTNvHkhN，目前该地址共持有 2.5 万枚 BTC，约合… https://twitter.com/i/web/status/1682576384978477056
-
-吴说区块链: 吴说获悉，社区所传“巨鲸地址向币安转入 4451 枚比特币”一事应为币安钱包内部转账。该地址（31pCdkyF6Ep8UkzpkWpv3SMbY3C5s7VhXL）比特币均源自 3LoAAJN3tbMCEXWjGNeiyG2TtzLJYXcG5R 于 5 月 25 日的转账，后者的比特币则主要源自币安热钱包（bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h）的转进。… https://twitter.com/i/web/status/1681603600970305537]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 CertiK，DeFi 协议 Conic Finance 再次遭到闪电贷攻击。截至目前，EOA 地址（0xB636）以及 EOA 地址（0xd050）已经获利至少 22.3 万美元。Conic Fi...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682574337558339585</id>
-        <link href="https://twitter.com/wublockchain12/status/1682574337558339585"/>
-        <updated>2023-07-22T02:12:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 CertiK，DeFi 协议 Conic Finance 再次遭到闪电贷攻击。截至目前，EOA 地址（0xB636）以及 EOA 地址（0xd050）已经获利至少 22.3 万美元。Conic Finance 昨日被黑客攻击盗取了 1700 枚以太坊（326 万美元）。Conic Finance 发推表示，所有 Omnipools… https://twitter.com/i/web/status/1682574337558339585]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，一持有约 1037 枚 BTC（3100 万美元）的地址在休眠 11 年后被激活，上次活跃时间为 2012 年 4 月 11 日，目前已转至 bc1qtl80rm...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682569453505220609</id>
-        <link href="https://twitter.com/wublockchain12/status/1682569453505220609"/>
-        <updated>2023-07-22T01:53:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，一持有约 1037 枚 BTC（3100 万美元）的地址在休眠 11 年后被激活，上次活跃时间为 2012 年 4 月 11 日，目前已转至 bc1qtl80rmdpe2v662v4552x55wh7wwmss8w8lfx0y，暂无进一步移动。经吴说链上查验，这些资金可能被黑客所持有，其资金来源可追溯至 2021 年并持续至… https://twitter.com/i/web/status/1682569453505220609]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 blockworks，Google Cloud 正在策划更多以 Web3 为中心的产品，使其计算产品成为行业公司和开发人员的首选。谷歌云还将继续在 BigQuery（谷歌的“无服务器数...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682568455260868610</id>
-        <link href="https://twitter.com/wublockchain12/status/1682568455260868610"/>
-        <updated>2023-07-22T01:49:15.000Z</updated>
-        <summary type="html"><![CDATA[据 blockworks，Google Cloud 正在策划更多以 Web3 为中心的产品，使其计算产品成为行业公司和开发人员的首选。谷歌云还将继续在 BigQuery（谷歌的“无服务器数据仓库”）上提供以太坊等链上数据集。Google Cloud正在与专注于金融服务和游戏的玩家合作，探索 Web3… https://twitter.com/i/web/status/1682568455260868610]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 blockworks，Terraform 的新任首席执行官 Chris Amani 于 2022 年 1 月加入，即 UST 崩盘前大约四个月，此前曾担任首席运营官。他没有被单独指控欺诈。TFL 目...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682562346517135364</id>
-        <link href="https://twitter.com/wublockchain12/status/1682562346517135364"/>
-        <updated>2023-07-22T01:24:58.000Z</updated>
-        <summary type="html"><![CDATA[据 blockworks，Terraform 的新任首席执行官 Chris Amani 于 2022 年 1 月加入，即 UST 崩盘前大约四个月，此前曾担任首席运营官。他没有被单独指控欺诈。TFL 目前共有员工 40 名。当被问及是否欢迎创始人 Kwon 回到 Terra 时，Amani… https://twitter.com/i/web/status/1682562346517135364]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 去年在奥斯陆审理的一起案件中，多名证人提供了法医证据，表明赖特提供的声称支持他是中本聪的文件包含差异，例如当时无法使用的字体。（CoinDesk）https://w...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682561248360284160</id>
-        <link href="https://twitter.com/wublockchain12/status/1682561248360284160"/>
-        <updated>2023-07-22T01:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 去年在奥斯陆审理的一起案件中，多名证人提供了法医证据，表明赖特提供的声称支持他是中本聪的文件包含差异，例如当时无法使用的字体。（CoinDesk）https://www.coindesk.com/policy/2023/07/21/craig-wright-will-be-able-to-fight-bitcoin-copyright-claim-in-uk-after-winning-appeal/?utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682561245977903104</id>
-        <link href="https://twitter.com/wublockchain12/status/1682561245977903104"/>
-        <updated>2023-07-22T01:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应根据英国法律受到版权保护。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0x_Kun He blocked me can’t see]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1682557766571786240</id>
@@ -146,47 +13,6 @@ https://app.realms.today/dao/8YDTzT86Tv3JF7SvHwF3EEu4bsiPf8LTUz6ukqVHuoKR/propos
         <summary type="html"><![CDATA[Re @0x_Kun He blocked me can’t see]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682556787827036160</id>
-        <link href="https://twitter.com/wublockchain12/status/1682556787827036160"/>
-        <updated>2023-07-22T01:02:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上诉。SEC 的言论是对 Terraform Labs 和 Kwon 律师本周早些时候提交的一份文件的回应，该文件援引 Ripple 的裁决“证实 SEC… https://twitter.com/i/web/status/1682556787827036160]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721） https://www.wu-talk.com/index.php?m=content&c=inde...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682552283421347841</id>
-        <link href="https://twitter.com/wublockchain12/status/1682552283421347841"/>
-        <updated>2023-07-22T00:44:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721）
-https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=16357]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据华尔街日报，破产的加密货币借贷公司 Celsius Network 达成和解协议，可能为其获得法庭批准返还客户资产打好基础。其中一项和解协议通过将追偿金额...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682548464297844736</id>
-        <link href="https://twitter.com/wublockchain12/status/1682548464297844736"/>
-        <updated>2023-07-22T00:29:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据华尔街日报，破产的加密货币借贷公司 Celsius Network 达成和解协议，可能为其获得法庭批准返还客户资产打好基础。其中一项和解协议通过将追偿金额提高 5% 来解决客户对 Celsius 的欺诈指控提出的索赔，同时，该协议解决了 30,000 项索赔，要求赔偿 780 亿美元。Celsius 将于 8 月 10… https://twitter.com/i/web/status/1682548464297844736]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi 保险平台 Nexus Mutual 已使用 CoW Swap DEX 聚合器将其“安全保险模块”中的14,390 ETH（相当于2730万美元）兑换为 Rocket Pool 的 rETH 流动质押代币。这...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682541185007779840</id>
-        <link href="https://twitter.com/wublockchain12/status/1682541185007779840"/>
-        <updated>2023-07-22T00:00:53.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 保险平台 Nexus Mutual 已使用 CoW Swap DEX 聚合器将其“安全保险模块”中的14,390 ETH（相当于2730万美元）兑换为 Rocket Pool 的 rETH 流动质押代币。这是 Nexus Mutual 迄今进行的最大的链上兑换之一。Nexus Mutual 的发言人表示，“使用 Rocket Pool 协议进行质押将扩大 Nexus Mutual… https://twitter.com/i/web/status/1682541185007779840]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -274,16 +100,6 @@ Lee Fang: As evidence continues to mount that corporate and university DEI pro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[法庭文件显示，与 2016 年 Bitfinex 黑客攻击有关的一对纽约夫妇被指控涉嫌洗钱 45 亿美元，并已与联邦检察官达成认罪协议。Ilya Lichtenstein 和 Heather Morga...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682421886351990786</id>
-        <link href="https://twitter.com/wublockchain12/status/1682421886351990786"/>
-        <updated>2023-07-21T16:06:50.000Z</updated>
-        <summary type="html"><![CDATA[法庭文件显示，与 2016 年 Bitfinex 黑客攻击有关的一对纽约夫妇被指控涉嫌洗钱 45 亿美元，并已与联邦检察官达成认罪协议。Ilya Lichtenstein 和 Heather Morgan… https://twitter.com/i/web/status/1682421886351990786]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @0x_Kun For sure. We could nuke if Binance does an ftx]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1682415047518179330</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1682415047518179330"/>
@@ -291,16 +107,6 @@ Lee Fang: As evidence continues to mount that corporate and university DEI pro
         <summary type="html"><![CDATA[Re @0x_Kun For sure. We could nuke if Binance does an ftx]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密机构流动性平台 Paradigm（与同名的风投公司无关）在 Starknet 上孵化了新的去中心化永续衍生品 L2 应用链 Paradex。据称是一种混合衍生品交易所，将整合来...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682413917681905665</id>
-        <link href="https://twitter.com/wublockchain12/status/1682413917681905665"/>
-        <updated>2023-07-21T15:35:10.000Z</updated>
-        <summary type="html"><![CDATA[加密机构流动性平台 Paradigm（与同名的风投公司无关）在 Starknet 上孵化了新的去中心化永续衍生品 L2 应用链 Paradex。据称是一种混合衍生品交易所，将整合来自 Paradigm 的流动性同时具备 DeFi 的透明度和自托管特点，是 StarkWare 和 Paradigm 六个月合作开发的成果。（The… https://twitter.com/i/web/status/1682413917681905665]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -321,16 +127,6 @@ Lee Fang: As evidence continues to mount that corporate and university DEI pro
         <summary type="html"><![CDATA[Re @fallacyalarm Tesla great tech co?]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Worldcoin 公开发布 World ID SDK，将使网络、移动和链上集成变得快速、简单，包括 Web 小部件 (JS)、开发人员门户、开发模拟器、示例、指南等。 通过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682405601509523458</id>
-        <link href="https://twitter.com/wublockchain12/status/1682405601509523458"/>
-        <updated>2023-07-21T15:02:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Worldcoin 公开发布 World ID SDK，将使网络、移动和链上集成变得快速、简单，包括 Web 小部件 (JS)、开发人员门户、开发模拟器、示例、指南等。 通过 World ID 的无许可架构，世界各地的开发人员都可以免费与其集成。World ID 还旨在支持现有的开放身份标准，已支持 OAuth 2.0 和 OIDC… https://twitter.com/i/web/status/1682405601509523458]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1273,20 +1069,6 @@ Traditionally, when a hard fork occurs, users get tokens on *both* forks. Large 
 However, that's not what the BlackRock ETF says. It says… https://twitter.com/i/web/status/1669937251286126592]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dolpin | Open for WL Collabs: 🌊The Dolpin "Atlantiq Pass" allow-list is open!🌊 This limited edition Founder's Pass grants its holders true de...]]></title>
-        <id>https://twitter.com/DolpinIPFS/status/1671981925177630749</id>
-        <link href="https://twitter.com/DolpinIPFS/status/1671981925177630749"/>
-        <updated>2023-06-22T20:42:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Dolpin | Open for WL Collabs
-🌊The Dolpin "Atlantiq Pass" allow-list is open!🌊
-This limited edition Founder's Pass grants its holders true decentralized storage for their most valuable data:
-🐬25 GB Lifetime Storage  (worth over $500)
-🐬Lifetime Access to the Exclusive NFT-Backup-Feature  (A new &… https://twitter.com/i/web/status/1671981925177630749 https://t.co/uWrcbu9gFA]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
         </author>
     </entry>
 </feed>
