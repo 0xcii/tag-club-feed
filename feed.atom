@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T04:14:33.090Z</id>
+    <id>urn:2023-07-22T05:11:35.173Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-22T04:14:33.090Z</updated>
+    <updated>2023-07-22T05:11:35.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 FinSMEs，区块链技术初创公司 Cymbal 宣布完成 1850 万美元融资，First Round Capital、Solana Ventures、Coinbase Ventures 等参投。Cymbal 正在...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682608971839070208</id>
+        <link href="https://twitter.com/wublockchain12/status/1682608971839070208"/>
+        <updated>2023-07-22T04:30:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 FinSMEs，区块链技术初创公司 Cymbal 宣布完成 1850 万美元融资，First Round Capital、Solana Ventures、Coinbase Ventures 等参投。Cymbal 正在构建可读以太坊区块链浏览器，允许用户查看以太坊区块链并搜索存储在链上的数十亿个事件和活动。目前 Cymbal… https://twitter.com/i/web/status/1682608971839070208]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该项目种子轮融资的投资者包括 Alameda Research、NGC Ventures、PetRock Capital、Coin98 Ventures 等。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682596314566254592</id>
+        <link href="https://twitter.com/wublockchain12/status/1682596314566254592"/>
+        <updated>2023-07-22T03:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 该项目种子轮融资的投资者包括 Alameda Research、NGC Ventures、PetRock Capital、Coin98 Ventures 等。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OpenSea 在近日推出了“Make a deal”功能，由 Seaport 提供支持，用户可以用自己的 NFT（集合）去换取对方的 NFT（集合），并可以添加一定数量的 WET...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682596252394070019</id>
+        <link href="https://twitter.com/wublockchain12/status/1682596252394070019"/>
+        <updated>2023-07-22T03:39:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OpenSea 在近日推出了“Make a deal”功能，由 Seaport 提供支持，用户可以用自己的 NFT（集合）去换取对方的 NFT（集合），并可以添加一定数量的 WETH。OpenSea Deals 可以看作是一种 NFT 流动性解决方案，在不需要流动性资产 ETH 的前提下，实现 NFT 与 NFT… https://twitter.com/i/web/status/1682596252394070019]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 DLNews，一些套利者通过名为 BC GAME的加密赌场在 Fantom 资产爆跌时完成套利，因为该赌场没有考虑到资产以其公允市场价值以外的任何价格交易的可...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682587327158419457</id>
+        <link href="https://twitter.com/wublockchain12/status/1682587327158419457"/>
+        <updated>2023-07-22T03:04:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 DLNews，一些套利者通过名为 BC GAME的加密赌场在 Fantom 资产爆跌时完成套利，因为该赌场没有考虑到资产以其公允市场价值以外的任何价格交易的可能性。0xfad7 和一些其他钱包将脱钩的 Fantom USDC 发送至 BC GAME，随后在低风险游戏后下注，然后撤回资金，并将价值为 1 美元的 USDC… https://twitter.com/i/web/status/1682587327158419457]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，曾于 2021 年 9 月份通过 IDO 融资 8500 万美元的 Solana 上 DeFi 项目 Parrot Protocol 近日提出了一项争议性较大的提案。提议内容是将该其转为无代...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1682582148489043969</id>
+        <link href="https://twitter.com/wublockchain12/status/1682582148489043969"/>
+        <updated>2023-07-22T02:43:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，曾于 2021 年 9 月份通过 IDO 融资 8500 万美元的 Solana 上 DeFi 项目 Parrot Protocol 近日提出了一项争议性较大的提案。提议内容是将该其转为无代币协议，并以 0.0045 美元的价格赎回其原生 Token PRT，目前提案已获得 1.14 亿票的赞成，赞成率为 97.3%。
+https://app.realms.today/dao/8YDTzT86Tv3JF7SvHwF3EEu4bsiPf8LTUz6ukqVHuoKR/proposal/FWTCFkn8sSccSUL3UXKfGUfcR91hqNbNh8vsU92LATJm… https://twitter.com/i/web/status/1682582148489043969]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据币追统计，截至2023年7月19日，20个典型为网赌平台提供资金结算的支付平台收款地址，其直接或间接与18174个对手方共进行112290次资金交互，除其他网...]]></title>
         <id>https://twitter.com/wublockchain12/status/1682577494048923648</id>
@@ -278,46 +329,6 @@ Lee Fang: As evidence continues to mount that corporate and university DEI pro
         <link href="https://twitter.com/wublockchain12/status/1682405601509523458"/>
         <updated>2023-07-21T15:02:07.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Worldcoin 公开发布 World ID SDK，将使网络、移动和链上集成变得快速、简单，包括 Web 小部件 (JS)、开发人员门户、开发模拟器、示例、指南等。 通过 World ID 的无许可架构，世界各地的开发人员都可以免费与其集成。World ID 还旨在支持现有的开放身份标准，已支持 OAuth 2.0 和 OIDC… https://twitter.com/i/web/status/1682405601509523458]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自从6月底以来，比特币的价格在29500美元和32000美元之间波动，投资者们正在等待机构性现货ETF申请获批后可能出现的上涨突破。然而，有分析师声称BlackRock的申...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682402473938665475</id>
-        <link href="https://twitter.com/wublockchain12/status/1682402473938665475"/>
-        <updated>2023-07-21T14:49:41.000Z</updated>
-        <summary type="html"><![CDATA[自从6月底以来，比特币的价格在29500美元和32000美元之间波动，投资者们正在等待机构性现货ETF申请获批后可能出现的上涨突破。然而，有分析师声称BlackRock的申请“几乎没有可能”获得批准。CoinShares比特币研究主管Chris… https://twitter.com/i/web/status/1682402473938665475]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Hashkey 集团 COO Livio Weng 表示，今日券商用户通过香港华富建业证券APP，完成了在 HashKey PRO 撮合成交的第一笔虚拟资产交易；Longbridge Whale ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682396283288580096</id>
-        <link href="https://twitter.com/wublockchain12/status/1682396283288580096"/>
-        <updated>2023-07-21T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Hashkey 集团 COO Livio Weng 表示，今日券商用户通过香港华富建业证券APP，完成了在 HashKey PRO 撮合成交的第一笔虚拟资产交易；Longbridge Whale 是第一家为券商提供一站式虚拟资产交易系统服务的 BSS Vendor，华富建业证券成为 Whale… https://twitter.com/i/web/status/1682396283288580096]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re RSM US LLP 是美国第五大会计师事务所。早先主流会计师事务所集体拒绝给加密货币交易所提供审计。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682390921634271234</id>
-        <link href="https://twitter.com/wublockchain12/status/1682390921634271234"/>
-        <updated>2023-07-21T14:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Re RSM US LLP 是美国第五大会计师事务所。早先主流会计师事务所集体拒绝给加密货币交易所提供审计。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报 https://t.co/pzLqtEi3lL]]></title>
-        <id>https://twitter.com/wublockchain12/status/1682389256311017474</id>
-        <link href="https://twitter.com/wublockchain12/status/1682389256311017474"/>
-        <updated>2023-07-21T13:57:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报 https://t.co/pzLqtEi3lL]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
