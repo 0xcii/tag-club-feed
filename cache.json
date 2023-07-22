@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1682763268786634752",
+          "author": "吴说区块链",
+          "description": "吴说获悉，在近期的以太坊基金会 AMA 中有用户提问为何“以太坊不采用 Avalanche 的共识机制以支持更大的验证者集和更好的性能”，对此 Vitalik 曾表示“Avalanche 这类基于委员会的共识系统不具备真正的最终性”。不过今日 Vitalik 澄清他此前将 Avalanche 和 Algorand… https://twitter.com/i/web/status/1682763268786634752",
+          "link": "https://twitter.com/wublockchain12/status/1682763268786634752",
+          "publishedOn": "2023-07-22T14:43:22.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，在近期的以太坊基金会 AMA 中有用户提问为何“以太坊不采用 Avalanche 的共识机制以支持更大的验证者集和更好的性能”，对此 Vitalik 曾表示“Avalanc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1682757033794375680",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Uniswap 协议创始人 @haydenzadams 发推表示， Uniswap 希望看到更多利用加密超能力打破流行的 Web2 应用程序的加密项目，发现新的用例，而不是在现有少数用例上进行边缘改进（如AMM、借贷等）。而且应该将注意力放在攻击传统 Web2 应用程序上，而不是反复讨论对 Uniswap 的攻击。Uniswap… https://twitter.com/i/web/status/1682757033794375680",
+          "link": "https://twitter.com/wublockchain12/status/1682757033794375680",
+          "publishedOn": "2023-07-22T14:18:35.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Uniswap 协议创始人 @haydenzadams 发推表示， Uniswap 希望看到更多利用加密超能力打破流行的 Web2 应用程序的加密项目，发现新的用例，而不是在现有...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1682750451933134848",
+          "author": "吴说区块链",
+          "description": "福布斯专访 Sui CEO Evan Cheng: 在台湾南部城市高雄长大，2005 年加入了苹果公司；目标是视频游戏社区，已经签约了30家开发工作室，并为Sui Network 带来了47款游戏，其中一款游戏《行尸走肉：大地幸存者系列》将很快在 Sui 上推出。阅读全文：https://mp.weixin.qq.com/s/ZagZvHPYF9ILC68Or4brhg",
+          "link": "https://twitter.com/wublockchain12/status/1682750451933134848",
+          "publishedOn": "2023-07-22T13:52:26.000Z",
+          "wordCount": null,
+          "title": "福布斯专访 Sui CEO Evan Cheng: 在台湾南部城市高雄长大，2005 年加入了苹果公司；目标是视频游戏社区，已经签约了30家开发工作室，并为Sui Network 带来了47款...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1682669293018959872",
           "author": "吴说区块链",
           "description": "Re 派盾所提到的 Conic 遭到攻击的初步分析表明根本原因来自于 CurveLPOracleV2 合约，但需要指出的是，CurveLPOracleV2 是由 Conic 编写的合约，用于衡量 LP Token 的价值，这与 Curve 协议及其相关合约无关，Curve 不受该起事故影响。https://twitter.com/CurveFinance/status/1682412109949173760?s=20\n\nCurve Finance: @peckshield @ConicFinance Maybe worth clarifying that CurveLPOracleV2 is a contract which is written by Conic, measuring value of LP tokens.\nAlso seemingly it's not the algorithm which they wrote being incorrect but rather configuration.",
@@ -173,36 +203,6 @@
           "publishedOn": "2023-07-22T01:20:36.000Z",
           "wordCount": null,
           "title": "Re 去年在奥斯陆审理的一起案件中，多名证人提供了法医证据，表明赖特提供的声称支持他是中本聪的文件包含差异，例如当时无法使用的字体。（CoinDesk）https://w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1682561245977903104",
-          "author": "吴说区块链",
-          "description": "Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应根据英国法律受到版权保护。",
-          "link": "https://twitter.com/wublockchain12/status/1682561245977903104",
-          "publishedOn": "2023-07-22T01:20:36.000Z",
-          "wordCount": null,
-          "title": "Craig Wright 是否确实是比特币创造者中本聪，将在定于 2024 年 1 月开始的审判中确定。他辩称在三名英国法官接受了他对先前法院驳回的上诉后，比特币文件格式应...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1682556787827036160",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上诉。SEC 的言论是对 Terraform Labs 和 Kwon 律师本周早些时候提交的一份文件的回应，该文件援引 Ripple 的裁决“证实 SEC… https://twitter.com/i/web/status/1682556787827036160",
-          "link": "https://twitter.com/wublockchain12/status/1682556787827036160",
-          "publishedOn": "2023-07-22T01:02:53.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据彭博社，美国证券交易委员会要求联邦法官忽略该监管机构最近与 Ripple Labs Inc. 提起的诉讼中的部分裁决，称该裁决不符合现行证券法，并且可能会上...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1682552283421347841",
-          "author": "吴说区块链",
-          "description": "吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721）\nhttps://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=16357",
-          "link": "https://twitter.com/wublockchain12/status/1682552283421347841",
-          "publishedOn": "2023-07-22T00:44:59.000Z",
-          "wordCount": null,
-          "title": "吴说周精选：美议员对 DeFi 提出强监管、币安削减福利待遇、Opepen NFT 引发热潮与新闻Top10（0715-0721） https://www.wu-talk.com/index.php?m=content&c=inde...",
           "imageUrl": null
         }
       ]
@@ -951,6 +951,86 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682760868860182528",
+          "author": "Surfer",
+          "description": "Re @btcharlatan I agree but they’re definitely pulling back atm",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682760868860182528",
+          "publishedOn": "2023-07-22T14:33:49.000Z",
+          "wordCount": null,
+          "title": "Re @btcharlatan I agree but they’re definitely pulling back atm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682758648727064580",
+          "author": "Surfer",
+          "description": "Re @PSGOgi God he’s handsome",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682758648727064580",
+          "publishedOn": "2023-07-22T14:25:00.000Z",
+          "wordCount": null,
+          "title": "Re @PSGOgi God he’s handsome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682758350101008386",
+          "author": "Surfer",
+          "description": "Re @StockMarketNerd Seems like their IP is increasingly impaired",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682758350101008386",
+          "publishedOn": "2023-07-22T14:23:49.000Z",
+          "wordCount": null,
+          "title": "Re @StockMarketNerd Seems like their IP is increasingly impaired",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682758045871292416",
+          "author": "Surfer",
+          "description": "Re @abufenyrcd I don’t think of Msft as a consumer brand",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682758045871292416",
+          "publishedOn": "2023-07-22T14:22:36.000Z",
+          "wordCount": null,
+          "title": "Re @abufenyrcd I don’t think of Msft as a consumer brand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682756290349498368",
+          "author": "Surfer",
+          "description": "Re @Bowtiedplayer Yea assuming u got ur shit together ur opportunity set keeps growing into ur mid and late 30’s",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682756290349498368",
+          "publishedOn": "2023-07-22T14:15:38.000Z",
+          "wordCount": null,
+          "title": "Re @Bowtiedplayer Yea assuming u got ur shit together ur opportunity set keeps growing into ur mid and late 30’s",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682755732150669312",
+          "author": "Surfer",
+          "description": "Re @Beth_Kindig @ycharts Where’s $coin?",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682755732150669312",
+          "publishedOn": "2023-07-22T14:13:25.000Z",
+          "wordCount": null,
+          "title": "Re @Beth_Kindig @ycharts Where’s $coin?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682755505863680000",
+          "author": "Surfer",
+          "description": "Re @c0rellian No no mlb, nhl, even tennis r on average big dudes\nMaybe soccer another one that’s as egalitarian",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682755505863680000",
+          "publishedOn": "2023-07-22T14:12:31.000Z",
+          "wordCount": null,
+          "title": "Re @c0rellian No no mlb, nhl, even tennis r on average big dudes Maybe soccer another one that’s as egalitarian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1682755196584067072",
+          "author": "Surfer",
+          "description": "Most of these big tech monopolies have one big thing in common - they’re MASSIVE consumer brands and absolutely own the consumer in their specific vertical.\n$aapl in mobile\n$amzn in ecomm\n$googl in search\n$fb in social\nCrypto doesn’t have that… yet \nThat’s $coin’s true… https://twitter.com/i/web/status/1682755196584067072",
+          "link": "https://twitter.com/DeFiSurfer808/status/1682755196584067072",
+          "publishedOn": "2023-07-22T14:11:17.000Z",
+          "wordCount": null,
+          "title": "Most of these big tech monopolies have one big thing in common - they’re MASSIVE consumer brands and absolutely own the consumer in their specific ve...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1682750241039167489",
           "author": "Surfer",
           "description": "Re @Anointed_Ape @BowTiedBull Yes. With stocks u get the real return (5% currently) plus a growing coupon. With bonds the real return is tiny (2% currently) plus no coupon growth and duration risk",
@@ -1068,86 +1148,6 @@
           "publishedOn": "2023-07-22T11:27:00.000Z",
           "wordCount": null,
           "title": "Re @defi_mochi Yes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682713595170238465",
-          "author": "Surfer",
-          "description": "Re @naniXBT What happened to her face",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682713595170238465",
-          "publishedOn": "2023-07-22T11:25:59.000Z",
-          "wordCount": null,
-          "title": "Re @naniXBT What happened to her face",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682712012453822464",
-          "author": "Surfer",
-          "description": "Tech is a “winner take all” industry bruh\n\nHelene Meisler: Naz cumulative a/d.\nA periodic reminder that Naz breadth is in a permanent drawdown. https://t.co/CV4j3zzkik",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682712012453822464",
-          "publishedOn": "2023-07-22T11:19:41.000Z",
-          "wordCount": null,
-          "title": "Tech is a “winner take all” industry bruh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682704937736720384",
-          "author": "Surfer",
-          "description": "Re @usdcbull1 Millennials have less capital than boomers bro come on",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682704937736720384",
-          "publishedOn": "2023-07-22T10:51:34.000Z",
-          "wordCount": null,
-          "title": "Re @usdcbull1 Millennials have less capital than boomers bro come on",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682698714274488320",
-          "author": "Surfer",
-          "description": "Re @naniXBT Interesting you don’t say",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682698714274488320",
-          "publishedOn": "2023-07-22T10:26:51.000Z",
-          "wordCount": null,
-          "title": "Re @naniXBT Interesting you don’t say",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682557766571786240",
-          "author": "Surfer",
-          "description": "Re @0x_Kun He blocked me can’t see",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682557766571786240",
-          "publishedOn": "2023-07-22T01:06:46.000Z",
-          "wordCount": null,
-          "title": "Re @0x_Kun He blocked me can’t see",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682533687592734720",
-          "author": "Surfer",
-          "description": "Re @InnocenceCapit1 Bring back thunder",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682533687592734720",
-          "publishedOn": "2023-07-21T23:31:05.000Z",
-          "wordCount": null,
-          "title": "Re @InnocenceCapit1 Bring back thunder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1682515469675245568",
-          "author": "Surfer",
-          "description": "Re @Anointed_Ape Bro his tweet got 100k views 😂",
-          "link": "https://twitter.com/DeFiSurfer808/status/1682515469675245568",
-          "publishedOn": "2023-07-21T22:18:42.000Z",
-          "wordCount": null,
-          "title": "Re @Anointed_Ape Bro his tweet got 100k views 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BobEUnlimited/status/1682376601378365440",
-          "author": "Surfer",
-          "description": "RT Bob Elliott\nRe Those who have followed China’s progression for decades know that they have at times exerted substantial force behind stimulating the economy when growth has flagged.\nGFC, ‘16 ‘crisis’, covid we’re all times when the Chinese accelerated capital into the economy. Not this time. https://t.co/PBJEyMJFq5",
-          "link": "https://twitter.com/BobEUnlimited/status/1682376601378365440",
-          "publishedOn": "2023-07-21T13:06:53.000Z",
-          "wordCount": null,
-          "title": "RT Bob Elliott: Re Those who have followed China’s progression for decades know that they have at times exerted substantial force behind stimulating ...",
           "imageUrl": null
         }
       ]
