@@ -310,6 +310,73 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://twitter.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684700135660417024",
+          "author": "Surfer",
+          "description": "Is M2 starting to tick up again? @wabuffo https://fred.stlouisfed.org/series/WM2NS",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684700135660417024",
+          "publishedOn": "2023-07-27T22:59:47.000Z",
+          "wordCount": null,
+          "title": "Is M2 starting to tick up again? @wabuffo https://fred.stlouisfed.org/series/WM2NS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684697739655847936",
+          "author": "Surfer",
+          "description": "Real or hopium\n\nCryptoCon: There's been a lot of evidence to suggest something big is just around the corner for #Bitcoin, whether that be parabola or a powerful bull run\nI've compiled a list for you all to show you what I mean by, \"the stars are aligning.\"\nHere it is....",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684697739655847936",
+          "publishedOn": "2023-07-27T22:50:15.000Z",
+          "wordCount": null,
+          "title": "Real or hopium",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684630674374819840",
+          "author": "Surfer",
+          "description": "Can whatever is going to happen to @binance happen already so we can get this over with 😑",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684630674374819840",
+          "publishedOn": "2023-07-27T18:23:46.000Z",
+          "wordCount": null,
+          "title": "Can whatever is going to happen to @binance happen already so we can get this over with 😑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684628257965043712",
+          "author": "Surfer",
+          "description": "😆\n\nKuro:",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684628257965043712",
+          "publishedOn": "2023-07-27T18:14:10.000Z",
+          "wordCount": null,
+          "title": "😆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684522061367070720",
+          "author": "Surfer",
+          "description": "👀👀👀\n\nELON ALERTS: Elon Musk is now following Brian Armstrong 🛡️ (@brian_armstrong)",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684522061367070720",
+          "publishedOn": "2023-07-27T11:12:10.000Z",
+          "wordCount": null,
+          "title": "👀👀👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684367480737742848",
+          "author": "Surfer",
+          "description": "The private sector is not rate sensitive\n\nBill: As the Fed prepares to give us more cowbell this afternoon....\nthis your reminder that interest expense as a % of corporate profits is at the lowest levels in over 55 years.\nEven US businesses are feeling little effect from rising rates.",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684367480737742848",
+          "publishedOn": "2023-07-27T00:57:56.000Z",
+          "wordCount": null,
+          "title": "The private sector is not rate sensitive",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
