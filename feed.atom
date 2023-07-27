@@ -1,42 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T14:11:02.222Z</id>
+    <id>urn:2023-07-27T15:12:08.589Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-27T14:11:02.222Z</updated>
+    <updated>2023-07-27T15:12:08.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Animoca Brands 今天宣布与 web3 应用程序初创公司 Hi 建立战略合作伙伴关系，并表示将向 Hi 投资 3000 万美元，不过它补充说，最终条款尚未商定。Animoca 还将...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1684521738728779776</id>
-        <link href="https://twitter.com/wublockchain12/status/1684521738728779776"/>
-        <updated>2023-07-27T11:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Animoca Brands 今天宣布与 web3 应用程序初创公司 Hi 建立战略合作伙伴关系，并表示将向 Hi 投资 3000 万美元，不过它补充说，最终条款尚未商定。Animoca 还将使用 Hi 的人类身份证明工具，为开发人员提供他们所谓的“独特的人类身份验证机制”。（The Block）
-https://www.theblock.co/post/241643/animoca-to-invest-30-million-in-crypto-app-hi?utm_source=twitter&utm_medium=social]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 21Shares 分析师 Tom Wan，7 月 24 日 Rocket Pool 销毁了 6.72k rETH，创下了最大的单日销毁量。Arkham 数据显示，主要是大户地址（0x39…6249）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1684468954713268225</id>
-        <link href="https://twitter.com/wublockchain12/status/1684468954713268225"/>
-        <updated>2023-07-27T07:41:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 21Shares 分析师 Tom Wan，7 月 24 日 Rocket Pool 销毁了 6.72k rETH，创下了最大的单日销毁量。Arkham 数据显示，主要是大户地址（0x39…6249）销毁了 6,601.98 rETH，价值约 1,335 万美元；随后该地址将 7,115 ETH 转移进 Binance，或是进行出售，因为在该操作的 20 分钟后，该地址从…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安矿池宣布推出 BCH 挖矿服务，采用 FPPS 结算方式。挖矿奖励将在每日 10:00（UTC）自动存入用户的资金钱包。 https://www.binance.com/en/support/...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1684415890690043904</id>
-        <link href="https://twitter.com/wublockchain12/status/1684415890690043904"/>
-        <updated>2023-07-27T04:10:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安矿池宣布推出 BCH 挖矿服务，采用 FPPS 结算方式。挖矿奖励将在每日 10:00（UTC）自动存入用户的资金钱包。 
-https://www.binance.com/en/support/announcement/binance-pool-launches-bitcoin-cash-bch-mining-service-f62aac445cb043bd9ea1674d93e52304
-据 http://btc.com 数据，当前 BCH 全网算力为 3.03 EH/s，全网难度为 422.65 G。
-https://explorer.btc.com/zh-CN/bch]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
 </feed>
