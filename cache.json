@@ -1,113 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://twitter.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684574984034045952",
-          "author": "吴说区块链",
-          "description": "L2 解决方案 EthStorage 以 1 亿美元估值完成 700 万美元的融资，dao5 领投， SevenX Ventures 等参投。EthStorage 由周奇于去年创立，他也是区块链基础设施初创公司 QuarkChain 的创始人。（The Block）\nhttps://www.theblock.co/post/241657/ethstorage-funding-100-million-valuation?utm_source=twitter&utm_medium=social",
-          "link": "https://twitter.com/wublockchain12/status/1684574984034045952",
-          "publishedOn": "2023-07-27T14:42:28.000Z",
-          "wordCount": null,
-          "title": "L2 解决方案 EthStorage 以 1 亿美元估值完成 700 万美元的融资，dao5 领投， SevenX Ventures 等参投。EthStorage 由周奇于去年创立，他也是区块链基础设施初创...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684572044439199747",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Kaiko 分析指出，Worldcoin 目前的流通供应量为 1.11 亿个，其中 1 亿个是借给做市商的代币，额外的 1100 万枚已由参与启动前阶段的人员领取；Bybit 和火币最早上线，随后是 Uniswap 和 MEXC，币安上线后交易量暴增；前两个小时内其他交易所的总交易量为 1600…",
-          "link": "https://twitter.com/wublockchain12/status/1684572044439199747",
-          "publishedOn": "2023-07-27T14:30:47.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Kaiko 分析指出，Worldcoin 目前的流通供应量为 1.11 亿个，其中 1 亿个是借给做市商的代币，额外的 1100 万枚已由参与启动前阶段的人员领取；Bybit ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684568961311215616",
-          "author": "吴说区块链",
-          "description": "电商巨头亚马逊宣布扩展区块链服务 Amazon Managed Blockchain (AMB) ，该服务是一项完全托管的服务，最初仅支持比特币网络。AWS 金融服务技术副总裁 Saman Michael Far 表示，该服务将有助于开发人员更轻松的创建 Web3 应用程序，扩展了访问和查询功能的可用性。（CoinDesk）\nhttps://www.coindesk.com/business/2023/07/27/amazon-expands-managed-blockchain-services/",
-          "link": "https://twitter.com/wublockchain12/status/1684568961311215616",
-          "publishedOn": "2023-07-27T14:18:32.000Z",
-          "wordCount": null,
-          "title": "电商巨头亚马逊宣布扩展区块链服务 Amazon Managed Blockchain (AMB) ，该服务是一项完全托管的服务，最初仅支持比特币网络。AWS 金融服务技术副总裁 Saman Mich...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684567070120595457",
-          "author": "吴说区块链",
-          "description": "据 CoinDesk 报道，自去年俄乌战争以来，乌克兰仅通过加密货币就获得了价值 2.25 亿美元的捐款。数据显示，人道主义倡议比军队的筹款活动吸引了更多的捐款。乌克兰基金筹集了约 1.34 亿美元的加密货币以满足人道主义需求，而军事活动则筹集了 9100 万美元。大多数捐款（8300 万美元）都是以 USDT…",
-          "link": "https://twitter.com/wublockchain12/status/1684567070120595457",
-          "publishedOn": "2023-07-27T14:11:01.000Z",
-          "wordCount": null,
-          "title": "据 CoinDesk 报道，自去年俄乌战争以来，乌克兰仅通过加密货币就获得了价值 2.25 亿美元的捐款。数据显示，人道主义倡议比军队的筹款活动吸引了更多的捐款。乌克...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684564242807259136",
-          "author": "吴说区块链",
-          "description": "吴说每日晚报",
-          "link": "https://twitter.com/wublockchain12/status/1684564242807259136",
-          "publishedOn": "2023-07-27T13:59:47.000Z",
-          "wordCount": null,
-          "title": "吴说每日晚报",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684543691095162881",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 OKLink，Litecoin 预计将于 2023 年 8 月 3 日减半，倒计时已不足一周（约 6 日 4 时），约剩余 3,574 个区块。减半后，Litecoin 区块奖励将从 12.5 LTC 下调至 6.25 LTC。年初以来，BTC 约上涨 78%；LTC 约上涨 30%，逊色于大盘。https://www.oklink.com/cn/halving",
-          "link": "https://twitter.com/wublockchain12/status/1684543691095162881",
-          "publishedOn": "2023-07-27T12:38:07.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 OKLink，Litecoin 预计将于 2023 年 8 月 3 日减半，倒计时已不足一周（约 6 日 4 时），约剩余 3,574 个区块。减半后，Litecoin 区块奖励将从 12....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684540240629993474",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 cubescan，原 Huobi 开发的公链 Cube Chain 已于 26 日13 时停止出块，停止出块时长达 31 小时，社区用户反应链上资产无法转出。defillama 数据显示，该链 TVL 为 14 万美元。此前吴说曾于 22 年 7 月份报道 Huobi 裁员时提及 Cube 管理团队也面临调整。\nhttps://www.cubescan.network/en-us/…",
-          "link": "https://twitter.com/wublockchain12/status/1684540240629993474",
-          "publishedOn": "2023-07-27T12:24:25.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 cubescan，原 Huobi 开发的公链 Cube Chain 已于 26 日13 时停止出块，停止出块时长达 31 小时，社区用户反应链上资产无法转出。defillama 数据显...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684535912766779394",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据韩联社，韩美两国26日在首尔举行朝鲜网络威胁应对工作组第四次会议，双方一致认为，朝鲜利用窃取虚拟资产及跨国IT企业伪装就业等方式，每年赚取非法资金数亿美元，并商定将与全球招聘网站和网上支付平台加强信息交流，进一步深化与虚拟资产服务提供商的合作，有效应对朝鲜非法就业及窃取虚…",
-          "link": "https://twitter.com/wublockchain12/status/1684535912766779394",
-          "publishedOn": "2023-07-27T12:07:13.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据韩联社，韩美两国26日在首尔举行朝鲜网络威胁应对工作组第四次会议，双方一致认为，朝鲜利用窃取虚拟资产及跨国IT企业伪装就业等方式，每年赚取非法...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684521738728779776",
-          "author": "吴说区块链",
-          "description": "Animoca Brands 今天宣布与 web3 应用程序初创公司 Hi 建立战略合作伙伴关系，并表示将向 Hi 投资 3000 万美元，不过它补充说，最终条款尚未商定。Animoca 还将使用 Hi 的人类身份证明工具，为开发人员提供他们所谓的“独特的人类身份验证机制”。（The Block）\nhttps://www.theblock.co/post/241643/animoca-to-invest-30-million-in-crypto-app-hi?utm_source=twitter&utm_medium=social",
-          "link": "https://twitter.com/wublockchain12/status/1684521738728779776",
-          "publishedOn": "2023-07-27T11:10:54.000Z",
-          "wordCount": null,
-          "title": "Animoca Brands 今天宣布与 web3 应用程序初创公司 Hi 建立战略合作伙伴关系，并表示将向 Hi 投资 3000 万美元，不过它补充说，最终条款尚未商定。Animoca 还将...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1684468954713268225",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 21Shares 分析师 Tom Wan，7 月 24 日 Rocket Pool 销毁了 6.72k rETH，创下了最大的单日销毁量。Arkham 数据显示，主要是大户地址（0x39…6249）销毁了 6,601.98 rETH，价值约 1,335 万美元；随后该地址将 7,115 ETH 转移进 Binance，或是进行出售，因为在该操作的 20 分钟后，该地址从…",
-          "link": "https://twitter.com/wublockchain12/status/1684468954713268225",
-          "publishedOn": "2023-07-27T07:41:09.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 21Shares 分析师 Tom Wan，7 月 24 日 Rocket Pool 销毁了 6.72k rETH，创下了最大的单日销毁量。Arkham 数据显示，主要是大户地址（0x39…6249）...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @8848 社区（8848 Community）",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
@@ -307,6 +200,100 @@
           "publishedOn": "2023-07-04T20:38:53.000Z",
           "wordCount": null,
           "title": "RT Fire: Bryan Pellegrino of @LayerZero_Labs Twitter has been compromised and has scam links on it that will steal your assets. Confirmed with Fire be...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://twitter.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/narrativesai/status/1684563991832694785",
+          "author": "Onchain Wizard",
+          "description": "RT Narratives - Coming Soon\nI vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. \nI’m impressed but not surprised to see how far it’s come and what’s been built. \nThe rise of onchain is a surprise to many but a bet some of us made over a year ago. \n..\n\nOnchain Wizard: Introducing chainEDGE (2.0):\nAfter months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader",
+          "link": "https://twitter.com/narrativesai/status/1684563991832694785",
+          "publishedOn": "2023-07-27T13:58:47.000Z",
+          "wordCount": null,
+          "title": "RT Narratives - Coming Soon: I vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. I’m impressed but not sur...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1684551724583862272",
+          "author": "Onchain Wizard",
+          "description": "RT Onchain Wizard\nIntroducing chainEDGE (2.0):\nAfter months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader",
+          "link": "https://twitter.com/OnChainWizard/status/1684551724583862272",
+          "publishedOn": "2023-07-27T13:10:03.000Z",
+          "wordCount": null,
+          "title": "RT Onchain Wizard: Introducing chainEDGE (2.0): After months of testing, I’m beyond excited to announce we are officially opening up access to http:/...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://twitter.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684628257965043712",
+          "author": "Surfer",
+          "description": "😆\n\nKuro:",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684628257965043712",
+          "publishedOn": "2023-07-27T18:14:10.000Z",
+          "wordCount": null,
+          "title": "😆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684522061367070720",
+          "author": "Surfer",
+          "description": "👀👀👀\n\nELON ALERTS: Elon Musk is now following Brian Armstrong 🛡️ (@brian_armstrong)",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684522061367070720",
+          "publishedOn": "2023-07-27T11:12:10.000Z",
+          "wordCount": null,
+          "title": "👀👀👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684367480737742848",
+          "author": "Surfer",
+          "description": "The private sector is not rate sensitive\n\nBill: As the Fed prepares to give us more cowbell this afternoon....\nthis your reminder that interest expense as a % of corporate profits is at the lowest levels in over 55 years.\nEven US businesses are feeling little effect from rising rates.",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684367480737742848",
+          "publishedOn": "2023-07-27T00:57:56.000Z",
+          "wordCount": null,
+          "title": "The private sector is not rate sensitive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684159052996042753",
+          "author": "Surfer",
+          "description": "2017-style bull run in the making?👀\n\nKi Young Ju: #Bitcoin is still in a bull cycle.\nApprox. 71% of realized cap is unmoved $BTC (> 6 months), indicating low selling pressure from long-term holders currently.\nhttps://cryptoquant.com/asset/btc/chart/network-indicator/realized-cap-utxo-age-bands-percent?window=DAY&priceScale=log&metricScale=linear",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684159052996042753",
+          "publishedOn": "2023-07-26T11:09:43.000Z",
+          "wordCount": null,
+          "title": "2017-style bull run in the making?👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684018529446531073",
+          "author": "Surfer",
+          "description": "👀\n\nxcurve 🦄 🤖: 1700+ users. Another ATH. 470 new users. Let's do this all summer. \n https://t.me/unibotsniper_bot?start=xcurve\n$UNIBOT X coming",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684018529446531073",
+          "publishedOn": "2023-07-26T01:51:19.000Z",
+          "wordCount": null,
+          "title": "👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1684007933648965633",
+          "author": "Surfer",
+          "description": "This chart says u want to buy here UNLESS something absolutely crazy happens like Binance going under…\nWhat do the lads think\n\nCryptoCon: #Bitcoin seller exhaustion has absolutely plummeted!\nThe lowest reading since Nov 2018 before one of the largest moves in history\nThe 2 ingredients for seller exhaustion:\n1. Low Volatility\n2. High Losses\nVolatility has been squeezed to a minimum, and this is a Bull Market...",
+          "link": "https://twitter.com/DeFiSurfer808/status/1684007933648965633",
+          "publishedOn": "2023-07-26T01:09:13.000Z",
+          "wordCount": null,
+          "title": "This chart says u want to buy here UNLESS something absolutely crazy happens like Binance going under… What do the lads think",
           "imageUrl": null
         }
       ]
