@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T02:27:41.854Z</id>
+    <id>urn:2023-07-28T03:12:37.464Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-28T02:27:41.854Z</updated>
+    <updated>2023-07-28T03:12:37.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,18 @@
         <summary type="html"><![CDATA[据知情人士透露，红杉资本将其加密货币基金规模从5.85亿美元削减至2亿美元，还将其“生态系统基金”（用于投资其他风险基金）规模从9亿美元削减至4.5亿美元。红杉资本去年在 FTX 上损失了 1.15…]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Pepper: tried out Chainedge from @OnChainWizard and I’m liking it a lot more than Nansen i believe his discord used this to find unibot at ~$5 bac...]]></title>
+        <id>https://twitter.com/ZeMirch/status/1684661941959053312</id>
+        <link href="https://twitter.com/ZeMirch/status/1684661941959053312"/>
+        <updated>2023-07-27T20:28:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Pepper
+tried out Chainedge from @OnChainWizard and I’m liking it a lot more than Nansen 
+i believe his discord used this to find unibot at ~$5 back in May]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +107,35 @@ https://www.coindesk.com/business/2023/07/27/amazon-expands-managed-blockchain-s
         <summary type="html"><![CDATA[吴说每日晚报]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narratives - Coming Soon: I vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. I’m impressed but not sur...]]></title>
+        <id>https://twitter.com/narrativesai/status/1684563991832694785</id>
+        <link href="https://twitter.com/narrativesai/status/1684563991832694785"/>
+        <updated>2023-07-27T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Narratives - Coming Soon
+I vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. 
+I’m impressed but not surprised to see how far it’s come and what’s been built. 
+The rise of onchain is a surprise to many but a bet some of us made over a year ago. 
+..
+
+Onchain Wizard: Introducing chainEDGE (2.0):
+After months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Onchain Wizard: Introducing chainEDGE (2.0): After months of testing, I’m beyond excited to announce we are officially opening up access to http:/...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1684551724583862272</id>
+        <link href="https://twitter.com/OnChainWizard/status/1684551724583862272"/>
+        <updated>2023-07-27T13:10:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Onchain Wizard
+Introducing chainEDGE (2.0):
+After months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>

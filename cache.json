@@ -116,6 +116,43 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://twitter.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/ZeMirch/status/1684661941959053312",
+          "author": "Onchain Wizard",
+          "description": "RT Pepper\ntried out Chainedge from @OnChainWizard and I’m liking it a lot more than Nansen \ni believe his discord used this to find unibot at ~$5 back in May",
+          "link": "https://twitter.com/ZeMirch/status/1684661941959053312",
+          "publishedOn": "2023-07-27T20:28:01.000Z",
+          "wordCount": null,
+          "title": "RT Pepper: tried out Chainedge from @OnChainWizard and I’m liking it a lot more than Nansen i believe his discord used this to find unibot at ~$5 bac...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/narrativesai/status/1684563991832694785",
+          "author": "Onchain Wizard",
+          "description": "RT Narratives - Coming Soon\nI vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. \nI’m impressed but not surprised to see how far it’s come and what’s been built. \nThe rise of onchain is a surprise to many but a bet some of us made over a year ago. \n..\n\nOnchain Wizard: Introducing chainEDGE (2.0):\nAfter months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader",
+          "link": "https://twitter.com/narrativesai/status/1684563991832694785",
+          "publishedOn": "2023-07-27T13:58:47.000Z",
+          "wordCount": null,
+          "title": "RT Narratives - Coming Soon: I vaguely remember listening to an interview with @OnChainWizard last summer about @chainedge. I’m impressed but not sur...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1684551724583862272",
+          "author": "Onchain Wizard",
+          "description": "RT Onchain Wizard\nIntroducing chainEDGE (2.0):\nAfter months of testing, I’m beyond excited to announce we are officially opening up access to http://chainedge.io to all.  We’ve improved a lot since our public beta in December and now this tool has unmatched smart money signals for any trader",
+          "link": "https://twitter.com/OnChainWizard/status/1684551724583862272",
+          "publishedOn": "2023-07-27T13:10:03.000Z",
+          "wordCount": null,
+          "title": "RT Onchain Wizard: Introducing chainEDGE (2.0): After months of testing, I’m beyond excited to announce we are officially opening up access to http:/...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
