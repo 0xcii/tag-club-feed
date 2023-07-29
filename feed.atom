@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-29T16:14:25.286Z</id>
+    <id>urn:2023-07-29T17:09:39.959Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-29T16:14:25.286Z</updated>
+    <updated>2023-07-29T17:09:39.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685293983852109824</id>
+        <link href="https://twitter.com/wublockchain12/status/1685293983852109824"/>
+        <updated>2023-07-29T14:19:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芝商所（CME Group）的比特币期货合约7月交易量创年度新高，截止目前，其交易量为 533.3亿美元，未平仓合约达到25亿美元。与此同时，加密货币现货交易量接近年度...]]></title>
         <id>https://twitter.com/wublockchain12/status/1685275475156078592</id>
