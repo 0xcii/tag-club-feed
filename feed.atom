@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-30T15:11:19.851Z</id>
+    <id>urn:2023-07-30T16:14:23.529Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-30T15:11:19.851Z</updated>
+    <updated>2023-07-30T16:14:23.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,26 @@ I do wonder if it would matter at all:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @TKVResearch 数据面板显示，目前 Base 链上存入约有 2.5 万枚 ETH，而其中 LeetSwap BALD/WETH 中即有超过 9,800 WETH 流动性。吴说提醒，Memecoins 风险极...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685663481192951808</id>
+        <link href="https://twitter.com/wublockchain12/status/1685663481192951808"/>
+        <updated>2023-07-30T14:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @TKVResearch 数据面板显示，目前 Base 链上存入约有 2.5 万枚 ETH，而其中 LeetSwap BALD/WETH 中即有超过 9,800 WETH 流动性。吴说提醒，Memecoins 风险极大，需理性对待。H/T：@0xSunNFT https://dune.com/tk-research/base &https://dexscreener.com/base/0xe96df8f5ef1a8790415068c798765b07d57643bd]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Base 主网已上线（非正式），但目前暂没有取款渠道。由于网络处于只进不出的状态，基于 Base 网络的 Memecoins 享受到了该红利，一个名为 BALD 的 Mem...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685663473798385664</id>
+        <link href="https://twitter.com/wublockchain12/status/1685663473798385664"/>
+        <updated>2023-07-30T14:47:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Base 主网已上线（非正式），但目前暂没有取款渠道。由于网络处于只进不出的状态，基于 Base 网络的 Memecoins 享受到了该红利，一个名为 BALD 的 Memecoin 在近 24 小时涨幅高达 3 万倍，市值已突破 7 千万美元。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @HodlMagoo @saylor SBF is proof that having money <> game]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1685660648263589888</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1685660648263589888"/>
@@ -28,6 +48,16 @@ I do wonder if it would matter at all:
         <summary type="html"><![CDATA[Re @HodlMagoo @saylor SBF is proof that having money <> game]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国参议院于周四通过了 2024 年国防授权法案（NDAA），法案包含了一项加强对从事加密交易的金融机构监管的条款，并针对加密混合器和“增强匿名性”的加密资产。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685659927325573121</id>
+        <link href="https://twitter.com/wublockchain12/status/1685659927325573121"/>
+        <updated>2023-07-30T14:33:39.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院于周四通过了 2024 年国防授权法案（NDAA），法案包含了一项加强对从事加密交易的金融机构监管的条款，并针对加密混合器和“增强匿名性”的加密资产。该修正案由一个美国参议员组成的两党小组提出，小组成员有 Kirsten Gillibrand，Cynthia Lummis，Elizabeth Warren 和 Roger Marshall…]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +73,18 @@ Magoo PhD: I think Ryan @ben_mckenzie is just trying to get payback for his br
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re Curve Finance 指出，JPEG'd 遭到只读重入攻击。目前 Curve 上 pETH-ETH pool 中 pETH 价格跌至 $383。pETH 是一种由 JPEG'd 发行的 ETH 衍生资产。https://t...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685652214701084672</id>
+        <link href="https://twitter.com/wublockchain12/status/1685652214701084672"/>
+        <updated>2023-07-30T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Re Curve Finance 指出，JPEG'd 遭到只读重入攻击。目前 Curve 上 pETH-ETH pool 中 pETH 价格跌至 $383。pETH 是一种由 JPEG'd 发行的 ETH 衍生资产。https://twitter.com/CurveFinance/status/1685646573391233024?s=20 & https://curve.fi/#/ethereum/pools/factory-v2-194/deposit
+
+Curve Finance: @peckshield @JPEGd_69 Read-only reentrancy, uh oh. Why doesn't anyone follow ChainSecurity recommendations, sigh]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I’ve wondered this for Sol… if it can’t be the internet SoV ($btc) or the money ($eth) how on earth can it justify its current mkt cap let alone a ...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1685651960794423297</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1685651960794423297"/>
@@ -52,6 +94,28 @@ Magoo PhD: I think Ryan @ben_mckenzie is just trying to get payback for his br
 xcurve 🦄 🤖: Pretty obvious that eth has become the money of the internet. They won. Price hasn't caught up for sure. All these chains got spun up, and eth is spread out everywhere. Some use it as gas but all support it. True network effect. Gg no re.]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 PeckShield 监测，NFT 借贷协议 JPEG'd 疑似被攻击，在 21:10，6,106.65 WETH（价值约 1,145 万美元）被转移至地址：0x94…A6Ab 中。JPEG'd Token ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685648677648601088</id>
+        <link href="https://twitter.com/wublockchain12/status/1685648677648601088"/>
+        <updated>2023-07-30T13:48:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 PeckShield 监测，NFT 借贷协议 JPEG'd 疑似被攻击，在 21:10，6,106.65 WETH（价值约 1,145 万美元）被转移至地址：0x94…A6Ab 中。JPEG'd Token 已暴跌 40%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/peckshield/status/1685645064364822530?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1685648680035217409</id>
+        <link href="https://twitter.com/wublockchain12/status/1685648680035217409"/>
+        <updated>2023-07-30T13:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/peckshield/status/1685645064364822530?s=20
+
+PeckShield Inc.: Hi @JPEGd_69, you may want to take a look:  https://etherscan.io/tx/0xa84aa065ce61dbb1eb50ab6ae67fc31a9da50dd2c74eefd561661bfce2f1620c]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -219,74 +283,6 @@ https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=16594]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re OPNX 提醒称，Justice Token 是独立的 meme 代币，没有内在价值，没有支撑或回报预期。https://twitter.com/OPNX_Official/status/1685461249859956736?s=19]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685518858600538112</id>
-        <link href="https://twitter.com/wublockchain12/status/1685518858600538112"/>
-        <updated>2023-07-30T05:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Re OPNX 提醒称，Justice Token 是独立的 meme 代币，没有内在价值，没有支撑或回报预期。https://twitter.com/OPNX_Official/status/1685461249859956736?s=19
-
-OPNX 🐂: 1/ Given the commencement of legal proceedings against FatManTerra by several parties, the FatManTerra Justice Token will launch this week.
-It will be distributed equally between $RLB, $LUNA, $LUNC and $OX holders— 4 communities harmed by his long-term malicious disinformation.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，OPNX 交易所发推称，针对 FatManTerra 的多方法律诉讼已经开始，为此，FatManTerra Justice Token 将在本周发布。Justice Token 将平均分配给 RLB、LU...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685518854402007041</id>
-        <link href="https://twitter.com/wublockchain12/status/1685518854402007041"/>
-        <updated>2023-07-30T05:13:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OPNX 交易所发推称，针对 FatManTerra 的多方法律诉讼已经开始，为此，FatManTerra Justice Token 将在本周发布。Justice Token 将平均分配给 RLB、LUNA、LUNC 和 OX 的持有者，这四个社区都受到 FatMan 长期恶意虚假信息的伤害。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 近期马斯克已重塑品牌将 Twitter 标志性的蓝鸟标志换成 X 符号。https://twitter.com/Mudit__Gupta/status/1685194688091787264?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685517746204028928</id>
-        <link href="https://twitter.com/wublockchain12/status/1685517746204028928"/>
-        <updated>2023-07-30T05:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Re 近期马斯克已重塑品牌将 Twitter 标志性的蓝鸟标志换成 X 符号。https://twitter.com/Mudit__Gupta/status/1685194688091787264?s=20
-
-Mudit Gupta: 🚨 http://x.com (Twitter) PHISHING SCAM ALERT 🚨
-http://x.com emails can be easily spoofed as they do not have their DMARC/DKIM records setup.
-Do NOT interact with any email coming from http://x.com
-Twitter is still using…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Polygon 首席信息安全官 Mudit Gupta 提醒来自于 http://x.com（Twitter）网络钓鱼诈骗，由于没有设置 DMARC/DKIM 记录，http://x.com 电子邮件很容易...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685517740113829889</id>
-        <link href="https://twitter.com/wublockchain12/status/1685517740113829889"/>
-        <updated>2023-07-30T05:08:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Polygon 首席信息安全官 Mudit Gupta 提醒来自于 http://x.com（Twitter）网络钓鱼诈骗，由于没有设置 DMARC/DKIM 记录，http://x.com 电子邮件很容易被伪造。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Twitter 目前仍使用 https://twitter.com 发送电子邮件，而非 http://x.com，请勿与任何来自于 http://x.com 的电子邮件交互，并确保启用基于应用程序或硬件...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685517743024726016</id>
-        <link href="https://twitter.com/wublockchain12/status/1685517743024726016"/>
-        <updated>2023-07-30T05:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Re Twitter 目前仍使用 https://twitter.com 发送电子邮件，而非 http://x.com，请勿与任何来自于 http://x.com 的电子邮件交互，并确保启用基于应用程序或硬件密钥的双重身份验证（2FA），且不要使用短信 2FA。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Snapshot 页面，ApeCoin 社区正发起提案AIP-242，目标是建立 ApeCoin DAO “财务工作组”（Treasury Working Group），以监督资产的去中心化所有权...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1685498934641471489</id>
-        <link href="https://twitter.com/wublockchain12/status/1685498934641471489"/>
-        <updated>2023-07-30T03:53:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Snapshot 页面，ApeCoin 社区正发起提案AIP-242，目标是建立 ApeCoin DAO “财务工作组”（Treasury Working Group），以监督资产的去中心化所有权，并负责探索维持 DAO 日常运营的选项。投票将于 8 月 3 日结束。https://snapshot.org/#/apecoin.eth/proposal/0x049aeebd8190b532e7fb3d404de2c9b0e24ac50f159f1ea627c1d1b4d5fbab75]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @knlae_ Yea a lot of folks real dug in]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1685469423967080448</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1685469423967080448"/>
@@ -436,369 +432,6 @@ Let’s put the doctors who facilitate this in prison too.
 “On day one, I will sign an executive order to cut federal funding for any school pushing critical race theory, transgender insanity, and…]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hsaka: Gm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwic...]]></title>
-        <id>https://twitter.com/HsakaTrades/status/1685268311565553664</id>
-        <link href="https://twitter.com/HsakaTrades/status/1685268311565553664"/>
-        <updated>2023-07-29T12:37:30.000Z</updated>
-        <summary type="html"><![CDATA[RT Hsaka
-Gm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwiching, forks siphoning liquidity, and a wild appearance of directTransfer.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[很多币跌了之后 懂哥开始教团队做事 舔狗开始屌懂哥 dev出来画饼说要做这个做那个 每个人都在钻牛角尖]]></title>
-        <id>https://twitter.com/8848Community/status/1684478135860187136</id>
-        <link href="https://twitter.com/8848Community/status/1684478135860187136"/>
-        <updated>2023-07-27T08:17:38.000Z</updated>
-        <summary type="html"><![CDATA[很多币跌了之后 
-懂哥开始教团队做事 
-舔狗开始屌懂哥 
-dev出来画饼说要做这个做那个
-每个人都在钻牛角尖]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DeFi Made Here: 1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to lau...]]></title>
-        <id>https://twitter.com/DeFi_Made_Here/status/1684233479607705601</id>
-        <link href="https://twitter.com/DeFi_Made_Here/status/1684233479607705601"/>
-        <updated>2023-07-26T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[RT DeFi Made Here
-1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to launch.
-Follow this thread for the Key Metrics analysis on $GMX $SNX $GNS $PERP $LVL $MUX and more]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Rune Østgård: Today I will explain one of the most powerful graphs you will ever see in your whole life. But before we look at the graph, I can m...]]></title>
-        <id>https://twitter.com/enur72/status/1684101128391098368</id>
-        <link href="https://twitter.com/enur72/status/1684101128391098368"/>
-        <updated>2023-07-26T07:19:32.000Z</updated>
-        <summary type="html"><![CDATA[RT Rune Østgård
-Today I will explain one of the most powerful graphs you will ever see in your whole life.
-But before we look at the graph, I can mention that about 60% of Americans invest in stocks and about 50% of Norwegians invest in securities funds. 
-Few know that the value of their…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alex Kaplan: Today might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient te...]]></title>
-        <id>https://twitter.com/alexkaplan0/status/1684044616528453633</id>
-        <link href="https://twitter.com/alexkaplan0/status/1684044616528453633"/>
-        <updated>2023-07-26T03:34:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Alex Kaplan
-Today might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient temperature / pressure superconductor. Here's how it could totally change our lives.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NoContextHumans]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1683626904144736256</id>
-        <link href="https://twitter.com/DeFi_educator/status/1683626904144736256"/>
-        <updated>2023-07-24T23:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @NoContextHumans]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1682019384292782080</id>
-        <link href="https://twitter.com/DeFi_educator/status/1682019384292782080"/>
-        <updated>2023-07-20T13:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to not be at the top hole, because gravity.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dylan LeClair 🟠: Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance With Bitcoin & Precious Metals, Exempt BTC Fro...]]></title>
-        <id>https://twitter.com/DylanLeClair_/status/1681490651999789056</id>
-        <link href="https://twitter.com/DylanLeClair_/status/1681490651999789056"/>
-        <updated>2023-07-19T02:26:26.000Z</updated>
-        <summary type="html"><![CDATA[RT Dylan LeClair 🟠
-Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance With Bitcoin & Precious Metals, Exempt BTC From Capital Gains Tax 
-*links below*
-“My plan would be to start very, very small, perhaps 1% of issued T-bills would be backed by hard currency, by gold,…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></title>
-        <id>https://twitter.com/8848Community/status/1681313913064009729</id>
-        <link href="https://twitter.com/8848Community/status/1681313913064009729"/>
-        <updated>2023-07-18T14:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1679523385305362432</id>
-        <link href="https://twitter.com/DeFi_educator/status/1679523385305362432"/>
-        <updated>2023-07-13T16:09:13.000Z</updated>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Will Clemente: While it's true that miners have been moving coins to exchanges, the net flow (including outflows) looks fine and actually shows net...]]></title>
-        <id>https://twitter.com/WClementeIII/status/1678759873280917506</id>
-        <link href="https://twitter.com/WClementeIII/status/1678759873280917506"/>
-        <updated>2023-07-11T13:35:18.000Z</updated>
-        <summary type="html"><![CDATA[RT Will Clemente
-While it's true that miners have been moving coins to exchanges, the net flow (including outflows) looks fine and actually shows net outflows from exchanges lately]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Adam Cochran (adamscochran.eth): Arkham also sniffs and logs its own users data, including binding their wallet addresses, device ids, locations, e...]]></title>
-        <id>https://twitter.com/adamscochran/status/1678497072180260864</id>
-        <link href="https://twitter.com/adamscochran/status/1678497072180260864"/>
-        <updated>2023-07-10T20:11:01.000Z</updated>
-        <summary type="html"><![CDATA[RT Adam Cochran (adamscochran.eth)
-Arkham also sniffs and logs its own users data, including binding their wallet addresses, device ids, locations, etc.
-They then mix that with public data scrapped from public sources, like Twitter which if you shared a ref link..
-Its free cause you are the product.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ebay for Onchain alpha is going live 18th of July love the idea!]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1678374326918168577</id>
-        <link href="https://twitter.com/DeFi_educator/status/1678374326918168577"/>
-        <updated>2023-07-10T12:03:16.000Z</updated>
-        <summary type="html"><![CDATA[The ebay for Onchain alpha is going live 18th of July
-love the idea!
-
-Arkham: Announcing The World’s First On-Chain Intelligence Exchange
-Buy and sell information on the owner of any blockchain wallet address—anonymously, via smart contract.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ApesFinance @ArkhamIntel @ApesFinance you can use my invite link and join right away ser https://platform.arkhamintelligence.com/waitlist?referrer...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1678373872154943489</id>
-        <link href="https://twitter.com/DeFi_educator/status/1678373872154943489"/>
-        <updated>2023-07-10T12:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @ApesFinance @ArkhamIntel @ApesFinance you can use my invite link and join right away ser
-https://platform.arkhamintelligence.com/waitlist?referrer=ZGVmaWVkdWNhdG9yQHBoZGNhcGl0YWwuZnVuZA]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @baofuliu 以形补形]]></title>
-        <id>https://twitter.com/8848Community/status/1678246222082220033</id>
-        <link href="https://twitter.com/8848Community/status/1678246222082220033"/>
-        <updated>2023-07-10T03:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @baofuliu 以形补形]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停一停 吃个早餐 再继续努力 生活是美好的 也可不仅只苦行]]></title>
-        <id>https://twitter.com/8848Community/status/1678244118047379457</id>
-        <link href="https://twitter.com/8848Community/status/1678244118047379457"/>
-        <updated>2023-07-10T03:25:52.000Z</updated>
-        <summary type="html"><![CDATA[停一停
-吃个早餐
-再继续努力
-生活是美好的
-也可不仅只苦行]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i am doing dancing as a job to live in bear market]]></title>
-        <id>https://twitter.com/8848Community/status/1677710597339877378</id>
-        <link href="https://twitter.com/8848Community/status/1677710597339877378"/>
-        <updated>2023-07-08T16:05:51.000Z</updated>
-        <summary type="html"><![CDATA[i am doing dancing as a job to live in bear market]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @adamscochran]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1677325232690831361</id>
-        <link href="https://twitter.com/DeFi_educator/status/1677325232690831361"/>
-        <updated>2023-07-07T14:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @adamscochran]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Multichain (Previously Anyswap): The lockup assets on the Multichain MPC address have been moved to an unknown address abnormally. The team is not ...]]></title>
-        <id>https://twitter.com/MultichainOrg/status/1677096839731097600</id>
-        <link href="https://twitter.com/MultichainOrg/status/1677096839731097600"/>
-        <updated>2023-07-06T23:27:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Multichain (Previously Anyswap)
-The lockup assets on the Multichain MPC address have been moved to an unknown address abnormally. 
-The team is not sure what happened and is currently investigating. 
-It is recommended that all users suspend the use of Multichain services and revoke all contract approvals…]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @huahuayjy eos]]></title>
-        <id>https://twitter.com/8848Community/status/1676922929509183488</id>
-        <link href="https://twitter.com/8848Community/status/1676922929509183488"/>
-        <updated>2023-07-06T11:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @huahuayjy eos]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能不能让我和我的偶像来一场比赛]]></title>
-        <id>https://twitter.com/8848Community/status/1676917801125306373</id>
-        <link href="https://twitter.com/8848Community/status/1676917801125306373"/>
-        <updated>2023-07-06T11:35:34.000Z</updated>
-        <summary type="html"><![CDATA[能不能让我和我的偶像来一场比赛
-
-币安Binance中文频道: ForeverCR7: GOAT NFT 已在 #币安NFT 独家发售！
-集齐七种不同设计的普通级(N) #NFT ，即有机会与C罗一起训练。现在分享你热爱的运动的照片，就像C罗热爱足球一样，可免费集CR7 NFT！
-✅关注+转推+评论区@三位好友
-✅用标志动作分享你热爱的运动
-⚽️7位创意者每人获得CR7 N级NFTx3
-#Binance #币安]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @V1JeromeLoo 都是社会主义国家，不怕吧]]></title>
-        <id>https://twitter.com/8848Community/status/1676628111193169924</id>
-        <link href="https://twitter.com/8848Community/status/1676628111193169924"/>
-        <updated>2023-07-05T16:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @V1JeromeLoo 都是社会主义国家，不怕吧]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越南都挺有活力啊]]></title>
-        <id>https://twitter.com/8848Community/status/1676623422020030465</id>
-        <link href="https://twitter.com/8848Community/status/1676623422020030465"/>
-        <updated>2023-07-05T16:05:48.000Z</updated>
-        <summary type="html"><![CDATA[越南都挺有活力啊]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊市钱不是这么好赚的 守好自己的钱等牛市吧]]></title>
-        <id>https://twitter.com/8848Community/status/1676474984112480259</id>
-        <link href="https://twitter.com/8848Community/status/1676474984112480259"/>
-        <updated>2023-07-05T06:15:58.000Z</updated>
-        <summary type="html"><![CDATA[熊市钱不是这么好赚的
-守好自己的钱等牛市吧]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和币有关的软件都是病毒😂😂😂]]></title>
-        <id>https://twitter.com/8848Community/status/1676467642029473793</id>
-        <link href="https://twitter.com/8848Community/status/1676467642029473793"/>
-        <updated>2023-07-05T05:46:47.000Z</updated>
-        <summary type="html"><![CDATA[和币有关的软件都是病毒😂😂😂]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎯]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1676200132314820608</id>
-        <link href="https://twitter.com/DeFi_educator/status/1676200132314820608"/>
-        <updated>2023-07-04T12:03:48.000Z</updated>
-        <summary type="html"><![CDATA[🎯]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @baofuliu @odosprotocol 黑奴？]]></title>
-        <id>https://twitter.com/8848Community/status/1676124860731502594</id>
-        <link href="https://twitter.com/8848Community/status/1676124860731502594"/>
-        <updated>2023-07-04T07:04:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @baofuliu @odosprotocol 黑奴？]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Willy Woo: Price action has largely been dominated by demand stemming from the calendar futures markets, the instrument of pros and institutions. E...]]></title>
-        <id>https://twitter.com/woonomic/status/1676090922013188096</id>
-        <link href="https://twitter.com/woonomic/status/1676090922013188096"/>
-        <updated>2023-07-04T04:49:50.000Z</updated>
-        <summary type="html"><![CDATA[RT Willy Woo
-Price action has largely been dominated by demand stemming from the calendar futures markets, the instrument of pros and institutions.
-Even now, demand keeps surging, suggesting we are in the early stages of another price squeeze.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[很多时候呢，不是不发东西自己干。 这熊市发这么多东西干嘛，都是亏钱的玩意。你也明白。 现在最重要的是苟住。 不要把自己赚不到钱的无能呻吟归因于别人不分享...]]></title>
-        <id>https://twitter.com/8848Community/status/1675353608915931136</id>
-        <link href="https://twitter.com/8848Community/status/1675353608915931136"/>
-        <updated>2023-07-02T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[很多时候呢，不是不发东西自己干。
-这熊市发这么多东西干嘛，都是亏钱的玩意。你也明白。
-现在最重要的是苟住。
-不要把自己赚不到钱的无能呻吟归因于别人不分享内容。
-外卖我每天送着也美滋滋]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mike Benz: Wow. Musk has no idea the DARPA rattlesnake he just stepped on by this doing this… My take on @elonmusk’s new rate limit policy, from ...]]></title>
-        <id>https://twitter.com/MikeBenzCyber/status/1675254646942896128</id>
-        <link href="https://twitter.com/MikeBenzCyber/status/1675254646942896128"/>
-        <updated>2023-07-01T21:26:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Mike Benz
-Wow. Musk has no idea the DARPA rattlesnake he just stepped on by this doing this…
-My take on @elonmusk’s new rate limit policy, from the lens of the censorship industry:
-
-
-Elon Musk: To address extreme levels of data scraping & system manipulation, we’ve applied the following temporary limits:
-- Verified accounts are limited to reading 6000 posts/day
-- Unverified accounts to 600 posts/day
-- New unverified accounts to 300/day]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[七月开始了 又可以刷新的一个月的月活跃了 开心]]></title>
-        <id>https://twitter.com/8848Community/status/1674986082075828225</id>
-        <link href="https://twitter.com/8848Community/status/1674986082075828225"/>
-        <updated>2023-07-01T03:39:36.000Z</updated>
-        <summary type="html"><![CDATA[七月开始了
-又可以刷新的一个月的月活跃了
-开心]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
 </feed>
