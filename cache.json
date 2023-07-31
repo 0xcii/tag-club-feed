@@ -1,6 +1,213 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://twitter.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685850305685245952",
+          "author": "吴说区块链",
+          "description": "吴说获悉，以太坊核心开发者 eric.eth 表示，本日已产生了 Ethereum 历史上最大的 MEV 区块奖励，其中 Slot 6,992,273 获得 584 ETH，Slot 6,993,342 获得 345 ETH，Slot 6,992,050 获得 247 ETH，Slot 6,993,346 获得 51 ETH。这是源于 Curve 漏洞攻击，一个 MEV Bot 注意到 mempool…",
+          "link": "https://twitter.com/wublockchain12/status/1685850305685245952",
+          "publishedOn": "2023-07-31T03:10:09.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，以太坊核心开发者 eric.eth 表示，本日已产生了 Ethereum 历史上最大的 MEV 区块奖励，其中 Slot 6,992,273 获得 584 ETH，Slot 6,993,342 获得 345 E...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685837765811048448",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/youyou5202/status/1685706368492126208 & https://twitter.com/ArbDogeAI/status/1685828000116613120\n\nArbDoge AI: Yes.\nThe leader and founder of http://ArbDoge.AI disclosed his identity to the community.\nhttp://ArbDoge.AI is a global team. We've built a huge global community over the past few months.\n@youyou5202 is the first NEO. It is also the only leader of NEO. He is Chinese.…",
+          "link": "https://twitter.com/wublockchain12/status/1685837765811048448",
+          "publishedOn": "2023-07-31T02:20:19.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/youyou5202/status/1685706368492126208 & https://twitter.com/ArbDogeAI/status/1685828000116613120",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685837661569949696",
+          "author": "吴说区块链",
+          "description": "吴说获悉，中文币圈 KOL 王大有主动披露他是 ArbDogeAI 项目的创始人。官方推特也证实了这一点。王大有表示，AIDOGE在5月到过两亿美金市值，今天还有20M，并上了大部分主流CEX。值得注意的是，OKX 上线了该代币，也占据主要的交易量。",
+          "link": "https://twitter.com/wublockchain12/status/1685837661569949696",
+          "publishedOn": "2023-07-31T02:19:54.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，中文币圈 KOL 王大有主动披露他是 ArbDogeAI 项目的创始人。官方推特也证实了这一点。王大有表示，AIDOGE在5月到过两亿美金市值，今天还有20M，并上了...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685835098883796993",
+          "author": "吴说区块链",
+          "description": "吴说获悉，CRV/ETH Pool 抢跑的 Mev Bot 部署者 c0ffeebabe.eth 已在两小时前向 Curve Finance 部署者返还了 2,879.54 ETH，价值约 539 万美元。https://etherscan.io/tx/0xb76754124fdde090f25129105ed2907e3c62e0db87ecb8ffcefcb1dede0954fd",
+          "link": "https://twitter.com/wublockchain12/status/1685835098883796993",
+          "publishedOn": "2023-07-31T02:09:43.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，CRV/ETH Pool 抢跑的 Mev Bot 部署者 c0ffeebabe.eth 已在两小时前向 Curve Finance 部署者返还了 2,879.54 ETH，价值约 539 万美元。https://ethersc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685833926148022272",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Huobi 宣布下架 CVNT (Content Value Network), TNB (Time New Bank), SOS (Opendao) 和 KCASH (KCASH) 四个代币，因为近30天内日均代币交易额低于5万美元。https://www.huobi.com/support/en-us/detail/34944765754013",
+          "link": "https://twitter.com/wublockchain12/status/1685833926148022272",
+          "publishedOn": "2023-07-31T02:05:03.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Huobi 宣布下架 CVNT (Content Value Network), TNB (Time New Bank), SOS (Opendao) 和 KCASH (KCASH) 四个代币，因为近30天内日均代币交易额低于5万...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685829155735453697",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Aave 以太坊 v2 版本已经禁用 CRV 借款功能（可能是为了防止交易者利用 Curve 漏洞事件恐慌，借币 CRV 恶意做空促使连环清算）。根据此前 Aave 治理通过的提案 AIP-125，面对一些突发事件，协议可以禁止特定资产的借款功能。目前在 Aave v2 中有超过 3 亿枚 CRV 供应（约 95% 来自 CRV…",
+          "link": "https://twitter.com/wublockchain12/status/1685829155735453697",
+          "publishedOn": "2023-07-31T01:46:06.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Aave 以太坊 v2 版本已经禁用 CRV 借款功能（可能是为了防止交易者利用 Curve 漏洞事件恐慌，借币 CRV 恶意做空促使连环清算）。根据此前 Aave 治理通...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685827452717989888",
+          "author": "吴说区块链",
+          "description": "Re @IM_23pds 指出，Vyper 官方文档推荐的实际上是一个有缺陷的版本。https://twitter.com/IM_23pds/status/1685803414935244800\n\n23pds: The official documentation recommendation is actually a faulty version... 😅",
+          "link": "https://twitter.com/wublockchain12/status/1685827452717989888",
+          "publishedOn": "2023-07-31T01:39:20.000Z",
+          "wordCount": null,
+          "title": "Re @IM_23pds 指出，Vyper 官方文档推荐的实际上是一个有缺陷的版本。https://twitter.com/IM_23pds/status/1685803414935244800",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685826682786349056",
+          "author": "吴说区块链",
+          "description": "吴说获悉，当前 Aave 中诸如 USDC、USDT 和 DAI 等标的物存借贷 APY 发生显著上升，当前 USDC 存借贷 APY 仍超过 20%，USDT 超过 25%。由于攻击 Curve 黑客（0xb1...c148）从中获利了价值 460 万美元的 7,193,402 CRV，用户对于 Curve 创始人 michwill 巨额 CRV 清算以及产生的连锁反应仍表担忧（链上…",
+          "link": "https://twitter.com/wublockchain12/status/1685826682786349056",
+          "publishedOn": "2023-07-31T01:36:16.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，当前 Aave 中诸如 USDC、USDT 和 DAI 等标的物存借贷 APY 发生显著上升，当前 USDC 存借贷 APY 仍超过 20%，USDT 超过 25%。由于攻击 Curve 黑客（0xb...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685820534112886784",
+          "author": "吴说区块链",
+          "description": "《分析日本加密交易所最迫切的税务难题》（作者: TaxDAO）日本对加密货币投资有效税率 15% 至 55% (包括住⺠税)之间，可见税率⾮常之高；日本区块链协会提出单独计税税率为20%、币币交易产生收益不征税等；但最终日本政府全盘同意似乎并不可能。阅读全文：https://mp.weixin.qq.com/s/-eJaVoRJuNwZi5_8Ya8f0w",
+          "link": "https://twitter.com/wublockchain12/status/1685820534112886784",
+          "publishedOn": "2023-07-31T01:11:51.000Z",
+          "wordCount": null,
+          "title": "《分析日本加密交易所最迫切的税务难题》（作者: TaxDAO）日本对加密货币投资有效税率 15% 至 55% (包括住⺠税)之间，可见税率⾮常之高；日本区块链协会提出单独...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685819093382049792",
+          "author": "吴说区块链",
+          "description": "吴说获悉，韩国最大交易所 Upbit 发布公告称，由于 Curve 部分稳定币池被攻击，导致 CRV 波动性较大，现已暂停 Curve（CRV）充值与提币服务。\nhttps://upbit.com/service_center/notice?id=3656",
+          "link": "https://twitter.com/wublockchain12/status/1685819093382049792",
+          "publishedOn": "2023-07-31T01:06:07.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，韩国最大交易所 Upbit 发布公告称，由于 Curve 部分稳定币池被攻击，导致 CRV 波动性较大，现已暂停 Curve（CRV）充值与提币服务。 https://upbit.com...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685814533041115136",
+          "author": "吴说区块链",
+          "description": "吴说本周宏观指标与分析：上周美联储欧洲央行都如期加息 25 bps，官员表态都相对中立，目前美国经济数据尚可，通胀也超预期放缓，官方更多的是出于对通胀粘性的谨慎。本周重点关注美国就业失业数据：7月ADP就业人数、7月季调后非农就业人口以及失业率。https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=16608",
+          "link": "https://twitter.com/wublockchain12/status/1685814533041115136",
+          "publishedOn": "2023-07-31T00:48:00.000Z",
+          "wordCount": null,
+          "title": "吴说本周宏观指标与分析：上周美联储欧洲央行都如期加息 25 bps，官员表态都相对中立，目前美国经济数据尚可，通胀也超预期放缓，官方更多的是出于对通胀粘性的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685799294849388544",
+          "author": "吴说区块链",
+          "description": "Re 据派盾最新统计，该安全事件损失已超 5195 万美元。\nhttps://twitter.com/PeckShieldAlert/status/1685794015915229184?s=20\n\nPeckShieldAlert: Update #PeckShieldAlert There are ~$52M exploited so far from @AlchemixFi, @JPEGd_69, @MetronomeDAO,@DebridgeFinance, @Ellipsisfi and #Curve CRV-ETH",
+          "link": "https://twitter.com/wublockchain12/status/1685799294849388544",
+          "publishedOn": "2023-07-30T23:47:27.000Z",
+          "wordCount": null,
+          "title": "Re 据派盾最新统计，该安全事件损失已超 5195 万美元。 https://twitter.com/PeckShieldAlert/status/1685794015915229184?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685796660730060800",
+          "author": "吴说区块链",
+          "description": "Re 据 @tk-research 的 Dune 数据面板，Base 网络 TVL 在 29 日时还仅为 217 万美元，30 日则飙升至 5990 万美元，24 小时内涨幅超 2660%。\nhttps://dune.com/tk-research/base",
+          "link": "https://twitter.com/wublockchain12/status/1685796660730060800",
+          "publishedOn": "2023-07-30T23:36:59.000Z",
+          "wordCount": null,
+          "title": "Re 据 @tk-research 的 Dune 数据面板，Base 网络 TVL 在 29 日时还仅为 217 万美元，30 日则飙升至 5990 万美元，24 小时内涨幅超 2660%。 https://dune.com/tk...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685793827230289920",
+          "author": "吴说区块链",
+          "description": "Re 据 defillama 数据，Curve Finance TVL 24 小时减少 40.53%，目前为 19.4 亿美元；Convex Finance TVL 24 小时减少 46.8%，目前为 15.5 亿美元。\nhttps://defillama.com/",
+          "link": "https://twitter.com/wublockchain12/status/1685793827230289920",
+          "publishedOn": "2023-07-30T23:25:43.000Z",
+          "wordCount": null,
+          "title": "Re 据 defillama 数据，Curve Finance TVL 24 小时减少 40.53%，目前为 19.4 亿美元；Convex Finance TVL 24 小时减少 46.8%，目前为 15.5 亿美元。 https://def...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685785532906041344",
+          "author": "吴说区块链",
+          "description": "Re 据派盾监测，受此影响，Alchemix、JPEG'd、MetronomeDAO、deBridge 和 Ellipsis 累计损失超 2676 万美元。https://twitter.com/CurveFinance/status/1685693202722848768\nhttps://twitter.com/PeckShieldAlert/status/1685696196839649280\n\nPeckShieldAlert: #PeckShieldAlert There are $26.76M exploited so far from @AlchemixFi, @JPEGd_69, @MetronomeDAO, @DebridgeFinance and @Ellipsisfi",
+          "link": "https://twitter.com/wublockchain12/status/1685785532906041344",
+          "publishedOn": "2023-07-30T22:52:46.000Z",
+          "wordCount": null,
+          "title": "Re 据派盾监测，受此影响，Alchemix、JPEG'd、MetronomeDAO、deBridge 和 Ellipsis 累计损失超 2676 万美元。https://twitter.com/CurveFinance/status/16856932...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685785531089829888",
+          "author": "吴说区块链",
+          "description": "吴说获悉，以太坊编程语言 Vyper 凌晨 12.44 发推表示，Vyper 0.2.15、0.2.16 和 0.3.0 版本的递归锁失效。Curve 官方推特 12.45 发文表示，由于递归锁出现故障，许多使用 Vyper 0.2.15 的稳定币池 (alETH/msETH/pETH) 遭到攻击。",
+          "link": "https://twitter.com/wublockchain12/status/1685785531089829888",
+          "publishedOn": "2023-07-30T22:52:45.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，以太坊编程语言 Vyper 凌晨 12.44 发推表示，Vyper 0.2.15、0.2.16 和 0.3.0 版本的递归锁失效。Curve 官方推特 12.45 发文表示，由于递归锁出现故障...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685678913618669569",
+          "author": "吴说区块链",
+          "description": "Re 吴说获悉，JPEG'd 发推表示，pETH-ETH curve 池遭到攻击，允许借贷 NFT 的保险库合约仍然安全且运行稳定，NFT 和国库资产未受影响。问题似乎与 curve pool 有关，团队正在评估问题的严重程度并将持续更新进展。https://twitter.com/JPEGd_69/status/1685655792274341888\n\nJPEG'd: There was an attack on the pETH-ETH curve pool. \nThe vault contracts allowing to borrow against NFTs are safe and still running solidly. NFTs and the treasury funds are safe. We’ll keep everyone updated as soon as we know better what is happening.\nWe’ve been looking into the…",
+          "link": "https://twitter.com/wublockchain12/status/1685678913618669569",
+          "publishedOn": "2023-07-30T15:49:06.000Z",
+          "wordCount": null,
+          "title": "Re 吴说获悉，JPEG'd 发推表示，pETH-ETH curve 池遭到攻击，允许借贷 NFT 的保险库合约仍然安全且运行稳定，NFT 和国库资产未受影响。问题似乎与 curve pool 有...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685663481192951808",
+          "author": "吴说区块链",
+          "description": "Re @TKVResearch 数据面板显示，目前 Base 链上存入约有 2.5 万枚 ETH，而其中 LeetSwap BALD/WETH 中即有超过 9,800 WETH 流动性。吴说提醒，Memecoins 风险极大，需理性对待。H/T：@0xSunNFT https://dune.com/tk-research/base &https://dexscreener.com/base/0xe96df8f5ef1a8790415068c798765b07d57643bd",
+          "link": "https://twitter.com/wublockchain12/status/1685663481192951808",
+          "publishedOn": "2023-07-30T14:47:46.000Z",
+          "wordCount": null,
+          "title": "Re @TKVResearch 数据面板显示，目前 Base 链上存入约有 2.5 万枚 ETH，而其中 LeetSwap BALD/WETH 中即有超过 9,800 WETH 流动性。吴说提醒，Memecoins 风险极...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685663473798385664",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Base 主网已上线（非正式），但目前暂没有取款渠道。由于网络处于只进不出的状态，基于 Base 网络的 Memecoins 享受到了该红利，一个名为 BALD 的 Memecoin 在近 24 小时涨幅高达 3 万倍，市值已突破 7 千万美元。",
+          "link": "https://twitter.com/wublockchain12/status/1685663473798385664",
+          "publishedOn": "2023-07-30T14:47:44.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Base 主网已上线（非正式），但目前暂没有取款渠道。由于网络处于只进不出的状态，基于 Base 网络的 Memecoins 享受到了该红利，一个名为 BALD 的 Mem...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1685648677648601088",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 PeckShield 监测，NFT 借贷协议 JPEG'd 疑似被攻击，在 21:10，6,106.65 WETH（价值约 1,145 万美元）被转移至地址：0x94…A6Ab 中。JPEG'd Token 已暴跌 40%。",
+          "link": "https://twitter.com/wublockchain12/status/1685648677648601088",
+          "publishedOn": "2023-07-30T13:48:57.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 PeckShield 监测，NFT 借贷协议 JPEG'd 疑似被攻击，在 21:10，6,106.65 WETH（价值约 1,145 万美元）被转移至地址：0x94…A6Ab 中。JPEG'd Token ...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @8848 社区（8848 Community）",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
