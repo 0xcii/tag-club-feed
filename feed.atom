@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T17:10:55.035Z</id>
+    <id>urn:2023-08-03T18:15:23.122Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T17:10:55.035Z</updated>
+    <updated>2023-08-03T18:15:23.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CNBC，Lichtenstein 周四承认自己是 2016 年 Bitfinex 被黑客攻击中的比特币黑客，他在联邦法院承认与洗钱阴谋有关，被盗的加密货币最终价值 45 亿...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687129120428498944</id>
+        <link href="https://twitter.com/wublockchain12/status/1687129120428498944"/>
+        <updated>2023-08-03T15:51:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CNBC，Lichtenstein 周四承认自己是 2016 年 Bitfinex 被黑客攻击中的比特币黑客，他在联邦法院承认与洗钱阴谋有关，被盗的加密货币最终价值 45 亿美元。Lichtenstein 和 Morgan 于 2022 年 2 月被指控试图对 2016 年加密货币交易所 Bitfinex 黑客攻击中被盗的超过 119,000…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin has the best meme in crypto there is no second best]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1687122516387442688</id>
@@ -15,6 +25,116 @@
 Alex Krüger: Watch this]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 另外，@marcov_91 数据面板显示，在 8 月 1 日 crvUSD 链上交易量达 5,980 万美元，创下历史新高；目前 wstETH 和 sfrxETH 抵押品利率维持在约 10% 的高位，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687110707056422912</id>
+        <link href="https://twitter.com/wublockchain12/status/1687110707056422912"/>
+        <updated>2023-08-03T14:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Re 另外，@marcov_91 数据面板显示，在 8 月 1 日 crvUSD 链上交易量达 5,980 万美元，创下历史新高；目前 wstETH 和 sfrxETH 抵押品利率维持在约 10% 的高位，即利率提高，鼓励减少债务。https://twitter.com/CurveFinance/status/1687053161863811073?s=20 &  https://dune.com/Marcov/crvusd
+
+Curve Finance: What about crvUSD? How does its price react to shock events, does it depeg?
+Events of recent days felt similar to SVB/USDC situation in some sense. However, crvUSD had just a 0.35% dip, and currently 0.1% from the peg]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，由于近期的 Curve Pool 的安全事件，crvUSD 也受其影响一度下挫 0.35%，目前较挂钩汇率下跌约 0.1%。crvUSD 采用可变借贷利率和 PegKeepers 机制维持...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687110704984416257</id>
+        <link href="https://twitter.com/wublockchain12/status/1687110704984416257"/>
+        <updated>2023-08-03T14:38:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，由于近期的 Curve Pool 的安全事件，crvUSD 也受其影响一度下挫 0.35%，目前较挂钩汇率下跌约 0.1%。crvUSD 采用可变借贷利率和 PegKeepers 机制维持价格稳定，PegKeepers 根据市场需求铸造或销毁 crvUSD。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，SEC 宣布获得对加密证券欺诈项目 DEBT Box 的临时资产冻结、限制令。 Jason Anderson 等人被指控参与一项向数百名美国投资者出售加密资产证券的欺诈计...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687108169540288512</id>
+        <link href="https://twitter.com/wublockchain12/status/1687108169540288512"/>
+        <updated>2023-08-03T14:28:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，SEC 宣布获得对加密证券欺诈项目 DEBT Box 的临时资产冻结、限制令。 Jason Anderson 等人被指控参与一项向数百名美国投资者出售加密资产证券的欺诈计划，该计划筹集了约 5000 万美元以及金额不详的比特币和以太坊。
+https://www.sec.gov/news/press-release/2023-146]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐私保护协议 zkPass 在种子轮融资中筹集了 250 万美元，Binance Labs、红杉中国、OKX Ventures 等参投。zkPass 使用了三种技术的组合：零知识证明、多方计算和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687106838805065728</id>
+        <link href="https://twitter.com/wublockchain12/status/1687106838805065728"/>
+        <updated>2023-08-03T14:23:09.000Z</updated>
+        <summary type="html"><![CDATA[隐私保护协议 zkPass 在种子轮融资中筹集了 250 万美元，Binance Labs、红杉中国、OKX Ventures 等参投。zkPass 使用了三种技术的组合：零知识证明、多方计算和三方传输层安全，声称用户能够在任何网站上披露个人数据，而无需自行透露或上传文档。（The Block）
+https://www.theblock.co/post/234384/binance-labs-sequoia-china-2-5-million-funding-into-zkpass?utm_source=onecryptofeed&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/TheSandboxGame/status/1687084587061501952]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687106349006827521</id>
+        <link href="https://twitter.com/wublockchain12/status/1687106349006827521"/>
+        <updated>2023-08-03T14:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/TheSandboxGame/status/1687084587061501952
+
+The Sandbox: 🔒 To enhance user security and compliance, we have implemented KYC verification for our staking process. Our goal is to ensure that our users' accounts are verified before they can participate in staking or claim their earnings.
+Unverified users can still withdraw their $SAND,…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，The Sandbox 在推文中表示，为了增强用户的安全性和合规性，对质押流程实施了 KYC 验证，未经验证的用户仍然可以提取 SAND，但只有经过验证的用户才能...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687106347270352896</id>
+        <link href="https://twitter.com/wublockchain12/status/1687106347270352896"/>
+        <updated>2023-08-03T14:21:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，The Sandbox 在推文中表示，为了增强用户的安全性和合规性，对质押流程实施了 KYC 验证，未经验证的用户仍然可以提取 SAND，但只有经过验证的用户才能存入新的 SAND并领取每周奖励。此前 SAND 被 SEC 认定为证券。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Marathon 宣布2023年7月生产了 1176 个比特币，比上个月增长了 20%，算力达到 18.8 EH/s；截至 8 月 1 日，Marathon 总共持有 12,964 BTC，选择在 7 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687103667521114112</id>
+        <link href="https://twitter.com/wublockchain12/status/1687103667521114112"/>
+        <updated>2023-08-03T14:10:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Marathon 宣布2023年7月生产了 1176 个比特币，比上个月增长了 20%，算力达到 18.8 EH/s；截至 8 月 1 日，Marathon 总共持有 12,964 BTC，选择在 7 月份出售 750 比特币；另一个北美上市巨头 Riot 宣布 7 月挖出了 410 个比特币，算力 12.5 EH/s，由于德州极端高温，Riot 削减了 90%…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安宣布任命 Kristen Hecht 为其新任副首席合规官 ( CCO）和币安全球洗钱报告官（GMLRO）。Kristen Hecht 此前曾在加密数字资产钱包项目 Novi Financ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687103390365675520</id>
+        <link href="https://twitter.com/wublockchain12/status/1687103390365675520"/>
+        <updated>2023-08-03T14:09:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安宣布任命 Kristen Hecht 为其新任副首席合规官 ( CCO）和币安全球洗钱报告官（GMLRO）。Kristen Hecht 此前曾在加密数字资产钱包项目 Novi Financial担任 CCO，在汇丰中国金融犯罪合规部主管，以及在美国财政部恐怖主义融资和金融犯罪办公室担任高级政策顾问。
+https://www.prnewswire.com/news-releases/binance-announces-kristen-hecht-as-its-new-deputy-chief-compliance-and-global-money-laundering-reporting-officer-301892439.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊主网上的 Web3 麻将游戏 Mahjong Meta 完成 1200 万美元融资，Dragonfly 和 Folius Ventures 共同领投。考虑中国境内相关问题多发，该游戏模式...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687102779264061440</id>
+        <link href="https://twitter.com/wublockchain12/status/1687102779264061440"/>
+        <updated>2023-08-03T14:07:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊主网上的 Web3 麻将游戏 Mahjong Meta 完成 1200 万美元融资，Dragonfly 和 Folius Ventures 共同领投。考虑中国境内相关问题多发，该游戏模式需注意开设赌场罪风险。
+https://www.rootdata.com/Projects/detail/Mahjong%20Meta?k=NzcwNA%3D%3D]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687099667065245697</id>
+        <link href="https://twitter.com/wublockchain12/status/1687099667065245697"/>
+        <updated>2023-08-03T13:54:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -222,49 +342,6 @@ I started noticing a while ago that Apple Pay was coming up as a more common onl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Bitget 3 月 31 日决定下架REELT，并对购买代币的用户进行补偿。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687049600593760257</id>
-        <link href="https://twitter.com/wublockchain12/status/1687049600593760257"/>
-        <updated>2023-08-03T10:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Re Bitget 3 月 31 日决定下架REELT，并对购买代币的用户进行补偿。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密 KOL Luthra 正在起诉 Bitget，声称后者非法冻结了其持有的 RELT。Bitget 则在 4 月份的博文中称该 KOL 的行为具有恶意，Bitget 将“配合有关部门调查是否存...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687049596034482176</id>
-        <link href="https://twitter.com/wublockchain12/status/1687049596034482176"/>
-        <updated>2023-08-03T10:35:42.000Z</updated>
-        <summary type="html"><![CDATA[加密 KOL Luthra 正在起诉 Bitget，声称后者非法冻结了其持有的 RELT。Bitget 则在 4 月份的博文中称该 KOL 的行为具有恶意，Bitget 将“配合有关部门调查是否存在任何非法活动，例如内幕交易或价格操纵”。（CoinDesk）
-https://www.coindesk.com/consensus-magazine/2023/08/03/bitget-exchange-sued-by-advisor-of-reelstar-token-project-after-the-listing-goes-sour/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re RELT 是 ICO 项目ReelStar 的代币，Luthra 为 ReelStar 提供咨询服务并获得 1500 亿 RELT。据 Bitget 称，REELT 于 3 月 23 日在 Bitget 上市，交易上线后，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687049598358233088</id>
-        <link href="https://twitter.com/wublockchain12/status/1687049598358233088"/>
-        <updated>2023-08-03T10:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Re RELT 是 ICO 项目ReelStar 的代币，Luthra 为 ReelStar 提供咨询服务并获得 1500 亿 RELT。据 Bitget 称，REELT 于 3 月 23 日在 Bitget 上市，交易上线后，有 4 个账户开始抛售代币，其中 3 个账户属于该项目聘请的做市商，1个账户由顾问控制，RELT从 0.12 美元暴跌至 0.02 美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，BC 科技集团宣布公司全资附属公司 OSL Digital Securities Limited 获得香港证券及期货事务监察委员会批准提升现有牌照，由今天起正式向零售投资者提...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687044721133367296</id>
-        <link href="https://twitter.com/wublockchain12/status/1687044721133367296"/>
-        <updated>2023-08-03T10:16:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，BC 科技集团宣布公司全资附属公司 OSL Digital Securities Limited 获得香港证券及期货事务监察委员会批准提升现有牌照，由今天起正式向零售投资者提供主流数字资产交易服务，首先推出的是 BTC 和 ETH。https://media-bcgroup.todayir.com/20230803180801238810840070_en.pdf
-
-吴说区块链: 吴说独家获悉，香港证监会或于近日批准 Hashkey Pro 的牌照升级，开始允许其对零售散户进行服务。目前尚不确定可以提供的币种。目前 Hashkey Pro 仅提供 BTC ETH USDT USDC。Hashkey 集团 COO Livio Weng 也在推特进行了预告。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.@saylor needs to hire someone who understands mkt cycles this is ridiculous]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1687036470274514944</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1687036470274514944"/>
@@ -297,51 +374,6 @@ ecoinometrics: Michael Saylor getting back in the mood of regular Bitcoin purc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，FIL 社区发起降低 Fil+ 订单算力乘数的提案 #774。提案认为 Fil+为网络吸引了大量经过验证的客户和数据，但也带来了共识过载、复杂性、糟糕的用户体验...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687006643190743041</id>
-        <link href="https://twitter.com/wublockchain12/status/1687006643190743041"/>
-        <updated>2023-08-03T07:45:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，FIL 社区发起降低 Fil+ 订单算力乘数的提案 #774。提案认为 Fil+为网络吸引了大量经过验证的客户和数据，但也带来了共识过载、复杂性、糟糕的用户体验等问题。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 基于此提出两个提案内容：1、立即停止新的DataCap分配，在FIP完成后的网络升级中，消除10倍算力乘数；2、在预先设置的期限内逐渐将Fil+订单的算力乘数从10倍...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687006645132677120</id>
-        <link href="https://twitter.com/wublockchain12/status/1687006645132677120"/>
-        <updated>2023-08-03T07:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Re 基于此提出两个提案内容：1、立即停止新的DataCap分配，在FIP完成后的网络升级中，消除10倍算力乘数；2、在预先设置的期限内逐渐将Fil+订单的算力乘数从10倍降低到1倍。目前提案仍处于讨论阶段。
-https://github.com/filecoin-project/FIPs/discussions/774]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/HashKeyExchange/status/1686977519701164032?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686982476043046912</id>
-        <link href="https://twitter.com/wublockchain12/status/1686982476043046912"/>
-        <updated>2023-08-03T06:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/HashKeyExchange/status/1686977519701164032?s=20
-
-HashKey Exchange: 🚀 Big news! HashKey Exchange, a licensed virtual asset exchange in Hong Kong, has upgraded its type 1 & 7 licences to offer retail services. Now, all users can enjoy a safe and simple trading experience! https://www.bloomberg.com/news/articles/2023-08-03/hong-kong-s-new-crypto-regime-awards-first-license-to-hashkey]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，HashKey 交易平台宣布1号和7号牌照正式升级，成为香港首家面向零售用户的持牌交易平台。 HashKey 交易平台除了提供法币出入金的支持，还将与渣打银行...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686982040913149952</id>
-        <link href="https://twitter.com/wublockchain12/status/1686982040913149952"/>
-        <updated>2023-08-03T06:07:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，HashKey 交易平台宣布1号和7号牌照正式升级，成为香港首家面向零售用户的持牌交易平台。 HashKey 交易平台除了提供法币出入金的支持，还将与渣打银行合作，为用户提供法币存取款服务。此外，平台还开放了合规OTC交易，为用户提供更多的交易选择。
-
-吴说区块链: 吴说独家获悉，香港证监会或于近日批准 Hashkey Pro 的牌照升级，开始允许其对零售散户进行服务。目前尚不确定可以提供的币种。目前 Hashkey Pro 仅提供 BTC ETH USDT USDC。Hashkey 集团 COO Livio Weng 也在推特进行了预告。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT BoldLeonidas 🧙‍♂️: fr tho]]></title>
         <id>https://twitter.com/boldleonidas/status/1686980515348553728</id>
         <link href="https://twitter.com/boldleonidas/status/1686980515348553728"/>
@@ -350,46 +382,6 @@ HashKey Exchange: 🚀 Big news! HashKey Exchange, a licensed virtual asset ex
 fr tho]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 吴说分析师认为，该机制或与 liquity 的稳定池类似，不过由于两者的抵押品资产不同，在实际应用中可能未能有理论效果，获得折价 CRV 的用户可能会马上砸盘进...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686958797447979008</id>
-        <link href="https://twitter.com/wublockchain12/status/1686958797447979008"/>
-        <updated>2023-08-03T04:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Re 吴说分析师认为，该机制或与 liquity 的稳定池类似，不过由于两者的抵押品资产不同，在实际应用中可能未能有理论效果，获得折价 CRV 的用户可能会马上砸盘进而再次使仓位面临清算风险等。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 问题的本质，可能是需要借贷平台在做好借贷池资产隔离的前提下，根据抵押品的市场流动性等基本面对抵押品进行分级，设置对应借款上限等。https://mp.weixin.q...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686958799083745280</id>
-        <link href="https://twitter.com/wublockchain12/status/1686958799083745280"/>
-        <updated>2023-08-03T04:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Re 问题的本质，可能是需要借贷平台在做好借贷池资产隔离的前提下，根据抵押品的市场流动性等基本面对抵押品进行分级，设置对应借款上限等。https://mp.weixin.qq.com/s/cBkB9LM44GybK-v6UMJ8xg]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从缓解 CRV 爆仓困境想到的一种新的借贷清算思路（作者：闪电 HSL）：面对巨量抵押仓位，通过引入一个主流稳定币备用清算池（以 USDT 为例），任何想获得折价抵...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686958795761778688</id>
-        <link href="https://twitter.com/wublockchain12/status/1686958795761778688"/>
-        <updated>2023-08-03T04:34:53.000Z</updated>
-        <summary type="html"><![CDATA[从缓解 CRV 爆仓困境想到的一种新的借贷清算思路（作者：闪电 HSL）：面对巨量抵押仓位，通过引入一个主流稳定币备用清算池（以 USDT 为例），任何想获得折价抵押品的用户可将 USDT 存入备用清算池，对于即将面临清算风险的用户来说，可借助备用池的 USDT 还债并提取抵押品以折价卖给备用池。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安宣布于 8 月 4 日 16:00（东八区时间）上线 BTC/FDUSD、ETH/FDUSD 交易对，并将 BTC/FDUSD 交易对添加至 BTC 零手续费活动中。 https://www.binan...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1686958605239828480</id>
-        <link href="https://twitter.com/wublockchain12/status/1686958605239828480"/>
-        <updated>2023-08-03T04:34:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安宣布于 8 月 4 日 16:00（东八区时间）上线 BTC/FDUSD、ETH/FDUSD 交易对，并将 BTC/FDUSD 交易对添加至 BTC 零手续费活动中。 https://www.binancezh.info/zh-CN/support/announcement/0e4155610e6f4e8bbaaa332545dc43a2]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
