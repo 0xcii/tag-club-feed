@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T16:15:19.035Z</id>
+    <id>urn:2023-08-04T17:10:40.643Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-04T16:15:19.035Z</updated>
+    <updated>2023-08-04T17:10:40.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687462939358646272</id>
+        <link href="https://twitter.com/wublockchain12/status/1687462939358646272"/>
+        <updated>2023-08-04T13:58:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 贝莱德高级投资组合经理 Jeffrey Rosenberg 表示，就业率仍然很高，接近或达到了预期水平。失业率处于50年低点。美联储鹰派成员将会关注工资增长，这是他们真...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687456852051955717</id>
+        <link href="https://twitter.com/wublockchain12/status/1687456852051955717"/>
+        <updated>2023-08-04T13:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Re 贝莱德高级投资组合经理 Jeffrey Rosenberg 表示，就业率仍然很高，接近或达到了预期水平。失业率处于50年低点。美联储鹰派成员将会关注工资增长，这是他们真正担心的问题。就业成本将是驱动通胀的因素，而可持续降低通胀可能会比较困难。鹰派成员将会以劳动力市场强劲为由，主张进一步行动。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，HashKeyCapital 正式宣布，将于 9 月 1 日首发一只受香港证监会监管的流动性 (二级)加密资产基金产品，未来计划投资于多种主流虚拟资产。官方自称预计...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687454159183003648</id>
+        <link href="https://twitter.com/wublockchain12/status/1687454159183003648"/>
+        <updated>2023-08-04T13:23:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，HashKeyCapital 正式宣布，将于 9 月 1 日首发一只受香港证监会监管的流动性 (二级)加密资产基金产品，未来计划投资于多种主流虚拟资产。官方自称预计未来一年内其旗下二级加密基金有望成为亚洲规模最大的加密资产基金之一，此基金将在 2023 年 9 月 1 日起正式接受投资者认购。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国公布 7 月失业率 3.50% 低于预期，预期值为 3.60%，前值 3.60%。 7 月季调后非农就业人口新增 18.7 万人，预期 20 万人，前值 20.9万人。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687449866749009920</id>
+        <link href="https://twitter.com/wublockchain12/status/1687449866749009920"/>
+        <updated>2023-08-04T13:06:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国公布 7 月失业率  3.50% 低于预期，预期值为 3.60%，前值 3.60%。 7 月季调后非农就业人口新增 18.7 万人，预期 20 万人，前值 20.9万人。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase 已提交文件以正式驳回 SEC 诉讼，其指控监管机构远远超出了其管辖范围。SEC 于 6 月指控 Coinbase 未经注册违反了联邦证券法，并列举了 13 种代币作为...]]></title>
         <id>https://twitter.com/wublockchain12/status/1687443000245522432</id>
@@ -153,56 +193,6 @@ Read more in part 1 of our series…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Chaineye，迈入 8 月以来，Curve 3Pool 中 USDT 占比从约 37% 上升至当前约 60%，处于倾斜状态，当前 3Pool TVL 约 2.3 亿美元。而 Uniswap V3 中 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687342211925454850</id>
-        <link href="https://twitter.com/wublockchain12/status/1687342211925454850"/>
-        <updated>2023-08-04T05:58:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Chaineye，迈入 8 月以来，Curve 3Pool 中 USDT 占比从约 37% 上升至当前约 60%，处于倾斜状态，当前 3Pool TVL 约 2.3 亿美元。而 Uniswap V3 中 TVL 约 1.1 亿美元的 USDC/USDT 0.01% Pool 也发生类似的倾斜，当前该池中 USDC 仅拥有 831 万美元份额。这均意味着有人出售 USDT 换取…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@BTC__options，1.8万张BTC期权即将到期，Put Call Ratio为0.38，最大痛点29500美元，名义价值5.3亿美元。21.7万张ETH期权即将到期，Put Call Ratio...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687339304077373442</id>
-        <link href="https://twitter.com/wublockchain12/status/1687339304077373442"/>
-        <updated>2023-08-04T05:46:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@BTC__options，1.8万张BTC期权即将到期，Put Call Ratio为0.38，最大痛点29500美元，名义价值5.3亿美元。21.7万张ETH期权即将到期，Put Call Ratio为0.69，最大痛点1850美元，名义价值4亿美元。本周巨鲸开始少见的大规模调仓，占据了超过一半的市场交易量。…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 若以转入该地址时比特币价格视为 Tether 购买比特币的价格则当前 Tether 比特币的持有均价为 2.24 万美元，盈利 3.7 亿美元。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687319634402320385</id>
-        <link href="https://twitter.com/wublockchain12/status/1687319634402320385"/>
-        <updated>2023-08-04T04:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Re 若以转入该地址时比特币价格视为 Tether 购买比特币的价格则当前 Tether 比特币的持有均价为 2.24 万美元，盈利 3.7 亿美元。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，链上衍生品协议 Gains Network 表示，尽管 Crypto 市场处于区间震荡，但 gTrade 上的大宗商品（黄金和白银）周交易量创下历史新高，超过 4,000 万美元...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687319268122107904</id>
-        <link href="https://twitter.com/wublockchain12/status/1687319268122107904"/>
-        <updated>2023-08-04T04:27:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，链上衍生品协议 Gains Network 表示，尽管 Crypto 市场处于区间震荡，但 gTrade 上的大宗商品（黄金和白银）周交易量创下历史新高，超过 4,000 万美元。据官方数据面板，gTrade 首次连续三天在大宗商品日均交易量超过 1 千万美元，但值得注意的是，在 gTrade…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 21Shares 分析师 Tom Wan，当前比特币第 11 大持币地址 bc1qjasf9z3h7w3jspkhtgatgpyvvzgpa2wwd2lr0eh5tx44reyn2k7sfc27a4 可能是 Tether 的比特币...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687316586653229057</id>
-        <link href="https://twitter.com/wublockchain12/status/1687316586653229057"/>
-        <updated>2023-08-04T04:16:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 21Shares 分析师 Tom Wan，当前比特币第 11 大持币地址 bc1qjasf9z3h7w3jspkhtgatgpyvvzgpa2wwd2lr0eh5tx44reyn2k7sfc27a4 可能是 Tether 的比特币持有地址。目前该地址持有 5.5 万枚 BTC，约合 16 亿美元。该地址在比特币金额和交易行为上与 Tether 此前发布的公告相吻合。Tether…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already us...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1687144549561376777</id>
         <link href="https://twitter.com/DeFi_educator/status/1687144549561376777"/>
@@ -248,6 +238,86 @@ https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动]]></title>
+        <id>https://twitter.com/8848Community/status/1686751673861931009</id>
+        <link href="https://twitter.com/8848Community/status/1686751673861931009"/>
+        <updated>2023-08-02T14:51:52.000Z</updated>
+        <summary type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动
+
+Socket: It's official, Bridging Summer is ON 🔴
+Today we are supercharging our efforts with Socket Ecosystem to onboard users to the fast world of @optimismFND
+400K rewards go live across apps building on Socket to create the best L2 bridging experience!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></title>
+        <id>https://twitter.com/8848Community/status/1686655983488294912</id>
+        <link href="https://twitter.com/8848Community/status/1686655983488294912"/>
+        <updated>2023-08-02T08:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习]]></title>
+        <id>https://twitter.com/8848Community/status/1686621848291938304</id>
+        <link href="https://twitter.com/8848Community/status/1686621848291938304"/>
+        <updated>2023-08-02T06:15:59.000Z</updated>
+        <summary type="html"><![CDATA[学习
+
+Kev.Ξth (🍄,🟢): new greenpill!
+all about http://sound.xyz & why we're excite about music without the middlemen.
+thx @dgreenstein1 for joining 🙃
+https://www.youtube.com/watch?v=ihQVjOnN8gs]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者可以瞧瞧]]></title>
+        <id>https://twitter.com/8848Community/status/1686619665920036864</id>
+        <link href="https://twitter.com/8848Community/status/1686619665920036864"/>
+        <updated>2023-08-02T06:07:18.000Z</updated>
+        <summary type="html"><![CDATA[开发者可以瞧瞧
+
+Monad: Builders, dreamers & doers – we are launching a Monad developer grant program! 💜
+Your boldest ideas could get you up to $100k in grant funding!
+We are redefining the possibilities of the EVM, and we need your help 🤝👇]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街]]></title>
+        <id>https://twitter.com/8848Community/status/1686605349544235008</id>
+        <link href="https://twitter.com/8848Community/status/1686605349544235008"/>
+        <updated>2023-08-02T05:10:25.000Z</updated>
+        <summary type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街
+
+
+mySwap - Starknet AMM: 💎1st #NFTGiveaway of mySwap Quest, Mission 2💎
+Aurora's Ember NFT holds the potential to guide its owners to earn the best yield on mySwap.
+Possession of Aurora's Ember NFT opens doors to future opportunities.
+Claim your #YieldAlchemy #NFT now!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么 人生也像冲土狗，你永远不知道你会暴富还是归零]]></title>
+        <id>https://twitter.com/8848Community/status/1686600091749216256</id>
+        <link href="https://twitter.com/8848Community/status/1686600091749216256"/>
+        <updated>2023-08-02T04:49:32.000Z</updated>
+        <summary type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么
+人生也像冲土狗，你永远不知道你会暴富还是归零]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @acimro @asxn_r @HsakaTrades Look at smart burn proposal. Maker is one of the buyers]]></title>
         <id>https://twitter.com/DeFi_educator/status/1686480867462402049</id>
         <link href="https://twitter.com/DeFi_educator/status/1686480867462402049"/>
@@ -268,6 +338,114 @@ https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这个也上coinlist了 不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了]]></title>
+        <id>https://twitter.com/8848Community/status/1686400941124456448</id>
+        <link href="https://twitter.com/8848Community/status/1686400941124456448"/>
+        <updated>2023-08-01T15:38:10.000Z</updated>
+        <summary type="html"><![CDATA[这个也上coinlist了
+不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了
+
+CHAINFLIP LABS: (1/6) The FLIP token sale has been announced for the 31st of August, in partnership with @CoinList.
+FLIP is the native utility & fee token of Chainflip, a cross chain DEX, focussing on providing users with cheap & secure cross-chain swaps. 🔗
+https://sales.coinlist.co/chainflip]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为啥这么高？你们在刷什么]]></title>
+        <id>https://twitter.com/8848Community/status/1686355952206045185</id>
+        <link href="https://twitter.com/8848Community/status/1686355952206045185"/>
+        <updated>2023-08-01T12:39:24.000Z</updated>
+        <summary type="html"><![CDATA[为啥这么高？你们在刷什么
+
+Ethereum Daily: 🚨 That's insane
+New ATH in Total Transactions on Polygon zkEVM for the first time!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊 我也想买 50U 我愿意锁仓7个月 还是说只有大佬才能参加啊]]></title>
+        <id>https://twitter.com/8848Community/status/1686351760703766528</id>
+        <link href="https://twitter.com/8848Community/status/1686351760703766528"/>
+        <updated>2023-08-01T12:22:45.000Z</updated>
+        <summary type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊
+我也想买 50U 我愿意锁仓7个月
+还是说只有大佬才能参加啊]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></title>
+        <id>https://twitter.com/8848Community/status/1686310125563453440</id>
+        <link href="https://twitter.com/8848Community/status/1686310125563453440"/>
+        <updated>2023-08-01T09:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></title>
+        <id>https://twitter.com/8848Community/status/1686305036945764352</id>
+        <link href="https://twitter.com/8848Community/status/1686305036945764352"/>
+        <updated>2023-08-01T09:17:05.000Z</updated>
+        <summary type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩 落下了很多亏钱机会]]></title>
+        <id>https://twitter.com/8848Community/status/1686304227914928128</id>
+        <link href="https://twitter.com/8848Community/status/1686304227914928128"/>
+        <updated>2023-08-01T09:13:52.000Z</updated>
+        <summary type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩
+落下了很多亏钱机会
+
+olimpio: There's a risk of a black swan event in DeFi.
+As per Defillama, if CRV drops below $0.37, there's 300M CRV to liquidate in Aave -most from Curve's founder
+The problem? There's not a single Exchange or DeFi protocol where one can sell such a large CRV amount.
+Risks explained 🧵]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请您为本推7月的内容打分 A：优质高级 B：建议保持 C：8月别发 D：不配打分 E：狗都不看 F：一天不看浑身难受 G：纯傻逼 但是我喜欢 H：色情内容过少]]></title>
+        <id>https://twitter.com/8848Community/status/1686302707668402176</id>
+        <link href="https://twitter.com/8848Community/status/1686302707668402176"/>
+        <updated>2023-08-01T09:07:50.000Z</updated>
+        <summary type="html"><![CDATA[请您为本推7月的内容打分
+A：优质高级
+B：建议保持
+C：8月别发
+D：不配打分
+E：狗都不看
+F：一天不看浑身难受
+G：纯傻逼 但是我喜欢
+H：色情内容过少]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八月你好 七月大家发财了吗 没？ 不要紧 可能八月也没]]></title>
+        <id>https://twitter.com/8848Community/status/1686301052294008832</id>
+        <link href="https://twitter.com/8848Community/status/1686301052294008832"/>
+        <updated>2023-08-01T09:01:15.000Z</updated>
+        <summary type="html"><![CDATA[八月你好
+七月大家发财了吗
+没？
+不要紧
+可能八月也没]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></title>
         <id>https://twitter.com/DeFi_educator/status/1686194393391210496</id>
         <link href="https://twitter.com/DeFi_educator/status/1686194393391210496"/>
@@ -275,6 +453,31 @@ https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
         <summary type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT monetsupply.eth: some dashboards i'm watching rn 1) @BlockAnalitica aave risk dashboard shows collateral and debt composition, position health, liq...]]></title>
+        <id>https://twitter.com/MonetSupply/status/1686112567410765824</id>
+        <link href="https://twitter.com/MonetSupply/status/1686112567410765824"/>
+        <updated>2023-07-31T20:32:17.000Z</updated>
+        <summary type="html"><![CDATA[RT monetsupply.eth
+some dashboards i'm watching rn
+1) @BlockAnalitica aave risk dashboard
+shows collateral and debt composition, position health, liquidity, buffer vs liquidation, and recent actions
+https://aave.blockanalitica.com/v2/ethereum/wallets/0x7a16ff8270133f063aab6c9977183d9e72835428/]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要再赚啦 你们不要再赚啦]]></title>
+        <id>https://twitter.com/8848Community/status/1685683587528773632</id>
+        <link href="https://twitter.com/8848Community/status/1685683587528773632"/>
+        <updated>2023-07-30T16:07:40.000Z</updated>
+        <summary type="html"><![CDATA[不要再赚啦
+你们不要再赚啦]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -297,6 +500,20 @@ Gm to all the onchain enjoyooors trying to find the next 10x while evading devs 
 All your Flash 1.0 yield rates in one image:]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[很多币跌了之后 懂哥开始教团队做事 舔狗开始屌懂哥 dev出来画饼说要做这个做那个 每个人都在钻牛角尖]]></title>
+        <id>https://twitter.com/8848Community/status/1684478135860187136</id>
+        <link href="https://twitter.com/8848Community/status/1684478135860187136"/>
+        <updated>2023-07-27T08:17:38.000Z</updated>
+        <summary type="html"><![CDATA[很多币跌了之后 
+懂哥开始教团队做事 
+舔狗开始屌懂哥 
+dev出来画饼说要做这个做那个
+每个人都在钻牛角尖]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -419,6 +636,16 @@ Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></title>
+        <id>https://twitter.com/8848Community/status/1681313913064009729</id>
+        <link href="https://twitter.com/8848Community/status/1681313913064009729"/>
+        <updated>2023-07-18T14:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[阳光下的泡沫 是彩色的 就像被骗的我 是幸福的 美丽的泡沫 虽然一刹花火 你所有承诺 虽然都太脆弱 但爱像泡沫 如果能够看破 有什么难过 美丽的泡沫 虽然一刹花火...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1679874319370051585</id>
         <link href="https://twitter.com/AntCaveClub/status/1679874319370051585"/>
@@ -495,6 +722,30 @@ Buy and sell information on the owner of any blockchain wallet address—anonymo
 https://platform.arkhamintelligence.com/waitlist?referrer=ZGVmaWVkdWNhdG9yQHBoZGNhcGl0YWwuZnVuZA]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @baofuliu 以形补形]]></title>
+        <id>https://twitter.com/8848Community/status/1678246222082220033</id>
+        <link href="https://twitter.com/8848Community/status/1678246222082220033"/>
+        <updated>2023-07-10T03:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @baofuliu 以形补形]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停一停 吃个早餐 再继续努力 生活是美好的 也可不仅只苦行]]></title>
+        <id>https://twitter.com/8848Community/status/1678244118047379457</id>
+        <link href="https://twitter.com/8848Community/status/1678244118047379457"/>
+        <updated>2023-07-10T03:25:52.000Z</updated>
+        <summary type="html"><![CDATA[停一停
+吃个早餐
+再继续努力
+生活是美好的
+也可不仅只苦行]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
