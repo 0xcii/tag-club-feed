@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T08:15:10.992Z</id>
+    <id>urn:2023-08-04T09:11:53.007Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-04T08:15:10.992Z</updated>
+    <updated>2023-08-04T09:11:53.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据 CCData 报告，韩国最大加密交易所 Upbit 月交易量首次超过 Coinbase 和 OKX，仅次于币安。 7 月份，币安交易量 2080 亿美元，市场份额连续第五个月下降至 40....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687369046805905408</id>
+        <link href="https://twitter.com/wublockchain12/status/1687369046805905408"/>
+        <updated>2023-08-04T07:45:05.000Z</updated>
+        <summary type="html"><![CDATA[据 CCData 报告，韩国最大加密交易所 Upbit 月交易量首次超过 Coinbase 和 OKX，仅次于币安。 7 月份，币安交易量 2080 亿美元，市场份额连续第五个月下降至 40.4%，为 2022 年 8 月以来的最低水平；Coinbase 交易量下降 11.6% 至 286 亿美元；OKX 交易量下降 5.8% 至 290 亿美元；Upbit 交易量增长…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CCData 数据显示，芝商所 (CME) 7 月份加密货币期权交易量增长 24%，达 9.4 亿美元，为四个月来首次增长。 比特币期权交易量增长 16.6%，达 7.34 亿美元，而以太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687350958026899456</id>
+        <link href="https://twitter.com/wublockchain12/status/1687350958026899456"/>
+        <updated>2023-08-04T06:33:12.000Z</updated>
+        <summary type="html"><![CDATA[CCData 数据显示，芝商所 (CME) 7 月份加密货币期权交易量增长 24%，达 9.4 亿美元，为四个月来首次增长。 比特币期权交易量增长 16.6%，达 7.34 亿美元，而以太坊期权交易量增长 60%，达 2.07 亿美元。CME…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re https://twitter.com/SeiNetwork/status/1687169731961221120?s=20]]></title>
         <id>https://twitter.com/wublockchain12/status/1687343082797146112</id>
@@ -176,26 +196,6 @@ Read more in part 1 of our series…]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1687284524638507008"/>
         <updated>2023-08-04T02:09:13.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，在最新研讨会上，香港财经事务及库务局副局长陈浩濂先生表示，致力推动整个虚拟资产价值链上各项金融服务的可持续发展，当中涵盖虚拟资产发行、代币化、交易和支付平台、金融和资产管理，以及存管等。香港立法会议员邱达根表示，下一步应该深化金融产品的创新，考虑稳定币及RWA…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Arbitrum 开发商 Offchain Labs 宣布推出解决 Rollup 争议的协议 BOLD（Bounded Liquidity Delay），可以为 Arbitrum 提供无需许可的验证功能。BOLD ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687284124866822144</id>
-        <link href="https://twitter.com/wublockchain12/status/1687284124866822144"/>
-        <updated>2023-08-04T02:07:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Arbitrum 开发商 Offchain Labs 宣布推出解决 Rollup 争议的协议 BOLD（Bounded Liquidity Delay），可以为 Arbitrum 提供无需许可的验证功能。BOLD 代码和规范已在 Github 上发布。Offchain 团队曾指出有关 Rollup…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Twitter 前 CEO Jack Dorsey 创立的 Block 公布第二季度毛利润 18.7 亿美元，同比增长 27%；旗下 Square 毛利润 8.88 亿美元，同比增长 18%； Cash Ap...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687282823659417600</id>
-        <link href="https://twitter.com/wublockchain12/status/1687282823659417600"/>
-        <updated>2023-08-04T02:02:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Twitter 前 CEO Jack Dorsey 创立的 Block 公布第二季度毛利润 18.7 亿美元，同比增长 27%；旗下 Square 毛利润 8.88 亿美元，同比增长 18%； Cash App 毛利润 9.68 亿美元，同比增长 37%。总净收入 55 亿美元中，有 24 亿美元来自比特币。 https://s29.q4cdn.com/628966176/files/doc_financials/2023/q2/2Q23_Block_Shareholder-Letter.pdf]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -414,6 +414,17 @@ https://aave.blockanalitica.com/v2/ethereum/wallets/0x7a16ff8270133f063aab6c9977
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Flashstake (⚡,⏳): All your Flash 1.0 yield rates in one image:]]></title>
+        <id>https://twitter.com/Flashstake/status/1685258780005793792</id>
+        <link href="https://twitter.com/Flashstake/status/1685258780005793792"/>
+        <updated>2023-07-29T11:59:38.000Z</updated>
+        <summary type="html"><![CDATA[RT Flashstake (⚡,⏳)
+All your Flash 1.0 yield rates in one image:]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[很多币跌了之后 懂哥开始教团队做事 舔狗开始屌懂哥 dev出来画饼说要做这个做那个 每个人都在钻牛角尖]]></title>
         <id>https://twitter.com/8848Community/status/1684478135860187136</id>
         <link href="https://twitter.com/8848Community/status/1684478135860187136"/>
@@ -428,6 +439,56 @@ dev出来画饼说要做这个做那个
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @tr_dex_td 0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1684195868931678208</id>
+        <link href="https://twitter.com/AntCaveClub/status/1684195868931678208"/>
+        <updated>2023-07-26T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @tr_dex_td 0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 6. 加密原生社交应用 7. 预测市场（创建具有真实流动性的市场） 8. 稳定币支付/金融科技（随着稳定币的成熟和银行业务变得更加麻烦） 9. 链上资金库（稳定币...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1684016191264931840</id>
+        <link href="https://twitter.com/AntCaveClub/status/1684016191264931840"/>
+        <updated>2023-07-26T01:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 6. 加密原生社交应用 
+7. 预测市场（创建具有真实流动性的市场） 
+8. 稳定币支付/金融科技（随着稳定币的成熟和银行业务变得更加麻烦） 
+9. 链上资金库（稳定币之后、其他现实世界资产之前的自然步骤） 
+10. ZKP 应用（目前存在 ZKP 能力过剩：应用发展落后于科学和应用研究）]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm 公布了几个其一直在探索的加密领域： 1. 以意图为中心的协议和基础设施 2. 基于 Uniswap v4 的 Hooks（特别是那些关注 LP 盈利性和损失与再平衡的 Hook...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1684016188869976064</id>
+        <link href="https://twitter.com/AntCaveClub/status/1684016188869976064"/>
+        <updated>2023-07-26T01:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Paradigm 公布了几个其一直在探索的加密领域：
+1. 以意图为中心的协议和基础设施 
+2. 基于 Uniswap v4 的 Hooks（特别是那些关注 LP 盈利性和损失与再平衡的 Hooks） 
+3. 以 Rollup 为中心的多链世界的基础架构
+4. 共享排序器 
+5. 链上游戏（我们会喜欢玩的那种）]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dYdX: New twitter logo looks a lot like ours... 🤔]]></title>
+        <id>https://twitter.com/dYdX/status/1683510473700810753</id>
+        <link href="https://twitter.com/dYdX/status/1683510473700810753"/>
+        <updated>2023-07-24T16:12:29.000Z</updated>
+        <summary type="html"><![CDATA[RT dYdX
+New twitter logo looks a lot like ours... 🤔]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></title>
         <id>https://twitter.com/8848Community/status/1681313913064009729</id>
         <link href="https://twitter.com/8848Community/status/1681313913064009729"/>
@@ -435,6 +496,27 @@ dev出来画饼说要做这个做那个
         <summary type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阳光下的泡沫 是彩色的 就像被骗的我 是幸福的 美丽的泡沫 虽然一刹花火 你所有承诺 虽然都太脆弱 但爱像泡沫 如果能够看破 有什么难过 美丽的泡沫 虽然一刹花火...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1679874319370051585</id>
+        <link href="https://twitter.com/AntCaveClub/status/1679874319370051585"/>
+        <updated>2023-07-14T15:23:42.000Z</updated>
+        <summary type="html"><![CDATA[阳光下的泡沫 是彩色的
+就像被骗的我 是幸福的
+美丽的泡沫 虽然一刹花火
+你所有承诺 虽然都太脆弱
+但爱像泡沫 如果能够看破
+有什么难过
+美丽的泡沫 虽然一刹花火
+原本是泡沫 如果能够看破
+有什么难过
+为什么难过 有什么难过
+为什么难过
+全都是泡沫  @MultichainOrg]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
         </author>
     </entry>
     <entry>
@@ -459,6 +541,70 @@ dev出来画饼说要做这个做那个
 也可不仅只苦行]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希望听到你们的好消息...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677626350038048768</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677626350038048768"/>
+        <updated>2023-07-08T10:31:05.000Z</updated>
+        <summary type="html"><![CDATA[希望听到你们的好消息...
+
+Multichain (Previously Anyswap): The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. 
+There is no confirmed resume time.
+Please don’t use the Multichain bridging service now.]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😓内忧外患]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677579404309057536</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677579404309057536"/>
+        <updated>2023-07-08T07:24:32.000Z</updated>
+        <summary type="html"><![CDATA[😓内忧外患]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just signed up for the Dolpin Atlantiq Pass allowlist on HeyMint! Get your spot here: https://heymint.xyz/dolpin-atlantiq-pass]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677174589309456384</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677174589309456384"/>
+        <updated>2023-07-07T04:35:57.000Z</updated>
+        <summary type="html"><![CDATA[I just signed up for the Dolpin Atlantiq Pass allowlist on HeyMint! Get your spot here: https://heymint.xyz/dolpin-atlantiq-pass]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我觉得快讯直接报道: @MultichainOrg rug 了, 读者可能更容易理解.]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677167214284374016</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677167214284374016"/>
+        <updated>2023-07-07T04:06:38.000Z</updated>
+        <summary type="html"><![CDATA[我觉得快讯直接报道:  @MultichainOrg  rug 了, 读者可能更容易理解.]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MultichainOrg: 就说被黑了, 反正他们会信的.]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677165940889497602</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677165940889497602"/>
+        <updated>2023-07-07T04:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @MultichainOrg:  就说被黑了, 反正他们会信的.]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sanyuan2016 我最讨厌这个跨链桥, 迟早出问题. 他出过很多次问题了. 而且每次都不在乎用户想法.]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1677125328794443776</id>
+        <link href="https://twitter.com/AntCaveClub/status/1677125328794443776"/>
+        <updated>2023-07-07T01:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @sanyuan2016 我最讨厌这个跨链桥, 迟早出问题. 他出过很多次问题了. 而且每次都不在乎用户想法.]]></summary>
+        <author>
+            <name>链求君 | (C,C)</name>
         </author>
     </entry>
 </feed>
