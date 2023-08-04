@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T11:10:02.580Z</id>
+    <id>urn:2023-08-04T12:24:01.097Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-04T11:10:02.580Z</updated>
+    <updated>2023-08-04T12:24:01.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 decrypt，欧洲数字银行 Revolut 宣布从 9 月 2 日起将暂停在美国的加密货币服务，并从 10 月 3 日起完全禁止美国用户访问相关服务。 Revolut 表示...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687397724017295360</id>
+        <link href="https://twitter.com/wublockchain12/status/1687397724017295360"/>
+        <updated>2023-08-04T09:39:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 decrypt，欧洲数字银行 Revolut 宣布从 9 月 2 日起将暂停在美国的加密货币服务，并从 10 月 3 日起完全禁止美国用户访问相关服务。 Revolut 表示该决定是受到美国加密货币市场不断变化的监管环境和不确定性的影响。https://decrypt.co/151272/revolut-shutter-us-crypto-operations-due-regulatory-environment]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据 CCData 报告，韩国最大加密交易所 Upbit 月交易量首次超过 Coinbase 和 OKX，仅次于币安。 7 月份，币安交易量 2080 亿美元，市场份额连续第五个月下降至 40....]]></title>
         <id>https://twitter.com/wublockchain12/status/1687369046805905408</id>
@@ -186,16 +196,6 @@ Read more in part 1 of our series…]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1687287333597433856"/>
         <updated>2023-08-04T02:20:23.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Polygon Zero 发文指控 zksync 在没有归属的情况下复制粘贴其源代码并对原始作品做出误导性的声明违反了开源精神并损害了生态系统。 zksync 开发团队 Matter Labs 最近发布的 Boojum 库的重要部分是从 Polygon Labs 开发的 Plonky2 证明系统复制粘贴且未标注归属，还对 Plonky2 相对于…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在最新研讨会上，香港财经事务及库务局副局长陈浩濂先生表示，致力推动整个虚拟资产价值链上各项金融服务的可持续发展，当中涵盖虚拟资产发行、代币化...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687284524638507008</id>
-        <link href="https://twitter.com/wublockchain12/status/1687284524638507008"/>
-        <updated>2023-08-04T02:09:13.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在最新研讨会上，香港财经事务及库务局副局长陈浩濂先生表示，致力推动整个虚拟资产价值链上各项金融服务的可持续发展，当中涵盖虚拟资产发行、代币化、交易和支付平台、金融和资产管理，以及存管等。香港立法会议员邱达根表示，下一步应该深化金融产品的创新，考虑稳定币及RWA…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
