@@ -1,6 +1,410 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://twitter.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687497579968565249",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币追研究指出，被标注为 Multichain Suspicious Address 4 的地址转移资金按照当天汇率计算为500万人民币，类似整数金额出现多次，这表明交易双方以人民币计价；资金可能通过两个或以上的承兑服务商进行了变现；Multichain 资金也与网传 FTX…",
+          "link": "https://twitter.com/wublockchain12/status/1687497579968565249",
+          "publishedOn": "2023-08-04T16:15:49.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，币追研究指出，被标注为 Multichain Suspicious Address 4 的地址转移资金按照当天汇率计算为500万人民币，类似整数金额出现多次，这表明交易双方以人...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687482748070670336",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/Starknet/status/1687468167386349568?s=20\n\nStarknet ✨️🐺: 0.12.0 is flexing its muscles with a new ath in Cairo Steps Per Second while 0.12.1 is ready to drop to Goerli Testnet on Monday. \nStarknet Mainnet Quantum Leap is leaping 🦘🦘",
+          "link": "https://twitter.com/wublockchain12/status/1687482748070670336",
+          "publishedOn": "2023-08-04T15:16:53.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/Starknet/status/1687468167386349568?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687482628717608961",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Starknet 宣布将于下周一（8 月 7 日）在 Goerli 测试网发布 v0.12.1，该版本是 Starknet Quantum Leap 第 2 部分，旨在改善用户体验并确保可靠的交易，最终增强开发人员与系统的交互。失败的交易将包含在区块中并将被收取费用以提高网络效率。",
+          "link": "https://twitter.com/wublockchain12/status/1687482628717608961",
+          "publishedOn": "2023-08-04T15:16:25.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Starknet 宣布将于下周一（8 月 7 日）在 Goerli 测试网发布 v0.12.1，该版本是 Starknet Quantum Leap 第 2 部分，旨在改善用户体验并确保可靠的交易...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687479425192103937",
+          "author": "吴说区块链",
+          "description": "去中心化衍生品交易所 dYdX 正在评估其治理代币的过渡，将之转变为即将推出的 Cosmos 上 L1 dYdX 链的原生资产，该链目前正处于测试阶段。 其背后团队称，稍后将通过社区治理投票做出决定。（TheBlock）https://www.theblock.co/post/243270/dydx-evaluates-transitioning-token-to-native-asset-of-upcoming-layer-1-chain-on-cosmos",
+          "link": "https://twitter.com/wublockchain12/status/1687479425192103937",
+          "publishedOn": "2023-08-04T15:03:41.000Z",
+          "wordCount": null,
+          "title": "去中心化衍生品交易所 dYdX 正在评估其治理代币的过渡，将之转变为即将推出的 Cosmos 上 L1 dYdX 链的原生资产，该链目前正处于测试阶段。 其背后团队称，稍后将...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687476761930670080",
+          "author": "吴说区块链",
+          "description": "与 Multichain 攻击相关的可疑钱包地址在 Uniswap 上出售了价值 240 万美元的 chainlink 代币 (LINK) 和 180 万美元的 WOO Network (WOO) 代币。该钱包还收到了价值 80 万美元的 CRV 代币和价值 87 万美元的 YFI 在 Uniswap 上积极出售。（CoinDesk）https://www.coindesk.com/business/2023/08/04/suspicious-multichain-wallet-dumps-18m-woo-network-tokens-price-drops-8/?utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_medium=social&utm_content=editorial",
+          "link": "https://twitter.com/wublockchain12/status/1687476761930670080",
+          "publishedOn": "2023-08-04T14:53:06.000Z",
+          "wordCount": null,
+          "title": "与 Multichain 攻击相关的可疑钱包地址在 Uniswap 上出售了价值 240 万美元的 chainlink 代币 (LINK) 和 180 万美元的 WOO Network (WOO) 代币。该钱包还收到了...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687476704519086081",
+          "author": "吴说区块链",
+          "description": "基于 Polygon  zkEVM 的永续期货 DEX D8X 已从 Polygon Ventures 牵头的 pre-seed 轮融资募得 150 万美元。D8X 声称其有一项将专业投资者与 DeFi 联系起来的计划，将吸引大银行和对冲基金等机构投资者对加密衍生品的兴趣。（DL News）https://www.dlnews.com/articles/defi/polygon-backed-d8x-raises-funds-for-defi-derivative-trading/?utm_source=onecryptofeed&utm_medium=social",
+          "link": "https://twitter.com/wublockchain12/status/1687476704519086081",
+          "publishedOn": "2023-08-04T14:52:52.000Z",
+          "wordCount": null,
+          "title": "基于 Polygon zkEVM 的永续期货 DEX D8X 已从 Polygon Ventures 牵头的 pre-seed 轮融资募得 150 万美元。D8X 声称其有一项将专业投资者与 DeFi 联系起来的计划...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687472939959197696",
+          "author": "吴说区块链",
+          "description": "Re https://twitter.com/MistTrack_io/status/1687461853335838720\n\nMistTrack🕵️: And the party continues. 🎉\nThe @AlchemixFi / @CurveFinance  Exploiter recently returned 1000 alETH to the Alchemix Finance : Dev Multisig wallet. \nhttps://etherscan.io/tx/0xaf7d9a75b66118d76383406259c5860afae1a4ecd0c058593da05a2613b18fc2",
+          "link": "https://twitter.com/wublockchain12/status/1687472939959197696",
+          "publishedOn": "2023-08-04T14:37:55.000Z",
+          "wordCount": null,
+          "title": "Re https://twitter.com/MistTrack_io/status/1687461853335838720",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687472837987364864",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据慢雾，被标记为「Alchemix/CurveFinance Exploiter」的黑客向 Alchemix Finance: Dev 两次返还 1000 alETH 和 3,800 alETH；早先 JPEG'd 攻击者退回了 6106 ETH。此前 alETH 池攻击者曾向 Curve 合约部署地址发送信息称请在推特上确认地址以确保不会搞错。",
+          "link": "https://twitter.com/wublockchain12/status/1687472837987364864",
+          "publishedOn": "2023-08-04T14:37:30.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据慢雾，被标记为「Alchemix/CurveFinance Exploiter」的黑客向 Alchemix Finance: Dev 两次返还 1000 alETH 和 3,800 alETH；早先 JPEG'd 攻击者退回...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687462939358646272",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://twitter.com/wublockchain12/status/1687462939358646272",
+          "publishedOn": "2023-08-04T13:58:10.000Z",
+          "wordCount": null,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687456852051955717",
+          "author": "吴说区块链",
+          "description": "Re 贝莱德高级投资组合经理 Jeffrey Rosenberg 表示，就业率仍然很高，接近或达到了预期水平。失业率处于50年低点。美联储鹰派成员将会关注工资增长，这是他们真正担心的问题。就业成本将是驱动通胀的因素，而可持续降低通胀可能会比较困难。鹰派成员将会以劳动力市场强劲为由，主张进一步行动。",
+          "link": "https://twitter.com/wublockchain12/status/1687456852051955717",
+          "publishedOn": "2023-08-04T13:33:59.000Z",
+          "wordCount": null,
+          "title": "Re 贝莱德高级投资组合经理 Jeffrey Rosenberg 表示，就业率仍然很高，接近或达到了预期水平。失业率处于50年低点。美联储鹰派成员将会关注工资增长，这是他们真...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687454159183003648",
+          "author": "吴说区块链",
+          "description": "吴说获悉，HashKeyCapital 正式宣布，将于 9 月 1 日首发一只受香港证监会监管的流动性 (二级)加密资产基金产品，未来计划投资于多种主流虚拟资产。官方自称预计未来一年内其旗下二级加密基金有望成为亚洲规模最大的加密资产基金之一，此基金将在 2023 年 9 月 1 日起正式接受投资者认购。",
+          "link": "https://twitter.com/wublockchain12/status/1687454159183003648",
+          "publishedOn": "2023-08-04T13:23:17.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，HashKeyCapital 正式宣布，将于 9 月 1 日首发一只受香港证监会监管的流动性 (二级)加密资产基金产品，未来计划投资于多种主流虚拟资产。官方自称预计...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687449866749009920",
+          "author": "吴说区块链",
+          "description": "吴说获悉，美国公布 7 月失业率  3.50% 低于预期，预期值为 3.60%，前值 3.60%。 7 月季调后非农就业人口新增 18.7 万人，预期 20 万人，前值 20.9万人。",
+          "link": "https://twitter.com/wublockchain12/status/1687449866749009920",
+          "publishedOn": "2023-08-04T13:06:14.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，美国公布 7 月失业率 3.50% 低于预期，预期值为 3.60%，前值 3.60%。 7 月季调后非农就业人口新增 18.7 万人，预期 20 万人，前值 20.9万人。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687443000245522432",
+          "author": "吴说区块链",
+          "description": "Coinbase 已提交文件以正式驳回 SEC 诉讼，其指控监管机构远远超出了其管辖范围。SEC 于 6 月指控 Coinbase 未经注册违反了联邦证券法，并列举了 13 种代币作为例子。Coinbase 在文件中反驳称，SEC 并未声称这些例子涉及投资合同。Coinbase 平台和 Prime…\n\n吴说区块链: Coinbase 计划于周五向法庭提交申请以“完全”驳回美国证券交易委员会对其提起的违反证券法的诉讼。Coinbase 首席法务官 Paul Grewal 表示，Coinbase 对向法院提出的论点“充满信心”。并表示 Coinbase 希望与 SEC 和立法者合作，以获得“监管的明确性”。 （TheBlock）https://www.theblock.co/post/243128/coinbase-plans-friday-filing-to-seek-dismissal-of-secs-case-in-its-entirety",
+          "link": "https://twitter.com/wublockchain12/status/1687443000245522432",
+          "publishedOn": "2023-08-04T12:38:57.000Z",
+          "wordCount": null,
+          "title": "Coinbase 已提交文件以正式驳回 SEC 诉讼，其指控监管机构远远超出了其管辖范围。SEC 于 6 月指控 Coinbase 未经注册违反了联邦证券法，并列举了 13 种代币作为...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687441122564718593",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Binance Labs 宣布已投资最近一季最有价值建设者（MVB）计划中表现最佳的四个项目：以太坊扩容项目 AltLayer —允许快速定制具有欺诈/ zk 证明的 Rollups；用户友好 DEX KiloEx—专注于风险管理和资本效率；DeFi 借贷协议 Kinza —旨在创建最好的链上货币市场；Sleepless AI—基于区块链的 AI…",
+          "link": "https://twitter.com/wublockchain12/status/1687441122564718593",
+          "publishedOn": "2023-08-04T12:31:29.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Binance Labs 宣布已投资最近一季最有价值建设者（MVB）计划中表现最佳的四个项目：以太坊扩容项目 AltLayer —允许快速定制具有欺诈/ zk 证明的 Roll...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687437254015553536",
+          "author": "吴说区块链",
+          "description": "Re TheBlock CEO Larry 对吴说区块链否认了这一信息。与此同时 CoinDesk 也正在出售 DCG 手中价值 1.25 亿美金的股份，总估值超过 2 亿美金。CoinDesk 与 TheBlock 是目前英文世界最具影响力的区块链媒体，但都同时处于出售状态。",
+          "link": "https://twitter.com/wublockchain12/status/1687437254015553536",
+          "publishedOn": "2023-08-04T12:16:07.000Z",
+          "wordCount": null,
+          "title": "Re TheBlock CEO Larry 对吴说区块链否认了这一信息。与此同时 CoinDesk 也正在出售 DCG 手中价值 1.25 亿美金的股份，总估值超过 2 亿美金。CoinDesk 与 TheBlo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687437231819280384",
+          "author": "吴说区块链",
+          "description": "吴说独家获悉，区块链媒体 TheBlock 正在出售其超过 50% 的股份，价值约为 6000 万美金，目前已与多家有意者交流；早先 Alameda 贷款 2700 万美金给 Michael McCaffrey 收购 TheBlock；不确定此次出售股份是否与偿还 Alameda 债务相关。",
+          "link": "https://twitter.com/wublockchain12/status/1687437231819280384",
+          "publishedOn": "2023-08-04T12:16:01.000Z",
+          "wordCount": null,
+          "title": "吴说独家获悉，区块链媒体 TheBlock 正在出售其超过 50% 的股份，价值约为 6000 万美金，目前已与多家有意者交流；早先 Alameda 贷款 2700 万美金给 Michael McC...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687430693025128448",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Ondo Finance 推出首个由美国国债和银行存款担保的代币化票据 USDY，但不会向美国地区及用户提供。据悉，USDY 是 Ondo USDY LLC 的高级担保债务，该不记名工具提供与稳定币类似的可访问性，同时向持有者支付可变收益率（APY 5% 起）。个人和机构可直接使用 Ondo 每天铸造或兑换 USDY，40-50…",
+          "link": "https://twitter.com/wublockchain12/status/1687430693025128448",
+          "publishedOn": "2023-08-04T11:50:02.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Ondo Finance 推出首个由美国国债和银行存款担保的代币化票据 USDY，但不会向美国地区及用户提供。据悉，USDY 是 Ondo USDY LLC 的高级担保债务，该不...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687428693302611968",
+          "author": "吴说区块链",
+          "description": "Re Revolut 发言人表示，此次暂停不会以任何方式影响美国以外的 Revolut 用户，并且影响 Revolut 全球不到 1% 的加密货币客户。",
+          "link": "https://twitter.com/wublockchain12/status/1687428693302611968",
+          "publishedOn": "2023-08-04T11:42:06.000Z",
+          "wordCount": null,
+          "title": "Re Revolut 发言人表示，此次暂停不会以任何方式影响美国以外的 Revolut 用户，并且影响 Revolut 全球不到 1% 的加密货币客户。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1687397724017295360",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 decrypt，欧洲数字银行 Revolut 宣布从 9 月 2 日起将暂停在美国的加密货币服务，并从 10 月 3 日起完全禁止美国用户访问相关服务。 Revolut 表示该决定是受到美国加密货币市场不断变化的监管环境和不确定性的影响。https://decrypt.co/151272/revolut-shutter-us-crypto-operations-due-regulatory-environment",
+          "link": "https://twitter.com/wublockchain12/status/1687397724017295360",
+          "publishedOn": "2023-08-04T09:39:02.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 decrypt，欧洲数字银行 Revolut 宣布从 9 月 2 日起将暂停在美国的加密货币服务，并从 10 月 3 日起完全禁止美国用户访问相关服务。 Revolut 表示...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @8848 社区（8848 Community）",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://twitter.com/8848Community",
+      "articles": [
+        {
+          "id": "https://twitter.com/8848Community/status/1686751673861931009",
+          "author": "8848 社区（8848 Community）",
+          "description": "bungee出了一个跨进op网络补贴的活动\n\nSocket: It's official, Bridging Summer is ON 🔴\nToday we are supercharging our efforts with Socket Ecosystem to onboard users to the fast world of @optimismFND\n400K rewards go live across apps building on Socket to create the best L2 bridging experience!",
+          "link": "https://twitter.com/8848Community/status/1686751673861931009",
+          "publishedOn": "2023-08-02T14:51:52.000Z",
+          "wordCount": null,
+          "title": "bungee出了一个跨进op网络补贴的活动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686655983488294912",
+          "author": "8848 社区（8848 Community）",
+          "description": "Re @SEFATUBA3 吓死人啊，还好我亏完了",
+          "link": "https://twitter.com/8848Community/status/1686655983488294912",
+          "publishedOn": "2023-08-02T08:31:37.000Z",
+          "wordCount": null,
+          "title": "Re @SEFATUBA3 吓死人啊，还好我亏完了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686621848291938304",
+          "author": "8848 社区（8848 Community）",
+          "description": "学习\n\nKev.Ξth (🍄,🟢): new greenpill!\nall about http://sound.xyz & why we're excite about music without the middlemen.\nthx @dgreenstein1 for joining 🙃\nhttps://www.youtube.com/watch?v=ihQVjOnN8gs",
+          "link": "https://twitter.com/8848Community/status/1686621848291938304",
+          "publishedOn": "2023-08-02T06:15:59.000Z",
+          "wordCount": null,
+          "title": "学习",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686619665920036864",
+          "author": "8848 社区（8848 Community）",
+          "description": "开发者可以瞧瞧\n\nMonad: Builders, dreamers & doers – we are launching a Monad developer grant program! 💜\nYour boldest ideas could get you up to $100k in grant funding!\nWe are redefining the possibilities of the EVM, and we need your help 🤝👇",
+          "link": "https://twitter.com/8848Community/status/1686619665920036864",
+          "publishedOn": "2023-08-02T06:07:18.000Z",
+          "wordCount": null,
+          "title": "开发者可以瞧瞧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686605349544235008",
+          "author": "8848 社区（8848 Community）",
+          "description": "斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街\n\n\nmySwap - Starknet AMM: 💎1st #NFTGiveaway of mySwap Quest, Mission 2💎\nAurora's Ember NFT holds the potential to guide its owners to earn the best yield on mySwap.\nPossession of Aurora's Ember NFT opens doors to future opportunities.\nClaim your #YieldAlchemy #NFT now!",
+          "link": "https://twitter.com/8848Community/status/1686605349544235008",
+          "publishedOn": "2023-08-02T05:10:25.000Z",
+          "wordCount": null,
+          "title": "斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686600091749216256",
+          "author": "8848 社区（8848 Community）",
+          "description": "人生就像一盒巧克力，你永远不知道你会得到什么\n人生也像冲土狗，你永远不知道你会暴富还是归零",
+          "link": "https://twitter.com/8848Community/status/1686600091749216256",
+          "publishedOn": "2023-08-02T04:49:32.000Z",
+          "wordCount": null,
+          "title": "人生就像一盒巧克力，你永远不知道你会得到什么 人生也像冲土狗，你永远不知道你会暴富还是归零",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686400941124456448",
+          "author": "8848 社区（8848 Community）",
+          "description": "这个也上coinlist了\n不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了\n\nCHAINFLIP LABS: (1/6) The FLIP token sale has been announced for the 31st of August, in partnership with @CoinList.\nFLIP is the native utility & fee token of Chainflip, a cross chain DEX, focussing on providing users with cheap & secure cross-chain swaps. 🔗\nhttps://sales.coinlist.co/chainflip",
+          "link": "https://twitter.com/8848Community/status/1686400941124456448",
+          "publishedOn": "2023-08-01T15:38:10.000Z",
+          "wordCount": null,
+          "title": "这个也上coinlist了 不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686355952206045185",
+          "author": "8848 社区（8848 Community）",
+          "description": "为啥这么高？你们在刷什么\n\nEthereum Daily: 🚨 That's insane\nNew ATH in Total Transactions on Polygon zkEVM for the first time!",
+          "link": "https://twitter.com/8848Community/status/1686355952206045185",
+          "publishedOn": "2023-08-01T12:39:24.000Z",
+          "wordCount": null,
+          "title": "为啥这么高？你们在刷什么",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686351760703766528",
+          "author": "8848 社区（8848 Community）",
+          "description": "哪里能场外 OTC 买 $CRV 救 Curve 啊\n我也想买 50U 我愿意锁仓7个月\n还是说只有大佬才能参加啊",
+          "link": "https://twitter.com/8848Community/status/1686351760703766528",
+          "publishedOn": "2023-08-01T12:22:45.000Z",
+          "wordCount": null,
+          "title": "哪里能场外 OTC 买 $CRV 救 Curve 啊 我也想买 50U 我愿意锁仓7个月 还是说只有大佬才能参加啊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686310125563453440",
+          "author": "8848 社区（8848 Community）",
+          "description": "Re @0xanonnnn 黑奴的下场",
+          "link": "https://twitter.com/8848Community/status/1686310125563453440",
+          "publishedOn": "2023-08-01T09:37:18.000Z",
+          "wordCount": null,
+          "title": "Re @0xanonnnn 黑奴的下场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686305036945764352",
+          "author": "8848 社区（8848 Community）",
+          "description": "✨E✨t✨h✨e✨r✨e✨u✨m✨",
+          "link": "https://twitter.com/8848Community/status/1686305036945764352",
+          "publishedOn": "2023-08-01T09:17:05.000Z",
+          "wordCount": null,
+          "title": "✨E✨t✨h✨e✨r✨e✨u✨m✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686304227914928128",
+          "author": "8848 社区（8848 Community）",
+          "description": "紧跟学习一番CRV最近的状况，7月都在外面玩\n落下了很多亏钱机会\n\nolimpio: There's a risk of a black swan event in DeFi.\nAs per Defillama, if CRV drops below $0.37, there's 300M CRV to liquidate in Aave -most from Curve's founder\nThe problem? There's not a single Exchange or DeFi protocol where one can sell such a large CRV amount.\nRisks explained 🧵",
+          "link": "https://twitter.com/8848Community/status/1686304227914928128",
+          "publishedOn": "2023-08-01T09:13:52.000Z",
+          "wordCount": null,
+          "title": "紧跟学习一番CRV最近的状况，7月都在外面玩 落下了很多亏钱机会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686302707668402176",
+          "author": "8848 社区（8848 Community）",
+          "description": "请您为本推7月的内容打分\nA：优质高级\nB：建议保持\nC：8月别发\nD：不配打分\nE：狗都不看\nF：一天不看浑身难受\nG：纯傻逼 但是我喜欢\nH：色情内容过少",
+          "link": "https://twitter.com/8848Community/status/1686302707668402176",
+          "publishedOn": "2023-08-01T09:07:50.000Z",
+          "wordCount": null,
+          "title": "请您为本推7月的内容打分 A：优质高级 B：建议保持 C：8月别发 D：不配打分 E：狗都不看 F：一天不看浑身难受 G：纯傻逼 但是我喜欢 H：色情内容过少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1686301052294008832",
+          "author": "8848 社区（8848 Community）",
+          "description": "八月你好\n七月大家发财了吗\n没？\n不要紧\n可能八月也没",
+          "link": "https://twitter.com/8848Community/status/1686301052294008832",
+          "publishedOn": "2023-08-01T09:01:15.000Z",
+          "wordCount": null,
+          "title": "八月你好 七月大家发财了吗 没？ 不要紧 可能八月也没",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/MonetSupply/status/1686112567410765824",
+          "author": "8848 社区（8848 Community）",
+          "description": "RT monetsupply.eth\nsome dashboards i'm watching rn\n1) @BlockAnalitica aave risk dashboard\nshows collateral and debt composition, position health, liquidity, buffer vs liquidation, and recent actions\nhttps://aave.blockanalitica.com/v2/ethereum/wallets/0x7a16ff8270133f063aab6c9977183d9e72835428/",
+          "link": "https://twitter.com/MonetSupply/status/1686112567410765824",
+          "publishedOn": "2023-07-31T20:32:17.000Z",
+          "wordCount": null,
+          "title": "RT monetsupply.eth: some dashboards i'm watching rn 1) @BlockAnalitica aave risk dashboard shows collateral and debt composition, position health, liq...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1685683587528773632",
+          "author": "8848 社区（8848 Community）",
+          "description": "不要再赚啦\n你们不要再赚啦",
+          "link": "https://twitter.com/8848Community/status/1685683587528773632",
+          "publishedOn": "2023-07-30T16:07:40.000Z",
+          "wordCount": null,
+          "title": "不要再赚啦 你们不要再赚啦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1684478135860187136",
+          "author": "8848 社区（8848 Community）",
+          "description": "很多币跌了之后 \n懂哥开始教团队做事 \n舔狗开始屌懂哥 \ndev出来画饼说要做这个做那个\n每个人都在钻牛角尖",
+          "link": "https://twitter.com/8848Community/status/1684478135860187136",
+          "publishedOn": "2023-07-27T08:17:38.000Z",
+          "wordCount": null,
+          "title": "很多币跌了之后 懂哥开始教团队做事 舔狗开始屌懂哥 dev出来画饼说要做这个做那个 每个人都在钻牛角尖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1681313913064009729",
+          "author": "8848 社区（8848 Community）",
+          "description": "Re @cryptoyaya_ 😭😭😭",
+          "link": "https://twitter.com/8848Community/status/1681313913064009729",
+          "publishedOn": "2023-07-18T14:44:08.000Z",
+          "wordCount": null,
+          "title": "Re @cryptoyaya_ 😭😭😭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1678246222082220033",
+          "author": "8848 社区（8848 Community）",
+          "description": "Re @baofuliu 以形补形",
+          "link": "https://twitter.com/8848Community/status/1678246222082220033",
+          "publishedOn": "2023-07-10T03:34:14.000Z",
+          "wordCount": null,
+          "title": "Re @baofuliu 以形补形",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/8848Community/status/1678244118047379457",
+          "author": "8848 社区（8848 Community）",
+          "description": "停一停\n吃个早餐\n再继续努力\n生活是美好的\n也可不仅只苦行",
+          "link": "https://twitter.com/8848Community/status/1678244118047379457",
+          "publishedOn": "2023-07-10T03:25:52.000Z",
+          "wordCount": null,
+          "title": "停一停 吃个早餐 再继续努力 生活是美好的 也可不仅只苦行",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @链求君 | (C,C)",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://twitter.com/AntCaveClub",
