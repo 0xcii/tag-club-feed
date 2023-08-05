@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-05T17:10:01.150Z</id>
+    <id>urn:2023-08-05T18:13:49.361Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-05T17:10:01.150Z</updated>
+    <updated>2023-08-05T18:13:49.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/paoloardoino/status/1687745571933581312]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687854478782058496</id>
+        <link href="https://twitter.com/wublockchain12/status/1687854478782058496"/>
+        <updated>2023-08-05T15:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/paoloardoino/status/1687745571933581312
+
+Paolo Ardoino 🍐: GM
+#Tether 's dev team almost finished to create well polished javascript libraries to command and interact with whatsminers, antminers and avalon miners.
+Really high quality stuff, super modular, highly polished.
+I'm directly coding the core architecture of our Moria mining…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Tether CTO Paolo Ardoino 表示，Tether 的开发团队基本完成了 JavaScript 库，用于控制和蚂蚁矿机 神马矿机 阿瓦隆矿机的交互，并正在直接编写 Moria...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687854371026186240</id>
+        <link href="https://twitter.com/wublockchain12/status/1687854371026186240"/>
+        <updated>2023-08-05T15:53:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Tether CTO Paolo Ardoino 表示，Tether 的开发团队基本完成了 JavaScript 库，用于控制和蚂蚁矿机 神马矿机 阿瓦隆矿机的交互，并正在直接编写 Moria 矿场管理工具的核心架构，全部基于 Holepunch 技术，最终将扩展到覆盖能源生产监控，可能有意将其中的部分开源。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，NYDIG 研究指出，CME 数据显示出交易者乐观情绪的减退。6月中旬开始的现货 ETF 推动的上涨行情中，以年化回报率表示的滚动1个月期货基差收于 14% 以上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1687853142648758272</id>
+        <link href="https://twitter.com/wublockchain12/status/1687853142648758272"/>
+        <updated>2023-08-05T15:48:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，NYDIG 研究指出，CME 数据显示出交易者乐观情绪的减退。6月中旬开始的现货 ETF 推动的上涨行情中，以年化回报率表示的滚动1个月期货基差收于 14% 以上。自7月初见顶以来，期货基差现已降至个位数的低点。当基差较大且为正时，通常意味着交易者表达看涨观点。https://viewemail.nydig.com/e3t/Ctc/OR+113/d2nqLx04/MX2H0yvjX9BVMPyGw9fBSx1W8fXtNV51ScNGN7jDJtR5kvg0W5BWr2F6lZ3p-N3gLh6yQ5_zMTSt7j7NgkcBW7Qgykh3tCwcFW3KpCq74jD5BlW6f5rBS1whRXfW8XZHt04hQlcfW1bFZ1q4jcbsPW3wtVWn5HltQbW7Rx2wj1FPByYN1QGl0D7dPpvW5f2jQn93Pk-1W3YNVjg8W_myyW8MDnwq4GXF9-W4B1CsY4_FlkpW9fF9pF8WlntnW6fvFyY7SbqM6W271mwq413lbdW4mvG892Wz3ThW7nSPZb162ThxW72tYx84zH7MwW2lWT8L8xXRB6VkH8mk2zM66pW84xgwx1md6bgW3DRdCD6GfQrqW4DL4bJ5xQd3ZW8dZYnD2H_yLBW3l9fNZ8rFvVWW4vJZTS64XYb1W7GblCs4jcMNtVZxmyF88R9wCW5WF3h43jT6-vW1fRbDP1J5x74W443DB92csnjZW6rtlhJ5Bnjcsf1mW4nM04]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说每日晚报]]></title>
         <id>https://twitter.com/wublockchain12/status/1687824163397152768</id>
@@ -197,28 +232,6 @@ Elon Musk: @cb_doge And we never will]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1687656381292388352"/>
         <updated>2023-08-05T02:46:51.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Frax Finance 发布了 FIP-277：将 FinresPBC 作为 FRAX v3 链下 RWA 合作伙伴的治理提案。据该提案，FinresPBC 作为一家公共利益公司，已在今年早些时候于美国特拉华州注册成立。FinresPBC 的成立是为了提供 Frax 获取安全现金等价资产和接近美联储利率的收益率，不以营利为目的，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/EricBalchunas/status/1687566431502716928]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687655697071411200</id>
-        <link href="https://twitter.com/wublockchain12/status/1687655697071411200"/>
-        <updated>2023-08-05T02:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/EricBalchunas/status/1687566431502716928
-
-Eric Balchunas: INTERESTING: Valkyrie just filed a 497 that they plan to convert $BTF into a Bitcoin + Ether ETF on Oct 3rd, which would would be two wks ahead of the other 13 filers scheduled launch. We'll see if this flies. Something similar happened back in day with $MJ, the first pot ETF]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，加密货币资产管理公司 Valkyrie 提交了一份 497 申请文件，计划于 10 月 3 日将 Valkyrie 比特币策略 ETF「BTF」转换为「比特币 + 以太坊期货 ETF」，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1687655507346202624</id>
-        <link href="https://twitter.com/wublockchain12/status/1687655507346202624"/>
-        <updated>2023-08-05T02:43:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，加密货币资产管理公司 Valkyrie 提交了一份 497 申请文件，计划于 10 月 3 日将 Valkyrie 比特币策略 ETF「BTF」转换为「比特币 + 以太坊期货 ETF」，这将比其他 13 份 ETF 申请文件计划发布的时间提前两周。 H/T：@EricBalchunas]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
