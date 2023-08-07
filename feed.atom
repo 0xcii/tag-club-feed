@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-07T19:09:54.443Z</id>
+    <id>urn:2023-08-07T20:12:43.560Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-07T19:09:54.443Z</updated>
+    <updated>2023-08-07T20:12:43.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -49,6 +49,48 @@ https://www.frbsf.org/economic-research/publications/economic-letter/2023/august
         <summary type="html"><![CDATA[$aapl down while market up?? Blasphemy]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pashov: The new Paypal USD stablecoin has an "assetProtection" role which can wipe your balance in two transactions (first `freeze`, then `wipeFroz...]]></title>
+        <id>https://twitter.com/pashovkrum/status/1688591468498239496</id>
+        <link href="https://twitter.com/pashovkrum/status/1688591468498239496"/>
+        <updated>2023-08-07T16:42:33.000Z</updated>
+        <summary type="html"><![CDATA[RT pashov
+The new Paypal USD stablecoin has an "assetProtection" role which can wipe your balance in two transactions (first `freeze`, then `wipeFrozenAddress`)
+In smart contract security we call this a "centralisation attack vector"]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Kaiko，从 7 月 15 日到 7 月 22 日，Uniswap 的 USDT 净抛售量达到了 1 亿美元；Curve 的 3pool 和 Uniswap V3 的主要 USDT-USDC 池在上周末时再...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1688583840376541184</id>
+        <link href="https://twitter.com/wublockchain12/status/1688583840376541184"/>
+        <updated>2023-08-07T16:12:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Kaiko，从 7 月 15 日到 7 月 22 日，Uniswap 的 USDT 净抛售量达到了 1 亿美元；Curve 的 3pool 和 Uniswap V3 的主要 USDT-USDC 池在上周末时再次出现不平衡，Uniswap 的净抛售额约为 4000 万美元，Curve 的净抛售额为 3500 万美元。在中心化交易所，USDT…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Enclave Markets CEO David Wells 表示，PYUSD 也不会立即影响 Circle 的 USDC。他曾在 2017 年至 2020 年间担任 Paxos 的 USDP 和 BUSD 产品负责人。PYUSD ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1688579877526478848</id>
+        <link href="https://twitter.com/wublockchain12/status/1688579877526478848"/>
+        <updated>2023-08-07T15:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Re Enclave Markets CEO David Wells 表示，PYUSD 也不会立即影响 Circle 的 USDC。他曾在 2017 年至 2020 年间担任 Paxos 的 USDP 和 BUSD 产品负责人。PYUSD 和 USDC 可能会竞争相似的客户群，前提 PYUSD 需要在加密货币交易所上市。https://www.theblock.co/post/243602/paypal-stablecoin-tether-usdc-impact]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 The Block 报道，Tether CTO Paolo Ardoino 表示，PayPal 稳定币的推出并不会影响 USDT，因为 PYUSD 在美国推出而 Tether 不为美国用户提供服务。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1688579828876750848</id>
+        <link href="https://twitter.com/wublockchain12/status/1688579828876750848"/>
+        <updated>2023-08-07T15:56:18.000Z</updated>
+        <summary type="html"><![CDATA[据 The Block 报道，Tether CTO Paolo Ardoino 表示，PayPal 稳定币的推出并不会影响 USDT，因为 PYUSD 在美国推出而 Tether 不为美国用户提供服务。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -347,26 +389,6 @@ That's how I see the next few months playing out]]></summary>
         <summary type="html"><![CDATA[Re @wabuffo Going lower]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据当地媒体 Kahawatungu，肯尼亚警方周六突袭了 Worldcoin 内罗毕仓库，没收了文件和机器。报道称，警方小组将这些数据带到刑事调查局总部进行分析。这次突袭是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1688503914482774017</id>
-        <link href="https://twitter.com/wublockchain12/status/1688503914482774017"/>
-        <updated>2023-08-07T10:54:38.000Z</updated>
-        <summary type="html"><![CDATA[据当地媒体 Kahawatungu，肯尼亚警方周六突袭了 Worldcoin 内罗毕仓库，没收了文件和机器。报道称，警方小组将这些数据带到刑事调查局总部进行分析。这次突袭是在肯尼亚数据保护专员 Immaculate Kassait 的监督下进行的。https://www.coindesk.com/policy/2023/08/07/worldcoins-nairobi-warehouse-raided-by-kenyan-police-local-reports/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，新加坡金融管理局 MAS 表示，将在三年内投入最高 1.5 亿新元，推动 Web 3.0 等新兴技术产生的创新金融科技解决方案；上限为每次 200 万新元项目；MAS ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1688501764939804672</id>
-        <link href="https://twitter.com/wublockchain12/status/1688501764939804672"/>
-        <updated>2023-08-07T10:46:06.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，新加坡金融管理局 MAS 表示，将在三年内投入最高 1.5 亿新元，推动 Web 3.0 等新兴技术产生的创新金融科技解决方案；上限为每次 200 万新元项目；MAS 呼吁在行业用例中使用 Web3 等新兴技术。  https://www.mas.gov.sg/news/media-releases/2023/mas-commits-up-to-s$150-million-for-technology-and-innovation-in-financial-sector]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1232,17 +1254,6 @@ Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance
         <id>https://twitter.com/DeFi_educator/status/1679523385305362432</id>
         <link href="https://twitter.com/DeFi_educator/status/1679523385305362432"/>
         <updated>2023-07-13T16:09:13.000Z</updated>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Will Clemente: While it's true that miners have been moving coins to exchanges, the net flow (including outflows) looks fine and actually shows net...]]></title>
-        <id>https://twitter.com/WClementeIII/status/1678759873280917506</id>
-        <link href="https://twitter.com/WClementeIII/status/1678759873280917506"/>
-        <updated>2023-07-11T13:35:18.000Z</updated>
-        <summary type="html"><![CDATA[RT Will Clemente
-While it's true that miners have been moving coins to exchanges, the net flow (including outflows) looks fine and actually shows net outflows from exchanges lately]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
