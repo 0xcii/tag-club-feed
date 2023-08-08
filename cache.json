@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1688946075238051840",
+          "author": "吴说区块链",
+          "description": "Chainlink 预言机喂价系统已与 Base 集成，此更新使 Base 开发人员可以访问 Chainlink 数据源。Chainlink 与 Base 的集成将支持 DeFi 应用程序，并允许 Base 与外部 DeFi 应用程序（如借贷协议和期货市场）连接。（TheBlock）https://www.theblock.co/post/243685/chainlink-price-feeds-go-live-on-coinbases-base-l2-network?utm_source=browser&utm_medium=chrome&utm_campaign=notification",
+          "link": "https://twitter.com/wublockchain12/status/1688946075238051840",
+          "publishedOn": "2023-08-08T16:11:38.000Z",
+          "wordCount": null,
+          "title": "Chainlink 预言机喂价系统已与 Base 集成，此更新使 Base 开发人员可以访问 Chainlink 数据源。Chainlink 与 Base 的集成将支持 DeFi 应用程序，并允许 Base 与...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1688943745792876544",
+          "author": "吴说区块链",
+          "description": "JPMorgan 分析师 Nikolaos Panigirtzoglou 表示，PayPal 推出的稳定币 PYUSD 可能会促进以太坊链上活动，并增强以太坊作为稳定币/DeFi 平台的网络效用。PYUSD 可能填补了 Binance 的 BUSD 稳定币被美国监管机构强制关闭后留下的 200 亿美元空白。（TheBlock）https://www.theblock.co/post/243720/jpmorgan-paypal-stablecoin-ethereum?utm_source=onecryptofeed&utm_medium=social",
+          "link": "https://twitter.com/wublockchain12/status/1688943745792876544",
+          "publishedOn": "2023-08-08T16:02:22.000Z",
+          "wordCount": null,
+          "title": "JPMorgan 分析师 Nikolaos Panigirtzoglou 表示，PayPal 推出的稳定币 PYUSD 可能会促进以太坊链上活动，并增强以太坊作为稳定币/DeFi 平台的网络效用。PYUSD 可...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1688935916671512576",
           "author": "吴说区块链",
           "description": "吴说获悉，以太坊扩容团队 Fuel Labs 宣布即将推出混合证明（Hybrid Proving）解决方案 FuelProver。FuelProver 是一个 Optimistic 和 ZK 的融合，可以支持所有最新的通用 Prover，还可以减少提款窗口并实现高吞吐量 。FuelProver 打算支持多种证明机制，包括 Risc Zero、zkSync、Powdr…",
@@ -173,26 +193,6 @@
           "publishedOn": "2023-08-08T10:59:51.000Z",
           "wordCount": null,
           "title": "吴说获悉，Huobi 宣布是行业首个支持 PayPal PYUSD 稳定币上线的交易所，并给予 PYUSD/USDT 交易对永久零手续费。待进入市场流通以及流动性条件成熟以后，Huobi ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1688862606420029440",
-          "author": "吴说区块链",
-          "description": "Coinbase 宣布将在 2031 年到期的 10 亿美元债券中回购高达 1.5 亿美元。投资者在 8 月 18 日之前出售债券将获得每 1000 美元债券面值的 645 美元，8 月 18 日之后，但在 9 月 1 日之前出售的将获得 615 美元。此举是在 2023 年第二季度强劲财务表现后提出的，Coinbase 的收入为 7.08…",
-          "link": "https://twitter.com/wublockchain12/status/1688862606420029440",
-          "publishedOn": "2023-08-08T10:39:57.000Z",
-          "wordCount": null,
-          "title": "Coinbase 宣布将在 2031 年到期的 10 亿美元债券中回购高达 1.5 亿美元。投资者在 8 月 18 日之前出售债券将获得每 1000 美元债券面值的 645 美元，8 月 18 日之...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1688850459078053888",
-          "author": "吴说区块链",
-          "description": "英格兰银行（BoE）正计划推进系统性稳定币制度，该计划将由 BoE 和金融行为监管局（FCA）共同监管。根据周一发布的咨询回应，政府和回应者支持将问责框架扩展到系统性稳定币。英国最近通过了《金融服务和市场法案 2023 》，赋予 BoE 建立系统性稳定币制度的权力。（CoinDesk）https://www.coindesk.com/policy/2023/08/08/uks-central-bank-forges-ahead-with-plans-for-a-systemic-stablecoin-regime/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines",
-          "link": "https://twitter.com/wublockchain12/status/1688850459078053888",
-          "publishedOn": "2023-08-08T09:51:41.000Z",
-          "wordCount": null,
-          "title": "英格兰银行（BoE）正计划推进系统性稳定币制度，该计划将由 BoE 和金融行为监管局（FCA）共同监管。根据周一发布的咨询回应，政府和回应者支持将问责框架扩展到...",
           "imageUrl": null
         }
       ]
@@ -512,213 +512,6 @@
       ]
     },
     {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://twitter.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1688739255873384448",
-          "author": "DeFi Educator",
-          "description": "Literal pvp… can’t get more degen than this\n\nMcKenna: There's an on-chain game of russian roulette where people are betting $10k per round.\nIf you lose you lose everything. 90% of your stake goes to other players and 10% is burnt/rev share.\nThe Telegram is absolutely wild.",
-          "link": "https://twitter.com/DeFi_educator/status/1688739255873384448",
-          "publishedOn": "2023-08-08T02:29:48.000Z",
-          "wordCount": null,
-          "title": "Literal pvp… can’t get more degen than this",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TXMCtrades/status/1688642966020038656",
-          "author": "DeFi Educator",
-          "description": "RT 𝐓𝐗𝐌𝐂\nI find myself repeatedly coming back to this 70-year chart of the disparity between ⚫️real and 🔴nominal US GDP on a 5yr rolling basis.\nNominal GDP is juiced to the moon, but the peak of real GDP growth in dollar terms was all the way back in 2000. Structurally lower highs since…",
-          "link": "https://twitter.com/TXMCtrades/status/1688642966020038656",
-          "publishedOn": "2023-08-07T20:07:11.000Z",
-          "wordCount": null,
-          "title": "RT 𝐓𝐗𝐌𝐂: I find myself repeatedly coming back to this 70-year chart of the disparity between ⚫️real and 🔴nominal US GDP on a 5yr roll...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pashovkrum/status/1688591468498239496",
-          "author": "DeFi Educator",
-          "description": "RT pashov\nThe new Paypal USD stablecoin has an \"assetProtection\" role which can wipe your balance in two transactions (first `freeze`, then `wipeFrozenAddress`)\nIn smart contract security we call this a \"centralisation attack vector\"",
-          "link": "https://twitter.com/pashovkrum/status/1688591468498239496",
-          "publishedOn": "2023-08-07T16:42:33.000Z",
-          "wordCount": null,
-          "title": "RT pashov: The new Paypal USD stablecoin has an \"assetProtection\" role which can wipe your balance in two transactions (first `freeze`, then `wipeFroz...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1687527164797714448",
-          "author": "DeFi Educator",
-          "description": "Re @zGuz Outrageous. Just cancelled my lifetime subscription to the @nytimes",
-          "link": "https://twitter.com/DeFi_educator/status/1687527164797714448",
-          "publishedOn": "2023-08-04T18:13:23.000Z",
-          "wordCount": null,
-          "title": "Re @zGuz Outrageous. Just cancelled my lifetime subscription to the @nytimes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1687514946068762625",
-          "author": "DeFi Educator",
-          "description": "Re @NorthRockLP Then taking into consideration that that will have a 4x effect on valuation…\n\n_Checkɱate 🔑⚡🌋☢️🛢️: One of the questions I am asked the most about #Bitcoin is how much capital needs to flow in/out in order to create a $1 change in Market Cap?\nThere is no perfect answer, but I think I now have a pretty decent answer. Let's dive into the data 🧵\nThe Realized Cap\nThis metric is…",
-          "link": "https://twitter.com/DeFi_educator/status/1687514946068762625",
-          "publishedOn": "2023-08-04T17:24:50.000Z",
-          "wordCount": null,
-          "title": "Re @NorthRockLP Then taking into consideration that that will have a 4x effect on valuation…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1687514290956226579",
-          "author": "DeFi Educator",
-          "description": "Looking at a longer time horizon:\nPeople are underestimating the potential supply squeeze. \nImagine all the bitcoin spot etf inflows that are bound to come having a 4x effect\n\n_Checkɱate 🔑⚡🌋☢️🛢️: One of the questions I am asked the most about #Bitcoin is how much capital needs to flow in/out in order to create a $1 change in Market Cap?\nThere is no perfect answer, but I think I now have a pretty decent answer. Let's dive into the data 🧵\nThe Realized Cap\nThis metric is…",
-          "link": "https://twitter.com/DeFi_educator/status/1687514290956226579",
-          "publishedOn": "2023-08-04T17:22:14.000Z",
-          "wordCount": null,
-          "title": "Looking at a longer time horizon: People are underestimating the potential supply squeeze. Imagine all the bitcoin spot etf inflows that are bound to ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1687144549561376777",
-          "author": "DeFi Educator",
-          "description": "Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already use Kraken for Onboarding/offramping, but will not see myself use kraken as my primary trading exchange in the future",
-          "link": "https://twitter.com/DeFi_educator/status/1687144549561376777",
-          "publishedOn": "2023-08-03T16:53:00.000Z",
-          "wordCount": null,
-          "title": "Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already us...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686824716730793985",
-          "author": "DeFi Educator",
-          "description": "Bounce of trendline?\n\n\n\nBlockworks: NEWS: Two sources tell Blockworks the SEC is now ready to consider ETH futures ETF applications\nhttps://blockworks.co/news/sec-consider-ether-futures-etfs/",
-          "link": "https://twitter.com/DeFi_educator/status/1686824716730793985",
-          "publishedOn": "2023-08-02T19:42:06.000Z",
-          "wordCount": null,
-          "title": "Bounce of trendline?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686784258944253959",
-          "author": "DeFi Educator",
-          "description": "Re @News_Of_Alpha @WClementeIII",
-          "link": "https://twitter.com/DeFi_educator/status/1686784258944253959",
-          "publishedOn": "2023-08-02T17:01:20.000Z",
-          "wordCount": null,
-          "title": "Re @News_Of_Alpha @WClementeIII",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686783923093749775",
-          "author": "DeFi Educator",
-          "description": "Re @DeItaone",
-          "link": "https://twitter.com/DeFi_educator/status/1686783923093749775",
-          "publishedOn": "2023-08-02T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Re @DeItaone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686480867462402049",
-          "author": "DeFi Educator",
-          "description": "Re @acimro @asxn_r @HsakaTrades Look at smart burn proposal. Maker is one of the buyers",
-          "link": "https://twitter.com/DeFi_educator/status/1686480867462402049",
-          "publishedOn": "2023-08-01T20:55:46.000Z",
-          "wordCount": null,
-          "title": "Re @acimro @asxn_r @HsakaTrades Look at smart burn proposal. Maker is one of the buyers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686427167817682974",
-          "author": "DeFi Educator",
-          "description": "Re @Route2FI @safetyth1rd Think you’re mistaken on this one @Route2FI",
-          "link": "https://twitter.com/DeFi_educator/status/1686427167817682974",
-          "publishedOn": "2023-08-01T17:22:23.000Z",
-          "wordCount": null,
-          "title": "Re @Route2FI @safetyth1rd Think you’re mistaken on this one @Route2FI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1686194393391210496",
-          "author": "DeFi Educator",
-          "description": "Re @CryptoDamus411 Good take, couldn’t agree more",
-          "link": "https://twitter.com/DeFi_educator/status/1686194393391210496",
-          "publishedOn": "2023-08-01T01:57:26.000Z",
-          "wordCount": null,
-          "title": "Re @CryptoDamus411 Good take, couldn’t agree more",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/HsakaTrades/status/1685268311565553664",
-          "author": "DeFi Educator",
-          "description": "RT Hsaka\nGm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwiching, forks siphoning liquidity, and a wild appearance of directTransfer.",
-          "link": "https://twitter.com/HsakaTrades/status/1685268311565553664",
-          "publishedOn": "2023-07-29T12:37:30.000Z",
-          "wordCount": null,
-          "title": "RT Hsaka: Gm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwic...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_Made_Here/status/1684233479607705601",
-          "author": "DeFi Educator",
-          "description": "RT DeFi Made Here\n1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to launch.\nFollow this thread for the Key Metrics analysis on $GMX $SNX $GNS $PERP $LVL $MUX and more",
-          "link": "https://twitter.com/DeFi_Made_Here/status/1684233479607705601",
-          "publishedOn": "2023-07-26T16:05:27.000Z",
-          "wordCount": null,
-          "title": "RT DeFi Made Here: 1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to lau...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/enur72/status/1684101128391098368",
-          "author": "DeFi Educator",
-          "description": "RT Rune Østgård\nToday I will explain one of the most powerful graphs you will ever see in your whole life.\nBut before we look at the graph, I can mention that about 60% of Americans invest in stocks and about 50% of Norwegians invest in securities funds. \nFew know that the value of their…",
-          "link": "https://twitter.com/enur72/status/1684101128391098368",
-          "publishedOn": "2023-07-26T07:19:32.000Z",
-          "wordCount": null,
-          "title": "RT Rune Østgård: Today I will explain one of the most powerful graphs you will ever see in your whole life. But before we look at the graph, I can m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/alexkaplan0/status/1684044616528453633",
-          "author": "DeFi Educator",
-          "description": "RT Alex Kaplan\nToday might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient temperature / pressure superconductor. Here's how it could totally change our lives.",
-          "link": "https://twitter.com/alexkaplan0/status/1684044616528453633",
-          "publishedOn": "2023-07-26T03:34:59.000Z",
-          "wordCount": null,
-          "title": "RT Alex Kaplan: Today might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient te...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1683626904144736256",
-          "author": "DeFi Educator",
-          "description": "Re @NoContextHumans",
-          "link": "https://twitter.com/DeFi_educator/status/1683626904144736256",
-          "publishedOn": "2023-07-24T23:55:08.000Z",
-          "wordCount": null,
-          "title": "Re @NoContextHumans",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1682019384292782080",
-          "author": "DeFi Educator",
-          "description": "Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to not be at the top hole, because gravity.",
-          "link": "https://twitter.com/DeFi_educator/status/1682019384292782080",
-          "publishedOn": "2023-07-20T13:27:26.000Z",
-          "wordCount": null,
-          "title": "Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DylanLeClair_/status/1681490651999789056",
-          "author": "DeFi Educator",
-          "description": "RT Dylan LeClair 🟠\nRe RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance With Bitcoin & Precious Metals, Exempt BTC From Capital Gains Tax \n*links below*\n“My plan would be to start very, very small, perhaps 1% of issued T-bills would be backed by hard currency, by gold,…",
-          "link": "https://twitter.com/DylanLeClair_/status/1681490651999789056",
-          "publishedOn": "2023-07-19T02:26:26.000Z",
-          "wordCount": null,
-          "title": "RT Dylan LeClair 🟠: Re RFK Jr. Outlines Presidential Plan To Partially Back New Public Debt Issuance With Bitcoin & Precious Metals, Exempt BTC Fro...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @Onchain Wizard",
       "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
       "siteUrl": "https://twitter.com/OnChainWizard",
@@ -931,183 +724,6 @@
           "publishedOn": "2023-08-02T06:23:02.000Z",
           "wordCount": null,
           "title": "~5x from this signal on $EMBR new launch a few hours ago. Once you integrate @ChainEDGE_io into your DEX trading workflow, you won't look back. You ca...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @Surfer",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
-      "siteUrl": "https://twitter.com/DeFiSurfer808",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688937766392844288",
-          "author": "Surfer",
-          "description": "Something I could get behind\n\nQuantian: If Wegovy cuts heart disease risk by 20% we need to do an Operation Warp Speed 2 to get every American adult a prescription.  That’s years of population-level life expectancy increase.",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688937766392844288",
-          "publishedOn": "2023-08-08T15:38:37.000Z",
-          "wordCount": null,
-          "title": "Something I could get behind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688934505019518978",
-          "author": "Surfer",
-          "description": "Re @shadowbrypto Bro turn on auto compound",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688934505019518978",
-          "publishedOn": "2023-08-08T15:25:39.000Z",
-          "wordCount": null,
-          "title": "Re @shadowbrypto Bro turn on auto compound",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688931015891578880",
-          "author": "Surfer",
-          "description": "BOYZ\n\nCryptoJoe: Congratulations to @Grayscale on winning their Lawsuit! \nGreat for the industry, even better for the front-runners.",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688931015891578880",
-          "publishedOn": "2023-08-08T15:11:47.000Z",
-          "wordCount": null,
-          "title": "BOYZ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688930858718158848",
-          "author": "Surfer",
-          "description": "Re @Crypto_Joe10 @Grayscale Bruh",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688930858718158848",
-          "publishedOn": "2023-08-08T15:11:10.000Z",
-          "wordCount": null,
-          "title": "Re @Crypto_Joe10 @Grayscale Bruh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688885883666403328",
-          "author": "Surfer",
-          "description": "Inflation looking pretty transitory\n\nLiz Ann Sonders: Max drawdown in @Mannheim_US Used Vehicle Index thru July now nearly 18%, which is by far worst drop in history of data (going back to mid-1990s)",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688885883666403328",
-          "publishedOn": "2023-08-08T12:12:27.000Z",
-          "wordCount": null,
-          "title": "Inflation looking pretty transitory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688872001174183936",
-          "author": "Surfer",
-          "description": "Re @LV13MVP @BarstoolChief I rate this tweet 2 out of 10. Lazy and basic",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688872001174183936",
-          "publishedOn": "2023-08-08T11:17:17.000Z",
-          "wordCount": null,
-          "title": "Re @LV13MVP @BarstoolChief I rate this tweet 2 out of 10. Lazy and basic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688861771505758208",
-          "author": "Surfer",
-          "description": "Re @NotChaseColeman Wagmi",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688861771505758208",
-          "publishedOn": "2023-08-08T10:36:38.000Z",
-          "wordCount": null,
-          "title": "Re @NotChaseColeman Wagmi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pythianism/status/1688859707258068992",
-          "author": "Surfer",
-          "description": "RT Vance Spencer\nArguing that the US is fiscally sound (despite running 7-8% deficits) because we are less indebted *relative* to other countries is logically unserious. I keep hearing this repeated, so lets unpack it: \nUS deficits are funded with dollar bonds, not relative dollars. The $4Tn of…",
-          "link": "https://twitter.com/pythianism/status/1688859707258068992",
-          "publishedOn": "2023-08-08T10:28:26.000Z",
-          "wordCount": null,
-          "title": "RT Vance Spencer: Arguing that the US is fiscally sound (despite running 7-8% deficits) because we are less indebted *relative* to other countries is ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/xcurveth/status/1688747678933401600",
-          "author": "Surfer",
-          "description": "RT xcurve 🦄 🤖\nTruly blessed to get these messages randomly everyday. $UNIBOT X coming\nTG 🤖: https://t.me/unibotsniper_bot?start=xcurve",
-          "link": "https://twitter.com/xcurveth/status/1688747678933401600",
-          "publishedOn": "2023-08-08T03:03:16.000Z",
-          "wordCount": null,
-          "title": "RT xcurve 🦄 🤖: Truly blessed to get these messages randomly everyday. $UNIBOT X coming TG 🤖: https://t.me/unibotsniper_bot?start=xcurve",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CarlKVogel/status/1688746524140863488",
-          "author": "Surfer",
-          "description": "RT Crypto Carl\nI have seen some pretty horrendous takes on the @PayPal PYUSD token launch today - legitimately embarrassing for \"thought leaders\" on crypto twitter.\nI worked on the project - here's my take 🧵",
-          "link": "https://twitter.com/CarlKVogel/status/1688746524140863488",
-          "publishedOn": "2023-08-08T02:58:41.000Z",
-          "wordCount": null,
-          "title": "RT Crypto Carl: I have seen some pretty horrendous takes on the @PayPal PYUSD token launch today - legitimately embarrassing for \"thought leaders\" on ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688681204789215233",
-          "author": "Surfer",
-          "description": "Re @veH0rny Good marketing 👌🏻",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688681204789215233",
-          "publishedOn": "2023-08-07T22:39:08.000Z",
-          "wordCount": null,
-          "title": "Re @veH0rny Good marketing 👌🏻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688654824412164098",
-          "author": "Surfer",
-          "description": "4\n\nPaolo Ardoino 🍐: #Tether $USDt redeemed today ~325M+ USDt \nMany customers are onboarded and can redeem.\nThere is some FUD related about the thoroughness of Tether's onboarding process...\n\"It's too difficult 😭\" ... \"They ask too many questions 😡\" ... \"They ask many documents 🧐\" ...\nIndeed…",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688654824412164098",
-          "publishedOn": "2023-08-07T20:54:18.000Z",
-          "wordCount": null,
-          "title": "4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688647405506301952",
-          "author": "Surfer",
-          "description": "Re @jebus911 Not sure Vivek is a doer. Ron much stronger",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688647405506301952",
-          "publishedOn": "2023-08-07T20:24:49.000Z",
-          "wordCount": null,
-          "title": "Re @jebus911 Not sure Vivek is a doer. Ron much stronger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688645247725678593",
-          "author": "Surfer",
-          "description": "Major low soon?\n\nDylan LeClair 🟠: USDT/USD well below the 10bp redemption band over the past 24 hours, at its lowest level since the FTX collapse. \nIf history holds any precedent, expect some #USDT redemptions.",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688645247725678593",
-          "publishedOn": "2023-08-07T20:16:15.000Z",
-          "wordCount": null,
-          "title": "Major low soon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688615015362736128",
-          "author": "Surfer",
-          "description": "Re @MadsCapital Good list",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688615015362736128",
-          "publishedOn": "2023-08-07T18:16:07.000Z",
-          "wordCount": null,
-          "title": "Re @MadsCapital Good list",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1688614598193078272",
-          "author": "Surfer",
-          "description": "Re @DylanLeClair_ Up or down",
-          "link": "https://twitter.com/DeFiSurfer808/status/1688614598193078272",
-          "publishedOn": "2023-08-07T18:14:27.000Z",
-          "wordCount": null,
-          "title": "Re @DylanLeClair_ Up or down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/cullenroche/status/1688614299630174208",
-          "author": "Surfer",
-          "description": "RT Cullen Roche\nHousing is 45% of CPI. This is a multi-year disinflationary trend that's only just starting. \nTo get a big resurgence in inflation you're going to need some outlier surge in prices like commodities. Not happening so far this year....\n\nCarl Quintanilla: SF FED: “Our baseline forecast suggests that year-over-year shelter inflation will continue to slow through late 2024 and may even turn negative by mid-2024 .. the most severe contraction in shelter .. since the Global Financial Crisis ..”\n@sffed #CPI \nhttps://www.frbsf.org/economic-research/publications/economic-letter/2023/august/where-is-shelter-inflation-headed/",
-          "link": "https://twitter.com/cullenroche/status/1688614299630174208",
-          "publishedOn": "2023-08-07T18:13:16.000Z",
-          "wordCount": null,
-          "title": "RT Cullen Roche: Housing is 45% of CPI. This is a multi-year disinflationary trend that's only just starting. To get a big resurgence in inflation you...",
           "imageUrl": null
         }
       ]
