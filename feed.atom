@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T06:16:17.460Z</id>
+    <id>urn:2023-08-09T07:11:44.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T06:16:17.460Z</updated>
+    <updated>2023-08-09T07:11:44.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安宣布将于 8 月 16 日 11:00 停止 ADAUP/USDT 和 ADADOWN/USDT 杠杆代币交易对的交易和申购。此后所有交易订单将自动删除。币安建议用户在预定停止...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689147824334860288</id>
+        <link href="https://twitter.com/wublockchain12/status/1689147824334860288"/>
+        <updated>2023-08-09T05:33:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安宣布将于 8 月 16 日 11:00 停止 ADAUP/USDT 和 ADADOWN/USDT 杠杆代币交易对的交易和申购。此后所有交易订单将自动删除。币安建议用户在预定停止时间前将其 ADAUP 和 ADADOWN 杠杆代币换成其他代币。
+https://www.binance.com/en/support/announcement/binance-to-cease-adaup-adadown-trading-and-subscription-services-2023-08-09-94ed7e1b7fcf4588b053c01c2e453fed]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Coinbase 报告显示纽约州拥有 692 个区块链组织、800 多名创始人、19% 的纽约居民持有加密货币、约三分之一的纽约人同意“加密货币使金融体系更加公平...]]></title>
         <id>https://twitter.com/wublockchain12/status/1689139121477038080</id>
@@ -354,16 +365,6 @@ When I say normalizing, I mean post GFC - we are light years from pre-GFC levels
 Quantian: If Wegovy cuts heart disease risk by 20% we need to do an Operation Warp Speed 2 to get every American adult a prescription.  That’s years of population-level life expectancy increase.]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊扩容团队 Fuel Labs 宣布即将推出混合证明（Hybrid Proving）解决方案 FuelProver。FuelProver 是一个 Optimistic 和 ZK 的融合，可以支持所有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1688935916671512576</id>
-        <link href="https://twitter.com/wublockchain12/status/1688935916671512576"/>
-        <updated>2023-08-08T15:31:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊扩容团队 Fuel Labs 宣布即将推出混合证明（Hybrid Proving）解决方案 FuelProver。FuelProver 是一个 Optimistic 和 ZK 的融合，可以支持所有最新的通用 Prover，还可以减少提款窗口并实现高吞吐量 。FuelProver 打算支持多种证明机制，包括 Risc Zero、zkSync、Powdr…]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
