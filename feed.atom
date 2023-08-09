@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T17:11:25.376Z</id>
+    <id>urn:2023-08-09T18:16:28.744Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T17:11:25.376Z</updated>
+    <updated>2023-08-09T18:16:28.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase 的 Base 主网已正式向公众开放。Base 预计将成为 Coinbase 链上产品的默认网络。在此次发布之前，开发者和用户已将超过1亿美元的资产转移到 Base 网络...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689309736015994893</id>
+        <link href="https://twitter.com/wublockchain12/status/1689309736015994893"/>
+        <updated>2023-08-09T16:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase 的 Base 主网已正式向公众开放。Base 预计将成为 Coinbase 链上产品的默认网络。在此次发布之前，开发者和用户已将超过1亿美元的资产转移到 Base 网络上。（The Block）
+https://www.theblock.co/post/243899/base-mainnet-onchain-summer?utm_source=twitter&utm_medium=social]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @AviFelman Bro I was just having the same thought]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1689304024711897088</id>
@@ -16,30 +27,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xCrypton @ChainEDGE_io]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1689285291071111170</id>
-        <link href="https://twitter.com/OnChainWizard/status/1689285291071111170"/>
-        <updated>2023-08-09T14:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xCrypton @ChainEDGE_io]]></summary>
+        <title type="html"><![CDATA[Fantom 基金会联合创始人兼架构师 Andre Cronje 表示，其正在考虑集成 Optimistic Rollup 以将 Fantom 连接到以太坊。Cronje 指出，如果 Fantom 采用 Optimistic...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689301825583796224</id>
+        <link href="https://twitter.com/wublockchain12/status/1689301825583796224"/>
+        <updated>2023-08-09T15:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Fantom 基金会联合创始人兼架构师 Andre Cronje 表示，其正在考虑集成 Optimistic Rollup 以将 Fantom 连接到以太坊。Cronje 指出，如果 Fantom 采用 Optimistic Rollup 并提供以太坊上完整的交易历史记录，那么 Fantom 需要支付交易费用才能将这些快照写入以太坊。Fantom 基金会首席执行官 Michael…]]></summary>
         <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart money confirming which coins are gud $PEPE $RLB $MNT $OX $WINR $GNS $SAINT]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1689281024998457344</id>
-        <link href="https://twitter.com/OnChainWizard/status/1689281024998457344"/>
-        <updated>2023-08-09T14:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Smart money confirming which coins are gud
-$PEPE
-$RLB
-$MNT
-$OX
-$WINR
-$GNS
-$SAINT]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -257,26 +251,6 @@ https://www.coindesk.com/markets/2023/08/09/stablecoin-market-to-grow-to-almost-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance Labs 宣布对以太坊扩容项目 AltLayer 进行战略投资，未公布具体投资金额。AltLayer 是一个 Rollup-as-a-Service（RaaS）方案提供商，向开发人...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689168603340570624</id>
-        <link href="https://twitter.com/wublockchain12/status/1689168603340570624"/>
-        <updated>2023-08-09T06:55:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance Labs 宣布对以太坊扩容项目 AltLayer 进行战略投资，未公布具体投资金额。AltLayer 是一个 Rollup-as-a-Service（RaaS）方案提供商，向开发人员提供可拓展的应用程序定制 Rollup，近期该公司推出了一个无代码面板，声称允许初学者在 2 分钟内启动自定义 Rollup。…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，EOS 网络基金会敦促 EOS 社区拒绝 http://Block.one 和解协议，其认为与 http://Block.one 的拟议和解不符合 EOS 网络和整个 EOS 社区的最佳利益。和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689164320364740608</id>
-        <link href="https://twitter.com/wublockchain12/status/1689164320364740608"/>
-        <updated>2023-08-09T06:38:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，EOS 网络基金会敦促 EOS 社区拒绝 http://Block.one 和解协议，其认为与 http://Block.one 的拟议和解不符合 EOS 网络和整个 EOS 社区的最佳利益。和解协议要求加入和解协议的社区成员今后将不得对http://Block.one…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BucknSF Wen]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1689136134561955840</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1689136134561955840"/>
@@ -468,16 +442,6 @@ Great for the industry, even better for the front-runners.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @CryptoSources @0xShual Way more]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1688893258707947520</id>
-        <link href="https://twitter.com/OnChainWizard/status/1688893258707947520"/>
-        <updated>2023-08-08T12:41:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @CryptoSources @0xShual Way more]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[真的，有些天选之子，22/23年入圈就是赚百万、千万、过亿。我在币圈那么久还是穷b，真的惭愧]]></title>
         <id>https://twitter.com/8848Community/status/1688763145362550784</id>
         <link href="https://twitter.com/8848Community/status/1688763145362550784"/>
@@ -514,18 +478,6 @@ Nominal GDP is juiced to the moon, but the peak of real GDP growth in dollar ter
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Silent Protocol: 0/ Recently, intent-based infrastructure has gained popularity, and Silent is very excited to bring one of the OG projects buildin...]]></title>
-        <id>https://twitter.com/silentdao_/status/1688595051658592257</id>
-        <link href="https://twitter.com/silentdao_/status/1688595051658592257"/>
-        <updated>2023-08-07T16:56:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Silent Protocol
-0/ Recently, intent-based infrastructure has gained popularity, and Silent is very excited to bring one of the OG projects building intent-based trading infrastructure into reality.
-We present @CoWSwap, as the 3rd addition to our ecosystem of privacy-preserving applications.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT pashov: The new Paypal USD stablecoin has an "assetProtection" role which can wipe your balance in two transactions (first `freeze`, then `wipeFroz...]]></title>
         <id>https://twitter.com/pashovkrum/status/1688591468498239496</id>
         <link href="https://twitter.com/pashovkrum/status/1688591468498239496"/>
@@ -548,16 +500,6 @@ In smart contract security we call this a "centralisation attack vector"]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you don't understand crypto and refuse to learn, it's gonna be a tough century for you.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1688385659906506752</id>
-        <link href="https://twitter.com/OnChainWizard/status/1688385659906506752"/>
-        <updated>2023-08-07T03:04:44.000Z</updated>
-        <summary type="html"><![CDATA[If you don't understand crypto and refuse to learn, it's gonna be a tough century for you.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[他问可不可以带他进币圈]]></title>
         <id>https://twitter.com/8848Community/status/1688199413678907392</id>
         <link href="https://twitter.com/8848Community/status/1688199413678907392"/>
@@ -565,26 +507,6 @@ In smart contract security we call this a "centralisation attack vector"]]></sum
         <summary type="html"><![CDATA[他问可不可以带他进币圈]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @bull_genius 100%. This is what we see as the smart money favorites nearly every day]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1688127522100183040</id>
-        <link href="https://twitter.com/OnChainWizard/status/1688127522100183040"/>
-        <updated>2023-08-06T09:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @bull_genius 100%.    This is what we see as the smart money favorites nearly every day]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xAobby @xcurveth @TeamUnibot Gib access]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1688064731498569729</id>
-        <link href="https://twitter.com/OnChainWizard/status/1688064731498569729"/>
-        <updated>2023-08-06T05:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xAobby @xcurveth @TeamUnibot Gib access]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -614,16 +536,6 @@ How to take part and enjoy a 15% boost? 👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Aleksej45868842 @ChainEDGE_io I can do that. We will do a live stream next week focused on just that]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687888975271178240</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687888975271178240"/>
-        <updated>2023-08-05T18:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @Aleksej45868842 @ChainEDGE_io I can do that.   We will do a live stream next week focused on just that]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[$FLASH Drop]]></title>
         <id>https://twitter.com/AntCaveClub/status/1687791891658727424</id>
         <link href="https://twitter.com/AntCaveClub/status/1687791891658727424"/>
@@ -638,48 +550,6 @@ Flashstake (⚡,⏳): EPOCH airdrop confirmed:
 https://moailabs.medium.com/moai-labs-to-drop-genesis-epoch-to-flash-token-holders-255d201cb697]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @agkcrypto @ChainEDGE_io Click pay with crypto]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687757017702678528</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687757017702678528"/>
-        <updated>2023-08-05T09:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @agkcrypto @ChainEDGE_io Click pay with crypto]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @2bitfork @ChainEDGE_io Alpha stream, new launch pro or filter home page flows for 0-2 day token age]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687734357090275328</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687734357090275328"/>
-        <updated>2023-08-05T07:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @2bitfork @ChainEDGE_io Alpha stream, new launch pro or filter home page flows for 0-2 day token age]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @root_digger @ChainEDGE_io Eventually we will remove trials to preserve ze alpha. And the trading terminal will sit within the app]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687727872264265729</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687727872264265729"/>
-        <updated>2023-08-05T07:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @root_digger @ChainEDGE_io Eventually we will remove trials to preserve ze alpha.    And the trading terminal will sit within the app]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saw a signal yesterday on $HOUSE (lots of smart $ degens aping in below $0.20). Token just hit $3. Never miss a trade using @ChainEDGE_io. We have a t...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687617068588220416</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687617068588220416"/>
-        <updated>2023-08-05T00:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Saw a signal yesterday on $HOUSE (lots of smart $ degens aping in below $0.20).    Token just hit $3.    Never miss a trade using @ChainEDGE_io.   
-We have a ton of features coming soon to make it seamless in app to catch moves like these.
-https://tinyurl.com/stopbeingexitliq]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -725,36 +595,6 @@ This metric is…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @crypt0detweiler @DextMoon Speed ran the entire ohm lifecycle in 24hr instead of 6 months]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687366133442064384</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687366133442064384"/>
-        <updated>2023-08-04T07:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @crypt0detweiler @DextMoon Speed ran the entire ohm lifecycle in 24hr instead of 6 months]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheNanomite Yea you can DM]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687271726432882688</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687271726432882688"/>
-        <updated>2023-08-04T01:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheNanomite Yea you can DM]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Ox_deg @ChainEDGE_io Sign wallets like tag them yourself?]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1687200579582578689</id>
-        <link href="https://twitter.com/OnChainWizard/status/1687200579582578689"/>
-        <updated>2023-08-03T20:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @Ox_deg @ChainEDGE_io Sign wallets like tag them yourself?]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already us...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1687144549561376777</id>
         <link href="https://twitter.com/DeFi_educator/status/1687144549561376777"/>
@@ -762,37 +602,6 @@ This metric is…]]></summary>
         <summary type="html"><![CDATA[Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already use Kraken for Onboarding/offramping, but will not see myself use kraken as my primary trading exchange in the future]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1686984891596959744</id>
-        <link href="https://twitter.com/OnChainWizard/status/1686984891596959744"/>
-        <updated>2023-08-03T06:18:35.000Z</updated>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart money signals strike again -> we saw $QWN inflows starting under $10 (now trading at $321). Simple to use, but wildly powerful. Try it out now b...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1686965707651592192</id>
-        <link href="https://twitter.com/OnChainWizard/status/1686965707651592192"/>
-        <updated>2023-08-03T05:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Smart money signals strike again -> we saw $QWN inflows starting under $10 (now trading at $321).
-Simple to use, but wildly powerful.  Try it out now before we remove trials and ship the @ChainEDGE_io trading terminal 👀 
-https://tinyurl.com/stopbeingexitliq]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens first in token deploy meta coins]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1686837776451272704</id>
-        <link href="https://twitter.com/OnChainWizard/status/1686837776451272704"/>
-        <updated>2023-08-02T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens first in token deploy meta coins]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -808,20 +617,6 @@ Blockworks: NEWS: Two sources tell Blockworks the SEC is now ready to consider
 https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Louis: Re .@ChainEDGE_io While Dexscreener is a useful tool, I prefer Chainedge for monitoring whales. Chainedge algorithmically identifies the mos...]]></title>
-        <id>https://twitter.com/lou_markets/status/1686820935331192832</id>
-        <link href="https://twitter.com/lou_markets/status/1686820935331192832"/>
-        <updated>2023-08-02T19:27:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Louis
-Re .@ChainEDGE_io
-While Dexscreener is a useful tool, I prefer Chainedge for monitoring whales.
-Chainedge algorithmically identifies the most profitable addresses.
-You can view what coins smart money is apeing, who the most profitable wallets are, inflows & outflows]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -859,19 +654,6 @@ Today we are supercharging our efforts with Socket Ecosystem to onboard users to
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Raccoon Chan 小浣熊: 隱私協議 @silentdao_ 介紹 Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣的協議 獲授權翻譯自 @EliasFoxxie]]></title>
-        <id>https://twitter.com/RaccoonHKG/status/1686743393026629632</id>
-        <link href="https://twitter.com/RaccoonHKG/status/1686743393026629632"/>
-        <updated>2023-08-02T14:18:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Raccoon Chan 小浣熊
-隱私協議 @silentdao_ 介紹
-Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣的協議
-獲授權翻譯自 @EliasFoxxie]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></title>
         <id>https://twitter.com/8848Community/status/1686655983488294912</id>
         <link href="https://twitter.com/8848Community/status/1686655983488294912"/>
@@ -879,17 +661,6 @@ Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣�
         <summary type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></summary>
         <author>
             <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[~5x from this signal on $EMBR new launch a few hours ago. Once you integrate @ChainEDGE_io into your DEX trading workflow, you won't look back. You ca...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1686623622352326656</id>
-        <link href="https://twitter.com/OnChainWizard/status/1686623622352326656"/>
-        <updated>2023-08-02T06:23:02.000Z</updated>
-        <summary type="html"><![CDATA[~5x from this signal on $EMBR new launch a few hours ago.    Once you integrate @ChainEDGE_io into your DEX trading workflow, you won't look back.     You can trial it for literally $12.50 (and can pay in crypto)
-https://tinyurl.com/stopbeingexitliq]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
