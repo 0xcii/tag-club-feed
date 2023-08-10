@@ -1,10 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T15:13:31.602Z</id>
+    <id>urn:2023-08-10T16:16:39.326Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-10T15:13:31.602Z</updated>
+    <updated>2023-08-10T16:16:39.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A16z crypto 推出了两项与 SNARK 相关的技术：Lasso 和 Jolt。a16z crypto 的研究团队表示，Lasso 可以显着提高 SNARK 证明者的整体速度，与Halo2工具链等工具相...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689655059469258752</id>
+        <link href="https://twitter.com/wublockchain12/status/1689655059469258752"/>
+        <updated>2023-08-10T15:08:53.000Z</updated>
+        <summary type="html"><![CDATA[A16z crypto  推出了两项与 SNARK 相关的技术：Lasso 和 Jolt。a16z crypto 的研究团队表示，Lasso 可以显着提高 SNARK 证明者的整体速度，与Halo2工具链等工具相比，性能提高十倍，从而有助于开发更快的 ZK-rollups；Jolt 则是一个专为与以太坊虚拟机兼容的 Roll-ups 设计的框架，它被描述为一种利用…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1689645442592878597?s=20]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689647338938413057</id>
+        <link href="https://twitter.com/wublockchain12/status/1689647338938413057"/>
+        <updated>2023-08-10T14:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/BTC__options/status/1689645442592878597?s=20
+
+Adam@Greeks.live: 美国7月CPI数据基本符合预期，主要投机市场波动不大，加密市场同样几乎没有波动。
+短短两日的平静已经完全消化了8日的波动影响，目前末日期权IV已经跌回25%附近，次周平值期权的IV也不足30%。…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Greekslive，美国 7 月 CPI 数据基本符合预期，主要投机市场波动不大，加密市场同样几乎没有波动。目前末日期权 IV 已经跌回 25% 附近，次周平值期...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689647336769949696</id>
+        <link href="https://twitter.com/wublockchain12/status/1689647336769949696"/>
+        <updated>2023-08-10T14:38:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Greekslive，美国 7 月 CPI 数据基本符合预期，主要投机市场波动不大，加密市场同样几乎没有波动。目前末日期权 IV 已经跌回 25% 附近，次周平值期权的 IV 也不足 30%。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase Ventures 宣布对宣布对 Rocket Pool 进行战略投资，通过从 Rocket Pool 团队购买 RPL 代币。Rocket Pool 是 Ethereum 上的主要流动性质押网...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689646521078456320</id>
+        <link href="https://twitter.com/wublockchain12/status/1689646521078456320"/>
+        <updated>2023-08-10T14:34:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase Ventures 宣布对宣布对 Rocket Pool 进行战略投资，通过从 Rocket Pool 团队购买 RPL 代币。Rocket Pool 是 Ethereum 上的主要流动性质押网络，允许用户在保持流动性的同时质押 ETH。Rocket Pool 网络现在包括超过 3,100 个节点运营商，已质押超过 780k ETH。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 作为该工作组的成员，Ripple 将与万事达卡和 SWIFT 等其他组织合作，以实现 BIS 提高跨境支付互操作性的目标。 （Cointelegraph） https://cointelegraph.com...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689645971876241408</id>
+        <link href="https://twitter.com/wublockchain12/status/1689645971876241408"/>
+        <updated>2023-08-10T14:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Re 作为该工作组的成员，Ripple 将与万事达卡和 SWIFT 等其他组织合作，以实现 BIS 提高跨境支付互操作性的目标。 （Cointelegraph）
+https://cointelegraph.com/news/ripple-joins-bis-cross-border-payments-task-force]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际清算银行 (BIS) 最近宣布成立跨境支付互操作性和扩展 (PIE) 工作组，工作组成员中包括 Ripple。 该工作组是国际清算银行支付和市场基础设施委员会的一部分，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689645969955229697</id>
+        <link href="https://twitter.com/wublockchain12/status/1689645969955229697"/>
+        <updated>2023-08-10T14:32:45.000Z</updated>
+        <summary type="html"><![CDATA[国际清算银行 (BIS) 最近宣布成立跨境支付互操作性和扩展 (PIE) 工作组，工作组成员中包括 Ripple。 该工作组是国际清算银行支付和市场基础设施委员会的一部分，将通过改善支付系统的访问、延长支付系统的运行时间以及在不同支付系统之间建立链接来增强跨境支付。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 不过相较于 Tether，利润仍然较低。Tether一季度产生了 14.8 亿美金的利润；第二季度利润超过 10 亿美金。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689642242078822401</id>
+        <link href="https://twitter.com/wublockchain12/status/1689642242078822401"/>
+        <updated>2023-08-10T14:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 不过相较于 Tether，利润仍然较低。Tether一季度产生了 14.8 亿美金的利润；第二季度利润超过 10 亿美金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/jerallaire/status/1689640011069902848]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689641165484896257</id>
+        <link href="https://twitter.com/wublockchain12/status/1689641165484896257"/>
+        <updated>2023-08-10T14:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/jerallaire/status/1689640011069902848
+
+Jeremy Allaire: BREAKING coverage from @Bloomberg on @circle.  
+"Circle had $779 million in revenue in the first half of the year, already surpassing the $772 million for all of 2022. The private firm generated $219 million in adjusted earnings before interest, taxes, depreciation, and…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Circle 宣布今年上半年的收入为 7.79 亿美元，已经超过 2022 年全年的 7.72 亿美元。上半年调整后利润为 2.19 亿美元，超过了 2022 年全年的利润 1.5 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689641162678870016</id>
+        <link href="https://twitter.com/wublockchain12/status/1689641162678870016"/>
+        <updated>2023-08-10T14:13:39.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Circle 宣布今年上半年的收入为 7.79 亿美元，已经超过 2022 年全年的 7.72 亿美元。上半年调整后利润为 2.19 亿美元，超过了 2022 年全年的利润 1.5 亿美元。截至 6 月份，该公司的资产负债表上有超过 10 亿美元的现金。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Binance Labs 宣布对 Curve DAO（CRV）投资 500 万美元。作为合作的一部分，Curve 将探索部署到 BNB 链。 https://www.binance.com/en/blog/ecosystem...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689640151851638785</id>
+        <link href="https://twitter.com/wublockchain12/status/1689640151851638785"/>
+        <updated>2023-08-10T14:09:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Binance Labs 宣布对 Curve DAO（CRV）投资 500 万美元。作为合作的一部分，Curve 将探索部署到 BNB 链。
+https://www.binance.com/en/blog/ecosystem/binance-labs-invests-$5m-in-curve-dao-token-crv-and-supports-curve-deployment-to-bnb-chain-4372009526169554266]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 已有境外交易所已向金管会递交声明，要在台湾落地；交易所要有银行信托或履约保证；九月指导原则颁布后，成立产业公会；公会成立后，研拟交易所自律规范。htt...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689638455947767808</id>
+        <link href="https://twitter.com/wublockchain12/status/1689638455947767808"/>
+        <updated>2023-08-10T14:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 已有境外交易所已向金管会递交声明，要在台湾落地；交易所要有银行信托或履约保证；九月指导原则颁布后，成立产业公会；公会成立后，研拟交易所自律规范。https://www.facebook.com/story.php?story_fbid=pfbid0KRGt9CGGuPH42mKfqencELc2G6kg8AbV2tQEoxHE8gN52qPr8emGALVBB2UFSAMWl&id=100000272568328&mibextid=qC1gEa&paipv=0&eav=AfZcPZlAlwR0lrMqP1pS4QesYhY7mG9iolFMGa8ZYZtv9JWSstOrIfqIw2DS9fv7QPg&_rdr]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，BitShine 联合创始人陈珮芸在FB 披露，8月8日台湾金管会召集台湾交易所，讨论九月要颁布的指导原则，重点包括未向金管会声明的个人币商、法人币商违法...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689638453292720128</id>
+        <link href="https://twitter.com/wublockchain12/status/1689638453292720128"/>
+        <updated>2023-08-10T14:02:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，BitShine 联合创始人陈珮芸在FB 披露，8月8日台湾金管会召集台湾交易所，讨论九月要颁布的指导原则，重点包括未向金管会声明的个人币商、法人币商违法，依洗钱防制法罚50万到1000万元；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689636801840037888</id>
+        <link href="https://twitter.com/wublockchain12/status/1689636801840037888"/>
+        <updated>2023-08-10T13:56:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Fantom 基金会宣布，Amazon Web Services (AWS) 在其平台上启动了一个研讨会，旨在教授 Web3 开发人员在 Fantom 区块链上构建去中心化游戏的技能；有...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1689635412493680640</id>
+        <link href="https://twitter.com/wublockchain12/status/1689635412493680640"/>
+        <updated>2023-08-10T13:50:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Fantom 基金会宣布，Amazon Web Services (AWS) 在其平台上启动了一个研讨会，旨在教授 Web3 开发人员在 Fantom 区块链上构建去中心化游戏的技能；有兴趣学习这些技能的人都可以参加研讨会或按照自己的进度进行学习。
+https://fantom.foundation/blog/aws-creating-a-game-on-fantom/]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 但通过官方社群了解，Telegram 社区管理员表示，这是托管基础设施内执行预定的内部资产移动，将影响 Pantos 和 BEST 代币钱包，即这是内部转账行为，用户资产...]]></title>
         <id>https://twitter.com/wublockchain12/status/1689631585765937152</id>
@@ -60,6 +209,29 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I’m a simple man. Chad @xcurveth says stay bullish on Unibot, I stay bullish on Unibot. Simple as.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689620093687169025</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689620093687169025"/>
+        <updated>2023-08-10T12:49:56.000Z</updated>
+        <summary type="html"><![CDATA[I’m a simple man. 
+Chad @xcurveth says stay bullish on Unibot, I stay bullish on Unibot.
+Simple as.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Bill: Core CPI (x-OER) in July now down to 3.0%. Next stop the 2s.]]></title>
+        <id>https://twitter.com/wabuffo/status/1689617177169575936</id>
+        <link href="https://twitter.com/wabuffo/status/1689617177169575936"/>
+        <updated>2023-08-10T12:38:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Bill
+Core CPI (x-OER) in July now down to 3.0%.   Next stop the 2s.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[吴说获悉，美国 7 月未季调 CPI 年率 3.2%，预期 3.3%，前值 3%。美国 7 月未季调核心 CPI 年率 4.7%，预期 4.8%，前值 4.8%，为 2021 年 10 月以来新低。]]></title>
         <id>https://twitter.com/wublockchain12/status/1689616519813308416</id>
         <link href="https://twitter.com/wublockchain12/status/1689616519813308416"/>
@@ -70,128 +242,190 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总部位于香港的比特币钱包 Xverse 在 Jump Crypto 领投的种子轮融资中筹集了 500 万美元，资金将帮助该公司加速开发与 DeFi 以及Stacks、闪电网络和其他比特币扩...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689613275288473600</id>
-        <link href="https://twitter.com/wublockchain12/status/1689613275288473600"/>
-        <updated>2023-08-10T12:22:50.000Z</updated>
-        <summary type="html"><![CDATA[总部位于香港的比特币钱包 Xverse 在 Jump Crypto 领投的种子轮融资中筹集了 500 万美元，资金将帮助该公司加速开发与 DeFi 以及Stacks、闪电网络和其他比特币扩容解决方案相关的高级功能。Xverse  可通过 iOS、Android 和 Chrome 扩展程序使用，支持 Ordinals。（CoinDesk）
-https://www.coindesk.com/business/2023/08/10/jump-crypto-backs-5m-round-for-bitcoin-wallet-xverse/?utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic&utm_source=twitter&utm_medium=social]]></summary>
+        <title type="html"><![CDATA[Re @crypto_condom Honestly higher than I thought it’d be]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689616129197535232</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689616129197535232"/>
+        <updated>2023-08-10T12:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @crypto_condom Honestly higher than I thought it’d be]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 NOW 新闻，香港东方足球队今日召开记者招待会，宣布获得虚拟货币 XDAG 基金会赞助，除球衣心口广告外，亦包括社交平台，赞助费达七位数。XDAG 是一...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689605371445567488</id>
-        <link href="https://twitter.com/wublockchain12/status/1689605371445567488"/>
-        <updated>2023-08-10T11:51:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 NOW 新闻，香港东方足球队今日召开记者招待会，宣布获得虚拟货币 XDAG 基金会赞助，除球衣心口广告外，亦包括社交平台，赞助费达七位数。XDAG 是一个使用 CPU 挖矿的代币。https://news.now.com/home/sports/player?newsId=sp38842068385]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Distrust 发现了一个使用 Libbitcoin Explorer 3.x 版本的加密货币钱包的严重漏洞，允许攻击者利用 Mersenne Twister 伪随机数生成器（PRNG）访问钱包...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689598834681470976</id>
-        <link href="https://twitter.com/wublockchain12/status/1689598834681470976"/>
-        <updated>2023-08-10T11:25:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Distrust 发现了一个使用 Libbitcoin Explorer 3.x 版本的加密货币钱包的严重漏洞，允许攻击者利用 Mersenne Twister 伪随机数生成器（PRNG）访问钱包私钥；截至 2023 年 8 月，价值超过 90 万美元的加密货币资产被盗。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 建议所有使用 Libbitcoin Explorer 3.x 版本的用户立即停止使用受影响的钱包并将资金转移到安全钱包。Libbitcoin 是开源项目也是参与钱包创建的一个重要工具...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689598836757651457</id>
-        <link href="https://twitter.com/wublockchain12/status/1689598836757651457"/>
-        <updated>2023-08-10T11:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Re 建议所有使用 Libbitcoin Explorer 3.x 版本的用户立即停止使用受影响的钱包并将资金转移到安全钱包。Libbitcoin 是开源项目也是参与钱包创建的一个重要工具。https://milksad.info/disclosure.html#dude-wheres-my-cryptocurrency]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，华为云 Web3 节点引擎服务于8月9日更新了以太坊节点引擎介绍与波场节点引擎介绍；于8月3日更新了以太坊质押操作说明，包括通过 Staking Launchpad 获...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689598411253932034</id>
-        <link href="https://twitter.com/wublockchain12/status/1689598411253932034"/>
-        <updated>2023-08-10T11:23:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，华为云 Web3 节点引擎服务于8月9日更新了以太坊节点引擎介绍与波场节点引擎介绍；于8月3日更新了以太坊质押操作说明，包括通过 Staking Launchpad 获取密钥、创建质押节点、创建并获取认证凭据、启动质押节点与监控质押节点状态等。https://support.huaweicloud.com/intl/zh-cn/devg-nes/nes_devg_0008.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，去中心化数字资产交易所 DigiFT 宣布推出美国国债代币 DUST，以投资明确到期日为2023年12月31日的美国国债，投资者可以选择使用 USD 或 USDC，至2023...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689582673323536384</id>
-        <link href="https://twitter.com/wublockchain12/status/1689582673323536384"/>
-        <updated>2023-08-10T10:21:14.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，去中心化数字资产交易所 DigiFT 宣布推出美国国债代币 DUST，以投资明确到期日为2023年12月31日的美国国债，投资者可以选择使用 USD 或 USDC，至2023年8月3日的年化收益率为5.40%。DigiFT 自称是新加坡金融管理局（MAS）金融科技监管沙盒中的去中心化交易所。https://www.digift.sg/announcements/digift-press-dust.html]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，总部位于旧金山的 SoFi 银行在其季度收益报告中透露，其持有价值 1.7 亿美元的加密货币，包括比特币、以太坊、莱特币、Solana、ETC 和狗狗币。2019 年...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689571516005187584</id>
-        <link href="https://twitter.com/wublockchain12/status/1689571516005187584"/>
-        <updated>2023-08-10T09:36:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，总部位于旧金山的 SoFi 银行在其季度收益报告中透露，其持有价值 1.7 亿美元的加密货币，包括比特币、以太坊、莱特币、Solana、ETC 和狗狗币。2019 年 2 月，SoFi 与 Coinbase 建立合作伙伴关系，提供加密货币交易。美联储曾指出“SoFi…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国金融监管机构 AMF 周四宣布，法国修改了加密货币公司的注册要求，以更好地符合欧盟 MiCA 对该行业的新规定。AMF 表示，“增强型”注册要求将于 2024 年 1 月...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689564486192214016</id>
-        <link href="https://twitter.com/wublockchain12/status/1689564486192214016"/>
-        <updated>2023-08-10T09:08:58.000Z</updated>
-        <summary type="html"><![CDATA[法国金融监管机构 AMF 周四宣布，法国修改了加密货币公司的注册要求，以更好地符合欧盟 MiCA 对该行业的新规定。AMF 表示，“增强型”注册要求将于 2024 年 1 月 1 日起生效，对于寻求提供任何受监管服务的“新参与者”来说将是强制性的。（CoinDesk）
-https://www.coindesk.com/policy/2023/08/10/france-steps-closer-to-implementing-mica-for-crypto-firms/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cointelegraph 记者 Joe Hall 表示，Adam Back Paolo Ardoino（Bitfinex/Tether 首席技术官）和 Giacomo Zucco等比特币核心人士都表示，相信到今年年底比特币的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689563534391394304</id>
-        <link href="https://twitter.com/wublockchain12/status/1689563534391394304"/>
-        <updated>2023-08-10T09:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Cointelegraph 记者 Joe Hall 表示，Adam Back Paolo Ardoino（Bitfinex/Tether 首席技术官）和 Giacomo Zucco等比特币核心人士都表示，相信到今年年底比特币的价格将超过 35,000 美元。而下半年比较大的悬念事件是美国司法部可能对币安提出的欺诈指控，社区担心这可能会导致类似 FTX…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Solana Web3 手机 Saga 售价由此前的 1000 美元降至 599 美元，未来将添加 allowlists 和 NFT 空投等权益。Saga 是 Solana Labs 推出的加密智能手机，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689561795730751488</id>
-        <link href="https://twitter.com/wublockchain12/status/1689561795730751488"/>
-        <updated>2023-08-10T08:58:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Solana Web3 手机 Saga 售价由此前的 1000 美元降至 599 美元，未来将添加 allowlists 和 NFT 空投等权益。Saga 是 Solana Labs 推出的加密智能手机，于今年 5 月份面向公众发售，支持自托管密钥解决方案 Seed Vault，dApp 商城上架 36 款应用。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/solanamobile/status/1689305961733685248]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689561797588901889</id>
-        <link href="https://twitter.com/wublockchain12/status/1689561797588901889"/>
-        <updated>2023-08-10T08:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/solanamobile/status/1689305961733685248
+        <title type="html"><![CDATA[Brooo don’t trigger the value guys come on]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689613333685473280</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689613333685473280"/>
+        <updated>2023-08-10T12:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Brooo don’t trigger the value guys come on
 
-Solana Mobile 🌱: Now is the perfect time to switch to Saga.
-Order Saga here: https://store.solanamobile.com/]]></summary>
+Jason Shapiro: Tech over energy All Day Long from right here]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据中国日报，公安部网络安全保卫局政委孙劲峰8月10日在新闻发布会上表示，紧盯ChatGPT、云计算、区块链、“AI换脸”等新技术、新应用、新业态，边研究...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1689560783603331072</id>
-        <link href="https://twitter.com/wublockchain12/status/1689560783603331072"/>
-        <updated>2023-08-10T08:54:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据中国日报，公安部网络安全保卫局政委孙劲峰8月10日在新闻发布会上表示，紧盯ChatGPT、云计算、区块链、“AI换脸”等新技术、新应用、新业态，边研究边打击，侦破一批利用人工智能技术侵犯公民个人信息的新型案件；循线深挖下游犯罪线索，连带破获大量电信诈骗、套路贷、网络盗窃、网络洗钱等…]]></summary>
+        <title type="html"><![CDATA[Thank you zerohedge 🙏🏻]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689606667699130368</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689606667699130368"/>
+        <updated>2023-08-10T11:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Thank you zerohedge 🙏🏻
+
+zerohedge: Markets Will Be Blindsided By Inflation's Comeback https://www.zerohedge.com/markets/markets-will-be-blindsided-inflations-comeback]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @crypto_bobby Coming in light no panik]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689605678279843840</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689605678279843840"/>
+        <updated>2023-08-10T11:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @crypto_bobby Coming in light no panik]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gvk916 Think it’s more a function of labor losing bargaining power due to increased automation and women entering the workforce (ie supply / dema...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689604098935427072</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689604098935427072"/>
+        <updated>2023-08-10T11:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @gvk916 Think it’s more a function of labor losing bargaining power due to increased automation and women entering the workforce (ie supply / demand)]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ParrotCapital Shorts can only go down 100%. Long returns are uncapped (eg coin up 150% ytd)]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689599572291588097</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689599572291588097"/>
+        <updated>2023-08-10T11:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @ParrotCapital Shorts can only go down 100%. Long returns are uncapped (eg coin up 150% ytd)]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reactions to UPS drivers getting good wages good example of how US workers are conditioned to be taken advantage of by corporates. See below 👇]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689596133159370752</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689596133159370752"/>
+        <updated>2023-08-10T11:14:43.000Z</updated>
+        <summary type="html"><![CDATA[The reactions to UPS drivers getting good wages good example of how US workers are conditioned to be taken advantage of by corporates. See below 👇
+
+
+Stock Market Drip💧:]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NotChaseColeman ggwp]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689593374183952384</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689593374183952384"/>
+        <updated>2023-08-10T11:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @NotChaseColeman ggwp]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @basedkarbon Is this an rlb post lmao]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689593108189548544</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689593108189548544"/>
+        <updated>2023-08-10T11:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @basedkarbon Is this an rlb post lmao]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DegenSpartan HODL]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689591528648310784</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689591528648310784"/>
+        <updated>2023-08-10T10:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @DegenSpartan HODL]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blknoiz06 @CyberRevolt12 I dunno it’s the USA people migrate from Africa on the reg]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689450541238087680</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689450541238087680"/>
+        <updated>2023-08-10T01:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @blknoiz06 @CyberRevolt12 I dunno it’s the USA people migrate from Africa on the reg]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @usdcbull1 Anxious]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689442213862735872</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689442213862735872"/>
+        <updated>2023-08-10T01:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @usdcbull1 Anxious]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CyberRevolt12 @blknoiz06 Yea i didn’t read that as racist at all]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689433463391174658</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689433463391174658"/>
+        <updated>2023-08-10T00:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @CyberRevolt12 @blknoiz06 Yea i didn’t read that as racist at all]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good thread. Think decent odds cpi comes in cool tomorrow.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689432763173048320</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689432763173048320"/>
+        <updated>2023-08-10T00:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Good thread. Think decent odds cpi comes in cool tomorrow.
+
+QF Research: 1) Very quick #CPI comments. Last M had greater downside risk but Jul still has some risk to downside.
+Maybe more in core where consensus is +0.22% M/M.
+A few items. Retail sentiment is hot. Gasoline is up big. But avg price only up ~ 1+% or bit more M/M NSA. Bigger impact ...]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Baldstrong doing the needful and shilling his chain 🚀 💪🏻]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689419240367898624</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689419240367898624"/>
+        <updated>2023-08-09T23:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Brian Baldstrong doing the needful and shilling his chain 🚀 💪🏻
+
+Brian Armstrong 🛡️: I just bridged some ETH to Base. Try it - it's quite simple https://bridge.base.org/deposit
+(You can also do it from @CoinbaseWallet)
+Layer 2 feels great - changes the usability of crypto.
+Plus you get this sweet NFT
+https://nft.coinbase.com/mint/bridgetobase]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Bluntz_Capital Manifest bluntz 💨]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689411137157185537</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689411137157185537"/>
+        <updated>2023-08-09T22:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @Bluntz_Capital Manifest bluntz 💨]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @charliebilello Would be cool to add with eth or all crypto mkt cap]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1689407978313502721</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1689407978313502721"/>
+        <updated>2023-08-09T22:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @charliebilello Would be cool to add with eth or all crypto mkt cap]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -252,6 +486,16 @@ From today onwards, revenue…]]></summary>
         <summary type="html"><![CDATA[Re @CryptoSources @0xShual Way more]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真的，有些天选之子，22/23年入圈就是赚百万、千万、过亿。我在币圈那么久还是穷b，真的惭愧]]></title>
+        <id>https://twitter.com/8848Community/status/1688763145362550784</id>
+        <link href="https://twitter.com/8848Community/status/1688763145362550784"/>
+        <updated>2023-08-08T04:04:44.000Z</updated>
+        <summary type="html"><![CDATA[真的，有些天选之子，22/23年入圈就是赚百万、千万、过亿。我在币圈那么久还是穷b，真的惭愧]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -322,6 +566,16 @@ In smart contract security we call this a "centralisation attack vector"]]></sum
         <summary type="html"><![CDATA[If you don't understand crypto and refuse to learn, it's gonna be a tough century for you.]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他问可不可以带他进币圈]]></title>
+        <id>https://twitter.com/8848Community/status/1688199413678907392</id>
+        <link href="https://twitter.com/8848Community/status/1688199413678907392"/>
+        <updated>2023-08-06T14:44:40.000Z</updated>
+        <summary type="html"><![CDATA[他问可不可以带他进币圈]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -588,6 +842,20 @@ https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动]]></title>
+        <id>https://twitter.com/8848Community/status/1686751673861931009</id>
+        <link href="https://twitter.com/8848Community/status/1686751673861931009"/>
+        <updated>2023-08-02T14:51:52.000Z</updated>
+        <summary type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动
+
+Socket: It's official, Bridging Summer is ON 🔴
+Today we are supercharging our efforts with Socket Ecosystem to onboard users to the fast world of @optimismFND
+400K rewards go live across apps building on Socket to create the best L2 bridging experience!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Raccoon Chan 小浣熊: 隱私協議 @silentdao_ 介紹 Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣的協議 獲授權翻譯自 @EliasFoxxie]]></title>
         <id>https://twitter.com/RaccoonHKG/status/1686743393026629632</id>
         <link href="https://twitter.com/RaccoonHKG/status/1686743393026629632"/>
@@ -601,6 +869,16 @@ Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></title>
+        <id>https://twitter.com/8848Community/status/1686655983488294912</id>
+        <link href="https://twitter.com/8848Community/status/1686655983488294912"/>
+        <updated>2023-08-02T08:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[~5x from this signal on $EMBR new launch a few hours ago. Once you integrate @ChainEDGE_io into your DEX trading workflow, you won't look back. You ca...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1686623622352326656</id>
         <link href="https://twitter.com/OnChainWizard/status/1686623622352326656"/>
@@ -609,6 +887,62 @@ Silent Protocol 是一個支援鏈上「半隱私」交互所有合約和代幣�
 https://tinyurl.com/stopbeingexitliq]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习]]></title>
+        <id>https://twitter.com/8848Community/status/1686621848291938304</id>
+        <link href="https://twitter.com/8848Community/status/1686621848291938304"/>
+        <updated>2023-08-02T06:15:59.000Z</updated>
+        <summary type="html"><![CDATA[学习
+
+Kev.Ξth (🍄,🟢): new greenpill!
+all about http://sound.xyz & why we're excite about music without the middlemen.
+thx @dgreenstein1 for joining 🙃
+https://www.youtube.com/watch?v=ihQVjOnN8gs]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者可以瞧瞧]]></title>
+        <id>https://twitter.com/8848Community/status/1686619665920036864</id>
+        <link href="https://twitter.com/8848Community/status/1686619665920036864"/>
+        <updated>2023-08-02T06:07:18.000Z</updated>
+        <summary type="html"><![CDATA[开发者可以瞧瞧
+
+Monad: Builders, dreamers & doers – we are launching a Monad developer grant program! 💜
+Your boldest ideas could get you up to $100k in grant funding!
+We are redefining the possibilities of the EVM, and we need your help 🤝👇]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街]]></title>
+        <id>https://twitter.com/8848Community/status/1686605349544235008</id>
+        <link href="https://twitter.com/8848Community/status/1686605349544235008"/>
+        <updated>2023-08-02T05:10:25.000Z</updated>
+        <summary type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街
+
+
+mySwap - Starknet AMM: 💎1st #NFTGiveaway of mySwap Quest, Mission 2💎
+Aurora's Ember NFT holds the potential to guide its owners to earn the best yield on mySwap.
+Possession of Aurora's Ember NFT opens doors to future opportunities.
+Claim your #YieldAlchemy #NFT now!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么 人生也像冲土狗，你永远不知道你会暴富还是归零]]></title>
+        <id>https://twitter.com/8848Community/status/1686600091749216256</id>
+        <link href="https://twitter.com/8848Community/status/1686600091749216256"/>
+        <updated>2023-08-02T04:49:32.000Z</updated>
+        <summary type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么
+人生也像冲土狗，你永远不知道你会暴富还是归零]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -632,6 +966,114 @@ https://tinyurl.com/stopbeingexitliq]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这个也上coinlist了 不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了]]></title>
+        <id>https://twitter.com/8848Community/status/1686400941124456448</id>
+        <link href="https://twitter.com/8848Community/status/1686400941124456448"/>
+        <updated>2023-08-01T15:38:10.000Z</updated>
+        <summary type="html"><![CDATA[这个也上coinlist了
+不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了
+
+CHAINFLIP LABS: (1/6) The FLIP token sale has been announced for the 31st of August, in partnership with @CoinList.
+FLIP is the native utility & fee token of Chainflip, a cross chain DEX, focussing on providing users with cheap & secure cross-chain swaps. 🔗
+https://sales.coinlist.co/chainflip]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为啥这么高？你们在刷什么]]></title>
+        <id>https://twitter.com/8848Community/status/1686355952206045185</id>
+        <link href="https://twitter.com/8848Community/status/1686355952206045185"/>
+        <updated>2023-08-01T12:39:24.000Z</updated>
+        <summary type="html"><![CDATA[为啥这么高？你们在刷什么
+
+Ethereum Daily: 🚨 That's insane
+New ATH in Total Transactions on Polygon zkEVM for the first time!]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊 我也想买 50U 我愿意锁仓7个月 还是说只有大佬才能参加啊]]></title>
+        <id>https://twitter.com/8848Community/status/1686351760703766528</id>
+        <link href="https://twitter.com/8848Community/status/1686351760703766528"/>
+        <updated>2023-08-01T12:22:45.000Z</updated>
+        <summary type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊
+我也想买 50U 我愿意锁仓7个月
+还是说只有大佬才能参加啊]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></title>
+        <id>https://twitter.com/8848Community/status/1686310125563453440</id>
+        <link href="https://twitter.com/8848Community/status/1686310125563453440"/>
+        <updated>2023-08-01T09:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></title>
+        <id>https://twitter.com/8848Community/status/1686305036945764352</id>
+        <link href="https://twitter.com/8848Community/status/1686305036945764352"/>
+        <updated>2023-08-01T09:17:05.000Z</updated>
+        <summary type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩 落下了很多亏钱机会]]></title>
+        <id>https://twitter.com/8848Community/status/1686304227914928128</id>
+        <link href="https://twitter.com/8848Community/status/1686304227914928128"/>
+        <updated>2023-08-01T09:13:52.000Z</updated>
+        <summary type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩
+落下了很多亏钱机会
+
+olimpio: There's a risk of a black swan event in DeFi.
+As per Defillama, if CRV drops below $0.37, there's 300M CRV to liquidate in Aave -most from Curve's founder
+The problem? There's not a single Exchange or DeFi protocol where one can sell such a large CRV amount.
+Risks explained 🧵]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请您为本推7月的内容打分 A：优质高级 B：建议保持 C：8月别发 D：不配打分 E：狗都不看 F：一天不看浑身难受 G：纯傻逼 但是我喜欢 H：色情内容过少]]></title>
+        <id>https://twitter.com/8848Community/status/1686302707668402176</id>
+        <link href="https://twitter.com/8848Community/status/1686302707668402176"/>
+        <updated>2023-08-01T09:07:50.000Z</updated>
+        <summary type="html"><![CDATA[请您为本推7月的内容打分
+A：优质高级
+B：建议保持
+C：8月别发
+D：不配打分
+E：狗都不看
+F：一天不看浑身难受
+G：纯傻逼 但是我喜欢
+H：色情内容过少]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八月你好 七月大家发财了吗 没？ 不要紧 可能八月也没]]></title>
+        <id>https://twitter.com/8848Community/status/1686301052294008832</id>
+        <link href="https://twitter.com/8848Community/status/1686301052294008832"/>
+        <updated>2023-08-01T09:01:15.000Z</updated>
+        <summary type="html"><![CDATA[八月你好
+七月大家发财了吗
+没？
+不要紧
+可能八月也没]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></title>
         <id>https://twitter.com/DeFi_educator/status/1686194393391210496</id>
         <link href="https://twitter.com/DeFi_educator/status/1686194393391210496"/>
@@ -639,6 +1081,31 @@ https://tinyurl.com/stopbeingexitliq]]></summary>
         <summary type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT monetsupply.eth: some dashboards i'm watching rn 1) @BlockAnalitica aave risk dashboard shows collateral and debt composition, position health, liq...]]></title>
+        <id>https://twitter.com/MonetSupply/status/1686112567410765824</id>
+        <link href="https://twitter.com/MonetSupply/status/1686112567410765824"/>
+        <updated>2023-07-31T20:32:17.000Z</updated>
+        <summary type="html"><![CDATA[RT monetsupply.eth
+some dashboards i'm watching rn
+1) @BlockAnalitica aave risk dashboard
+shows collateral and debt composition, position health, liquidity, buffer vs liquidation, and recent actions
+https://aave.blockanalitica.com/v2/ethereum/wallets/0x7a16ff8270133f063aab6c9977183d9e72835428/]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要再赚啦 你们不要再赚啦]]></title>
+        <id>https://twitter.com/8848Community/status/1685683587528773632</id>
+        <link href="https://twitter.com/8848Community/status/1685683587528773632"/>
+        <updated>2023-07-30T16:07:40.000Z</updated>
+        <summary type="html"><![CDATA[不要再赚啦
+你们不要再赚啦]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -661,6 +1128,20 @@ Gm to all the onchain enjoyooors trying to find the next 10x while evading devs 
 All your Flash 1.0 yield rates in one image:]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[很多币跌了之后 懂哥开始教团队做事 舔狗开始屌懂哥 dev出来画饼说要做这个做那个 每个人都在钻牛角尖]]></title>
+        <id>https://twitter.com/8848Community/status/1684478135860187136</id>
+        <link href="https://twitter.com/8848Community/status/1684478135860187136"/>
+        <updated>2023-07-27T08:17:38.000Z</updated>
+        <summary type="html"><![CDATA[很多币跌了之后 
+懂哥开始教团队做事 
+舔狗开始屌懂哥 
+dev出来画饼说要做这个做那个
+每个人都在钻牛角尖]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -767,6 +1248,16 @@ New twitter logo looks a lot like ours... 🤔]]></summary>
         <summary type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to not be at the top hole, because gravity.]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></title>
+        <id>https://twitter.com/8848Community/status/1681313913064009729</id>
+        <link href="https://twitter.com/8848Community/status/1681313913064009729"/>
+        <updated>2023-07-18T14:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptoyaya_ 😭😭😭]]></summary>
+        <author>
+            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
