@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-12T05:10:38.353Z</id>
+    <id>urn:2023-08-12T06:14:09.308Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-12T05:10:38.353Z</updated>
+    <updated>2023-08-12T06:14:09.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -177,20 +177,6 @@ https://www.coindesk.com/business/2023/08/11/struggling-crypto-custodian-prime-t
         <summary type="html"><![CDATA[Re @AlemzadehC Lmao if this happens I will send u some eth]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT EigenLayer: Exciting news! EigenLayer will raise the cap for LST restaking on Aug 22 at 7am PT. A global pause will take place if any one LST hits ...]]></title>
-        <id>https://twitter.com/eigenlayer/status/1690115435923214340</id>
-        <link href="https://twitter.com/eigenlayer/status/1690115435923214340"/>
-        <updated>2023-08-11T21:38:15.000Z</updated>
-        <summary type="html"><![CDATA[RT EigenLayer
-Exciting news! EigenLayer will raise the cap for LST restaking on Aug 22 at 7am PT.
-A global pause will take place if any one LST hits approximately 100k ETH restaked.
-Read the blog post for full details 👇
-https://www.blog.eigenlayer.xyz/eigenlayer-announces-new-cap-increase-for-liquid-staking-tokens-lsts/]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -417,53 +403,6 @@ v11 contains a number of updates to core dependencies and a variety of fixes. It
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为啥我学会撸毛的时候，到处都是链给我撸，买e的钱都不够了]]></title>
-        <id>https://twitter.com/8848Community/status/1689967861002039296</id>
-        <link href="https://twitter.com/8848Community/status/1689967861002039296"/>
-        <updated>2023-08-11T11:51:50.000Z</updated>
-        <summary type="html"><![CDATA[为啥我学会撸毛的时候，到处都是链给我撸，买e的钱都不够了
-
-DeBank: 1/7
-We're excited to announce DeBank Chain, aiming to become the Asset Layer for Social!
-We're launching the Testnet today and it's planned to roll out the Mainnet in 2024.]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘿嘿嘿，又给一条让你们撸的链]]></title>
-        <id>https://twitter.com/8848Community/status/1689967047931985921</id>
-        <link href="https://twitter.com/8848Community/status/1689967047931985921"/>
-        <updated>2023-08-11T11:48:36.000Z</updated>
-        <summary type="html"><![CDATA[嘿嘿嘿，又给一条让你们撸的链]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @baofuliu @arbitrum @SIQIZHOU17 以后怎么办啊]]></title>
-        <id>https://twitter.com/8848Community/status/1689927194007805952</id>
-        <link href="https://twitter.com/8848Community/status/1689927194007805952"/>
-        <updated>2023-08-11T09:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @baofuliu @arbitrum @SIQIZHOU17 以后怎么办啊]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Linea: 📣Linea fam! #DYK that you can now bridge your favorite ERC20 tokens and stablecoins like USDC, USDT and DAI on Linea and play with a vari...]]></title>
-        <id>https://twitter.com/LineaBuild/status/1689626550390472704</id>
-        <link href="https://twitter.com/LineaBuild/status/1689626550390472704"/>
-        <updated>2023-08-10T13:15:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Linea
-📣Linea fam!
-#DYK that you can now bridge your favorite ERC20 tokens and stablecoins like USDC, USDT and DAI on Linea and play with a variety of dapps or take part in campaigns live on Linea?
-Check out some of our bridge partners that can already help you on your journey 🧵👇]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Variant Perception: Re @EconBerger Corporates are hoarding labor even while hours worked are dropping... will put pressure on operating margins...]]></title>
         <id>https://twitter.com/VrntPerception/status/1689064968682082306</id>
         <link href="https://twitter.com/VrntPerception/status/1689064968682082306"/>
@@ -475,67 +414,6 @@ Re @EconBerger Corporates are hoarding labor even while hours worked are droppin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1688986950009561088</id>
-        <link href="https://twitter.com/DeFi_educator/status/1688986950009561088"/>
-        <updated>2023-08-08T18:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Lucky: RLB Revamped Tokenomics 🔥
-~1 month ago we publicly stated that our primary goal is to make RLB the cornerstone of Rollbit.
-Today we will deliver on that promise through launching the most impactful and highly anticipated feature to date: Buy & Burn
-From today onwards, revenue…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真的，有些天选之子，22/23年入圈就是赚百万、千万、过亿。我在币圈那么久还是穷b，真的惭愧]]></title>
-        <id>https://twitter.com/8848Community/status/1688763145362550784</id>
-        <link href="https://twitter.com/8848Community/status/1688763145362550784"/>
-        <updated>2023-08-08T04:04:44.000Z</updated>
-        <summary type="html"><![CDATA[真的，有些天选之子，22/23年入圈就是赚百万、千万、过亿。我在币圈那么久还是穷b，真的惭愧]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Literal pvp… can’t get more degen than this]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1688739255873384448</id>
-        <link href="https://twitter.com/DeFi_educator/status/1688739255873384448"/>
-        <updated>2023-08-08T02:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Literal pvp… can’t get more degen than this
-
-McKenna: There's an on-chain game of russian roulette where people are betting $10k per round.
-If you lose you lose everything. 90% of your stake goes to other players and 10% is burnt/rev share.
-The Telegram is absolutely wild.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 𝐓𝐗𝐌𝐂: I find myself repeatedly coming back to this 70-year chart of the disparity between ⚫️real and 🔴nominal US GDP on a 5yr roll...]]></title>
-        <id>https://twitter.com/TXMCtrades/status/1688642966020038656</id>
-        <link href="https://twitter.com/TXMCtrades/status/1688642966020038656"/>
-        <updated>2023-08-07T20:07:11.000Z</updated>
-        <summary type="html"><![CDATA[RT 𝐓𝐗𝐌𝐂
-I find myself repeatedly coming back to this 70-year chart of the disparity between ⚫️real and 🔴nominal US GDP on a 5yr rolling basis.
-Nominal GDP is juiced to the moon, but the peak of real GDP growth in dollar terms was all the way back in 2000. Structurally lower highs since…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pashov: The new Paypal USD stablecoin has an "assetProtection" role which can wipe your balance in two transactions (first `freeze`, then `wipeFroz...]]></title>
-        <id>https://twitter.com/pashovkrum/status/1688591468498239496</id>
-        <link href="https://twitter.com/pashovkrum/status/1688591468498239496"/>
-        <updated>2023-08-07T16:42:33.000Z</updated>
-        <summary type="html"><![CDATA[RT pashov
-The new Paypal USD stablecoin has an "assetProtection" role which can wipe your balance in two transactions (first `freeze`, then `wipeFrozenAddress`)
-In smart contract security we call this a "centralisation attack vector"]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I just minted my FarQuest pass on http://farquest.app, using @bebprotocol!]]></title>
         <id>https://twitter.com/AntCaveClub/status/1688449368616316929</id>
         <link href="https://twitter.com/AntCaveClub/status/1688449368616316929"/>
@@ -543,16 +421,6 @@ In smart contract security we call this a "centralisation attack vector"]]></sum
         <summary type="html"><![CDATA[I just minted my FarQuest pass on http://farquest.app, using @bebprotocol!]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他问可不可以带他进币圈]]></title>
-        <id>https://twitter.com/8848Community/status/1688199413678907392</id>
-        <link href="https://twitter.com/8848Community/status/1688199413678907392"/>
-        <updated>2023-08-06T14:44:40.000Z</updated>
-        <summary type="html"><![CDATA[他问可不可以带他进币圈]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
         </author>
     </entry>
     <entry>
@@ -599,304 +467,6 @@ https://moailabs.medium.com/moai-labs-to-drop-genesis-epoch-to-flash-token-holde
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @zGuz Outrageous. Just cancelled my lifetime subscription to the @nytimes]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1687527164797714448</id>
-        <link href="https://twitter.com/DeFi_educator/status/1687527164797714448"/>
-        <updated>2023-08-04T18:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @zGuz Outrageous. Just cancelled my lifetime subscription to the @nytimes]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NorthRockLP Then taking into consideration that that will have a 4x effect on valuation…]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1687514946068762625</id>
-        <link href="https://twitter.com/DeFi_educator/status/1687514946068762625"/>
-        <updated>2023-08-04T17:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @NorthRockLP Then taking into consideration that that will have a 4x effect on valuation…
-
-_Checkɱate 🔑⚡🌋☢️🛢️: One of the questions I am asked the most about #Bitcoin is how much capital needs to flow in/out in order to create a $1 change in Market Cap?
-There is no perfect answer, but I think I now have a pretty decent answer. Let's dive into the data 🧵
-The Realized Cap
-This metric is…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at a longer time horizon: People are underestimating the potential supply squeeze. Imagine all the bitcoin spot etf inflows that are bound to ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1687514290956226579</id>
-        <link href="https://twitter.com/DeFi_educator/status/1687514290956226579"/>
-        <updated>2023-08-04T17:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Looking at a longer time horizon:
-People are underestimating the potential supply squeeze. 
-Imagine all the bitcoin spot etf inflows that are bound to come having a 4x effect
-
-_Checkɱate 🔑⚡🌋☢️🛢️: One of the questions I am asked the most about #Bitcoin is how much capital needs to flow in/out in order to create a $1 change in Market Cap?
-There is no perfect answer, but I think I now have a pretty decent answer. Let's dive into the data 🧵
-The Realized Cap
-This metric is…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already us...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1687144549561376777</id>
-        <link href="https://twitter.com/DeFi_educator/status/1687144549561376777"/>
-        <updated>2023-08-03T16:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @jespow @HsakaTrades @krakenfx I'm the perfect example. Would happily pay for Cryptowatch to keep it alive, while I use it for free now. Already use Kraken for Onboarding/offramping, but will not see myself use kraken as my primary trading exchange in the future]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounce of trendline?]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686824716730793985</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686824716730793985"/>
-        <updated>2023-08-02T19:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Bounce of trendline?
-
-
-
-Blockworks: NEWS: Two sources tell Blockworks the SEC is now ready to consider ETH futures ETF applications
-https://blockworks.co/news/sec-consider-ether-futures-etfs/]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @News_Of_Alpha @WClementeIII]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686784258944253959</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686784258944253959"/>
-        <updated>2023-08-02T17:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @News_Of_Alpha @WClementeIII]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DeItaone]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686783923093749775</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686783923093749775"/>
-        <updated>2023-08-02T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @DeItaone]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动]]></title>
-        <id>https://twitter.com/8848Community/status/1686751673861931009</id>
-        <link href="https://twitter.com/8848Community/status/1686751673861931009"/>
-        <updated>2023-08-02T14:51:52.000Z</updated>
-        <summary type="html"><![CDATA[bungee出了一个跨进op网络补贴的活动
-
-Socket: It's official, Bridging Summer is ON 🔴
-Today we are supercharging our efforts with Socket Ecosystem to onboard users to the fast world of @optimismFND
-400K rewards go live across apps building on Socket to create the best L2 bridging experience!]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></title>
-        <id>https://twitter.com/8848Community/status/1686655983488294912</id>
-        <link href="https://twitter.com/8848Community/status/1686655983488294912"/>
-        <updated>2023-08-02T08:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @SEFATUBA3 吓死人啊，还好我亏完了]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习]]></title>
-        <id>https://twitter.com/8848Community/status/1686621848291938304</id>
-        <link href="https://twitter.com/8848Community/status/1686621848291938304"/>
-        <updated>2023-08-02T06:15:59.000Z</updated>
-        <summary type="html"><![CDATA[学习
-
-Kev.Ξth (🍄,🟢): new greenpill!
-all about http://sound.xyz & why we're excite about music without the middlemen.
-thx @dgreenstein1 for joining 🙃
-https://www.youtube.com/watch?v=ihQVjOnN8gs]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者可以瞧瞧]]></title>
-        <id>https://twitter.com/8848Community/status/1686619665920036864</id>
-        <link href="https://twitter.com/8848Community/status/1686619665920036864"/>
-        <updated>2023-08-02T06:07:18.000Z</updated>
-        <summary type="html"><![CDATA[开发者可以瞧瞧
-
-Monad: Builders, dreamers & doers – we are launching a Monad developer grant program! 💜
-Your boldest ideas could get you up to $100k in grant funding!
-We are redefining the possibilities of the EVM, and we need your help 🤝👇]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街]]></title>
-        <id>https://twitter.com/8848Community/status/1686605349544235008</id>
-        <link href="https://twitter.com/8848Community/status/1686605349544235008"/>
-        <updated>2023-08-02T05:10:25.000Z</updated>
-        <summary type="html"><![CDATA[斯塔克上的生态项目真每个月都有奥德赛啊。图片越来越精美了，不过我撸毛可不是为了欣赏图片，欣赏图片我不如去风俗街
-
-
-mySwap - Starknet AMM: 💎1st #NFTGiveaway of mySwap Quest, Mission 2💎
-Aurora's Ember NFT holds the potential to guide its owners to earn the best yield on mySwap.
-Possession of Aurora's Ember NFT opens doors to future opportunities.
-Claim your #YieldAlchemy #NFT now!]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么 人生也像冲土狗，你永远不知道你会暴富还是归零]]></title>
-        <id>https://twitter.com/8848Community/status/1686600091749216256</id>
-        <link href="https://twitter.com/8848Community/status/1686600091749216256"/>
-        <updated>2023-08-02T04:49:32.000Z</updated>
-        <summary type="html"><![CDATA[人生就像一盒巧克力，你永远不知道你会得到什么
-人生也像冲土狗，你永远不知道你会暴富还是归零]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @acimro @asxn_r @HsakaTrades Look at smart burn proposal. Maker is one of the buyers]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686480867462402049</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686480867462402049"/>
-        <updated>2023-08-01T20:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @acimro @asxn_r @HsakaTrades Look at smart burn proposal. Maker is one of the buyers]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Route2FI @safetyth1rd Think you’re mistaken on this one @Route2FI]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686427167817682974</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686427167817682974"/>
-        <updated>2023-08-01T17:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @Route2FI @safetyth1rd Think you’re mistaken on this one @Route2FI]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个也上coinlist了 不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了]]></title>
-        <id>https://twitter.com/8848Community/status/1686400941124456448</id>
-        <link href="https://twitter.com/8848Community/status/1686400941124456448"/>
-        <updated>2023-08-01T15:38:10.000Z</updated>
-        <summary type="html"><![CDATA[这个也上coinlist了
-不过上次说nft不空投后，感觉他们DC仅剩那几个活人也没了
-
-CHAINFLIP LABS: (1/6) The FLIP token sale has been announced for the 31st of August, in partnership with @CoinList.
-FLIP is the native utility & fee token of Chainflip, a cross chain DEX, focussing on providing users with cheap & secure cross-chain swaps. 🔗
-https://sales.coinlist.co/chainflip]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥这么高？你们在刷什么]]></title>
-        <id>https://twitter.com/8848Community/status/1686355952206045185</id>
-        <link href="https://twitter.com/8848Community/status/1686355952206045185"/>
-        <updated>2023-08-01T12:39:24.000Z</updated>
-        <summary type="html"><![CDATA[为啥这么高？你们在刷什么
-
-Ethereum Daily: 🚨 That's insane
-New ATH in Total Transactions on Polygon zkEVM for the first time!]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊 我也想买 50U 我愿意锁仓7个月 还是说只有大佬才能参加啊]]></title>
-        <id>https://twitter.com/8848Community/status/1686351760703766528</id>
-        <link href="https://twitter.com/8848Community/status/1686351760703766528"/>
-        <updated>2023-08-01T12:22:45.000Z</updated>
-        <summary type="html"><![CDATA[哪里能场外 OTC 买 $CRV 救 Curve 啊
-我也想买 50U 我愿意锁仓7个月
-还是说只有大佬才能参加啊]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></title>
-        <id>https://twitter.com/8848Community/status/1686310125563453440</id>
-        <link href="https://twitter.com/8848Community/status/1686310125563453440"/>
-        <updated>2023-08-01T09:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xanonnnn 黑奴的下场]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></title>
-        <id>https://twitter.com/8848Community/status/1686305036945764352</id>
-        <link href="https://twitter.com/8848Community/status/1686305036945764352"/>
-        <updated>2023-08-01T09:17:05.000Z</updated>
-        <summary type="html"><![CDATA[✨E✨t✨h✨e✨r✨e✨u✨m✨]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩 落下了很多亏钱机会]]></title>
-        <id>https://twitter.com/8848Community/status/1686304227914928128</id>
-        <link href="https://twitter.com/8848Community/status/1686304227914928128"/>
-        <updated>2023-08-01T09:13:52.000Z</updated>
-        <summary type="html"><![CDATA[紧跟学习一番CRV最近的状况，7月都在外面玩
-落下了很多亏钱机会
-
-olimpio: There's a risk of a black swan event in DeFi.
-As per Defillama, if CRV drops below $0.37, there's 300M CRV to liquidate in Aave -most from Curve's founder
-The problem? There's not a single Exchange or DeFi protocol where one can sell such a large CRV amount.
-Risks explained 🧵]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1686194393391210496</id>
-        <link href="https://twitter.com/DeFi_educator/status/1686194393391210496"/>
-        <updated>2023-08-01T01:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @CryptoDamus411 Good take, couldn’t agree more]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT monetsupply.eth: some dashboards i'm watching rn 1) @BlockAnalitica aave risk dashboard shows collateral and debt composition, position health, liq...]]></title>
-        <id>https://twitter.com/MonetSupply/status/1686112567410765824</id>
-        <link href="https://twitter.com/MonetSupply/status/1686112567410765824"/>
-        <updated>2023-07-31T20:32:17.000Z</updated>
-        <summary type="html"><![CDATA[RT monetsupply.eth
-some dashboards i'm watching rn
-1) @BlockAnalitica aave risk dashboard
-shows collateral and debt composition, position health, liquidity, buffer vs liquidation, and recent actions
-https://aave.blockanalitica.com/v2/ethereum/wallets/0x7a16ff8270133f063aab6c9977183d9e72835428/]]></summary>
-        <author>
-            <name>8848 社区（8848 Community）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hsaka: Gm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwic...]]></title>
-        <id>https://twitter.com/HsakaTrades/status/1685268311565553664</id>
-        <link href="https://twitter.com/HsakaTrades/status/1685268311565553664"/>
-        <updated>2023-07-29T12:37:30.000Z</updated>
-        <summary type="html"><![CDATA[RT Hsaka
-Gm to all the onchain enjoyooors trying to find the next 10x while evading devs dumping, chain checkooors snooping for FUD, MEV bots sandwiching, forks siphoning liquidity, and a wild appearance of directTransfer.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Flashstake (⚡,⏳): All your Flash 1.0 yield rates in one image:]]></title>
         <id>https://twitter.com/Flashstake/status/1685258780005793792</id>
         <link href="https://twitter.com/Flashstake/status/1685258780005793792"/>
@@ -908,18 +478,6 @@ All your Flash 1.0 yield rates in one image:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT DeFi Made Here: 1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to lau...]]></title>
-        <id>https://twitter.com/DeFi_Made_Here/status/1684233479607705601</id>
-        <link href="https://twitter.com/DeFi_Made_Here/status/1684233479607705601"/>
-        <updated>2023-07-26T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[RT DeFi Made Here
-1/🧵 On-chain Derivatives sector is the most competitive in DeFi with dozens of protocols live and many new projects about to launch.
-Follow this thread for the Key Metrics analysis on $GMX $SNX $GNS $PERP $LVL $MUX and more]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @tr_dex_td 0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></title>
         <id>https://twitter.com/AntCaveClub/status/1684195868931678208</id>
         <link href="https://twitter.com/AntCaveClub/status/1684195868931678208"/>
@@ -927,30 +485,6 @@ Follow this thread for the Key Metrics analysis on $GMX $SNX $GNS $PERP $LVL $MU
         <summary type="html"><![CDATA[Re @tr_dex_td 0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Rune Østgård: Today I will explain one of the most powerful graphs you will ever see in your whole life. But before we look at the graph, I can m...]]></title>
-        <id>https://twitter.com/enur72/status/1684101128391098368</id>
-        <link href="https://twitter.com/enur72/status/1684101128391098368"/>
-        <updated>2023-07-26T07:19:32.000Z</updated>
-        <summary type="html"><![CDATA[RT Rune Østgård
-Today I will explain one of the most powerful graphs you will ever see in your whole life.
-But before we look at the graph, I can mention that about 60% of Americans invest in stocks and about 50% of Norwegians invest in securities funds. 
-Few know that the value of their…]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alex Kaplan: Today might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient te...]]></title>
-        <id>https://twitter.com/alexkaplan0/status/1684044616528453633</id>
-        <link href="https://twitter.com/alexkaplan0/status/1684044616528453633"/>
-        <updated>2023-07-26T03:34:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Alex Kaplan
-Today might have seen the biggest physics discovery of my lifetime. I don't think people fully grasp the implications of an ambient temperature / pressure superconductor. Here's how it could totally change our lives.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -983,16 +517,6 @@ Today might have seen the biggest physics discovery of my lifetime. I don't thin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @NoContextHumans]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1683626904144736256</id>
-        <link href="https://twitter.com/DeFi_educator/status/1683626904144736256"/>
-        <updated>2023-07-24T23:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @NoContextHumans]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT dYdX: New twitter logo looks a lot like ours... 🤔]]></title>
         <id>https://twitter.com/dYdX/status/1683510473700810753</id>
         <link href="https://twitter.com/dYdX/status/1683510473700810753"/>
@@ -1001,16 +525,6 @@ Today might have seen the biggest physics discovery of my lifetime. I don't thin
 New twitter logo looks a lot like ours... 🤔]]></summary>
         <author>
             <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1682019384292782080</id>
-        <link href="https://twitter.com/DeFi_educator/status/1682019384292782080"/>
-        <updated>2023-07-20T13:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @RNR_0 Technically it’s not a probability of 1/6. If 5/6 chambers are empty then bullet will be heavier. So when you spin it it’s more likely to not be at the top hole, because gravity.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
