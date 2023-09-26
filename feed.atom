@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T22:11:45.440Z</id>
+    <id>urn:2023-09-26T23:11:57.808Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T22:11:45.440Z</updated>
+    <updated>2023-09-26T23:11:57.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[My first $tip @tipcoineth]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1699004063294374266</id>
-        <link href="https://twitter.com/AntCaveClub/status/1699004063294374266"/>
-        <updated>2023-09-05T10:18:29.000Z</updated>
-        <summary type="html"><![CDATA[My first $tip @tipcoineth]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tipcoin: The first TipCoin Epoch is live! Sign Up Now: https://thetipcoin.io/ Share. Tip. Repeat $tip]]></title>
-        <id>https://twitter.com/tipcoineth/status/1697580061703245987</id>
-        <link href="https://twitter.com/tipcoineth/status/1697580061703245987"/>
-        <updated>2023-09-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RT tipcoin
-The first TipCoin Epoch is live!
-Sign Up Now: https://thetipcoin.io/
-Share. Tip. Repeat
-$tip]]></summary>
-        <author>
-            <name>链求君 | (C,C)</name>
-        </author>
-    </entry>
 </feed>
