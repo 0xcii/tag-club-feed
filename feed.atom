@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-03T06:15:39.538Z</id>
+    <id>urn:2023-12-03T07:10:59.878Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-03T06:15:39.538Z</updated>
+    <updated>2023-12-03T07:10:59.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Chainlink 数据，Arbitrum 上 wstETH/ETH 喂价在 12 月 2 日 11:00-11:21 AM 发生了剧烈波动，一度达 1.4322，这可能是 11:00 时发生在 Balancer v...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1731204255208624238</id>
+        <link href="https://twitter.com/wublockchain12/status/1731204255208624238"/>
+        <updated>2023-12-03T06:50:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Chainlink 数据，Arbitrum 上 wstETH/ETH 喂价在 12 月 2 日 11:00-11:21 AM 发生了剧烈波动，一度达 1.4322，这可能是 11:00 时发生在 Balancer v2 上的两笔大额买卖交易导致的，0x08...5539 控制的 MEV Bot 在极短时间内买入 214 万美元… https://twitter.com/i/web/status/1731204255208624238]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一周热门项目动态: Starknet 快照已截止、Cosmos 分叉方案、Chainlink Stake v0.2 上线等（1126-1202） https://www.wublock123.com/index.php?m=content&c=inde...]]></title>
         <id>https://twitter.com/wublockchain12/status/1731181674422309232</id>
@@ -331,16 +341,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21189]]
         <link href="https://twitter.com/wublockchain12/status/1730761647462207684"/>
         <updated>2023-12-02T01:31:47.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Solana DEX 聚合器 Jupiter 宣布，该项目已开启 JUP 代币空投的首轮申领。此前 Jupiter公布的空投信息显示，JUP 总量 100 亿枚，其中 40% 将通过 4 轮空投分配给社区，首轮将分配 10%（10 亿枚），在 11 月 2 日之前直接与 Jupiter 交互的 95.5 万个钱包有资格获得空投。… https://twitter.com/i/web/status/1730761647462207684]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，11 月多个公链链上交易量迎来显著增长。Avalanche 链上交易量环比增长 167% 达 27.3 亿美元，为自去年 7 月以来高点；Cosmos 生态...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1730760490383765941</id>
-        <link href="https://twitter.com/wublockchain12/status/1730760490383765941"/>
-        <updated>2023-12-02T01:27:11.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DeFiLlama 数据，11 月多个公链链上交易量迎来显著增长。Avalanche 链上交易量环比增长 167% 达 27.3 亿美元，为自去年 7 月以来高点；Cosmos 生态 Osmosis 交易量环比增长 113% 达 4.9 亿美元，捕获费用达 86.1 万美元，创下自去年 10 月以来高点；此外，Solana、ThorChain 和 Sui… https://twitter.com/i/web/status/1730760490383765941]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -1068,19 +1068,6 @@ $DROP: 🟨 NO PROMISES.
 🟨 NOTHING MORE THAN $DROP!]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三年了呐，很多人也该毕业了 那就这样吧，体面地结束挺好 悄悄地，再见啦，谢谢你们啊 https://www.youtube.com/watch?v=6lbPgfKK7m4]]></title>
-        <id>https://twitter.com/8848Community/status/1720505735090700375</id>
-        <link href="https://twitter.com/8848Community/status/1720505735090700375"/>
-        <updated>2023-11-03T18:18:27.000Z</updated>
-        <summary type="html"><![CDATA[三年了呐，很多人也该毕业了
-那就这样吧，体面地结束挺好
-悄悄地，再见啦，谢谢你们啊
-https://www.youtube.com/watch?v=6lbPgfKK7m4]]></summary>
-        <author>
-            <name>Deleted Account</name>
         </author>
     </entry>
 </feed>
