@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T09:13:16.561Z</id>
+    <id>urn:2023-12-06T10:14:04.843Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T09:13:16.561Z</updated>
+    <updated>2023-12-06T10:14:04.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @nake13 指出，对 Luke Dashjr 更合理的称呼是 Bitcoin Core 客户端开发者，其同时为 Core 和 Knots 提供代码，本次的 Bitcoin Knots 25.1 的更新文档主要由...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
+        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
+        <updated>2023-12-06T08:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @nake13 指出，对 Luke Dashjr 更合理的称呼是 Bitcoin Core 客户端开发者，其同时为 Core 和 Knots 提供代码，本次的 Bitcoin Knots 25.1 的更新文档主要由其本人编写；Luke 是 OCEAN 矿池 CTO，OCEAN Mining 会使用该客户端，该矿池最近得到了 Jack Dorsey 支持；在 Bitcoin Knots 的 25.1… https://twitter.com/i/web/status/1732318420237259259]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安发布公告称，由于社区对 AEUR 反响热烈，且部分用户购买时未意识到 AEUR 为稳定币，短期内需求量激增，导致价格出现偏差。将按照以下方案为受影响...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732317685537718312</id>
+        <link href="https://twitter.com/wublockchain12/status/1732317685537718312"/>
+        <updated>2023-12-06T08:34:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安发布公告称，由于社区对 AEUR 反响热烈，且部分用户购买时未意识到 AEUR 为稳定币，短期内需求量激增，导致价格出现偏差。将按照以下方案为受影响的用户提供赔偿：单个符合条件的用户赔付 =（用户的 AEUR 净购买量 * 用户的 AEUR 平均买入价格）-（用户的 AEUR 净购买量 * 1.07999… https://twitter.com/i/web/status/1732317685537718312]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，在比特币开发者 Luke Dashjr 发文将要禁用铭文后，一名用户（bc1puc…25e60e）在 11:27-12:41 UTC+8 间将 5.9 万 ORDI（价值约 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732315776470921595</id>
+        <link href="https://twitter.com/wublockchain12/status/1732315776470921595"/>
+        <updated>2023-12-06T08:27:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，在比特币开发者 Luke Dashjr 发文将要禁用铭文后，一名用户（bc1puc…25e60e）在 11:27-12:41 UTC+8 间将 5.9 万 ORDI（价值约 354 万美元）转入 Binance。该名用户最初在 11 月 22 日从 Binance 提取了 6.5 万 ORDI。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21322]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @tmel0211 表示，Bitcoin v25.1. 版本中给矿工一个开关来选择是否要打包超出 SIZE 的交易。但由于矿工从中受益，没有矿工会选择关闭。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
+        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
+        <updated>2023-12-06T06:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @tmel0211 表示，Bitcoin v25.1. 版本中给矿工一个开关来选择是否要打包超出 SIZE 的交易。但由于矿工从中受益，没有矿工会选择关闭。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wooooer 分析指出：Luke 在 knots 中针对过滤所谓的比特币欺诈交易设置了两个主要参数限制；datacarriersize 主要限制基于 op-return 携带数据大小，即那些...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
+        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
+        <updated>2023-12-06T06:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @wooooer 分析指出：Luke 在 knots 中针对过滤所谓的比特币欺诈交易设置了两个主要参数限制；datacarriersize 主要限制基于 op-return 携带数据大小，即那些将数据写在 UTXO 的 output 部分；maxscriptsize 限制基于 TaprootScript 的铭文协议，其数据刻在 UTXO 的 witness 字段中。如果 Luke… https://twitter.com/i/web/status/1732289095488135241
+
+吴说区块链: 吴说获悉，比特币核心开发者 Luke Dashjr 发文称， "铭文"正在利用 Bitcoin Core 的漏洞对区块链进行垃圾邮件攻击。自 2013 年以来，Bitcoin Core 允许用户设置在中继或挖矿交易时额外数据大小的限制。通过将其数据模糊为程序代码，铭文绕过了这一限制。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原 SEC 官员、比特币批判者 John Reed Stark 表示，“SEC 有 90% 可能性批准比特币现货 ETF”的观点是荒谬的；SEC 可以努力向申请人提供指示但最终告诉申请人“...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732288282636206308</id>
+        <link href="https://twitter.com/wublockchain12/status/1732288282636206308"/>
+        <updated>2023-12-06T06:38:05.000Z</updated>
+        <summary type="html"><![CDATA[原 SEC 官员、比特币批判者 John Reed Stark 表示，“SEC 有 90% 可能性批准比特币现货 ETF”的观点是荒谬的；SEC 可以努力向申请人提供指示但最终告诉申请人“我们给了你们一切成功的机会，但最终你们没有达到要求”；有无数的立案案件和正在进行的非公开调查，意味着比特币现货 ETF… https://twitter.com/i/web/status/1732288282636206308]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据明报，香港金管局总裁余伟文表示，该局与政府将于明年2月合办「绿色金融周」。此外，金管局准备发行第二次代币化绿债，料于未来几个月内推出，正研究将赎回的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732276584936358003</id>
+        <link href="https://twitter.com/wublockchain12/status/1732276584936358003"/>
+        <updated>2023-12-06T05:51:36.000Z</updated>
+        <summary type="html"><![CDATA[据明报，香港金管局总裁余伟文表示，该局与政府将于明年2月合办「绿色金融周」。此外，金管局准备发行第二次代币化绿债，料于未来几个月内推出，正研究将赎回的流程于区块链内进行，增加其运作效率。金管局亦正研究利用区块链技术及物联网（IOT），加入代币化绿债上，令债券持有者清楚了解自身所投资的… https://twitter.com/i/web/status/1732276584936358003]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据《金融时报》报道，法国第三大银行法国兴业银行周三将在卢森堡交易所 Bitstamp 首次推出自己的稳定币 EUR CoinVertible 交易，该代币将完全由欧元支持，并且是...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732274317797519582</id>
+        <link href="https://twitter.com/wublockchain12/status/1732274317797519582"/>
+        <updated>2023-12-06T05:42:36.000Z</updated>
+        <summary type="html"><![CDATA[据《金融时报》报道，法国第三大银行法国兴业银行周三将在卢森堡交易所 Bitstamp 首次推出自己的稳定币 EUR CoinVertible 交易，该代币将完全由欧元支持，并且是为了符合 Mica… https://twitter.com/i/web/status/1732274317797519582]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙宇晨发推表示，希望听听大家对四个关键举措的看法：第一，加强对波场的铭文支持；其次，将 Tron 与 BRC20 集成；第三，推出 1 亿美元的 Tron 开发者基金；第四...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732267125975490837</id>
+        <link href="https://twitter.com/wublockchain12/status/1732267125975490837"/>
+        <updated>2023-12-06T05:14:01.000Z</updated>
+        <summary type="html"><![CDATA[孙宇晨发推表示，希望听听大家对四个关键举措的看法：第一，加强对波场的铭文支持；其次，将 Tron 与 BRC20 集成；第三，推出 1 亿美元的 Tron 开发者基金；第四，降低 Gas 成本以吸引更多开发者和用户使用 Tron。不过社区普遍认为这是孙宇晨惯常的“蹭热点”举动。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21318]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 鱼池联合创始人神鱼表示：比特币不是以太坊，开发者说了不算。]]></title>
         <id>https://twitter.com/wublockchain12/status/1732223260866322457</id>
@@ -110,76 +202,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=21317]
         <link href="https://twitter.com/wublockchain12/status/1732223260866322457"/>
         <updated>2023-12-06T02:19:43.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，比特币核心开发者 Luke Dashjr 发文称， "铭文"正在利用 Bitcoin Core 的漏洞对区块链进行垃圾邮件攻击。自 2013 年以来，Bitcoin Core 允许用户设置在中继或挖矿交易时额外数据大小的限制。通过将其数据模糊为程序代码，铭文绕过了这一限制。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞士城市卢加诺于 12 月 5 日正式宣布，当地政府现在接受加密货币 BTC 和 USDT 支付税款和所有其它社区费用。卢加诺居民可以通过扫描发票上的瑞士二维码账单的代...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732214152859672737</id>
-        <link href="https://twitter.com/wublockchain12/status/1732214152859672737"/>
-        <updated>2023-12-06T01:43:31.000Z</updated>
-        <summary type="html"><![CDATA[瑞士城市卢加诺于 12 月 5 日正式宣布，当地政府现在接受加密货币 BTC 和 USDT 支付税款和所有其它社区费用。卢加诺居民可以通过扫描发票上的瑞士二维码账单的代码，并使用其首选的移动钱包和所选的加密货币支付税款或服务。该措施是卢加诺与 Tether… https://twitter.com/i/web/status/1732214152859672737]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 mempool 数据，当前 Bitcoin 网络处于拥堵状态，有超过 28 万笔交易待确认，内存池使用量超过了 300 MB 达到了 1.57GB，最低交易费用超过了 220 sa...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732214006243606541</id>
-        <link href="https://twitter.com/wublockchain12/status/1732214006243606541"/>
-        <updated>2023-12-06T01:42:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 mempool 数据，当前 Bitcoin 网络处于拥堵状态，有超过 28 万笔交易待确认，内存池使用量超过了 300 MB 达到了 1.57GB，最低交易费用超过了 220 sat/vB。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=21314]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Synthetix 创始人 Kain Warwick 发布 SIP-2043：结束 SNX 通胀草案，提议将每周 SNX 通胀率降至零。其认为 SNX 通胀激励的有效性已显著下降，通胀率目...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732211319288570067</id>
-        <link href="https://twitter.com/wublockchain12/status/1732211319288570067"/>
-        <updated>2023-12-06T01:32:16.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Synthetix 创始人 Kain Warwick 发布 SIP-2043：结束 SNX 通胀草案，提议将每周 SNX 通胀率降至零。其认为 SNX 通胀激励的有效性已显著下降，通胀率目前处于较低的个位数，对质押者已没有意义。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=21312]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据显示，比特币在过去 24 小时涨幅达到5.5%，最高达到44367美金，比特币市值占比已突破51.2%。值得注意的是，主要加密货币中仅有 AVAX DOT 等 24 小时涨幅超过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732210710426611791</id>
-        <link href="https://twitter.com/wublockchain12/status/1732210710426611791"/>
-        <updated>2023-12-06T01:29:50.000Z</updated>
-        <summary type="html"><![CDATA[数据显示，比特币在过去 24 小时涨幅达到5.5%，最高达到44367美金，比特币市值占比已突破51.2%。值得注意的是，主要加密货币中仅有 AVAX DOT 等 24 小时涨幅超过比特币，显示比特币相较于其他加密货币走出一定的独立行情。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21311]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西数字银行 Nubank 宣布与 Talos 建立合作伙伴关系并进行整合，旨在降低加密货币交易成本。Nu app 以巴西雷亚尔进行加密资产交易的客户将受益于通过 Talos 的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732208563223929087</id>
-        <link href="https://twitter.com/wublockchain12/status/1732208563223929087"/>
-        <updated>2023-12-06T01:21:19.000Z</updated>
-        <summary type="html"><![CDATA[巴西数字银行 Nubank 宣布与 Talos 建立合作伙伴关系并进行整合，旨在降低加密货币交易成本。Nu app 以巴西雷亚尔进行加密资产交易的客户将受益于通过 Talos 的智能订单路由引擎和连接来降低成本，从而优化多个流动性提供商之间的交易执行。Nubank 为巴西、墨西哥和哥伦比亚的 9000… https://twitter.com/i/web/status/1732208563223929087]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与欧元挂钩的稳定币 AEUR 于 12 月 4 日在币安上线后价格一度上涨近 200%，AEUR/USDT 交易对触达 3.25 美元的高点，由于价格波动较大，币安宣布已于 12 月 6 日 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732206255304069336</id>
-        <link href="https://twitter.com/wublockchain12/status/1732206255304069336"/>
-        <updated>2023-12-06T01:12:08.000Z</updated>
-        <summary type="html"><![CDATA[与欧元挂钩的稳定币 AEUR 于 12 月 4 日在币安上线后价格一度上涨近 200%，AEUR/USDT 交易对触达 3.25 美元的高点，由于价格波动较大，币安宣布已于 12 月 6 日 2:31:59 暂停 AEUR/USDT、BTC/AEUR、ETH/AEUR 和 EUR/AEUR 现货交易对交易。币安订单簿显示，最后一笔交易执行价格约为 2.89 美元，仍高出… https://twitter.com/i/web/status/1732206255304069336]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM 宣布推出新的加密资产冷存储技术，降低与手动程序相关的风险，同时使资产与互联网连接保持一定距离。其 IBM Hyper Protect Offline Signing Orchestrator (O...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732203551768911969</id>
-        <link href="https://twitter.com/wublockchain12/status/1732203551768911969"/>
-        <updated>2023-12-06T01:01:24.000Z</updated>
-        <summary type="html"><![CDATA[IBM 宣布推出新的加密资产冷存储技术，降低与手动程序相关的风险，同时使资产与互联网连接保持一定距离。其 IBM Hyper Protect Offline Signing Orchestrator (OSO) 通过提供断开网络操作、基于时间的安全性和电子签名等额外的安全层来帮助保护高价值交易。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21308]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
