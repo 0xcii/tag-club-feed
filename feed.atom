@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T05:12:27.207Z</id>
+    <id>urn:2023-12-06T06:17:04.458Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T05:12:27.207Z</updated>
+    <updated>2023-12-06T06:17:04.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 鱼池联合创始人神鱼表示：比特币不是以太坊，开发者说了不算。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732223260866322457</id>
+        <link href="https://twitter.com/wublockchain12/status/1732223260866322457"/>
+        <updated>2023-12-06T04:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 鱼池联合创始人神鱼表示：比特币不是以太坊，开发者说了不算。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据了解，今年 9 月份 Luke 已向 Bitcoin Core Github 仓库提交 PR， 即更新 “datacarriersize” 以过滤 “铭文” 这类携带新型脚本数据的交易。对此核心开发者...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732252283495424350</id>
+        <link href="https://twitter.com/wublockchain12/status/1732252283495424350"/>
+        <updated>2023-12-06T04:15:02.000Z</updated>
+        <summary type="html"><![CDATA[据了解，今年 9 月份 Luke 已向 Bitcoin Core Github 仓库提交 PR， 即更新 “datacarriersize” 以过滤 “铭文” 这类携带新型脚本数据的交易。对此核心开发者们的观点不一，反对者表示会影响矿工收入同时间接激励了私有内存池，矿工可能不会采纳；同意者认为其加重了运营节点的负担；不过值得注意的是… https://twitter.com/i/web/status/1732252283495424350
+
+吴说区块链: 吴说获悉，比特币核心开发者 Luke Dashjr 发文称， "铭文"正在利用 Bitcoin Core 的漏洞对区块链进行垃圾邮件攻击。自 2013 年以来，Bitcoin Core 允许用户设置在中继或挖矿交易时额外数据大小的限制。通过将其数据模糊为程序代码，铭文绕过了这一限制。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Luke Dashjr 在回复时表示，该漏洞修复后，意味着 Ordinals 和 BRC-20 将不复存在。https://x.com/LukeDashjr/status/1732231482536530231?s=20]]></title>
         <id>https://twitter.com/wublockchain12/status/1732223260866322457</id>
@@ -158,26 +180,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=21317]
         <link href="https://twitter.com/wublockchain12/status/1732203551768911969"/>
         <updated>2023-12-06T01:01:24.000Z</updated>
         <summary type="html"><![CDATA[IBM 宣布推出新的加密资产冷存储技术，降低与手动程序相关的风险，同时使资产与互联网连接保持一定距离。其 IBM Hyper Protect Offline Signing Orchestrator (OSO) 通过提供断开网络操作、基于时间的安全性和电子签名等额外的安全层来帮助保护高价值交易。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21308]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Teng 表示，币安已在其受监管的司法管辖区接受了审计，但拒绝透露相关审计公司的名称。并补充说该公司向监管机构提供了必要的信息。“我们有必要公开分享所有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732199602030592072</id>
-        <link href="https://twitter.com/wublockchain12/status/1732199602030592072"/>
-        <updated>2023-12-06T00:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Re Teng 表示，币安已在其受监管的司法管辖区接受了审计，但拒绝透露相关审计公司的名称。并补充说该公司向监管机构提供了必要的信息。“我们有必要公开分享所有这些信息吗？不。”https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21307]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安新任首席执行官 Richard Teng 在接受《金融时报》采访时拒绝透露币安全球总部的位置称正在考虑中，此前 CZ 坚称币安没有全球总部。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732199602030592072</id>
-        <link href="https://twitter.com/wublockchain12/status/1732199602030592072"/>
-        <updated>2023-12-06T00:45:42.000Z</updated>
-        <summary type="html"><![CDATA[币安新任首席执行官 Richard Teng 在接受《金融时报》采访时拒绝透露币安全球总部的位置称正在考虑中，此前 CZ 坚称币安没有全球总部。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
