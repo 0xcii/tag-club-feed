@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T15:14:00.442Z</id>
+    <id>urn:2023-12-06T16:17:46.846Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T15:14:00.442Z</updated>
+    <updated>2023-12-06T16:17:46.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,56 @@
         <summary type="html"><![CDATA[I just joined the Pirate Nation stowaway list! Join me on the high seas! https://piratenation.game/play/?ref=JYxuLO]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worldcoin 基金会周三宣布了一项名为“Wave0”的 500 万美元社区资助计划，旨在让开发者能够“专注于在Worldcoin 上构建弹性技术和更公平的系统”。资金以 WLD ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732402946233790792</id>
+        <link href="https://twitter.com/wublockchain12/status/1732402946233790792"/>
+        <updated>2023-12-06T14:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Worldcoin 基金会周三宣布了一项名为“Wave0”的 500 万美元社区资助计划，旨在让开发者能够“专注于在Worldcoin 上构建弹性技术和更公平的系统”。资金以 WLD 代币形式提供。这些赠款将用于研究和开发工作的项目，例如隐私和生物识别技术的交叉点。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=13&id=21333]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732399188963627023</id>
+        <link href="https://twitter.com/wublockchain12/status/1732399188963627023"/>
+        <updated>2023-12-06T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 实现了具有多个可达网络的节点将主动尝试至少在每个网络上建立一个出站连接，从而提高对日食攻击的个体抵抗力和对分区攻击的网络级别抵抗力。用户不再需要采...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732395029933834681</id>
+        <link href="https://twitter.com/wublockchain12/status/1732395029933834681"/>
+        <updated>2023-12-06T13:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Re 实现了具有多个可达网络的节点将主动尝试至少在每个网络上建立一个出站连接，从而提高对日食攻击的个体抵抗力和对分区攻击的网络级别抵抗力。用户不再需要采取主动措施来确保连接到多个已启用的网络等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=21332]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bitcoin Core 26.0 版本已正式发布，主要修改如下：添加了对 BIP324 中定义的 v2 传输协议（机会性加密、轻带宽、并有能力在交换应用消息之前协商升级...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732395029933834681</id>
+        <link href="https://twitter.com/wublockchain12/status/1732395029933834681"/>
+        <updated>2023-12-06T13:42:16.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bitcoin Core 26.0 版本已正式发布，主要修改如下：添加了对 BIP324 中定义的 v2 传输协议（机会性加密、轻带宽、并有能力在交换应用消息之前协商升级）的实验性支持；]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，衍生品交易所 Aevo 宣布推出以收益稳定计价的抵押资产 aeUSD，声称允许用户在进行杠杆交易的同时，获得 4.75% 的年化收益率。aeUSD 是一种 基于 Aevo ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732376341843157072</id>
+        <link href="https://twitter.com/wublockchain12/status/1732376341843157072"/>
+        <updated>2023-12-06T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，衍生品交易所 Aevo 宣布推出以收益稳定计价的抵押资产 aeUSD，声称允许用户在进行杠杆交易的同时，获得 4.75% 的年化收益率。aeUSD 是一种 基于 Aevo 的 ERC-4626 资产，由 5% USDC 和 95% sDAI 组成，通过存入 Maker DAO 的 Dai 储蓄率（DSR）模块并接收 sDAI… https://twitter.com/i/web/status/1732376341843157072]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -81,78 +131,6 @@
         <link href="https://twitter.com/wublockchain12/status/1732341376480927795"/>
         <updated>2023-12-06T10:09:04.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，DWF 宣布向区块链视频传输网络 Theta Labs 生态系统提供 100 万美元，以推进其 Theta Edgecloud。Theta Edgecloud 是一个混合云计算平台。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21324]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nake13 指出，对 Luke Dashjr 更合理的称呼是 Bitcoin Core 客户端开发者，其同时为 Core 和 Knots 提供代码，本次的 Bitcoin Knots 25.1 的更新文档主要由...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
-        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
-        <updated>2023-12-06T08:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @nake13 指出，对 Luke Dashjr 更合理的称呼是 Bitcoin Core 客户端开发者，其同时为 Core 和 Knots 提供代码，本次的 Bitcoin Knots 25.1 的更新文档主要由其本人编写；Luke 是 OCEAN 矿池 CTO，OCEAN Mining 会使用该客户端，该矿池最近得到了 Jack Dorsey 支持；在 Bitcoin Knots 的 25.1… https://twitter.com/i/web/status/1732318420237259259]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，币安发布公告称，由于社区对 AEUR 反响热烈，且部分用户购买时未意识到 AEUR 为稳定币，短期内需求量激增，导致价格出现偏差。将按照以下方案为受影响...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732317685537718312</id>
-        <link href="https://twitter.com/wublockchain12/status/1732317685537718312"/>
-        <updated>2023-12-06T08:34:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，币安发布公告称，由于社区对 AEUR 反响热烈，且部分用户购买时未意识到 AEUR 为稳定币，短期内需求量激增，导致价格出现偏差。将按照以下方案为受影响的用户提供赔偿：单个符合条件的用户赔付 =（用户的 AEUR 净购买量 * 用户的 AEUR 平均买入价格）-（用户的 AEUR 净购买量 * 1.07999… https://twitter.com/i/web/status/1732317685537718312]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，在比特币开发者 Luke Dashjr 发文将要禁用铭文后，一名用户（bc1puc…25e60e）在 11:27-12:41 UTC+8 间将 5.9 万 ORDI（价值约 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732315776470921595</id>
-        <link href="https://twitter.com/wublockchain12/status/1732315776470921595"/>
-        <updated>2023-12-06T08:27:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，在比特币开发者 Luke Dashjr 发文将要禁用铭文后，一名用户（bc1puc…25e60e）在 11:27-12:41 UTC+8 间将 5.9 万 ORDI（价值约 354 万美元）转入 Binance。该名用户最初在 11 月 22 日从 Binance 提取了 6.5 万 ORDI。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21322]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tmel0211 表示，Bitcoin v25.1. 版本中给矿工一个开关来选择是否要打包超出 SIZE 的交易。但由于矿工从中受益，没有矿工会选择关闭。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
-        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
-        <updated>2023-12-06T06:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @tmel0211 表示，Bitcoin v25.1. 版本中给矿工一个开关来选择是否要打包超出 SIZE 的交易。但由于矿工从中受益，没有矿工会选择关闭。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wooooer 分析指出：Luke 在 knots 中针对过滤所谓的比特币欺诈交易设置了两个主要参数限制；datacarriersize 主要限制基于 op-return 携带数据大小，即那些...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732289095488135241</id>
-        <link href="https://twitter.com/wublockchain12/status/1732289095488135241"/>
-        <updated>2023-12-06T06:41:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @wooooer 分析指出：Luke 在 knots 中针对过滤所谓的比特币欺诈交易设置了两个主要参数限制；datacarriersize 主要限制基于 op-return 携带数据大小，即那些将数据写在 UTXO 的 output 部分；maxscriptsize 限制基于 TaprootScript 的铭文协议，其数据刻在 UTXO 的 witness 字段中。如果 Luke… https://twitter.com/i/web/status/1732289095488135241
-
-吴说区块链: 吴说获悉，比特币核心开发者 Luke Dashjr 发文称， "铭文"正在利用 Bitcoin Core 的漏洞对区块链进行垃圾邮件攻击。自 2013 年以来，Bitcoin Core 允许用户设置在中继或挖矿交易时额外数据大小的限制。通过将其数据模糊为程序代码，铭文绕过了这一限制。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原 SEC 官员、比特币批判者 John Reed Stark 表示，“SEC 有 90% 可能性批准比特币现货 ETF”的观点是荒谬的；SEC 可以努力向申请人提供指示但最终告诉申请人“...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732288282636206308</id>
-        <link href="https://twitter.com/wublockchain12/status/1732288282636206308"/>
-        <updated>2023-12-06T06:38:05.000Z</updated>
-        <summary type="html"><![CDATA[原 SEC 官员、比特币批判者 John Reed Stark 表示，“SEC 有 90% 可能性批准比特币现货 ETF”的观点是荒谬的；SEC 可以努力向申请人提供指示但最终告诉申请人“我们给了你们一切成功的机会，但最终你们没有达到要求”；有无数的立案案件和正在进行的非公开调查，意味着比特币现货 ETF… https://twitter.com/i/web/status/1732288282636206308]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据明报，香港金管局总裁余伟文表示，该局与政府将于明年2月合办「绿色金融周」。此外，金管局准备发行第二次代币化绿债，料于未来几个月内推出，正研究将赎回的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732276584936358003</id>
-        <link href="https://twitter.com/wublockchain12/status/1732276584936358003"/>
-        <updated>2023-12-06T05:51:36.000Z</updated>
-        <summary type="html"><![CDATA[据明报，香港金管局总裁余伟文表示，该局与政府将于明年2月合办「绿色金融周」。此外，金管局准备发行第二次代币化绿债，料于未来几个月内推出，正研究将赎回的流程于区块链内进行，增加其运作效率。金管局亦正研究利用区块链技术及物联网（IOT），加入代币化绿债上，令债券持有者清楚了解自身所投资的… https://twitter.com/i/web/status/1732276584936358003]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
