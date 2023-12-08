@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T03:13:37.180Z</id>
+    <id>urn:2023-12-08T04:15:57.559Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T03:13:37.180Z</updated>
+    <updated>2023-12-08T04:15:57.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @CoinbaseDuck Source?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1732904271773933841</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1732904271773933841"/>
+        <updated>2023-12-08T03:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @CoinbaseDuck Source?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re CZ 的律师对这一说法提出异议，指出他支付了大笔保释金，并自愿来到美国接受对其行为的责任。西雅图地方法院法官同意司法部的观点，并表示 CZ… https://twit...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732915879476867187</id>
+        <link href="https://twitter.com/wublockchain12/status/1732915879476867187"/>
+        <updated>2023-12-08T01:48:21.000Z</updated>
+        <summary type="html"><![CDATA[Re CZ 的律师对这一说法提出异议，指出他支付了大笔保释金，并自愿来到美国接受对其行为的责任。西雅图地方法院法官同意司法部的观点，并表示 CZ… https://twitter.com/i/web/status/1732940145702387811]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，混合加密货币交易所 GRVT 公布空投奖励计划。总奖励为 GRVT 代币总供应量的 10%，在前 18 个月内分两季发放，其中第一季将分发 3%，第二季将分发 7%。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732934881691554139</id>
+        <link href="https://twitter.com/wublockchain12/status/1732934881691554139"/>
+        <updated>2023-12-08T01:27:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，混合加密货币交易所 GRVT 公布空投奖励计划。总奖励为 GRVT 代币总供应量的 10%，在前 18 个月内分两季发放，其中第一季将分发 3%，第二季将分发 7%。GRVT 还将为参与者提供 zkSync Mystery Box。今年 9 月，GRVT 宣布完成两轮共 710 万美元融资。GRVT… https://twitter.com/i/web/status/1732934881691554139]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 下次网络升级 Prague/Electra 的简单讨论（如 EL、CL 的升级是要耦合还是解耦以及一些考虑纳入的 EIPs 讨论等）https://www.wublock123.com/index.php?m=cont...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732933814576631974</id>
+        <link href="https://twitter.com/wublockchain12/status/1732933814576631974"/>
+        <updated>2023-12-08T01:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 下次网络升级 Prague/Electra 的简单讨论（如 EL、CL 的升级是要耦合还是解耦以及一些考虑纳入的 EIPs 讨论等）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=38&id=21401]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 接下来几周会进行一次较大的 Goerli shadow 网络分叉，可能需要进一步确认参数 max blob count per block 的设定值 ）、允许 EL 客户端在检测到内存池中的审...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732933814576631974</id>
+        <link href="https://twitter.com/wublockchain12/status/1732933814576631974"/>
+        <updated>2023-12-08T01:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 接下来几周会进行一次较大的 Goerli shadow 网络分叉，可能需要进一步确认参数 max blob count per block 的设定值 ）、允许 EL 客户端在检测到内存池中的审查行为时覆盖本地构 builders 的提议、EIP-7569（可以理解为创建 “Meta EIP” 文档追踪网络升级最终版所包含的所有 EIPs）、]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Tim Beiko 对第 176 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：devnet-12 测试进展（除了 Prysm 其他客户端都已到位并进...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732933814576631974</id>
+        <link href="https://twitter.com/wublockchain12/status/1732933814576631974"/>
+        <updated>2023-12-08T01:23:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Tim Beiko 对第 176 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：devnet-12 测试进展（除了 Prysm 其他客户端都已到位并进行查漏修复）、测试网分叉，若一切顺利，预计 2024 年 1 月进行 Goerli Dencun 分叉（大多数团队都已做好进行测试网分叉测试的准备，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 该委员会还将继续监测银行加密资产托管活动的演变，并结合市场发展考虑是否需要进行任何额外的工作。 https://www.wublock123.com/index.php?m=content&c=ind...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732927459635671397</id>
+        <link href="https://twitter.com/wublockchain12/status/1732927459635671397"/>
+        <updated>2023-12-08T00:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 该委员会还将继续监测银行加密资产托管活动的演变，并结合市场发展考虑是否需要进行任何额外的工作。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=10&id=21400]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，巴塞尔委员会评估了对 2022 年 12 月发布的银行加密资产风险敞口审慎标准要素的审查，委员会同意就稳定币获得 Group 1b 监管待遇的标准进行磋商，该标...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732927459635671397</id>
+        <link href="https://twitter.com/wublockchain12/status/1732927459635671397"/>
+        <updated>2023-12-08T00:57:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，巴塞尔委员会评估了对 2022 年 12 月发布的银行加密资产风险敞口审慎标准要素的审查，委员会同意就稳定币获得 Group 1b 监管待遇的标准进行磋商，该标准指的是“具有有效稳定机制的加密资产”。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，富达（Fidelity）旗下的现货比特币 ETF 现已在美国证券存托清算公司（DTCC）网站上列出，股票代码为 FBTC。此前，DTCC 发言人回复贝莱德 iShares 比特...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732920013089386917</id>
+        <link href="https://twitter.com/wublockchain12/status/1732920013089386917"/>
+        <updated>2023-12-08T00:28:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，富达（Fidelity）旗下的现货比特币 ETF 现已在美国证券存托清算公司（DTCC）网站上列出，股票代码为 FBTC。此前，DTCC 发言人回复贝莱德 iShares 比特币信托上线 DTCC 名单时在电子邮件中表示，出现在名单上并不代表对任何末解决的监管或其他批准结果的指示。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21399]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据路透社，美国西雅图地区法官 Richard Jones 周四批准了美国政府的动议，要求币安前 CEO 赵长鹏在因违反美国反洗钱法而被判刑之前留在美国。在周四提...]]></title>
         <id>https://twitter.com/wublockchain12/status/1732915879476867187</id>
@@ -146,16 +238,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=10&id=21390
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[质押项目 Babylon 在由 Polychain Capital 和 Hack VC 领投的一轮投资中筹集了 1800 万美元，OKX Ventures 等参投，筹集的资金用于协议的开发。Babylon 是一个提...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732766104081023335</id>
-        <link href="https://twitter.com/wublockchain12/status/1732766104081023335"/>
-        <updated>2023-12-07T14:16:47.000Z</updated>
-        <summary type="html"><![CDATA[质押项目 Babylon 在由 Polychain Capital 和 Hack VC 领投的一轮投资中筹集了 1800 万美元，OKX Ventures 等参投，筹集的资金用于协议的开发。Babylon 是一个提供比特币作为质押资产的市场。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21387]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bill Ackman really waking up eh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1732763034035294716</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1732763034035294716"/>
@@ -203,36 +285,6 @@ Financially, professionally, personally, emotionally, physical healthwise - ever
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，刚刚在阿布扎比上市的中东比特币挖矿公司 Phoenix Group 宣布与神马矿机签订 3.8 亿美元的订单，包括立即购买价值 1.36 亿美金的矿机，以及价值 2.46 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732758932882641007</id>
-        <link href="https://twitter.com/wublockchain12/status/1732758932882641007"/>
-        <updated>2023-12-07T13:48:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，刚刚在阿布扎比上市的中东比特币挖矿公司 Phoenix Group 宣布与神马矿机签订 3.8 亿美元的订单，包括立即购买价值 1.36 亿美金的矿机，以及价值 2.46 亿美金的额外选项。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=9&id=21386]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732757693008584769</id>
-        <link href="https://twitter.com/wublockchain12/status/1732757693008584769"/>
-        <updated>2023-12-07T13:43:21.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，比特币开发者、Nostr Damus 创始人 William Casarin 针对铭文争议表示，比特币核心一直不鼓励这种做法，因为它不是为存储图像和数据而设计的，而是为...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732757201792680442</id>
-        <link href="https://twitter.com/wublockchain12/status/1732757201792680442"/>
-        <updated>2023-12-07T13:41:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，比特币开发者、Nostr Damus 创始人 William Casarin 针对铭文争议表示，比特币核心一直不鼓励这种做法，因为它不是为存储图像和数据而设计的，而是为了在网络空间中移动数字货币而设计的；铭文将数据伪装为比特币脚本程序数据，在技术上是一种攻击，希望我们很快也能在 core 客户端对抗这种… https://twitter.com/i/web/status/1732757201792680442]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @bishengkegs 哈哈 有备无患嘛]]></title>
         <id>https://twitter.com/AntCaveClub/status/1732729191114944922</id>
         <link href="https://twitter.com/AntCaveClub/status/1732729191114944922"/>
@@ -240,16 +292,6 @@ Financially, professionally, personally, emotionally, physical healthwise - ever
         <summary type="html"><![CDATA[Re @bishengkegs 哈哈   有备无患嘛]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币金融服务公司 Swan 今天宣布扩大服务范围，其中包括进军比特币支持的贷款等机构产品，并于 2023 年筹集了 4000 万美元的资金用于扩张工作，并为其自身的风...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1732754526430707845</id>
-        <link href="https://twitter.com/wublockchain12/status/1732754526430707845"/>
-        <updated>2023-12-07T13:30:46.000Z</updated>
-        <summary type="html"><![CDATA[比特币金融服务公司 Swan 今天宣布扩大服务范围，其中包括进军比特币支持的贷款等机构产品，并于 2023 年筹集了 4000 万美元的资金用于扩张工作，并为其自身的风险投资和私募股权投资筹集了 1.25 亿美元。Swan 的投资主要集中在比特币生态系统上，目前正在与 BitGo… https://twitter.com/i/web/status/1732754526430707845]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -577,16 +619,6 @@ Early signs of tradfi starting to rotate into the ETH ETF trade?]]></summary>
 Get the lifetime “professional” politicians out of office
 
 Conor McGregor: Potential competition if I run. Gerry, 78. Bertie. 75. Enda, 74. Each with unbreakable ties to their individual parties politics. Regardless of what the public outside of their parties feel. These parties govern themselves vs govern the people. Or me, 35. Young, active,… https://twitter.com/i/web/status/1731679486372970656]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheCryptoDog Would be legit if u could share an intro supplement stack]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1731655196508389863</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1731655196508389863"/>
-        <updated>2023-12-04T13:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheCryptoDog Would be legit if u could share an intro supplement stack]]></summary>
         <author>
             <name>Surfer</name>
         </author>
