@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T16:16:55.764Z</id>
+    <id>urn:2023-12-08T17:11:54.562Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T16:16:55.764Z</updated>
+    <updated>2023-12-08T17:11:54.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,20 @@
         <summary type="html"><![CDATA[吴说每日晚报]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT McKenna: Vaneck spot ETF ticker is going to be HODL. Absolutely based.]]></title>
+        <id>https://twitter.com/Crypto_McKenna/status/1733122545853845848</id>
+        <link href="https://twitter.com/Crypto_McKenna/status/1733122545853845848"/>
+        <updated>2023-12-08T13:53:09.000Z</updated>
+        <summary type="html"><![CDATA[RT McKenna
+Vaneck spot ETF ticker is going to be HODL.
+Absolutely based.
+
+James Seyffart: This filing reveals their ticker for what I think is the first time. It’ll be $HODL.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -638,19 +652,6 @@ DeFi Educator: 1) BTC pumps >$40k
         <link href="https://twitter.com/DeFi_educator/status/1731332248375349666"/>
         <updated>2023-12-03T15:29:07.000Z</updated>
         <summary type="html"><![CDATA[Re @resdegen Congrats, well deserved, most people don’t realise how much work you’ve put in in the bear, I know you earned it brother.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://x.com/HsakaTrades/status/1730843313391935960?s=20]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1731330895406055834</id>
-        <link href="https://twitter.com/DeFi_educator/status/1731330895406055834"/>
-        <updated>2023-12-03T15:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Re https://x.com/HsakaTrades/status/1730843313391935960?s=20
-
-Hsaka: Gm 
-First movers from when this rally began looking ready for round 2.]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
