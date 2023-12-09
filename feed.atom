@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T10:12:29.752Z</id>
+    <id>urn:2023-12-09T11:10:09.545Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-09T10:12:29.752Z</updated>
+    <updated>2023-12-09T11:10:09.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《吴说不加密播客：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》此次播客讨论了如何看待近期比特币涨幅明显优于以太坊；近期比特币和纳斯达克又恢复了共振，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733403328556748992</id>
+        <link href="https://twitter.com/wublockchain12/status/1733403328556748992"/>
+        <updated>2023-12-09T08:28:53.000Z</updated>
+        <summary type="html"><![CDATA[《吴说不加密播客：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》此次播客讨论了如何看待近期比特币涨幅明显优于以太坊；近期比特币和纳斯达克又恢复了共振，这种现象是否存在某种内在特点；市场对美股明年的走势意见不一，会否对加密货币市场造成影响；ETF… https://twitter.com/i/web/status/1733403328556748992]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，针对 TON20 导致的网络严重拥堵，TON 官方表示在接下来的10-20小时内，随着更多、更快的验证者加入下一轮验证，预计拥堵情况将大大缓解；已联系超过70...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733401568534544708</id>
+        <link href="https://twitter.com/wublockchain12/status/1733401568534544708"/>
+        <updated>2023-12-09T08:21:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，针对 TON20 导致的网络严重拥堵，TON 官方表示在接下来的10-20小时内，随着更多、更快的验证者加入下一轮验证，预计拥堵情况将大大缓解；已联系超过70%的独立验证者，开始使用提供的补丁进行升级；与 Tonano 团队合作暂停铸币并阻止交易增长，与 Fragment 团队合作暂停拍卖；… https://twitter.com/i/web/status/1733401568534544708
+
+吴说区块链: 吴说获悉，TON 官方频道表示，从12月5日开始 Tonano 团队推出的名为 TON20 的铭文导致短短半小时内产生了超过200万笔交易，网络使用率增加了61倍；这种突然的高峰流量还伴随着TON网络的严重拥塞，即使网络验证者仍在生成区块，验证也严重延迟；Wallet 和 Tonkeeper… https://twitter.com/i/web/status/1732790368142524783]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Zebec 宣布正式推出 Zebec Instant Card，由 VISA 和 Master 两大系统同时授权，将支持 138个国家使用，包括美国与中国。 此产品为业界首个非托管，且...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733398811530412126</id>
+        <link href="https://twitter.com/wublockchain12/status/1733398811530412126"/>
+        <updated>2023-12-09T08:10:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Zebec 宣布正式推出 Zebec Instant Card，由 VISA 和 Master 两大系统同时授权，将支持 138个国家使用，包括美国与中国。 此产品为业界首个非托管，且只要电子邮箱就可以使用的金融卡，不收取任何手续费。Zebec 是一个建立在 Solana 上的结算与支付协议，2022 年宣布从 Solana Ventures… https://twitter.com/i/web/status/1733398811530412126]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Deribit 发推表示，Deribit 期权名义未平仓合约创下新高，其中比特币期权未平仓合约为 160 亿美元，ETH 为 76 亿美元，总计 236 亿美元。此外，加上 2...]]></title>
         <id>https://twitter.com/wublockchain12/status/1733387172349386989</id>
@@ -174,44 +206,6 @@ Coinbase International Exchange 🛡️: @CoinbaseIntExch will add support for
         <link href="https://twitter.com/wublockchain12/status/1733279498001580388"/>
         <updated>2023-12-09T00:16:49.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，Coinbase International Exchange 和 Coinbase Advanced 将新增对 Optimism、 Arbitrum 和 ETC 永续期货合约的支持。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 此外，Sismo 已开源尚未开源的部分，并将在几个月内维护基本基础设施。https://twitter.com/dhadrien_/status/1733124453523919332?s=20]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733277753154412790</id>
-        <link href="https://twitter.com/wublockchain12/status/1733277753154412790"/>
-        <updated>2023-12-09T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Re 此外，Sismo 已开源尚未开源的部分，并将在几个月内维护基本基础设施。https://twitter.com/dhadrien_/status/1733124453523919332?s=20
-
-Hadrien Charlanes (dhadrien.eth): Today, Sismo returned funds to its investors.
-We shipped fast, solved hard problems and built a great community. Yet, our pace was unsustainable, we sprinted a marathon.
-I'm proud of the battle we fought and the way we did it, with full engagement and passion.
-(thread)]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，去中心化身份和信任协议 Sismo 创始人 Hadrien Charlanes 发推表示，Sismo 现向投资者返还了资金。此前，Sismo 从 130 名投资者处融资 1050 万美元（...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733277753154412790</id>
-        <link href="https://twitter.com/wublockchain12/status/1733277753154412790"/>
-        <updated>2023-12-09T00:09:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，去中心化身份和信任协议 Sismo 创始人 Hadrien Charlanes 发推表示，Sismo 现向投资者返还了资金。此前，Sismo 从 130 名投资者处融资 1050 万美元（已返还 51%）。非常感谢他们一直支持到最后，哪怕当前尚未获得回报。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 因此，我们决定将资金返还给有限合伙人，并取消许可证，因为我们不再需要它。此前，路透社报道，币安旗下投资公司 BV Investment Management 已向阿布扎比金...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733275612486549755</id>
-        <link href="https://twitter.com/wublockchain12/status/1733275612486549755"/>
-        <updated>2023-12-09T00:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Re 因此，我们决定将资金返还给有限合伙人，并取消许可证，因为我们不再需要它。此前，路透社报道，币安旗下投资公司 BV Investment Management 已向阿布扎比金融监管机构撤回牌照申请。币安发言人表示，撤回牌照申请的决定与美国司法部的和解“无关”。https://twitter.com/BinanceLabs/status/1733156782342877326
-
-Binance Labs Fund: Media are confused about the withdrawal of an Abu Dhabi license (that we never used). So we will clarify. 
-This had nothing to do with the Binance exchange. With the license, we aimed to manage funds raised from LPs. However we decided to focus on incubating early stage founders… https://twitter.com/i/web/status/1733156782342877326]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
