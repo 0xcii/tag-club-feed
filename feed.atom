@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T12:22:42.722Z</id>
+    <id>urn:2023-12-09T13:13:27.363Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-09T12:22:42.722Z</updated>
+    <updated>2023-12-09T13:13:27.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=21457]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733461713171960254</id>
+        <link href="https://twitter.com/wublockchain12/status/1733461713171960254"/>
+        <updated>2023-12-09T12:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Re https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=21457]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 用户可以通过请求矿池或矿工将其包含在区块中，来使得有效但非标准的交易进入区块。因为它是有效的，其他节点也会接受它。对于 op_return，标准限制还是 80 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733461713171960254</id>
+        <link href="https://twitter.com/wublockchain12/status/1733461713171960254"/>
+        <updated>2023-12-09T12:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Re 用户可以通过请求矿池或矿工将其包含在区块中，来使得有效但非标准的交易进入区块。因为它是有效的，其他节点也会接受它。对于 op_return，标准限制还是 80 字节，但有效限制可以更大。总的来说，他似乎对铭文这类交易不是绝对否定的态度，而是认为将其定义为有效交易并对数据存储可选化。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 超过 80 字节但也被矿工纳入区块的那就是 IsValid() 了。不过，他认为如果能有一个小于 1kB 的数据存储区在隔离见证（segwit）附录中用于协调数据（这些数据...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733461713171960254</id>
+        <link href="https://twitter.com/wublockchain12/status/1733461713171960254"/>
+        <updated>2023-12-09T12:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 超过 80  字节但也被矿工纳入区块的那就是 IsValid() 了。不过，他认为如果能有一个小于 1kB 的数据存储区在隔离见证（segwit）附录中用于协调数据（这些数据并非共识的一部分），那将会非常有用和方便，这样的数据可以被存储和转发中继，并且作为节点上的一个可选功能持久化。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，针对近期铭文的争议，BlockStream CEO Adam Back 表示：在比特币中有两种交易接纳标准，“IsStandard()”是节点会将交易中继并纳入区块，“IsValid()...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733461713171960254</id>
+        <link href="https://twitter.com/wublockchain12/status/1733461713171960254"/>
+        <updated>2023-12-09T12:20:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，针对近期铭文的争议，BlockStream CEO Adam Back 表示：在比特币中有两种交易接纳标准，“IsStandard()”是节点会将交易中继并纳入区块，“IsValid()”是节点在交易被挖出后会接受其有效性，但不会中继或纳入区块。op_return 低于 80 字节的被认为 IsStandard，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Bitquery 数据，本日 EOS EVM 链上交易笔数突增至超过 100 万笔，已超过该链过往历史累积交易笔数总和，这主要是由于 EOS EVM 上首个铭文的铸造活...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733445402542891076</id>
+        <link href="https://twitter.com/wublockchain12/status/1733445402542891076"/>
+        <updated>2023-12-09T11:16:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Bitquery 数据，本日 EOS EVM 链上交易笔数突增至超过 100 万笔，已超过该链过往历史累积交易笔数总和，这主要是由于 EOS EVM 上首个铭文的铸造活动所引起的。社区反馈，由于链上活动激增，一度导致该链卡顿。而此前，该链几乎无人使用。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21456]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @lopp 推文，推特开发的人工智能工具 Grok 会在问答中表示会接受比特币支付，并表示自己是加密货币的粉丝，自己有一个数字钱包地址并希望对方转账...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733444942671016358</id>
+        <link href="https://twitter.com/wublockchain12/status/1733444942671016358"/>
+        <updated>2023-12-09T11:14:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @lopp 推文，推特开发的人工智能工具 Grok 会在问答中表示会接受比特币支付，并表示自己是加密货币的粉丝，自己有一个数字钱包地址并希望对方转账，追后后会随机回答捐赠地址（与Grok 官方无关地址），有时也会给出乱码地址。目前，该问题已被修复，Grok… https://twitter.com/i/web/status/1733444942671016358]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《吴说不加密播客：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》此次播客讨论了如何看待近期比特币涨幅明显优于以太坊；近期比特币和纳斯达克又恢复了共振，...]]></title>
         <id>https://twitter.com/wublockchain12/status/1733403328556748992</id>
@@ -143,69 +203,6 @@
         <link href="https://twitter.com/wublockchain12/status/1733298602993418647"/>
         <updated>2023-12-09T01:32:44.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，韩国第二大加密交易所 Bithumb 将上线 ERC20-USDC 的韩元交易对，当地时间 11:00 开通存款，12:00 开通交易。此前，Bithumb 宣布上线 TRC20-USDT，并开通韩元交易对。这是韩国主要交易所罕见地上线美元稳定币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21432]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说周精选：比特币 ETF 关键进展、CZ被禁足美国、比特币铭文大讨论与新闻Top10 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733298377755156661</id>
-        <link href="https://twitter.com/wublockchain12/status/1733298377755156661"/>
-        <updated>2023-12-09T01:31:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说周精选：比特币 ETF 关键进展、CZ被禁足美国、比特币铭文大讨论与新闻Top10
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21430]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Bitcoin Core 开发者 Luke Dashjr 发推表示，OP_RETURN 讨论并不新鲜，可以追溯到 2014 年，当时 Bitcoin Core 0.9.0 发布，其中包含 OP_RETURN 政策...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733296363641975206</id>
-        <link href="https://twitter.com/wublockchain12/status/1733296363641975206"/>
-        <updated>2023-12-09T01:23:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Bitcoin Core 开发者 Luke Dashjr 发推表示，OP_RETURN 讨论并不新鲜，可以追溯到 2014 年，当时 Bitcoin Core 0.9.0 发布，其中包含 OP_RETURN 政策，旨在阻止更恶劣形式的垃圾邮件。当时，40… https://twitter.com/i/web/status/1733296363641975206]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，SEC 表示，Binance Holdings Ltd. 最近与司法部和其他美国当局达成了 43 亿美元和解协议，支持了其针对该交易所的诉讼。尽管 SEC 没有参与...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733288934543851821</id>
-        <link href="https://twitter.com/wublockchain12/status/1733288934543851821"/>
-        <updated>2023-12-09T00:54:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，SEC 表示，Binance Holdings Ltd. 最近与司法部和其他美国当局达成了 43 亿美元和解协议，支持了其针对该交易所的诉讼。尽管 SEC 没有参与该协议，但其周五辩称，华盛顿审理该案件的联邦法院应权衡币安及其前首席执行官 CZ 在 11 月 21 日和解协议中的供述。币安和 CZ… https://twitter.com/i/web/status/1733288934543851821]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年美国国防授权法案（NDAA）的最新版本中已删除两项关于加密货币的反洗钱条款。这些条款原本旨在为加密资产建立反洗钱检查标准，并要求就隐私币或其他增强...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733283582368796791</id>
-        <link href="https://twitter.com/wublockchain12/status/1733283582368796791"/>
-        <updated>2023-12-09T00:33:03.000Z</updated>
-        <summary type="html"><![CDATA[2023 年美国国防授权法案（NDAA）的最新版本中已删除两项关于加密货币的反洗钱条款。这些条款原本旨在为加密资产建立反洗钱检查标准，并要求就隐私币或其他增强匿名技术在加密货币中的使用进行报告。NDAA… https://twitter.com/i/web/status/1733283582368796791]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re OP-PERP、ARB-PERP 和 ETC-PERP 市场将于北京时间 12 月 13 日 18 点左右开放。https://twitter.com/CoinbaseIntExch/status/1733169571975348242]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733279498001580388</id>
-        <link href="https://twitter.com/wublockchain12/status/1733279498001580388"/>
-        <updated>2023-12-09T00:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Re OP-PERP、ARB-PERP 和 ETC-PERP 市场将于北京时间 12 月 13 日 18 点左右开放。https://twitter.com/CoinbaseIntExch/status/1733169571975348242
-
-Coinbase International Exchange 🛡️: @CoinbaseIntExch will add support for Optimism, Arbitrum, and Ethereum Classic perpetual future contracts on Coinbase International Exchange and Coinbase Advanced. The opening of our OP-PERP, ARB-PERP, and ETC-PERP markets will begin on or after 10am UTC on 13 DEC 2023.]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase International Exchange 和 Coinbase Advanced 将新增对 Optimism、 Arbitrum 和 ETC 永续期货合约的支持。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733279498001580388</id>
-        <link href="https://twitter.com/wublockchain12/status/1733279498001580388"/>
-        <updated>2023-12-09T00:16:49.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase International Exchange 和 Coinbase Advanced 将新增对 Optimism、 Arbitrum 和 ETC 永续期货合约的支持。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
