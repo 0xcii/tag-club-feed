@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T23:12:46.672Z</id>
+    <id>urn:2023-12-09T00:58:26.198Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T23:12:46.672Z</updated>
+    <updated>2023-12-09T00:58:26.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据监管机构网站上的 一份备忘录，资产管理巨头富达 (Fidelity) 于 12 月 7 日与 SEC 就其拟议的现货比特币 ETF 召开了会议。Fidelity 在会议中提交了一份关于 “...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733271395713638467</id>
+        <link href="https://twitter.com/wublockchain12/status/1733271395713638467"/>
+        <updated>2023-12-08T23:44:38.000Z</updated>
+        <summary type="html"><![CDATA[据监管机构网站上的 一份备忘录，资产管理巨头富达 (Fidelity) 于 12 月 7 日与 SEC 就其拟议的现货比特币 ETF 召开了会议。Fidelity 在会议中提交了一份关于 “比特币 ETF 工作流程” 的陈述，重点介绍了 “实物” 创建和赎回模型。此外，Fidelity 于周五向 SEC 提交了一份修订后的 S-1… https://twitter.com/i/web/status/1733271395713638467]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pretty clever proposal]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1733259010722160751</id>
@@ -237,16 +247,6 @@ James Seyffart: This filing reveals their ticker for what I think is the first
         <updated>2023-12-08T07:32:44.000Z</updated>
         <summary type="html"><![CDATA[Re 吴说获悉，Binance 宣布将于 2023 年 12 月 08 日 18:00（东八区时间）上线 JTO 1-50 倍 U 本位永续合约。
 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21380]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，12月8日期权交割数据显示，3.3万张 BTC 期权即将到期，Put Call Ratio 为0.84，最大痛点40000美元，名义价值14.3亿美元；21万张 ETH 期权即将到期，Pu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733024872820093087</id>
-        <link href="https://twitter.com/wublockchain12/status/1733024872820093087"/>
-        <updated>2023-12-08T07:25:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，12月8日期权交割数据显示，3.3万张 BTC 期权即将到期，Put Call Ratio 为0.84，最大痛点40000美元，名义价值14.3亿美元；21万张 ETH 期权即将到期，Put Call Ratio 为0.59，最大痛点2150美元，名义价值4.9亿美元；BTC 的短期持仓显著升高，1月份持仓也有明显上升。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21418]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
