@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T11:10:01.378Z</id>
+    <id>urn:2023-12-10T12:22:29.211Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-10T11:10:01.378Z</updated>
+    <updated>2023-12-10T12:22:29.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据官方公告，谷歌 Google 将更新加密货币及相关产品政策，以明确加密货币信托广告的范围和要求。自 2024 年 1 月 29 日起，面向美国提供 Cryptocurren...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733807236861092211</id>
+        <link href="https://twitter.com/wublockchain12/status/1733807236861092211"/>
+        <updated>2023-12-10T11:13:52.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据官方公告，谷歌 Google 将更新加密货币及相关产品政策，以明确加密货币信托广告的范围和要求。自 2024 年 1 月 29 日起，面向美国提供 Cryptocurrency Coin Trust 的广告客户需满足具体要求并获得 Google… https://twitter.com/i/web/status/1733807236861092211]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[另外，Adam 补充道：目前没有听到关于软分叉或硬分叉的信息，要知道比特币的抗审查模型是，本地矿池的政策仅在本地生效，其他矿工/矿池可以挖掘别的矿工/矿池不...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733804150004322362</id>
+        <link href="https://twitter.com/wublockchain12/status/1733804150004322362"/>
+        <updated>2023-12-10T11:01:36.000Z</updated>
+        <summary type="html"><![CDATA[另外，Adam 补充道：目前没有听到关于软分叉或硬分叉的信息，要知道比特币的抗审查模型是，本地矿池的政策仅在本地生效，其他矿工/矿池可以挖掘别的矿工/矿池不挖掘的内容。而且现在有了 Stratum V2（矿池通信协议的升级版本）和承诺交易（Committed… https://twitter.com/i/web/status/1733804150004322362
+
+吴说区块链: 吴说获悉，针对近期铭文的争议，BlockStream CEO Adam Back 表示：在比特币中有两种交易接纳标准，“IsStandard()”是节点会将交易中继并纳入区块，“IsValid()”是节点在交易被挖出后会接受其有效性，但不会中继或纳入区块。op_return 低于 80 字节的被认为 IsStandard，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，MetaMask 宣布已与六国的支付平台达成合作，包括越南的 VietQR 和 Mobile Money、菲律宾的 GCash、印度尼西亚的 QRIS、泰国的 Thai QR、埃及的 Vodafo...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733790987124912536</id>
+        <link href="https://twitter.com/wublockchain12/status/1733790987124912536"/>
+        <updated>2023-12-10T10:09:18.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，MetaMask 宣布已与六国的支付平台达成合作，包括越南的 VietQR 和 Mobile Money、菲律宾的 GCash、印度尼西亚的 QRIS、泰国的 Thai QR、埃及的 Vodafone Cash 和智利的 Webpay。并已支持越南、马来西亚、日本和韩国的本地转账。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=43&id=21478]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据 Cyvers Alerts 监测，KyberSwap 攻击者与近日价值 5000 万美元 HXA 代币的异常交易有关，该资金已分配给不同的 EOA 地址，这些 EOA 是目前 HXA 的...]]></title>
         <id>https://twitter.com/wublockchain12/status/1733783091842617370</id>
@@ -166,37 +198,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Santiment，近 24 小时，Cardano ADA 一度突破 $0.64 达自 2022 年 6 月以来高点，交易量也达到了自那时以来的峰值水平。此外，当日在社交媒体上所...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733673437716250823</id>
-        <link href="https://twitter.com/wublockchain12/status/1733673437716250823"/>
-        <updated>2023-12-10T02:22:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Santiment，近 24 小时，Cardano ADA 一度突破 $0.64 达自 2022 年 6 月以来高点，交易量也达到了自那时以来的峰值水平。此外，当日在社交媒体上所有与 Crypto 相关的讨论中，约有 4% 的讨论与 ADA 相关，讨论热度达到了年内峰值。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21467]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《吴说播客全文：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》不仅是比特币、纳斯达克，如果观察所有资产，可以发现黄金已经达到了历史新高。这种现象的主要...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733670567285583999</id>
-        <link href="https://twitter.com/wublockchain12/status/1733670567285583999"/>
-        <updated>2023-12-10T02:10:47.000Z</updated>
-        <summary type="html"><![CDATA[《吴说播客全文：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》不仅是比特币、纳斯达克，如果观察所有资产，可以发现黄金已经达到了历史新高。这种现象的主要原因在于流动性的回归。这种模式通常在每个经济周期的结束阶段或即将结束时出现。如果 ETF… https://twitter.com/i/web/status/1733670567285583999]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Axios，加密媒体 Decrypt 已签署意向书，计划与音频和视频媒体 Rug Radio 合并。两家公司将合并成立一家新的、尚未命名的控股公司，两家公司将保留...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733669940589375958</id>
-        <link href="https://twitter.com/wublockchain12/status/1733669940589375958"/>
-        <updated>2023-12-10T02:08:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Axios，加密媒体 Decrypt 已签署意向书，计划与音频和视频媒体 Rug Radio 合并。两家公司将合并成立一家新的、尚未命名的控股公司，两家公司将保留其品牌和独立性。Rug Radio 目前有 12 名全职员工，而 Decrypt 有 22 名。该控股公司将由 Decrypt 现任首席执行官 Josh Quitner… https://twitter.com/i/web/status/1733669940589375958]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @CasualCatCap Good points]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1733563993745129546</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1733563993745129546"/>
@@ -204,16 +205,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21467]]
         <summary type="html"><![CDATA[Re @CasualCatCap Good points]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@EmberCN，LayerX Capital 在 10 小时前从 MATIC PoS 质押合约中赎回 361 万 MATIC (约 319 万美元)，然后转入 Binance。LayerX Capital 在 2021 年...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733664582085013641</id>
-        <link href="https://twitter.com/wublockchain12/status/1733664582085013641"/>
-        <updated>2023-12-10T01:47:00.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@EmberCN，LayerX Capital 在 10 小时前从 MATIC PoS 质押合约中赎回 361 万 MATIC  (约 319 万美元)，然后转入 Binance。LayerX Capital 在 2021 年 12 月 MATIC 历史最高价附近以均价 2.38 美元从币安和 Wintermute 接收/买入 1188 万枚 MATIC（约 2833 万美元）并存入 PoS 质押。之后从… https://twitter.com/i/web/status/1733664582085013641]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
