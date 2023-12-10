@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T06:15:51.886Z</id>
+    <id>urn:2023-12-10T07:11:18.397Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-10T06:15:51.886Z</updated>
+    <updated>2023-12-10T07:11:18.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，BitcoinCore 开发者 Luke Dashjr 发推表示，铭文所利用的 Bitcoin Core 客户端漏洞已被分配特定的漏洞标识符 CVE-2023-50428，具体描述为“通过将...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1732223260866322457</id>
+        <link href="https://twitter.com/wublockchain12/status/1732223260866322457"/>
+        <updated>2023-12-10T04:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，BitcoinCore 开发者 Luke Dashjr 发推表示，铭文所利用的 Bitcoin Core 客户端漏洞已被分配特定的漏洞标识符 CVE-2023-50428，具体描述为“通过将数据混淆为代码来绕过 datacarrier 大小的限制”。据了解，CVE（Common Vulnerabilities and Exposures）… https://twitter.com/i/web/status/1733710143291081127]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 OKX 行情数据，近 24 小时，由 OKX 提供支持的 OKT Chain OKT 涨超80%，这主要是由于 OKT Chain 上首个铭文铸造活动所推动的。OKLink 数据显示，当...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1733708741781110881</id>
+        <link href="https://twitter.com/wublockchain12/status/1733708741781110881"/>
+        <updated>2023-12-10T04:42:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 OKX 行情数据，近 24 小时，由 OKX 提供支持的 OKT Chain OKT 涨超80%，这主要是由于 OKT Chain 上首个铭文铸造活动所推动的。OKLink 数据显示，当前 OKT Chain 上有超过 17 万笔未确认交易。OKX 表示，由于流量激增， OKX Web3 钱包资产显示目前出现卡顿问题，正在修复中。… https://twitter.com/i/web/status/1733708741781110881]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @jeff_w1098 In bitcoin terms seems like we’re still well below the highs fwiw]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1733673041291305055</id>
@@ -424,28 +444,6 @@ I hear much more coming in '24]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1733403328556748992"/>
         <updated>2023-12-09T08:28:53.000Z</updated>
         <summary type="html"><![CDATA[《吴说不加密播客：与 Blofin 分析师 Ardern 聊比特币12月惊人涨幅》此次播客讨论了如何看待近期比特币涨幅明显优于以太坊；近期比特币和纳斯达克又恢复了共振，这种现象是否存在某种内在特点；市场对美股明年的走势意见不一，会否对加密货币市场造成影响；ETF… https://twitter.com/i/web/status/1733403328556748992]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，针对 TON20 导致的网络严重拥堵，TON 官方表示在接下来的10-20小时内，随着更多、更快的验证者加入下一轮验证，预计拥堵情况将大大缓解；已联系超过70...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733401568534544708</id>
-        <link href="https://twitter.com/wublockchain12/status/1733401568534544708"/>
-        <updated>2023-12-09T08:21:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，针对 TON20 导致的网络严重拥堵，TON 官方表示在接下来的10-20小时内，随着更多、更快的验证者加入下一轮验证，预计拥堵情况将大大缓解；已联系超过70%的独立验证者，开始使用提供的补丁进行升级；与 Tonano 团队合作暂停铸币并阻止交易增长，与 Fragment 团队合作暂停拍卖；… https://twitter.com/i/web/status/1733401568534544708
-
-吴说区块链: 吴说获悉，TON 官方频道表示，从12月5日开始 Tonano 团队推出的名为 TON20 的铭文导致短短半小时内产生了超过200万笔交易，网络使用率增加了61倍；这种突然的高峰流量还伴随着TON网络的严重拥塞，即使网络验证者仍在生成区块，验证也严重延迟；Wallet 和 Tonkeeper… https://twitter.com/i/web/status/1732790368142524783]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Zebec 宣布正式推出 Zebec Instant Card，由 VISA 和 Master 两大系统同时授权，将支持 138个国家使用，包括美国与中国。 此产品为业界首个非托管，且...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733398811530412126</id>
-        <link href="https://twitter.com/wublockchain12/status/1733398811530412126"/>
-        <updated>2023-12-09T08:10:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Zebec 宣布正式推出 Zebec Instant Card，由 VISA 和 Master 两大系统同时授权，将支持 138个国家使用，包括美国与中国。 此产品为业界首个非托管，且只要电子邮箱就可以使用的金融卡，不收取任何手续费。Zebec 是一个建立在 Solana 上的结算与支付协议，2022 年宣布从 Solana Ventures… https://twitter.com/i/web/status/1733398811530412126]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -951,23 +949,6 @@ The Gateway to Ownership
 The Gateway to Collectibles
 The Gateway to Mass Adoption
 #TON 💎]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🟨 $DROP is close to let everyone make it. 🟨 Launch on Nov 12, and u shouldn't miss it. 🟨 Follow @dropcoineth & turn notifications on. 🟨 He...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1723042456210469279</id>
-        <link href="https://twitter.com/AntCaveClub/status/1723042456210469279"/>
-        <updated>2023-11-10T18:18:28.000Z</updated>
-        <summary type="html"><![CDATA[🟨 $DROP is close to let everyone make it.
-🟨 Launch on Nov 12, and u shouldn't miss it.
-🟨 Follow @dropcoineth & turn notifications on.
-🟨 Here's ur last ticket to get $DROP at no cost https://dropcoin.club.
-https://twitter.com/DropCoinEth/status/1722922638438228030
-
-$DROP: 🟨 GM!
-⬛️ WEN $DROP?]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
         </author>
