@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-11T02:26:53.110Z</id>
+    <id>urn:2023-12-11T03:13:59.011Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-11T02:26:53.110Z</updated>
+    <updated>2023-12-11T03:13:59.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,6 +15,16 @@
 Bill Ackman: Betting markets on @Harvard and @MIT presidents staying in office by January 1, 2025. Both contracts look undervalued:]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Worldcoin 发布公告称，其将于 12 月 15 日与 5 家做市商终止协议，此前它们共获得 1 亿枚 WLD 贷款，根据协议条款，做市商将被要求归还剩余的 7500 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1734015601801412678</id>
+        <link href="https://twitter.com/wublockchain12/status/1734015601801412678"/>
+        <updated>2023-12-11T01:01:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Worldcoin 发布公告称，其将于 12 月 15 日与 5 家做市商终止协议，此前它们共获得 1 亿枚 WLD 贷款，根据协议条款，做市商将被要求归还剩余的 7500 万枚 WLD。因此 12 月 15 日的流通供应量最多可能会减少 7500 万枚 WLD，这取决于做市商选择不购买而直接归还给 World Assets Ltd… https://twitter.com/i/web/status/1734015601801412678]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +253,6 @@ I know that these last weeks/months, most people have increased the value of the
         <summary type="html"><![CDATA[另外，Adam 补充道：目前没有听到关于软分叉或硬分叉的信息，要知道比特币的抗审查模型是，本地矿池的政策仅在本地生效，其他矿工/矿池可以挖掘别的矿工/矿池不挖掘的内容。而且现在有了 Stratum V2（矿池通信协议的升级版本）和承诺交易（Committed… https://twitter.com/i/web/status/1733804150004322362
 
 吴说区块链: 吴说获悉，针对近期铭文的争议，BlockStream CEO Adam Back 表示：在比特币中有两种交易接纳标准，“IsStandard()”是节点会将交易中继并纳入区块，“IsValid()”是节点在交易被挖出后会接受其有效性，但不会中继或纳入区块。op_return 低于 80 字节的被认为 IsStandard，]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，MetaMask 宣布已与六国的支付平台达成合作，包括越南的 VietQR 和 Mobile Money、菲律宾的 GCash、印度尼西亚的 QRIS、泰国的 Thai QR、埃及的 Vodafo...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1733790987124912536</id>
-        <link href="https://twitter.com/wublockchain12/status/1733790987124912536"/>
-        <updated>2023-12-10T10:09:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，MetaMask 宣布已与六国的支付平台达成合作，包括越南的 VietQR 和 Mobile Money、菲律宾的 GCash、印度尼西亚的 QRIS、泰国的 Thai QR、埃及的 Vodafone Cash 和智利的 Webpay。并已支持越南、马来西亚、日本和韩国的本地转账。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=43&id=21478]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -849,27 +849,6 @@ http://drop.gaslite.org
 gatekeep
 gaslite
 gas bad]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$DROP listing date has been announced! It would be a shame if you miss it $DROP: Nov 12, 10:00 UTC, let's make every candle green! https://twitter.com...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1723347274124685520</id>
-        <link href="https://twitter.com/AntCaveClub/status/1723347274124685520"/>
-        <updated>2023-11-11T14:29:43.000Z</updated>
-        <summary type="html"><![CDATA[$DROP listing date has been announced!
-It would be a shame if you miss it
-$DROP: Nov 12, 10:00 UTC, let's make every candle green!
-https://twitter.com/DropCoinEth/status/1723316125662912887
-
-$DROP: ⚠️ $DROP LISTING: NOV 12, 10:00 UTC:
-🟨 Turn on notifications
-🟨 Set a reminder
-🟨 Mark it in ur calendar
-🟨 Ask ur mom to wake u up
-🟨 Do whatever u like, but don't miss it
-💛 One community, one fam, one $DROP.]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
         </author>
