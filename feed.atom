@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-11T19:10:39.630Z</id>
+    <id>urn:2023-12-11T20:14:24.160Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-11T19:10:39.630Z</updated>
+    <updated>2023-12-11T20:14:24.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @LukeDashjr @benthecarman 存在即合理。 别勉强了大哥。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1733932131720519793</id>
+        <link href="https://twitter.com/AntCaveClub/status/1733932131720519793"/>
+        <updated>2023-12-11T17:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @LukeDashjr @benthecarman 存在即合理。 别勉强了大哥。]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT De.Fi 2.0: When assessing the security level of a smart contract, what matters the most is not what functions are present in it, but who controls t...]]></title>
         <id>https://twitter.com/DeFi/status/1734257759737073727</id>
