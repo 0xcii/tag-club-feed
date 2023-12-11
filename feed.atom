@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-11T17:12:17.167Z</id>
+    <id>urn:2023-12-11T18:16:51.364Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-11T17:12:17.167Z</updated>
+    <updated>2023-12-11T18:16:51.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT De.Fi 2.0: When assessing the security level of a smart contract, what matters the most is not what functions are present in it, but who controls t...]]></title>
+        <id>https://twitter.com/DeFi/status/1734257759737073727</id>
+        <link href="https://twitter.com/DeFi/status/1734257759737073727"/>
+        <updated>2023-12-11T17:04:05.000Z</updated>
+        <summary type="html"><![CDATA[RT De.Fi 2.0
+When assessing the security level of a smart contract, what matters the most is not what functions are present in it, but who controls them.
+We made it possible to check the ownership of all contract functions with our http://de.fi/scanner
+Here's how 👇]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0xKNL__ Not unexpected]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1734220233873985598</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1734220233873985598"/>
+        <updated>2023-12-11T16:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xKNL__ Not unexpected]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Circle 发文表示，去年全球稳定币结算额超过 7 万亿美元，而 Visa 和 Mastercard 的结算额为 14 万亿美元；从 2021 年中到 2022 年中，拉丁美洲国家的...]]></title>
         <id>https://twitter.com/wublockchain12/status/1734239259698343994</id>
@@ -458,17 +481,6 @@ Book it.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT billy walsh: r/cryptocurrency activity chart quite possibly the most bullish indicator I've seen in my life.]]></title>
-        <id>https://twitter.com/reaIityobserver/status/1733602158119899506</id>
-        <link href="https://twitter.com/reaIityobserver/status/1733602158119899506"/>
-        <updated>2023-12-09T21:38:57.000Z</updated>
-        <summary type="html"><![CDATA[RT billy walsh
-r/cryptocurrency activity chart quite possibly the most bullish indicator I've seen in my life.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Ivan ─ Crypto, Macro & Geopolitics: Indispensible tool for shitcoining I will shill for free: @ChainEDGE_io Great for following smart money moveme...]]></title>
         <id>https://twitter.com/IvanCryptoSlav/status/1733471418963173634</id>
         <link href="https://twitter.com/IvanCryptoSlav/status/1733471418963173634"/>
@@ -909,24 +921,6 @@ https://t.me/JJsToolsOfTheTrade/14
 @OnChainWizard]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向推文用户空投的工具]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1723572732523425912</id>
-        <link href="https://twitter.com/AntCaveClub/status/1723572732523425912"/>
-        <updated>2023-11-12T05:25:36.000Z</updated>
-        <summary type="html"><![CDATA[向推文用户空投的工具
-
-Pop Punk: Gaslite isn't afraid to ship on a Friday night.
-Airdrops to X post replies is now live on Gaslite Drop.
-You can filter and token gate the recipients too!
-http://drop.gaslite.org
-gatekeep
-gaslite
-gas bad]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
         </author>
     </entry>
 </feed>
