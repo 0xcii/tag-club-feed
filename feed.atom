@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T10:14:12.723Z</id>
+    <id>urn:2023-12-13T11:11:10.931Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T10:14:12.723Z</updated>
+    <updated>2023-12-13T11:11:10.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《TaxDAO：2023印度加密货币税收全攻略：政策、优化与合规要点详解》根据第115BBH条规定，印度加密货币交易所得收益按30%（另加4%税）征税。包括使用加密货币购...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1734846389392429415</id>
+        <link href="https://twitter.com/wublockchain12/status/1734846389392429415"/>
+        <updated>2023-12-13T08:03:05.000Z</updated>
+        <summary type="html"><![CDATA[《TaxDAO：2023印度加密货币税收全攻略：政策、优化与合规要点详解》根据第115BBH条规定，印度加密货币交易所得收益按30%（另加4%税）征税。包括使用加密货币购买商品或服务、将加密货币兑换为其他加密货币、使用法定货币交易加密货币、接收加密货币作为服务报酬与工资、接收加密货币作为礼物、加密货… https://twitter.com/i/web/status/1734846389392429415]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[币安及其创始人赵长鹏在美国证券交易委员会针对其的诉讼中反驳了围绕“投资合同”的论点。币安在周二提交的文件中表示，SEC 的指控主要针对点击网站、从其它匿名...]]></title>
         <id>https://twitter.com/wublockchain12/status/1734833434286231798</id>
@@ -149,16 +159,6 @@
         <link href="https://twitter.com/wublockchain12/status/1734777885737812160"/>
         <updated>2023-12-13T03:30:53.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 @eno_eth，某位社区用户的的钱包资金被盗，所有被盗的钱包都授权给了 OKX DEX，参与攻击的是 OKX DEX: Aggregation Router 智能合约的部署者，目前已经移除了直接攻击的 proxy，影响范围还需要深入研究才可以确定。OKX 回应工程师正在紧急查看。安全研究员 M4ster… https://twitter.com/i/web/status/1734777885737812160]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 GeckoTerminal 数据，Solana 流动性质押协议 mSOL（Marinade staked SOL）在本日凌晨 00:45-1:30 UTC+8 间与 SOL 汇率大幅下跌，一度跌超 15%。在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1734770649422602332</id>
-        <link href="https://twitter.com/wublockchain12/status/1734770649422602332"/>
-        <updated>2023-12-13T03:02:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 GeckoTerminal 数据，Solana 流动性质押协议 mSOL（Marinade staked SOL）在本日凌晨 00:45-1:30 UTC+8 间与 SOL 汇率大幅下跌，一度跌超 15%。在此期间，mSOL 价格一度跌破 $65，随后反弹至 $75 上方。链上数据显示，一名巨鲸（85b5jK…9PqTPA）在此期间抛售了价值超过 800 万美元的… https://twitter.com/i/web/status/1734770649422602332]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
