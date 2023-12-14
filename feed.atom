@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T06:17:04.885Z</id>
+    <id>urn:2023-12-14T07:12:05.477Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T06:17:04.885Z</updated>
+    <updated>2023-12-14T07:12:05.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《美国加密资产会计准则新规带来何种影响？详解加密资产会计处理》（作者 TaxDAO）相较于成本法每年一次的减值核算而言，公允价值法需要更频繁地加密资产价值是...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735183312313061887</id>
+        <link href="https://twitter.com/wublockchain12/status/1735183312313061887"/>
+        <updated>2023-12-14T06:21:54.000Z</updated>
+        <summary type="html"><![CDATA[《美国加密资产会计准则新规带来何种影响？详解加密资产会计处理》（作者 TaxDAO）相较于成本法每年一次的减值核算而言，公允价值法需要更频繁地加密资产价值是否有变化，并计提相应的公允价值变动损益，这给公司的会计核算增加了负担。对于 MicroStrategy… https://twitter.com/i/web/status/1735183312313061887]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @goh_ollie @ChainEDGE_io 1-There is no overvalued, this is crypto 2-I look for flat to rising smart holdings and audit the PnL/track record of curr...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1735177952164282373</id>
@@ -25,6 +35,26 @@
         <summary type="html"><![CDATA[An underappreciated feature of @ChainEDGE_io smart money is our evm cross chain data.   For example on $WOLF we noticed $28k of smart buys over the past 3 days (since launch) at an average price of $0.00000068.  The token trades at $0.00002774 or 40x higher]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bitcoin Ordinals OG 集合 Bitcoin Shrooms 已于近日在知名传统拍卖行苏富比完成拍卖，这是 Ordinals 在传统拍卖行的首次拍卖。苏富比对 Bitcoin Shro...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735166297682665714</id>
+        <link href="https://twitter.com/wublockchain12/status/1735166297682665714"/>
+        <updated>2023-12-14T05:14:17.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bitcoin Ordinals OG 集合 Bitcoin Shrooms 已于近日在知名传统拍卖行苏富比完成拍卖，这是 Ordinals 在传统拍卖行的首次拍卖。苏富比对 Bitcoin Shrooms 三幅作品的估价为 2 万至 3 万美元，最终这三幅作品分别以 107,950 美元、101,600 美元和 241,300 美元成交。Bitcoin Shrooms 由… https://twitter.com/i/web/status/1735166297682665714]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Decenter，一个韩国投资者团体向公平贸易委员会提出投诉，指控加密交易所 Bithumb 从事不公平销售行为，通过大幅降低交易费用（该交易所唯一的收入...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735163090696839407</id>
+        <link href="https://twitter.com/wublockchain12/status/1735163090696839407"/>
+        <updated>2023-12-14T05:01:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Decenter，一个韩国投资者团体向公平贸易委员会提出投诉，指控加密交易所 Bithumb 从事不公平销售行为，通过大幅降低交易费用（该交易所唯一的收入来源）的价格，将竞争对手排除在市场之外。不过，韩国加密交易所尝试降低交易费用已有多个先例，韩国最大加密交易所 Upbit 将原本 0.139%… https://twitter.com/i/web/status/1735163090696839407]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -334,46 +364,6 @@ Bill: And we’re are off to the races…]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1735092841473581387"/>
         <updated>2023-12-14T00:22:24.000Z</updated>
         <summary type="html"><![CDATA[美国商品期货交易委员会（CFTC）已批准比特币期货平台 Bitnomial 在美国注册为衍生品清算组织，允许其结算保证金期货和期权合约。Bitnomial 已经获准作为指定的合约市场运营，允许其上市期货和期权合约，同时作为期货佣金商，允许其与客户进行交易。（ CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21628]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Starknet v0.13.0 版本已在测试网上线，此版本新增了 V3 交易功能，预计将在 STRK 变得可转移后，大幅简化交易费用支付流程。此外，该版本还包括一系...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735090775938285878</id>
-        <link href="https://twitter.com/wublockchain12/status/1735090775938285878"/>
-        <updated>2023-12-14T00:14:12.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Starknet v0.13.0 版本已在测试网上线，此版本新增了 V3 交易功能，预计将在 STRK 变得可转移后，大幅简化交易费用支付流程。此外，该版本还包括一系列即将推出的新功能，如费用市场、支付主体和选择模式。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=45&id=21627]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @BitcoinMagazine，Invesco 和 Galaxy 向美 SEC 提交了第三次修订后的比特币现货 ETF 修正案（S-1文件）。https://www.wublock123.com/index.php?m...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735087367210590285</id>
-        <link href="https://twitter.com/wublockchain12/status/1735087367210590285"/>
-        <updated>2023-12-14T00:00:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @BitcoinMagazine，Invesco 和 Galaxy 向美 SEC 提交了第三次修订后的比特币现货 ETF 修正案（S-1文件）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21626]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 将在 Solana 网络（ SPL 代币）上添加对 Bonk(BONK) 的支持，且平台对该资产标记为“实验性”标签。如果满足流动性条件，交易将于北京时间 1...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735084863269875786</id>
-        <link href="https://twitter.com/wublockchain12/status/1735084863269875786"/>
-        <updated>2023-12-13T23:50:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 将在 Solana 网络（ SPL 代币）上添加对 Bonk(BONK) 的支持，且平台对该资产标记为“实验性”标签。如果满足流动性条件，交易将于北京时间 12 月 15 日 1 点开始。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21625]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC 已批准 Hashdex 比特币期货 ETF 的拟议规则变更，该变更旨在更改与 ETF 相关的某些表述，彭博分析师 James Seyffart 表示，他认为这是将 Hashdex 从 Teucriu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735082840948412768</id>
-        <link href="https://twitter.com/wublockchain12/status/1735082840948412768"/>
-        <updated>2023-12-13T23:42:40.000Z</updated>
-        <summary type="html"><![CDATA[SEC 已批准 Hashdex 比特币期货 ETF 的拟议规则变更，该变更旨在更改与 ETF 相关的某些表述，彭博分析师 James Seyffart 表示，他认为这是将 Hashdex 从 Teucrium 转移到 Tidal 信托的批准命令。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21624]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
