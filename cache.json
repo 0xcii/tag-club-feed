@@ -6,36 +6,6 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
-          "id": "https://twitter.com/wublockchain12/status/1735320657481830530",
-          "author": "吴说区块链",
-          "description": "吴说获悉，LayerZero 宣布推出 V2 版本，并在 40 多个测试网上部署。此次升级引入的主要功能：去中心化验证网络（DVN）、适配器、无许可执行、提高吞吐量等。主网预计于 2024 年 1 月启动。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=21661",
-          "link": "https://twitter.com/wublockchain12/status/1735320657481830530",
-          "publishedOn": "2023-12-14T15:27:40.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，LayerZero 宣布推出 V2 版本，并在 40 多个测试网上部署。此次升级引入的主要功能：去中心化验证网络（DVN）、适配器、无许可执行、提高吞吐量等。主...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735296415931490752",
-          "author": "吴说区块链",
-          "description": "Re MetaMask  表示已经部署了 MetaMask Portfolio 的修复程序。最新版本 v2.121.0 的用户将能够再次进行交易并且将自动更新。",
-          "link": "https://twitter.com/wublockchain12/status/1735296415931490752",
-          "publishedOn": "2023-12-14T15:22:14.000Z",
-          "wordCount": null,
-          "title": "Re MetaMask 表示已经部署了 MetaMask Portfolio 的修复程序。最新版本 v2.121.0 的用户将能够再次进行交易并且将自动更新。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735318944771375474",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Tether 新任 CEO Paolo Ardoino 发布推文表示，Tether 刚刚冻结了 Ledger 漏洞利用者的地址。链上数据显示，0x658729879fca881d9526480b82ae00efc54b5c2d 在 15 分钟前被 Tether 加入黑名单，该地址持有 4.4 万枚 USDT，除此之外还有 STETH、USDC 等资产共计 41.2… https://twitter.com/i/web/status/1735318944771375474",
-          "link": "https://twitter.com/wublockchain12/status/1735318944771375474",
-          "publishedOn": "2023-12-14T15:20:51.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Tether 新任 CEO Paolo Ardoino 发布推文表示，Tether 刚刚冻结了 Ledger 漏洞利用者的地址。链上数据显示，0x658729879fca881d9526480b82ae00efc54b5...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/wublockchain12/status/1735313006844952924",
           "author": "吴说区块链",
           "description": "吴说获悉，Bitrace 披露，有两名受害人在 Ledger 遭供应链攻击事件披露后，出于恐慌试图将资产转入新地址但下载了假钱包APP，导致总计 9.7 ETH 与超过 60000 USDT 被盗取。Bitrace 提醒恐慌之下的假钱包盗币风险。早先分布式创始人沈波也在恐慌下从 FTX 提币至非托管钱包，导致被盗 4200… https://twitter.com/i/web/status/1735313006844952924",
@@ -173,6 +143,36 @@
           "publishedOn": "2023-12-14T13:02:49.000Z",
           "wordCount": null,
           "title": "吴说获悉，据 http://Greeks.live，美联储主席鲍威尔的鸽派言论略超出大家的预期，主要投机市场均出现明显上涨。期权数据方面，BTC 看涨期权的交易占据绝对主导...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735279455051080059",
+          "author": "吴说区块链",
+          "description": "Re 据 Blockaid，其检测到 ledgerconnect 套件存在潜在的供应链攻击，攻击者将钱包耗尽的有效负载注入到流行的 NPM 包中。这影响了 Sushi、hey 等 dapp。",
+          "link": "https://twitter.com/wublockchain12/status/1735279455051080059",
+          "publishedOn": "2023-12-14T12:56:31.000Z",
+          "wordCount": null,
+          "title": "Re 据 Blockaid，其检测到 ledgerconnect 套件存在潜在的供应链攻击，攻击者将钱包耗尽的有效负载注入到流行的 NPM 包中。这影响了 Sushi、hey 等 dapp。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735280601736077526",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @g4sarah， Zapper 前端疑似被劫持。吴说提醒读者，警惕陌生链接，注意资产安全。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=21654",
+          "link": "https://twitter.com/wublockchain12/status/1735280601736077526",
+          "publishedOn": "2023-12-14T12:48:30.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 @g4sarah， Zapper 前端疑似被劫持。吴说提醒读者，警惕陌生链接，注意资产安全。https://www.wublock123.com/index.php?m=content&c=index&a=show...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735279455051080059",
+          "author": "吴说区块链",
+          "description": "吴说获悉，SushiSwap CTO Matthew Lilley 发推称，在进一步通知之前，请不要与任何去中心化应用（dApps）进行互动。看起来一个常用的 web3 连接器已经被破坏，导致恶意代码的注入，影响了众多的去中心化应用。随后，他又在评论中表示 Ledger 可能存在可疑代码。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=21653",
+          "link": "https://twitter.com/wublockchain12/status/1735279455051080059",
+          "publishedOn": "2023-12-14T12:43:56.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，SushiSwap CTO Matthew Lilley 发推称，在进一步通知之前，请不要与任何去中心化应用（dApps）进行互动。看起来一个常用的 web3 连接器已经被破坏，导...",
           "imageUrl": null
         }
       ]

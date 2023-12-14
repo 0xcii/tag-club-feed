@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T18:16:41.095Z</id>
+    <id>urn:2023-12-14T19:10:25.978Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T18:16:41.095Z</updated>
+    <updated>2023-12-14T19:10:25.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,36 +13,6 @@
         <summary type="html"><![CDATA[Re @valuations_ Rates have followed inflation. All u need to do was follow cpi trend to know where rates were going]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，LayerZero 宣布推出 V2 版本，并在 40 多个测试网上部署。此次升级引入的主要功能：去中心化验证网络（DVN）、适配器、无许可执行、提高吞吐量等。主...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735320657481830530</id>
-        <link href="https://twitter.com/wublockchain12/status/1735320657481830530"/>
-        <updated>2023-12-14T15:27:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，LayerZero 宣布推出 V2 版本，并在 40 多个测试网上部署。此次升级引入的主要功能：去中心化验证网络（DVN）、适配器、无许可执行、提高吞吐量等。主网预计于 2024 年 1 月启动。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=21661]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re MetaMask 表示已经部署了 MetaMask Portfolio 的修复程序。最新版本 v2.121.0 的用户将能够再次进行交易并且将自动更新。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735296415931490752</id>
-        <link href="https://twitter.com/wublockchain12/status/1735296415931490752"/>
-        <updated>2023-12-14T15:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Re MetaMask  表示已经部署了 MetaMask Portfolio 的修复程序。最新版本 v2.121.0 的用户将能够再次进行交易并且将自动更新。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Tether 新任 CEO Paolo Ardoino 发布推文表示，Tether 刚刚冻结了 Ledger 漏洞利用者的地址。链上数据显示，0x658729879fca881d9526480b82ae00efc54b5...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735318944771375474</id>
-        <link href="https://twitter.com/wublockchain12/status/1735318944771375474"/>
-        <updated>2023-12-14T15:20:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Tether 新任 CEO Paolo Ardoino 发布推文表示，Tether 刚刚冻结了 Ledger 漏洞利用者的地址。链上数据显示，0x658729879fca881d9526480b82ae00efc54b5c2d 在 15 分钟前被 Tether 加入黑名单，该地址持有 4.4 万枚 USDT，除此之外还有 STETH、USDC 等资产共计 41.2… https://twitter.com/i/web/status/1735318944771375474]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -263,6 +233,36 @@ bullish]]></summary>
         <link href="https://twitter.com/wublockchain12/status/1735284206262161830"/>
         <updated>2023-12-14T13:02:49.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 http://Greeks.live，美联储主席鲍威尔的鸽派言论略超出大家的预期，主要投机市场均出现明显上涨。期权数据方面，BTC 看涨期权的交易占据绝对主导地位，占据了所有期权交易量的 50%。其中大宗交易中主动买入年底看涨期权的占比也有 50%，目前 Dec29 到期的期权 IV… https://twitter.com/i/web/status/1735284206262161830]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 据 Blockaid，其检测到 ledgerconnect 套件存在潜在的供应链攻击，攻击者将钱包耗尽的有效负载注入到流行的 NPM 包中。这影响了 Sushi、hey 等 dapp。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735279455051080059</id>
+        <link href="https://twitter.com/wublockchain12/status/1735279455051080059"/>
+        <updated>2023-12-14T12:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Re 据 Blockaid，其检测到 ledgerconnect 套件存在潜在的供应链攻击，攻击者将钱包耗尽的有效负载注入到流行的 NPM 包中。这影响了 Sushi、hey 等 dapp。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @g4sarah， Zapper 前端疑似被劫持。吴说提醒读者，警惕陌生链接，注意资产安全。https://www.wublock123.com/index.php?m=content&c=index&a=show...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735280601736077526</id>
+        <link href="https://twitter.com/wublockchain12/status/1735280601736077526"/>
+        <updated>2023-12-14T12:48:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @g4sarah， Zapper 前端疑似被劫持。吴说提醒读者，警惕陌生链接，注意资产安全。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=21654]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，SushiSwap CTO Matthew Lilley 发推称，在进一步通知之前，请不要与任何去中心化应用（dApps）进行互动。看起来一个常用的 web3 连接器已经被破坏，导...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1735279455051080059</id>
+        <link href="https://twitter.com/wublockchain12/status/1735279455051080059"/>
+        <updated>2023-12-14T12:43:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，SushiSwap CTO Matthew Lilley 发推称，在进一步通知之前，请不要与任何去中心化应用（dApps）进行互动。看起来一个常用的 web3 连接器已经被破坏，导致恶意代码的注入，影响了众多的去中心化应用。随后，他又在评论中表示 Ledger 可能存在可疑代码。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=21653]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
