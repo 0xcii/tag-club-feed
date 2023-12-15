@@ -6,6 +6,46 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1735560050008035773",
+          "author": "吴说区块链",
+          "description": "Re （Slashable Message 为可能导致节点被惩罚的消息，包括重复或无效的区块和 Blob 的广播。具体事宜：新 Beacon Chain API、测量区块传播时间、Blob 的 Gossip 条件、减小 libp2p 网络协议中大消息的放大）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=38&id=21687",
+          "link": "https://twitter.com/wublockchain12/status/1735560050008035773",
+          "publishedOn": "2023-12-15T07:18:56.000Z",
+          "wordCount": null,
+          "title": "Re （Slashable Message 为可能导致节点被惩罚的消息，包括重复或无效的区块和 Blob 的广播。具体事宜：新 Beacon Chain API、测量区块传播时间、Blob 的 Gossip...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735560050008035773",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Christine Kim 对第 124 次以太坊共识层核心开发者会议（ACDC）的总结，本次会议主要讨论了：Devnet-12 进展（所有 EL/CL 客户端都已到位，开发人员仍在按计划在年底前对 Goerli 测试网进行影子分叉）、Dencun 升级后 Slashable Message 传播和时序相关的几个事宜",
+          "link": "https://twitter.com/wublockchain12/status/1735560050008035773",
+          "publishedOn": "2023-12-15T07:18:55.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Christine Kim 对第 124 次以太坊共识层核心开发者会议（ACDC）的总结，本次会议主要讨论了：Devnet-12 进展（所有 EL/CL 客户端都已到位，开发人...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735548820887380447",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Bitget 交易所宣布即将上线 Launchpad 项目 TonUP (UP)，基于 BGB 投入模式。TonUP 是在 TON 区块链上运行的一个 Launchpad 平台，TonUp 得到了 TON 基金会、TONCoinFund 和 ForesightX 的支持。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21686",
+          "link": "https://twitter.com/wublockchain12/status/1735548820887380447",
+          "publishedOn": "2023-12-15T06:34:18.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Bitget 交易所宣布即将上线 Launchpad 项目 TonUP (UP)，基于 BGB 投入模式。TonUP 是在 TON 区块链上运行的一个 Launchpad 平台，TonUp 得到了 TON ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1735539333120008359",
+          "author": "吴说区块链",
+          "description": "吴说获悉，日本手表品牌卡西欧（Casio）宣布在以太坊上发布虚拟 G-SHOCK NFT，共 2000 件，每个售价 0.1 ETH。NFT 持有者将获得 Casio 的幕后体验，包括参观 G-Shock 实验室和与设计师的讨论会。此前 9 月，Casio 与 Polygon Labs 合作，在 Polygon 区块链上推出虚拟 G-SHOCK 手表。… https://twitter.com/i/web/status/1735539333120008359",
+          "link": "https://twitter.com/wublockchain12/status/1735539333120008359",
+          "publishedOn": "2023-12-15T05:56:36.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，日本手表品牌卡西欧（Casio）宣布在以太坊上发布虚拟 G-SHOCK NFT，共 2000 件，每个售价 0.1 ETH。NFT 持有者将获得 Casio 的幕后体验，包括参观 G-S...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1735512126825898145",
           "author": "吴说区块链",
           "description": "Re 吴说获悉，据 @jackthepine 数据面板，在 12 月 14 日，Solana 大热 Memecoin BONK 链上交易量达 8,900 万美元，当日净购买金额超过 330 万美元，均创下历史新高。BONK 近 24 小时涨超 110%，持续创下历史新高。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21682",
@@ -153,46 +193,6 @@
           "publishedOn": "2023-12-15T02:38:48.000Z",
           "wordCount": null,
           "title": "吴说获悉，据 Parsec 数据，去中心化稳定币协议 Ethena USDe 在近一周供应量增长超过 800% 达 1,290 万美元，持续创下历史新高。Ethena USDe 目前面向大规模投资...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735485274501648709",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Sui 宣布将向 3 个流动性质押协议及其相应的流动性质押代币（LST）注入 2500 万枚 SUI，为 DeFi 领域增加流动性。选择接受代币委托的 LST 来自于 2023 年 8 月 16 日至 10 月 2 日举行的 Sui Liquid Stake 黑客松获胜者，分别为 Aftermath Finance（afSUI）、Haedal Protocol（haSUI）和… https://twitter.com/i/web/status/1735485274501648709",
-          "link": "https://twitter.com/wublockchain12/status/1735485274501648709",
-          "publishedOn": "2023-12-15T02:21:47.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Sui 宣布将向 3 个流动性质押协议及其相应的流动性质押代币（LST）注入 2500 万枚 SUI，为 DeFi 领域增加流动性。选择接受代币委托的 LST 来自于 2023...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735482677132656956",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据福布斯，数字银行 Pave Bank 宣布完成 520 万美元融资，468 Capital 领投，Quona Capital、Financial Technology Partners、BR Capital、w3 fund、Daedalus 等参投。Pave Bank 正在创新可编程货币理念。此外，Pave Bank… https://twitter.com/i/web/status/1735482677132656956",
-          "link": "https://twitter.com/wublockchain12/status/1735482677132656956",
-          "publishedOn": "2023-12-15T02:11:28.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据福布斯，数字银行 Pave Bank 宣布完成 520 万美元融资，468 Capital 领投，Quona Capital、Financial Technology Partners、BR Capital、w3 fund、D...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735481845981048856",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Arbitrum 基金会提议 Celo 过渡到 Ethereum L2 时采用 Arbitrum Orbit 技术堆栈解决方案，来部署 Celo L2 Orbit 链。此前，Celo 计划采用 OP Stack 作为 L2 架构，而 Polygon Labs 曾提议其采用 Polygon CDK 来构建。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=45&id=21672",
-          "link": "https://twitter.com/wublockchain12/status/1735481845981048856",
-          "publishedOn": "2023-12-15T02:08:10.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Arbitrum 基金会提议 Celo 过渡到 Ethereum L2 时采用 Arbitrum Orbit 技术堆栈解决方案，来部署 Celo L2 Orbit 链。此前，Celo 计划采用 OP Stack 作...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735476760043487375",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据彭博社，比特币第二大机构持有者矿企 Marathon Digital 首席执行官 Fred Thiel 表示，计划在未来两年内购买更多比特币矿机和相关基础设施。其称，Marathon Digital 打算在 2024 年和 2025 年大幅扩张。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=9&id=21671",
-          "link": "https://twitter.com/wublockchain12/status/1735476760043487375",
-          "publishedOn": "2023-12-15T01:47:57.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据彭博社，比特币第二大机构持有者矿企 Marathon Digital 首席执行官 Fred Thiel 表示，计划在未来两年内购买更多比特币矿机和相关基础设施。其称，Ma...",
           "imageUrl": null
         }
       ]
