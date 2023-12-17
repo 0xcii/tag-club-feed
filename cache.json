@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1736285970277007448",
+          "author": "吴说区块链",
+          "description": "《Haotian：对 zkSync 突发事件的分析 铭文为 L2 带来压力测试》主要因为 Metamask 的 RPC 响应时间和反馈逻辑和 zkSync 的 Sequencer 排队打包交易逻辑存在“不兼容”所致。zkSync 链并未“宕机”，只是浏览器前端显示问题。ZK-Rollup 的特殊机制决定了，处理的交易量越大，Gas… https://twitter.com/i/web/status/1736285970277007448",
+          "link": "https://twitter.com/wublockchain12/status/1736285970277007448",
+          "publishedOn": "2023-12-17T07:23:28.000Z",
+          "wordCount": null,
+          "title": "《Haotian：对 zkSync 突发事件的分析 铭文为 L2 带来压力测试》主要因为 Metamask 的 RPC 响应时间和反馈逻辑和 zkSync 的 Sequencer 排队打包交易逻辑存在“不...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1736266174349148190",
+          "author": "吴说区块链",
+          "description": "一周热门项目动态: 铭文热度再创新高、Solana链上交易额超越以太坊、Worldcoin发布World ID 2.0等（1210-1216）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21733",
+          "link": "https://twitter.com/wublockchain12/status/1736266174349148190",
+          "publishedOn": "2023-12-17T06:04:48.000Z",
+          "wordCount": null,
+          "title": "一周热门项目动态: 铭文热度再创新高、Solana链上交易额超越以太坊、Worldcoin发布World ID 2.0等（1210-1216） https://www.wublock123.com/index.php?m=conten...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1736227984481386902",
           "author": "吴说区块链",
           "description": "吴说获悉，Blockstream 创始人 Adam Back 表示，你无法阻止比特币上的 JPEG，抱怨只会让它们做得更多，试图阻止它们只会让它们用更糟糕的方式做，高额的手续费将促进 Layer2… https://twitter.com/i/web/status/1736227984481386902",
@@ -163,26 +183,6 @@
           "publishedOn": "2023-12-16T07:22:29.000Z",
           "wordCount": null,
           "title": "Re 值得注意是，CMC 数据显示，近 24 小时韩国交易所 Bithumb CFX 现货交易量达 2,900 万美元，超过了 Binance，全网占比达 34%。而在 15 日晚 22 时 UTC+8，Bit...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735918192529383590",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 ConfluxScan 数据，受铭文活动热潮影响，12 月 15 日，Conflux 单日交易笔数达 178.8 万笔，CFX 日交易笔数达 10 万笔，均创下年内新高；当日活跃账户数达 1.77 万。此外，Conflux 每日交易 TPS 自 2021 年 4 月上旬以来首次超过 20。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21720",
-          "link": "https://twitter.com/wublockchain12/status/1735918192529383590",
-          "publishedOn": "2023-12-16T07:02:03.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 ConfluxScan 数据，受铭文活动热潮影响，12 月 15 日，Conflux 单日交易笔数达 178.8 万笔，CFX 日交易笔数达 10 万笔，均创下年内新高；当日活跃...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735895235811799268",
-          "author": "吴说区块链",
-          "description": "吴说获悉，UniSat Wallet 发推表示，今日凌晨 2：30 - 4：30，服务受到持续 ddos 攻击的影响，导致钱包和 API 服务间歇性中断。目前正在积极加强服务器保护并持续监控服务可用性。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=21719",
-          "link": "https://twitter.com/wublockchain12/status/1735895235811799268",
-          "publishedOn": "2023-12-16T05:30:50.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，UniSat Wallet 发推表示，今日凌晨 2：30 - 4：30，服务受到持续 ddos 攻击的影响，导致钱包和 API 服务间歇性中断。目前正在积极加强服务器保护并持...",
           "imageUrl": null
         }
       ]
@@ -690,6 +690,26 @@
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1736284457773178941",
+          "author": "Surfer",
+          "description": "Financial crisis really cucked the developed world didn’t it\n\nnear: if you think ai girlfriends are what will kill fertility rates just wait until you find out what the last fifty years did to them",
+          "link": "https://twitter.com/DeFiSurfer808/status/1736284457773178941",
+          "publishedOn": "2023-12-17T07:17:27.000Z",
+          "wordCount": null,
+          "title": "Financial crisis really cucked the developed world didn’t it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1736224881597964567",
+          "author": "Surfer",
+          "description": "Re @SimpleInvestor7 @NotChaseColeman Source?",
+          "link": "https://twitter.com/DeFiSurfer808/status/1736224881597964567",
+          "publishedOn": "2023-12-17T06:59:16.000Z",
+          "wordCount": null,
+          "title": "Re @SimpleInvestor7 @NotChaseColeman Source?",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1735771391155184095",
           "author": "Surfer",
           "description": "Re @Cryptoyieldinfo @trading_vapor Based",
@@ -867,16 +887,6 @@
           "publishedOn": "2023-12-15T23:43:07.000Z",
           "wordCount": null,
           "title": "Re @paoloardoino How big is the dev team at tether?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1735805625748316618",
-          "author": "Surfer",
-          "description": "Last time I tweeted out a thread about how I’m not selling a token that just had a mega pump the token proceeded to decline 97%. $rdpx\nhttps://x.com/defisurfer808/status/1482415800917143554?s=46&t=_sZ6xyyOBuoMYsKE6B_heA\n\nUnipcs 🎒: Earlier today, @LawliettesLab posted a screenshot of my 8 figures $BONK PnL that has since gone viral.\nThat PnL hit another ATH hours later and went up by ~$2 million (screenshot)\nI DO NOT INTEND TO CLOSE THE POSITION ANYTIME SOON. God willing!\nThis thread explains why...",
-          "link": "https://twitter.com/DeFiSurfer808/status/1735805625748316618",
-          "publishedOn": "2023-12-15T23:34:45.000Z",
-          "wordCount": null,
-          "title": "Last time I tweeted out a thread about how I’m not selling a token that just had a mega pump the token proceeded to decline 97%. $rdpx https://x.com/...",
           "imageUrl": null
         }
       ]
