@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T05:11:54.222Z</id>
+    <id>urn:2023-12-17T06:15:35.434Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T05:11:54.222Z</updated>
+    <updated>2023-12-17T06:15:35.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @NightTheRapture Woosh]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1736188979924406455</id>
+        <link href="https://twitter.com/OnChainWizard/status/1736188979924406455"/>
+        <updated>2023-12-17T03:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @NightTheRapture Woosh]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Blockstream 创始人 Adam Back 表示，你无法阻止比特币上的 JPEG，抱怨只会让它们做得更多，试图阻止它们只会让它们用更糟糕的方式做，高额的手续费将...]]></title>
         <id>https://twitter.com/wublockchain12/status/1736227984481386902</id>
