@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1736309818288402924",
+          "author": "吴说区块链",
+          "description": "Flooring Protocol 创始人 FreeLunchCapital 表示，Flooring Protocol 的外部/多调用合约存在一个漏洞，导致了这次黑客攻击；目前已经部署了一个修复程序，主合约是安全的，Vaults 和 Safeboxes 中的资产未受影响。此外，FreeLunchCapital… https://twitter.com/i/web/status/1736309818288402924\n\n吴说区块链: 吴说获悉，据 Delegate 创始人 foobar，发现了一个漏洞，0x7E…1428 合约盗走了 14 个 BAYC 和 36 个 Pudgy Penguins，黑客（0x4d…B847）已将所盗 NFT 全部出售，获利约 754 ETH（价值约 160 万美元）。Foobar 表示，这不是 NFT Trader 漏洞，受害者之间的共同授权似乎是 Flooring… https://twitter.com/i/web/status/1736203769845780760",
+          "link": "https://twitter.com/wublockchain12/status/1736309818288402924",
+          "publishedOn": "2023-12-17T08:58:14.000Z",
+          "wordCount": null,
+          "title": "Flooring Protocol 创始人 FreeLunchCapital 表示，Flooring Protocol 的外部/多调用合约存在一个漏洞，导致了这次黑客攻击；目前已经部署了一个修复程序，主合...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1736307169098916028",
+          "author": "吴说区块链",
+          "description": "英国议会议员 Natalie Elphicke 呼吁政府为区块链采取更多行动。她表示，区块链是一个有很大潜力的领域，可以提高全球供应链的透明度，或者用于数字身份和数据用途。加密和数字资产全党议会小组 (APPG)… https://twitter.com/i/web/status/1736307169098916028",
+          "link": "https://twitter.com/wublockchain12/status/1736307169098916028",
+          "publishedOn": "2023-12-17T08:47:42.000Z",
+          "wordCount": null,
+          "title": "英国议会议员 Natalie Elphicke 呼吁政府为区块链采取更多行动。她表示，区块链是一个有很大潜力的领域，可以提高全球供应链的透明度，或者用于数字身份和数据用...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1736297589497377120",
+          "author": "吴说区块链",
+          "description": "帕劳财政部正式启动帕劳稳定币（PSC）计划第二阶段。PSC 计划的第二阶段将优先发展数字生态系统和提高用户参与度，强调遵守监管合规性，并扩大与 Ripple 的合作关系。此前帕劳表示 PSC 第一阶段取得成功，参与者获得 PSC… https://twitter.com/i/web/status/1736297589497377120",
+          "link": "https://twitter.com/wublockchain12/status/1736297589497377120",
+          "publishedOn": "2023-12-17T08:09:38.000Z",
+          "wordCount": null,
+          "title": "帕劳财政部正式启动帕劳稳定币（PSC）计划第二阶段。PSC 计划的第二阶段将优先发展数字生态系统和提高用户参与度，强调遵守监管合规性，并扩大与 Ripple 的合作...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1736285970277007448",
           "author": "吴说区块链",
           "description": "《Haotian：对 zkSync 突发事件的分析 铭文为 L2 带来压力测试》主要因为 Metamask 的 RPC 响应时间和反馈逻辑和 zkSync 的 Sequencer 排队打包交易逻辑存在“不兼容”所致。zkSync 链并未“宕机”，只是浏览器前端显示问题。ZK-Rollup 的特殊机制决定了，处理的交易量越大，Gas… https://twitter.com/i/web/status/1736285970277007448",
@@ -153,36 +183,6 @@
           "publishedOn": "2023-12-16T12:38:06.000Z",
           "wordCount": null,
           "title": "吴说获悉，P2P 交易平台 NFT Trader 疑似被攻击，大量的蓝筹 NFT 资产被转移。链上数据显示，黑客（0x90…8fda）已盗走了 37 个 BAYC、13 个 MAYC、4 个 World O...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735990948625011038",
-          "author": "吴说区块链",
-          "description": "吴说获悉，链游公会 Yield Guild Games 宣布与育碧链游 Champions Tactics 达成合作，Champions Tactics 是一款 Web3 竞技 PvP 回合制 RPG 游戏，将于明年发布，YGG 将提供支持。此前 6 月，Ubisoft（育碧）宣布即将在 Oasys 区块链上推出链游《Champions Tactics: Grimoria Chronicles》。育碧是… https://twitter.com/i/web/status/1735990948625011038",
-          "link": "https://twitter.com/wublockchain12/status/1735990948625011038",
-          "publishedOn": "2023-12-16T11:51:09.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，链游公会 Yield Guild Games 宣布与育碧链游 Champions Tactics 达成合作，Champions Tactics 是一款 Web3 竞技 PvP 回合制 RPG 游戏，将于明年发布，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735938572010541399",
-          "author": "吴说区块链",
-          "description": "Tap Protocol 已完成由 Sora Ventures 领投的 420 万美元融资。Tap Protocol 提供 Ordinals 的碎片化以及在 Ordinals 上实现去中心化金融应用程序。TAP 以 BRC-20 为基础，保留特定的代码长度（1、2 和 4 个字符），以实现 BRC-20 和 TAP 代币之间未来的互连。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=21721",
-          "link": "https://twitter.com/wublockchain12/status/1735938572010541399",
-          "publishedOn": "2023-12-16T08:23:02.000Z",
-          "wordCount": null,
-          "title": "Tap Protocol 已完成由 Sora Ventures 领投的 420 万美元融资。Tap Protocol 提供 Ordinals 的碎片化以及在 Ordinals 上实现去中心化金融应用程序。TAP 以 BRC-2...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1735918192529383590",
-          "author": "吴说区块链",
-          "description": "Re 值得注意是，CMC 数据显示，近 24 小时韩国交易所 Bithumb CFX 现货交易量达 2,900 万美元，超过了 Binance，全网占比达 34%。而在 15 日晚 22 时 UTC+8，Bithumb CFX 一度拉升至 700KRW（约 $0.54），与其他主流交易所价差超过 150%，随后大幅回落。",
-          "link": "https://twitter.com/wublockchain12/status/1735918192529383590",
-          "publishedOn": "2023-12-16T07:22:29.000Z",
-          "wordCount": null,
-          "title": "Re 值得注意是，CMC 数据显示，近 24 小时韩国交易所 Bithumb CFX 现货交易量达 2,900 万美元，超过了 Binance，全网占比达 34%。而在 15 日晚 22 时 UTC+8，Bit...",
           "imageUrl": null
         }
       ]
