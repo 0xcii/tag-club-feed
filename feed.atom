@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T03:13:17.365Z</id>
+    <id>urn:2023-12-17T04:15:23.289Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T03:13:17.365Z</updated>
+    <updated>2023-12-17T04:15:23.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Blockstream 创始人 Adam Back 表示，你无法阻止比特币上的 JPEG，抱怨只会让它们做得更多，试图阻止它们只会让它们用更糟糕的方式做，高额的手续费将...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1736227984481386902</id>
+        <link href="https://twitter.com/wublockchain12/status/1736227984481386902"/>
+        <updated>2023-12-17T03:33:03.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Blockstream 创始人 Adam Back 表示，你无法阻止比特币上的 JPEG，抱怨只会让它们做得更多，试图阻止它们只会让它们用更糟糕的方式做，高额的手续费将促进 Layer2… https://twitter.com/i/web/status/1736227984481386902]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《研究：RWA 的散户困境与利用 DeFi 的创新方案》目前市场上大部分的 RWA 都只能面向合格投资者，因为面向零售投资者进行合规的发行会有高昂的成本。为了破解这...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1736226275294106039</id>
+        <link href="https://twitter.com/wublockchain12/status/1736226275294106039"/>
+        <updated>2023-12-17T03:26:16.000Z</updated>
+        <summary type="html"><![CDATA[《研究：RWA 的散户困境与利用 DeFi 的创新方案》目前市场上大部分的 RWA 都只能面向合格投资者，因为面向零售投资者进行合规的发行会有高昂的成本。为了破解这一困境，很多探索是面向零售投资者进行合规的发行会有高昂的成本。但通过 DeFi 协议极有可能将资产出售给不该出售的地区或国家的居民，导致… https://twitter.com/i/web/status/1736226275294106039]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 mempool 数据，在 12 月 17 日 00：32 UTC+8，区块 821484，Bitcoin 网络迎来了年度第三高的区块费用，总奖励 13.405 BTC（约 57 万美元），由矿工...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1736215346716316128</id>
+        <link href="https://twitter.com/wublockchain12/status/1736215346716316128"/>
+        <updated>2023-12-17T02:42:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 mempool 数据，在 12 月 17 日 00：32 UTC+8，区块 821484，Bitcoin 网络迎来了年度第三高的区块费用，总奖励 13.405 BTC（约 57 万美元），由矿工 Braiins Pool 捕获。今年的前二高区块费用，分别是 Paxos 因交易所或支付处理器地址软件错误的 19.82 BTC，以及因黑客事件所支付的 83.65… https://twitter.com/i/web/status/1736215346716316128]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Cryptoyieldinfo @trading_vapor Based]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1735771391155184095</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1735771391155184095"/>
+        <updated>2023-12-17T02:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @Cryptoyieldinfo @trading_vapor Based]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Cryptoyieldinfo @trading_vapor U still levered long eth?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1735771391155184095</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1735771391155184095"/>
+        <updated>2023-12-17T02:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @Cryptoyieldinfo @trading_vapor U still levered long eth?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m curious how much of Bitcoin’s pump is etf vs just a general turn in global liquidity conditions. My gut thinks etf just folks trying to rational...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1736205902666178671</id>
@@ -17,6 +67,16 @@ Thomas | heyapollo.com: Larry Fink went on TV called #Bitcoin    a fligh
 Most people aren't capable of thinking for themselves. They're just looking for a leader to guide them. For boomers, Larry is Him.]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Delegate 创始人 foobar，发现了一个漏洞，0x7E…1428 合约盗走了 14 个 BAYC 和 36 个 Pudgy Penguins，黑客（0x4d…B847）已将所盗 NFT 全部出售...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1736203769845780760</id>
+        <link href="https://twitter.com/wublockchain12/status/1736203769845780760"/>
+        <updated>2023-12-17T01:56:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Delegate 创始人 foobar，发现了一个漏洞，0x7E…1428 合约盗走了 14 个 BAYC 和 36 个 Pudgy Penguins，黑客（0x4d…B847）已将所盗 NFT 全部出售，获利约 754 ETH（价值约 160 万美元）。Foobar 表示，这不是 NFT Trader 漏洞，受害者之间的共同授权似乎是 Flooring… https://twitter.com/i/web/status/1736203769845780760]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -302,57 +362,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21720]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Whale Alert，一个未标注地址：1B31du…zxnUgz 于本日 11:52 向 Coinbase Prime 热钱包转移了 2,310 BTC，价值约 9,780 万美元。该地址在两周前从 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735883256661422194</id>
-        <link href="https://twitter.com/wublockchain12/status/1735883256661422194"/>
-        <updated>2023-12-16T04:43:14.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert，一个未标注地址：1B31du…zxnUgz 于本日 11:52 向 Coinbase Prime 热钱包转移了 2,310 BTC，价值约 9,780 万美元。该地址在两周前从 Coinbase Prime 接收到这些 BTC。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21718]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Web3 数据驱动型影响者网络网络 Aki Network 宣布以 5000 万美元估值完成 A 轮融资，融资金额未披露。本轮融资由韩国 Web3 游戏平台 MARBLEX 和一家日...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735863388700631489</id>
-        <link href="https://twitter.com/wublockchain12/status/1735863388700631489"/>
-        <updated>2023-12-16T03:24:17.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Web3 数据驱动型影响者网络网络 Aki Network 宣布以 5000 万美元估值完成 A 轮融资，融资金额未披露。本轮融资由韩国 Web3 游戏平台 MARBLEX 和一家日本风投公司领投，参投方包括 Puzzle Ventures 等。Aki Protocol 表示计划进行多轮 AKI 代币空投。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=41&id=21717]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，DefiLlama 数据显示，过去 24 小时 Solana 上 DEX 交易额约为 14.75 亿美元，该数字是 Solana 上 DEX TVL 的约 4 倍，超过过去 24 小时以太坊上 DEX ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735855741620351282</id>
-        <link href="https://twitter.com/wublockchain12/status/1735855741620351282"/>
-        <updated>2023-12-16T02:53:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，DefiLlama 数据显示，过去 24 小时 Solana 上 DEX 交易额约为 14.75 亿美元，该数字是 Solana 上 DEX TVL 的约 4 倍，超过过去 24 小时以太坊上 DEX 约 11.64 亿美元的交易额。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21716]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据玉林市中级人民法院公众号，广西壮族自治区高级人民法院公布 10 起电信网络诈骗及关联犯罪典型案例，玉林市一起虚拟货币电诈案例入选。该团伙使用国...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735853537941401759</id>
-        <link href="https://twitter.com/wublockchain12/status/1735853537941401759"/>
-        <updated>2023-12-16T02:45:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据玉林市中级人民法院公众号，广西壮族自治区高级人民法院公布 10 起电信网络诈骗及关联犯罪典型案例，玉林市一起虚拟货币电诈案例入选。该团伙使用国外社交软件与外国人聊天，冒充成功人士、美女等，吸引外国人进行虚拟货币投资，先诱骗被害人通过 Binance、Okex… https://twitter.com/i/web/status/1735853537941401759]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，针对"买家发起超低Gas的交易购买铭文，使得短期内无法成交，上涨后加速交易，下跌后取消交易。"的恶意行为，慢雾余弦发推表示，由于交易平台使用的PSB...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1735851130289348926</id>
-        <link href="https://twitter.com/wublockchain12/status/1735851130289348926"/>
-        <updated>2023-12-16T02:35:34.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，针对"买家发起超低Gas的交易购买铭文，使得短期内无法成交，上涨后加速交易，下跌后取消交易。"的恶意行为，慢雾余弦发推表示，由于交易平台使用的PSBT签名机制，确实可以恶意霸占该笔交易一定时间。可以使用 RBF… https://twitter.com/i/web/status/1735851130289348926]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT delian: remember anon, you can have all the success in the world but if you don't forge your family, then what was the point of the success don't f...]]></title>
         <id>https://twitter.com/zebulgar/status/1735818650869776545</id>
         <link href="https://twitter.com/zebulgar/status/1735818650869776545"/>
@@ -397,31 +406,6 @@ Unipcs 🎒: Earlier today, @LawliettesLab posted a screenshot of my 8 figure
 That PnL hit another ATH hours later and went up by ~$2 million (screenshot)
 I DO NOT INTEND TO CLOSE THE POSITION ANYTIME SOON. God willing!
 This thread explains why...]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legit surprised not more concern $bonk went parabolic. CT memory of a gold fish lol]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1735792716641116185</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1735792716641116185"/>
-        <updated>2023-12-15T22:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Legit surprised not more concern $bonk went parabolic. 
-CT memory of a gold fish lol
-
-Pepper: so
-guys
-you're not gonna like this]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Evan_ss6 Please. For me familia]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1735767229571179007</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1735767229571179007"/>
-        <updated>2023-12-15T21:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @Evan_ss6 Please. For me familia]]></summary>
         <author>
             <name>Surfer</name>
         </author>
