@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T14:10:48.929Z</id>
+    <id>urn:2023-12-17T15:11:55.920Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T14:10:48.929Z</updated>
+    <updated>2023-12-17T15:11:55.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1736386298108412325</id>
+        <link href="https://twitter.com/wublockchain12/status/1736386298108412325"/>
+        <updated>2023-12-17T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中金研究指出，美联储本轮周期从基本面角度看并不支持过早降息。美国增长面临深度和突然下滑的可能性较低，金融条件过早下行可能再度激活地产增量需求。但美联储...]]></title>
         <id>https://twitter.com/wublockchain12/status/1736365863325037025</id>
@@ -176,16 +186,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=21733]]
         <link href="https://twitter.com/wublockchain12/status/1736226275294106039"/>
         <updated>2023-12-17T03:26:16.000Z</updated>
         <summary type="html"><![CDATA[《研究：RWA 的散户困境与利用 DeFi 的创新方案》目前市场上大部分的 RWA 都只能面向合格投资者，因为面向零售投资者进行合规的发行会有高昂的成本。为了破解这一困境，很多探索是面向零售投资者进行合规的发行会有高昂的成本。但通过 DeFi 协议极有可能将资产出售给不该出售的地区或国家的居民，导致… https://twitter.com/i/web/status/1736226275294106039]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 mempool 数据，在 12 月 17 日 00：32 UTC+8，区块 821484，Bitcoin 网络迎来了年度第三高的区块费用，总奖励 13.405 BTC（约 57 万美元），由矿工...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1736215346716316128</id>
-        <link href="https://twitter.com/wublockchain12/status/1736215346716316128"/>
-        <updated>2023-12-17T02:42:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 mempool 数据，在 12 月 17 日 00：32 UTC+8，区块 821484，Bitcoin 网络迎来了年度第三高的区块费用，总奖励 13.405 BTC（约 57 万美元），由矿工 Braiins Pool 捕获。今年的前二高区块费用，分别是 Paxos 因交易所或支付处理器地址软件错误的 19.82 BTC，以及因黑客事件所支付的 83.65… https://twitter.com/i/web/status/1736215346716316128]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
