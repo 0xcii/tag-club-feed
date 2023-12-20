@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T00:49:08.870Z</id>
+    <id>urn:2023-12-20T01:33:26.975Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T00:49:08.870Z</updated>
+    <updated>2023-12-20T01:33:26.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[英国财政部长亨特表示，他将调查有关获得许可的加密货币公司在该国开设企业账户遇到困难的指控。他还表示“英国，特别是伦敦，已成为全球加密货币中心。”2022 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1737267034529099899</id>
+        <link href="https://twitter.com/wublockchain12/status/1737267034529099899"/>
+        <updated>2023-12-20T00:21:52.000Z</updated>
+        <summary type="html"><![CDATA[英国财政部长亨特表示，他将调查有关获得许可的加密货币公司在该国开设企业账户遇到困难的指控。他还表示“英国，特别是伦敦，已成为全球加密货币中心。”2022 年 4 月，英国现任首相 Rishi Sunak 在担任英国财政部长期间公布了将国家转变为“全球加密货币中心”的计划。（The Block）… https://twitter.com/i/web/status/1737267034529099899]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，以太坊中继器提供商 bloXroute 发布公告称，将开始拒绝包含美国制裁名单上地址的交易。该公告立即生效，所有 bloXroute 中继将拒绝区块出价，如果它们...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1737266022447472693</id>
+        <link href="https://twitter.com/wublockchain12/status/1737266022447472693"/>
+        <updated>2023-12-20T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，以太坊中继器提供商 bloXroute 发布公告称，将开始拒绝包含美国制裁名单上地址的交易。该公告立即生效，所有 bloXroute 中继将拒绝区块出价，如果它们包含 OFAC 交易（与出现在OFAC SDN名单上的地址进行交互的Tx）。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=38&id=21837
+
+吴说区块链: Titan Builder 是最后一个在他们的区块中包含 OFAC 制裁交易（主要与 Tornado Cash 相关的）的大型构建者。PBS 堆栈有多层审查，包括验证者、中继和区块构建者，其中得益于 Ultra Sound、Agnostic 和 BloXroute 中继，中继抗审查情况得到改善，但越来越多的区块构建者进行审查。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链游戏公司 Immutable 宣布推出 Passport 工具，旨在简化“玩家的注册过程，为玩家提供通用的个人资料，使他们能够在不同的在线游戏和市场上携带自己的身份...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1737265021095399743</id>
+        <link href="https://twitter.com/wublockchain12/status/1737265021095399743"/>
+        <updated>2023-12-20T00:13:52.000Z</updated>
+        <summary type="html"><![CDATA[区块链游戏公司 Immutable 宣布推出 Passport 工具，旨在简化“玩家的注册过程，为玩家提供通用的个人资料，使他们能够在不同的在线游戏和市场上携带自己的身份、成就和数字资产”。 可在《Gods Unchained》等五款游戏和拥有超过 50 万用户的市场上使用。（The Block）
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=41&id=21836]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Look at the heroic left “defending democracy” lmao.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1737261155855548808</id>
@@ -214,58 +248,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=45&id=21826]
         <link href="https://twitter.com/wublockchain12/status/1737089792658284603"/>
         <updated>2023-12-19T12:37:34.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，以太坊分叉网络 ETHW（EthereumPoW）发布 ETHW 核心团队解散声明，并表示在多数共识的基础上，一致决定解散核心开发组织，包括：解散 ETHW 核心开发团队，实现完全自治；坚持 PoW 作为链的基本共识，并长期维护；拥抱去中心化治理，成为无神公链。此外现有服务器将暂时转移到 OneDao… https://twitter.com/i/web/status/1737089792658284603]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Tech Funding News，银行即服务 Web3 平台 Fiat Republic 完成 700 万美元种子轮融资，Kraken Ventures、Fabric Ventures、Arca、Inovo vc、Pretio...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1737086350573391946</id>
-        <link href="https://twitter.com/wublockchain12/status/1737086350573391946"/>
-        <updated>2023-12-19T12:23:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Tech Funding News，银行即服务 Web3 平台 Fiat Republic 完成 700 万美元种子轮融资，Kraken Ventures、Fabric Ventures、Arca、Inovo vc、Pretiosum Ventures 等参投，新资金将用于推动其发展和扩张，以及战略性招聘、加强银行合作伙伴关系以及向新领域扩张等。… https://twitter.com/i/web/status/1737086350573391946]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance Margin 新增 Fusionist（ACE）、Bonk（BONK）和 Nano（XNO）作为全仓和逐仓杠杆的新可借资产，以及全仓保证金和逐仓保证金的新交易对。新全仓...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1737085005288165377</id>
-        <link href="https://twitter.com/wublockchain12/status/1737085005288165377"/>
-        <updated>2023-12-19T12:18:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance Margin 新增 Fusionist（ACE）、Bonk（BONK）和 Nano（XNO）作为全仓和逐仓杠杆的新可借资产，以及全仓保证金和逐仓保证金的新交易对。新全仓保证金货币对：ACE/USDT、ALPACA/USDT、BONK/USDT、DATA/USDT、FUN/USDT；新增逐仓保证金对：ACE/USDT、BONK/USDT、XNO/USDT。… https://twitter.com/i/web/status/1737085005288165377]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @News_Of_Alpha，黑山法院取消 Do Kwon 的引渡批准。黑山波德戈里察法院曾于 11 月 24 日批准将 Terra 创始人 Do Kwon 引渡到韩国或美国，后 Do Kw...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1737076196792574270</id>
-        <link href="https://twitter.com/wublockchain12/status/1737076196792574270"/>
-        <updated>2023-12-19T11:43:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @News_Of_Alpha，黑山法院取消 Do Kwon 的引渡批准。黑山波德戈里察法院曾于 11 月 24 日批准将 Terra 创始人 Do Kwon 引渡到韩国或美国，后 Do Kwon 对引渡决定提起上诉。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=10&id=21821]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安的执法请求面板的访问权限被一名黑客以 1 万美元（比特币或门罗币计价）的价格出售。该面板由第三方服务商 Kodex 提供，用于验证执法机构的请求，可提供对帐...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1737071639710372100</id>
-        <link href="https://twitter.com/wublockchain12/status/1737071639710372100"/>
-        <updated>2023-12-19T11:25:26.000Z</updated>
-        <summary type="html"><![CDATA[币安的执法请求面板的访问权限被一名黑客以 1 万美元（比特币或门罗币计价）的价格出售。该面板由第三方服务商 Kodex 提供，用于验证执法机构的请求，可提供对帐户数据的合法访问权限。币安对此尚未回应。（CoinDesk）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=21820]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，DWF Labs 宣布对 Web3 游戏 MOBOX 进行了战略投资，其投资将推动 MOBOX 在各个交易所提供更多流动性、增强投资组合之间的协同作用、扩大区域关键合作...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1737068162456469632</id>
-        <link href="https://twitter.com/wublockchain12/status/1737068162456469632"/>
-        <updated>2023-12-19T11:11:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，DWF Labs 宣布对 Web3 游戏 MOBOX 进行了战略投资，其投资将推动 MOBOX 在各个交易所提供更多流动性、增强投资组合之间的协同作用、扩大区域关键合作伙伴关系以及在公关和线下活动方面的合作。此前，MOBOX 于 2021 年通过 Binance Launchpool 上市，此后凭借其社区驱动的平台开创了 Web3… https://twitter.com/i/web/status/1737068162456469632]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
