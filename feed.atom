@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-23T19:09:26.721Z</id>
+    <id>urn:2023-12-23T20:12:19.644Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-23T19:09:26.721Z</updated>
+    <updated>2023-12-23T20:12:19.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman is AI’s SBF. U heard it here first.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1738644111589261798</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1738644111589261798"/>
+        <updated>2023-12-23T19:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Sam Altman is AI’s SBF. U heard it here first.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I think this thinking is wrong personally. As long as the price of money as reflected in US interest rates swing around over the coming years crypto i...]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1738637438581719067</id>
@@ -442,19 +452,6 @@ Patrick Scott | Dynamo DeFi: (SOL MCap + AVAX MCap)/ETH MCap broke above its 2
         <link href="https://twitter.com/DeFiSurfer808/status/1738298171980239019"/>
         <updated>2023-12-22T20:41:52.000Z</updated>
         <summary type="html"><![CDATA[Re @jiggycapital Ansys is simulation. Synopsys basically copying cdns strategy (Eda + simulation) if it acquired anss]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yessir. Been wondering when leverage would return to crypto. OI measured in btc and borrowing on aave still super low]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1738298548972921117</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1738298548972921117"/>
-        <updated>2023-12-22T20:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Yessir. Been wondering when leverage would return to crypto. OI measured in btc and borrowing on aave still super low
-
-Not Tiger Global 🍐: A big driver of ETH's $80-$4700 rally during 2020-2021 was DeFi lending (Aave & Compound) > deposit coins, using stables to leverage up and buy more coins. 
-Solana DeFi lending (MarginFi & Kamino) may have similar effects on SOL at some point. Not being discussed enough.]]></summary>
         <author>
             <name>Surfer</name>
         </author>
