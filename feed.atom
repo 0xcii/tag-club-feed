@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T13:14:21.249Z</id>
+    <id>urn:2023-12-25T14:11:32.011Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-25T13:14:21.249Z</updated>
+    <updated>2023-12-25T14:11:32.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CoinShares 研究主管 James Butterfill 发推表示，上周数字资产投资产品净流入 1.03 亿美元，其中比特币投资产品净流入 8760 万美元，以太坊投资产品...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1739270188577788009</id>
+        <link href="https://twitter.com/wublockchain12/status/1739270188577788009"/>
+        <updated>2023-12-25T13:01:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CoinShares 研究主管 James Butterfill 发推表示，上周数字资产投资产品净流入 1.03 亿美元，其中比特币投资产品净流入 8760 万美元，以太坊投资产品净流入 790 万美元，Solana 投资产品净流入 600 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=22023]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@broleonaus，有社区传言称币安钱包将于 1 月 4 日上线铭文板块。或受此影响，ORDI 24小时涨幅超 32%，价格最高涨至 72.8 美元，达历史新高。币安 s...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1739264661508460815</id>
+        <link href="https://twitter.com/wublockchain12/status/1739264661508460815"/>
+        <updated>2023-12-25T12:39:43.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@broleonaus，有社区传言称币安钱包将于 1 月 4 日上线铭文板块。或受此影响，ORDI 24小时涨幅超 32%，价格最高涨至 72.8 美元，达历史新高。币安 sisi 则在社区中表示，此事为谣言。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=22022]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，OKX CEO Star 发推表示，很多朋友催促我上架更多 BRC-20 代币。我想澄清一下，作为交易所，如果我们使用最简单的策略，即上线所有代币，我相信这可能...]]></title>
         <id>https://twitter.com/wublockchain12/status/1739251215358402866</id>
@@ -199,27 +219,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=22009]]
         <link href="https://twitter.com/wublockchain12/status/1739109808895344824"/>
         <updated>2023-12-25T02:24:24.000Z</updated>
         <summary type="html"><![CDATA[《吴说播客文字稿：对话 OKX 钱包负责人》OKX 钱包团队已经超过 500 人？团队成立于 2021 年初，在 5 月成功推出了 Ordinals 市场，源于长期的技术积累和良好的产品体验；希望投入的项目能够持续发展，而不是一夜之间消失；用户规模是最核心的 OKR… https://twitter.com/i/web/status/1739109808895344824]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，比特币上游戏项目 Ordz Games 宣布完成种子轮融资，Waterdrip Capital 领投，UniSat Wallet、CoinSummer、SatoshiLab、Sora Ventures 等参投，具体融...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1739109591592702192</id>
-        <link href="https://twitter.com/wublockchain12/status/1739109591592702192"/>
-        <updated>2023-12-25T02:23:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，比特币上游戏项目 Ordz Games 宣布完成种子轮融资，Waterdrip Capital 领投，UniSat Wallet、CoinSummer、SatoshiLab、Sora Ventures 等参投，具体融资金额暂未披露。介绍称，Ordz Games 是首个将复古游戏代码刻到聪上并通过赛季奖励用户 BRC-20 代币的 Gamefi 项目。… https://twitter.com/i/web/status/1739109591592702192]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Avalanche 头部 DEX Trader Joe 发推表示，已更新部署 Swap Anyway 功能。当合约写入模拟失败时，该功能会消除 Swap 按钮的不可点击状态，目前用户可...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1739099836362969289</id>
-        <link href="https://twitter.com/wublockchain12/status/1739099836362969289"/>
-        <updated>2023-12-25T01:44:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Avalanche 头部 DEX Trader Joe 发推表示，已更新部署 Swap Anyway 功能。当合约写入模拟失败时，该功能会消除 Swap 按钮的不可点击状态，目前用户可以在任何情况下点击 Swap 按钮。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=22007]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
