@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T07:11:45.431Z</id>
+    <id>urn:2023-12-28T08:16:04.642Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-28T07:11:45.431Z</updated>
+    <updated>2023-12-28T08:16:04.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kinda cray that $sol is same market cap that $luna was at the pico top of the bull…]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1740265816170664046</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1740265816170664046"/>
+        <updated>2023-12-28T06:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Kinda cray that $sol is same market cap that $luna was at the pico top of the bull…]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Pickle_cRypto Fact that LT bitcoin holders aren’t selling makes me optimistic we can keep chugging]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1740261427255079019</id>
+        <link href="https://twitter.com/DeFiSurfer808/status/1740261427255079019"/>
+        <updated>2023-12-28T06:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @Pickle_cRypto Fact that LT bitcoin holders aren’t selling makes me optimistic we can keep chugging]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantle 生态铭文平台 Mantscription 宣布基于 man-20 协议完成首个铭文 $mant 公平发射，当前持币地址数为 6,494。$mant 当前铭刻进度 100% ，完成超过 210 万笔...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1740253796943778190</id>
+        <link href="https://twitter.com/wublockchain12/status/1740253796943778190"/>
+        <updated>2023-12-28T06:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Mantle 生态铭文平台 Mantscription 宣布基于 man-20 协议完成首个铭文 $mant 公平发射，当前持币地址数为 6,494。$mant 当前铭刻进度 100% ，完成超过 210 万笔交易，gas 燃烧了 355,932 $MNT 。铭文铸造期间 6 小时均值 tps 在 100 以上， 网络数据同步正常。Mantle 是一个高性能的以太坊第 2… https://twitter.com/i/web/status/1740253796943778190]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @0xjaypeg ATH q1 seems optimistic]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1740246796516143189</id>
@@ -16,6 +46,38 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，Vitalik 在 http://ethresear.ch 论坛发表文章《Sticking to 8192 signatures per slot post-SSF: how and why》，即以太坊实现 SSF （单时隙最终性 S...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1740245249530974491</id>
+        <link href="https://twitter.com/wublockchain12/status/1740245249530974491"/>
+        <updated>2023-12-28T05:36:14.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Vitalik 在 http://ethresear.ch 论坛发表文章《Sticking to 8192 signatures per slot post-SSF: how and why》，即以太坊实现 SSF （单时隙最终性 Single Slot Finality）后为何需要坚持每个时隙 8192 个签名的原因以及可能的实现方案。目前，以太坊有超过 89.5… https://twitter.com/i/web/status/1740245249530974491
+
+吴说区块链: 以太坊联合创始人 Vitalik Buterin 提出了三种简化以太坊权益证明（PoS）共识机制的方法。目标是设计一个每个插槽（slot）只需要 8192 个签名的系统（即使在 SSF… https://twitter.com/i/web/status/1740164450119016905]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，CoinGecko 发推表示，2023 年 AI（11.3%）、GameFi （10.5%）和 Meme（8.3%） 是排名前三的加密叙事，总共吸引了三分之一的投资者兴趣。2023 年十大加...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1740241211355725912</id>
+        <link href="https://twitter.com/wublockchain12/status/1740241211355725912"/>
+        <updated>2023-12-28T05:20:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，CoinGecko 发推表示，2023 年 AI（11.3%）、GameFi （10.5%）和 Meme（8.3%） 是排名前三的加密叙事，总共吸引了三分之一的投资者兴趣。2023 年十大加密叙事分别是 AI、 GameFi 、 Meme币、 Solana生态系统、 BRC-20、 Real World Assets、Layer 1、DeFi、Layer 2… https://twitter.com/i/web/status/1740241211355725912]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@evilcos，Arbitrum 上铭文项目 Libra Protocol 疑似跑路，创建者已将约 231 枚 ETH 转至其他地址。该项目打着the first fair inscription protocol...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1740239744314089914</id>
+        <link href="https://twitter.com/wublockchain12/status/1740239744314089914"/>
+        <updated>2023-12-28T05:14:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@evilcos，Arbitrum 上铭文项目 Libra Protocol 疑似跑路，创建者已将约 231 枚 ETH 转至其他地址。该项目打着the first fair inscription protocol in the world 的名义，实际上只是简单在 Arbitrum 发了可 mint 资产且没开源的合约，每笔 mint… https://twitter.com/i/web/status/1740239744314089914]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @notapornfolder_ When ldo gonna pull one of these Weiner]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1740233648392298727</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1740233648392298727"/>
@@ -23,6 +85,16 @@
         <summary type="html"><![CDATA[Re @notapornfolder_ When ldo gonna pull one of these Weiner]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Yeti Finance 曾在 2022 年 4 月获得 Avalanche 基金会战略投资。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1740216605102239813</id>
+        <link href="https://twitter.com/wublockchain12/status/1740216605102239813"/>
+        <updated>2023-12-28T04:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Re Yeti Finance 曾在 2022 年 4 月获得 Avalanche 基金会战略投资。]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -206,46 +278,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，CoinDesk 记者 @nikhileshde 发推表示，CZ 正在向负责审理案件的联邦法院申请旅行许可，并要求密封提交旅行许可动议及相关的拟议命令。https://www.wu...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1740173099847618694</id>
-        <link href="https://twitter.com/wublockchain12/status/1740173099847618694"/>
-        <updated>2023-12-28T00:49:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，CoinDesk 记者 @nikhileshde 发推表示，CZ 正在向负责审理案件的联邦法院申请旅行许可，并要求密封提交旅行许可动议及相关的拟议命令。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=22099]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊联合创始人 Vitalik Buterin 提出了三种简化以太坊权益证明（PoS）共识机制的方法。目标是设计一个每个插槽（slot）只需要 8192 个签名的系统（即使在 SSF...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1740164450119016905</id>
-        <link href="https://twitter.com/wublockchain12/status/1740164450119016905"/>
-        <updated>2023-12-28T00:15:10.000Z</updated>
-        <summary type="html"><![CDATA[以太坊联合创始人 Vitalik Buterin 提出了三种简化以太坊权益证明（PoS）共识机制的方法。目标是设计一个每个插槽（slot）只需要 8192 个签名的系统（即使在 SSF… https://twitter.com/i/web/status/1740164450119016905]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 DL News，L2 网络 Manta Pacific TVL 12 月飙升 1250%，使其成为以太坊第七大 L2 网络。自 12 月 14 日起，加密货币空投猎人向 Manta Pacific 存入 3.45 亿美...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1740163718670073888</id>
-        <link href="https://twitter.com/wublockchain12/status/1740163718670073888"/>
-        <updated>2023-12-28T00:12:15.000Z</updated>
-        <summary type="html"><![CDATA[据 DL News，L2 网络 Manta Pacific TVL 12 月飙升 1250%，使其成为以太坊第七大 L2 网络。自 12 月 14 日起，加密货币空投猎人向 Manta Pacific 存入 3.45 亿美元，以期待 2024 年初的空投。这些资金主要存入未经验证的智能合约，尽管存在安全风险，但未阻止大额存款。Manta 的 New Paradigm… https://twitter.com/i/web/status/1740163718670073888]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自 12 月初以来，流动性质押协议 Swell 吸收了近 1.25 亿美元的 ETH存款，使其成为第四大流动性质押协议，仅次于 Lido、Rocket Pool 和 Frax。其锁仓总价值翻了...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1740156398493999527</id>
-        <link href="https://twitter.com/wublockchain12/status/1740156398493999527"/>
-        <updated>2023-12-27T23:43:10.000Z</updated>
-        <summary type="html"><![CDATA[自 12 月初以来，流动性质押协议 Swell 吸收了近 1.25 亿美元的 ETH存款，使其成为第四大流动性质押协议，仅次于 Lido、Rocket Pool 和 Frax。其锁仓总价值翻了一番，达到 108,000 ETH（约 2.45 亿美元）。Swell… https://twitter.com/i/web/status/1740156398493999527]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @pleyuh Source?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1740145384662741016</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1740145384662741016"/>
@@ -418,17 +450,6 @@ As we bid farewell to 2023, your unwavering support has been our backbone. Join 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In same way that “Ethereum killer” was king maker trade last cycle, is “Solana killer” this cycles’ trade? No way it’s that simple.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1739767704050118665</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1739767704050118665"/>
-        <updated>2023-12-26T21:58:38.000Z</updated>
-        <summary type="html"><![CDATA[In same way that “Ethereum killer” was king maker trade last cycle, is “Solana killer” this cycles’ trade? 
-No way it’s that simple.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Altcoin Daily: Ethereum just FLIPPED Bitcoin!!! for long term (1 year+) holder % 👇]]></title>
         <id>https://twitter.com/AltcoinDailyio/status/1739765610094198897</id>
         <link href="https://twitter.com/AltcoinDailyio/status/1739765610094198897"/>
@@ -436,16 +457,6 @@ No way it’s that simple.]]></summary>
         <summary type="html"><![CDATA[RT Altcoin Daily
 Ethereum just FLIPPED Bitcoin!!! 
 for long term (1 year+) holder % 👇]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @biancoresearch Who you pulling for Jim]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1739718050126123084</id>
-        <link href="https://twitter.com/DeFiSurfer808/status/1739718050126123084"/>
-        <updated>2023-12-26T18:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @biancoresearch Who you pulling for Jim]]></summary>
         <author>
             <name>Surfer</name>
         </author>
