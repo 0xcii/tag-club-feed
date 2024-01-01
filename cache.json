@@ -208,6 +208,12 @@
       ]
     },
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://twitter.com/8848Community",
+      "articles": []
+    },
+    {
       "title": "Twitter @链求君 | （C,C）",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://twitter.com/AntCaveClub",
@@ -413,12 +419,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
