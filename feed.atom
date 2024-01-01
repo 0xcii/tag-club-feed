@@ -1,8 +1,456 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-01T12:24:02.706Z</id>
+    <id>urn:2024-01-01T13:15:26.129Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-01T12:24:02.706Z</updated>
+    <updated>2024-01-01T13:15:26.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[神鱼分享一些关键的年终例行工作，确保2024年的安全和效率，包括：根据《区块链黑暗森林自救手册》识别和应对潜在风险，保障数据和系统安全；更新强密码，备份2F...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741777948175388787</id>
+        <link href="https://twitter.com/wublockchain12/status/1741777948175388787"/>
+        <updated>2024-01-01T11:06:38.000Z</updated>
+        <summary type="html"><![CDATA[神鱼分享一些关键的年终例行工作，确保2024年的安全和效率，包括：根据《区块链黑暗森林自救手册》识别和应对潜在风险，保障数据和系统安全；更新强密码，备份2FA，检查SIM卡PIN码，重置操作系统，避免安全漏洞；全面检查曾用地址，确保资产安全，清理授权，更新白名单地址列表；为2024年的牛市制定清… https://twitter.com/i/web/status/1741777948175388787]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Wizz Wallet 也发布公告称，由于近期流量较大以及官方协议索引更新，所有公共节点失去同步，影响资产展示和转账。不过用户的资产是安全的，工程团队正在紧急...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741682031120236863</id>
+        <link href="https://twitter.com/wublockchain12/status/1741682031120236863"/>
+        <updated>2024-01-01T08:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Re Wizz Wallet 也发布公告称，由于近期流量较大以及官方协议索引更新，所有公共节点失去同步，影响资产展示和转账。不过用户的资产是安全的，工程团队正在紧急重建节点，一旦服务恢复上线，会及时发布公告。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《离岸之光：2024 年英属维尔京群岛区块链和加密货币监管指南》（编译：TaxDAO）英属维尔京群岛已成为领先的离岸金融中心，包括那些在加密货币、区块链技术和 We...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741731219610718431</id>
+        <link href="https://twitter.com/wublockchain12/status/1741731219610718431"/>
+        <updated>2024-01-01T08:00:57.000Z</updated>
+        <summary type="html"><![CDATA[《离岸之光：2024 年英属维尔京群岛区块链和加密货币监管指南》（编译：TaxDAO）英属维尔京群岛已成为领先的离岸金融中心，包括那些在加密货币、区块链技术和 Web3… https://twitter.com/i/web/status/1741731219610718431]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 同时依赖于交易批处理（即原子多操作、多调用）来在必要时自动预先验证来自去中心化预言机网络的数据，以执行交易。 https://www.wublock123.com/index.php?m...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741710811029201299</id>
+        <link href="https://twitter.com/wublockchain12/status/1741710811029201299"/>
+        <updated>2024-01-01T06:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 同时依赖于交易批处理（即原子多操作、多调用）来在必要时自动预先验证来自去中心化预言机网络的数据，以执行交易。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=22213]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Synthetix 核心贡献者 noah litvin 发布 ERC-7412 库批处理实施提案，旨在允许智能合约工程师通过简单调用预言机合约上的函数来整合链下数据，该标准...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741710811029201299</id>
+        <link href="https://twitter.com/wublockchain12/status/1741710811029201299"/>
+        <updated>2024-01-01T06:39:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Synthetix 核心贡献者 noah litvin 发布 ERC-7412 库批处理实施提案，旨在允许智能合约工程师通过简单调用预言机合约上的函数来整合链下数据，该标准保留了智能合约之间的可组合性，并调整了数据消费者和预言机网络之间的经济激励，]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💰 每日大作战 💰 1. $MICKEY $0.002046 @SBWMickeyCoin - 第一个使用米老鼠公共领域IP的MEME币和 NFT 2. $ORDS $0.05626 @OrdiswapLabs - Ordiswap 为 BRC-...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741696276658630979</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741696276658630979"/>
+        <updated>2024-01-01T05:42:06.000Z</updated>
+        <summary type="html"><![CDATA[💰 每日大作战 💰 
+1. $MICKEY   $0.002046  @SBWMickeyCoin - 第一个使用米老鼠公共领域IP的MEME币和 NFT
+2. $ORDS  $0.05626  @OrdiswapLabs - Ordiswap 为 BRC-20 带来了动态 AMM 基础设施 
+3. $OLAS $5.9881 @autonolas - 链下服务的统一网络。由 OLAS 代币协调，由自治代理提供支持。]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re • SMOL World 取得巨大进展 • 社区创建的$SMOL代币市值达到 2000 万美元以上，并以 @BanklessHQ + @OlimpioCrypto 为特色！ @arbitrum 上线的第一个 Memeco...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741690563316081091</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741690563316081091"/>
+        <updated>2024-01-01T05:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Re • SMOL World 取得巨大进展
+• 社区创建的$SMOL代币市值达到 2000 万美元以上，并以 @BanklessHQ + @OlimpioCrypto 为特色！
+@arbitrum 上线的第一个 Memecoin 📷📷 看好 Treasure 团队和创始人 @jpatten__ @karelvuong ！
+为 2024 年 Web3 游戏加油！
+新年快乐 SMOLS & $MAGIC fam 📷🎉]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re • 通过 Transmolgrification 启动链上 NFT 演进 • Smol x @rlmverse 互操作集成 • 7 个社区创建的定制 Smol Brain 在链上铸造 • 2 个合作伙伴主题的 Smol...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741690563316081091</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741690563316081091"/>
+        <updated>2024-01-01T05:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Re • 通过 Transmolgrification 启动链上 NFT 演进 • Smol x
+@rlmverse 互操作集成
+• 7 个社区创建的定制 Smol Brain 在链上铸造
+• 2 个合作伙伴主题的 Smol Brain 在链上铸造
+• SMOL 品牌和网站更新（SMOL OS）
+• 彩虹反应堆发射 • SMOL X @KnightsOfTheEth
+万圣节活动]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年对于 $SMOL 来说是令人难以置信的基础建设年，为 2024 年的爆炸性发展奠定了基础🚀 • 与 @darkbrightgames SMOL 集成 • 与 @The_Beacon_GG 的第一个...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741690563316081091</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741690563316081091"/>
+        <updated>2024-01-01T05:19:23.000Z</updated>
+        <summary type="html"><![CDATA[2023 年对于 $SMOL 来说是令人难以置信的基础建设年，为 2024 年的爆炸性发展奠定了基础🚀 
+• 与 @darkbrightgames SMOL 集成
+• 与 @The_Beacon_GG 的第一个互操作 @Treasure_DAO
+• Smol Brains 迁移到链上以获得真正和永久的所有权
+ • $IQ 已变得可消费 
+• 跨生态系统互操作寻宝 @ZeeverseGame]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Orbit Chain 发布被盗更新称，已于 2023 年 12 月 31 日下午 8:52:47（UTC）确认不明身份访问 Orbit Bridge。由于最近的漏洞，Orbit Bridge 正在向...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741615379041099942</id>
+        <link href="https://twitter.com/wublockchain12/status/1741615379041099942"/>
+        <updated>2024-01-01T04:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Orbit Chain 发布被盗更新称，已于 2023 年 12 月 31 日下午 8:52:47（UTC）确认不明身份访问 Orbit Bridge。由于最近的漏洞，Orbit Bridge 正在向所有用户发放补偿金。所有 Orbit 用户都有资格获得补偿。Orbit Chain 称，非常不确定攻击者下一步的目标是什么，任何获得 Orbit… https://twitter.com/i/web/status/1741685666390606315]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，UniSat Wallet 发推表示，官方 Atomicals 节点在多个区块中出现延迟，操作资产时，建议再等待 3 次确认，以避免潜在风险。如果用户的钱包中包含 ARC20...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741682031120236863</id>
+        <link href="https://twitter.com/wublockchain12/status/1741682031120236863"/>
+        <updated>2024-01-01T04:45:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，UniSat Wallet 发推表示，官方 Atomicals 节点在多个区块中出现延迟，操作资产时，建议再等待 3 次确认，以避免潜在风险。如果用户的钱包中包含 ARC20 资产，请谨慎不要导入尚不支持 ARC20 资产的钱包，以免资产丢失的风险。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=22212]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 The Block Data 数据，2023 年 12 月份比特币挖矿收入达到 15.1 亿美元，环比增长约 30%，创年度最高单月记录。此外， 12 月份交易费用为 3.24 亿...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741678106497409273</id>
+        <link href="https://twitter.com/wublockchain12/status/1741678106497409273"/>
+        <updated>2024-01-01T04:29:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 The Block Data 数据，2023 年 12 月份比特币挖矿收入达到 15.1 亿美元，环比增长约 30%，创年度最高单月记录。此外， 12 月份交易费用为 3.24 亿美元，同步创年度最高单月记录。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=9&id=22211]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Beosin Alert 监测显示，Orbit Chain 已暂停跨链桥合约，并开始与攻击者进行链上协商。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741615379041099942</id>
+        <link href="https://twitter.com/wublockchain12/status/1741615379041099942"/>
+        <updated>2024-01-01T03:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Beosin Alert 监测显示，Orbit Chain 已暂停跨链桥合约，并开始与攻击者进行链上协商。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《回顾 a16z 对 2024 年加密市场九大预测：有哪些已投资的代表性项目》a16z 公布了对 2024 年加密行业感到兴奋的趋势清单，包括进入去中心化的新时代、重塑未来...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741658837793603893</id>
+        <link href="https://twitter.com/wublockchain12/status/1741658837793603893"/>
+        <updated>2024-01-01T03:13:20.000Z</updated>
+        <summary type="html"><![CDATA[《回顾 a16z 对 2024 年加密市场九大预测：有哪些已投资的代表性项目》a16z 公布了对 2024 年加密行业感到兴奋的趋势清单，包括进入去中心化的新时代、重塑未来的用户体验、模块化技术堆栈的兴起、AI 与区块链相结合、从 play to earn 到 play and earn、AI 成为游戏制造者，Crypto… https://twitter.com/i/web/status/1741658837793603893]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 TokenUnlocks，一月大额解锁（解锁额大于 1000 万美元）有SUI、APT、APE、AXS、INJ、ID、OP 等，解锁价值超 5.6 亿美元。 https://www.wublock123....]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741652012469727454</id>
+        <link href="https://twitter.com/wublockchain12/status/1741652012469727454"/>
+        <updated>2024-01-01T02:46:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 TokenUnlocks，一月大额解锁（解锁额大于 1000 万美元）有SUI、APT、APE、AXS、INJ、ID、OP 等，解锁价值超 5.6 亿美元。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=22210]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Cryptoslam 数据显示，2023 年 12 月比特币链上 NFT 销售额达 881,223,753.92 美元，创迄今为止最高单月销售额记录，其中买家地址 111,713 个，卖家地...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741649306124431557</id>
+        <link href="https://twitter.com/wublockchain12/status/1741649306124431557"/>
+        <updated>2024-01-01T02:35:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Cryptoslam 数据显示，2023 年 12 月比特币链上 NFT 销售额达 881,223,753.92 美元，创迄今为止最高单月销售额记录，其中买家地址 111,713 个，卖家地址 98,744 个，均创下迄今为止最高单月记录。截至目前比特币链上 NFT 销售总额达 18.3 亿美元，是 NFT… https://twitter.com/i/web/status/1741649306124431557]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，在北京 1 月 1 日凌晨 4-6 时，TRB 现货价格一度由 12 月 31 日 21 时的 200 美元左右快速飙升超过 600 美元，币安合约价格超过 555 美元，OKX 合约价...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741648613917544670</id>
+        <link href="https://twitter.com/wublockchain12/status/1741648613917544670"/>
+        <updated>2024-01-01T02:32:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，在北京 1 月 1 日凌晨 4-6 时，TRB 现货价格一度由 12 月 31 日 21 时的 200 美元左右快速飙升超过 600 美元，币安合约价格超过 555 美元，OKX 合约价格超过 738 美元，随后又大幅下跌至 155 美元，OKX 上合约价格跌至 178 美元，短时跌幅超过 70%。在此期间，TRB 合约爆仓超 6000… https://twitter.com/i/web/status/1741648613917544670]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[针对美国检方表示将放弃对 SBF 进行额外指控的第二次审判一事，美国总统竞选人小罗伯特·肯尼迪发推表示：“甚至没有人对此感到惊讶。这是比欺诈本身更大的问题...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741643137033097225</id>
+        <link href="https://twitter.com/wublockchain12/status/1741643137033097225"/>
+        <updated>2024-01-01T02:10:56.000Z</updated>
+        <summary type="html"><![CDATA[针对美国检方表示将放弃对 SBF 进行额外指控的第二次审判一事，美国总统竞选人小罗伯特·肯尼迪发推表示：“甚至没有人对此感到惊讶。这是比欺诈本身更大的问题，这表明腐败已经变得多么常态化。”此前，美国检察官上周五致信地区法官 Lewis Kaplan，SBF… https://twitter.com/i/web/status/1741643137033097225]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说本周宏观指标与分析：本周数据指标看点颇多，可重点关注美联储货币政策会议纪要、美国 12 月非农就业、ADP 以及失业率等。https://www.wublock123.com/index...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741641380282417548</id>
+        <link href="https://twitter.com/wublockchain12/status/1741641380282417548"/>
+        <updated>2024-01-01T02:03:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说本周宏观指标与分析：本周数据指标看点颇多，可重点关注美联储货币政策会议纪要、美国 12 月非农就业、ADP 以及失业率等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=22206]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，Tether 地址于北京时间今日凌晨 2:51 从 Bitfinex 提币 8888.88 枚 BTC（约 3.79 亿美元），成为第十大 BTC 持币地址。目前 Tether...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741640764298551731</id>
+        <link href="https://twitter.com/wublockchain12/status/1741640764298551731"/>
+        <updated>2024-01-01T02:01:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，Tether 地址于北京时间今日凌晨 2:51 从 Bitfinex 提币 8888.88 枚 BTC（约 3.79 亿美元），成为第十大 BTC 持币地址。目前 Tether 共计持有 66465.2 枚 BTC（约 28.2 亿美元），单币成本价约 25176 美元，浮盈 11.48 亿美元（+68%）。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=22205]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Klaytn 官方发推表示，Klaytn 基金会并未受到 Orbit Bridge 黑客攻击的影响，目前正在联系 Ozys 评估情况，将尽快提供最新信息。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741615379041099942</id>
+        <link href="https://twitter.com/wublockchain12/status/1741615379041099942"/>
+        <updated>2024-01-01T01:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Re Klaytn 官方发推表示，Klaytn 基金会并未受到 Orbit Bridge 黑客攻击的影响，目前正在联系 Ozys 评估情况，将尽快提供最新信息。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 吴说获悉，Bithumb 发布公告称，确认发生了与 Orbit Chain（ORC）的 Orbit Bridge 相关的安全问题，由于 Orbit Chain（ORC）的价格波动增大，用户在交易时需...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741615379041099942</id>
+        <link href="https://twitter.com/wublockchain12/status/1741615379041099942"/>
+        <updated>2024-01-01T01:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Re 吴说获悉，Bithumb 发布公告称，确认发生了与 Orbit Chain（ORC）的 Orbit Bridge 相关的安全问题，由于 Orbit Chain（ORC）的价格波动增大，用户在交易时需特别注意。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 受攻击事件影响，通过 Orbit Bridge 跨至 Klaytn 网络资产价值出现不同程度下跌，其中包括 OETH、OBNB、OXRP 在内的跨链包装资产价值均已跌超 20%。Klaytn（K...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1741615379041099942</id>
+        <link href="https://twitter.com/wublockchain12/status/1741615379041099942"/>
+        <updated>2024-01-01T01:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Re 受攻击事件影响，通过 Orbit Bridge 跨至 Klaytn 网络资产价值出现不同程度下跌，其中包括 OETH、OBNB、OXRP 在内的跨链包装资产价值均已跌超 20%。Klaytn（KLY）在短时跌近 10% 后反弹，目前价格与事发前仅相差 1% 左右。Orbit Bridge常用于将资产转移至 Klaytn 网络，据 Klaytn… https://twitter.com/i/web/status/1741629085368131992]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEME 币一条龙发行方案： 如何使用 Metadrop 在 30 秒内启动 Memecoin？ @metadropmeta]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741316297647091871</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741316297647091871"/>
+        <updated>2023-12-31T04:32:12.000Z</updated>
+        <summary type="html"><![CDATA[MEME 币一条龙发行方案：  
+如何使用 Metadrop 在 30 秒内启动 Memecoin？
+@metadropmeta
+
+💐Guru 💐: How to launch a Memecoin in 30 seconds with Metadrop
+Create your own coin in just a few clicks here: https://metadrop.com/launch
+I’ve also joined @metadropmeta to lead biz dev!
+Thread to follow with our features!]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀👀 每日大作战 1. $TMNT $0.003921 @tmtoneth - 蹭 Vitalik 创建的模因 2. $AIT $0.2238 @AITProtocol - 世界上第一个人工智能数据基础设施。通过“Train-...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741312718462955779</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741312718462955779"/>
+        <updated>2023-12-31T04:17:58.000Z</updated>
+        <summary type="html"><![CDATA[👀👀  每日大作战
+1.  $TMNT  $0.003921   @tmtoneth   -  蹭 Vitalik 创建的模因
+2. $AIT $0.2238  @AITProtocol  -  世界上第一个人工智能数据基础设施。通过“Train-To-Earn”模型提供#Web3人工智能解决方案
+3. $WHAT $0.01084  @whatbotofficial  -  现已成为 Microsoft Cloud 的认证合作伙伴！]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社报道，SEC 可能会尽快在周二或周三通知发行人有关现货#Bitcoin ETF 批准的信息。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741130180108931427</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741130180108931427"/>
+        <updated>2023-12-30T16:12:38.000Z</updated>
+        <summary type="html"><![CDATA[据路透社报道，SEC 可能会尽快在周二或周三通知发行人有关现货#Bitcoin ETF 批准的信息。
+
+Watcher.Guru: JUST IN: 🇺🇸 SEC may notify issuers about Spot #Bitcoin ETF approval as soon as Tuesday or Wednesday, Reuters reports.]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 3/ 当我们进入 FOCG 的新领域时，我们可以预见某些结果。用户可以期待大量空投代币和 NFT 来吸引他们加入。OCG 使游戏行业达到了一个新的里程碑，彻底改变了...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741116412490666255</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741116412490666255"/>
+        <updated>2023-12-30T15:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Re 3/ 当我们进入 FOCG 的新领域时，我们可以预见某些结果。用户可以期待大量空投代币和 NFT 来吸引他们加入。OCG 使游戏行业达到了一个新的里程碑，彻底改变了用户与游戏平台互动和参与的方式。这不仅仅是技术上的改变，更是技术上的改变。这是范式的转变，有望带来更加身临其境和自主的游戏体验。]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2/ AAA 游戏、全链游戏、游戏链和游戏服务等一系列游戏举措似乎即将出现，旨在充分利用这一转型的潜力。 目前正在这个新兴领域中崭露头角： @Ronin_Network @...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741116412490666255</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741116412490666255"/>
+        <updated>2023-12-30T15:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Re 2/ AAA 游戏、全链游戏、游戏链和游戏服务等一系列游戏举措似乎即将出现，旨在充分利用这一转型的潜力。
+目前正在这个新兴领域中崭露头角：
+@Ronin_Network
+@Immutable
+@Treasure_DAO
+此外，一些有前途的完全链上游戏即将出现：
+@movingcastles_
+@stratagems_eth
+@Brototype_xyz
+@skylabHQ]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi 向下一代的演进：完全链上游戏（FOCG） 1/ 简单来说，FOCG是一个完全建立在区块链技术之上的游戏概念。它专注于创建一个自治世界，促进与玩家的密切联系...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1741116412490666255</id>
+        <link href="https://twitter.com/AntCaveClub/status/1741116412490666255"/>
+        <updated>2023-12-30T15:17:55.000Z</updated>
+        <summary type="html"><![CDATA[GameFi 向下一代的演进：完全链上游戏（FOCG）
+1/ 简单来说，FOCG是一个完全建立在区块链技术之上的游戏概念。它专注于创建一个自治世界，促进与玩家的密切联系。这一进步旨在缓解前几个游戏叙事中普遍存在的“为了钱而玩”的挑战。]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wangfeng_0128 关键词： 流动性强]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740703982207864975</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740703982207864975"/>
+        <updated>2023-12-29T14:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @wangfeng_0128 关键词： 流动性强]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740380072782299523</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740380072782299523"/>
+        <updated>2023-12-28T14:31:58.000Z</updated>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 THE TIME HAS COME! ⚡️ Announcing $100,000 Quest: NOW LIVE! #de_fi Complete tasks & quizzes, and compete to win up to $100,000! 💰 Sign Up for...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740356353166819464</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740356353166819464"/>
+        <updated>2023-12-28T12:57:43.000Z</updated>
+        <summary type="html"><![CDATA[🚨 THE TIME HAS COME!
+⚡️ Announcing $100,000 Quest: NOW LIVE! #de_fi
+Complete tasks & quizzes, and compete to win up to $100,000! 💰
+Sign Up for the Quest NOW! 👉 http://de.fi/quest
+Psss 🤫rumors say that using our product DAILY increases your chance to win BIG!]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @yuyue_chris Arb 上 $SMOL @smolverse]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740153248450027823</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740153248450027823"/>
+        <updated>2023-12-28T03:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @yuyue_chris Arb 上  $SMOL    @smolverse]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @FLS_OTC 币圈价值投资践行者了。📉 上轮牛末就看到在布道了， 能拿到现在的人不多。 📈]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740211501045305402</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740211501045305402"/>
+        <updated>2023-12-28T03:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @FLS_OTC 币圈价值投资践行者了。📉  上轮牛末就看到在布道了， 能拿到现在的人不多。 📈]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sanyuan2016 @ssq_io 我就怕我活不到那一天]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740204496884846978</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740204496884846978"/>
+        <updated>2023-12-28T03:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @sanyuan2016 @ssq_io 我就怕我活不到那一天]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @smolverse $SMOL 40% 👆 🚀🚀🚀 400%]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1740217313448882218</id>
+        <link href="https://twitter.com/AntCaveClub/status/1740217313448882218"/>
+        <updated>2023-12-28T03:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @smolverse     $SMOL 40% 👆 🚀🚀🚀 400%]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nullity_wtf 走合约直接冲： 0xa47C1922792fF5285187474F6c3406DFF6ef0C15 0x6ecd23060000000000000000000000000000000000000000000000000000000000000001]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1739578063393038463</id>
+        <link href="https://twitter.com/AntCaveClub/status/1739578063393038463"/>
+        <updated>2023-12-26T09:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @nullity_wtf 走合约直接冲： 
+0xa47C1922792fF5285187474F6c3406DFF6ef0C15
+0x6ecd23060000000000000000000000000000000000000000000000000000000000000001]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM ！ $ARB MEME Top 1 @smolverse List on @Magicswap_]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1739184676936569001</id>
+        <link href="https://twitter.com/AntCaveClub/status/1739184676936569001"/>
+        <updated>2023-12-25T07:21:54.000Z</updated>
+        <summary type="html"><![CDATA[GM ！ $ARB MEME Top 1    @smolverse  List on @Magicswap_
+
+SMOLCOIN: WEB3: "HOW DO YOU CRANK OUT SO MANY 🔥 SMOL MEMES?"
+$SMOL 🪙 COMMUNITY:]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说一个 $ARB 上的MEME币，将要发生的事情.. 1. $smol 在coingecko和CMC上市 2. $smol 可在 magicswap、sushi + 所有主要 cex 上进行交易 3. 事实证明 $smol 它将...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1738572188637385138</id>
+        <link href="https://twitter.com/AntCaveClub/status/1738572188637385138"/>
+        <updated>2023-12-23T14:48:05.000Z</updated>
+        <summary type="html"><![CDATA[说一个 $ARB 上的MEME币，将要发生的事情..  
+1. $smol 在coingecko和CMC上市 
+2. $smol 可在 magicswap、sushi + 所有主要 cex 上进行交易 
+3. 事实证明 $smol 它将成为 2024 年推出的 smolville 游戏的原生货币。 
+4. Smolville 在收视率上碾压 GTA6 - 成为历史上玩次数最多的游戏。 
+@smolverse]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
+        </author>
+    </entry>
 </feed>
