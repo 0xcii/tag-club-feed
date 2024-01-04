@@ -6,6 +6,36 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1742756791308726465",
+          "author": "吴说区块链",
+          "description": "研究员 Haotian 对 Vitalik 最新有关 ENS 言论的分析：若 ENS 的域名解析方案不能覆盖到 L2，只停留在以太坊主网层面，很难打开想象空间；ENS 设计了一个具备 interopeablity 可交互通信能力的桥，使得各个 L2 可以从链下环境检索并有效验证以太坊主网的域名数据；文档中提到的 EIP3668 会确保在 L2… https://twitter.com/i/web/status/1742756791308726465",
+          "link": "https://twitter.com/wublockchain12/status/1742756791308726465",
+          "publishedOn": "2024-01-04T03:56:12.000Z",
+          "wordCount": null,
+          "title": "研究员 Haotian 对 Vitalik 最新有关 ENS 言论的分析：若 ENS 的域名解析方案不能覆盖到 L2，只停留在以太坊主网层面，很难打开想象空间；ENS 设计了一个具备 in...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1742753494707400794",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Ordinals Wallet 宣布将支持 Ordinals Jubilee 升级，在此过程中 BRC-20 交易将暂停，Bitmap、TAP 和 NFT 系统不受影响。昨日 UniSat 宣布遵循 Ordinals Jubilee 升级，但遭到 BRC-20 创始人 domo 抨击。此外，Ordinals Wallet CEO Elon Moist 发推声明，完全支持 UniSat 决定主导 BRC-20… https://twitter.com/i/web/status/1742753494707400794",
+          "link": "https://twitter.com/wublockchain12/status/1742753494707400794",
+          "publishedOn": "2024-01-04T03:43:06.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Ordinals Wallet 宣布将支持 Ordinals Jubilee 升级，在此过程中 BRC-20 交易将暂停，Bitmap、TAP 和 NFT 系统不受影响。昨日 UniSat 宣布遵循 Ordina...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1742752438518698320",
+          "author": "吴说区块链",
+          "description": "原 Sushi CTO Joseph 发文遭到了手机 SIM 卡劫持攻击，其现在担任 CTO 的项目 Astaria 推特账户被接管，还以他的名义注册了一个 Fidelity 账户，并试图从 Astaria 银行账户转出 25 万美元。他使用的是 T-Mobile SIM \"PrOtEctIon\"。评论称 T-Mobile 出现了大量的 SIM 卡劫持攻击。不过黑客暂时无法验证… https://twitter.com/i/web/status/1742752438518698320",
+          "link": "https://twitter.com/wublockchain12/status/1742752438518698320",
+          "publishedOn": "2024-01-04T03:38:54.000Z",
+          "wordCount": null,
+          "title": "原 Sushi CTO Joseph 发文遭到了手机 SIM 卡劫持攻击，其现在担任 CTO 的项目 Astaria 推特账户被接管，还以他的名义注册了一个 Fidelity 账户，并试图从 Astari...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1742746809360163167",
           "author": "吴说区块链",
           "description": "吴说获悉，Ethereum 铭文 Ethscriptions 协议创建者 Middlemarch 宣布推出官方开源索引器 Ethnic Indexer，允许任何用户仅使用 Ethereum 节点即可重现完整的 Ethscriptions 生态系统的状态，并与开源 Facet VM 相结合。新索引器拥有更快的速度、实时 Ethscriptions… https://twitter.com/i/web/status/1742746809360163167",
@@ -154,36 +184,6 @@
           "wordCount": null,
           "title": "吴说获悉，据华尔街见闻，新公布的美联储会议纪要显示，上月的货币政策会议上，美联储决策者对遏制住高通胀显得更有信心，认为通胀上行的风险下降，预计未来一年...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1742692844220104952",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据彭博分析师 James Seyffart，富达向 SEC 提交了其现货比特币 ETF 的证券注册申请。芝加哥期权交易所（Cboe）也已批准该注册，注册代码为 FBTC。James 解释称，这只是一个证券登记，需要在 ETF 启动前完成，它并不意味着 ETF 已获得批准或其他任何东西。为了上市，ETF 仍需要 19b-4… https://twitter.com/i/web/status/1742692844220104952",
-          "link": "https://twitter.com/wublockchain12/status/1742692844220104952",
-          "publishedOn": "2024-01-03T23:42:06.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据彭博分析师 James Seyffart，富达向 SEC 提交了其现货比特币 ETF 的证券注册申请。芝加哥期权交易所（Cboe）也已批准该注册，注册代码为 FBTC。Jame...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1742691331028484476",
-          "author": "吴说区块链",
-          "description": "知情人士透露，高盛正在就成为贝莱德和灰度拟议比特币现货 ETF 的授权参与者（AP）进行谈判。该角色涉及创建和赎回 ETF 股票，以确保产品与其标的资产同步交易。上周，摩根大通、Jane Street 和 Cantor Fitzgerald 宣布将为寻求美国证券交易委员会（SEC）许可在美国提供比特币 ETF 的十几家公司承担 AP… https://twitter.com/i/web/status/1742691331028484476",
-          "link": "https://twitter.com/wublockchain12/status/1742691331028484476",
-          "publishedOn": "2024-01-03T23:36:05.000Z",
-          "wordCount": null,
-          "title": "知情人士透露，高盛正在就成为贝莱德和灰度拟议比特币现货 ETF 的授权参与者（AP）进行谈判。该角色涉及创建和赎回 ETF 股票，以确保产品与其标的资产同步交易。...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1742688285712158769",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 FOX Business，美国证券交易委员会（SEC）与纽约证券交易所、纳斯达克和芝加哥期权交易所等主要交易所官员周三举行会议，讨论即将批准的现货比特币 ETF。这些会议被视为 SEC… https://twitter.com/i/web/status/1742688285712158769",
-          "link": "https://twitter.com/wublockchain12/status/1742688285712158769",
-          "publishedOn": "2024-01-03T23:23:59.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 FOX Business，美国证券交易委员会（SEC）与纽约证券交易所、纳斯达克和芝加哥期权交易所等主要交易所官员周三举行会议，讨论即将批准的现货比特币...",
-          "imageUrl": null
         }
       ]
     },
@@ -198,6 +198,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://twitter.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1742744069556797489",
+          "author": "链求君 | （C,C）",
+          "description": "Re $BEAM  $0.21  📈 20%",
+          "link": "https://twitter.com/AntCaveClub/status/1742744069556797489",
+          "publishedOn": "2024-01-04T04:53:40.000Z",
+          "wordCount": null,
+          "title": "Re $BEAM $0.21 📈 20%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1742769386254196759",
+          "author": "链求君 | （C,C）",
+          "description": "$ARB 涨太猛了，藏不住了， 下午准备分享10个 x10 倍早期币！\n要蹲的点赞  ❤️  👇🏻",
+          "link": "https://twitter.com/AntCaveClub/status/1742769386254196759",
+          "publishedOn": "2024-01-04T04:46:15.000Z",
+          "wordCount": null,
+          "title": "$ARB 涨太猛了，藏不住了， 下午准备分享10个 x10 倍早期币！ 要蹲的点赞 ❤️ 👇🏻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1742711598396158230",
+          "author": "链求君 | （C,C）",
+          "description": "Re @FLS_OTC 可能就是说解锁抛压没了就起飞🛫吧",
+          "link": "https://twitter.com/AntCaveClub/status/1742711598396158230",
+          "publishedOn": "2024-01-04T03:49:12.000Z",
+          "wordCount": null,
+          "title": "Re @FLS_OTC 可能就是说解锁抛压没了就起飞🛫吧",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1742744970392670567",
           "author": "链求君 | （C,C）",
@@ -356,36 +386,6 @@
           "publishedOn": "2024-01-01T05:19:25.000Z",
           "wordCount": null,
           "title": "Re • SMOL World 取得巨大进展 • 社区创建的$SMOL代币市值达到 2000 万美元以上，并以 @BanklessHQ + @OlimpioCrypto 为特色！ @arbitrum 上线的第一个 Memeco...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1741690563316081091",
-          "author": "链求君 | （C,C）",
-          "description": "Re • 通过 Transmolgrification 启动链上 NFT 演进 • Smol x\n@rlmverse 互操作集成\n• 7 个社区创建的定制 Smol Brain 在链上铸造\n• 2 个合作伙伴主题的 Smol Brain 在链上铸造\n• SMOL 品牌和网站更新（SMOL OS）\n• 彩虹反应堆发射 • SMOL X @KnightsOfTheEth\n万圣节活动",
-          "link": "https://twitter.com/AntCaveClub/status/1741690563316081091",
-          "publishedOn": "2024-01-01T05:19:24.000Z",
-          "wordCount": null,
-          "title": "Re • 通过 Transmolgrification 启动链上 NFT 演进 • Smol x @rlmverse 互操作集成 • 7 个社区创建的定制 Smol Brain 在链上铸造 • 2 个合作伙伴主题的 Smol...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1741690563316081091",
-          "author": "链求君 | （C,C）",
-          "description": "2023 年对于 $SMOL 来说是令人难以置信的基础建设年，为 2024 年的爆炸性发展奠定了基础🚀 \n• 与 @darkbrightgames SMOL 集成\n• 与 @The_Beacon_GG 的第一个互操作 @Treasure_DAO\n• Smol Brains 迁移到链上以获得真正和永久的所有权\n • $IQ 已变得可消费 \n• 跨生态系统互操作寻宝 @ZeeverseGame",
-          "link": "https://twitter.com/AntCaveClub/status/1741690563316081091",
-          "publishedOn": "2024-01-01T05:19:23.000Z",
-          "wordCount": null,
-          "title": "2023 年对于 $SMOL 来说是令人难以置信的基础建设年，为 2024 年的爆炸性发展奠定了基础🚀 • 与 @darkbrightgames SMOL 集成 • 与 @The_Beacon_GG 的第一个...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1741316297647091871",
-          "author": "链求君 | （C,C）",
-          "description": "MEME 币一条龙发行方案：  \n如何使用 Metadrop 在 30 秒内启动 Memecoin？\n@metadropmeta\n\n💐Guru 💐: How to launch a Memecoin in 30 seconds with Metadrop\nCreate your own coin in just a few clicks here: https://metadrop.com/launch\nI’ve also joined @metadropmeta to lead biz dev!\nThread to follow with our features!",
-          "link": "https://twitter.com/AntCaveClub/status/1741316297647091871",
-          "publishedOn": "2023-12-31T04:32:12.000Z",
-          "wordCount": null,
-          "title": "MEME 币一条龙发行方案： 如何使用 Metadrop 在 30 秒内启动 Memecoin？ @metadropmeta",
           "imageUrl": null
         }
       ]
@@ -553,16 +553,6 @@
           "publishedOn": "2023-12-05T18:44:16.000Z",
           "wordCount": null,
           "title": "Re @Route2FI $TIA $CACAO $TAO $AGRS $PRIME $OLAS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1732092288740774131",
-          "author": "DeFi Educator",
-          "description": "Re @HsakaTrades LFG! \nhttps://x.com/defi_educator/status/1731330907217248395?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nDeFi Educator: 1) BTC pumps >$40k\n2) Sidelineoors now need to bet more to make it \n3) traders who caught the pump take profit and roll them over into the altcoin casino\n4) Money flows from BTC -> Alts = altseason \n5) BTC+ETH dominance chart makes a lower low",
-          "link": "https://twitter.com/DeFi_educator/status/1732092288740774131",
-          "publishedOn": "2023-12-05T17:42:17.000Z",
-          "wordCount": null,
-          "title": "Re @HsakaTrades LFG! https://x.com/defi_educator/status/1731330907217248395?s=46&t=cM-600GJga7XNxddNsm-Pw",
           "imageUrl": null
         }
       ]
@@ -950,12 +940,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
