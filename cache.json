@@ -544,16 +544,6 @@
           "wordCount": null,
           "title": "Re @ByzGeneral",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1732099124827209962",
-          "author": "DeFi Educator",
-          "description": "Re @Route2FI $TIA $CACAO $TAO $AGRS $PRIME $OLAS",
-          "link": "https://twitter.com/DeFi_educator/status/1732099124827209962",
-          "publishedOn": "2023-12-05T18:44:16.000Z",
-          "wordCount": null,
-          "title": "Re @Route2FI $TIA $CACAO $TAO $AGRS $PRIME $OLAS",
-          "imageUrl": null
         }
       ]
     },
@@ -940,6 +930,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
