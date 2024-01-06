@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T14:11:16.143Z</id>
+    <id>urn:2024-01-06T15:11:49.083Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T14:11:16.143Z</updated>
+    <updated>2024-01-06T15:11:49.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1743633726045610076</id>
+        <link href="https://twitter.com/wublockchain12/status/1743633726045610076"/>
+        <updated>2024-01-06T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Azuki 官推关注并转发了 Weeb3 Foundation 的推文。Weeb3 Foundation 的推特账号简介为“打造开放元宇宙，由 ANIME 驱动”，社区猜测 ANIME 为 Azuki ...]]></title>
         <id>https://twitter.com/wublockchain12/status/1743615921753903271</id>
@@ -270,16 +280,6 @@ News outlets are reporting it was a teen riot but first hand accounts are saying
         <summary type="html"><![CDATA[Re @BigDickBull69 Meme trump into office]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，The Block 主编 Tim Copeland 发推表示，VanEck 数字资产研究主管 Matthew Sigel 援引知情人士消息透露，贝莱德已从现有比特币持有者那里筹集了 20 亿...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1743443019406397832</id>
-        <link href="https://twitter.com/wublockchain12/status/1743443019406397832"/>
-        <updated>2024-01-06T01:23:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，The Block 主编 Tim Copeland 发推表示，VanEck 数字资产研究主管 Matthew Sigel 援引知情人士消息透露，贝莱德已从现有比特币持有者那里筹集了 20 亿美元资金，这些资金希望在第一周内转换为现货比特币 ETF。彭博社 ETF 分析师 Eric Balchunas 对此表示，若属实，此举将刷新 ETF… https://twitter.com/i/web/status/1743443019406397832]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -1071,16 +1071,6 @@ Absolutely based.
 James Seyffart: This filing reveals their ticker for what I think is the first time. It’ll be $HODL.]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ZeMirch ggs]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1732945948228083820</id>
-        <link href="https://twitter.com/OnChainWizard/status/1732945948228083820"/>
-        <updated>2023-12-08T02:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @ZeMirch ggs]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
