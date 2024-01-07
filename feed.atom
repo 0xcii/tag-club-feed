@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-07T09:11:51.162Z</id>
+    <id>urn:2024-01-07T10:13:14.083Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-07T09:11:51.162Z</updated>
+    <updated>2024-01-07T10:13:14.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，香港持牌虚拟资产交易平台 OSL 母公司 BC 科技集团发布公告，股东以投票表决方式正式通过相关决议案，主要包括：1、 批准、确认及追认 BGXGroup Holdi...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1743898649044959357</id>
+        <link href="https://twitter.com/wublockchain12/status/1743898649044959357"/>
+        <updated>2024-01-07T07:33:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，香港持牌虚拟资产交易平台 OSL 母公司 BC 科技集团发布公告，股东以投票表决方式正式通过相关决议案，主要包括：1、 批准、确认及追认 BGXGroup Holding Limited（作为认购人）于 2023 年 11 月 13 日订立之认购协议，已有条件同意配发及发行，而认购人已有条件同意认购合共 187,600,000… https://twitter.com/i/web/status/1743898649044959357]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core 另一位代码维护者 gloria 对该 PR 进行总结： 支持 Luke 的观点有： 1、停止铭文，这是垃圾邮件； 2、铭文和嵌入式数据会危害网络； 3、人们想要这...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1743895994029465608</id>
+        <link href="https://twitter.com/wublockchain12/status/1743895994029465608"/>
+        <updated>2024-01-07T07:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Core 另一位代码维护者 gloria 对该 PR 进行总结：
+支持 Luke 的观点有：
+1、停止铭文，这是垃圾邮件；
+2、铭文和嵌入式数据会危害网络；
+3、人们想要这个：存在用户需求和特定的用例，Bitcoin Core 应该提供；另一种选择是人们编写和运行补丁，但这可能是不安全的；… https://twitter.com/i/web/status/1743895994029465608
+
+吴说区块链: 吴说获悉，由 Luke Dashjr 在 Bitcoin Github 上提出的 datacarriersize: Match more datacarrying PR 已被 Bitcoin Core 代码维护者 achow101 在两天前关闭，该 PR 涵盖了对 Ordinals 协议走势的激烈争讨。achow101 最后陈词表示，（Luke 提出的）这个 PR… https://twitter.com/i/web/status/1743893739045810394]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，由 Luke Dashjr 在 Bitcoin Github 上提出的 datacarriersize: Match more datacarrying PR 已被 Bitcoin Core 代码维护者 achow101 在两天前关闭，该...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1743893739045810394</id>
+        <link href="https://twitter.com/wublockchain12/status/1743893739045810394"/>
+        <updated>2024-01-07T07:14:02.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，由 Luke Dashjr 在 Bitcoin Github 上提出的 datacarriersize: Match more datacarrying PR 已被 Bitcoin Core 代码维护者 achow101 在两天前关闭，该 PR 涵盖了对 Ordinals 协议走势的激烈争讨。achow101 最后陈词表示，（Luke 提出的）这个 PR… https://twitter.com/i/web/status/1743893739045810394]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，香港持牌虚拟资产交易所 OSL 母公司 BC 科技集团发布公告称，截至 2023 年 12 月 31 日，预期年度未经审核综合净亏损可能较 2022 年度的经审核综合净...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1743892590305673347</id>
+        <link href="https://twitter.com/wublockchain12/status/1743892590305673347"/>
+        <updated>2024-01-07T07:09:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，香港持牌虚拟资产交易所 OSL 母公司 BC 科技集团发布公告称，截至 2023 年 12 月 31 日，预期年度未经审核综合净亏损可能较 2022 年度的经审核综合净亏损 5.5 亿港元大幅减少约 50%，预期净亏损减少主要归因于经营开支（… https://twitter.com/i/web/status/1743892590305673347]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re 市场成熟需要资金纳入。ETF通过可以助推机构资金大规模进入,代表“天龙”正式现世。 历史上青龙年常见重大科技财经事件,符合其“顺势而动,应时而变”的内在规...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1743892159928180844</id>
@@ -412,26 +458,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=22411]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Messari 发布 DePIN 2023 年年度报告，DePIN 已发展有 650 多个项目，涵盖六个子领域：计算（250）、AI（200）、无线（100）、传感器（50）、能源（50...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1743543709894058120</id>
-        <link href="https://twitter.com/wublockchain12/status/1743543709894058120"/>
-        <updated>2024-01-06T08:03:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Messari 发布 DePIN 2023 年年度报告，DePIN 已发展有 650 多个项目，涵盖六个子领域：计算（250）、AI（200）、无线（100）、传感器（50）、能源（50）和服务（25）；DePIN 流动性代币总市值超过 200 亿美元，链上年化收入约为 1,500 万美元；更广泛的加密市场出现了 70%-90%… https://twitter.com/i/web/status/1743543709894058120]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 http://BTC.com，比特币挖矿难度于区块高度 824,544 处迎来了挖矿难度调整，挖矿难度上调 1.65% 至 73.2 T，再创历史新高。目前哈希率约为 541.35 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1743512958372897072</id>
-        <link href="https://twitter.com/wublockchain12/status/1743512958372897072"/>
-        <updated>2024-01-06T06:00:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 http://BTC.com，比特币挖矿难度于区块高度 824,544 处迎来了挖矿难度调整，挖矿难度上调 1.65% 至 73.2 T，再创历史新高。目前哈希率约为 541.35 EH/s。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=22408]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ShortSightedCap Bit too early to say home run no? Instageam and WhatsApp]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1743343733595119894</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1743343733595119894"/>
@@ -440,26 +466,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=22411]]
 Instageam and WhatsApp]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说播客：对话吴文谦律师谈香港今年监管动态。吴文谦律师 2014 年加入 OK，是 OK 第一位海外律师，可能是最了解香港监管动态的律师之一；本次播客我们讨论了香...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1743489922437439993</id>
-        <link href="https://twitter.com/wublockchain12/status/1743489922437439993"/>
-        <updated>2024-01-06T04:29:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说播客：对话吴文谦律师谈香港今年监管动态。吴文谦律师 2014 年加入 OK，是 OK 第一位海外律师，可能是最了解香港监管动态的律师之一；本次播客我们讨论了香港的发牌速度、对零售用户的代币批准、Hashkey 的平台积分、OTC STO 稳定币等今年监管动态、JPEX… https://twitter.com/i/web/status/1743489922437439993]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Paxos 发布最新 PYUSD 透明度报告，披露截至北京时间 2023 年 12 月 30 日 6:00 相关未审计数据，未偿代币总额 2.645 亿美元，美国国债逆回购协议总额...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1743489206478111132</id>
-        <link href="https://twitter.com/wublockchain12/status/1743489206478111132"/>
-        <updated>2024-01-06T04:26:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Paxos 发布最新 PYUSD 透明度报告，披露截至北京时间 2023 年 12 月 30 日 6:00 相关未审计数据，未偿代币总额 2.645 亿美元，美国国债逆回购协议总额（隔夜到期和超额抵押） 2.702 亿美元，受保存款机构持现金存款 46.14 万美元，净资产总额 2.707 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=43&id=22406]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
