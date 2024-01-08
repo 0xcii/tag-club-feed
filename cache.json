@@ -6,6 +6,26 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1744149981886562457",
+          "author": "吴说区块链",
+          "description": "吴说本周宏观指标与分析：上周美联储会议纪要暗示已完成加息进程，不过未透露未来降息路径，而就业市场数据都有所升温，非农就业人口超预期，失业率也低于预期。本周重磅数据指标较少，可重点关注美国 12 月 CPI、PPI 等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=22440",
+          "link": "https://twitter.com/wublockchain12/status/1744149981886562457",
+          "publishedOn": "2024-01-08T00:12:15.000Z",
+          "wordCount": null,
+          "title": "吴说本周宏观指标与分析：上周美联储会议纪要暗示已完成加息进程，不过未透露未来降息路径，而就业市场数据都有所升温，非农就业人口超预期，失业率也低于预期。...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1744149246390288469",
+          "author": "吴说区块链",
+          "description": "某匿名钱包地址通过 Ordinals 协议花费约 1.5 BTC（约 66000 美元）将 8.93 MB 的加密二进制数据写入比特币区块链。其中，最昂贵的交易单笔费用高达数千美元，大部分交易单笔费用接近 200 美元。（The Block）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=37&id=22442",
+          "link": "https://twitter.com/wublockchain12/status/1744149246390288469",
+          "publishedOn": "2024-01-08T00:09:19.000Z",
+          "wordCount": null,
+          "title": "某匿名钱包地址通过 Ordinals 协议花费约 1.5 BTC（约 66000 美元）将 8.93 MB 的加密二进制数据写入比特币区块链。其中，最昂贵的交易单笔费用高达数千美元，大...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1744027940516712614",
           "author": "吴说区块链",
           "description": "据 Finbold 报道，洪都拉斯经济特区 Próspera ZEDE 已于 1 月 5 日正式承认比特币 (BTC) 作为记账单位。有兴趣采用比特币作为记账单位的实体必须在相关纳税期后的三十天内向税务专员提交通知，并应提及经批准的加密交易所，例如 Kraken 或 Coinbase。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=10&id=22439",
@@ -143,26 +163,6 @@
           "publishedOn": "2024-01-07T07:22:59.000Z",
           "wordCount": null,
           "title": "Bitcoin Core 另一位代码维护者 gloria 对该 PR 进行总结： 支持 Luke 的观点有： 1、停止铭文，这是垃圾邮件； 2、铭文和嵌入式数据会危害网络； 3、人们想要这...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1743893739045810394",
-          "author": "吴说区块链",
-          "description": "吴说获悉，由 Luke Dashjr 在 Bitcoin Github 上提出的 datacarriersize: Match more datacarrying PR 已被 Bitcoin Core 代码维护者 achow101 在两天前关闭，该 PR 涵盖了对 Ordinals 协议走势的激烈争讨。achow101 最后陈词表示，（Luke 提出的）这个 PR… https://twitter.com/i/web/status/1743893739045810394",
-          "link": "https://twitter.com/wublockchain12/status/1743893739045810394",
-          "publishedOn": "2024-01-07T07:14:02.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，由 Luke Dashjr 在 Bitcoin Github 上提出的 datacarriersize: Match more datacarrying PR 已被 Bitcoin Core 代码维护者 achow101 在两天前关闭，该...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1743892590305673347",
-          "author": "吴说区块链",
-          "description": "吴说获悉，香港持牌虚拟资产交易所 OSL 母公司 BC 科技集团发布公告称，截至 2023 年 12 月 31 日，预期年度未经审核综合净亏损可能较 2022 年度的经审核综合净亏损 5.5 亿港元大幅减少约 50%，预期净亏损减少主要归因于经营开支（… https://twitter.com/i/web/status/1743892590305673347",
-          "link": "https://twitter.com/wublockchain12/status/1743892590305673347",
-          "publishedOn": "2024-01-07T07:09:28.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，香港持牌虚拟资产交易所 OSL 母公司 BC 科技集团发布公告称，截至 2023 年 12 月 31 日，预期年度未经审核综合净亏损可能较 2022 年度的经审核综合净...",
           "imageUrl": null
         }
       ]
@@ -631,16 +631,6 @@
           "wordCount": null,
           "title": "An underappreciated feature of @ChainEDGE_io smart money is our evm cross chain data. For example on $WOLF we noticed $28k of smart buys over the past...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/IvanCryptoSlav/status/1733471418963173634",
-          "author": "Onchain Wizard",
-          "description": "RT Ivan ─ Crypto, Macro & Geopolitics\nIndispensible tool for shitcoining I will shill for free:\n@ChainEDGE_io \nGreat for following smart money movement in micro caps (and not only)\nCaught $GFY and $POD within minutes of launch with this. Use it constantly to cross-reference tokens.\nI hear much more coming in '24",
-          "link": "https://twitter.com/IvanCryptoSlav/status/1733471418963173634",
-          "publishedOn": "2023-12-09T12:59:27.000Z",
-          "wordCount": null,
-          "title": "RT Ivan ─ Crypto, Macro & Geopolitics: Indispensible tool for shitcoining I will shill for free: @ChainEDGE_io Great for following smart money moveme...",
-          "imageUrl": null
         }
       ]
     },
@@ -649,6 +639,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://twitter.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1744135410236719259",
+          "author": "Surfer",
+          "description": "Eth pulled back something like 60% post its last mid cycle pump. \nWould put $sol at $50.\n\nRho Rider: ⛔️ The billions in $SOL from FTX was sold OTC to “market makers”\n$SOL price has been scam manipulated up since mid Oct… retail frenzy thinking danger is over\nNow the big bag MMs start distributing to open market",
+          "link": "https://twitter.com/DeFiSurfer808/status/1744135410236719259",
+          "publishedOn": "2024-01-07T23:14:20.000Z",
+          "wordCount": null,
+          "title": "Eth pulled back something like 60% post its last mid cycle pump. Would put $sol at $50.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1744118709151728056",
+          "author": "Surfer",
+          "description": "Re @Bluntz_Capital Don’t tell Ansem. Apparently this stuff doesn’t matter and retail will ape solana no matter what",
+          "link": "https://twitter.com/DeFiSurfer808/status/1744118709151728056",
+          "publishedOn": "2024-01-07T22:09:51.000Z",
+          "wordCount": null,
+          "title": "Re @Bluntz_Capital Don’t tell Ansem. Apparently this stuff doesn’t matter and retail will ape solana no matter what",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1744077057813020750",
           "author": "Surfer",
@@ -817,26 +827,6 @@
           "publishedOn": "2024-01-06T21:02:44.000Z",
           "wordCount": null,
           "title": "Re @Asymmetry_Fi If alts flush would go lower no?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1743687361291047098",
-          "author": "Surfer",
-          "description": "Re @LynAldenContact U think the US private Economy can get that levered again or will regulators prevent it?",
-          "link": "https://twitter.com/DeFiSurfer808/status/1743687361291047098",
-          "publishedOn": "2024-01-06T19:41:15.000Z",
-          "wordCount": null,
-          "title": "Re @LynAldenContact U think the US private Economy can get that levered again or will regulators prevent it?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1743704525058294142",
-          "author": "Surfer",
-          "description": "Could see May being the local high for $eth tbh. Then cool off over summer. Thoughts?",
-          "link": "https://twitter.com/DeFiSurfer808/status/1743704525058294142",
-          "publishedOn": "2024-01-06T18:42:09.000Z",
-          "wordCount": null,
-          "title": "Could see May being the local high for $eth tbh. Then cool off over summer. Thoughts?",
           "imageUrl": null
         }
       ]
