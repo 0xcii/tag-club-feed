@@ -604,16 +604,6 @@
           "wordCount": null,
           "title": "Re @PPLSOPTIMISMCEO So why dont you shut up about it until they release something and then you’re either proven right and can do your victory laps, o...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Mudit__Gupta/status/1735301007188406681",
-          "author": "DeFi Educator",
-          "description": "RT Mudit Gupta\nThe ledger issue is now fixed.\nTo make sure you don't have the malicious library cached, go to https://cdn.jsdelivr.net/npm/@ledgerhq/connect-kit@1 and ensure the version is 1.1.8.\nIf it's not, clear your cache. chrome- F12> Chrome Developer Tools > Application tab > Storage in left tree> Clear site data.",
-          "link": "https://twitter.com/Mudit__Gupta/status/1735301007188406681",
-          "publishedOn": "2023-12-14T14:09:35.000Z",
-          "wordCount": null,
-          "title": "RT Mudit Gupta: The ledger issue is now fixed. To make sure you don't have the malicious library cached, go to https://cdn.jsdelivr.net/npm/@ledgerhq/...",
-          "imageUrl": null
         }
       ]
     },

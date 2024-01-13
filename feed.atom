@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T01:59:24.132Z</id>
+    <id>urn:2024-01-13T02:30:46.183Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-13T01:59:24.133Z</updated>
+    <updated>2024-01-13T02:30:46.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1136,19 +1136,6 @@ $HYPR $2.7m -> $24m peak
 $BSSB $8m -> $31m]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mudit Gupta: The ledger issue is now fixed. To make sure you don't have the malicious library cached, go to https://cdn.jsdelivr.net/npm/@ledgerhq/...]]></title>
-        <id>https://twitter.com/Mudit__Gupta/status/1735301007188406681</id>
-        <link href="https://twitter.com/Mudit__Gupta/status/1735301007188406681"/>
-        <updated>2023-12-14T14:09:35.000Z</updated>
-        <summary type="html"><![CDATA[RT Mudit Gupta
-The ledger issue is now fixed.
-To make sure you don't have the malicious library cached, go to https://cdn.jsdelivr.net/npm/@ledgerhq/connect-kit@1 and ensure the version is 1.1.8.
-If it's not, clear your cache. chrome- F12> Chrome Developer Tools > Application tab > Storage in left tree> Clear site data.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
