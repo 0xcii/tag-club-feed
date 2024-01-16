@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/wublockchain12",
       "articles": [
         {
+          "id": "https://twitter.com/wublockchain12/status/1747203613133550008",
+          "author": "吴说区块链",
+          "description": "据 EIP Fun，本周会议上获得状态变更的以太坊 EIP 包括：ERC-7439：防止票务倒卖，社区评议 → 终审；ERC-7572: 通过 contractURI() 定义合约级元数据，未定义 → 草稿；ERC-7590: 针对 NFT 的 ERC-20 持有者扩展，未定义 → 草稿；新应用包括 EIP-7540：异步 ERC-4626 代币化保险库；EIP-6065:… https://twitter.com/i/web/status/1747203613133550008",
+          "link": "https://twitter.com/wublockchain12/status/1747203613133550008",
+          "publishedOn": "2024-01-16T10:26:17.000Z",
+          "wordCount": null,
+          "title": "据 EIP Fun，本周会议上获得状态变更的以太坊 EIP 包括：ERC-7439：防止票务倒卖，社区评议 → 终审；ERC-7572: 通过 contractURI() 定义合约级元数据，未定义 ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wublockchain12/status/1747171077992935605",
           "author": "吴说区块链",
           "description": "Fantom 将网络上运行自我质押节点的验证者要求削减了90%，从 500,000 FTM降低到了 50,000 FTM。运行验证者节点的相对较低成本可以使网络更加分散，从而提高网络安全性。开发者表示“通过拥有更多的验证者，网络使恶意行为者发起攻击变得越来越困难。”（CoinDesk）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=22755",
@@ -183,16 +193,6 @@
           "publishedOn": "2024-01-16T02:15:54.000Z",
           "wordCount": null,
           "title": "Pyth 发文介绍《如何为区块链应用打造安全的随机数生成技术》，包括可信第三方：一种基础协议，让服务提供商为用户生成链下随机数；区块哈希：使用来自未来区块...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1747078650791665942",
-          "author": "吴说区块链",
-          "description": "据 DL News ， MakerDAO 2.43 亿美元的年总收入中，加密货币支持的贷款贡献了 1.22 亿美元，占 50% 以上，而 RWA 资产已缩水至 21 亿美元，仅占 MakerDAO 收入的 44%，这表明 DeFi 原生贷款已大幅回升。但此前的 2023 年 11 月， MakerDAO 的 RWA 资产一度超 35 亿美元，为 MakerDAO… https://twitter.com/i/web/status/1747078650791665942",
-          "link": "https://twitter.com/wublockchain12/status/1747078650791665942",
-          "publishedOn": "2024-01-16T02:09:44.000Z",
-          "wordCount": null,
-          "title": "据 DL News ， MakerDAO 2.43 亿美元的年总收入中，加密货币支持的贷款贡献了 1.22 亿美元，占 50% 以上，而 RWA 资产已缩水至 21 亿美元，仅占 MakerDAO 收入的...",
           "imageUrl": null
         }
       ]

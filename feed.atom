@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T11:11:05.300Z</id>
+    <id>urn:2024-01-16T12:25:48.000Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-16T11:11:05.300Z</updated>
+    <updated>2024-01-16T12:25:48.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[据 EIP Fun，本周会议上获得状态变更的以太坊 EIP 包括：ERC-7439：防止票务倒卖，社区评议 → 终审；ERC-7572: 通过 contractURI() 定义合约级元数据，未定义 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1747203613133550008</id>
+        <link href="https://twitter.com/wublockchain12/status/1747203613133550008"/>
+        <updated>2024-01-16T10:26:17.000Z</updated>
+        <summary type="html"><![CDATA[据 EIP Fun，本周会议上获得状态变更的以太坊 EIP 包括：ERC-7439：防止票务倒卖，社区评议 → 终审；ERC-7572: 通过 contractURI() 定义合约级元数据，未定义 → 草稿；ERC-7590: 针对 NFT 的 ERC-20 持有者扩展，未定义 → 草稿；新应用包括 EIP-7540：异步 ERC-4626 代币化保险库；EIP-6065:… https://twitter.com/i/web/status/1747203613133550008]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对！ 买别人都买的， 卖别人都卖的， 比他们快就行。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1747197413235020288</id>
@@ -235,16 +245,6 @@ For those of us that are busy in IRL, it can help give quick context on:
         <link href="https://twitter.com/wublockchain12/status/1747080202973569135"/>
         <updated>2024-01-16T02:15:54.000Z</updated>
         <summary type="html"><![CDATA[Pyth 发文介绍《如何为区块链应用打造安全的随机数生成技术》，包括可信第三方：一种基础协议，让服务提供商为用户生成链下随机数；区块哈希：使用来自未来区块的区块哈希是生成随机数的一种简单方法；可验证随机函数（VRF）：VRF… https://twitter.com/i/web/status/1747080202973569135]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 DL News ， MakerDAO 2.43 亿美元的年总收入中，加密货币支持的贷款贡献了 1.22 亿美元，占 50% 以上，而 RWA 资产已缩水至 21 亿美元，仅占 MakerDAO 收入的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1747078650791665942</id>
-        <link href="https://twitter.com/wublockchain12/status/1747078650791665942"/>
-        <updated>2024-01-16T02:09:44.000Z</updated>
-        <summary type="html"><![CDATA[据 DL News ， MakerDAO 2.43 亿美元的年总收入中，加密货币支持的贷款贡献了 1.22 亿美元，占 50% 以上，而 RWA 资产已缩水至 21 亿美元，仅占 MakerDAO 收入的 44%，这表明 DeFi 原生贷款已大幅回升。但此前的 2023 年 11 月， MakerDAO 的 RWA 资产一度超 35 亿美元，为 MakerDAO… https://twitter.com/i/web/status/1747078650791665942]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
