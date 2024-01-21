@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-21T12:23:11.610Z</id>
+    <id>urn:2024-01-21T13:15:01.663Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-21T12:23:11.610Z</updated>
+    <updated>2024-01-21T13:15:01.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,17 @@
         <summary type="html"><![CDATA[据 DL News，摩根大通、Jane Street 等授权参与者（AP）可能会使用比特币期货 ETF 来对冲其现货 ETF 活动， AP 确保贝莱德和富达等推出的现货比特币 ETF 交易尽可能接近其持有比特币的潜在价值。AP 不直接处理比特币，用现金完成创建和赎回而非“实物”赎回，这意味着存在“结算期差距”… https://twitter.com/i/web/status/1749029637357982022]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[良心哥撤的时候，当时好几个博主都退了。 真被恶心到了。 炒币就好好炒币，洁身自好。不然真有点事说不清道不明了。 https://mp.weixin.qq.com/s/4qA2CckbsfXSEt...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1749008167785410913</id>
+        <link href="https://twitter.com/AntCaveClub/status/1749008167785410913"/>
+        <updated>2024-01-21T09:56:56.000Z</updated>
+        <summary type="html"><![CDATA[良心哥撤的时候，当时好几个博主都退了。 真被恶心到了。 炒币就好好炒币，洁身自好。不然真有点事说不清道不明了。
+https://mp.weixin.qq.com/s/4qA2CckbsfXSEtv4c2IydQ]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
         </author>
     </entry>
     <entry>
@@ -660,20 +671,6 @@ https://debank.com/profile/0x9bcb2c3cbf1073e47f3c5c31f8ae8c7b951bb016
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 3/ 这个钱包采用了挺独特的策略： 对于每一个新币，他都会创建一个新钱包并进行购买。 1 个钱包，存 1 种币。 一旦有积累了足够收益的代币，所有代币都会被发...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1747955284201656557</id>
-        <link href="https://twitter.com/AntCaveClub/status/1747955284201656557"/>
-        <updated>2024-01-18T12:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Re 3/ 这个钱包采用了挺独特的策略：
-对于每一个新币，他都会创建一个新钱包并进行购买。
-1 个钱包，存 1 种币。
-一旦有积累了足够收益的代币，所有代币都会被发送到另一个钱包。
-大师使用这种策略来避免被人发现。他的交易风格偏向于广撒网，等百倍机会。]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazing research here by Must read for the ETH bears waiting for Celsius to dump their coins @0xBoboShanti]]></title>
         <id>https://twitter.com/DeFi_educator/status/1747755015408701801</id>
         <link href="https://twitter.com/DeFi_educator/status/1747755015408701801"/>
@@ -1081,26 +1078,6 @@ https://thegreattaking.com/
 https://www.youtube.com/watch?v=dk3AVceraTI https://twitter.com/i/web/status/1737315882920018379]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xLawliette Idk even know what the mc is now]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1738367454462796270</id>
-        <link href="https://twitter.com/OnChainWizard/status/1738367454462796270"/>
-        <updated>2023-12-23T01:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xLawliette Idk even know what the mc is now]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$Omni is the most egalitarian thing we've ever seen. It's insanely ambitious, and if it works, can really reshape the fabric of society.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1738358953514340513</id>
-        <link href="https://twitter.com/OnChainWizard/status/1738358953514340513"/>
-        <updated>2023-12-23T00:40:46.000Z</updated>
-        <summary type="html"><![CDATA[$Omni is the most egalitarian thing we've ever seen. It's insanely ambitious, and if it works, can really reshape the fabric of society.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
