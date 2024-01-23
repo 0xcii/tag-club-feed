@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-23T18:16:53.904Z</id>
+    <id>urn:2024-01-23T19:10:43.042Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-23T18:16:53.904Z</updated>
+    <updated>2024-01-23T19:10:43.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,19 @@
         <summary type="html"><![CDATA[Re @NotChaseColeman Usually bases for a month or two before its next move?]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，被标记为 Celsius Network：Staked ETH 和 Celsius Network：Eth2 Depositor (Blockdaemon) 的地址在半小时前分别将 354.991K ETH、202.09K ETH 转移...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1749827927993376821</id>
+        <link href="https://twitter.com/wublockchain12/status/1749827927993376821"/>
+        <updated>2024-01-23T16:14:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，被标记为 Celsius Network：Staked ETH 和 Celsius Network：Eth2 Depositor (Blockdaemon) 的地址在半小时前分别将 354.991K ETH、202.09K ETH 转移至 0xDb...998d，总价值约 12.3 亿美元，目前这两个地址已不持有任何 ETH。0xDb...998d 正在将 ETH 转移至 Fireblocks Custody…
+
+
+吴说区块链: 吴说获悉，Celsius 近日正在将其质押的 ETH 通过 Fireblocks Custody 地址存入 Coinbase 或 FalconX 的存款地址。过去 7 天，被标记为 Celsius Network：Staked ETH 的地址已转出 4 万枚 ETH，价值超 9000 万美元。目前该地址仍持有 4.7 万枚 ETH，价值超 1.08 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=38&id=22358]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -197,18 +210,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=23022]
         <link href="https://twitter.com/wublockchain12/status/1749758197068624050"/>
         <updated>2024-01-23T11:37:17.000Z</updated>
         <summary type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 1 月 22 日）比特币现货 ETF总净流出 7735 万美元，其中灰度（Grayscale Bitcoin Trust）ETF 净流出 6.4 亿美元，除灰度外其他 ETF 总计净流入 5.62 亿美元，其中单日净流入最多的比特币现货 ETF 为 BlackRock ETF IBIT，单日净流入为 2.6…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Spot On Chain，在 1 月 16 日，或属于同一实体的十个地址集合向 OKX 转入了 176,154 OKB。这批地址均被 Arkham 标记为 OKX Deposit，其 OKB 均是...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1749736110606221324</id>
-        <link href="https://twitter.com/wublockchain12/status/1749736110606221324"/>
-        <updated>2024-01-23T10:09:31.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Spot On Chain，在 1 月 16 日，或属于同一实体的十个地址集合向 OKX 转入了 176,154 OKB。这批地址均被 Arkham 标记为 OKX Deposit，其 OKB 均是在 4 年前从 OKX 热钱包中提出（平均价格约为 6.6 美元），且 Gas 来源均为 OKX：Gas Supplier…
-
-吴说区块链: 吴说获悉，OKX 平台币 OKB 1月23日下午 UTC+8 突然发生剧烈下跌，从52美金跌至最低25美金，随后开始恢复到正常水平。目前原因未知。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=23011]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
