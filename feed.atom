@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T16:17:46.472Z</id>
+    <id>urn:2024-01-24T17:12:15.186Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-24T16:17:46.472Z</updated>
+    <updated>2024-01-24T17:12:15.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @m0nsterm0nkey @EricBalchunas it's not realtime, they settle the btc from yesterday every morning. So what you think is predictive or foresight, is...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1750151934512652708</id>
+        <link href="https://twitter.com/DeFi_educator/status/1750151934512652708"/>
+        <updated>2024-01-24T16:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @m0nsterm0nkey @EricBalchunas it's not realtime, they settle the btc from yesterday every morning. So what you think is predictive or foresight, is actually hindsight]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，Geth v1.13.11 已发布，此版本修复了一些错误，并启用了Sepolia和Holesky网络的坎昆升级。具体时间 Sepolia 为 1 月 30 日 22:51:12 UTC，Holesky 为 ...]]></title>
         <id>https://twitter.com/wublockchain12/status/1750168069672960036</id>
@@ -563,16 +573,6 @@ ZetaChain: Airdrop claim eligibility is live in ZetaHub! Anyone can now enter 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[言简意赅]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1749598924242125177</id>
-        <link href="https://twitter.com/AntCaveClub/status/1749598924242125177"/>
-        <updated>2024-01-23T01:04:24.000Z</updated>
-        <summary type="html"><![CDATA[言简意赅]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @Evan_ss6 Would u mess around with ethe here or discount not worth it]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1749584341443694778</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1749584341443694778"/>
@@ -750,6 +750,19 @@ Please repost and like.]]></summary>
         <summary type="html"><![CDATA[Alerts from @ChainEDGE_io signaled the surprise $savm launch at $6mm -> now $40mm]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 區塊先生 🐡 ⚠️ (rock #58): 有些團隊是不是就覺得投資者就永遠不應該提幣？ 被鎖了三年，一問代幣近況就像見到鬼一樣。 你需要資源，叫我拍片，幫上交易...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1750177376024277187</id>
+        <link href="https://twitter.com/AntCaveClub/status/1750177376024277187"/>
+        <updated>2024-01-18T19:07:25.000Z</updated>
+        <summary type="html"><![CDATA[RT 區塊先生 🐡 ⚠️ (rock #58)
+有些團隊是不是就覺得投資者就永遠不應該提幣？
+被鎖了三年，一問代幣近況就像見到鬼一樣。
+你需要資源，叫我拍片，幫上交易所，寫代碼，搞合約，做審計，卻總是很準時地讓我做牛做馬。。]]></summary>
+        <author>
+            <name>链求君 | （C,C）</name>
         </author>
     </entry>
     <entry>
@@ -944,23 +957,6 @@ On the Price multiplier effect for #Bitcoin, we can look at how much capital flo
 We estimate a multiplier effect of around 4-5x by this model using on-chain data.
 cc @yassineARK @adam3us 
 https://insights.glassnode.com/the-realized-cap-foundation/]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 💐Guru 💐: If BTC chops and ETH runs to 3.2-3.6k You have a 3-5 week window to make unfathomable amounts of $ onchain - Rotate % of profits int...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1745227836187615275</id>
-        <link href="https://twitter.com/DeFi_educator/status/1745227836187615275"/>
-        <updated>2024-01-10T16:38:39.000Z</updated>
-        <summary type="html"><![CDATA[RT 💐Guru 💐
-If BTC chops and ETH runs to 3.2-3.6k
-You have a 3-5 week window to make unfathomable amounts of $ onchain
-- Rotate % of profits into stables
-- Don’t touch long term holdings
-- Gamble less the closer ETH gets to 3.6k
-- Don’t get too greedy
-Rise up degens, it’s go time]]></summary>
         <author>
             <name>DeFi Educator</name>
         </author>
