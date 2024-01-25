@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-25T06:17:32.001Z</id>
+    <id>urn:2024-01-25T07:12:31.069Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-25T06:17:32.001Z</updated>
+    <updated>2024-01-25T07:12:31.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Greeks live 表示， 受月末移仓影响，昨日期权大宗交易占据了比特币期权交易的绝对统治地位。大宗看涨和大宗看跌各占了 3 成交易量，其中主要由 4…]]></title>
+        <id>https://twitter.com/wublockchain12/status/1750382931695350020</id>
+        <link href="https://twitter.com/wublockchain12/status/1750382931695350020"/>
+        <updated>2024-01-25T04:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Greeks live 表示， 受月末移仓影响，昨日期权大宗交易占据了比特币期权交易的绝对统治地位。大宗看涨和大宗看跌各占了 3 成交易量，其中主要由 4…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 基础设施平台 Ankr 推出 Kava 网络的 RPC 连接服务，支持请求调用并接收信息返回，帮助开发者快速构建和提升可扩展性。作为 Ankr 的旗舰服务，其目前已支持...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1750380700212334822</id>
+        <link href="https://twitter.com/wublockchain12/status/1750380700212334822"/>
+        <updated>2024-01-25T04:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Web3 基础设施平台 Ankr 推出 Kava 网络的 RPC 连接服务，支持请求调用并接收信息返回，帮助开发者快速构建和提升可扩展性。作为 Ankr 的旗舰服务，其目前已支持 46 条区块链的 RPC 服务，并提供一整套构建工具帮助开发人员、去中心化应用程序和质押者与各种区块链轻松交互，包括多链 dApp…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，Binance Launchpool 项目 AltLayer 已知做市商为 GSR Market，其地址：0xBd…E777 在 6 天前从初始分配合约中收到了 4 千万 ALT，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1750380264390541681</id>
+        <link href="https://twitter.com/wublockchain12/status/1750380264390541681"/>
+        <updated>2024-01-25T04:49:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，Binance Launchpool 项目 AltLayer 已知做市商为 GSR Market，其地址：0xBd…E777 在 6 天前从初始分配合约中收到了 4 千万 ALT，随后在本日向 Binance、MEXC 和 Gate 转移了部分代币。目前 GSR Market 已向 Binance 转移了 1,100 万枚 ALT、向 MEXC 和 Gate 分别转移了…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @atrupar Need a @CommunityNotes on this thing]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1749982079079649365</id>
@@ -233,36 +263,6 @@ Velodrome Finance(VELO) 的 Optimism 网络（ERC-20…]]></summary>
         <summary type="html"><![CDATA[Re @owen1v9 My man never capitulated]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Labs 将在其网络中引入一个名为 AggLayer 的新聚合层，它将允许开发人员连接 L2 区块链，利用以太坊进行结算。AggLayer 的第一个版本将于二月份发布，目...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1750301312359727379</id>
-        <link href="https://twitter.com/wublockchain12/status/1750301312359727379"/>
-        <updated>2024-01-24T23:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Labs 将在其网络中引入一个名为 AggLayer 的新聚合层，它将允许开发人员连接 L2 区块链，利用以太坊进行结算。AggLayer 的第一个版本将于二月份发布，目标是使开发人员能够连接区块链以支持统一的流动性。 AggLayer 将成为 Polygon 2.0 的关键组件，与其他互操作性解决方案不同，AggLayer…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资产管理公司 Bitwise 宣布，BITB 成为美国首个公布其持有 BTC 地址的现货比特币 ETF。Bitwise 指出，该决定源于链上透明度的优先考虑，现在任何人都可以直接在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1750297851035529558</id>
-        <link href="https://twitter.com/wublockchain12/status/1750297851035529558"/>
-        <updated>2024-01-24T23:21:41.000Z</updated>
-        <summary type="html"><![CDATA[资产管理公司 Bitwise 宣布，BITB 成为美国首个公布其持有 BTC 地址的现货比特币 ETF。Bitwise 指出，该决定源于链上透明度的优先考虑，现在任何人都可以直接在区块链上验证 BITB 的持股和流动。 Bitwise 当前持有11858 枚比特币，价值约 4.74 亿美元。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=23071]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Arkham 汇编的数据，自 1 月 11 日现货比特币 ETF 上市交易以来，灰度已从其钱包中转移了近 113,000 枚比特币，其中绝大多数转移至 Coinbase Prime 准备出售...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1750295603018678724</id>
-        <link href="https://twitter.com/wublockchain12/status/1750295603018678724"/>
-        <updated>2024-01-24T23:12:45.000Z</updated>
-        <summary type="html"><![CDATA[据 Arkham 汇编的数据，自 1 月 11 日现货比特币 ETF 上市交易以来，灰度已从其钱包中转移了近 113,000 枚比特币，其中绝大多数转移至 Coinbase Prime 准备出售。 截至北京时间 1 月 25 日凌晨，Grayscale 网站显示，GBTC 持有约 537,000 枚比特币，自 1 月 11 日以来减少了约 10 万枚比特币。…]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
