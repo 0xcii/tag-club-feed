@@ -1,111 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T11:09:08.617Z</id>
+    <id>urn:2024-01-28T12:20:17.542Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-28T11:09:08.617Z</updated>
+    <updated>2024-01-28T12:20:17.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[《神鱼：区块链行业不同阶段的“财务建议”》10万刀以内以撸羊毛为主；10-100万刀资产时寻找有潜力的十倍币；100到1000万刀时选择币本位，追求 BTC/ETH 币本位增...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751516258238103594</id>
-        <link href="https://twitter.com/wublockchain12/status/1751516258238103594"/>
-        <updated>2024-01-28T08:03:12.000Z</updated>
-        <summary type="html"><![CDATA[《神鱼：区块链行业不同阶段的“财务建议”》10万刀以内以撸羊毛为主；10-100万刀资产时寻找有潜力的十倍币；100到1000万刀时选择币本位，追求 BTC/ETH 币本位增长；1000万刀到1亿刀时追求低风险稳定增值和良好的现金流。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=23184]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 这一行为引发对币安上币 RON 的猜测，导致24小时上涨15%。]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751515854922281250</id>
-        <link href="https://twitter.com/wublockchain12/status/1751515854922281250"/>
-        <updated>2024-01-28T08:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Re 这一行为引发对币安上币 RON 的猜测，导致24小时上涨15%。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 OKLink，被标记为 Binance 热钱包（0xb3…AFA3）自 1 月 26 日起从上千个钱包中归集 RON。目前该 Binance 热钱包已归集 137.8k RON，价值约 36.8 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751511881439912002</id>
-        <link href="https://twitter.com/wublockchain12/status/1751511881439912002"/>
-        <updated>2024-01-28T07:45:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 OKLink，被标记为 Binance 热钱包（0xb3…AFA3）自 1 月 26 日起从上千个钱包中归集 RON。目前该 Binance 热钱包已归集 137.8k RON，价值约 36.8 万美元。通过对被归集钱包分析，其中一些被 Arkham 标记为 Binance deposit 地址，而由于 Binance 尚未上线 RON，推断可能是 Binance…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，FTX 正在抛售加密资产并囤积现金，根据美国破产法第 11 章的月度运营报告，FTX 旗下四家最大子公司——包括 FTX Trading Ltd. 和 Alameda R...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751505348266242415</id>
-        <link href="https://twitter.com/wublockchain12/status/1751505348266242415"/>
-        <updated>2024-01-28T07:19:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，FTX 正在抛售加密资产并囤积现金，根据美国破产法第 11 章的月度运营报告，FTX 旗下四家最大子公司——包括 FTX Trading Ltd. 和 Alameda Research LLC——在 2023 年底的现金储备几乎翻了一番，从 10 月底的约 23 亿美元增至 44…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 MetaTrust Alert 监测，Conflux 生态借贷协议 Goledo Finance 遭攻击，损失 790 万枚 CFX，价值 170 万美元。Goledo Finance 协议 TVL 减少 300 万...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751490405722734745</id>
-        <link href="https://twitter.com/wublockchain12/status/1751490405722734745"/>
-        <updated>2024-01-28T06:20:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 MetaTrust Alert 监测，Conflux 生态借贷协议 Goledo Finance 遭攻击，损失 790 万枚 CFX，价值 170 万美元。Goledo Finance 协议 TVL 减少 300 万美元，至 23.5 万美元。Goledo Finance 发推表示，团队已经确认了与黑客相关的所有地址，并联系了所有交易所冻结相关 KYC…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Cointelegraph，谷歌将于周一（1 月 29 日）更新其政策，允许特定的加密货币产品在其搜索引擎上进行广告。这一变化可能包括比特币 ETF，此举在加密货币行业内...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751488382071603663</id>
-        <link href="https://twitter.com/wublockchain12/status/1751488382071603663"/>
-        <updated>2024-01-28T06:12:26.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph，谷歌将于周一（1 月 29 日）更新其政策，允许特定的加密货币产品在其搜索引擎上进行广告。这一变化可能包括比特币 ETF，此举在加密货币行业内引发了广泛猜测。加密货币分析师对比特币 ETF 的潜在流入持乐观态度，理由是谷歌在搜索中的交易处理能力很高。根据 DemandSage…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周热门项目动态: OpenSea 收到收购意向、Magic Eden 增强奖励计划、Curve 将推出借贷市场 Llamalend 等（0121-0127） https://www.wublock123.com/index.php?m...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751480081288212656</id>
-        <link href="https://twitter.com/wublockchain12/status/1751480081288212656"/>
-        <updated>2024-01-28T05:39:26.000Z</updated>
-        <summary type="html"><![CDATA[一周热门项目动态: OpenSea 收到收购意向、Magic Eden 增强奖励计划、Curve 将推出借贷市场 Llamalend 等（0121-0127）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23179]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，ConsenSys L2 网络 Linea 发推表示，于1 月 22 日之前在 Verax 上完成人格证明（Proof of Humanity）的 DeFi Voyage 参与者将获得 LXP 空投，LXP (Lin...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751471006362062944</id>
-        <link href="https://twitter.com/wublockchain12/status/1751471006362062944"/>
-        <updated>2024-01-28T05:03:23.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，ConsenSys L2 网络 Linea 发推表示，于1 月 22 日之前在 Verax 上完成人格证明（Proof of Humanity）的 DeFi Voyage 参与者将获得 LXP 空投，LXP (Linea Voyage XP)  代币将空投至用户钱包。此外，参与过 2023 年 9 月 Entertainment Festival，以及 Aspecta、Desig 和 Particle Network…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，基于 zkVM 的 L2 网络 Ola 公布 2024 年路线图， 将于近期上线 Pre-Alpha 测试网，年中上线主网。PoW、ZKP 和 Verifier 等挖矿机制正在开发中。Ola 将...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751453622309974379</id>
-        <link href="https://twitter.com/wublockchain12/status/1751453622309974379"/>
-        <updated>2024-01-28T03:54:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，基于 zkVM 的 L2 网络 Ola 公布 2024 年路线图， 将于近期上线 Pre-Alpha 测试网，年中上线主网。PoW、ZKP 和 Verifier 等挖矿机制正在开发中。Ola 将逐步推出新的社区治理体系和代币经济，加强对用户、开发者、矿工等的激励，OVP（OlaVM 积分）在 Ola…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Gemini Trust 发推表示，1 月 25 日，Genesis 提交了投票报告（Voting Report），其中包括接受或拒绝该计划的每个类别允许的索赔金额和数量。 Earn 用...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751451665780424961</id>
-        <link href="https://twitter.com/wublockchain12/status/1751451665780424961"/>
-        <updated>2024-01-28T03:46:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Gemini Trust 发推表示，1 月 25 日，Genesis 提交了投票报告（Voting Report），其中包括接受或拒绝该计划的每个类别允许的索赔金额和数量。 Earn 用户类别已投票接受该计划。Gemini 代表所有 Earn 用户，继续与 Genesis…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @toptickcrypto @0xH0wl It’s def lagging at bottoms and tops]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1751450013606015342</id>
@@ -114,36 +13,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23179]]
         <summary type="html"><![CDATA[Re @toptickcrypto @0xH0wl It’s def lagging at bottoms and tops]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德意志银行（Deutsche Bank）调查显示，超过三分之一的美国、英国和欧洲消费者预计比特币价格将在年底跌破 2 万美元。调查还发现，42% 的受访者预计比特币将消失...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751446251571482981</id>
-        <link href="https://twitter.com/wublockchain12/status/1751446251571482981"/>
-        <updated>2024-01-28T03:25:01.000Z</updated>
-        <summary type="html"><![CDATA[德意志银行（Deutsche Bank）调查显示，超过三分之一的美国、英国和欧洲消费者预计比特币价格将在年底跌破 2 万美元。调查还发现，42% 的受访者预计比特币将消失，而 39% 的人认为它将继续存在。此外，超过一半的受访者对主要加密货币在未来两年内崩溃表示担忧。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23175]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据@EmberCN，根据 1 月 26 日比特币现货 ETF 资金流入 / 流出情况，预计 1 月 29 日美股开盘时各 ETF 托管地址将出现约 12,504 枚 BTC (5.25 亿美元) ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751422459411353842</id>
-        <link href="https://twitter.com/wublockchain12/status/1751422459411353842"/>
-        <updated>2024-01-28T01:50:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据@EmberCN，根据 1 月 26 日比特币现货 ETF 资金流入 / 流出情况，预计 1 月 29 日美股开盘时各 ETF 托管地址将出现约 12,504 枚 BTC (5.25 亿美元) 的转移： 其中灰度 GBTC 托管地址将流出约 6,077 枚 BTC (1 月 26 日资金流出 2.55 亿美元)；其余九支 ETF 托管地址将流入约 6,427 枚 BTC…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，基于 Cosmos 的公链 Injective 宣布新生态系统 DApp 将于下周在主网上发布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=4...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751420704711676132</id>
-        <link href="https://twitter.com/wublockchain12/status/1751420704711676132"/>
-        <updated>2024-01-28T01:43:30.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，基于 Cosmos 的公链 Injective 宣布新生态系统 DApp 将于下周在主网上发布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=23173]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -157,26 +26,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23179]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Polygon 宣布 zkEVM 的 Etrog 升级将在下个月上线主网，使网络成为Type 2 ZK-EVM，即等效于 EVM 的 ZK rollup。开发者可以在 Cardona 测试网上测试和...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751415329455329698</id>
-        <link href="https://twitter.com/wublockchain12/status/1751415329455329698"/>
-        <updated>2024-01-28T01:22:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Polygon 宣布 zkEVM 的 Etrog 升级将在下个月上线主网，使网络成为Type 2 ZK-EVM，即等效于 EVM 的 ZK rollup。开发者可以在 Cardona 测试网上测试和验证 Etrog 升级。升级后，开发者无需额外审核或修改即可在 Polygon zkEVM 上部署其代码。对终端用户而言，无需采取任何行动即可继续使用…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Cointelegraph，Beam 钱包开发商 Eco 已收购 Web3 购物应用程序 Join。这一收购使得 Beam 钱包用户现在可以通过 Join 应用在亚马逊和 Shopify 上进行购物。Be...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751404052255228216</id>
-        <link href="https://twitter.com/wublockchain12/status/1751404052255228216"/>
-        <updated>2024-01-28T00:37:20.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph，Beam 钱包开发商 Eco 已收购 Web3 购物应用程序 Join。这一收购使得 Beam 钱包用户现在可以通过 Join 应用在亚马逊和 Shopify 上进行购物。Beam 钱包在 Optimism 和 Base 网络上运行。Eco 得到过多家知名风险投资公司的支持，包括 a16z Crypto、Andreessen Horowitz 和 Coinbase…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @krugermacro Lmao]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1751396722402533451</id>
         <link href="https://twitter.com/DeFiSurfer808/status/1751396722402533451"/>
@@ -184,16 +33,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23179]]
         <summary type="html"><![CDATA[Re @krugermacro Lmao]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellar Development Foundation（SDF）宣布，原定于 2024 年 1 月 30 日进行的 Stellar 区块链智能合约升级将被推迟。这一决定是在 1 月 25 日发现 Stellar Cor...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751395751647986004</id>
-        <link href="https://twitter.com/wublockchain12/status/1751395751647986004"/>
-        <updated>2024-01-28T00:04:21.000Z</updated>
-        <summary type="html"><![CDATA[Stellar Development Foundation（SDF）宣布，原定于 2024 年 1 月 30 日进行的 Stellar 区块链智能合约升级将被推迟。这一决定是在 1 月 25 日发现 Stellar Core v20.1.0 软件中存在一个错误后作出的。目前，SDF 正计划在未来两周内修复该错误，并将协调确定一个新的升级投票日期。这次升级旨在为…]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -365,36 +204,6 @@ The Long View: Social Security outlays will double in the next decade from $1t
         <summary type="html"><![CDATA[Re @wabuffo Phew lads]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751239878413791275</id>
-        <link href="https://twitter.com/wublockchain12/status/1751239878413791275"/>
-        <updated>2024-01-27T13:44:58.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Coinedition，美国证券交易委员会（SEC）和 Binance Holdings Ltd. 之间的诉讼已提交联合状态报告，报告中 SEC 称币安尚未提供其认为对案件至关重...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751231111748100571</id>
-        <link href="https://twitter.com/wublockchain12/status/1751231111748100571"/>
-        <updated>2024-01-27T13:10:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Coinedition，美国证券交易委员会（SEC）和 Binance Holdings Ltd. 之间的诉讼已提交联合状态报告，报告中 SEC 称币安尚未提供其认为对案件至关重要的文件。SEC 表示自从币安在 2023 年 12 月 15…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 26 日）比特币现货 ETF 总净流入 1481 万美元，其中灰度（Grayscale）ETF GBTC 单日净流出 2.55 亿美元。...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751210737303990276</id>
-        <link href="https://twitter.com/wublockchain12/status/1751210737303990276"/>
-        <updated>2024-01-27T11:49:10.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 26 日）比特币现货 ETF 总净流入 1481 万美元，其中灰度（Grayscale）ETF GBTC 单日净流出 2.55 亿美元。除灰度外其他 ETF 总计净流入 2.69 亿美元，其中单日净流入最多的比特币现货 ETF 为富达（Fidelity）ETF FBTC，单日净流入约为 1…]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -657,16 +466,6 @@ Here are more details on P2A, collector tiers & more!]]></summary>
         <link href="https://twitter.com/AntCaveClub/status/1750677996271501462"/>
         <updated>2024-01-26T00:32:14.000Z</updated>
         <summary type="html"><![CDATA[Check out this island on Nifty Island! https://niftyisland.com/islands/9370a23d-0044-4fb7-8814-e0ff68f49c47 来自 @Nifty_Island]]></summary>
-        <author>
-            <name>链求君 | （C,C）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @arbitrum #Web3Gaming]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1750656026305786367</id>
-        <link href="https://twitter.com/AntCaveClub/status/1750656026305786367"/>
-        <updated>2024-01-25T23:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @arbitrum #Web3Gaming]]></summary>
         <author>
             <name>链求君 | （C,C）</name>
         </author>
