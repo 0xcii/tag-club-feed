@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T02:20:03.384Z</id>
+    <id>urn:2024-01-28T03:12:28.190Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-28T02:20:03.384Z</updated>
+    <updated>2024-01-28T03:12:28.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据@EmberCN，根据 1 月 26 日比特币现货 ETF 资金流入 / 流出情况，预计 1 月 29 日美股开盘时各 ETF 托管地址将出现约 12,504 枚 BTC (5.25 亿美元) ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1751422459411353842</id>
+        <link href="https://twitter.com/wublockchain12/status/1751422459411353842"/>
+        <updated>2024-01-28T01:50:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@EmberCN，根据 1 月 26 日比特币现货 ETF 资金流入 / 流出情况，预计 1 月 29 日美股开盘时各 ETF 托管地址将出现约 12,504 枚 BTC (5.25 亿美元) 的转移： 其中灰度 GBTC 托管地址将流出约 6,077 枚 BTC (1 月 26 日资金流出 2.55 亿美元)；其余九支 ETF 托管地址将流入约 6,427 枚 BTC…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，基于 Cosmos 的公链 Injective 宣布新生态系统 DApp 将于下周在主网上发布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=4...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1751420704711676132</id>
+        <link href="https://twitter.com/wublockchain12/status/1751420704711676132"/>
+        <updated>2024-01-28T01:43:30.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，基于 Cosmos 的公链 Injective 宣布新生态系统 DApp 将于下周在主网上发布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=23173]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Polygon 宣布 zkEVM 的 Etrog 升级将在下个月上线主网，使网络成为Type 2 ZK-EVM，即等效于 EVM 的 ZK rollup。开发者可以在 Cardona 测试网上测试和...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1751415329455329698</id>
+        <link href="https://twitter.com/wublockchain12/status/1751415329455329698"/>
+        <updated>2024-01-28T01:22:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Polygon 宣布 zkEVM 的 Etrog 升级将在下个月上线主网，使网络成为Type 2 ZK-EVM，即等效于 EVM 的 ZK rollup。开发者可以在 Cardona 测试网上测试和验证 Etrog 升级。升级后，开发者无需额外审核或修改即可在 Polygon zkEVM 上部署其代码。对终端用户而言，无需采取任何行动即可继续使用…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据 Cointelegraph，Beam 钱包开发商 Eco 已收购 Web3 购物应用程序 Join。这一收购使得 Beam 钱包用户现在可以通过 Join 应用在亚马逊和 Shopify 上进行购物。Be...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1751404052255228216</id>
+        <link href="https://twitter.com/wublockchain12/status/1751404052255228216"/>
+        <updated>2024-01-28T00:37:20.000Z</updated>
+        <summary type="html"><![CDATA[据 Cointelegraph，Beam 钱包开发商 Eco 已收购 Web3 购物应用程序 Join。这一收购使得 Beam 钱包用户现在可以通过 Join 应用在亚马逊和 Shopify 上进行购物。Beam 钱包在 Optimism 和 Base 网络上运行。Eco 得到过多家知名风险投资公司的支持，包括 a16z Crypto、Andreessen Horowitz 和 Coinbase…]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellar Development Foundation（SDF）宣布，原定于 2024 年 1 月 30 日进行的 Stellar 区块链智能合约升级将被推迟。这一决定是在 1 月 25 日发现 Stellar Cor...]]></title>
         <id>https://twitter.com/wublockchain12/status/1751395751647986004</id>
@@ -159,36 +199,6 @@ https://medium.com/masa-finance/masa-token-airdrop-quest-is-now-live-86a3ce28d15
         <link href="https://twitter.com/wublockchain12/status/1751059637343068642"/>
         <updated>2024-01-27T01:48:45.000Z</updated>
         <summary type="html"><![CDATA[《吴说播客：对话 Bitrace 你的账户混进了黑 U 怎么办？应该如何防范？加密黑灰产大追踪》本次播客我们和专业数据追踪机构 Bitrace 讨论了社区收到黑 U 的情况是否更加频繁；普通用户使用 USDC 是否会更加安全；如何在日常生活中降低收到黑 U…]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，北京时间 1 月 27 日 3：41，一“0x4131”开头地址将 22,499 枚 ETH 转入加密货币交易所Coinbase，价值约 5079.64 万美元。该地...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751051885682045242</id>
-        <link href="https://twitter.com/wublockchain12/status/1751051885682045242"/>
-        <updated>2024-01-27T01:17:57.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，北京时间 1 月 27 日 3：41，一“0x4131”开头地址将 22,499 枚 ETH 转入加密货币交易所Coinbase，价值约 5079.64 万美元。该地址被 Arkham 标记为 Celsius Network: Fireblocks Custody。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23149]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ava Labs 发布了其扩容解决方案 Vryx 的详细信息，旨在将 Avalanche（AVAX）区块链的交易速度提升至每秒约 10 万笔。公司已开始实施这一扩容方案，计划在未来几...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751047297184797041</id>
-        <link href="https://twitter.com/wublockchain12/status/1751047297184797041"/>
-        <updated>2024-01-27T00:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Ava Labs 发布了其扩容解决方案 Vryx 的详细信息，旨在将 Avalanche（AVAX）区块链的交易速度提升至每秒约 10 万笔。公司已开始实施这一扩容方案，计划在未来几周内制定基准。扩展方法将在第一个 HyperSDK 测试网上启用，该测试网计划在第二季度中期推出。（TheBlock）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=23155]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密原生 AI 图像生成平台 imgnAI 宣布完成 160 万美元种子轮融资，Hack VC 领投，Rana Capital、Selini Capital、West Ham Capital、Motus Capital 和 dao5 等...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1751047224988143645</id>
-        <link href="https://twitter.com/wublockchain12/status/1751047224988143645"/>
-        <updated>2024-01-27T00:59:25.000Z</updated>
-        <summary type="html"><![CDATA[加密原生 AI 图像生成平台 imgnAI 宣布完成 160 万美元种子轮融资，Hack VC 领投，Rana Capital、Selini Capital、West Ham Capital、Motus Capital 和 dao5 等参投，估值暂未披露。融资资金将用于扩大 imgnAI…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
