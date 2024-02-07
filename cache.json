@@ -1,6 +1,163 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://twitter.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755258326458540507",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安发文《关于内幕交易政策的提醒》，表示任何被发现涉及滥用非公开信息或其他不当行为的员工将被列入永久黑名单，不仅会失去币安的工作，还会受到法律的追究。币安将与执法部门积极合作，应对任何潜在的犯罪活动。对违法保密原则的外部上市合作伙伴来说，币安将立即终止上币服务或下架该项…\n\n吴说区块链: 吴说获悉，Binance 联创何一回应 RONIN 上币公告发布后价格下跌引社区激烈讨论，经过内部调查发现是之前集成公链为用户做代币找回，被外部检测到链上归集，并表示将对内部、外部合作方作出调整、并提高技术监控以避免今后出现上币泄露事件。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=23476",
+          "link": "https://twitter.com/wublockchain12/status/1755258326458540507",
+          "publishedOn": "2024-02-07T15:52:50.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，币安发文《关于内幕交易政策的提醒》，表示任何被发现涉及滥用非公开信息或其他不当行为的员工将被列入永久黑名单，不仅会失去币安的工作，还会受到法...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755252672071073945",
+          "author": "吴说区块链",
+          "description": "吴说获悉，StarkWare 发布管理 Starknet 的通胀代币铸造提案，原则是质押的代币越多，总通胀率越高，质押奖励占质押金额的百分比就越低。最大理论年通胀率为 4%（100% 质押）。Starknet 代币 STRK 目前总供应量为 100 亿枚。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=45&id=23552",
+          "link": "https://twitter.com/wublockchain12/status/1755252672071073945",
+          "publishedOn": "2024-02-07T15:30:22.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，StarkWare 发布管理 Starknet 的通胀代币铸造提案，原则是质押的代币越多，总通胀率越高，质押奖励占质押金额的百分比就越低。最大理论年通胀率为 4%...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755246614607012266",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Arkham 数据，在 2 月 7 日 22:34 UTC+8，Grayscale 将 2170.5 枚 BTC 转移至 Coinbase Prime Deposit 的地址，价值约 0.93 亿美元；将 1762 枚 BTC 转移至新地址，疑似是 Grayscale 的新托管地址。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=23551",
+          "link": "https://twitter.com/wublockchain12/status/1755246614607012266",
+          "publishedOn": "2024-02-07T15:06:18.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Arkham 数据，在 2 月 7 日 22:34 UTC+8，Grayscale 将 2170.5 枚 BTC 转移至 Coinbase Prime Deposit 的地址，价值约 0.93 亿美元；将 1762 枚 BT...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755231075012608346",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://twitter.com/wublockchain12/status/1755231075012608346",
+          "publishedOn": "2024-02-07T14:04:33.000Z",
+          "wordCount": null,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755228676076212609",
+          "author": "吴说区块链",
+          "description": "Re 而基于这个计算方式，给出了不同变量对区块大小的影响的数据分析：gas 上限、calldata 定价、新增 blob 交易对区块大小的影响。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=23548",
+          "link": "https://twitter.com/wublockchain12/status/1755228676076212609",
+          "publishedOn": "2024-02-07T13:55:01.000Z",
+          "wordCount": null,
+          "title": "Re 而基于这个计算方式，给出了不同变量对区块大小的影响的数据分析：gas 上限、calldata 定价、新增 blob 交易对区块大小的影响。阅读全文：https://www.wubloc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755228658611192287",
+          "author": "吴说区块链",
+          "description": "《科普：关于以太坊区块大小、Gas 上限与可扩展性》（编译： Research Space）在最近一次 EF reddit AMA 中，Vitalik Buterin 提及将 Gas 上限增加 33% 至 4000 万。本文先是解释了区块大小的定义，然后在一定的假设下，给出了最坏的情况下区块大小的计算方式；",
+          "link": "https://twitter.com/wublockchain12/status/1755228658611192287",
+          "publishedOn": "2024-02-07T13:54:57.000Z",
+          "wordCount": null,
+          "title": "《科普：关于以太坊区块大小、Gas 上限与可扩展性》（编译： Research Space）在最近一次 EF reddit AMA 中，Vitalik Buterin 提及将 Gas 上限增加 33% 至 4000 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755228168431259839",
+          "author": "吴说区块链",
+          "description": "据 minermag，比特大陆旗下比特币挖矿公司 BitFuFu 的 SPAC 上市取得进展。该公司于 12 月 31 日向 SEC 提交了 F-4 申请，将其 SPAC 合并交易的证券注册为外国私人实体。本周三，美国证券交易委员会宣布该文件生效。SEC 宣布生效的 F-4 表格是 BitFuFu 完成合并交易及后续上市的关键一步。截至 6 月 30…",
+          "link": "https://twitter.com/wublockchain12/status/1755228168431259839",
+          "publishedOn": "2024-02-07T13:53:00.000Z",
+          "wordCount": null,
+          "title": "据 minermag，比特大陆旗下比特币挖矿公司 BitFuFu 的 SPAC 上市取得进展。该公司于 12 月 31 日向 SEC 提交了 F-4 申请，将其 SPAC 合并交易的证券注册为外国私...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755212814598431089",
+          "author": "吴说区块链",
+          "description": "韩国数字资产交易协会 DAXA 表示已向地方当局举报 OKX，称其涉嫌在未经适当注册的情况下在当地运营，具体是通过 Telegram KOL 向当地加密货币用户推广其 Jumpstart 计划。DAXA 发言人表示，它无权对 OKX 涉嫌违规行为做出裁决，该决定由金融情报部门做出。FSC 下属监管机构金融情报部门预计将在 DAXA…",
+          "link": "https://twitter.com/wublockchain12/status/1755212814598431089",
+          "publishedOn": "2024-02-07T12:51:59.000Z",
+          "wordCount": null,
+          "title": "韩国数字资产交易协会 DAXA 表示已向地方当局举报 OKX，称其涉嫌在未经适当注册的情况下在当地运营，具体是通过 Telegram KOL 向当地加密货币用户推广其 Jumpsta...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755200281229533509",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 EthHub 联合创始人 sassal.eth 推文，Dencun 升级已在 Holesky 测试网上线，接下来是以太坊主网，具体日期可能会在未来 24 小时内公布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=38&id=23546",
+          "link": "https://twitter.com/wublockchain12/status/1755200281229533509",
+          "publishedOn": "2024-02-07T12:02:11.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 EthHub 联合创始人 sassal.eth 推文，Dencun 升级已在 Holesky 测试网上线，接下来是以太坊主网，具体日期可能会在未来 24 小时内公布。https://ww...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755198604925600054",
+          "author": "吴说区块链",
+          "description": "吴说获悉，周星驰在 X 平台发文，询问用户对 Nobody 社区活动有什么想法。Blur 显示，Nobody 当前地板价为 0.833 ETH，24 小时涨幅为 23.77%。此前周星驰曾在 22 年、23 年参与 Moonbox 等 NFT 和元宇宙项目。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=40&id=23545",
+          "link": "https://twitter.com/wublockchain12/status/1755198604925600054",
+          "publishedOn": "2024-02-07T11:55:32.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，周星驰在 X 平台发文，询问用户对 Nobody 社区活动有什么想法。Blur 显示，Nobody 当前地板价为 0.833 ETH，24 小时涨幅为 23.77%。此前周星驰曾在 22...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755191578153586794",
+          "author": "吴说区块链",
+          "description": "吴说获悉，根据 SoSoValue 数据，2 月 6 日比特币现货 ETF 总净流入 3374 万美元，已连续八日实现净流入。Grayscale ETF GBTC 单日净流出 7272 万美元，除灰度外其他 9 支 ETF 总计净流入 1.06 亿美元，其中单日净流入最多的比特币现货 ETF 为贝莱德ETF IBIT，单日净流入为 4524…",
+          "link": "https://twitter.com/wublockchain12/status/1755191578153586794",
+          "publishedOn": "2024-02-07T11:27:36.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，根据 SoSoValue 数据，2 月 6 日比特币现货 ETF 总净流入 3374 万美元，已连续八日实现净流入。Grayscale ETF GBTC 单日净流出 7272 万美元，除灰度外...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755181946886570231",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安发布第十五次储备证明（快照日期 2-1）。用户 BTC 资产沉淀为 59.4 万枚，较上次（1-1）增长 3.27%，增加 18836 枚 BTC；用户 ETH 资产沉淀为 416 万枚，较上次增长 4%，增加 16万 枚 ETH；用户 USDT 资产沉淀为 178 亿枚，较上次增长 5.68%，增加 9.57 亿枚 USDT；用户 BNB 资产沉淀为…",
+          "link": "https://twitter.com/wublockchain12/status/1755181946886570231",
+          "publishedOn": "2024-02-07T10:49:20.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，币安发布第十五次储备证明（快照日期 2-1）。用户 BTC 资产沉淀为 59.4 万枚，较上次（1-1）增长 3.27%，增加 18836 枚 BTC；用户 ETH 资产沉淀为 416...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755168554809491620",
+          "author": "吴说区块链",
+          "description": "吴说获悉，香港证监会提醒公众提防涉及“香港国际金融中心代币（IFCT）”的可疑投资产品、其相关项目及安排（该产品）。该产品相关推广材料声称，其已在香港已获正式核准，但事实上其并未获证监会认可向香港公众发售，证监会已在 2024 年 2 月 7 日将该产品及其相关资料列入可疑投资产品警示名单。…",
+          "link": "https://twitter.com/wublockchain12/status/1755168554809491620",
+          "publishedOn": "2024-02-07T09:56:07.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，香港证监会提醒公众提防涉及“香港国际金融中心代币（IFCT）”的可疑投资产品、其相关项目及安排（该产品）。该产品相关推广材料声称，其已在香港已获...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755167217770262945",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 OKX 简单赚币，当前 SUI 活期年化收益率达 272%，显著高于日常水平。这可能与 Sui 链上借贷协议 NAVI Protocol 的代币发射 IDO 活动有关，用户在 IDO 临近结束时间前从 OKX 借出 SUI 参与该活动。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=23541",
+          "link": "https://twitter.com/wublockchain12/status/1755167217770262945",
+          "publishedOn": "2024-02-07T09:50:48.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 OKX 简单赚币，当前 SUI 活期年化收益率达 272%，显著高于日常水平。这可能与 Sui 链上借贷协议 NAVI Protocol 的代币发射 IDO 活动有关，用户在 I...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1755143971926577424",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安发布公告称，根据近期审核结果，币安将于2024年02月09日11:00（东八区时间）移除以下现货交易对并停止交易：FLOW/BNB、GMT/ETH、ONE/BNB、PUNDIX/ETH。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=23540",
+          "link": "https://twitter.com/wublockchain12/status/1755143971926577424",
+          "publishedOn": "2024-02-07T08:18:26.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，币安发布公告称，根据近期审核结果，币安将于2024年02月09日11:00（东八区时间）移除以下现货交易对并停止交易：FLOW/BNB、GMT/ETH、ONE/BNB、PUNDIX/...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://twitter.com/8848Community",
