@@ -188,10 +188,26 @@
       ]
     },
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848Community",
+      "articles": []
+    },
+    {
       "title": "Twitter @链求君 💎",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1802855011380322722",
+          "author": "链求君 💎",
+          "description": "eth 上的 $DJT\n450K\nhttps://t.me/djt_erc\n0x123701baec1c5de291e31d4898b367332f9f81f5",
+          "link": "https://x.com/AntCaveClub/status/1802855011380322722",
+          "publishedOn": "2024-06-18T00:05:04.000Z",
+          "wordCount": 6,
+          "title": "eth 上的 $DJT 450K https://t.me/djt_erc 0x123701baec1c5de291e31d4898b367332f9f81f5",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1802727661720207405",
           "author": "链求君 💎",
@@ -371,370 +387,6 @@
           "wordCount": 6,
           "title": "RT 0xShadow | 🎮🧙‍♂️: SafeWallet 构建的批量空投领取和转移脚本弄好了，所有地址均只收30% 服务费。 支持：@zksync @LayerZero_Labs @Blast_L2 如果你...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1802490109318860808",
-          "author": "链求君 💎",
-          "description": "领先市场，就能永赚。\n可爱的 $HOPPY 再拉升 80% 📈\nhttps://gmgn.ai/eth/token/LLMu8F0j_0x6e79b51959cf968d87826592f46f819f92466615\n如果你不懂，请不要碰，亏损多数是个人操作问题。\n🔗 推送信号： https://t.me/lianqiujun/8428",
-          "link": "https://x.com/AntCaveClub/status/1802490109318860808",
-          "publishedOn": "2024-06-16T23:55:05.000Z",
-          "wordCount": 6,
-          "title": "领先市场，就能永赚。 可爱的 $HOPPY 再拉升 80% 📈 https://gmgn.ai/eth/token/LLMu8F0j_0x6e79b51959cf968d87826592f46f819f92466615 如果你不懂，请不要碰...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1801591532773904625",
-          "author": "DeFi Educator",
-          "description": "RT pastry\nHacking time to recover $3m worth of lost Bitcoin.\nSounds crazy, right?\nThis is how two white hackers cracked an 11 year old password behind this massive fortune.. 🧁",
-          "link": "https://x.com/DeFi_educator/status/1801591532773904625",
-          "publishedOn": "2024-06-14T00:20:22.000Z",
-          "wordCount": 6,
-          "title": "RT pastry: Hacking time to recover $3m worth of lost Bitcoin. Sounds crazy, right? This is how two white hackers cracked an 11 year old password behin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1801252799826555013",
-          "author": "DeFi Educator",
-          "description": "RT Arkham\nUPDATE: Michael Egorov was liquidated for $140 Million in CRV.\nThe price of CRV fell through Egorov’s liquidation threshold this morning, with his entire 9-figure lending position liquidated across 5 protocols.\nTwo of his accounts incurred together over a million dollars of bad…\n\n\n\n\n\nArkham: $140M CRV nearing Liquidation\nCurve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CRV, across 5 accounts on 5 protocols.\nBased on current rates, Egorov is paying $60M annualized in order to keep his positions open on…",
-          "link": "https://x.com/DeFi_educator/status/1801252799826555013",
-          "publishedOn": "2024-06-13T11:07:40.000Z",
-          "wordCount": 6,
-          "title": "RT Arkham: UPDATE: Michael Egorov was liquidated for $140 Million in CRV. The price of CRV fell through Egorov’s liquidation threshold this morning, ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1800972416476463490",
-          "author": "DeFi Educator",
-          "description": "RT Arkham\n$140M CRV nearing Liquidation\nCurve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CRV, across 5 accounts on 5 protocols.\nBased on current rates, Egorov is paying $60M annualized in order to keep his positions open on…",
-          "link": "https://x.com/DeFi_educator/status/1800972416476463490",
-          "publishedOn": "2024-06-12T17:27:52.000Z",
-          "wordCount": 6,
-          "title": "RT Arkham: $140M CRV nearing Liquidation Curve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CR...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1800868924390785048",
-          "author": "DeFi Educator",
-          "description": "RT Tim Copeland\nhonestly this is one of my favourite tweets of all time",
-          "link": "https://x.com/DeFi_educator/status/1800868924390785048",
-          "publishedOn": "2024-06-11T14:27:43.000Z",
-          "wordCount": 6,
-          "title": "RT Tim Copeland: honestly this is one of my favourite tweets of all time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1796185331248607442",
-          "author": "DeFi Educator",
-          "description": "Re @NFTSWIMM3R Couldn’t agree more. It’s an edge to know when you have an edge and when you don’t.",
-          "link": "https://x.com/DeFi_educator/status/1796185331248607442",
-          "publishedOn": "2024-05-30T14:22:09.000Z",
-          "wordCount": 6,
-          "title": "Re @NFTSWIMM3R Couldn’t agree more. It’s an edge to know when you have an edge and when you don’t.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1796019712477847886",
-          "author": "DeFi Educator",
-          "description": "RT ZachXBT\nRe @blknoiz06 These d-tier celebs you keep supporting mostly have already launched or promoted multiple scams in the past.\nEX: Davido promoted RapDoge, Echoke, and Racksterli (massive Nigerian investment ponzi)\nNow bc they come back and make one post you think this time will be different…",
-          "link": "https://x.com/DeFi_educator/status/1796019712477847886",
-          "publishedOn": "2024-05-30T03:08:36.000Z",
-          "wordCount": 6,
-          "title": "RT ZachXBT: Re @blknoiz06 These d-tier celebs you keep supporting mostly have already launched or promoted multiple scams in the past. EX: Davido prom...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1795498384046067752",
-          "author": "DeFi Educator",
-          "description": "Re @IamCryptoWolf $14,206.90",
-          "link": "https://x.com/DeFi_educator/status/1795498384046067752",
-          "publishedOn": "2024-05-28T16:52:28.000Z",
-          "wordCount": 6,
-          "title": "Re @IamCryptoWolf $14,206.90",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1795243378696683737",
-          "author": "DeFi Educator",
-          "description": "RT Ross Ulbricht\nLast night, Donald Trump pledged to commute my sentence on day 1, if reelected. Thank you. Thank you. Thank you.\nAfter 11 years in prison, it is hard to express how I feel at this moment. It is thanks to your undying support that I may get a second chance.",
-          "link": "https://x.com/DeFi_educator/status/1795243378696683737",
-          "publishedOn": "2024-05-26T22:55:58.000Z",
-          "wordCount": 6,
-          "title": "RT Ross Ulbricht: Last night, Donald Trump pledged to commute my sentence on day 1, if reelected. Thank you. Thank you. Thank you. After 11 years in p...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1794131945334403368",
-          "author": "DeFi Educator",
-          "description": "RT Evanss6\nOf course you think the ETH ETF flows will be low. You're a first cycle BTC maximalist. You just finished some Bloomberg pundit, probably Seyffart.\nYou're gunna be convinced of that til next month when you get to kamikaz_FIAT, then you’ll be on about Grayscale unlock and how…",
-          "link": "https://x.com/DeFi_educator/status/1794131945334403368",
-          "publishedOn": "2024-05-24T18:31:19.000Z",
-          "wordCount": 6,
-          "title": "RT Evanss6: Of course you think the ETH ETF flows will be low. You're a first cycle BTC maximalist. You just finished some Bloomberg pundit, probably ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1793669791288553679",
-          "author": "DeFi Educator",
-          "description": "Re @WatcherGuru",
-          "link": "https://x.com/DeFi_educator/status/1793669791288553679",
-          "publishedOn": "2024-05-23T15:46:17.000Z",
-          "wordCount": 6,
-          "title": "Re @WatcherGuru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1793660972684480926",
-          "author": "DeFi Educator",
-          "description": "RT KΞΞGAN\nunpopular opinion: FIT21 getting shot down in the Senate is best case scenario.\nCongress overturning SAB 121 and the SEC capitulating on ETH ETFs are genuine regulatory wins for the crypto industry as they've deterred illogical overreach. lest we forget, spot commodity and…",
-          "link": "https://x.com/DeFi_educator/status/1793660972684480926",
-          "publishedOn": "2024-05-23T00:28:48.000Z",
-          "wordCount": 6,
-          "title": "RT KΞΞGAN: unpopular opinion: FIT21 getting shot down in the Senate is best case scenario. Congress overturning SAB 121 and the SEC capitulating on ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1793007424300851222",
-          "author": "DeFi Educator",
-          "description": "RT Evanss6\nOkay on a serious note, here is the mega recap:\n-pricing this in will likely take months. Less than 24 hours ago, the market was pricing this outcome at ~10% probability. In addition to that, ETHBTC has been in a 20 month downtrend since The Merge and it has been 14 months since…",
-          "link": "https://x.com/DeFi_educator/status/1793007424300851222",
-          "publishedOn": "2024-05-21T17:30:32.000Z",
-          "wordCount": 6,
-          "title": "RT Evanss6: Okay on a serious note, here is the mega recap: -pricing this in will likely take months. Less than 24 hours ago, the market was pricing t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1792721402182979806",
-          "author": "DeFi Educator",
-          "description": "Re @AutismCapital Surfing autist 🫡. Need those tides",
-          "link": "https://x.com/DeFi_educator/status/1792721402182979806",
-          "publishedOn": "2024-05-21T00:57:44.000Z",
-          "wordCount": 6,
-          "title": "Re @AutismCapital Surfing autist 🫡. Need those tides",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1793403931990634523",
-          "author": "DeFi Educator",
-          "description": "RT Lyn Alden\nMy May newsletter is now available, and discusses money-printing, price inflation, and the bond market's inability to forecast it.\nhttps://www.lynalden.com/may-2024-newsletter/",
-          "link": "https://x.com/DeFi_educator/status/1793403931990634523",
-          "publishedOn": "2024-05-20T13:28:10.000Z",
-          "wordCount": 6,
-          "title": "RT Lyn Alden: My May newsletter is now available, and discusses money-printing, price inflation, and the bond market's inability to forecast it. https...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @Onchain Wizard",
-      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
-      "siteUrl": "https://x.com/OnChainWizard",
-      "articles": [
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1801844975098827248",
-          "author": "Onchain Wizard",
-          "description": "Re @ConorMcJeeter Token is more than 24hr old",
-          "link": "https://x.com/OnChainWizard/status/1801844975098827248",
-          "publishedOn": "2024-06-15T05:11:33.000Z",
-          "wordCount": 6,
-          "title": "Re @ConorMcJeeter Token is more than 24hr old",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1801630966492107147",
-          "author": "Onchain Wizard",
-          "description": "chainEDGE Office Hours https://twitter.com/i/broadcasts/1mnxepRARRnJX",
-          "link": "https://x.com/OnChainWizard/status/1801630966492107147",
-          "publishedOn": "2024-06-14T15:01:09.000Z",
-          "wordCount": 6,
-          "title": "chainEDGE Office Hours https://twitter.com/i/broadcasts/1mnxepRARRnJX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1801596080502497708",
-          "author": "Onchain Wizard",
-          "description": "Trade attention not \"fundamentals\"\nhttps://tinyurl.com/topwhocares",
-          "link": "https://x.com/OnChainWizard/status/1801596080502497708",
-          "publishedOn": "2024-06-14T12:42:32.000Z",
-          "wordCount": 6,
-          "title": "Trade attention not \"fundamentals\" https://tinyurl.com/topwhocares",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1801160550908358729",
-          "author": "Onchain Wizard",
-          "description": "Is it GPU szn?\n\n\nThe Daily Edge: The @ionet / $IO TGE on Binance Launchpool will be live in less than 9 hours.    \nA thread on why this will be the biggest DePin launch yet  ->",
-          "link": "https://x.com/OnChainWizard/status/1801160550908358729",
-          "publishedOn": "2024-06-13T07:51:53.000Z",
-          "wordCount": 6,
-          "title": "Is it GPU szn?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1800987978996552085",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nTonight on The Daily Edge:\n-Simp szn in full effect w/ $DADDY and $MOTHER trending\n- $IO launches with a bang\n- Other tokens dominating onchain attention\n- Daily TG trading volumes trending 2.5x higher than April lows\n-New launches to watch\n-Smart money's favorite tokens",
-          "link": "https://x.com/OnChainWizard/status/1800987978996552085",
-          "publishedOn": "2024-06-12T19:49:24.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: Tonight on The Daily Edge: -Simp szn in full effect w/ $DADDY and $MOTHER trending - $IO launches with a bang - Other tokens domina...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1800792084737061236",
-          "author": "Onchain Wizard",
-          "description": "RT ChainEDGE\n1-10 day old EVM tokens with $100k+ smart money bags (one of the strongest signals lately):\n$PEIPEI\n$MAGAA\n$RCH\n$BIAO\n$NORMIE\n$GURU\n$LANDWU\n$FROG\n$BULEI",
-          "link": "https://x.com/OnChainWizard/status/1800792084737061236",
-          "publishedOn": "2024-06-12T07:27:35.000Z",
-          "wordCount": 6,
-          "title": "RT ChainEDGE: 1-10 day old EVM tokens with $100k+ smart money bags (one of the strongest signals lately): $PEIPEI $MAGAA $RCH $BIAO $NORMIE $GURU $LAN...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1799863746128494669",
-          "author": "Onchain Wizard",
-          "description": "Re @DecentrlizOrDie @Gvhungz @tedtalksmacro I created my pfp myself",
-          "link": "https://x.com/OnChainWizard/status/1799863746128494669",
-          "publishedOn": "2024-06-09T17:58:51.000Z",
-          "wordCount": 6,
-          "title": "Re @DecentrlizOrDie @Gvhungz @tedtalksmacro I created my pfp myself",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1799556514790715710",
-          "author": "Onchain Wizard",
-          "description": "Re @ZeMirch I naturally assume eth is already $3k based on the tl",
-          "link": "https://x.com/OnChainWizard/status/1799556514790715710",
-          "publishedOn": "2024-06-08T21:38:01.000Z",
-          "wordCount": 6,
-          "title": "Re @ZeMirch I naturally assume eth is already $3k based on the tl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1799429390343803108",
-          "author": "Onchain Wizard",
-          "description": "RT ElonMoney\nHere are the TOP tools I use every day:\n🔹 @ChainEDGE_io - The top service for spotting smart-money traders\n🔹 @nansen_ai - An on-chain tool with a broad set of features that are great for both analytics and tracking smart money moves\n🔹 @getmoni_io - The best analytics service…",
-          "link": "https://x.com/OnChainWizard/status/1799429390343803108",
-          "publishedOn": "2024-06-08T09:46:35.000Z",
-          "wordCount": 6,
-          "title": "RT ElonMoney: Here are the TOP tools I use every day: 🔹 @ChainEDGE_io - The top service for spotting smart-money traders 🔹 @nansen_ai - An on-ch...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1799178198019936499",
-          "author": "Onchain Wizard",
-          "description": "Re @ApeBasic",
-          "link": "https://x.com/OnChainWizard/status/1799178198019936499",
-          "publishedOn": "2024-06-07T20:34:44.000Z",
-          "wordCount": 6,
-          "title": "Re @ApeBasic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1799171296364007509",
-          "author": "Onchain Wizard",
-          "description": "Re @cryptohyxk @DecentrlizOrDie @TheRoaringKitty @gmecoinsol AKGoP8EZo8urVhmJbHS8bwfdPx4ThQ47M1Bo2KBeL642",
-          "link": "https://x.com/OnChainWizard/status/1799171296364007509",
-          "publishedOn": "2024-06-07T20:07:18.000Z",
-          "wordCount": 6,
-          "title": "Re @cryptohyxk @DecentrlizOrDie @TheRoaringKitty @gmecoinsol AKGoP8EZo8urVhmJbHS8bwfdPx4ThQ47M1Bo2KBeL642",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798930441208308110",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nTonight on The Daily Edge:\n-A new entrant in the Ass Meta\n-Roaring Kitty might be a billionaire by tomorrow\n- $MOG , $LOCKIN and $MOTHER all near ATHs\n-New coins held in 6 fig size by smart money\n-A sol presale (for degens)",
-          "link": "https://x.com/OnChainWizard/status/1798930441208308110",
-          "publishedOn": "2024-06-07T04:10:01.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: Tonight on The Daily Edge: -A new entrant in the Ass Meta -Roaring Kitty might be a billionaire by tomorrow - $MOG , $LOCKIN and $M...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798915175799836979",
-          "author": "Onchain Wizard",
-          "description": "RT Jack Barbell 🍦\nNihao! Do NOT try this at home.   \nLive Degening!\nDaily Lift #5 Chinese Special   \nIf you mid-curved $PEIPEI like me, this is what I'm looking at.   \n- $IRENE  \n- $SHIN\n- $NIHAO \n- $PEIPEI (SOL)\nNFA - HIGH RISK\nAnalysis made possible by @ChainEDGE_io\nEnjoy.",
-          "link": "https://x.com/OnChainWizard/status/1798915175799836979",
-          "publishedOn": "2024-06-06T14:20:39.000Z",
-          "wordCount": 6,
-          "title": "RT Jack Barbell 🍦: Nihao! Do NOT try this at home. Live Degening! Daily Lift #5 Chinese Special If you mid-curved $PEIPEI like me, this is what I'm...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798613755053613445",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nLFG.   Biggest DePin launch yet in less than a week 🫡\n\nBinance: Introducing @ionet $IO on #Binance Launchpool!  \nFarm $IO by staking #BNB and $FDUSD.\n➡️ https://www.binance.com/en/support/announcement/introducing-io-net-io-on-binance-launchpool-farm-io-by-staking-bnb-and-fdusd-6556e3b5aae54c76adb0fd267b105a15?hl=en&ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "link": "https://x.com/OnChainWizard/status/1798613755053613445",
-          "publishedOn": "2024-06-06T07:11:15.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: LFG. Biggest DePin launch yet in less than a week 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798233217863979400",
-          "author": "Onchain Wizard",
-          "description": "Re @nellimkopi @ma__357 @ChainEDGE_io Maybe we finally see an AI rotation (tho I'm seeing smart bids on cumrocket too.....)",
-          "link": "https://x.com/OnChainWizard/status/1798233217863979400",
-          "publishedOn": "2024-06-05T05:59:43.000Z",
-          "wordCount": 6,
-          "title": "Re @nellimkopi @ma__357 @ChainEDGE_io Maybe we finally see an AI rotation (tho I'm seeing smart bids on cumrocket too.....)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798232342005211197",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nSmart money is buying cumrocket and ur bearish?\nhttps://thedailyedge.com/p/bsc-szn-incoming",
-          "link": "https://x.com/OnChainWizard/status/1798232342005211197",
-          "publishedOn": "2024-06-05T05:56:01.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: Smart money is buying cumrocket and ur bearish? https://thedailyedge.com/p/bsc-szn-incoming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1798221009574875502",
-          "author": "Onchain Wizard",
-          "description": "alfa?\nhttps://onchainwizard.substack.com/p/the-10-most-interesting-smart-trades",
-          "link": "https://x.com/OnChainWizard/status/1798221009574875502",
-          "publishedOn": "2024-06-05T05:11:12.000Z",
-          "wordCount": 6,
-          "title": "alfa? https://onchainwizard.substack.com/p/the-10-most-interesting-smart-trades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1797555428576084129",
-          "author": "Onchain Wizard",
-          "description": "Re @0x0GEM @ChainEDGE_io Sure they did\n\nOnchain Wizard: Just on this group since:\ngroyper +42%\n$PEW +256%\n$JJ -25%\n$RWAX +45%",
-          "link": "https://x.com/OnChainWizard/status/1797555428576084129",
-          "publishedOn": "2024-06-03T09:06:25.000Z",
-          "wordCount": 6,
-          "title": "Re @0x0GEM @ChainEDGE_io Sure they did",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1797464283175125296",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nGameStonk Round 2 Incoming:\n-Onchain $GME triples, while $GME stock likely opens with a bang tomorrow morning\n-$MOTHER taps $90mm while other celeb coins fade\n-Relative strength in ETH & SOL memes\n-ETH onchain TG daily trading volumes gaining relative share vs. SOL",
-          "link": "https://x.com/OnChainWizard/status/1797464283175125296",
-          "publishedOn": "2024-06-03T03:04:01.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: GameStonk Round 2 Incoming: -Onchain $GME triples, while $GME stock likely opens with a bang tomorrow morning -$MOTHER taps $90mm w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1797379327186620590",
-          "author": "Onchain Wizard",
-          "description": "Just on this group since:\ngroyper +42%\n$PEW +256%\n$JJ -25%\n$RWAX +45%\n\nOnchain Wizard: Trying to find early bags but don't want to fight PvP new launch rugs, scams, celebs and devs?\n-Crack open @ChainEDGE_io \n-Filter for smart $ holdings for tokens aged 1-10 days on ETH and SOL\n-Find ur early printoor\nSome good current examples on ETH:\n$groyper\n$JJ\n$PEW\n$RWAX",
-          "link": "https://x.com/OnChainWizard/status/1797379327186620590",
-          "publishedOn": "2024-06-02T21:26:39.000Z",
-          "wordCount": 6,
-          "title": "Just on this group since: groyper +42% $PEW +256% $JJ -25% $RWAX +45%",
-          "imageUrl": null
         }
       ]
     },
@@ -743,6 +395,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://x.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1802885667401187615",
+          "author": "Surfer",
+          "description": "What a call\n\nBluntz: 👀",
+          "link": "https://x.com/DeFiSurfer808/status/1802885667401187615",
+          "publishedOn": "2024-06-18T02:06:53.000Z",
+          "wordCount": 6,
+          "title": "What a call",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1802883974718509367",
+          "author": "Surfer",
+          "description": "Same shiz the Allies pulled with Germany and Japan…\nCall me crazy but I don’t think the USA / Israel are the good guys lads\n\nClandestine: HOLY SHIT…\nAccording to the Financial Times, back in April of 2023, Chinese President Xi told EU President Ursula Von Der Leyen, that the US tried to bait China into attacking Taiwan.\nFrankly, I believe Xi.\nThis is the same playbook the US used for Ukraine. The Casus Belli.…",
+          "link": "https://x.com/DeFiSurfer808/status/1802883974718509367",
+          "publishedOn": "2024-06-18T02:00:10.000Z",
+          "wordCount": 6,
+          "title": "Same shiz the Allies pulled with Germany and Japan… Call me crazy but I don’t think the USA / Israel are the good guys lads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1802873907403538785",
+          "author": "Surfer",
+          "description": "Inside of you there are two wolves",
+          "link": "https://x.com/DeFiSurfer808/status/1802873907403538785",
+          "publishedOn": "2024-06-18T01:20:09.000Z",
+          "wordCount": 6,
+          "title": "Inside of you there are two wolves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1802854284142473372",
+          "author": "Surfer",
+          "description": "Re @lfg_cap Still too expensive",
+          "link": "https://x.com/DeFiSurfer808/status/1802854284142473372",
+          "publishedOn": "2024-06-18T00:02:11.000Z",
+          "wordCount": 6,
+          "title": "Re @lfg_cap Still too expensive",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1802785963027898477",
           "author": "Surfer",
@@ -892,54 +584,8 @@
           "wordCount": 6,
           "title": "Re @sebjenseb Could it be a similar dynamic to Indian immigrants? Ie only the most elite Nigerians make it stateside?",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1802409830948483550",
-          "author": "Surfer",
-          "description": "Re @___jackals Damn Cobie started off as a scammer?",
-          "link": "https://x.com/DeFiSurfer808/status/1802409830948483550",
-          "publishedOn": "2024-06-16T18:36:05.000Z",
-          "wordCount": 6,
-          "title": "Re @___jackals Damn Cobie started off as a scammer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1802397514076696697",
-          "author": "Surfer",
-          "description": "Re @shaunmmaguire U ready to go all the way down the rabbit hole Shaun?\nhttps://x.com/xbtgbh/status/1776693161324097835?s=46&t=_sZ6xyyOBuoMYsKE6B_heA\n\nGBH 🤡⚔️ Remilio | RWO: Here is the article for those who wish to learn more about history as told through the lens of the great Jewish people\nhttps://www.unz.com/runz/american-pravda-holocaust-denial/",
-          "link": "https://x.com/DeFiSurfer808/status/1802397514076696697",
-          "publishedOn": "2024-06-16T17:47:08.000Z",
-          "wordCount": 6,
-          "title": "Re @shaunmmaguire U ready to go all the way down the rabbit hole Shaun? https://x.com/xbtgbh/status/1776693161324097835?s=46&t=_sZ6xyyOBuoMYsKE6B_heA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1802397070470336959",
-          "author": "Surfer",
-          "description": "Re @anaban_anaban @atdanwhite Nope",
-          "link": "https://x.com/DeFiSurfer808/status/1802397070470336959",
-          "publishedOn": "2024-06-16T17:45:23.000Z",
-          "wordCount": 6,
-          "title": "Re @anaban_anaban @atdanwhite Nope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1802384446009614779",
-          "author": "Surfer",
-          "description": "Re @degentradingLSD Lmao wut",
-          "link": "https://x.com/DeFiSurfer808/status/1802384446009614779",
-          "publishedOn": "2024-06-16T16:55:13.000Z",
-          "wordCount": 6,
-          "title": "Re @degentradingLSD Lmao wut",
-          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
