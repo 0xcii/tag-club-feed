@@ -1,4 +1,419 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804098098198675680",
+          "author": "吴说区块链",
+          "description": "吴说获悉，通用 ZK SDK 协议 Mystiko Network 宣布推出 500 万美元生态激励，用于推进 ZK 技术创新和生态发展，将以 XZK 代币形式提供，为在其平台上的开发人员提供财务支持。Mystiko 于 3 月宣布完成 1800 万美元种子轮融资。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=28538",
+          "link": "https://x.com/wublockchain12/status/1804098098198675680",
+          "publishedOn": "2024-06-21T10:24:39.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，通用 ZK SDK 协议 Mystiko Network 宣布推出 500 万美元生态激励，用于推进 ZK 技术创新和生态发展，将以 XZK 代币形式提供，为在其平台上的开发人员...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804088910030737430",
+          "author": "吴说区块链",
+          "description": "安全机构 Dilation Effect 提醒：有攻击者正在大批量尝试 TON 链 USDT 假充值，请交易所注意防范。很多交易所是近期才支持 TON 链 的 USDT 充值，入账也许存在不完善的地方。目前看到攻击者对一些交易所存在先小额测试后大额充值的行为。应严密监控 TON…",
+          "link": "https://x.com/wublockchain12/status/1804088910030737430",
+          "publishedOn": "2024-06-21T09:48:09.000Z",
+          "wordCount": 6,
+          "title": "安全机构 Dilation Effect 提醒：有攻击者正在大批量尝试 TON 链 USDT 假充值，请交易所注意防范。很多交易所是近期才支持 TON 链 的 USDT 充值，入账也许存在不...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804079784634519818",
+          "author": "吴说区块链",
+          "description": "据彭博社，渣打银行设立比特币和以太坊的现货加密货币交易柜台，即将开始运营，将成为该银行外汇交易部门的一部分。渣打银行表示，一直与监管机构密切合作，以支持机构客户对比特币和以太坊交易的需求，这符合其支持更广泛的数字资产生态系统的战略，从访问和托管到代币化和互操作性。…",
+          "link": "https://x.com/wublockchain12/status/1804079784634519818",
+          "publishedOn": "2024-06-21T09:11:53.000Z",
+          "wordCount": 6,
+          "title": "据彭博社，渣打银行设立比特币和以太坊的现货加密货币交易柜台，即将开始运营，将成为该银行外汇交易部门的一部分。渣打银行表示，一直与监管机构密切合作，以支...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804062062202753346",
+          "author": "吴说区块链",
+          "description": "吴说获悉，区块链游戏平台 Gudchain 宣布完成 500 万美元融资，Mechanism Capital 领投，Morningstar Ventures、Manifold 及 SkyVision Capital 等参投。 Gudchain 旨在通过平行游戏链推广 GameFi，计划于第四季度发布社区治理代币 GUD。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=41&id=28535",
+          "link": "https://x.com/wublockchain12/status/1804062062202753346",
+          "publishedOn": "2024-06-21T08:01:28.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，区块链游戏平台 Gudchain 宣布完成 500 万美元融资，Mechanism Capital 领投，Morningstar Ventures、Manifold 及 SkyVision Capital 等参投。 Gudcha...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804060371713736962",
+          "author": "吴说区块链",
+          "description": "Aethir 宣布与生成式 AI 应用平台公司 TensorOpera 达成合作，通过整合 Aethir 的企业级 GPU 资源池，加速 TensorOpera 最新的开源语言模型 TensorOpera Fox-1 的部署、微调和完整训练。这是 Aethir 在分布式物理基础设施网络上进行大规模 LLM 训练的首个案例。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=28534",
+          "link": "https://x.com/wublockchain12/status/1804060371713736962",
+          "publishedOn": "2024-06-21T07:54:45.000Z",
+          "wordCount": 6,
+          "title": "Aethir 宣布与生成式 AI 应用平台公司 TensorOpera 达成合作，通过整合 Aethir 的企业级 GPU 资源池，加速 TensorOpera 最新的开源语言模型 TensorOpera Fox-1 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804059378242507070",
+          "author": "吴说区块链",
+          "description": "吴说获悉，基于 Cosmos 的 DeFi 应用链 Ordinox 宣布完成 100 万美元 Pre-Seed 轮融资，DACM 领投，CMS Holdings、UTXO Management 等参投。Ordinox 允许用户以非托管的方式交易 BRC20 和 Runes，新资金将用于建立专门针对 BRC20 和 Runes 的自动做市商 (AMM)。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=28533",
+          "link": "https://x.com/wublockchain12/status/1804059378242507070",
+          "publishedOn": "2024-06-21T07:50:48.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，基于 Cosmos 的 DeFi 应用链 Ordinox 宣布完成 100 万美元 Pre-Seed 轮融资，DACM 领投，CMS Holdings、UTXO Management 等参投。Ordinox 允许用户以...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804055840544166038",
+          "author": "吴说区块链",
+          "description": "UXLINK 在官方X平台宣布发起生态基金 UFLY Labs，目的在于支持和投资生态开发者和项目，资金主要来源于项目利润，社区金库及外部投资人。目前UXLINK生态合作项目已超 100 家，基金第一期已收到 15 家项目提名，包括 Trusta, VIP3 和 PremiusMarket 等生态项目。据 UXLINK…",
+          "link": "https://x.com/wublockchain12/status/1804055840544166038",
+          "publishedOn": "2024-06-21T07:36:44.000Z",
+          "wordCount": 6,
+          "title": "UXLINK 在官方X平台宣布发起生态基金 UFLY Labs，目的在于支持和投资生态开发者和项目，资金主要来源于项目利润，社区金库及外部投资人。目前UXLINK生态合作项目...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804055310514155572",
+          "author": "吴说区块链",
+          "description": "Consensys 要求美国国税局推迟实施新的加密货币报告规则，理由是缺乏明确性，并且对经纪人的定义过于宽泛，可能会导致多方报告同一笔交易。美国国税局于四月份发布针对经纪商和交易所的初版加密货币申报税表 1099-DA…",
+          "link": "https://x.com/wublockchain12/status/1804055310514155572",
+          "publishedOn": "2024-06-21T07:34:38.000Z",
+          "wordCount": 6,
+          "title": "Consensys 要求美国国税局推迟实施新的加密货币报告规则，理由是缺乏明确性，并且对经纪人的定义过于宽泛，可能会导致多方报告同一笔交易。美国国税局于四月份发...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804040660745621693",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Spot on Chain 监测，59% 的 LISTA 空投（约 3110 万枚 LISTA）流向了 12 个接收实体，其中 2500 万枚 LISTA（约合 1680 万美元）在过去 20 小时内通过 DEX 出售或存入 Binance 和 Bitget。 LISTA 现报价$ 0.83，24 小时涨幅 44.18%，当前流通市值为 1.9123…",
+          "link": "https://x.com/wublockchain12/status/1804040660745621693",
+          "publishedOn": "2024-06-21T06:36:25.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Spot on Chain 监测，59% 的 LISTA 空投（约 3110 万枚 LISTA）流向了 12 个接收实体，其中 2500 万枚 LISTA（约合 1680 万美元）在过去 20 小时内...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804036099242926524",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据币安公告，币安现已完成 Tether（USDT）于 Toncoin Network 网络集成，并开放充值、提现业务。用户现可查阅代币于上述网络的智能合约地址。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=28529",
+          "link": "https://x.com/wublockchain12/status/1804036099242926524",
+          "publishedOn": "2024-06-21T06:18:18.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据币安公告，币安现已完成 Tether（USDT）于 Toncoin Network 网络集成，并开放充值、提现业务。用户现可查阅代币于上述网络的智能合约地址。https://...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804034113147670891",
+          "author": "吴说区块链",
+          "description": "据朝鲜日报，韩国数字资产交易所联盟（DAXA）正与在韩运营的约 20 所加密交易所交换意见，并制定与虚拟资产交易支持相关的新自律计划。这是虚拟资产交易所间首次全面合作建立自律机制，并根据金融监督管理局的建议制定上市和退市标准。预计新自律计划将在 7 月 19…",
+          "link": "https://x.com/wublockchain12/status/1804034113147670891",
+          "publishedOn": "2024-06-21T06:10:24.000Z",
+          "wordCount": 6,
+          "title": "据朝鲜日报，韩国数字资产交易所联盟（DAXA）正与在韩运营的约 20 所加密交易所交换意见，并制定与虚拟资产交易支持相关的新自律计划。这是虚拟资产交易所间首次...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804003273172721748",
+          "author": "吴说区块链",
+          "description": "吴说获悉，OKX 发布公告称，由于系统维护，部分用户的充币记录出现错误提示，核实系用户历史记录，OKX 正在抓紧解决该显示问题。用户实际资产余额未受影响，资产安全无虞。如有疑问，请联系客服支持。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=28527",
+          "link": "https://x.com/wublockchain12/status/1804003273172721748",
+          "publishedOn": "2024-06-21T04:07:51.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，OKX 发布公告称，由于系统维护，部分用户的充币记录出现错误提示，核实系用户历史记录，OKX 正在抓紧解决该显示问题。用户实际资产余额未受影响，资产...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1804001237400195517",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 6 月 20 日）比特币现货 ETF 总净流出 1.40 亿美元，持续 5 日净流出。灰度 ETF GBTC 单日净流出 5310.22 万美元，目前 GBTC 历史净流出为 183.26 亿美元。贝莱德 ETF IBIT 单日净流入最多为 147.91 万美元，目前 IBIT 历史总净流入达 176.43…",
+          "link": "https://x.com/wublockchain12/status/1804001237400195517",
+          "publishedOn": "2024-06-21T03:59:46.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 6 月 20 日）比特币现货 ETF 总净流出 1.40 亿美元，持续 5 日净流出。灰度 ETF GBTC 单日净流出 5310.22 万美元...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803981324732240040",
+          "author": "吴说区块链",
+          "description": "Re 虽然黄是证监会持牌代表，但他仅可为其所隶属的公司行事。在今次事件中，黄以个人身分操作该Telegram聊天群组，该群组开放予付费订阅的公众，就恒生指数及各类香港上市证券的表现发布评论及对订户的问题作出回应。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=10&id=28525",
+          "link": "https://x.com/wublockchain12/status/1803981324732240040",
+          "publishedOn": "2024-06-21T02:40:38.000Z",
+          "wordCount": 6,
+          "title": "Re 虽然黄是证监会持牌代表，但他仅可为其所隶属的公司行事。在今次事件中，黄以个人身分操作该Telegram聊天群组，该群组开放予付费订阅的公众，就恒生指数及各...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803981299788746830",
+          "author": "吴说区块链",
+          "description": "吴说获悉，香港东区裁判法院今天在一宗由证监会提起的检控个案中，裁定黄明忠未领有牌照而在其于 Telegram 建立并管理的一个接受订阅的聊天群组中提供投资意见的罪名成立。黄承认未领有牌照而经营就证券提供意见的业务的控罪，并被判罚款10,000元。他亦被饬令支付证监会的调查费用。",
+          "link": "https://x.com/wublockchain12/status/1803981299788746830",
+          "publishedOn": "2024-06-21T02:40:32.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，香港东区裁判法院今天在一宗由证监会提起的检控个案中，裁定黄明忠未领有牌照而在其于 Telegram 建立并管理的一个接受订阅的聊天群组中提供投资意见的...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803980758421508202",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @on_datawarlock 数据面板，Arbitrum 成为 LayerZero 空投领取的最大赢家之一，由于 LayerZero 空投领取的强制捐款带来了 Arbitrum 拥堵和推高了网络 Gas 费用，在 6 月 20 日 Arbitrum rollup 收入达 343 万美元，净利润为 329 万美元，创下历史单日新高。@hildobby_ 数据面板显示，在…\n\n吴说区块链: 吴说获悉，据 @hildobby_ 数据面板，或受 LayerZero 空投领取的强制捐款影响，Arbitrum 网络 Gas 费用突然大幅飙升至超过 13 gwei。 Optimism 网络 Gas 费用也出现了类似飙升。LayerZero 空投领取的强制捐款支持 Arbitrum、Avalanche、BSC、Ethereum、Optimism 和 Polygon…",
+          "link": "https://x.com/wublockchain12/status/1803980758421508202",
+          "publishedOn": "2024-06-21T02:38:23.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 @on_datawarlock 数据面板，Arbitrum 成为 LayerZero 空投领取的最大赢家之一，由于 LayerZero 空投领取的强制捐款带来了 Arbitrum 拥堵和推高了网...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803976623609581784",
+          "author": "吴说区块链",
+          "description": "Re 以交互为主要激励对象的空投活动的效用到 Arbitrum 空投时基本上已经到了顶点。未来在设计冷启动机制时还是要仔细斟酌对自己产品来说价值用户画像，并根据当前所处的环境，设计对应的机制，有效的激励上述价值用户的同时尽量规避女巫攻击才是重中之重。阅读全文：https://mp.weixin.qq.com/s/_5y7xA8Hkp3Gmb5Wg920nA",
+          "link": "https://x.com/wublockchain12/status/1803976623609581784",
+          "publishedOn": "2024-06-21T02:21:57.000Z",
+          "wordCount": 6,
+          "title": "Re 以交互为主要激励对象的空投活动的效用到 Arbitrum 空投时基本上已经到了顶点。未来在设计冷启动机制时还是要仔细斟酌对自己产品来说价值用户画像，并根据当...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803976590394823093",
+          "author": "吴说区块链",
+          "description": "《分析：从 ZKsync 空投争议看 Web3 项目冷启动的困境》（作者 @Web3Mario）ZKSync 在空投奖励的计算中并不涉及到交互次数这个纬度，更聚焦在单个账户的资金量与配置风险资产的意愿度。因此当结果公布之后，让很多秉持着过去经验在 ZKSync 上大量交互的撸毛党或工作室大跌眼镜。",
+          "link": "https://x.com/wublockchain12/status/1803976590394823093",
+          "publishedOn": "2024-06-21T02:21:50.000Z",
+          "wordCount": 6,
+          "title": "《分析：从 ZKsync 空投争议看 Web3 项目冷启动的困境》（作者 @Web3Mario）ZKSync 在空投奖励的计算中并不涉及到交互次数这个纬度，更聚焦在单个账户的资金量与...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803970970862129629",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Tim Beiko 对第 190 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：pectra-devnet-1 规范讨论（除了 Bug 修复以外，添加了 EL 触发提款以及用 EIP-7702 取代 EIP-3074，并针对 EIP-7702 的实现细节展开大量讨论）、EOF 进展（已决定 EOF devnets 将基于…",
+          "link": "https://x.com/wublockchain12/status/1803970970862129629",
+          "publishedOn": "2024-06-21T01:59:30.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Tim Beiko 对第 190 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：pectra-devnet-1 规范讨论（除了 Bug 修复以外，添加了 EL...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1803960786509008926",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Fantom 基金宣布成立 Sonic Labs 创新者基金，将投入最高 2 亿枚 FTM，以加速吸引更多创新的 DApp 迁移至 Sonic 网络。并表示，该基金是对其超 1 亿枚 S 代币空投的补充。此前 Fantom 基金会完成由 Hashed 领投的 1000 万美元战略融资以支持 Sonic 基金会。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=28522",
+          "link": "https://x.com/wublockchain12/status/1803960786509008926",
+          "publishedOn": "2024-06-21T01:19:02.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Fantom 基金宣布成立 Sonic Labs 创新者基金，将投入最高 2 亿枚 FTM，以加速吸引更多创新的 DApp 迁移至 Sonic 网络。并表示，该基金是对其超 1 亿枚...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @链求君 💎",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
+      "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1804056510332571927",
+          "author": "链求君 💎",
+          "description": "#空投硬撸 \nDebank 和 Rabby 的空投快要出来了， 现在是最佳参与时机。\n保持自己的 @DeBankDeFi 上的活跃度， 同时使用 @Rabby_io  钱包提高自己的竞争力。\n钱包： https://rabby.io/points?code=LQJ\nFree Gas 功能使用： https://debank.com/official-badge/134 \n社交排名Top:  https://debank.com/badge/47",
+          "link": "https://x.com/AntCaveClub/status/1804056510332571927",
+          "publishedOn": "2024-06-21T07:39:24.000Z",
+          "wordCount": 6,
+          "title": "#空投硬撸 Debank 和 Rabby 的空投快要出来了， 现在是最佳参与时机。 保持自己的 @DeBankDeFi 上的活跃度， 同时使用 @Rabby_io 钱包提高自己的竞争力。 钱包：...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1804038110587801986",
+          "author": "链求君 💎",
+          "description": "Re @LayerZero_Labs  脏手法后续:   在发币之后该跨链桥手续费显著被调低。\n多年来L0通过配合营销，暗中抬高协议手续，收取隐藏费用。 \n对空投充满憧憬的撸毛人，一直在付出多余正常水平的跨链费用。\n并最终获得反馈:  这不是你应得的，这是别人给你的。爱领不领。\n\nUSD Denominated: One underappreciated fact about the $ZRO saga is that after the ZRO snapshot Stargate lowered its fees and they are now dirt cheap",
+          "link": "https://x.com/AntCaveClub/status/1804038110587801986",
+          "publishedOn": "2024-06-21T06:26:17.000Z",
+          "wordCount": 6,
+          "title": "Re @LayerZero_Labs 脏手法后续: 在发币之后该跨链桥手续费显著被调低。 多年来L0通过配合营销，暗中抬高协议手续，收取隐藏费用。 对空投充满憧憬的撸毛人，一...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803767343283310973",
+          "author": "链求君 💎",
+          "description": "我认为 @LayerZero_Labs  的 Claim 合约在偷 ETH， 因为除了 他们声称要“捐款的部分”外。 \n大部分用户 Claim 过程中， 都在向合约发送 “超过捐款资金 3-5 倍的 ETH金额”， 大概在： $10 - $100 不等. \n虽然现在网络拥堵， 但是对于： ARB\\BASE\\BSC 这样的链， 一笔交易不至于需要  $10…",
+          "link": "https://x.com/AntCaveClub/status/1803767343283310973",
+          "publishedOn": "2024-06-20T12:30:21.000Z",
+          "wordCount": 6,
+          "title": "我认为 @LayerZero_Labs 的 Claim 合约在偷 ETH， 因为除了 他们声称要“捐款的部分”外。 大部分用户 Claim 过程中， 都在向合约发送 “超过捐款资金 3-5 倍的 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803757696770080842",
+          "author": "链求君 💎",
+          "description": "太喜欢 @LayerZero_Labs  的跨链产品了。 \n关键时刻，非常实用！ \n当我需要领取 $ZRO 空投的时候， 我需要捐款。\n但我的余额不够了，  还差 0.2 USDT ， 所以我选择使用 @LayerZero_Labs  跨链桥从其他区块链转移USDT来领取 $ZRO , 完成这次愉快的空投领取。🪂 \nMLGB !",
+          "link": "https://x.com/AntCaveClub/status/1803757696770080842",
+          "publishedOn": "2024-06-20T11:52:01.000Z",
+          "wordCount": 6,
+          "title": "太喜欢 @LayerZero_Labs 的跨链产品了。 关键时刻，非常实用！ 当我需要领取 $ZRO 空投的时候， 我需要捐款。 但我的余额不够了， 还差 0.2 USDT ， 所以我选择...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803751304927556031",
+          "author": "链求君 💎",
+          "description": "Re @0xBclub 认识黑客吗？ 能联系一个不， 我有个朋友想干掉一个项目，拜托黑一下。",
+          "link": "https://x.com/AntCaveClub/status/1803751304927556031",
+          "publishedOn": "2024-06-20T11:26:37.000Z",
+          "wordCount": 6,
+          "title": "Re @0xBclub 认识黑客吗？ 能联系一个不， 我有个朋友想干掉一个项目，拜托黑一下。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803750588876022212",
+          "author": "链求君 💎",
+          "description": "LayerZero基金会：用户申领每枚ZRO均需先捐赠 USDC、USDT或原生ETH 才能领取 ！\nZRO空投领取现已开始： https://layerzero.foundation/\n支持的链：Ethereum，Arbitrum，Optimism，Base，Polygon，BNB Chain 和 Avalanche。\n项目方这个大病谁能治一治呀 🤦   \n哪个黑客能为民除害一下？\n\nLayerZero Foundation: ZRO Claim Is Live.\nhttps://layerzero.foundation/claim\nSupported Chains: Ethereum, Arbitrum, Optimism, Base, Polygon, BNB Chain, and Avalanche.",
+          "link": "https://x.com/AntCaveClub/status/1803750588876022212",
+          "publishedOn": "2024-06-20T11:23:47.000Z",
+          "wordCount": 6,
+          "title": "LayerZero基金会：用户申领每枚ZRO均需先捐赠 USDC、USDT或原生ETH 才能领取 ！ ZRO空投领取现已开始： https://layerzero.foundation/ 支持的链：Ethereum，Arb...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803632121145336185",
+          "author": "链求君 💎",
+          "description": "这几个MEME币， 是大概率要破新高的。 \n2天前建仓的一波狗🐶和市值， 怕自己冲新土狗被埋， 可以适当冲这几个 ， 自行研究现在位置还上不上。 \n$WOLF - 市值：$74.3M ， https://gmgn.ai/eth/token/LLMu8F0j_0x67466be17df832165f8c80a5a120ccc652bd7e69\n$ANDY - 市值：$200.9M ,  https://gmgn.ai/eth/token/LLMu8F0j_0x68bbed6a47194eff1cf514b50ea91895597fc91e\n$WOJAK - 市值： $66.6M,…",
+          "link": "https://x.com/AntCaveClub/status/1803632121145336185",
+          "publishedOn": "2024-06-20T03:33:02.000Z",
+          "wordCount": 6,
+          "title": "这几个MEME币， 是大概率要破新高的。 2天前建仓的一波狗🐶和市值， 怕自己冲新土狗被埋， 可以适当冲这几个 ， 自行研究现在位置还上不上。 $WOLF - 市值：$7...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803625171984720074",
+          "author": "链求君 💎",
+          "description": "骂 @zksync / @LayerZero_Labs  就是浪费体力。 \n这个市场上有不是就它两家项目发空投。 \n而 5， 6， 7 月排的满满的， 鸡蛋装一个篮子肯定不安全，多看看其他机会。 \n风险&回报⬇️ \n精品号 + 多项目  >  批量号 + 单项目\n1. Taiko : 6月，已领完 ✅ （生态激励进行中）\n2. Ultiverse : 6月6日，…",
+          "link": "https://x.com/AntCaveClub/status/1803625171984720074",
+          "publishedOn": "2024-06-20T03:05:25.000Z",
+          "wordCount": 6,
+          "title": "骂 @zksync / @LayerZero_Labs 就是浪费体力。 这个市场上有不是就它两家项目发空投。 而 5， 6， 7 月排的满满的， 鸡蛋装一个篮子肯定不安全，多看看其他机会...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803594366877049018",
+          "author": "链求君 💎",
+          "description": "Re @bishengkegs @wzlongwang @eigenlayer 微信",
+          "link": "https://x.com/AntCaveClub/status/1803594366877049018",
+          "publishedOn": "2024-06-20T01:03:00.000Z",
+          "wordCount": 6,
+          "title": "Re @bishengkegs @wzlongwang @eigenlayer 微信",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803583065509462367",
+          "author": "链求君 💎",
+          "description": "$LOG 市值 $388.9K  0 税\nhttps://gmgn.ai/eth/token/LLMu8F0j_0x53136755d9416f6c8eca5acb84d59c4da6bbbce0",
+          "link": "https://x.com/AntCaveClub/status/1803583065509462367",
+          "publishedOn": "2024-06-20T00:18:06.000Z",
+          "wordCount": 6,
+          "title": "$LOG 市值 $388.9K 0 税 https://gmgn.ai/eth/token/LLMu8F0j_0x53136755d9416f6c8eca5acb84d59c4da6bbbce0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803431231859859826",
+          "author": "链求君 💎",
+          "description": "Re @zhang_bj_ 哥， 你知道执法成本有多高么， 要是可行。 一个月开3万才会顶着太阳出门吧。",
+          "link": "https://x.com/AntCaveClub/status/1803431231859859826",
+          "publishedOn": "2024-06-19T14:14:46.000Z",
+          "wordCount": 6,
+          "title": "Re @zhang_bj_ 哥， 你知道执法成本有多高么， 要是可行。 一个月开3万才会顶着太阳出门吧。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803402872966848550",
+          "author": "链求君 💎",
+          "description": "Re @qklpjeth @0xblanker @pandajackson42 @keyahayek https://www.theblockbeats.info/news/27984",
+          "link": "https://x.com/AntCaveClub/status/1803402872966848550",
+          "publishedOn": "2024-06-19T12:22:05.000Z",
+          "wordCount": 6,
+          "title": "Re @qklpjeth @0xblanker @pandajackson42 @keyahayek https://www.theblockbeats.info/news/27984",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803398392233730443",
+          "author": "链求君 💎",
+          "description": "Re @yellowpantherx 🤣🤣🤣",
+          "link": "https://x.com/AntCaveClub/status/1803398392233730443",
+          "publishedOn": "2024-06-19T12:04:16.000Z",
+          "wordCount": 6,
+          "title": "Re @yellowpantherx 🤣🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803397860265959799",
+          "author": "链求君 💎",
+          "description": "Re @yellowpantherx 👀 你会说中文？？  $MOCA",
+          "link": "https://x.com/AntCaveClub/status/1803397860265959799",
+          "publishedOn": "2024-06-19T12:02:10.000Z",
+          "wordCount": 6,
+          "title": "Re @yellowpantherx 👀 你会说中文？？ $MOCA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803396777846120854",
+          "author": "链求君 💎",
+          "description": "Re @CryptoJingjing @pionex_com 知道特朗普为什么带红帽子吗？ \n今年跟“属火”的人混， 容易赚钱 😏   \n密码🤫 ㊙️  ⬇️  看 $TRUMP 价格\nhttps://x.com/AntCaveClub/status/1748634840172294199\n\n链求君 💎: $TRUMP  @MAGAMemecoin  特朗普\n己己甲丙 \n巳未午戍 \n @realDonaldTrump 生于午火月，八字原局「巳午未」三会火局，极度身强的八字，火土极旺。\n午火为日干己土的「禄神」，赚钱能力。火土极㕵「性格火爆」。到2024，他步入壬寅大运，才是特朗普的人生高峰，而2024年就是「九紫离火」开始的第一年。",
+          "link": "https://x.com/AntCaveClub/status/1803396777846120854",
+          "publishedOn": "2024-06-19T11:57:51.000Z",
+          "wordCount": 6,
+          "title": "Re @CryptoJingjing @pionex_com 知道特朗普为什么带红帽子吗？ 今年跟“属火”的人混， 容易赚钱 😏 密码🤫 ㊙️ ⬇️ 看 $TRUMP 价格 https://x.com/AntCa...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803395565360959911",
+          "author": "链求君 💎",
+          "description": "Re @pionex_com 我喜欢红色橘色。 所以一直在用你们平台。 \nAPP 可以兼顾 CEX + DEX  体验好。 \n今年火运， 这 LOGO 肯定旺了",
+          "link": "https://x.com/AntCaveClub/status/1803395565360959911",
+          "publishedOn": "2024-06-19T11:53:02.000Z",
+          "wordCount": 6,
+          "title": "Re @pionex_com 我喜欢红色橘色。 所以一直在用你们平台。 APP 可以兼顾 CEX + DEX 体验好。 今年火运， 这 LOGO 肯定旺了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803395589268447333",
+          "author": "链求君 💎",
+          "description": "RT Pionex 🤖️\n#Pionex 3.0✨\nHeard the new logo designer makes $85K more than the original 🧐\n🔍 Noticed any other changes in Pionex 3.0?",
+          "link": "https://x.com/AntCaveClub/status/1803395589268447333",
+          "publishedOn": "2024-06-19T11:36:16.000Z",
+          "wordCount": 6,
+          "title": "RT Pionex 🤖️: #Pionex 3.0✨ Heard the new logo designer makes $85K more than the original 🧐 🔍 Noticed any other changes in Pionex 3.0?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803342866313519205",
+          "author": "链求君 💎",
+          "description": "Re @MetaHunter168 物总， 总结的专业。 \n他们要是发现， Farcaster 上发条 GM 短文能撸 200个 $OP ， 会挤破脑袋来的。\n还早期 🚀🚀\nhttps://x.com/Optimism/status/1802254032331067693?t=1f9-nt0W3b0QNskxDQCgiA&s=19\n\nOptimism: 1st Onchain Summer Superchain round came to an end. \n100+ entries for 5000 OP rewards distributed via http://rounds.wtf. \nExcited to see what are built, created and shared next round in the /onchainsummer @farcaster_xyz channel!",
+          "link": "https://x.com/AntCaveClub/status/1803342866313519205",
+          "publishedOn": "2024-06-19T08:23:38.000Z",
+          "wordCount": 6,
+          "title": "Re @MetaHunter168 物总， 总结的专业。 他们要是发现， Farcaster 上发条 GM 短文能撸 200个 $OP ， 会挤破脑袋来的。 还早期 🚀🚀 https://x.com/Optimism...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803342898827759638",
+          "author": "链求君 💎",
+          "description": "RT 小人物\nhttp://x.com/i/article/1803332521679335424",
+          "link": "https://x.com/AntCaveClub/status/1803342898827759638",
+          "publishedOn": "2024-06-19T07:46:02.000Z",
+          "wordCount": 6,
+          "title": "RT 小人物: http://x.com/i/article/1803332521679335424",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1803315832870805882",
+          "author": "链求君 💎",
+          "description": "朋友说他撸了半年 L0， 所有精品号空投加起来。 \n都没有半个小时前， 我推他几百刀买的土狗赚的多。\n我说：我也一样...\n$WAT 2倍 ✅\n以太要出大金狗了，群里随缘推荐： https://t.me/lianqiujun\n\n\n\n链求君 💎: $WAT  我是观察了一会发的，有点点涨高。\n主要这个图很有故事性\n0x636bd98fc13908e475f56d8a38a6e03616ec5563\nWAT 上涨+137.33%，现价$0.0₅1851\nhttps://link.pionex.com/?url=https%3A%2F%2Fdownload.pionex.com&page=WalletCoinDetailPage¶ms=%7B%22mode%22%3A%22FULL_FORCE_BALANCE%22%2C%22item%22%3A%7B%22token_address%22%3A%220x636bd98fc13908e475f56d8a38a6e03616ec5563%22%7D%7D&referral=gCr0jE7D&minVersion=20303019\n市值 77万， 0 税， 持币人 466",
+          "link": "https://x.com/AntCaveClub/status/1803315832870805882",
+          "publishedOn": "2024-06-19T06:36:13.000Z",
+          "wordCount": 6,
+          "title": "朋友说他撸了半年 L0， 所有精品号空投加起来。 都没有半个小时前， 我推他几百刀买的土狗赚的多。 我说：我也一样... $WAT 2倍 ✅ 以太要出大金狗了，群里随缘...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
