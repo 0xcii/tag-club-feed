@@ -1,10 +1,211 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848Community",
-      "articles": []
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1805643522239865261",
+          "author": "DeFi Educator",
+          "description": "Re @mrjasonchoi @theBlockcrunch @kapursanat Thanks for sharing your thoughts, you mention \"Offchain sentiment trackers\", would appreciate it if you include a bit more detail on this instead of a blanket term.",
+          "link": "https://x.com/DeFi_educator/status/1805643522239865261",
+          "publishedOn": "2024-06-25T16:45:37.000Z",
+          "wordCount": 6,
+          "title": "Re @mrjasonchoi @theBlockcrunch @kapursanat Thanks for sharing your thoughts, you mention \"Offchain sentiment trackers\", would appreciate it if you in...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1805250437949391020",
+          "author": "DeFi Educator",
+          "description": "Re @mrjasonchoi @tangent_xyz @threadreaderapp unroll",
+          "link": "https://x.com/DeFi_educator/status/1805250437949391020",
+          "publishedOn": "2024-06-24T14:43:38.000Z",
+          "wordCount": 6,
+          "title": "Re @mrjasonchoi @tangent_xyz @threadreaderapp unroll",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803861135877378292",
+          "author": "DeFi Educator",
+          "description": "Re @PastryEth love the bookmarks of this guy",
+          "link": "https://x.com/DeFi_educator/status/1803861135877378292",
+          "publishedOn": "2024-06-20T18:43:03.000Z",
+          "wordCount": 6,
+          "title": "Re @PastryEth love the bookmarks of this guy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1804211110628692302",
+          "author": "DeFi Educator",
+          "description": "RT Kaito AI\nDeFi has flipped Memecoins for mindshare.\n A very rare sighting this cycle.",
+          "link": "https://x.com/DeFi_educator/status/1804211110628692302",
+          "publishedOn": "2024-06-20T08:56:50.000Z",
+          "wordCount": 6,
+          "title": "RT Kaito AI: DeFi has flipped Memecoins for mindshare. A very rare sighting this cycle.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803554823851176265",
+          "author": "DeFi Educator",
+          "description": "RT Adam Cochran (adamscochran.eth)\nNot only did Certik’s security auditors move assets via sanctioned Tornado cash, they also dumped assets via ChangeNOW.\nWhich is a common set of patterns when Lazarus hacks protocols.\nAnd Lazarus has hacked more CertiK audited protocols than any others…\nSo while I doubt the…\n\nlaurence: Certik defending the clowns that exploited Kraken while watching them move funds into Tornado — as an *American company* — is one of the fucking craziest things I’ve seen in a while",
+          "link": "https://x.com/DeFi_educator/status/1803554823851176265",
+          "publishedOn": "2024-06-19T21:36:41.000Z",
+          "wordCount": 6,
+          "title": "RT Adam Cochran (adamscochran.eth): Not only did Certik’s security auditors move assets via sanctioned Tornado cash, they also dumped assets via Chan...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803563973955998083",
+          "author": "DeFi Educator",
+          "description": "RT croissant\nmiss this week? np.\n-crv founder liquidated for $140M\n-terra labs settles for $5B\n-djt runs to $300M\n-gcr drops $100M bet\n-arkham drops $150K bounty\n-zachxbt summoned\n-martin shkreli rugs half of CT\n-free money glitch on kraken\n-certik turns black hat\noverall pretty uneventful.",
+          "link": "https://x.com/DeFi_educator/status/1803563973955998083",
+          "publishedOn": "2024-06-19T19:07:33.000Z",
+          "wordCount": 6,
+          "title": "RT croissant: miss this week? np. -crv founder liquidated for $140M -terra labs settles for $5B -djt runs to $300M -gcr drops $100M bet -arkham drops ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803413519062241315",
+          "author": "DeFi Educator",
+          "description": "The German Government BKA (~German FBI) wallet sold ~6,5k $BTC in the last 6 hrs. \nIt still holds 43k BTC, worth around $2.8 billion. \nThe funds come from seizure of the Movie2k website operator\nhttps://x.com/ArkhamIntel/status/1752761784639881396\n\n\nArkham: The German Government is now on Arkham.\nThe German Federal Criminal Police Office (BKA) seized almost 50,000 BTC ($2.12B) from the operators of http://Movie2k.to, a film piracy website that was active in 2013.\nThe BKA received the Bitcoin in mid-January after a ‘voluntary…",
+          "link": "https://x.com/DeFi_educator/status/1803413519062241315",
+          "publishedOn": "2024-06-19T13:04:23.000Z",
+          "wordCount": 6,
+          "title": "The German Government BKA (~German FBI) wallet sold ~6,5k $BTC in the last 6 hrs. It still holds 43k BTC, worth around $2.8 billion. The funds come fr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803395797926478093",
+          "author": "DeFi Educator",
+          "description": "RT ZachXBT\nFor those who are confused and need additional context. \nEarlier today Arkham announced a $150K bounty for the identity of the DJT creator\n11:49 pm UTC I reply to Arkham saying I submitted for the bounty\n11:57 pm UTC Martin Shkreli panic DM’s me \n12:27 am UTC Martin Shkreli…",
+          "link": "https://x.com/DeFi_educator/status/1803395797926478093",
+          "publishedOn": "2024-06-19T01:38:00.000Z",
+          "wordCount": 6,
+          "title": "RT ZachXBT: For those who are confused and need additional context. Earlier today Arkham announced a $150K bounty for the identity of the DJT creator ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803203001370161613",
+          "author": "DeFi Educator",
+          "description": "Re @burn_the_state welcome back ser",
+          "link": "https://x.com/DeFi_educator/status/1803203001370161613",
+          "publishedOn": "2024-06-18T23:07:52.000Z",
+          "wordCount": 6,
+          "title": "Re @burn_the_state welcome back ser",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803192965684150579",
+          "author": "DeFi Educator",
+          "description": "Re @CryptoMtnDrew your eth + btc dominance chart doesn't do altcoin price action any justice... according to this chart eth+btc dominance vs. alts was bottoming all of '22, when in reality it got nuked",
+          "link": "https://x.com/DeFi_educator/status/1803192965684150579",
+          "publishedOn": "2024-06-18T22:27:59.000Z",
+          "wordCount": 6,
+          "title": "Re @CryptoMtnDrew your eth + btc dominance chart doesn't do altcoin price action any justice... according to this chart eth+btc dominance vs. alts was...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803191871499542606",
+          "author": "DeFi Educator",
+          "description": "Re @CryptoMtnDrew",
+          "link": "https://x.com/DeFi_educator/status/1803191871499542606",
+          "publishedOn": "2024-06-18T22:23:38.000Z",
+          "wordCount": 6,
+          "title": "Re @CryptoMtnDrew",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803164172777333190",
+          "author": "DeFi Educator",
+          "description": "Re @d_gilz Unless you're GCR, as a rule of thumb want to multiply kelly kriterion by fraction of 0.3 because we're all apes and are terrible at probabilities\n Kelly% = Winrate (0-100%) * 0.3 = risk%",
+          "link": "https://x.com/DeFi_educator/status/1803164172777333190",
+          "publishedOn": "2024-06-18T20:33:34.000Z",
+          "wordCount": 6,
+          "title": "Re @d_gilz Unless you're GCR, as a rule of thumb want to multiply kelly kriterion by fraction of 0.3 because we're all apes and are terrible at probab...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1803174275198660806",
+          "author": "DeFi Educator",
+          "description": "RT Arkham\nFuck it, we ball.\n$150,000 to the first person to definitively prove the identity of the creator of $DJT. \nOnly on Arkham Intel. \nhttps://platform.arkhamintelligence.com/exchange/bounties/e47ab901-814e-402e-93ab-c1d89b31c76a\n\n\nMartin Shkreli (e/acc): any other whales wanna join lmk",
+          "link": "https://x.com/DeFi_educator/status/1803174275198660806",
+          "publishedOn": "2024-06-18T20:24:06.000Z",
+          "wordCount": 6,
+          "title": "RT Arkham: Fuck it, we ball. $150,000 to the first person to definitively prove the identity of the creator of $DJT. Only on Arkham Intel. https://pla...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1801591532773904625",
+          "author": "DeFi Educator",
+          "description": "RT pastry\nHacking time to recover $3m worth of lost Bitcoin.\nSounds crazy, right?\nThis is how two white hackers cracked an 11 year old password behind this massive fortune.. 🧁",
+          "link": "https://x.com/DeFi_educator/status/1801591532773904625",
+          "publishedOn": "2024-06-14T00:20:22.000Z",
+          "wordCount": 6,
+          "title": "RT pastry: Hacking time to recover $3m worth of lost Bitcoin. Sounds crazy, right? This is how two white hackers cracked an 11 year old password behin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1801252799826555013",
+          "author": "DeFi Educator",
+          "description": "RT Arkham\nUPDATE: Michael Egorov was liquidated for $140 Million in CRV.\nThe price of CRV fell through Egorov’s liquidation threshold this morning, with his entire 9-figure lending position liquidated across 5 protocols.\nTwo of his accounts incurred together over a million dollars of bad…\n\n\n\n\n\nArkham: $140M CRV nearing Liquidation\nCurve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CRV, across 5 accounts on 5 protocols.\nBased on current rates, Egorov is paying $60M annualized in order to keep his positions open on…",
+          "link": "https://x.com/DeFi_educator/status/1801252799826555013",
+          "publishedOn": "2024-06-13T11:07:40.000Z",
+          "wordCount": 6,
+          "title": "RT Arkham: UPDATE: Michael Egorov was liquidated for $140 Million in CRV. The price of CRV fell through Egorov’s liquidation threshold this morning, ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1800972416476463490",
+          "author": "DeFi Educator",
+          "description": "RT Arkham\n$140M CRV nearing Liquidation\nCurve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CRV, across 5 accounts on 5 protocols.\nBased on current rates, Egorov is paying $60M annualized in order to keep his positions open on…",
+          "link": "https://x.com/DeFi_educator/status/1800972416476463490",
+          "publishedOn": "2024-06-12T17:27:52.000Z",
+          "wordCount": 6,
+          "title": "RT Arkham: $140M CRV nearing Liquidation Curve founder Michael Egorov is currently borrowing $95.7M in stablecoins (mostly crvUSD) against $141M in CR...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1800868924390785048",
+          "author": "DeFi Educator",
+          "description": "RT Tim Copeland\nhonestly this is one of my favourite tweets of all time",
+          "link": "https://x.com/DeFi_educator/status/1800868924390785048",
+          "publishedOn": "2024-06-11T14:27:43.000Z",
+          "wordCount": 6,
+          "title": "RT Tim Copeland: honestly this is one of my favourite tweets of all time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1796185331248607442",
+          "author": "DeFi Educator",
+          "description": "Re @NFTSWIMM3R Couldn’t agree more. It’s an edge to know when you have an edge and when you don’t.",
+          "link": "https://x.com/DeFi_educator/status/1796185331248607442",
+          "publishedOn": "2024-05-30T14:22:09.000Z",
+          "wordCount": 6,
+          "title": "Re @NFTSWIMM3R Couldn’t agree more. It’s an edge to know when you have an edge and when you don’t.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1796019712477847886",
+          "author": "DeFi Educator",
+          "description": "RT ZachXBT\nRe @blknoiz06 These d-tier celebs you keep supporting mostly have already launched or promoted multiple scams in the past.\nEX: Davido promoted RapDoge, Echoke, and Racksterli (massive Nigerian investment ponzi)\nNow bc they come back and make one post you think this time will be different…",
+          "link": "https://x.com/DeFi_educator/status/1796019712477847886",
+          "publishedOn": "2024-05-30T03:08:36.000Z",
+          "wordCount": 6,
+          "title": "RT ZachXBT: Re @blknoiz06 These d-tier celebs you keep supporting mostly have already launched or promoted multiple scams in the past. EX: Davido prom...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1795498384046067752",
+          "author": "DeFi Educator",
+          "description": "Re @IamCryptoWolf $14,206.90",
+          "link": "https://x.com/DeFi_educator/status/1795498384046067752",
+          "publishedOn": "2024-05-28T16:52:28.000Z",
+          "wordCount": 6,
+          "title": "Re @IamCryptoWolf $14,206.90",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
