@@ -1,179 +1,600 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T19:12:48.681Z</id>
+    <id>urn:2024-07-02T20:16:24.039Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-02T19:12:48.681Z</updated>
+    <updated>2024-07-02T20:16:24.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Bitcoincom，巴拉圭国家电力管理局（ANDE）7 名工程师涉嫌建立非法比特币矿场，目前当地检察院正在 ANDE 的配合下开展此次调查。此前，巴拉圭政府...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807592733261103186</id>
-        <link href="https://x.com/wublockchain12/status/1807592733261103186"/>
-        <updated>2024-07-01T01:51:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Bitcoincom，巴拉圭国家电力管理局（ANDE）7 名工程师涉嫌建立非法比特币矿场，目前当地检察院正在 ANDE 的配合下开展此次调查。此前，巴拉圭政府敦促立法者通过一项法案，对非法比特币矿工处以长达 10…]]></summary>
+        <title type="html"><![CDATA[吴说获悉，Polkadot 论坛发布 2024 年上半年财务报告，上半年财库花费 8700 万美元（1100 万枚 DOT），其中 13% 通过执行机构（赏金和集体）支出。财库管理资产...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807941664461422615</id>
+        <link href="https://x.com/wublockchain12/status/1807941664461422615"/>
+        <updated>2024-07-02T00:57:37.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Polkadot 论坛发布 2024 年上半年财务报告，上半年财库花费 8700 万美元（1100 万枚 DOT），其中 13% 通过执行机构（赏金和集体）支出。财库管理资产总额为 2.45 亿美元（3800 万枚 DOT），其中 1.88 亿美元（2900 万枚 DOT）为流动资产。800 万美元为 USDT 和 USDC 稳定币，另有 250 万…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊联合创始人 Vitalik Buterin 发文《深入 slot-and-epoch 构架，为以太坊用户提供更快交易确认时间的方法》。Buterin 在文中介绍了以太坊为加快...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807578765880701265</id>
-        <link href="https://x.com/wublockchain12/status/1807578765880701265"/>
-        <updated>2024-07-01T00:55:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊联合创始人 Vitalik Buterin 发文《深入 slot-and-epoch 构架，为以太坊用户提供更快交易确认时间的方法》。Buterin 在文中介绍了以太坊为加快交易确认速度所探索的实用选项，其中重点阐述了现有技术中的单时隙确定性（single-slot finality）。当前，以太坊的 Gasper 共识机制采用…]]></summary>
+        <title type="html"><![CDATA[吴说获悉，The ETF Store 总裁 Nate Geraci 发推称，美 SEC 已确认收到 Hashdex Nasdaq Crypto Index US ETF 的 19b-4 申请。该基金将同时持有现货比特币和以太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807936251351519673</id>
+        <link href="https://x.com/wublockchain12/status/1807936251351519673"/>
+        <updated>2024-07-02T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，The ETF Store 总裁 Nate Geraci 发推称，美 SEC 已确认收到 Hashdex Nasdaq Crypto Index US ETF 的 19b-4 申请。该基金将同时持有现货比特币和以太坊。上个月，Hashdex 提交了一份以太坊和比特币双重 ETF 申请，该 ETF 将按市值加权。SEC 批准的最终截止日期应该在 2025 年 3…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说独家获悉，日本最大的公司之一 Sony Group 已收购 Amber Japan，金额为数十亿日元。新加坡做市商 Amber Group 曾于 2022 年初收购日本受监管的加密货币交易...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807568489257038106</id>
-        <link href="https://x.com/wublockchain12/status/1807568489257038106"/>
-        <updated>2024-07-01T00:14:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说独家获悉，日本最大的公司之一 Sony Group 已收购 Amber Japan，金额为数十亿日元。新加坡做市商 Amber Group 曾于 2022 年初收购日本受监管的加密货币交易平台 DeCurret 并更名为 Amber Japan。后续由于 FTX 暴雷，Amber Group 陷入困境并疑似与分布式完全债转股交易。Amber Group…]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据@EmberCN，某鲸鱼 / 机构凌晨 1:40 将 1,800 BTC (价值约 1.14 亿美元) 转进币安后，BTC 价格随后便开始下跌，由 $63.8K 回调至现在的 $62.9K。该鲸...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807936024368312521</id>
+        <link href="https://x.com/wublockchain12/status/1807936024368312521"/>
+        <updated>2024-07-02T00:35:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据@EmberCN，某鲸鱼 / 机构凌晨 1:40 将 1,800 BTC (价值约 1.14 亿美元) 转进币安后，BTC 价格随后便开始下跌，由 $63.8K 回调至现在的 $62.9K。该鲸鱼 / 机构此前在 6/20-21 期间从币安和 OKX 提出 6,725 BTC (价值约 4.37 亿美元)。不过可能是对行情的不看好，他从 6/27 开始将 BTC…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说本周宏观指标与分析：上周美国5月核心PCE年率录得 2.6% 符合预期。本周重点关注美国非农数据、鲍威尔讲话以及美联储欧洲央行会议纪要等。https://www.wubloc...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807564691537117228</id>
-        <link href="https://x.com/wublockchain12/status/1807564691537117228"/>
-        <updated>2024-06-30T23:59:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说本周宏观指标与分析：上周美国5月核心PCE年率录得 2.6% 符合预期。本周重点关注美国非农数据、鲍威尔讲话以及美联储欧洲央行会议纪要等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=28833]]></summary>
+        <title type="html"><![CDATA[吴说获悉，Binance US 发推表示，法院裁定美国证券交易委员会（SEC）对其的诉讼将继续进行。公司对此已有所准备，并期待案件能在司法程序中顺利推进。Binance US...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807932215499911381</id>
+        <link href="https://x.com/wublockchain12/status/1807932215499911381"/>
+        <updated>2024-07-02T00:20:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Binance US 发推表示，法院裁定美国证券交易委员会（SEC）对其的诉讼将继续进行。公司对此已有所准备，并期待案件能在司法程序中顺利推进。Binance US 强调，其一直按照美国规则和法规为当地客户服务，并保持 1:1 的客户资产储备，拥有健全的合规和风险程序。公司表示，其一直遵循 SEC…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807409097777803323</id>
-        <link href="https://x.com/wublockchain12/status/1807409097777803323"/>
-        <updated>2024-06-30T13:41:23.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据彭博社，加密矿企 Northern Data 正在与潜在顾问商谈其人工智能云计算和数据中心业务的联合项目，在美国进行首次公开​​募股 (IPO) 的事宜，此次募...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807930731118973320</id>
+        <link href="https://x.com/wublockchain12/status/1807930731118973320"/>
+        <updated>2024-07-02T00:14:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据彭博社，加密矿企 Northern Data 正在与潜在顾问商谈其人工智能云计算和数据中心业务的联合项目，在美国进行首次公开募股 (IPO) 的事宜，此次募股的估值可能高达 160 亿美元。根据目前的计划，Northern Data 最早将于明年上半年在纳斯达克上市一家由其云计算业务（名为…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 DeBank 数据，被 Arkham 标记为疑似 Abraxas Capital Mgmt(Heka Funds): 0xed…4312 在本日 16:50 UTC+8 从 Bitfinex 中提取了 3 万枚 ETH（价值约...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807374644930109510</id>
-        <link href="https://x.com/wublockchain12/status/1807374644930109510"/>
-        <updated>2024-06-30T11:24:29.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 DeBank 数据，被 Arkham 标记为疑似 Abraxas Capital Mgmt(Heka Funds): 0xed…4312 在本日 16:50 UTC+8 从 Bitfinex 中提取了 3 万枚 ETH（价值约 1.02 亿美元），随后分三笔将 3 万枚 ETH 全部存入 Spark，并贷出稳定币。目前该疑似 Abraxas Capital Mgmt: 0xed…4312 在 Spark 上有…]]></summary>
+        <title type="html"><![CDATA[Re 大规模提款反映出用户对重质押空投的兴趣减退。此外，Renzo 的积分计划即将在 7 月底结束，将进一步使用户重新评估是否锁定代币。https://www.wublock123.com...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807928292428992844</id>
+        <link href="https://x.com/wublockchain12/status/1807928292428992844"/>
+        <updated>2024-07-02T00:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 大规模提款反映出用户对重质押空投的兴趣减退。此外，Renzo 的积分计划即将在 7 月底结束，将进一步使用户重新评估是否锁定代币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=8&id=28866]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，慢雾余弦发推表示，看了下 FixedFloat 两次被盗的复盘，说是问题根源来自 Time4VPS 这个主机服务商，便宜但是不靠谱，尤其是：攻击者获得了主机的所有...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807373490535932121</id>
-        <link href="https://x.com/wublockchain12/status/1807373490535932121"/>
-        <updated>2024-06-30T11:19:54.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，慢雾余弦发推表示，看了下 FixedFloat 两次被盗的复盘，说是问题根源来自 Time4VPS 这个主机服务商，便宜但是不靠谱，尤其是：攻击者获得了主机的所有功能权限，包括对所有可用服务器的全局访问权限，这使得之前采取的措施完全无效。加密货币行业还是别选择这种小服务商。FixedFloat…]]></summary>
+        <title type="html"><![CDATA[据 DLNews，Pendle 的总锁仓价值（TVL）在过去一周内下降了 40%。从周三以来，用户已提取近 30 亿美元，主要是流动重质押代币。Kairos Research 创始人 Ian Unsw...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807928260816523763</id>
+        <link href="https://x.com/wublockchain12/status/1807928260816523763"/>
+        <updated>2024-07-02T00:04:21.000Z</updated>
+        <summary type="html"><![CDATA[据 DLNews，Pendle 的总锁仓价值（TVL）在过去一周内下降了 40%。从周三以来，用户已提取近 30 亿美元，主要是流动重质押代币。Kairos Research 创始人 Ian Unsworth 表示，这部分是由于一些产品到期造成的，恰好这些都集中在前五大流动重质押代币同时到期。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Arkham 发推表示，Arkham 团队年初曾研究了以太坊联合创始人 Vitalik Buterin 的钱包地址及链上财富来源。当时，Vitalik 持有的 ETH 总价值约为 5 亿...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807341945167221139</id>
-        <link href="https://x.com/wublockchain12/status/1807341945167221139"/>
-        <updated>2024-06-30T09:14:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Arkham 发推表示，Arkham 团队年初曾研究了以太坊联合创始人 Vitalik Buterin 的钱包地址及链上财富来源。当时，Vitalik 持有的 ETH 总价值约为 5 亿美元。目前，随着 ETH 价格上涨，其持仓的 ETH 总价值已超过 8 亿美元。Vitalik 持有的大部分已知加密货币来自他在以太坊推出期间收到的 ETH…]]></summary>
+        <title type="html"><![CDATA[Paxos 获得新加坡中央银行的批准，将允许该公司发行符合新加坡稳定币框架的稳定币。Paxos 的新加坡实体 Paxos Digital Singapore http://Pte.LTD. 将被允许作为...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807924827203985782</id>
+        <link href="https://x.com/wublockchain12/status/1807924827203985782"/>
+        <updated>2024-07-01T23:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Paxos 获得新加坡中央银行的批准，将允许该公司发行符合新加坡稳定币框架的稳定币。Paxos 的新加坡实体 Paxos Digital Singapore http://Pte.LTD. 将被允许作为主要支付机构提供 “数字支付代币服务”。此外，Paxos 正在与星展银行合作，以满足现金管理需求并托管稳定币储备。（TheBlock）…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，FLOKI 发推称，FLOKI 代币仅在 BNB 智能链上和以太坊上可用，当前欺诈性代币已出现在 Solana 和 Base 区块链上，误导投资者。https://www.wublock123....]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807335242954654177</id>
-        <link href="https://x.com/wublockchain12/status/1807335242954654177"/>
-        <updated>2024-06-30T08:47:55.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，FLOKI 发推称，FLOKI 代币仅在 BNB 智能链上和以太坊上可用，当前欺诈性代币已出现在 Solana 和 Base 区块链上，误导投资者。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=46&id=28828]]></summary>
+        <title type="html"><![CDATA[美国证券交易委员会（SEC）起诉 Silvergate Capital Corporation，指控其对反洗钱（AML）程序向公众做出虚假陈述。SEC 表示，Silvergate 未能检测到 FTX 及其相...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807919328152768681</id>
+        <link href="https://x.com/wublockchain12/status/1807919328152768681"/>
+        <updated>2024-07-01T23:28:52.000Z</updated>
+        <summary type="html"><![CDATA[美国证券交易委员会（SEC）起诉 Silvergate Capital Corporation，指控其对反洗钱（AML）程序向公众做出虚假陈述。SEC 表示，Silvergate 未能检测到 FTX 及其相关实体近 90 亿美元的可疑转账，并且银行保密法和 AML 合规计划不充分，未能充分或自动监控在 SEN 上发生的约 1…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据彭博社，Kaiko 数据显示，今年周末交易的比特币比例已降至 16% 的历史最低水平。此次占比下降是在现货比特币 ETF 推出之后发生的，现货 ETF 的通过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807328969815134306</id>
-        <link href="https://x.com/wublockchain12/status/1807328969815134306"/>
-        <updated>2024-06-30T08:22:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据彭博社，Kaiko 数据显示，今年周末交易的比特币比例已降至 16% 的历史最低水平。此次占比下降是在现货比特币 ETF 推出之后发生的，现货 ETF 的通过似乎改变了比特币交易的时间表，使其更符合传统股票交易平台的时间表，并降低了比特币价格波动。比特币周末交易量占比已从 2019 年 28%…]]></summary>
+        <title type="html"><![CDATA[据 financefeeds，索尼已将收购的 Amber Japan（WhaleFin）更名为 S.BLOX Co.，计划与索尼集团的其他业务合作，以增强其加密货币交易服务。改版包括重新设计的用...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807914453406831090</id>
+        <link href="https://x.com/wublockchain12/status/1807914453406831090"/>
+        <updated>2024-07-01T23:09:29.000Z</updated>
+        <summary type="html"><![CDATA[据 financefeeds，索尼已将收购的 Amber Japan（WhaleFin）更名为 S.BLOX Co.，计划与索尼集团的其他业务合作，以增强其加密货币交易服务。改版包括重新设计的用户界面和新的移动应用程序，以提供更加用户友好的体验。不过，S.BLOX…
+
+吴说区块链: 吴说独家获悉，日本最大的公司之一 Sony Group 已收购 Amber Japan，金额为数十亿日元。新加坡做市商 Amber Group 曾于 2022 年初收购日本受监管的加密货币交易平台 DeCurret 并更名为 Amber Japan。后续由于 FTX 暴雷，Amber Group 陷入困境并疑似与分布式完全债转股交易。Amber Group…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[继 Pantera Capital 披露投资 TON 代币后，Kingsway Capital 创始人兼首席执行官 Manuel Stotz 也透露，该机构迄今为止最大持有量的代币也是 TON，而且该风投早...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807326953084784765</id>
-        <link href="https://x.com/wublockchain12/status/1807326953084784765"/>
-        <updated>2024-06-30T08:14:58.000Z</updated>
-        <summary type="html"><![CDATA[继 Pantera Capital 披露投资 TON 代币后，Kingsway Capital 创始人兼首席执行官 Manuel Stotz 也透露，该机构迄今为止最大持有量的代币也是 TON，而且该风投早在两年前（早于 Pantera Capital）就开始购买 TON 代币。Ryze Labs（前身为 Sino Global Capital）也大量投资了 TON…]]></summary>
+        <title type="html"><![CDATA[Re @wojakcoineth more $WOJAK . to $1B soon.]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807912318233370840</id>
+        <link href="https://x.com/AntCaveClub/status/1807912318233370840"/>
+        <updated>2024-07-01T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @wojakcoineth more $WOJAK . 
+to $1B soon.]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小罗，最后选了 @base 大金狗 $BRETT 市值太高 ， 赔率一般了。 可以留意下，后续是否有衍生品]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807908134671077531</id>
+        <link href="https://x.com/AntCaveClub/status/1807908134671077531"/>
+        <updated>2024-07-01T22:44:23.000Z</updated>
+        <summary type="html"><![CDATA[小罗，最后选了 @base 大金狗 $BRETT 
+市值太高 ， 赔率一般了。 
+可以留意下，后续是否有衍生品
+
+
+Ronaldinho: I am seeing BRETT supporting a bunch of ideas and creators everywhere, I wonder what we could do in Brazil.. @BasedBrett]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 2倍， 完成🚀🚀]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807906389723070572</id>
+        <link href="https://x.com/AntCaveClub/status/1807906389723070572"/>
+        <updated>2024-07-01T22:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 2倍， 完成🚀🚀]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @seven_rightmeow Yessir https://en.m.wikipedia.org/wiki/Olena_Zelenska]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807891861123534892</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807891861123534892"/>
+        <updated>2024-07-01T21:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @seven_rightmeow Yessir https://en.m.wikipedia.org/wiki/Olena_Zelenska]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War is a racket. Never forget lads.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807887044816871605</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807887044816871605"/>
+        <updated>2024-07-01T21:20:35.000Z</updated>
+        <summary type="html"><![CDATA[War is a racket. 
+Never forget lads.
+
+Redneck Bitcoin: I’d like to thank Congress for using my Tax money to buy Zelensky’s wife a Bugatti.    
+Zelensky's wife purchased the newest Bugatti Turbillon for 4.5 million euros.
+During the official visit of the Ukrainian delegation to Paris in early June, especially for the Zelensky…]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hash_cough https://www.investigatesc.com/professions-with-high-infidelity-rates-top-10-list/#:~:text=1.,trust%20issues%20within%20healthcare%20set...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807881366106701992</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807881366106701992"/>
+        <updated>2024-07-01T20:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @hash_cough https://www.investigatesc.com/professions-with-high-infidelity-rates-top-10-list/#:~:text=1.,trust%20issues%20within%20healthcare%20settings.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hash_cough They can be promiscuous]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807860614246683021</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807860614246683021"/>
+        <updated>2024-07-01T19:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @hash_cough They can be promiscuous]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 7.1.24: - @NAVFinance_ hits over $7mm in AUM - $MOG keeps mogging - $BANANA monthly eth volumes hit ATH -Other high ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1807848931021181185</id>
+        <link href="https://x.com/OnChainWizard/status/1807848931021181185"/>
+        <updated>2024-07-01T18:48:56.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 7.1.24:
+- @NAVFinance_ hits over $7mm in AUM 
+- $MOG keeps mogging
+- $BANANA monthly eth volumes hit ATH
+-Other high mindshare tokens $WOLF, $BILLY, $BOBO, $SCRAT, $JASON
+- Upcoming launches and some interesting smart money movements 👀]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Quinn Thompson: Alright gang. I haven't been this bulled up since last October when I posted this originally and it's the 1st day of Q3 so let's gi...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807849778304147567</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807849778304147567"/>
+        <updated>2024-07-01T18:47:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Quinn Thompson
+Alright gang. I haven't been this bulled up since last October when I posted this originally and it's the 1st day of Q3 so let's give it another go...
+November 1st, 2024
+
+
+Quinn Thompson: December 31, 2023]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Evan_ss6 Lmao]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807847472892416112</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807847472892416112"/>
+        <updated>2024-07-01T18:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @Evan_ss6 Lmao]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Baize_Research @Uniswap 加油⛽️ 撸一撸 更健康]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807815247815930214</id>
+        <link href="https://x.com/AntCaveClub/status/1807815247815930214"/>
+        <updated>2024-07-01T16:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @Baize_Research @Uniswap 加油⛽️  撸一撸  更健康]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投领取 $LSK 空投也发了... 也是忘了。 领取时间： 持续 175 天 https://portal.lisk.com/airdrop 这类项目基本算是捡钱， 麻烦点，按照它的操作， 最后都能...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807814983750967665</id>
+        <link href="https://x.com/AntCaveClub/status/1807814983750967665"/>
+        <updated>2024-07-01T16:34:14.000Z</updated>
+        <summary type="html"><![CDATA[#空投领取 
+$LSK 空投也发了... 也是忘了。 
+领取时间： 持续 175 天
+https://portal.lisk.com/airdrop
+这类项目基本算是捡钱， 麻烦点，按照它的操作， 最后都能领钱💰
+推特上也是没什么人聊， 很多人其实存在于“信息茧房” 中 ， 大家都在“写教程”的项目， 你才应该警惕。
+因为不会： 大家都赚钱。
+
+
+Lisk 🌍: Dear OGs, the #HodlerDrop has landed! 🪂
+You know what it means, right? You can now claim your well-deserved $LSK rewards straight from the Lisk Portal! 🗝️
+👛 Connect your wallet
+✅ Complete the steps 
+🥂 ENJOY!
+It's happening right here👇
+https://portal.lisk.com/]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waimaixiaoming @Uniswap 谢谢 😆]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807809820097138790</id>
+        <link href="https://x.com/AntCaveClub/status/1807809820097138790"/>
+        <updated>2024-07-01T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @waimaixiaoming @Uniswap 谢谢 😆]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NotChaseColeman Damn was wondering who took over the @MustStopMurad account. It all makes sense now 😆]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807809079315722264</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807809079315722264"/>
+        <updated>2024-07-01T16:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @NotChaseColeman Damn was wondering who took over the @MustStopMurad account. It all makes sense now
+😆]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建议： 收藏我发布的 #空投硬撸 系列。 粗略统计过，我大概从 @uniswap 时期开始，陆续拿到过 80+ 多个项目的空投奖励🪂。 有人“盘感”较好，我 “撸感” ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807808612762567158</id>
+        <link href="https://x.com/AntCaveClub/status/1807808612762567158"/>
+        <updated>2024-07-01T16:08:55.000Z</updated>
+        <summary type="html"><![CDATA[我建议： 收藏我发布的 #空投硬撸 系列。
+粗略统计过，我大概从 @uniswap 时期开始，陆续拿到过 80+ 多个项目的空投奖励🪂。
+有人“盘感”较好，我 “撸感” 较好...  能区分人渣项目方
+因太懒，至今顿顿都是猪脚饭。 
+连教程都不想好好写了。
+但你可以更努力，挣大钱了求求打赏一点。🥣 🧎🥣🧎]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投硬撸 @teaprotocol 测试网，基本上剩下最近一个周期的活动就结束了。 0 撸， 明确空投 $TEA 🔗 https://app.tea.xyz/sign-up?r=ZZM9pq65S_H 参与人数 140...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807805017845608815</id>
+        <link href="https://x.com/AntCaveClub/status/1807805017845608815"/>
+        <updated>2024-07-01T15:54:38.000Z</updated>
+        <summary type="html"><![CDATA[#空投硬撸 
+@teaprotocol  测试网，基本上剩下最近一个周期的活动就结束了。 
+0 撸， 明确空投 $TEA 
+🔗 https://app.tea.xyz/sign-up?r=ZZM9pq65S_H 
+参与人数 140万 ， 正常流程走个七七八八可以排名在： 1万 - 5 万 的位置。 
+基本上要用 GitHub 账号绑定操作， 140 万排在 70 万之前应该都能有保底空投 🪂…
+
+
+
+tea Protocol: 🌱 Grow your open-source projects with The tea Protocol! Earn rewards and collaborate with a network of motivated researchers.
+https://app.tea.xyz/]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @iamjosephyoung Lmao eth would be $20k at least]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807803058208018819</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807803058208018819"/>
+        <updated>2024-07-01T15:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @iamjosephyoung Lmao eth would be $20k at least]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 币安表示，USDC 现已符合 MiCA 标准，使得 USDC 成为 EEA （欧洲经济区）中第一个受监管的主要稳定币，这意味着 USDC 将继续在币安的大部分产品中提供。]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807802457881473280</id>
+        <link href="https://x.com/wublockchain12/status/1807802457881473280"/>
+        <updated>2024-07-01T15:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Re 币安表示，USDC 现已符合 MiCA 标准，使得 USDC 成为 EEA （欧洲经济区）中第一个受监管的主要稳定币，这意味着 USDC 将继续在币安的大部分产品中提供。]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据 Cointelegraph，Coin ATM Radar 的数据显示，截止目前，2024 年加密货币 ATM 机安装量为 2564 台，有望覆盖 2023 年拆除的 2861 台。在过去的 12 个月里，全...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807311607057592619</id>
-        <link href="https://x.com/wublockchain12/status/1807311607057592619"/>
-        <updated>2024-06-30T07:14:00.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph，Coin ATM Radar 的数据显示，截止目前，2024 年加密货币 ATM 机安装量为 2564 台，有望覆盖 2023 年拆除的 2861 台。在过去的 12 个月里，全球加密货币 ATM 总量飙升了 17.8%，达到 38279 台，接近 2022 年 12 月创下的 39541 台的纪录。全球超过 82% 的加密货币 ATM…]]></summary>
+        <title type="html"><![CDATA[Re @NotChaseColeman What’s the thinking with having multiple accounts?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807801129406751046</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807801129406751046"/>
+        <updated>2024-07-01T15:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @NotChaseColeman What’s the thinking with having multiple accounts?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国法警局 (USMS)已选择 Coinbase Prime 作为其合作伙伴，为其“1 类”数字资产提供托管和高级交易服务，以保护和交易其大型数字资产组合。USMS 是美...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807800979456438770</id>
+        <link href="https://x.com/wublockchain12/status/1807800979456438770"/>
+        <updated>2024-07-01T15:38:35.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国法警局 (USMS)已选择 Coinbase Prime 作为其合作伙伴，为其“1 类”数字资产提供托管和高级交易服务，以保护和交易其大型数字资产组合。USMS 是美国司法部下属负责资产没收的机构。美国司法部（DOJ）向 Coinbase 支付 3250…]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说项目周精选：BLAST 空投上线；ZKsync 引入“elastic chain”新架构；Aevo 更新代币经济学；Wormhole 将 World ID 集成到 Solana 区块链；Puffer Finance 宣...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807294908686024818</id>
-        <link href="https://x.com/wublockchain12/status/1807294908686024818"/>
-        <updated>2024-06-30T06:07:38.000Z</updated>
-        <summary type="html"><![CDATA[吴说项目周精选：BLAST 空投上线；ZKsync 引入“elastic chain”新架构；Aevo 更新代币经济学；Wormhole 将 World ID 集成到 Solana 区块链；Puffer Finance 宣布与以太坊基金会合作。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=28823]]></summary>
+        <title type="html"><![CDATA[web3 安全公司 Mamori 宣布获得 500 万美元种子轮融资，Blockchain Capital 领投。Mamori 旨在开发一种能够发现区块链软件问题的算法来增强 web3 安全性。这是一...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807797862471979169</id>
+        <link href="https://x.com/wublockchain12/status/1807797862471979169"/>
+        <updated>2024-07-01T15:26:12.000Z</updated>
+        <summary type="html"><![CDATA[web3 安全公司 Mamori 宣布获得 500 万美元种子轮融资，Blockchain Capital 领投。Mamori 旨在开发一种能够发现区块链软件问题的算法来增强 web3 安全性。这是一种基于机器学习的价值提取系统，可应用于零日漏洞或尚未修补的已知问题等。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=42&id=28862]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Coinbase Director Conor 分享的数据，Ethereum 正在经历自 2016 年以来最低的平均网络费用，在 Ethereum 网络每小时平均费用最低的 10 个时段中，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807287555962073103</id>
-        <link href="https://x.com/wublockchain12/status/1807287555962073103"/>
-        <updated>2024-06-30T05:38:25.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Coinbase Director Conor 分享的数据，Ethereum 正在经历自 2016 年以来最低的平均网络费用，在 Ethereum 网络每小时平均费用最低的 10 个时段中，在本周便占据了 9 个，均低于 3.3 gwei。在 6 月 30 日 4:00 UTC，Ethereum 网络单小时平均费用仅为 2.94…]]></summary>
+        <title type="html"><![CDATA[吴说获悉，Aptos 基金会已提出将 Aave V3 部署至 Aptos 主网的提案，作为 Aave 开放治理流程的一部分。Aave Labs 已构建集成代码并将其部署到 Aptos 测试网上。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807796260143001990</id>
+        <link href="https://x.com/wublockchain12/status/1807796260143001990"/>
+        <updated>2024-07-01T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Aptos 基金会已提出将 Aave V3 部署至 Aptos 主网的提案，作为 Aave 开放治理流程的一部分。Aave Labs 已构建集成代码并将其部署到 Aptos 测试网上。如果获得批准，这将是 Aave 首次部署到非 EVM 区块链。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=48&id=28861]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据澎湃新闻，近期审计署受国务院委托，向全国人大常委会报告了2023年度中央预算执行和其他财政收支的审计情况。《报告》称，金融监管部门某司级干部利...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807286560213348534</id>
-        <link href="https://x.com/wublockchain12/status/1807286560213348534"/>
-        <updated>2024-06-30T05:34:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据澎湃新闻，近期审计署受国务院委托，向全国人大常委会报告了2023年度中央预算执行和其他财政收支的审计情况。《报告》称，金融监管部门某司级干部利用职务影响力，长期扶持特定民企提升行业竞争力，收取巨额钱款及股权，并通过同一网点先取后存、借用亲属银行账户、虚拟货币交易等“技术处…]]></summary>
+        <title type="html"><![CDATA[Circle 宣布已获得电子货币机构 (EMI) 许可证，其美元稳定币 USDC 和欧元稳定币 EURC 已符合欧盟新出台的稳定币法规 MiCA，并于 7 月 1 日起正式向欧洲客户发行...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807795286120771627</id>
+        <link href="https://x.com/wublockchain12/status/1807795286120771627"/>
+        <updated>2024-07-01T15:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Circle 宣布已获得电子货币机构 (EMI) 许可证，其美元稳定币 USDC 和欧元稳定币 EURC 已符合欧盟新出台的稳定币法规 MiCA，并于 7 月 1 日起正式向欧洲客户发行。 Circle 宣称其是第一家遵守 MiCA 的全球稳定币发行商。此前一些交易所已下架欧元稳定币 EURT 等。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=43&id=28860]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据 Cointelegraph ，比特币矿工在过去连续六天从符文交易中获得的总收入不到 2 个比特币，比 4 月 24 日创纪录的 884 个比特币大幅下降。根据 Dune Analytics 数...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807267154074771923</id>
-        <link href="https://x.com/wublockchain12/status/1807267154074771923"/>
-        <updated>2024-06-30T04:17:21.000Z</updated>
-        <summary type="html"><![CDATA[据 Cointelegraph ，比特币矿工在过去连续六天从符文交易中获得的总收入不到 2 个比特币，比 4 月 24 日创纪录的 884 个比特币大幅下降。根据 Dune Analytics 数据，6 月 22 日至 28 日期间的每日 Runes 交易平均为 37，820 笔，比 6 月 9 日至 15 日期间的 331，040 笔日均交易量下降了近 90%。它包括…]]></summary>
+        <title type="html"><![CDATA[Re @qaz70866686 @IntentX_]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807793022140301788</id>
+        <link href="https://x.com/AntCaveClub/status/1807793022140301788"/>
+        <updated>2024-07-01T15:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @qaz70866686 @IntentX_]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投领取 😓 尴尬， @IntentX_ 都发币好周了， 忘记领空投了。 币都跌一半了 ... 不倦的项目，发空投 🪂 都没人鸟🐦的， 不看都忘了。 🔗 https://app....]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807789950047559803</id>
+        <link href="https://x.com/AntCaveClub/status/1807789950047559803"/>
+        <updated>2024-07-01T14:54:45.000Z</updated>
+        <summary type="html"><![CDATA[#空投领取   😓 尴尬， @IntentX_  都发币好周了， 忘记领空投了。 
+币都跌一半了 ...  
+不倦的项目，发空投 🪂 都没人鸟🐦的， 不看都忘了。 
+🔗 https://app.intentx.io?referral=0fr8xfca
+
+
+IntentX: IntentX Weekly Analytics📊
+We've seen another great week over at IntentX!
+With over $400m in Trade Volume and $31k in Fees, we're looking at a 76% Staking APR for $INTX 📈
+▶️Start Trading Now: https://app.intentx.io/trade/BTCUSDT]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空头硬撸 虽然 @reya_xyz 的OG XP 早已经完成， 由于他的排名活跃度机制。 虽然早期排名刷的很高， 但是 活跃度： Rank Down / Rank Up 直接决定了整体权重。 ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807782619788239152</id>
+        <link href="https://x.com/AntCaveClub/status/1807782619788239152"/>
+        <updated>2024-07-01T14:25:38.000Z</updated>
+        <summary type="html"><![CDATA[#空头硬撸  
+虽然 @reya_xyz  的OG XP 早已经完成， 由于他的排名活跃度机制。 
+虽然早期排名刷的很高， 但是 活跃度： Rank Down / Rank Up 直接决定了整体权重。
+所以，虽然排名高， 也要保持活跃的，否则效果会很差。
+建议：
+1⃣️继续交互几次 https://reya.network/lp-pool?referredBy=q81c5x65 
+2⃣️ 使用几次 Bridge…]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Labs 宣布与 Transak 合作提供法定货币接入服务。来自 160 多个国家的用户将能够利用 Apple Pay、Google Pay、信用卡/借记卡和其它本地化的支付方式，直...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1807781740708348376</id>
+        <link href="https://x.com/wublockchain12/status/1807781740708348376"/>
+        <updated>2024-07-01T14:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Labs 宣布与 Transak 合作提供法定货币接入服务。来自 160 多个国家的用户将能够利用 Apple Pay、Google Pay、信用卡/借记卡和其它本地化的支付方式，直接在 Uniswap 钱包中以法币购买加密货币。（TheBlock）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=43&id=28858]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，OKX 创始人 Star Xu 发推表示，OKX 几年前就制定了严格的内部纪律，任何人不得采用“黑友商”或者“在友商危机时落进下石” 等市场营销手段。我们关注...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1807249359530275279</id>
-        <link href="https://x.com/wublockchain12/status/1807249359530275279"/>
-        <updated>2024-06-30T03:06:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，OKX 创始人 Star Xu 发推表示，OKX 几年前就制定了严格的内部纪律，任何人不得采用“黑友商”或者“在友商危机时落进下石” 等市场营销手段。我们关注每一个产品细节、客户投诉和产业趋势，与自己和时间竞争，以追求客户满意为宗旨，客户第一是 OKX 的企业文化之首。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=7&id=28819]]></summary>
+        <title type="html"><![CDATA[Re @wojakcoineth 😅]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807776481608908815</id>
+        <link href="https://x.com/AntCaveClub/status/1807776481608908815"/>
+        <updated>2024-07-01T14:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @wojakcoineth 😅]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投硬撸 @Rabby_io 钱包第2季积分， 🪂 空投预计 7 月- 8 月 能够收菜 基础数据： Top 100 用户，积分在 3w-15w 分 作为使用量 Top 3 的钱包， 有很多优点完...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807767461712027670</id>
+        <link href="https://x.com/AntCaveClub/status/1807767461712027670"/>
+        <updated>2024-07-01T13:25:24.000Z</updated>
+        <summary type="html"><![CDATA[#空投硬撸 
+@Rabby_io  钱包第2季积分， 🪂 空投预计 7 月- 8 月 能够收菜
+基础数据： Top 100 用户，积分在 3w-15w 分 
+ 作为使用量 Top 3 的钱包， 有很多优点完全秒杀 @MetaMask  
+仍然坚持使用单一的小狐狸，而不使用 @Rabby_io  或者 @zerion  钱包的人。 
+真的属于“顽固派”了，…]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Chuck Hodl: 🚨 BREAKING NEWS 🚨 $GME #GAMESTOP IS NOW DOWN MORE THAN 7% ON NO NEWS OR GUIDANCE FROM THE COMPANY. NOR DOES ANYBODY KNOW IF @TheR...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807757360221561157</id>
+        <link href="https://x.com/AntCaveClub/status/1807757360221561157"/>
+        <updated>2024-07-01T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Chuck Hodl
+🚨 BREAKING NEWS 🚨 
+$GME #GAMESTOP IS NOW DOWN MORE THAN 7% ON NO NEWS OR GUIDANCE FROM THE COMPANY.
+NOR DOES ANYBODY KNOW IF @TheRoaringKitty ACTUALLY SOLD #GME 
+SO IT’S BECAUSE @TheRoaringKitty BOUGHT 9,001,000 OF $CHWY?
+THIS REMINDS ME SO MUCH OF THE “DEI” BULLSHIT.]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jevgenijs @PopularFintech Four is a roll up of legacy payments assets while toast is a dominant and organically grown vertical software company On...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807730910227251304</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807730910227251304"/>
+        <updated>2024-07-01T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @jevgenijs @PopularFintech Four is a roll up of legacy payments assets while toast is a dominant and organically grown vertical software company 
+One is much higher quality than the other plus four’s EBITDA is fake (very agressive accounting)
+Really can’t compare the two]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @owen1v9 Fuck ya]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1807687522434088992</id>
+        <link href="https://x.com/DeFiSurfer808/status/1807687522434088992"/>
+        <updated>2024-07-01T08:07:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @owen1v9 Fuck ya]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20% 📈 今天 $WOJAK 了吗？]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807681734013866456</id>
+        <link href="https://x.com/AntCaveClub/status/1807681734013866456"/>
+        <updated>2024-07-01T07:44:45.000Z</updated>
+        <summary type="html"><![CDATA[20% 📈 
+今天 $WOJAK 了吗？]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MEME #gambling $HONSHU @HonshuERC. The Kendu Killer Official recommendation X: https://x.com/HonshuERC Small market capitalization, submitted ads on ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807658241859735792</id>
+        <link href="https://x.com/AntCaveClub/status/1807658241859735792"/>
+        <updated>2024-07-01T06:11:24.000Z</updated>
+        <summary type="html"><![CDATA[#MEME #gambling
+$HONSHU
+@HonshuERC. The Kendu Killer
+Official recommendation X: https://x.com/HonshuERC
+Small market capitalization, submitted ads on @4chan, gained exposure, current market capitalization: $70.6K
+CA: 0x7abff417f2c34398216c1a8eb85ca1f30a27214d…]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Haiteng_okx @0xjuu_17 https://x.com/AntCaveClub/status/1807428576989597908?t=Vn69ZI0TQDJb5GIBfnJTjA&s=19]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807494293873131772</id>
+        <link href="https://x.com/AntCaveClub/status/1807494293873131772"/>
+        <updated>2024-06-30T19:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @Haiteng_okx @0xjuu_17 https://x.com/AntCaveClub/status/1807428576989597908?t=Vn69ZI0TQDJb5GIBfnJTjA&s=19
+
+链求君 💎: 这个哥们绝对是我见过最牛逼的。
+能在币圈能睁着眼睛说瞎话的... 
+钱包地址： 0x170A75Aa81a7326fE111427f930a54CD08af859c
+https://era.zksync.network/address/0x170a75aa81a7326fe111427f930a54cd08af859c
+ @okx 是你开的吧...  
+这个交易所归集钱包每分钟都有大额 $ZK 进账，  @zksync 也是你做的吧...   
+首次入金地址中有 5000多个ETH ，…]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @okx @zksync 社死... https://x.com/Haiteng_okx/status/1807486172698214581?t=T-5mOD2qP4CX7kuoAQR2og&s=19]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807493597492826408</id>
+        <link href="https://x.com/AntCaveClub/status/1807493597492826408"/>
+        <updated>2024-06-30T19:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @okx @zksync 社死... 
+https://x.com/Haiteng_okx/status/1807486172698214581?t=T-5mOD2qP4CX7kuoAQR2og&s=19
+
+海腾: 分析正确，该地址为 #OKX 地址，请@0xjuu_17 不要使用观察官方地址的截图进行宣传]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 海腾: 分析正确，该地址为 #OKX 地址，请@0xjuu_17 不要使用观察官方地址的截图进行宣传]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807494332204863855</id>
+        <link href="https://x.com/AntCaveClub/status/1807494332204863855"/>
+        <updated>2024-06-30T18:47:39.000Z</updated>
+        <summary type="html"><![CDATA[RT 海腾
+分析正确，该地址为 #OKX 地址，请@0xjuu_17 不要使用观察官方地址的截图进行宣传
+
+0xSun: @0xjuu_17 这都信的真有点单纯了，一直不知道枪粉到底是什么成分，本来也没必要拆穿人家，不过听朋友说想要获得空投补偿需要在他官网导入私钥，那就涉及安全问题了，还是发个贴。
+首先图里的地址是：
+0x170a75aa81a7326fe111427f930a54cd08af859c
+从图1可以看到ETH和ZK代币数量都对得上。… https://twitter.com/i/web/status/1807368646098038826]]></summary>
+        <author>
+            <name>链求君 💎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投硬撸 BOB第一天上线时就开撸的，撸都撸了，继续撸完。 @build_on_bob 最近可以提供完成 Quests 提高排名和权重积分。 ✅ 活动提速： https://www.intract.i...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1807450166003425398</id>
+        <link href="https://x.com/AntCaveClub/status/1807450166003425398"/>
+        <updated>2024-06-30T16:24:35.000Z</updated>
+        <summary type="html"><![CDATA[#空投硬撸 
+BOB第一天上线时就开撸的，撸都撸了，继续撸完。
+ @build_on_bob  最近可以提供完成 Quests 提高排名和权重积分。 
+✅ 活动提速： https://www.intract.io/explore?query=BOB+Summer+Fest&hideCompleted=true&hideExpired=true&sortBy=participation&entity_type=CAMPAIGN
+🔗 官网链接： https://app.gobob.xyz/  
+邀请码： wjdyin
+邀请码： oc4qx9
+有提速需求的， 评论区留下自己邀请码 ！…]]></summary>
+        <author>
+            <name>链求君 💎</name>
         </author>
     </entry>
     <entry>
@@ -261,16 +682,6 @@ BowTiedRanger: Incredible Trump ad]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @nachunja @Curiousjorge65 Right. I’m explaining why it’s been crap. Hopefully gets its mo’ back but tough to know where valuation bottoms out at]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1807081728659308887</id>
-        <link href="https://x.com/DeFiSurfer808/status/1807081728659308887"/>
-        <updated>2024-06-29T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @nachunja @Curiousjorge65 Right. I’m explaining why it’s been crap. Hopefully gets its mo’ back but tough to know where valuation bottoms out at]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT BowTiedRanger: Incredible Trump ad]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1807109097516396748</id>
         <link href="https://x.com/DeFiSurfer808/status/1807109097516396748"/>
@@ -282,114 +693,264 @@ Incredible Trump ad]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Curiousjorge65 Sq’s fundamentals are decelerating and most of growth coming from lower multiple banking revenue streams]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1807059903833362905</id>
-        <link href="https://x.com/DeFiSurfer808/status/1807059903833362905"/>
-        <updated>2024-06-29T14:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @Curiousjorge65 Sq’s fundamentals are decelerating and most of growth coming from lower multiple banking revenue streams]]></summary>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.27: - @ionet and the $1trn+ GPU supply bottleneck oppty - Manlets rejoice as @vaneck_us files for a $SOL ETF - $MO...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1806419849729437910</id>
+        <link href="https://x.com/OnChainWizard/status/1806419849729437910"/>
+        <updated>2024-06-27T20:09:53.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.27:
+-  @ionet and the $1trn+ GPU supply bottleneck oppty
+- Manlets rejoice as @vaneck_us files for a $SOL ETF
+- $MOG taps ATHs, dominates both attention metrics and leads @ChainEDGE_io EVM smart $ held
+- @TheRoaringKitty is back again (and PnDing sol tokens)]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @toptickcrypto Keeping the faith TT 💪🏻]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1807044845464121690</id>
-        <link href="https://x.com/DeFiSurfer808/status/1807044845464121690"/>
-        <updated>2024-06-29T13:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @toptickcrypto Keeping the faith TT 💪🏻]]></summary>
+        <title type="html"><![CDATA[$michi flies to the top of the @ChainEDGE_io smart $ holdings table -> proceeds to run another +60% Don't get chopped up gambling on leverage or new l...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1806392034556842334</id>
+        <link href="https://x.com/OnChainWizard/status/1806392034556842334"/>
+        <updated>2024-06-27T18:19:56.000Z</updated>
+        <summary type="html"><![CDATA[$michi flies to the top of the @ChainEDGE_io smart $ holdings table -> proceeds to run another +60%  
+Don't get chopped up gambling on leverage or new launches and just follow the $$$]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Julio Moreno: #Bitcoin miner capitulation has reached levels comparable to December 2022: 7.6% drawdown. December 2022 marked the cycle bottom afte...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1807052484038271081</id>
-        <link href="https://x.com/DeFiSurfer808/status/1807052484038271081"/>
-        <updated>2024-06-28T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Julio Moreno
-#Bitcoin miner capitulation has reached levels comparable to December 2022: 7.6% drawdown.
-December 2022 marked the cycle bottom after the FTX colapse.]]></summary>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.26: - @NAVFinance_ reaches over $6mm in AUM, extends first epoch deposits to tomorrow - $ZYN beats C&D - $MOG lead...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1806044812824723524</id>
+        <link href="https://x.com/OnChainWizard/status/1806044812824723524"/>
+        <updated>2024-06-26T19:08:25.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.26:
+- @NAVFinance_ reaches over $6mm in AUM, extends first epoch deposits to tomorrow
+- $ZYN beats C&D
+- $MOG leading attention
+- $DORAE speed runs to $2bn and rugs
+- $Blast launch, ETH ETF going smoothly, DEX bot volumes bearish, upcoming launches 2 watch]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @doppel_ichi What’re we thinking]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806800570327429628</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806800570327429628"/>
-        <updated>2024-06-28T21:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @doppel_ichi What’re we thinking]]></summary>
+        <title type="html"><![CDATA[Re @pingugems @ChainEDGE_io @Attention_wtf Should post it in its current form in next week or so to chainedge]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1805717297723560210</id>
+        <link href="https://x.com/OnChainWizard/status/1805717297723560210"/>
+        <updated>2024-06-25T21:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @pingugems @ChainEDGE_io @Attention_wtf Should post it in its current form in next week or so to chainedge]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @marcusmoles Hood looks so good]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806771713058771440</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806771713058771440"/>
-        <updated>2024-06-28T19:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @marcusmoles Hood looks so good]]></summary>
+        <title type="html"><![CDATA[Re @pingugems @ChainEDGE_io @Attention_wtf @Attention_wtf uses a combo of social data and onchain data to “score” attention of onchain and CEX token...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1805715193759989934</id>
+        <link href="https://x.com/OnChainWizard/status/1805715193759989934"/>
+        <updated>2024-06-25T21:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @pingugems @ChainEDGE_io @Attention_wtf @Attention_wtf uses a combo of social data and onchain data to “score” attention of onchain and CEX tokens.    It will exist in beta under chainedge for a bit and then will be separate.    Consider it a degen, more trader based kaito]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @zackvoell Probably something to do with this https://x.com/wabuffo/status/1806687566214660229?s=46&t=_sZ6xyyOBuoMYsKE6B_heA]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806720576654020714</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806720576654020714"/>
-        <updated>2024-06-28T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @zackvoell Probably something to do with this
-https://x.com/wabuffo/status/1806687566214660229?s=46&t=_sZ6xyyOBuoMYsKE6B_heA
+        <title type="html"><![CDATA[New @ChainEDGE_io feature incoming 🚨 The ability to filter + receive alerts on EVM & SOL smart $ holdings by PnL, past winners, etc. An initial ex....]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1805706642027061742</id>
+        <link href="https://x.com/OnChainWizard/status/1805706642027061742"/>
+        <updated>2024-06-25T20:56:26.000Z</updated>
+        <summary type="html"><![CDATA[New @ChainEDGE_io feature incoming 🚨
+The ability to filter + receive alerts on EVM & SOL smart $ holdings by PnL, past winners, etc.   
+An initial ex. is "wallets of $300k+ realized PnL, holding an aggregate $200k+ of a token 10d old or less"
+1 result: $MAGANOMICS (up only)]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.25: - @ionet launches block rewards - everything bouncing, $POPCAT ripping faces - $MOG, $BILLY, $MICHI, $DJT and ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1805659138112077929</id>
+        <link href="https://x.com/OnChainWizard/status/1805659138112077929"/>
+        <updated>2024-06-25T17:47:31.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.25:
+- @ionet launches block rewards 
+- everything bouncing, $POPCAT ripping faces
+- $MOG, $BILLY, $MICHI, $DJT and $NUB notable high mindshare tokens
+- Going to be a big next ~7 days with Blast TGE tmm, presidential debate on Thurs and ETH ETF speculated for 7/2]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.24: - @NAVFinance_ offering 3x points until deposits close tomorrow - Majors getting Mogged - $MOG & $BILLY attent...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1805264538746392839</id>
+        <link href="https://x.com/OnChainWizard/status/1805264538746392839"/>
+        <updated>2024-06-24T15:39:24.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.24:
+- @NAVFinance_ offering 3x points until deposits close tomorrow
+- Majors getting Mogged
+- $MOG & $BILLY attention leaders
+- Mt. Gox repayments start next month
+- Newer coins with $100k+ smart money bags: $FN, $MAGANOMICS, $SHOG, $DJT, $BILLY]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.20: - @NAVFinance_ sees AUM grow to $4.3mm shortly after launching deposits - The German Gov is selling BTC accord...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1803834572351615083</id>
+        <link href="https://x.com/OnChainWizard/status/1803834572351615083"/>
+        <updated>2024-06-20T16:57:10.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.20:
+- @NAVFinance_ sees AUM grow to $4.3mm shortly after launching deposits
+- The German Gov is selling BTC according to @ArkhamIntel 
+-Onchain coins with the most attention are: $DJT, $NCAT, $BILLY and $WOLF
+- AI coins catching a bid
+- Smart $ likes $MOG]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.19: - @ionet sees 115% month over month verified GPU growth - SEC drops investgation into ETH - @LayerZero_Labs ai...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1803460289783906707</id>
+        <link href="https://x.com/OnChainWizard/status/1803460289783906707"/>
+        <updated>2024-06-19T16:09:34.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.19:
+- @ionet sees 115% month over month verified GPU growth
+- SEC drops investgation into ETH
+- @LayerZero_Labs airdrop incoming
+-@azuroprotocol token launches
+- $BILLY, $WOLF and $TRUMP lead non-DJT attention
+-New projects to watch
+-Smart $ favorites]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Asomnuss If you sign up for a sub, you get an email link to the discord!]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1803444429107118087</id>
+        <link href="https://x.com/OnChainWizard/status/1803444429107118087"/>
+        <updated>2024-06-19T15:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @Asomnuss If you sign up for a sub, you get an email link to the discord!]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tailored | Web3 Studio: The Crypto Landscape is evolving rapidly. 9 key narratives of this cycle to keep your eyes on 🧵]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1803075674854293725</id>
+        <link href="https://x.com/OnChainWizard/status/1803075674854293725"/>
+        <updated>2024-06-18T13:00:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Tailored | Web3 Studio
+The Crypto Landscape is evolving rapidly.
+9 key narratives of this cycle to keep your eyes on 🧵]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge 6.18, covering -@ionet -Blood in the streets with basicaly every major alt down 10%+ -The wheel of attention dilutio...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1802990073496912071</id>
+        <link href="https://x.com/OnChainWizard/status/1802990073496912071"/>
+        <updated>2024-06-18T09:01:30.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge 6.18, covering
+-@ionet 
+-Blood in the streets with basicaly every major alt down 10%+
+-The wheel of attention dilution
+- $DJT and $BILLY
+-Sharp traders' favorite bags
+-Upcoming launches to watch]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ConorMcJeeter Token is more than 24hr old]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1801844975098827248</id>
+        <link href="https://x.com/OnChainWizard/status/1801844975098827248"/>
+        <updated>2024-06-15T05:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @ConorMcJeeter Token is more than 24hr old]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chainEDGE Office Hours https://twitter.com/i/broadcasts/1mnxepRARRnJX]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1801630966492107147</id>
+        <link href="https://x.com/OnChainWizard/status/1801630966492107147"/>
+        <updated>2024-06-14T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[chainEDGE Office Hours https://twitter.com/i/broadcasts/1mnxepRARRnJX]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade attention not "fundamentals" https://tinyurl.com/topwhocares]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1801596080502497708</id>
+        <link href="https://x.com/OnChainWizard/status/1801596080502497708"/>
+        <updated>2024-06-14T12:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Trade attention not "fundamentals"
+https://tinyurl.com/topwhocares]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it GPU szn?]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1801160550908358729</id>
+        <link href="https://x.com/OnChainWizard/status/1801160550908358729"/>
+        <updated>2024-06-13T07:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Is it GPU szn?
 
-“The Starfish”: Due to strong payroll taxes & large-ish tax collections at  the April & June IRS payment deadlines, the US Federal govt has run a $100b-ish surplus (rather than a deficit) in Q2 (April-June).
-This means that the supply of monetary assets has not kept up with nominal 5-6% US…]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUGE win for Americans and liberty against the federal government bureaucracy.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806702335302758750</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806702335302758750"/>
-        <updated>2024-06-28T14:52:58.000Z</updated>
-        <summary type="html"><![CDATA[HUGE win for Americans and liberty against the federal government bureaucracy.
 
-Doug Colkitt: https://www.cbsnews.com/news/supreme-court-chevron-deference-power-of-federal-agencies/
-Incredibly bullish for crypto]]></summary>
+The Daily Edge: The @ionet / $IO TGE on Binance Launchpool will be live in less than 9 hours.    
+A thread on why this will be the biggest DePin launch yet  ->]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @kevg1412 Do you have link to source doc?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806694820326318352</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806694820326318352"/>
-        <updated>2024-06-28T14:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @kevg1412 Do you have link to source doc?]]></summary>
+        <title type="html"><![CDATA[RT The Daily Edge: Tonight on The Daily Edge: -Simp szn in full effect w/ $DADDY and $MOTHER trending - $IO launches with a bang - Other tokens domina...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1800987978996552085</id>
+        <link href="https://x.com/OnChainWizard/status/1800987978996552085"/>
+        <updated>2024-06-12T19:49:24.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+Tonight on The Daily Edge:
+-Simp szn in full effect w/ $DADDY and $MOTHER trending
+- $IO launches with a bang
+- Other tokens dominating onchain attention
+- Daily TG trading volumes trending 2.5x higher than April lows
+-New launches to watch
+-Smart money's favorite tokens]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT “The Starfish”: Due to strong payroll taxes & large-ish tax collections at the April & June IRS payment deadlines, the US Federal govt has run a ...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806689889322152134</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806689889322152134"/>
-        <updated>2024-06-28T13:54:17.000Z</updated>
-        <summary type="html"><![CDATA[RT “The Starfish”
-Due to strong payroll taxes & large-ish tax collections at  the April & June IRS payment deadlines, the US Federal govt has run a $100b-ish surplus (rather than a deficit) in Q2 (April-June).
-This means that the supply of monetary assets has not kept up with nominal 5-6% US…]]></summary>
+        <title type="html"><![CDATA[RT ChainEDGE: 1-10 day old EVM tokens with $100k+ smart money bags (one of the strongest signals lately): $PEIPEI $MAGAA $RCH $BIAO $NORMIE $GURU $LAN...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1800792084737061236</id>
+        <link href="https://x.com/OnChainWizard/status/1800792084737061236"/>
+        <updated>2024-06-12T07:27:35.000Z</updated>
+        <summary type="html"><![CDATA[RT ChainEDGE
+1-10 day old EVM tokens with $100k+ smart money bags (one of the strongest signals lately):
+$PEIPEI
+$MAGAA
+$RCH
+$BIAO
+$NORMIE
+$GURU
+$LANDWU
+$FROG
+$BULEI]]></summary>
         <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Fourth Way:]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1806731879048958380</id>
-        <link href="https://x.com/DeFiSurfer808/status/1806731879048958380"/>
-        <updated>2024-06-27T21:59:48.000Z</updated>
-        <summary type="html"><![CDATA[RT The Fourth Way]]></summary>
-        <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
