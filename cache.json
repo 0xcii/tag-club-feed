@@ -1,4 +1,62 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1813931717335683561",
+          "author": "DeFi Educator",
+          "description": "👀\n\nChampagne Joshi: BREAKING🚨🚨\nA company called Austin Private Wealth LLC shorted 12,000,000 shares of $DJT via a put option. The filing date is July 12th, the day before the assassination attempt. \nThey have around $1 Billion in assets under management and this is by far the largest put placed.…",
+          "link": "https://x.com/DeFi_educator/status/1813931717335683561",
+          "publishedOn": "2024-07-18T13:39:57.000Z",
+          "wordCount": 6,
+          "title": "👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1813694622087905665",
+          "author": "DeFi Educator",
+          "description": "RT ZachXBT\nRe @worldcoin Prioritizing simplicity: allowing insiders to continue profit off your scam token while larping as if you build tools for humanity.\n\n\nDeFi^2: Dropping my most extensive research piece on Worldcoin to date. With insider unlocks just 8 days away, I encourage you all to give it a read and stay informed.",
+          "link": "https://x.com/DeFi_educator/status/1813694622087905665",
+          "publishedOn": "2024-07-17T10:50:32.000Z",
+          "wordCount": 6,
+          "title": "RT ZachXBT: Re @worldcoin Prioritizing simplicity: allowing insiders to continue profit off your scam token while larping as if you build tools for hu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1813290928410370370",
+          "author": "DeFi Educator",
+          "description": "Re @d_gilz Overweight: just do 10 day fasts\nSkinny: drink a gallon of milk a day and lift heavy \nBoth are easy if you have strong willpower",
+          "link": "https://x.com/DeFi_educator/status/1813290928410370370",
+          "publishedOn": "2024-07-16T19:13:41.000Z",
+          "wordCount": 6,
+          "title": "Re @d_gilz Overweight: just do 10 day fasts Skinny: drink a gallon of milk a day and lift heavy Both are easy if you have strong willpower",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1811501892347793661",
+          "author": "DeFi Educator",
+          "description": "Re @ngnl1049 legit was able to get 1500 calories from this alone ( would add nuts though)",
+          "link": "https://x.com/DeFi_educator/status/1811501892347793661",
+          "publishedOn": "2024-07-11T20:44:41.000Z",
+          "wordCount": 6,
+          "title": "Re @ngnl1049 legit was able to get 1500 calories from this alone ( would add nuts though)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1811501629243269595",
+          "author": "DeFi Educator",
+          "description": "Re @ngnl1049 try (goat) milk kefir with oats\nSame amount of protein as milk, kefir eats all the lactose which is generally what people react to and kefir is the best probiotic you can possibly put in your body. \nPut oats & fruits & honey in kefir and keep it overnight for 2nd fermentation",
+          "link": "https://x.com/DeFi_educator/status/1811501629243269595",
+          "publishedOn": "2024-07-11T20:43:39.000Z",
+          "wordCount": 6,
+          "title": "Re @ngnl1049 try (goat) milk kefir with oats Same amount of protein as milk, kefir eats all the lactose which is generally what people react to and ke...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
