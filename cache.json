@@ -1,26 +1,10 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848Community",
-      "articles": []
-    },
-    {
       "title": "Twitter @链求君 💎",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1831707100768301306",
-          "author": "链求君 💎",
-          "description": "入乡随俗吧， 老外dev都喜欢玩ADA。\n推荐一波上手的教程，给不熟悉的人↓ \nCardano (ADA) Trading Guide - \nwallet - https://www.namiwallet.io/\n              https://yoroi-wallet.com/\n              https://atomicwallet.io/cardano-wallet\nbridge - http://rocketx.exchange",
-          "link": "https://x.com/AntCaveClub/status/1831707100768301306",
-          "publishedOn": "2024-09-05T14:52:58.000Z",
-          "wordCount": 6,
-          "title": "入乡随俗吧， 老外dev都喜欢玩ADA。 推荐一波上手的教程，给不熟悉的人↓ Cardano (ADA) Trading Guide - wallet - https://www.namiwallet.io/ https://yoroi-w...",
-          "imageUrl": null
-        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1831615358316519858",
           "author": "链求君 💎",
@@ -210,95 +194,34 @@
           "wordCount": 6,
           "title": "Re @bishengkegs 看着都心疼。 这能够我吃一年猪脚饭了。",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1830162204840394765",
+          "author": "链求君 💎",
+          "description": "Re 优质推荐进群:  https://t.me/lianqiujun",
+          "link": "https://x.com/AntCaveClub/status/1830162204840394765",
+          "publishedOn": "2024-09-01T08:34:07.000Z",
+          "wordCount": 6,
+          "title": "Re 优质推荐进群: https://t.me/lianqiujun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1830162201954353211",
+          "author": "链求君 💎",
+          "description": "$MNTA \n市值:  $2.1M\nhttps://x.com/Moneta_Fi?t=bW_xdKyyyufxxTE-6M8vAg&s=09\n0x5b342F03D126314d925Fa57A45654f92905e6451\n市场并不好，但金狗依然是金狗。\nAPP:  https://dexx.ai/refer?inviteCode=3ESNZD&chainId=1&pairCa=0xF15cE902277f1ca1F1E0cF561c46a6841D1c0043",
+          "link": "https://x.com/AntCaveClub/status/1830162201954353211",
+          "publishedOn": "2024-09-01T08:34:06.000Z",
+          "wordCount": 6,
+          "title": "$MNTA 市值: $2.1M https://x.com/Moneta_Fi?t=bW_xdKyyyufxxTE-6M8vAg&s=09 0x5b342F03D126314d925Fa57A45654f92905e6451 市场并不好，但金狗依然是金狗。 APP:...",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1830668466543829007",
-          "author": "DeFi Educator",
-          "description": "Re @d_gilz New challenge for unlocked:\nhttps://x.com/0xalaric/status/1802114619030327666?s=46&t=cM-600GJga7XNxddNsm-Pw\n\nAlaric The Barbarian: Reasonable standards:\n225 bench\n315 deadlift\n6:30 mile\n75 second 400\n5 rds sparring without gassing\nAble to touch fists to floor\nRuck 12 miles in 3 hours\n10 pull-ups\n50 push-ups\n600m swim w/o stopping",
-          "link": "https://x.com/DeFi_educator/status/1830668466543829007",
-          "publishedOn": "2024-09-02T18:05:49.000Z",
-          "wordCount": 6,
-          "title": "Re @d_gilz New challenge for unlocked: https://x.com/0xalaric/status/1802114619030327666?s=46&t=cM-600GJga7XNxddNsm-Pw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1829616143440711784",
-          "author": "DeFi Educator",
-          "description": "Re @VetleLunde Great research! Deserves a follow",
-          "link": "https://x.com/DeFi_educator/status/1829616143440711784",
-          "publishedOn": "2024-08-30T20:24:15.000Z",
-          "wordCount": 6,
-          "title": "Re @VetleLunde Great research! Deserves a follow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1829614679410241943",
-          "author": "DeFi Educator",
-          "description": "RT Vetle Lunde\nDid you know?\nLiquidation data from exchanges are bogus and a vast underrepresentation of actual liquidation volumes in the market.\nTo provide a “fair trading environment” (Bybit, Sep 2021) and to “optimize user data stream” (Binance, Apr 2021), Binance and Bybit changed their…",
-          "link": "https://x.com/DeFi_educator/status/1829614679410241943",
-          "publishedOn": "2024-08-29T14:28:24.000Z",
-          "wordCount": 6,
-          "title": "RT Vetle Lunde: Did you know? Liquidation data from exchanges are bogus and a vast underrepresentation of actual liquidation volumes in the market. To...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1828781437404991984",
-          "author": "DeFi Educator",
-          "description": "Re @Route2FI Still here",
-          "link": "https://x.com/DeFi_educator/status/1828781437404991984",
-          "publishedOn": "2024-08-28T13:07:26.000Z",
-          "wordCount": 6,
-          "title": "Re @Route2FI Still here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1826315904189096342",
-          "author": "DeFi Educator",
-          "description": "RT vitalik.eth\nRe Defeated the 11700-word blog post on all three engagement metrics in three minutes.",
-          "link": "https://x.com/DeFi_educator/status/1826315904189096342",
-          "publishedOn": "2024-08-21T13:50:25.000Z",
-          "wordCount": 6,
-          "title": "RT vitalik.eth: Re Defeated the 11700-word blog post on all three engagement metrics in three minutes.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1824134689591898300",
-          "author": "DeFi Educator",
-          "description": "RT TexasHedge\nmost people seem to be ok with the idea that real estate is up only, that each successive generation is the takeout for the generation that came before\nthey rationalize this because housing is useful, real estate is cash flow-generating, it's a tangible asset, etc.\nbut the…",
-          "link": "https://x.com/DeFi_educator/status/1824134689591898300",
-          "publishedOn": "2024-08-14T23:39:21.000Z",
-          "wordCount": 6,
-          "title": "RT TexasHedge: most people seem to be ok with the idea that real estate is up only, that each successive generation is the takeout for the generation ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1823430804011208733",
-          "author": "DeFi Educator",
-          "description": "Re @lemondontfloss",
-          "link": "https://x.com/DeFi_educator/status/1823430804011208733",
-          "publishedOn": "2024-08-13T18:45:56.000Z",
-          "wordCount": 6,
-          "title": "Re @lemondontfloss",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1822034574865817991",
-          "author": "DeFi Educator",
-          "description": "RT Tyler Winklevoss\nToday, the Fed confirmed that Operation Choke Point 2.0 remains in full swing, provided valuable insight into how it works, and verified that the Harris crypto \"reset\" is a scam. The Fed revealed all of this in a 13-page enforcement action it issued this morning against…",
-          "link": "https://x.com/DeFi_educator/status/1822034574865817991",
-          "publishedOn": "2024-08-09T01:33:37.000Z",
-          "wordCount": 6,
-          "title": "RT Tyler Winklevoss: Today, the Fed confirmed that Operation Choke Point 2.0 remains in full swing, provided valuable insight into how it works, and v...",
-          "imageUrl": null
-        }
-      ]
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
