@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848Community",
-      "articles": []
-    },
-    {
       "title": "Twitter @Onchain Wizard",
       "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
       "siteUrl": "https://x.com/OnChainWizard",
@@ -212,6 +206,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
