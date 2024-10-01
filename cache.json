@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @Onchain Wizard",
-      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
-      "siteUrl": "https://x.com/OnChainWizard",
-      "articles": [
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1830782678137712816",
-          "author": "Onchain Wizard",
-          "description": "Ez 10x on VISTA using our upcoming @ChainEDGE_io portfolio alerts",
-          "link": "https://x.com/OnChainWizard/status/1830782678137712816",
-          "publishedOn": "2024-09-03T01:39:39.000Z",
-          "wordCount": 6,
-          "title": "Ez 10x on VISTA using our upcoming @ChainEDGE_io portfolio alerts",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
