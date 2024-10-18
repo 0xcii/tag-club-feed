@@ -1,17 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848Community",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Surfer",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
-      "siteUrl": "https://x.com/DeFiSurfer808",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
