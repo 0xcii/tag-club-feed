@@ -1,4 +1,23 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848Community",
+      "articles": []
+    },
+    {
+      "title": "Twitter @链求君 💎",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
+      "articles": []
+    },
+    {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
