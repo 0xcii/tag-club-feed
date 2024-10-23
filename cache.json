@@ -1,9 +1,21 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848Community",
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
       "articles": []
     }
   ],
