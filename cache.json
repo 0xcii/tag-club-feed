@@ -1,4 +1,11 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://x.com/DeFiSurfer808",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
