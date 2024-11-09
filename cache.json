@@ -1,4 +1,29 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848Community",
+      "articles": []
+    },
+    {
+      "title": "Twitter @链求君 💎",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
