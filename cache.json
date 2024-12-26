@@ -308,16 +308,30 @@
       ]
     },
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
-      "articles": []
-    },
-    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1872234696173813956",
+          "author": "链求君 🔥",
+          "description": "Re @MetaHunter168 要是努力能做到。\n世界首富一定是驴。\n🤔😄",
+          "link": "https://x.com/AntCaveClub/status/1872234696173813956",
+          "publishedOn": "2024-12-26T10:55:10.000Z",
+          "wordCount": 6,
+          "title": "Re @MetaHunter168 要是努力能做到。 世界首富一定是驴。 🤔😄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1872230866338062542",
+          "author": "链求君 🔥",
+          "description": "Re @MetaHunter168 都是 “大人物“ 的勾兑",
+          "link": "https://x.com/AntCaveClub/status/1872230866338062542",
+          "publishedOn": "2024-12-26T10:39:57.000Z",
+          "wordCount": 6,
+          "title": "Re @MetaHunter168 都是 “大人物“ 的勾兑",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1872223227709448641",
           "author": "链求君 🔥",
@@ -596,26 +610,6 @@
           "publishedOn": "2024-12-23T14:17:14.000Z",
           "wordCount": 6,
           "title": "Re @Wolfy_XBT @whyyoutouzhele @wangzhian8848 不要搭理他们。 不要沾边。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1871169458213106072",
-          "author": "链求君 🔥",
-          "description": "Pepe Boots 的新产品： XXYY  来抢占网页APP端市场了\n我们来测试使用一下吧。\n🔗 https://www.xxyy.io/?ref=xxyy00\n目前我认为的优点：\n1⃣️ 分组聪明钱包监控 （导入）\n2⃣️ 毫秒级pump扫链 （1s刷新）\n3⃣️ 钱包标签Buy/Sell 在 K线中展示 （清楚看到庄的动态）\n其他和 Gmgn 都差不多。\n但是 Gmgn 真的界面 又卡又杂乱 ！ 还不支持手机端 ！\nXXYY 支持 APP 手机端 ！",
-          "link": "https://x.com/AntCaveClub/status/1871169458213106072",
-          "publishedOn": "2024-12-23T12:22:18.000Z",
-          "wordCount": 6,
-          "title": "Pepe Boots 的新产品： XXYY 来抢占网页APP端市场了 我们来测试使用一下吧。 🔗 https://www.xxyy.io/?ref=xxyy00 目前我认为的优点： 1⃣️ 分组聪明钱包监控...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1871123778098618618",
-          "author": "链求君 🔥",
-          "description": "Re @bishengkegs @JYdmnLFG pump 直播，发CA  \n肯定给你冲到$1M",
-          "link": "https://x.com/AntCaveClub/status/1871123778098618618",
-          "publishedOn": "2024-12-23T09:20:47.000Z",
-          "wordCount": 6,
-          "title": "Re @bishengkegs @JYdmnLFG pump 直播，发CA 肯定给你冲到$1M",
           "imageUrl": null
         }
       ]
@@ -1153,12 +1147,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
