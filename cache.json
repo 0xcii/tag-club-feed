@@ -308,16 +308,20 @@
       ]
     },
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
-      "articles": []
-    },
-    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1872468115856187613",
+          "author": "链求君 🔥",
+          "description": "Ejf8CTE16DHi3LBTiSXvRh73CiAXjuCFpPVqGMudbDXK\n鱿鱼游戏2  \nhttps://t.me/solana_trojanbot?start=r-madaodev-Ejf8CTE16DHi3LBTiSXvRh73CiAXjuCFpPVqGMudbDXK",
+          "link": "https://x.com/AntCaveClub/status/1872468115856187613",
+          "publishedOn": "2024-12-27T02:22:42.000Z",
+          "wordCount": 6,
+          "title": "Ejf8CTE16DHi3LBTiSXvRh73CiAXjuCFpPVqGMudbDXK 鱿鱼游戏2 https://t.me/solana_trojanbot?start=r-madaodev-Ejf8CTE16DHi3LBTiSXvRh73CiAXjuCFpPVqGMudbDXK",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1872447175055249823",
           "author": "链求君 🔥",
@@ -607,323 +611,6 @@
           "wordCount": 6,
           "title": "这不就好起来了么",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1871207630712262657",
-          "author": "链求君 🔥",
-          "description": "Re @MEVX_Official 🏆   #MevX",
-          "link": "https://x.com/AntCaveClub/status/1871207630712262657",
-          "publishedOn": "2024-12-23T14:53:59.000Z",
-          "wordCount": 6,
-          "title": "Re @MEVX_Official 🏆 #MevX",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870954710787563897",
-          "author": "DeFi Educator",
-          "description": "Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road",
-          "link": "https://x.com/DeFi_educator/status/1870954710787563897",
-          "publishedOn": "2024-12-22T22:08:58.000Z",
-          "wordCount": 6,
-          "title": "Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870954088797454436",
-          "author": "DeFi Educator",
-          "description": "Re @GwartyGwart",
-          "link": "https://x.com/DeFi_educator/status/1870954088797454436",
-          "publishedOn": "2024-12-22T22:06:30.000Z",
-          "wordCount": 6,
-          "title": "Re @GwartyGwart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870936152309678172",
-          "author": "DeFi Educator",
-          "description": "Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallets",
-          "link": "https://x.com/DeFi_educator/status/1870936152309678172",
-          "publishedOn": "2024-12-22T20:55:13.000Z",
-          "wordCount": 6,
-          "title": "Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallet...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870303571515769126",
-          "author": "DeFi Educator",
-          "description": "Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity",
-          "link": "https://x.com/DeFi_educator/status/1870303571515769126",
-          "publishedOn": "2024-12-21T03:01:34.000Z",
-          "wordCount": 6,
-          "title": "Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869764227302666384",
-          "author": "DeFi Educator",
-          "description": "Re @BobLoukas",
-          "link": "https://x.com/DeFi_educator/status/1869764227302666384",
-          "publishedOn": "2024-12-19T15:18:24.000Z",
-          "wordCount": 6,
-          "title": "Re @BobLoukas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869763465973486002",
-          "author": "DeFi Educator",
-          "description": "Re @BasementRon Welcome to Crypto Ron!",
-          "link": "https://x.com/DeFi_educator/status/1869763465973486002",
-          "publishedOn": "2024-12-19T15:15:23.000Z",
-          "wordCount": 6,
-          "title": "Re @BasementRon Welcome to Crypto Ron!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869762786236215530",
-          "author": "DeFi Educator",
-          "description": "Re @BasementRon Welcome to the trenches Don",
-          "link": "https://x.com/DeFi_educator/status/1869762786236215530",
-          "publishedOn": "2024-12-19T15:12:41.000Z",
-          "wordCount": 6,
-          "title": "Re @BasementRon Welcome to the trenches Don",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869723086607843827",
-          "author": "DeFi Educator",
-          "description": "Re @rektdiomedes ✅",
-          "link": "https://x.com/DeFi_educator/status/1869723086607843827",
-          "publishedOn": "2024-12-19T12:34:56.000Z",
-          "wordCount": 6,
-          "title": "Re @rektdiomedes ✅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869494005987492107",
-          "author": "DeFi Educator",
-          "description": "Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.",
-          "link": "https://x.com/DeFi_educator/status/1869494005987492107",
-          "publishedOn": "2024-12-18T21:24:39.000Z",
-          "wordCount": 6,
-          "title": "Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867724386062803184",
-          "author": "DeFi Educator",
-          "description": "Re @d_gilz",
-          "link": "https://x.com/DeFi_educator/status/1867724386062803184",
-          "publishedOn": "2024-12-14T00:12:48.000Z",
-          "wordCount": 6,
-          "title": "Re @d_gilz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867234422820687971",
-          "author": "DeFi Educator",
-          "description": "Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?",
-          "link": "https://x.com/DeFi_educator/status/1867234422820687971",
-          "publishedOn": "2024-12-12T15:45:52.000Z",
-          "wordCount": 6,
-          "title": "Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1866121139044384931",
-          "author": "DeFi Educator",
-          "description": "Re @ReetikaTrades could it be the difference between optimism/belief now vs. euphoria / complacency in 2021?",
-          "link": "https://x.com/DeFi_educator/status/1866121139044384931",
-          "publishedOn": "2024-12-09T14:02:05.000Z",
-          "wordCount": 6,
-          "title": "Re @ReetikaTrades could it be the difference between optimism/belief now vs. euphoria / complacency in 2021?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1865156002649133476",
-          "author": "DeFi Educator",
-          "description": "Re @DipWheeler @AgentChud Legend",
-          "link": "https://x.com/DeFi_educator/status/1865156002649133476",
-          "publishedOn": "2024-12-06T22:06:58.000Z",
-          "wordCount": 6,
-          "title": "Re @DipWheeler @AgentChud Legend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1865112967701807198",
-          "author": "DeFi Educator",
-          "description": "Re @0xwiw @CryptoKaduna @Simmi_IO Hahaha",
-          "link": "https://x.com/DeFi_educator/status/1865112967701807198",
-          "publishedOn": "2024-12-06T19:15:58.000Z",
-          "wordCount": 6,
-          "title": "Re @0xwiw @CryptoKaduna @Simmi_IO Hahaha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864848867411284369",
-          "author": "DeFi Educator",
-          "description": "Re @Pool2Paulie FTM long, most hated rally. And sonic actually cool tech",
-          "link": "https://x.com/DeFi_educator/status/1864848867411284369",
-          "publishedOn": "2024-12-06T01:46:31.000Z",
-          "wordCount": 6,
-          "title": "Re @Pool2Paulie FTM long, most hated rally. And sonic actually cool tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864711828825112813",
-          "author": "DeFi Educator",
-          "description": "Re @0xaporia great indicator, thanks for sharing!\nBut market can stay retarded longer than we think...",
-          "link": "https://x.com/DeFi_educator/status/1864711828825112813",
-          "publishedOn": "2024-12-05T16:41:59.000Z",
-          "wordCount": 6,
-          "title": "Re @0xaporia great indicator, thanks for sharing! But market can stay retarded longer than we think...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864527716403322885",
-          "author": "DeFi Educator",
-          "description": "Chat is this real?",
-          "link": "https://x.com/DeFi_educator/status/1864527716403322885",
-          "publishedOn": "2024-12-05T04:30:23.000Z",
-          "wordCount": 6,
-          "title": "Chat is this real?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864522075563565292",
-          "author": "DeFi Educator",
-          "description": "",
-          "link": "https://x.com/DeFi_educator/status/1864522075563565292",
-          "publishedOn": "2024-12-05T04:07:58.000Z",
-          "wordCount": 6,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864520016806215874",
-          "author": "DeFi Educator",
-          "description": "Re @intocryptoverse",
-          "link": "https://x.com/DeFi_educator/status/1864520016806215874",
-          "publishedOn": "2024-12-05T03:59:47.000Z",
-          "wordCount": 6,
-          "title": "Re @intocryptoverse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864519303401197982",
-          "author": "DeFi Educator",
-          "description": "Michael Saylor⚡️: There is going to be a 100K Party. 🚀\nhttps://x.com/i/broadcasts/1OyJAZQQvnMxb",
-          "link": "https://x.com/DeFi_educator/status/1864519303401197982",
-          "publishedOn": "2024-12-05T03:56:57.000Z",
-          "wordCount": 6,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864517543970410660",
-          "author": "DeFi Educator",
-          "description": "Re @pakpakchicken",
-          "link": "https://x.com/DeFi_educator/status/1864517543970410660",
-          "publishedOn": "2024-12-05T03:49:58.000Z",
-          "wordCount": 6,
-          "title": "Re @pakpakchicken",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864499603267063973",
-          "author": "DeFi Educator",
-          "description": "$100,000 UNITED STATES DOLLARS FOR 1 BITCORN",
-          "link": "https://x.com/DeFi_educator/status/1864499603267063973",
-          "publishedOn": "2024-12-05T02:38:40.000Z",
-          "wordCount": 6,
-          "title": "$100,000 UNITED STATES DOLLARS FOR 1 BITCORN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864439581573009646",
-          "author": "DeFi Educator",
-          "description": "Re @owen1v9",
-          "link": "https://x.com/DeFi_educator/status/1864439581573009646",
-          "publishedOn": "2024-12-04T22:40:10.000Z",
-          "wordCount": 6,
-          "title": "Re @owen1v9",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864426153039286497",
-          "author": "DeFi Educator",
-          "description": "Re @CryptoKaduna @aixbt_agent @SimulacrumIO @EmpyrealSDK this is wild",
-          "link": "https://x.com/DeFi_educator/status/1864426153039286497",
-          "publishedOn": "2024-12-04T21:46:48.000Z",
-          "wordCount": 6,
-          "title": "Re @CryptoKaduna @aixbt_agent @SimulacrumIO @EmpyrealSDK this is wild",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864393046118354959",
-          "author": "DeFi Educator",
-          "description": "Re @BobLoukas",
-          "link": "https://x.com/DeFi_educator/status/1864393046118354959",
-          "publishedOn": "2024-12-04T19:35:15.000Z",
-          "wordCount": 6,
-          "title": "Re @BobLoukas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1864363322797097230",
-          "author": "DeFi Educator",
-          "description": "Re @danielesesta @HeyAnonai I'm here for it, all of it",
-          "link": "https://x.com/DeFi_educator/status/1864363322797097230",
-          "publishedOn": "2024-12-04T17:37:09.000Z",
-          "wordCount": 6,
-          "title": "Re @danielesesta @HeyAnonai I'm here for it, all of it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1863636951351304401",
-          "author": "DeFi Educator",
-          "description": "Watcher.Guru: JUST IN: 🇺🇸 US Government moves 10,000 #Bitcoin worth $963 million to Coinbase.\nIs the government preparing to sell?",
-          "link": "https://x.com/DeFi_educator/status/1863636951351304401",
-          "publishedOn": "2024-12-02T17:30:48.000Z",
-          "wordCount": 6,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1863049544428122452",
-          "author": "DeFi Educator",
-          "description": "Re @inversebrah reminds me of cryptowatch? Thought they stopped their product?",
-          "link": "https://x.com/DeFi_educator/status/1863049544428122452",
-          "publishedOn": "2024-12-01T02:36:39.000Z",
-          "wordCount": 6,
-          "title": "Re @inversebrah reminds me of cryptowatch? Thought they stopped their product?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1862905143185784978",
-          "author": "DeFi Educator",
-          "description": "Re @DepecheNode_ We’re Locked in ser",
-          "link": "https://x.com/DeFi_educator/status/1862905143185784978",
-          "publishedOn": "2024-11-30T17:02:51.000Z",
-          "wordCount": 6,
-          "title": "Re @DepecheNode_ We’re Locked in ser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1861944535057658364",
-          "author": "DeFi Educator",
-          "description": "Re @boldleonidas @cobie I would 100% buy the coffee table book that comes out of that",
-          "link": "https://x.com/DeFi_educator/status/1861944535057658364",
-          "publishedOn": "2024-11-28T01:25:45.000Z",
-          "wordCount": 6,
-          "title": "Re @boldleonidas @cobie I would 100% buy the coffee table book that comes out of that",
-          "imageUrl": null
         }
       ]
     },
@@ -1150,6 +837,313 @@
           "publishedOn": "2024-12-05T22:22:36.000Z",
           "wordCount": 6,
           "title": "Re @game_for_one Still sub $3m I blv",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://x.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872489643704537459",
+          "author": "Surfer",
+          "description": "Re @nachunja Damn good catch",
+          "link": "https://x.com/DeFiSurfer808/status/1872489643704537459",
+          "publishedOn": "2024-12-27T03:48:14.000Z",
+          "wordCount": 6,
+          "title": "Re @nachunja Damn good catch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872443680398954633",
+          "author": "Surfer",
+          "description": "Re @basedkarbon Based",
+          "link": "https://x.com/DeFiSurfer808/status/1872443680398954633",
+          "publishedOn": "2024-12-27T00:45:36.000Z",
+          "wordCount": 6,
+          "title": "Re @basedkarbon Based",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872436813861888462",
+          "author": "Surfer",
+          "description": "Re @BackTheBunny Guy is obviously advocating for Team India. It’s so disingenuous",
+          "link": "https://x.com/DeFiSurfer808/status/1872436813861888462",
+          "publishedOn": "2024-12-27T00:18:19.000Z",
+          "wordCount": 6,
+          "title": "Re @BackTheBunny Guy is obviously advocating for Team India. It’s so disingenuous",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872435999982375059",
+          "author": "Surfer",
+          "description": "Re @BackTheBunny Dude lives in Singapore. It’s pretty surreal for him to advocate for infinite Indian immigration to the usa while being based in Southeast Asia and prophesizing the collapse of the US dollar system",
+          "link": "https://x.com/DeFiSurfer808/status/1872435999982375059",
+          "publishedOn": "2024-12-27T00:15:05.000Z",
+          "wordCount": 6,
+          "title": "Re @BackTheBunny Dude lives in Singapore. It’s pretty surreal for him to advocate for infinite Indian immigration to the usa while being based in Sou...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872390339895673288",
+          "author": "Surfer",
+          "description": "Re @MikeZaccardi $250B is a meaningful chunk of the deficit to be fair",
+          "link": "https://x.com/DeFiSurfer808/status/1872390339895673288",
+          "publishedOn": "2024-12-26T21:13:39.000Z",
+          "wordCount": 6,
+          "title": "Re @MikeZaccardi $250B is a meaningful chunk of the deficit to be fair",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872384360982220814",
+          "author": "Surfer",
+          "description": "Re @Evan_ss6 I caught that too haha",
+          "link": "https://x.com/DeFiSurfer808/status/1872384360982220814",
+          "publishedOn": "2024-12-26T20:49:53.000Z",
+          "wordCount": 6,
+          "title": "Re @Evan_ss6 I caught that too haha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872359993439347005",
+          "author": "Surfer",
+          "description": "Re @balajis The world would probably be better off if talent was developed elsewhere. Can’t be optimal for well being of the world if the USA is the sole tech super power",
+          "link": "https://x.com/DeFiSurfer808/status/1872359993439347005",
+          "publishedOn": "2024-12-26T19:13:03.000Z",
+          "wordCount": 6,
+          "title": "Re @balajis The world would probably be better off if talent was developed elsewhere. Can’t be optimal for well being of the world if the USA is the ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872049214022414708",
+          "author": "Surfer",
+          "description": "Merry Christmas all 🎅🏻 ❤️ \nMay $eth take us to the promised land in the new year",
+          "link": "https://x.com/DeFiSurfer808/status/1872049214022414708",
+          "publishedOn": "2024-12-25T22:38:08.000Z",
+          "wordCount": 6,
+          "title": "Merry Christmas all 🎅🏻 ❤️ May $eth take us to the promised land in the new year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1872023036750418104",
+          "author": "Surfer",
+          "description": "Re @nachunja The Dave YouTubes r hella sad",
+          "link": "https://x.com/DeFiSurfer808/status/1872023036750418104",
+          "publishedOn": "2024-12-25T20:54:07.000Z",
+          "wordCount": 6,
+          "title": "Re @nachunja The Dave YouTubes r hella sad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871960810207265008",
+          "author": "Surfer",
+          "description": "Re @JimWhit48972251 @balajis The survey was taken in 2024 as it says right there in the source",
+          "link": "https://x.com/DeFiSurfer808/status/1871960810207265008",
+          "publishedOn": "2024-12-25T16:46:51.000Z",
+          "wordCount": 6,
+          "title": "Re @JimWhit48972251 @balajis The survey was taken in 2024 as it says right there in the source",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871959195467293030",
+          "author": "Surfer",
+          "description": "Any guesses where this is?\nBased on the pine trees and heavier looking snow, I’d guess somewhere in Lake Tahoe\n\nCZ 🔶 BNB: Grateful to be able to 🏂 again.",
+          "link": "https://x.com/DeFiSurfer808/status/1871959195467293030",
+          "publishedOn": "2024-12-25T16:40:26.000Z",
+          "wordCount": 6,
+          "title": "Any guesses where this is? Based on the pine trees and heavier looking snow, I’d guess somewhere in Lake Tahoe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871954353126564138",
+          "author": "Surfer",
+          "description": "Re @corinavcruz @balajis The only demographic group that consistently votes “team Red” are Americans of European descent / ie “white” ex Jews \nhttps://www.pewresearch.org/politics/2023/07/12/voting-patterns-in-the-2022-elections/pp_2023-07-12_validated-voters_2-01-png/",
+          "link": "https://x.com/DeFiSurfer808/status/1871954353126564138",
+          "publishedOn": "2024-12-25T16:21:11.000Z",
+          "wordCount": 6,
+          "title": "Re @corinavcruz @balajis The only demographic group that consistently votes “team Red” are Americans of European descent / ie “white” ex Jews http...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871938613556199832",
+          "author": "Surfer",
+          "description": "Re @balajis Indian Americans are team Blue \nhttps://carnegieendowment.org/research/2024/10/indian-american-voters-election-survey-us?lang=en",
+          "link": "https://x.com/DeFiSurfer808/status/1871938613556199832",
+          "publishedOn": "2024-12-25T15:18:39.000Z",
+          "wordCount": 6,
+          "title": "Re @balajis Indian Americans are team Blue https://carnegieendowment.org/research/2024/10/indian-american-voters-election-survey-us?lang=en",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871737379780006192",
+          "author": "Surfer",
+          "description": "👀\n\nkel xyz: Test looks potentially passed, don't give af what ppl say I think if you give a bunch of gamblers keys to the country it's bullish alts\naltseason 2025",
+          "link": "https://x.com/DeFiSurfer808/status/1871737379780006192",
+          "publishedOn": "2024-12-25T01:59:01.000Z",
+          "wordCount": 6,
+          "title": "👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871713934262374796",
+          "author": "Surfer",
+          "description": "👀\n\nUncle ↑: You can literally see people sell their BTC for $ETH",
+          "link": "https://x.com/DeFiSurfer808/status/1871713934262374796",
+          "publishedOn": "2024-12-25T00:25:51.000Z",
+          "wordCount": 6,
+          "title": "👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871673506628522021",
+          "author": "Surfer",
+          "description": "Re @blknoiz06 Hyperliquid Hoes",
+          "link": "https://x.com/DeFiSurfer808/status/1871673506628522021",
+          "publishedOn": "2024-12-24T21:45:12.000Z",
+          "wordCount": 6,
+          "title": "Re @blknoiz06 Hyperliquid Hoes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871593269030981844",
+          "author": "Surfer",
+          "description": "Re @ThetaChungus Bruh",
+          "link": "https://x.com/DeFiSurfer808/status/1871593269030981844",
+          "publishedOn": "2024-12-24T16:26:22.000Z",
+          "wordCount": 6,
+          "title": "Re @ThetaChungus Bruh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871593104673014267",
+          "author": "Surfer",
+          "description": "Re @ColdBloodShill How high this one going",
+          "link": "https://x.com/DeFiSurfer808/status/1871593104673014267",
+          "publishedOn": "2024-12-24T16:25:43.000Z",
+          "wordCount": 6,
+          "title": "Re @ColdBloodShill How high this one going",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871287087892185207",
+          "author": "Surfer",
+          "description": "Re @nestayxbt Got one for eth?",
+          "link": "https://x.com/DeFiSurfer808/status/1871287087892185207",
+          "publishedOn": "2024-12-23T20:09:43.000Z",
+          "wordCount": 6,
+          "title": "Re @nestayxbt Got one for eth?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871271034047103354",
+          "author": "Surfer",
+          "description": "Re @krugermacro What??",
+          "link": "https://x.com/DeFiSurfer808/status/1871271034047103354",
+          "publishedOn": "2024-12-23T19:05:55.000Z",
+          "wordCount": 6,
+          "title": "Re @krugermacro What??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871251075057000632",
+          "author": "Surfer",
+          "description": "Re @ThetaChungus Who’s Fred",
+          "link": "https://x.com/DeFiSurfer808/status/1871251075057000632",
+          "publishedOn": "2024-12-23T17:46:37.000Z",
+          "wordCount": 6,
+          "title": "Re @ThetaChungus Who’s Fred",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871236760690176231",
+          "author": "Surfer",
+          "description": "Re @yugoviking It being?",
+          "link": "https://x.com/DeFiSurfer808/status/1871236760690176231",
+          "publishedOn": "2024-12-23T16:49:44.000Z",
+          "wordCount": 6,
+          "title": "Re @yugoviking It being?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871233702103245281",
+          "author": "Surfer",
+          "description": "😮\n\nDoc: sol is up 8% since the election\neth is up 35% since the election",
+          "link": "https://x.com/DeFiSurfer808/status/1871233702103245281",
+          "publishedOn": "2024-12-23T16:37:35.000Z",
+          "wordCount": 6,
+          "title": "😮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871009862257136026",
+          "author": "Surfer",
+          "description": "Re @TheBostonView Good list",
+          "link": "https://x.com/DeFiSurfer808/status/1871009862257136026",
+          "publishedOn": "2024-12-23T01:48:07.000Z",
+          "wordCount": 6,
+          "title": "Re @TheBostonView Good list",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1871007685430362406",
+          "author": "Surfer",
+          "description": "Re @JSpitTrades Lot of charts bouncing on 50 day tbh",
+          "link": "https://x.com/DeFiSurfer808/status/1871007685430362406",
+          "publishedOn": "2024-12-23T01:39:28.000Z",
+          "wordCount": 6,
+          "title": "Re @JSpitTrades Lot of charts bouncing on 50 day tbh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1870966421976695156",
+          "author": "Surfer",
+          "description": "Re @hdcharting I think it’s cuz it’s Christmas week",
+          "link": "https://x.com/DeFiSurfer808/status/1870966421976695156",
+          "publishedOn": "2024-12-22T22:55:30.000Z",
+          "wordCount": 6,
+          "title": "Re @hdcharting I think it’s cuz it’s Christmas week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1870965973013901657",
+          "author": "Surfer",
+          "description": "Will be interesting to watch Mstr over the coming days \nI believe NDX inclusion is tomorrow at same time the stock is entering its black out period \nPerhaps premium to nav can expand again OTOH the main bid for btc will be taking a hiatus until Mstr earnings in early feb",
+          "link": "https://x.com/DeFiSurfer808/status/1870965973013901657",
+          "publishedOn": "2024-12-22T22:53:43.000Z",
+          "wordCount": 6,
+          "title": "Will be interesting to watch Mstr over the coming days I believe NDX inclusion is tomorrow at same time the stock is entering its black out period Per...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1870961406482538949",
+          "author": "Surfer",
+          "description": "Re @fejau_inc Interesting hypothesis",
+          "link": "https://x.com/DeFiSurfer808/status/1870961406482538949",
+          "publishedOn": "2024-12-22T22:35:34.000Z",
+          "wordCount": 6,
+          "title": "Re @fejau_inc Interesting hypothesis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1870946419642867720",
+          "author": "Surfer",
+          "description": "Re @thedefivillain @cburniske making bank",
+          "link": "https://x.com/DeFiSurfer808/status/1870946419642867720",
+          "publishedOn": "2024-12-22T21:36:01.000Z",
+          "wordCount": 6,
+          "title": "Re @thedefivillain @cburniske making bank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1870945557356888081",
+          "author": "Surfer",
+          "description": "👀\n\nant: May not own much Ethereum but boy is it a constant source of corollary charting",
+          "link": "https://x.com/DeFiSurfer808/status/1870945557356888081",
+          "publishedOn": "2024-12-22T21:32:36.000Z",
+          "wordCount": 6,
+          "title": "👀",
           "imageUrl": null
         }
       ]
