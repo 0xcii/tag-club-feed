@@ -232,16 +232,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/AntCaveClub/status/1871570586570510517",
-          "author": "链求君 🔥",
-          "description": "Re 下面是他钱包👇\n9fR8gerfvGSycFGbK2VY1PFrPuU9jS6QM47S974yTUHC\n你有两种工具🛠️ 快速复制它的交易\n也许你也可以获得同样的利润\n① mevx 图表:\nhttps://mevx.io/@0x0TO1M\n② trojan bot: https://t.me/solana_trojanbot?start=r-madaodev",
-          "link": "https://x.com/AntCaveClub/status/1871570586570510517",
-          "publishedOn": "2024-12-24T14:56:14.000Z",
-          "wordCount": 6,
-          "title": "Re 下面是他钱包👇 9fR8gerfvGSycFGbK2VY1PFrPuU9jS6QM47S974yTUHC 你有两种工具🛠️ 快速复制它的交易 也许你也可以获得同样的利润 ① mevx 图表: https://...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/AntCaveClub/status/1871570584506876257",
           "author": "链求君 🔥",
           "description": "这个钱包成功买入了:\n$NEUR: $1.1K → $130.6K (+11,770%)\n$MIKE: $4.8K → $44.4K (+825%)\n$JASPER: $3.2K → $34.5K (+978%)\n$JIANGUO : $1.3K → $18.2K (+1,300%)\n全部利润: $751K",
@@ -249,6 +239,16 @@
           "publishedOn": "2024-12-24T14:56:14.000Z",
           "wordCount": 6,
           "title": "这个钱包成功买入了: $NEUR: $1.1K → $130.6K (+11,770%) $MIKE: $4.8K → $44.4K (+825%) $JASPER: $3.2K → $34.5K (+978%) $JIANGUO : $1.3K → $18.2K (+1,...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1871570586570510517",
+          "author": "链求君 🔥",
+          "description": "Re 下面是他钱包👇\n9fR8gerfvGSycFGbK2VY1PFrPuU9jS6QM47S974yTUHC\n你有两种工具🛠️ 快速复制它的交易\n也许你也可以获得同样的利润\n① mevx 图表:\nhttps://mevx.io/@0x0TO1M\n② trojan bot: https://t.me/solana_trojanbot?start=r-madaodev",
+          "link": "https://x.com/AntCaveClub/status/1871570586570510517",
+          "publishedOn": "2024-12-24T14:56:14.000Z",
+          "wordCount": 6,
+          "title": "Re 下面是他钱包👇 9fR8gerfvGSycFGbK2VY1PFrPuU9jS6QM47S974yTUHC 你有两种工具🛠️ 快速复制它的交易 也许你也可以获得同样的利润 ① mevx 图表: https://...",
           "imageUrl": null
         },
         {
@@ -472,16 +472,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/AntCaveClub/status/1870686994143281418",
-          "author": "链求君 🔥",
-          "description": "Re https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1870686994143281418",
-          "publishedOn": "2024-12-22T04:25:09.000Z",
-          "wordCount": 6,
-          "title": "Re https://t.me/lianqiujun",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/AntCaveClub/status/1870686991492452427",
           "author": "链求君 🔥",
           "description": "#钱包 6\n6 小时前，这个钱包购买了 896 美元的 $Lou,  现在利润约为 8 万美元。 \n到目前为止，已售出 1,736 美元。\n💎跟单工具: https://mevx.io/@0x0TO1M\n🤖跟单BOT: \nhttps://t.me/paris_trojanbot?start=r-madaodev\n💰钱包地址: \n F5JJHNcsua4FovHKA4LSbGF41MkQ5UatwcG6fNS191wB",
@@ -489,6 +479,16 @@
           "publishedOn": "2024-12-22T04:25:09.000Z",
           "wordCount": 6,
           "title": "#钱包 6 6 小时前，这个钱包购买了 896 美元的 $Lou, 现在利润约为 8 万美元。 到目前为止，已售出 1,736 美元。 💎跟单工具: https://mevx.io/@0x0TO1M 🤖...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1870686994143281418",
+          "author": "链求君 🔥",
+          "description": "Re https://t.me/lianqiujun",
+          "link": "https://x.com/AntCaveClub/status/1870686994143281418",
+          "publishedOn": "2024-12-22T04:25:09.000Z",
+          "wordCount": 6,
+          "title": "Re https://t.me/lianqiujun",
           "imageUrl": null
         },
         {
@@ -1343,6 +1343,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
