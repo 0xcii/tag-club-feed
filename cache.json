@@ -1,6 +1,193 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877043368620077451",
+          "author": "吴说区块链",
+          "description": "Solana 第 2 层区块链 Sonic 和风险投资公司 Galaxy Interactive 宣布启动 G.A.M.E. 基金，专注于推动 Web3 游戏、AI 代理和社交媒体内容创作工具的发展。该基金为每个项目提供最高 100 万美元支持，并提供技术、基础设施和市场推广等服务，同时与 Sonic 的 TikTok 应用集成。基金首笔投资用于支持 Gomble Games，这是一家将传统 Web2 游戏转型为 Web3 的协议。(Cointelegraph) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36144",
+          "link": "https://x.com/wublockchain12/status/1877043368620077451",
+          "publishedOn": "2025-01-08T17:23:07.000Z",
+          "wordCount": 6,
+          "title": "Solana 第 2 层区块链 Sonic 和风险投资公司 Galaxy Interactive 宣布启动 G.A.M.E. 基金，专注于推动 Web3 游戏、AI 代理和社交媒体内容创作工具的发展。该基金...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877030199570870389",
+          "author": "吴说区块链",
+          "description": "Re 对此，以太坊开发者 @terencechain 回复道：我对 Fusaka（Pectra 过后的升级的命名） 的愿景有两个方面：全方位扩容和公正的区块构建。这引导我们关注以下三个 EIPs：PeerDAS（通过数据可用性采样 DAS 实现大规模数据扩容，支持更大的交易吞吐量。实现 Blob 数据的扩容）、ePBS（实现执行层的扩容）、FOCIL（在区块构建中实现更随机的选择机制），我对我们能在一次升级中实现所有三者持乐观态度。",
+          "link": "https://x.com/wublockchain12/status/1877030199570870389",
+          "publishedOn": "2025-01-08T16:30:47.000Z",
+          "wordCount": 6,
+          "title": "Re 对此，以太坊开发者 @terencechain 回复道：我对 Fusaka（Pectra 过后的升级的命名） 的愿景有两个方面：全方位扩容和公正的区块构建。这引导我们关注以下三...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877027721425088592",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Vitalik 发推表示：我们确实需要在以太坊核心开发中进行更好的优先事项排序，例如在“将 Blob 的目标数量从 3 增加到 6”和“Pectra 中的所有其他内容”两者中选，他会优先选择第一个，即 EIP-7691：针对 blob 吞吐量的调整，计划将目标设定为 6，最大值为 9，以进一步提高 L2 的交易吞吐量，降低 L2 的交易成本。Vitalik 也表示 L1 EVM 的改进也很重要，优先级排序大概为 EOF、通过 EIP-7701 实现完全账户抽象 AA，以及通过 SIMD（单指令多数据，一种并行计算技术） 和 EVMMAX（虚拟机性能最大化） 实现的性能提升叠加适度增加 Gas 限制，同时 Vitalik 表示目前正在推进 PeerDAS，可能会探索更具雄心的版本。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36143",
+          "link": "https://x.com/wublockchain12/status/1877027721425088592",
+          "publishedOn": "2025-01-08T16:20:56.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Vitalik 发推表示：我们确实需要在以太坊核心开发中进行更好的优先事项排序，例如在“将 Blob 的目标数量从 3 增加到 6”和“Pectra 中的所有其他内容...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877026973488136613",
+          "author": "吴说区块链",
+          "description": "Elixir 宣布将通过去中心化稳定币 deUSD 为 Hamilton Lane SCOPE 基金持有人提供 DeFi 接入渠道。Elixir 将与 Securitize 合作，支持该基金的机构资产持有人在保持独立风险敞口的同时，直接通过 deUSD 访问 DeFi。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36142",
+          "link": "https://x.com/wublockchain12/status/1877026973488136613",
+          "publishedOn": "2025-01-08T16:17:58.000Z",
+          "wordCount": 6,
+          "title": "Elixir 宣布将通过去中心化稳定币 deUSD 为 Hamilton Lane SCOPE 基金持有人提供 DeFi 接入渠道。Elixir 将与 Securitize 合作，支持该基金的机构资产持有人在保...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877025461332578747",
+          "author": "吴说区块链",
+          "description": "Bubblemaps 宣布针对其活跃的 V2 用户的奖励计划，根据其 12 月公布的排行榜，已有 5 万用户加入其积分活动。Bubblemaps 是一个数据分析工具，旨在通过前沿的视觉效果替代传统的区块浏览器，让用户轻松分析复杂的模式和连接，此前曾在 2023 年完成 320 万美元融资。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36141",
+          "link": "https://x.com/wublockchain12/status/1877025461332578747",
+          "publishedOn": "2025-01-08T16:11:58.000Z",
+          "wordCount": 6,
+          "title": "Bubblemaps 宣布针对其活跃的 V2 用户的奖励计划，根据其 12 月公布的排行榜，已有 5 万用户加入其积分活动。Bubblemaps 是一个数据分析工具，旨在通过前沿的视...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877024413008413013",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Bluechip 宣布完成 1M 欧元的种子轮融资，并将总部从美国迁至奥地利维也纳，以适应欧洲 MiCA 法规的发展。Bluechip 成立于 Terra/LUNA 崩盘后，专注于开发透明的稳定币安全评级框架，并已公开相关方法供独立验证。公司此前以非盈利评级机构身份亮相于 2023 年巴黎 Stable Summit，并根据潜在投资者的反馈转为商业模式。此次还宣布与奥地利的 Raiffeisen Bank International 达成战略合作，旨在连接银行和加密领域，提供更多评级和研究服务，同时推动行业的安全与透明。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36140",
+          "link": "https://x.com/wublockchain12/status/1877024413008413013",
+          "publishedOn": "2025-01-08T16:07:48.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Bluechip 宣布完成 1M 欧元的种子轮融资，并将总部从美国迁至奥地利维也纳，以适应欧洲 MiCA 法规的发展。Bluechip 成立于 Terra/LUNA 崩盘后，专注于...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877013297364676826",
+          "author": "吴说区块链",
+          "description": "知识产权区块链公司 Story 宣布将利用 Stability AI 的尖端模型开创开源 AI 开发的新时代，让贡献者（创作者、开发者、艺术家）能够通过为 AI 生态系统做出贡献来获取他们所创造的价值。Story 旨在利用 Stability AI 的技术解决正确归因、跟踪和货币化通过 AI 生成的创意作品这一关键挑战。Story （前身为 Story Protocol） 迄今已筹集了 1.4 亿美元，a16z 领投，Polychain 等参投。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36139",
+          "link": "https://x.com/wublockchain12/status/1877013297364676826",
+          "publishedOn": "2025-01-08T15:23:37.000Z",
+          "wordCount": 6,
+          "title": "知识产权区块链公司 Story 宣布将利用 Stability AI 的尖端模型开创开源 AI 开发的新时代，让贡献者（创作者、开发者、艺术家）能够通过为 AI 生态系统做出贡献...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1877010141083832818",
+          "author": "吴说区块链",
+          "description": "《Hyperliquid 技术解读：桥合约、HyperEVM 及潜在问题》（作者：仙壤GodRealmX）跨链桥合约：Hyperliquid 在 Arbitrum 上部署 USDC 跨链桥，使用 EIP-2612 优化存款体验，提款流程设置“争议期”，由多个验证者集合负责管理。风险包括冷验证者被攻击、提款被审查或拒绝、跨链桥被恶意锁定等。HyperEVM 与双链架构：采用 HyperL1（订单簿链）与 HyperEVM（智能合约链）双链架构，结合预编译（Precompiles）和事件（Events）实现链间数据交互，可能存在非原子性问题和跨链资产延迟风险。阅读全文：\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=36138",
+          "link": "https://x.com/wublockchain12/status/1877010141083832818",
+          "publishedOn": "2025-01-08T15:11:05.000Z",
+          "wordCount": 6,
+          "title": "《Hyperliquid 技术解读：桥合约、HyperEVM 及潜在问题》（作者：仙壤GodRealmX）跨链桥合约：Hyperliquid 在 Arbitrum 上部署 USDC 跨链桥，使用 EIP-2612 优化...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876994899608027248",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安创始人 CZ 对此前不丹格勒普正念城（GMC）建立加密货币战略储备补充表示，这不仅仅是比特币储备，更是包含 ETH 和 BNB 在内的多种加密货币储备，我相信这是第一次，肯定也不会是最后一次。不丹王国多年来一直利用清洁（过剩水电）能源进行比特币挖矿，默认情况下，它本身就已经拥有比特币储备。对于 BNB 来说，这是一次验证，这也为 BNB（以及其他加密货币）纳入其他国家的国家战略储备打开了大门。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36120\n\n吴说区块链: 吴说获悉，不丹新成立的特别行政区格勒普正念城 (GMC) 宣布将把 BTC、ETH 和 BNB 纳入该市战略储备资产，成为全球首批将数字资产纳入战略储备的特别行政区之一。GMC 目标成为南亚的香港，选址位于印不边境盖勒普镇附近，覆盖面积达 1000 平方公里，约占不丹国土面积的",
+          "link": "https://x.com/wublockchain12/status/1876994899608027248",
+          "publishedOn": "2025-01-08T14:10:31.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，币安创始人 CZ 对此前不丹格勒普正念城（GMC）建立加密货币战略储备补充表示，这不仅仅是比特币储备，更是包含 ETH 和 BNB 在内的多种加密货币储备，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876991580243906617",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://x.com/wublockchain12/status/1876991580243906617",
+          "publishedOn": "2025-01-08T13:57:20.000Z",
+          "wordCount": 6,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876989247754059795",
+          "author": "吴说区块链",
+          "description": "吴说获悉，KOL Tay 援引 Chorus One 团队成员 Kam 研究表示 Hyperliquid 存在多个单点故障，包括 API、二进制文件、管辖权和闭源代码。Hyperliquid 官推回应表示，所有验证者都是基于测试网的表现资格认证的；基金会委托计划用于支持表现优秀的验证者；任何人都可以运行一个指向任何节点的 API 服务器；将继续改善测试网的入门体验；开源很重要，项目在开发达到稳定状态时和安全情况下开源；目前至只有一个二进制文件，但即便是如 Solana 的成熟网络也有绝大多数验证者运行单一客户端。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36136",
+          "link": "https://x.com/wublockchain12/status/1876989247754059795",
+          "publishedOn": "2025-01-08T13:48:04.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，KOL Tay 援引 Chorus One 团队成员 Kam 研究表示 Hyperliquid 存在多个单点故障，包括 API、二进制文件、管辖权和闭源代码。Hyperliquid 官推回应表示...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876986113975353802",
+          "author": "吴说区块链",
+          "description": "吴说获悉，美国 12 月 ADP 就业人数 12.2 万人，预期 14 万人，前值 14.6 万人。美国至 1 月 4 日当周初请失业金人数 20.1 万人，预期 21.8 万人，前值 21.1 万人。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36134",
+          "link": "https://x.com/wublockchain12/status/1876986113975353802",
+          "publishedOn": "2025-01-08T13:35:36.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，美国 12 月 ADP 就业人数 12.2 万人，预期 14 万人，前值 14.6 万人。美国至 1 月 4 日当周初请失业金人数 20.1 万人，预期 21.8 万人，前值 21.1 万...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876982825251152205",
+          "author": "吴说区块链",
+          "description": "吴说获悉，数字资产交易所 Bullish 宣布获得了德国联邦金融监管局 (BaFin) 颁发的加密资产交易和托管许可证，使该公司能够在 MiCA 监管框架下扩大其在整个欧洲经济区的服务，但须获得监管部门的批准。tradias 是一家获得 BaFin 许可的领先加密货币和数字资产服务交易公司，现已加入 Bullish 并开始执行交易。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36135",
+          "link": "https://x.com/wublockchain12/status/1876982825251152205",
+          "publishedOn": "2025-01-08T13:22:32.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，数字资产交易所 Bullish 宣布获得了德国联邦金融监管局 (BaFin) 颁发的加密资产交易和托管许可证，使该公司能够在 MiCA 监管框架下扩大其在整个欧洲经...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876978923067920667",
+          "author": "吴说区块链",
+          "description": "以太坊 Layer 2 区块链开发团队 Movement Labs 宣布即将完成 1 亿美元 B 轮融资，估值达 30 亿美元。本轮融资由 CoinFund 和 Brevan Howard 旗下 Nova Fund 共同领投，预计 1 月底完成。投资者将获得股权和 Move 代币组合，以代币为主。此前，Movement Labs 在 2024 年 4 月完成由 Polychain Capital 领投的 3800 万美元 A 轮融资。（Fortune）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36133",
+          "link": "https://x.com/wublockchain12/status/1876978923067920667",
+          "publishedOn": "2025-01-08T13:07:02.000Z",
+          "wordCount": 6,
+          "title": "以太坊 Layer 2 区块链开发团队 Movement Labs 宣布即将完成 1 亿美元 B 轮融资，估值达 30 亿美元。本轮融资由 CoinFund 和 Brevan Howard 旗下 Nova Fund 共同...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876968067520958911",
+          "author": "吴说区块链",
+          "description": "加密数据平台 SoSoValue 宣布完成 1500 万美元融资， Hongshan、SmallSpark、Mirana Ventures 和 Safepal 领投，估值达 2 亿美元。该轮融资后，公司累计融资额近 2000 万美元。SoSoValue 致力于为散户投资者提供实时市场数据及 ETF 资金流动追踪。（Fortune）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36132",
+          "link": "https://x.com/wublockchain12/status/1876968067520958911",
+          "publishedOn": "2025-01-08T12:23:54.000Z",
+          "wordCount": 6,
+          "title": "加密数据平台 SoSoValue 宣布完成 1500 万美元融资， Hongshan、SmallSpark、Mirana Ventures 和 Safepal 领投，估值达 2 亿美元。该轮融资后，公司累计融资额近...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876964470863614183",
+          "author": "吴说区块链",
+          "description": "吴说获悉，OKX 中文官推发布警告，近期 Firefox 浏览器插件商城出现假冒 OKX Wallet 插件。OKX 官方尚未发布任何 Firefox 插件，请用户提高警惕。如已安装该恶意插件，请立即转移钱包资产，OKX 已经就此向 Firefox 官方投诉。为保障资金安全，请仅通过官方网站和官方渠道下载插件。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36131",
+          "link": "https://x.com/wublockchain12/status/1876964470863614183",
+          "publishedOn": "2025-01-08T12:09:36.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，OKX 中文官推发布警告，近期 Firefox 浏览器插件商城出现假冒 OKX Wallet 插件。OKX 官方尚未发布任何 Firefox 插件，请用户提高警惕。如已安装该恶意...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876958691708325999",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 CNN，候任总统特朗普正考虑宣布国家经济紧急状态，以便利用《国际经济紧急权力法》（IEEPA）推出新的关税计划。该法案单方面授权总统在国家紧急状态期间管理进口。消息人士告诉 CNN，尚未就是否宣布国家紧急状态做出最终决定。特朗普团队仍在探索其他合法途径来支持特朗普在竞选期间提出的关税。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36130",
+          "link": "https://x.com/wublockchain12/status/1876958691708325999",
+          "publishedOn": "2025-01-08T11:46:38.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 CNN，候任总统特朗普正考虑宣布国家经济紧急状态，以便利用《国际经济紧急权力法》（IEEPA）推出新的关税计划。该法案单方面授权总统在国家紧急状...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1876955532310761731",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Arkham 监测，疑似 Ethereum 基金会地址: 0xd7...c1f4 在本日 18:42 UTC+8 通过 Cow Protocol 将 100 ETH 出售兑换成 33.46 万美元 DAI，随后转移至其他 Ethereum 基金会地址中。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36129",
+          "link": "https://x.com/wublockchain12/status/1876955532310761731",
+          "publishedOn": "2025-01-08T11:34:05.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Arkham 监测，疑似 Ethereum 基金会地址: 0xd7...c1f4 在本日 18:42 UTC+8 通过 Cow Protocol 将 100 ETH 出售兑换成 33.46 万美元 DAI，随后转移...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
@@ -213,390 +400,6 @@
           "publishedOn": "2025-01-05T02:38:49.000Z",
           "wordCount": 6,
           "title": "过去 24 小时内，共有 50,585 个代币在 Pumpfun 上发行，607 个代币发射成功到 Raydium。",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876369707848069151",
-          "author": "DeFi Educator",
-          "description": "RT Res\nA thread on Portfolio Management, Execution, & Psychology to level up your game.\n8 mental frameworks to cut through the noise and become a sharper, more focused, and structured trader 🧵",
-          "link": "https://x.com/DeFi_educator/status/1876369707848069151",
-          "publishedOn": "2025-01-06T17:26:37.000Z",
-          "wordCount": 6,
-          "title": "RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876296396183314580",
-          "author": "DeFi Educator",
-          "description": "Re @gmgemma_ai gm gemma",
-          "link": "https://x.com/DeFi_educator/status/1876296396183314580",
-          "publishedOn": "2025-01-06T15:54:55.000Z",
-          "wordCount": 6,
-          "title": "Re @gmgemma_ai gm gemma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870954710787563897",
-          "author": "DeFi Educator",
-          "description": "Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road",
-          "link": "https://x.com/DeFi_educator/status/1870954710787563897",
-          "publishedOn": "2024-12-22T22:08:58.000Z",
-          "wordCount": 6,
-          "title": "Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870954088797454436",
-          "author": "DeFi Educator",
-          "description": "Re @GwartyGwart",
-          "link": "https://x.com/DeFi_educator/status/1870954088797454436",
-          "publishedOn": "2024-12-22T22:06:30.000Z",
-          "wordCount": 6,
-          "title": "Re @GwartyGwart",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870936152309678172",
-          "author": "DeFi Educator",
-          "description": "Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallets",
-          "link": "https://x.com/DeFi_educator/status/1870936152309678172",
-          "publishedOn": "2024-12-22T20:55:13.000Z",
-          "wordCount": 6,
-          "title": "Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallet...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1870303571515769126",
-          "author": "DeFi Educator",
-          "description": "Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity",
-          "link": "https://x.com/DeFi_educator/status/1870303571515769126",
-          "publishedOn": "2024-12-21T03:01:34.000Z",
-          "wordCount": 6,
-          "title": "Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869764227302666384",
-          "author": "DeFi Educator",
-          "description": "Re @BobLoukas",
-          "link": "https://x.com/DeFi_educator/status/1869764227302666384",
-          "publishedOn": "2024-12-19T15:18:24.000Z",
-          "wordCount": 6,
-          "title": "Re @BobLoukas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869763465973486002",
-          "author": "DeFi Educator",
-          "description": "Re @BasementRon Welcome to Crypto Ron!",
-          "link": "https://x.com/DeFi_educator/status/1869763465973486002",
-          "publishedOn": "2024-12-19T15:15:23.000Z",
-          "wordCount": 6,
-          "title": "Re @BasementRon Welcome to Crypto Ron!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869762786236215530",
-          "author": "DeFi Educator",
-          "description": "Re @BasementRon Welcome to the trenches Don",
-          "link": "https://x.com/DeFi_educator/status/1869762786236215530",
-          "publishedOn": "2024-12-19T15:12:41.000Z",
-          "wordCount": 6,
-          "title": "Re @BasementRon Welcome to the trenches Don",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869494005987492107",
-          "author": "DeFi Educator",
-          "description": "Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.",
-          "link": "https://x.com/DeFi_educator/status/1869494005987492107",
-          "publishedOn": "2024-12-18T21:24:39.000Z",
-          "wordCount": 6,
-          "title": "Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1869229664415441339",
-          "author": "DeFi Educator",
-          "description": "RT Spadez.sol {369}\nThis is actually hilarious apparently a boomer whos a gold and silver maxi heard about $Fartcoin hitting 500m Market cap and decided to create his OWN memecoin as social experiment in the crypto space named “Unicorn Fart Dust” $UFD cause that’s how he sees money in crypto as nothing but that 😂😂 it’s currently on http://pump.fun\nHe has a YouTube channel he included on his http://pump.fun page that and he streamed a live video showing exactly why he’s doing it and his view on the space from a Boomers perspective, he will be providing updates on that channel as time goes on if this actually last and what happens. I’ll link the YouTube below. He explicitly claims that his page is strictly for gold and silver but he “couldn’t resist” diving into this crypto thing. \nIt would be hilarious if this thing sends and we completely shatter his perspective on the reality of this space. Could be a great learning experience for him and a great opportunity for someone older to get introduced to a space they never really cared for. \nThis could open the door to him realizing so much more about the crypto space in general. Let’s show him silver and gold are cooool, but you need some crypto meme coins in your life brother 🤣\nDo what you want, HIGH RISK play NFA DYOR if you get in, I mean the guy told us NOT to buy. I’m throwing $25 in and calling it a night. I got in when the bonding curve was at 20% as of now it’s at 29% and fluctuating\nHere’s the link to his YouTube video/channel\nhttps://www.youtube.com/live/0kcPLRixrFE?si=dVkHnxj7DKMUdnm9\nAnd the direct link to the pump fun that I’ll leave in the comment as well. Fun play, would hilarious if we send it for the boomer 😂😂 let’s see where this goes!\nhttps://pump.fun/coin/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump\nCA: eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
-          "link": "https://x.com/DeFi_educator/status/1869229664415441339",
-          "publishedOn": "2024-12-17T22:49:17.000Z",
-          "wordCount": 6,
-          "title": "RT Spadez.sol {369}: This is actually hilarious apparently a boomer whos a gold and silver maxi heard about $Fartcoin hitting 500m Market cap and deci...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1868509415151952016",
-          "author": "DeFi Educator",
-          "description": "RT Alex Wice\nWith act 1 of this cycle done, we're now only at the START of the \"banana zone\".\nRight now, prices still seem sane. By the end of this, they will seem COMPLETELY INSANE.\nIt will be absolutely pissing money everywhere, and people will scream \"new paradigm\".\nBuckle the fuck up.",
-          "link": "https://x.com/DeFi_educator/status/1868509415151952016",
-          "publishedOn": "2024-12-16T00:44:23.000Z",
-          "wordCount": 6,
-          "title": "RT Alex Wice: With act 1 of this cycle done, we're now only at the START of the \"banana zone\". Right now, prices still seem sane. By the end of this, ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1868416518674895201",
-          "author": "DeFi Educator",
-          "description": "RT Kaduna\nBrian Jung is known for single-handedly pushing $SKI (which I don't hold) above a $300M mcap.\nHe just talked about $SIMMI, sitting at $25M mcap.\nYou know what happens next with $EMP when $SIMMI goes up.\n\n\ncobski: Oh. So THIS is why $SIMMI is popping off so hard right now!?\nWhen @thebrianjung puts his faith in something, that’s one thing.\nWhen he talks about it in his YouTube vids, that’s another.\nNew Brian Jung just dropped and it’s a must watch $SIMMI $SKI\nhttps://youtu.be/J9bus0-LWb8?si=ftX27IwC8pSmJOKP",
-          "link": "https://x.com/DeFi_educator/status/1868416518674895201",
-          "publishedOn": "2024-12-14T10:10:16.000Z",
-          "wordCount": 6,
-          "title": "RT Kaduna: Brian Jung is known for single-handedly pushing $SKI (which I don't hold) above a $300M mcap. He just talked about $SIMMI, sitting at $25M ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867724386062803184",
-          "author": "DeFi Educator",
-          "description": "Re @d_gilz",
-          "link": "https://x.com/DeFi_educator/status/1867724386062803184",
-          "publishedOn": "2024-12-14T00:12:48.000Z",
-          "wordCount": 6,
-          "title": "Re @d_gilz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867234422820687971",
-          "author": "DeFi Educator",
-          "description": "Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?",
-          "link": "https://x.com/DeFi_educator/status/1867234422820687971",
-          "publishedOn": "2024-12-12T15:45:52.000Z",
-          "wordCount": 6,
-          "title": "Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867224771597046085",
-          "author": "DeFi Educator",
-          "description": "RT aixbt\n$GRASS partners with two leading AI institutions\nreleased VALID dataset enabling cross-modal understanding between images, audio, text, video regardless of language\nindexing 6M minutes of video content daily",
-          "link": "https://x.com/DeFi_educator/status/1867224771597046085",
-          "publishedOn": "2024-12-12T03:20:41.000Z",
-          "wordCount": 6,
-          "title": "RT aixbt: $GRASS partners with two leading AI institutions released VALID dataset enabling cross-modal understanding between images, audio, text, vide...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1867601830349275645",
-          "author": "DeFi Educator",
-          "description": "RT TuxedoHash 🌹\nShall we crunch some numbers for all the non $EMP holders?\nSooo pumpdotfun last months revenue was 93m.. @EmpyrealSDK will eventually encapsulate that market. Why? Because @SimulacrumIO is a superior product. Period.\nNow take all the other revenue streams the treasury will be accumulating fees from.. Trading, swaping, tipping launching, perps, futures, OTC, betting, their AI agents.. Plus all the fees from their SDKs. Its nuts.. the list just goes on.\nIts very easy to see how much a decently sized bag of $EMP will make from rev share. Take even just 50m shared with holders and a supply of only 333k tokens. Its a no-brainer.\nBig companies will buy-in after they see a few quarters of good ROI. Look at @BananaGunBot , the ones who are currently buying and holding big bags of that are hedge funds. They see a safe and juicy return on their investment and go in hard. \nSame thing will happen with $EMP once rev share goes live and ppl see insane return on their tokens.\nI want to reiterate.. Get in before the big boys pick up on it. Small fish can make it too 🐟\nPunch your ticket. Buy and do not fade this lucrative opportunity 🫶",
-          "link": "https://x.com/DeFi_educator/status/1867601830349275645",
-          "publishedOn": "2024-12-12T01:40:45.000Z",
-          "wordCount": 6,
-          "title": "RT TuxedoHash 🌹: Shall we crunch some numbers for all the non $EMP holders? Sooo pumpdotfun last months revenue was 93m.. @EmpyrealSDK will eventua...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @Onchain Wizard",
-      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
-      "siteUrl": "https://x.com/OnChainWizard",
-      "articles": [
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1876824409878466760",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$BTC slips 5%, market sees $500mm of long liquidations.  \nDEX volumes as a % of CEX vols hits an ATH this month at 20%.  \nOnchain continues to be pretty silly with $swarms hitting $500mm and $MLG speedrunning $2-$150m \n$IO hits top 4 in DePin ARR",
-          "link": "https://x.com/OnChainWizard/status/1876824409878466760",
-          "publishedOn": "2025-01-08T02:51:00.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: $BTC slips 5%, market sees $500mm of long liquidations. DEX volumes as a % of CEX vols hits an ATH this m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1876264544731099459",
-          "author": "Onchain Wizard",
-          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\n$BTC back above $99k + 2025, the Year of AGI.  \n7d alt strength led by $SPX, $FARTCOIN, $AIOZ and $PENGU (flipped Bonk)\nSOL Trenches are feeling fully back, with recent runners in $HYPE, $HTERM and $GNZ\n$MNT strength + alpha",
-          "link": "https://x.com/OnChainWizard/status/1876264544731099459",
-          "publishedOn": "2025-01-06T13:48:21.000Z",
-          "wordCount": 6,
-          "title": ".",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1875044619052048851",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nSilly szn has begun + SOL trenches are back baby.  \nTG trading volumes have accelerated back to $300mm from the lows a week ago of $75mm.\nNew coins that smart $ likes incl $BUZZ, $SIZE, $SANDY, $ALIVE\n@0xMantle launches $UXLINK Rewards Station",
-          "link": "https://x.com/OnChainWizard/status/1875044619052048851",
-          "publishedOn": "2025-01-03T04:59:11.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: Silly szn has begun + SOL trenches are back baby. TG trading volumes have accelerated back to $300mm from...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1873262334568972630",
-          "author": "Onchain Wizard",
-          "description": "Re @Flowslikeosmo $20m ARR now, AI accelerating.    Cannot be more bullish",
-          "link": "https://x.com/OnChainWizard/status/1873262334568972630",
-          "publishedOn": "2024-12-29T06:58:38.000Z",
-          "wordCount": 6,
-          "title": "Re @Flowslikeosmo $20m ARR now, AI accelerating. Cannot be more bullish",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1873237465873740074",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$SOL finally showing some strength.   \nSOL AI coins catching a bid.    \n$ai16z hits $1.3bn, $VIRTUAL hits $3.5bn w/ Base runner follow thru\n$IO hits $20mm ARR and is accelerating",
-          "link": "https://x.com/OnChainWizard/status/1873237465873740074",
-          "publishedOn": "2024-12-29T05:19:38.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: $SOL finally showing some strength. SOL AI coins catching a bid. $ai16z hits $1.3bn, $VIRTUAL hits $3.5bn...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1871278416542290295",
-          "author": "Onchain Wizard",
-          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\n$BTC down 13% from ATHs\nAI leaders down 44% on avg from recent peaks. \nTrenches not completely dead with recent runners $lou, $snai and #TrenchAI \nTG Trading volumes back to late October levels\n@0xMantle introduces institutional grade settlement",
-          "link": "https://x.com/OnChainWizard/status/1871278416542290295",
-          "publishedOn": "2024-12-23T19:35:15.000Z",
-          "wordCount": 6,
-          "title": ".",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1870629833287565441",
-          "author": "Onchain Wizard",
-          "description": "Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo",
-          "link": "https://x.com/OnChainWizard/status/1870629833287565441",
-          "publishedOn": "2024-12-22T00:38:01.000Z",
-          "wordCount": 6,
-          "title": "Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1870190571333280251",
-          "author": "Onchain Wizard",
-          "description": "Re @hushky6 @ionet And growing by the day! 📈",
-          "link": "https://x.com/OnChainWizard/status/1870190571333280251",
-          "publishedOn": "2024-12-20T19:32:33.000Z",
-          "wordCount": 6,
-          "title": "Re @hushky6 @ionet And growing by the day! 📈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1869640233198944610",
-          "author": "Onchain Wizard",
-          "description": "Fart early, fart often, fart only\n\n\nThe Daily Edge: The Daily Edge featuring:\nFartcoin hits $1bn, $1.5trn wiped from US stocks, $700mm of crypto liquidations and largest VIX spike since 2018 thanks to JPow.  \n$UFD hits $150mm, trenches are still alive + DEX trading volumes holding up well\nChart of the day w/ @vertex_protocol",
-          "link": "https://x.com/OnChainWizard/status/1869640233198944610",
-          "publishedOn": "2024-12-19T07:05:42.000Z",
-          "wordCount": 6,
-          "title": "Fart early, fart often, fart only",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1869514912369959415",
-          "author": "Onchain Wizard",
-          "description": "Re @ionet @coinbase Now do December",
-          "link": "https://x.com/OnChainWizard/status/1869514912369959415",
-          "publishedOn": "2024-12-18T22:47:43.000Z",
-          "wordCount": 6,
-          "title": "Re @ionet @coinbase Now do December",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1869490133961220274",
-          "author": "Onchain Wizard",
-          "description": "Feeling this again\n\nOnchain Wizard: Idk man I’m really nervous ab the market topping.   Taking some risk off here and buying Fartcoin",
-          "link": "https://x.com/OnChainWizard/status/1869490133961220274",
-          "publishedOn": "2024-12-18T21:09:16.000Z",
-          "wordCount": 6,
-          "title": "Feeling this again",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1869473725189669172",
-          "author": "Onchain Wizard",
-          "description": "Crazy work.   AI infra ftw 💪\n\nio.net: Last week @ionet averaged $40k in Daily Network Earnings 🦾\nOver the weekend @ionet averaged an ATH of $55k in Daily Network Earnings 🚀",
-          "link": "https://x.com/OnChainWizard/status/1869473725189669172",
-          "publishedOn": "2024-12-18T20:04:03.000Z",
-          "wordCount": 6,
-          "title": "Crazy work. AI infra ftw 💪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1869251942494670879",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n#Fartcoin taps $900mm ATHs, has been funny since 1900 BC\n $IBIT gets biggest inflows in 2 weeks\n$HYPE stopped going up (while new users surged on 12/16) + some SOL coins still look good\n$IO partners with @0xzerebro + much more",
-          "link": "https://x.com/OnChainWizard/status/1869251942494670879",
-          "publishedOn": "2024-12-18T05:20:40.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: #Fartcoin taps $900mm ATHs, has been funny since 1900 BC $IBIT gets biggest inflows in 2 weeks $HYPE stop...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1868953062297186628",
-          "author": "Onchain Wizard",
-          "description": "Re @eli5_defi @ionet $IO understand it now 🤔",
-          "link": "https://x.com/OnChainWizard/status/1868953062297186628",
-          "publishedOn": "2024-12-17T09:35:08.000Z",
-          "wordCount": 6,
-          "title": "Re @eli5_defi @ionet $IO understand it now 🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1868878937751011847",
-          "author": "Onchain Wizard",
-          "description": "Re @b3xai Exactly",
-          "link": "https://x.com/OnChainWizard/status/1868878937751011847",
-          "publishedOn": "2024-12-17T04:40:35.000Z",
-          "wordCount": 6,
-          "title": "Re @b3xai Exactly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1868832088843338058",
-          "author": "Onchain Wizard",
-          "description": "Your memes: not funny, have only been around a day, a month or a year\nFartcoin: funny since 1900 BC",
-          "link": "https://x.com/OnChainWizard/status/1868832088843338058",
-          "publishedOn": "2024-12-17T01:34:25.000Z",
-          "wordCount": 6,
-          "title": "Your memes: not funny, have only been around a day, a month or a year Fartcoin: funny since 1900 BC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1868783432136114278",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$BTC taps $107k ATHs, $SOL trenches are cooked.  \n#VIRTUAL hits $3bn while $HYPE continues up only climb to $28 (w/ trench attention is flowing towards Hyperliquid tokens).   \n@0xMantle Rewards Station featuring 570k $EIGEN rewards 👀",
-          "link": "https://x.com/OnChainWizard/status/1868783432136114278",
-          "publishedOn": "2024-12-16T22:20:54.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: $BTC taps $107k ATHs, $SOL trenches are cooked. #VIRTUAL hits $3bn while $HYPE continues up only climb to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1867516058632122460",
-          "author": "Onchain Wizard",
-          "description": "Re @BringMeCoins Now up to $55k/day!  $IO fundamentals getting stronger every day",
-          "link": "https://x.com/OnChainWizard/status/1867516058632122460",
-          "publishedOn": "2024-12-13T10:24:59.000Z",
-          "wordCount": 6,
-          "title": "Re @BringMeCoins Now up to $55k/day! $IO fundamentals getting stronger every day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1867083341255639127",
-          "author": "Onchain Wizard",
-          "description": ".\n\n\nThe Daily Edge: The Daily Edge hit 1.5mm newsletter impressions this year w/ 48% open rates\n#ai16z taps $900mm, #Fartcoin flips Groupon\nThe trenches are accelerating, Griffain hits $230mm+, and smart $ likes newer coins: $arc, $pulsr, $hAIyez\n$IO hits fresh ATHs in daily revenue, ~$19m ARR",
-          "link": "https://x.com/OnChainWizard/status/1867083341255639127",
-          "publishedOn": "2024-12-12T05:45:31.000Z",
-          "wordCount": 6,
-          "title": ".",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1867072328292766003",
-          "author": "Onchain Wizard",
-          "description": "Re @DipWheeler",
-          "link": "https://x.com/OnChainWizard/status/1867072328292766003",
-          "publishedOn": "2024-12-12T05:01:46.000Z",
-          "wordCount": 6,
-          "title": "Re @DipWheeler",
           "imageUrl": null
         }
       ]

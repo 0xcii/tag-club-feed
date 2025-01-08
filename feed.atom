@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-08T20:17:25.904Z</id>
+    <id>urn:2025-01-08T21:14:29.741Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-08T20:17:25.904Z</updated>
+    <updated>2025-01-08T21:14:29.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana 第 2 层区块链 Sonic 和风险投资公司 Galaxy Interactive 宣布启动 G.A.M.E. 基金，专注于推动 Web3 游戏、AI 代理和社交媒体内容创作工具的发展。该基金...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877043368620077451</id>
+        <link href="https://x.com/wublockchain12/status/1877043368620077451"/>
+        <updated>2025-01-08T17:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Solana 第 2 层区块链 Sonic 和风险投资公司 Galaxy Interactive 宣布启动 G.A.M.E. 基金，专注于推动 Web3 游戏、AI 代理和社交媒体内容创作工具的发展。该基金为每个项目提供最高 100 万美元支持，并提供技术、基础设施和市场推广等服务，同时与 Sonic 的 TikTok 应用集成。基金首笔投资用于支持 Gomble Games，这是一家将传统 Web2 游戏转型为 Web3 的协议。(Cointelegraph) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36144]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 对此，以太坊开发者 @terencechain 回复道：我对 Fusaka（Pectra 过后的升级的命名） 的愿景有两个方面：全方位扩容和公正的区块构建。这引导我们关注以下三...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877030199570870389</id>
+        <link href="https://x.com/wublockchain12/status/1877030199570870389"/>
+        <updated>2025-01-08T16:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Re 对此，以太坊开发者 @terencechain 回复道：我对 Fusaka（Pectra 过后的升级的命名） 的愿景有两个方面：全方位扩容和公正的区块构建。这引导我们关注以下三个 EIPs：PeerDAS（通过数据可用性采样 DAS 实现大规模数据扩容，支持更大的交易吞吐量。实现 Blob 数据的扩容）、ePBS（实现执行层的扩容）、FOCIL（在区块构建中实现更随机的选择机制），我对我们能在一次升级中实现所有三者持乐观态度。]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Vitalik 发推表示：我们确实需要在以太坊核心开发中进行更好的优先事项排序，例如在“将 Blob 的目标数量从 3 增加到 6”和“Pectra 中的所有其他内容...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877027721425088592</id>
+        <link href="https://x.com/wublockchain12/status/1877027721425088592"/>
+        <updated>2025-01-08T16:20:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Vitalik 发推表示：我们确实需要在以太坊核心开发中进行更好的优先事项排序，例如在“将 Blob 的目标数量从 3 增加到 6”和“Pectra 中的所有其他内容”两者中选，他会优先选择第一个，即 EIP-7691：针对 blob 吞吐量的调整，计划将目标设定为 6，最大值为 9，以进一步提高 L2 的交易吞吐量，降低 L2 的交易成本。Vitalik 也表示 L1 EVM 的改进也很重要，优先级排序大概为 EOF、通过 EIP-7701 实现完全账户抽象 AA，以及通过 SIMD（单指令多数据，一种并行计算技术） 和 EVMMAX（虚拟机性能最大化） 实现的性能提升叠加适度增加 Gas 限制，同时 Vitalik 表示目前正在推进 PeerDAS，可能会探索更具雄心的版本。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36143]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir 宣布将通过去中心化稳定币 deUSD 为 Hamilton Lane SCOPE 基金持有人提供 DeFi 接入渠道。Elixir 将与 Securitize 合作，支持该基金的机构资产持有人在保...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877026973488136613</id>
+        <link href="https://x.com/wublockchain12/status/1877026973488136613"/>
+        <updated>2025-01-08T16:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Elixir 宣布将通过去中心化稳定币 deUSD 为 Hamilton Lane SCOPE 基金持有人提供 DeFi 接入渠道。Elixir 将与 Securitize 合作，支持该基金的机构资产持有人在保持独立风险敞口的同时，直接通过 deUSD 访问 DeFi。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36142]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubblemaps 宣布针对其活跃的 V2 用户的奖励计划，根据其 12 月公布的排行榜，已有 5 万用户加入其积分活动。Bubblemaps 是一个数据分析工具，旨在通过前沿的视...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877025461332578747</id>
+        <link href="https://x.com/wublockchain12/status/1877025461332578747"/>
+        <updated>2025-01-08T16:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Bubblemaps 宣布针对其活跃的 V2 用户的奖励计划，根据其 12 月公布的排行榜，已有 5 万用户加入其积分活动。Bubblemaps 是一个数据分析工具，旨在通过前沿的视觉效果替代传统的区块浏览器，让用户轻松分析复杂的模式和连接，此前曾在 2023 年完成 320 万美元融资。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36141]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bluechip 宣布完成 1M 欧元的种子轮融资，并将总部从美国迁至奥地利维也纳，以适应欧洲 MiCA 法规的发展。Bluechip 成立于 Terra/LUNA 崩盘后，专注于...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877024413008413013</id>
+        <link href="https://x.com/wublockchain12/status/1877024413008413013"/>
+        <updated>2025-01-08T16:07:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bluechip 宣布完成 1M 欧元的种子轮融资，并将总部从美国迁至奥地利维也纳，以适应欧洲 MiCA 法规的发展。Bluechip 成立于 Terra/LUNA 崩盘后，专注于开发透明的稳定币安全评级框架，并已公开相关方法供独立验证。公司此前以非盈利评级机构身份亮相于 2023 年巴黎 Stable Summit，并根据潜在投资者的反馈转为商业模式。此次还宣布与奥地利的 Raiffeisen Bank International 达成战略合作，旨在连接银行和加密领域，提供更多评级和研究服务，同时推动行业的安全与透明。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36140]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Doc: man]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1877025285012418942</id>
@@ -40,6 +100,90 @@ Evanss6: Would say there’s a 20-25% chance cycle topped]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[知识产权区块链公司 Story 宣布将利用 Stability AI 的尖端模型开创开源 AI 开发的新时代，让贡献者（创作者、开发者、艺术家）能够通过为 AI 生态系统做出贡献...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877013297364676826</id>
+        <link href="https://x.com/wublockchain12/status/1877013297364676826"/>
+        <updated>2025-01-08T15:23:37.000Z</updated>
+        <summary type="html"><![CDATA[知识产权区块链公司 Story 宣布将利用 Stability AI 的尖端模型开创开源 AI 开发的新时代，让贡献者（创作者、开发者、艺术家）能够通过为 AI 生态系统做出贡献来获取他们所创造的价值。Story 旨在利用 Stability AI 的技术解决正确归因、跟踪和货币化通过 AI 生成的创意作品这一关键挑战。Story （前身为 Story Protocol） 迄今已筹集了 1.4 亿美元，a16z 领投，Polychain 等参投。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36139]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Hyperliquid 技术解读：桥合约、HyperEVM 及潜在问题》（作者：仙壤GodRealmX）跨链桥合约：Hyperliquid 在 Arbitrum 上部署 USDC 跨链桥，使用 EIP-2612 优化...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1877010141083832818</id>
+        <link href="https://x.com/wublockchain12/status/1877010141083832818"/>
+        <updated>2025-01-08T15:11:05.000Z</updated>
+        <summary type="html"><![CDATA[《Hyperliquid 技术解读：桥合约、HyperEVM 及潜在问题》（作者：仙壤GodRealmX）跨链桥合约：Hyperliquid 在 Arbitrum 上部署 USDC 跨链桥，使用 EIP-2612 优化存款体验，提款流程设置“争议期”，由多个验证者集合负责管理。风险包括冷验证者被攻击、提款被审查或拒绝、跨链桥被恶意锁定等。HyperEVM 与双链架构：采用 HyperL1（订单簿链）与 HyperEVM（智能合约链）双链架构，结合预编译（Precompiles）和事件（Events）实现链间数据交互，可能存在非原子性问题和跨链资产延迟风险。阅读全文：
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=36138]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安创始人 CZ 对此前不丹格勒普正念城（GMC）建立加密货币战略储备补充表示，这不仅仅是比特币储备，更是包含 ETH 和 BNB 在内的多种加密货币储备，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876994899608027248</id>
+        <link href="https://x.com/wublockchain12/status/1876994899608027248"/>
+        <updated>2025-01-08T14:10:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安创始人 CZ 对此前不丹格勒普正念城（GMC）建立加密货币战略储备补充表示，这不仅仅是比特币储备，更是包含 ETH 和 BNB 在内的多种加密货币储备，我相信这是第一次，肯定也不会是最后一次。不丹王国多年来一直利用清洁（过剩水电）能源进行比特币挖矿，默认情况下，它本身就已经拥有比特币储备。对于 BNB 来说，这是一次验证，这也为 BNB（以及其他加密货币）纳入其他国家的国家战略储备打开了大门。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36120
+
+吴说区块链: 吴说获悉，不丹新成立的特别行政区格勒普正念城 (GMC) 宣布将把 BTC、ETH 和 BNB 纳入该市战略储备资产，成为全球首批将数字资产纳入战略储备的特别行政区之一。GMC 目标成为南亚的香港，选址位于印不边境盖勒普镇附近，覆盖面积达 1000 平方公里，约占不丹国土面积的]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876991580243906617</id>
+        <link href="https://x.com/wublockchain12/status/1876991580243906617"/>
+        <updated>2025-01-08T13:57:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，KOL Tay 援引 Chorus One 团队成员 Kam 研究表示 Hyperliquid 存在多个单点故障，包括 API、二进制文件、管辖权和闭源代码。Hyperliquid 官推回应表示...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876989247754059795</id>
+        <link href="https://x.com/wublockchain12/status/1876989247754059795"/>
+        <updated>2025-01-08T13:48:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，KOL Tay 援引 Chorus One 团队成员 Kam 研究表示 Hyperliquid 存在多个单点故障，包括 API、二进制文件、管辖权和闭源代码。Hyperliquid 官推回应表示，所有验证者都是基于测试网的表现资格认证的；基金会委托计划用于支持表现优秀的验证者；任何人都可以运行一个指向任何节点的 API 服务器；将继续改善测试网的入门体验；开源很重要，项目在开发达到稳定状态时和安全情况下开源；目前至只有一个二进制文件，但即便是如 Solana 的成熟网络也有绝大多数验证者运行单一客户端。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36136]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国 12 月 ADP 就业人数 12.2 万人，预期 14 万人，前值 14.6 万人。美国至 1 月 4 日当周初请失业金人数 20.1 万人，预期 21.8 万人，前值 21.1 万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876986113975353802</id>
+        <link href="https://x.com/wublockchain12/status/1876986113975353802"/>
+        <updated>2025-01-08T13:35:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国 12 月 ADP 就业人数 12.2 万人，预期 14 万人，前值 14.6 万人。美国至 1 月 4 日当周初请失业金人数 20.1 万人，预期 21.8 万人，前值 21.1 万人。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36134]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，数字资产交易所 Bullish 宣布获得了德国联邦金融监管局 (BaFin) 颁发的加密资产交易和托管许可证，使该公司能够在 MiCA 监管框架下扩大其在整个欧洲经...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876982825251152205</id>
+        <link href="https://x.com/wublockchain12/status/1876982825251152205"/>
+        <updated>2025-01-08T13:22:32.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，数字资产交易所 Bullish 宣布获得了德国联邦金融监管局 (BaFin) 颁发的加密资产交易和托管许可证，使该公司能够在 MiCA 监管框架下扩大其在整个欧洲经济区的服务，但须获得监管部门的批准。tradias 是一家获得 BaFin 许可的领先加密货币和数字资产服务交易公司，现已加入 Bullish 并开始执行交易。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36135]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊 Layer 2 区块链开发团队 Movement Labs 宣布即将完成 1 亿美元 B 轮融资，估值达 30 亿美元。本轮融资由 CoinFund 和 Brevan Howard 旗下 Nova Fund 共同...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876978923067920667</id>
+        <link href="https://x.com/wublockchain12/status/1876978923067920667"/>
+        <updated>2025-01-08T13:07:02.000Z</updated>
+        <summary type="html"><![CDATA[以太坊 Layer 2 区块链开发团队 Movement Labs 宣布即将完成 1 亿美元 B 轮融资，估值达 30 亿美元。本轮融资由 CoinFund 和 Brevan Howard 旗下 Nova Fund 共同领投，预计 1 月底完成。投资者将获得股权和 Move 代币组合，以代币为主。此前，Movement Labs 在 2024 年 4 月完成由 Polychain Capital 领投的 3800 万美元 A 轮融资。（Fortune）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36133]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @CavanXy how u think this correction ends? Fed ends QT?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1876972328455692536</id>
         <link href="https://x.com/DeFiSurfer808/status/1876972328455692536"/>
@@ -47,6 +191,46 @@ Evanss6: Would say there’s a 20-25% chance cycle topped]]></summary>
         <summary type="html"><![CDATA[Re @CavanXy how u think this correction ends? Fed ends QT?]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密数据平台 SoSoValue 宣布完成 1500 万美元融资， Hongshan、SmallSpark、Mirana Ventures 和 Safepal 领投，估值达 2 亿美元。该轮融资后，公司累计融资额近...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876968067520958911</id>
+        <link href="https://x.com/wublockchain12/status/1876968067520958911"/>
+        <updated>2025-01-08T12:23:54.000Z</updated>
+        <summary type="html"><![CDATA[加密数据平台 SoSoValue 宣布完成 1500 万美元融资， Hongshan、SmallSpark、Mirana Ventures 和 Safepal 领投，估值达 2 亿美元。该轮融资后，公司累计融资额近 2000 万美元。SoSoValue 致力于为散户投资者提供实时市场数据及 ETF 资金流动追踪。（Fortune）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36132]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，OKX 中文官推发布警告，近期 Firefox 浏览器插件商城出现假冒 OKX Wallet 插件。OKX 官方尚未发布任何 Firefox 插件，请用户提高警惕。如已安装该恶意...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876964470863614183</id>
+        <link href="https://x.com/wublockchain12/status/1876964470863614183"/>
+        <updated>2025-01-08T12:09:36.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX 中文官推发布警告，近期 Firefox 浏览器插件商城出现假冒 OKX Wallet 插件。OKX 官方尚未发布任何 Firefox 插件，请用户提高警惕。如已安装该恶意插件，请立即转移钱包资产，OKX 已经就此向 Firefox 官方投诉。为保障资金安全，请仅通过官方网站和官方渠道下载插件。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36131]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CNN，候任总统特朗普正考虑宣布国家经济紧急状态，以便利用《国际经济紧急权力法》（IEEPA）推出新的关税计划。该法案单方面授权总统在国家紧急状...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876958691708325999</id>
+        <link href="https://x.com/wublockchain12/status/1876958691708325999"/>
+        <updated>2025-01-08T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CNN，候任总统特朗普正考虑宣布国家经济紧急状态，以便利用《国际经济紧急权力法》（IEEPA）推出新的关税计划。该法案单方面授权总统在国家紧急状态期间管理进口。消息人士告诉 CNN，尚未就是否宣布国家紧急状态做出最终决定。特朗普团队仍在探索其他合法途径来支持特朗普在竞选期间提出的关税。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36130]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 监测，疑似 Ethereum 基金会地址: 0xd7...c1f4 在本日 18:42 UTC+8 通过 Cow Protocol 将 100 ETH 出售兑换成 33.46 万美元 DAI，随后转移...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1876955532310761731</id>
+        <link href="https://x.com/wublockchain12/status/1876955532310761731"/>
+        <updated>2025-01-08T11:34:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 监测，疑似 Ethereum 基金会地址: 0xd7...c1f4 在本日 18:42 UTC+8 通过 Cow Protocol 将 100 ETH 出售兑换成 33.46 万美元 DAI，随后转移至其他 Ethereum 基金会地址中。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36129]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -133,21 +317,6 @@ And QE has still not started (thanks JP)]]></summary>
 创始人可能都没你有钱。]]></summary>
         <author>
             <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC slips 5%, market sees $500mm of long liquidations. DEX volumes as a % of CEX vols hits an ATH this m...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1876824409878466760</id>
-        <link href="https://x.com/OnChainWizard/status/1876824409878466760"/>
-        <updated>2025-01-08T02:51:00.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC slips 5%, market sees $500mm of long liquidations.  
-DEX volumes as a % of CEX vols hits an ATH this month at 20%.  
-Onchain continues to be pretty silly with $swarms hitting $500mm and $MLG speedrunning $2-$150m 
-$IO hits top 4 in DePin ARR]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -415,28 +584,6 @@ Dozens more examples of this.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1876369707848069151</id>
-        <link href="https://x.com/DeFi_educator/status/1876369707848069151"/>
-        <updated>2025-01-06T17:26:37.000Z</updated>
-        <summary type="html"><![CDATA[RT Res
-A thread on Portfolio Management, Execution, & Psychology to level up your game.
-8 mental frameworks to cut through the noise and become a sharper, more focused, and structured trader 🧵]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @gmgemma_ai gm gemma]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1876296396183314580</id>
-        <link href="https://x.com/DeFi_educator/status/1876296396183314580"/>
-        <updated>2025-01-06T15:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @gmgemma_ai gm gemma]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ColdBloodShill Nice work bruh]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1876294170505294170</id>
         <link href="https://x.com/DeFiSurfer808/status/1876294170505294170"/>
@@ -461,23 +608,6 @@ If we close back below 104 as momentum breaks back below that trendline that wou
 Obviously if we just hold above 104 / momentum doesn’t]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1876264544731099459</id>
-        <link href="https://x.com/OnChainWizard/status/1876264544731099459"/>
-        <updated>2025-01-06T13:48:21.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge featuring:
-$BTC back above $99k + 2025, the Year of AGI.  
-7d alt strength led by $SPX, $FARTCOIN, $AIOZ and $PENGU (flipped Bonk)
-SOL Trenches are feeling fully back, with recent runners in $HYPE, $HTERM and $GNZ
-$MNT strength + alpha]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -588,416 +718,6 @@ As mentioned, we will keep the creation/training free for the time being. This w
         <summary type="html"><![CDATA[过去 24 小时内，共有 50,585 个代币在 Pumpfun 上发行，607 个代币发射成功到 Raydium。]]></summary>
         <author>
             <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Silly szn has begun + SOL trenches are back baby. TG trading volumes have accelerated back to $300mm from...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1875044619052048851</id>
-        <link href="https://x.com/OnChainWizard/status/1875044619052048851"/>
-        <updated>2025-01-03T04:59:11.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-Silly szn has begun + SOL trenches are back baby.  
-TG trading volumes have accelerated back to $300mm from the lows a week ago of $75mm.
-New coins that smart $ likes incl $BUZZ, $SIZE, $SANDY, $ALIVE
-@0xMantle launches $UXLINK Rewards Station]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Flowslikeosmo $20m ARR now, AI accelerating. Cannot be more bullish]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1873262334568972630</id>
-        <link href="https://x.com/OnChainWizard/status/1873262334568972630"/>
-        <updated>2024-12-29T06:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @Flowslikeosmo $20m ARR now, AI accelerating.    Cannot be more bullish]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $SOL finally showing some strength. SOL AI coins catching a bid. $ai16z hits $1.3bn, $VIRTUAL hits $3.5bn...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1873237465873740074</id>
-        <link href="https://x.com/OnChainWizard/status/1873237465873740074"/>
-        <updated>2024-12-29T05:19:38.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$SOL finally showing some strength.   
-SOL AI coins catching a bid.    
-$ai16z hits $1.3bn, $VIRTUAL hits $3.5bn w/ Base runner follow thru
-$IO hits $20mm ARR and is accelerating]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1871278416542290295</id>
-        <link href="https://x.com/OnChainWizard/status/1871278416542290295"/>
-        <updated>2024-12-23T19:35:15.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge featuring:
-$BTC down 13% from ATHs
-AI leaders down 44% on avg from recent peaks. 
-Trenches not completely dead with recent runners $lou, $snai and #TrenchAI 
-TG Trading volumes back to late October levels
-@0xMantle introduces institutional grade settlement]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1870954710787563897</id>
-        <link href="https://x.com/DeFi_educator/status/1870954710787563897"/>
-        <updated>2024-12-22T22:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @Udon4Life @rektdiomedes Yes sir, Down Under along the great ocean road]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GwartyGwart]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1870954088797454436</id>
-        <link href="https://x.com/DeFi_educator/status/1870954088797454436"/>
-        <updated>2024-12-22T22:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @GwartyGwart]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallet...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1870936152309678172</id>
-        <link href="https://x.com/DeFi_educator/status/1870936152309678172"/>
-        <updated>2024-12-22T20:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @danielesesta @HeyAnonai Sell all wallets across multiple chains, so people can risk off immediately without having to do through individual wallets]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1870629833287565441</id>
-        <link href="https://x.com/OnChainWizard/status/1870629833287565441"/>
-        <updated>2024-12-22T00:38:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1870303571515769126</id>
-        <link href="https://x.com/DeFi_educator/status/1870303571515769126"/>
-        <updated>2024-12-21T03:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hushky6 @ionet And growing by the day! 📈]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1870190571333280251</id>
-        <link href="https://x.com/OnChainWizard/status/1870190571333280251"/>
-        <updated>2024-12-20T19:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @hushky6 @ionet And growing by the day! 📈]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BobLoukas]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1869764227302666384</id>
-        <link href="https://x.com/DeFi_educator/status/1869764227302666384"/>
-        <updated>2024-12-19T15:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @BobLoukas]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BasementRon Welcome to Crypto Ron!]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1869763465973486002</id>
-        <link href="https://x.com/DeFi_educator/status/1869763465973486002"/>
-        <updated>2024-12-19T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @BasementRon Welcome to Crypto Ron!]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BasementRon Welcome to the trenches Don]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1869762786236215530</id>
-        <link href="https://x.com/DeFi_educator/status/1869762786236215530"/>
-        <updated>2024-12-19T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @BasementRon Welcome to the trenches Don]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fart early, fart often, fart only]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869640233198944610</id>
-        <link href="https://x.com/OnChainWizard/status/1869640233198944610"/>
-        <updated>2024-12-19T07:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Fart early, fart often, fart only
-
-
-The Daily Edge: The Daily Edge featuring:
-Fartcoin hits $1bn, $1.5trn wiped from US stocks, $700mm of crypto liquidations and largest VIX spike since 2018 thanks to JPow.  
-$UFD hits $150mm, trenches are still alive + DEX trading volumes holding up well
-Chart of the day w/ @vertex_protocol]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ionet @coinbase Now do December]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869514912369959415</id>
-        <link href="https://x.com/OnChainWizard/status/1869514912369959415"/>
-        <updated>2024-12-18T22:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @ionet @coinbase Now do December]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1869494005987492107</id>
-        <link href="https://x.com/DeFi_educator/status/1869494005987492107"/>
-        <updated>2024-12-18T21:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling this again]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869490133961220274</id>
-        <link href="https://x.com/OnChainWizard/status/1869490133961220274"/>
-        <updated>2024-12-18T21:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Feeling this again
-
-Onchain Wizard: Idk man I’m really nervous ab the market topping.   Taking some risk off here and buying Fartcoin]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crazy work. AI infra ftw 💪]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869473725189669172</id>
-        <link href="https://x.com/OnChainWizard/status/1869473725189669172"/>
-        <updated>2024-12-18T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Crazy work.   AI infra ftw 💪
-
-io.net: Last week @ionet averaged $40k in Daily Network Earnings 🦾
-Over the weekend @ionet averaged an ATH of $55k in Daily Network Earnings 🚀]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: #Fartcoin taps $900mm ATHs, has been funny since 1900 BC $IBIT gets biggest inflows in 2 weeks $HYPE stop...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869251942494670879</id>
-        <link href="https://x.com/OnChainWizard/status/1869251942494670879"/>
-        <updated>2024-12-18T05:20:40.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-#Fartcoin taps $900mm ATHs, has been funny since 1900 BC
- $IBIT gets biggest inflows in 2 weeks
-$HYPE stopped going up (while new users surged on 12/16) + some SOL coins still look good
-$IO partners with @0xzerebro + much more]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Spadez.sol {369}: This is actually hilarious apparently a boomer whos a gold and silver maxi heard about $Fartcoin hitting 500m Market cap and deci...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1869229664415441339</id>
-        <link href="https://x.com/DeFi_educator/status/1869229664415441339"/>
-        <updated>2024-12-17T22:49:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Spadez.sol {369}
-This is actually hilarious apparently a boomer whos a gold and silver maxi heard about $Fartcoin hitting 500m Market cap and decided to create his OWN memecoin as social experiment in the crypto space named “Unicorn Fart Dust” $UFD cause that’s how he sees money in crypto as nothing but that 😂😂 it’s currently on http://pump.fun
-He has a YouTube channel he included on his http://pump.fun page that and he streamed a live video showing exactly why he’s doing it and his view on the space from a Boomers perspective, he will be providing updates on that channel as time goes on if this actually last and what happens. I’ll link the YouTube below. He explicitly claims that his page is strictly for gold and silver but he “couldn’t resist” diving into this crypto thing. 
-It would be hilarious if this thing sends and we completely shatter his perspective on the reality of this space. Could be a great learning experience for him and a great opportunity for someone older to get introduced to a space they never really cared for. 
-This could open the door to him realizing so much more about the crypto space in general. Let’s show him silver and gold are cooool, but you need some crypto meme coins in your life brother 🤣
-Do what you want, HIGH RISK play NFA DYOR if you get in, I mean the guy told us NOT to buy. I’m throwing $25 in and calling it a night. I got in when the bonding curve was at 20% as of now it’s at 29% and fluctuating
-Here’s the link to his YouTube video/channel
-https://www.youtube.com/live/0kcPLRixrFE?si=dVkHnxj7DKMUdnm9
-And the direct link to the pump fun that I’ll leave in the comment as well. Fun play, would hilarious if we send it for the boomer 😂😂 let’s see where this goes!
-https://pump.fun/coin/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump
-CA: eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eli5_defi @ionet $IO understand it now 🤔]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868953062297186628</id>
-        <link href="https://x.com/OnChainWizard/status/1868953062297186628"/>
-        <updated>2024-12-17T09:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @eli5_defi @ionet $IO understand it now 🤔]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @b3xai Exactly]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868878937751011847</id>
-        <link href="https://x.com/OnChainWizard/status/1868878937751011847"/>
-        <updated>2024-12-17T04:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @b3xai Exactly]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your memes: not funny, have only been around a day, a month or a year Fartcoin: funny since 1900 BC]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868832088843338058</id>
-        <link href="https://x.com/OnChainWizard/status/1868832088843338058"/>
-        <updated>2024-12-17T01:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Your memes: not funny, have only been around a day, a month or a year
-Fartcoin: funny since 1900 BC]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC taps $107k ATHs, $SOL trenches are cooked. #VIRTUAL hits $3bn while $HYPE continues up only climb to...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868783432136114278</id>
-        <link href="https://x.com/OnChainWizard/status/1868783432136114278"/>
-        <updated>2024-12-16T22:20:54.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC taps $107k ATHs, $SOL trenches are cooked.  
-#VIRTUAL hits $3bn while $HYPE continues up only climb to $28 (w/ trench attention is flowing towards Hyperliquid tokens).   
-@0xMantle Rewards Station featuring 570k $EIGEN rewards 👀]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alex Wice: With act 1 of this cycle done, we're now only at the START of the "banana zone". Right now, prices still seem sane. By the end of this, ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1868509415151952016</id>
-        <link href="https://x.com/DeFi_educator/status/1868509415151952016"/>
-        <updated>2024-12-16T00:44:23.000Z</updated>
-        <summary type="html"><![CDATA[RT Alex Wice
-With act 1 of this cycle done, we're now only at the START of the "banana zone".
-Right now, prices still seem sane. By the end of this, they will seem COMPLETELY INSANE.
-It will be absolutely pissing money everywhere, and people will scream "new paradigm".
-Buckle the fuck up.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Kaduna: Brian Jung is known for single-handedly pushing $SKI (which I don't hold) above a $300M mcap. He just talked about $SIMMI, sitting at $25M ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1868416518674895201</id>
-        <link href="https://x.com/DeFi_educator/status/1868416518674895201"/>
-        <updated>2024-12-14T10:10:16.000Z</updated>
-        <summary type="html"><![CDATA[RT Kaduna
-Brian Jung is known for single-handedly pushing $SKI (which I don't hold) above a $300M mcap.
-He just talked about $SIMMI, sitting at $25M mcap.
-You know what happens next with $EMP when $SIMMI goes up.
-
-
-cobski: Oh. So THIS is why $SIMMI is popping off so hard right now!?
-When @thebrianjung puts his faith in something, that’s one thing.
-When he talks about it in his YouTube vids, that’s another.
-New Brian Jung just dropped and it’s a must watch $SIMMI $SKI
-https://youtu.be/J9bus0-LWb8?si=ftX27IwC8pSmJOKP]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @d_gilz]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1867724386062803184</id>
-        <link href="https://x.com/DeFi_educator/status/1867724386062803184"/>
-        <updated>2024-12-14T00:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @d_gilz]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BringMeCoins Now up to $55k/day! $IO fundamentals getting stronger every day]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1867516058632122460</id>
-        <link href="https://x.com/OnChainWizard/status/1867516058632122460"/>
-        <updated>2024-12-13T10:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @BringMeCoins Now up to $55k/day!  $IO fundamentals getting stronger every day]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1867234422820687971</id>
-        <link href="https://x.com/DeFi_educator/status/1867234422820687971"/>
-        <updated>2024-12-12T15:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @br0kegenius Could it be the first nsfw ai agent that’s not launched yet?]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1867083341255639127</id>
-        <link href="https://x.com/OnChainWizard/status/1867083341255639127"/>
-        <updated>2024-12-12T05:45:31.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge hit 1.5mm newsletter impressions this year w/ 48% open rates
-#ai16z taps $900mm, #Fartcoin flips Groupon
-The trenches are accelerating, Griffain hits $230mm+, and smart $ likes newer coins: $arc, $pulsr, $hAIyez
-$IO hits fresh ATHs in daily revenue, ~$19m ARR]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DipWheeler]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1867072328292766003</id>
-        <link href="https://x.com/OnChainWizard/status/1867072328292766003"/>
-        <updated>2024-12-12T05:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @DipWheeler]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT aixbt: $GRASS partners with two leading AI institutions released VALID dataset enabling cross-modal understanding between images, audio, text, vide...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1867224771597046085</id>
-        <link href="https://x.com/DeFi_educator/status/1867224771597046085"/>
-        <updated>2024-12-12T03:20:41.000Z</updated>
-        <summary type="html"><![CDATA[RT aixbt
-$GRASS partners with two leading AI institutions
-released VALID dataset enabling cross-modal understanding between images, audio, text, video regardless of language
-indexing 6M minutes of video content daily]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT TuxedoHash 🌹: Shall we crunch some numbers for all the non $EMP holders? Sooo pumpdotfun last months revenue was 93m.. @EmpyrealSDK will eventua...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1867601830349275645</id>
-        <link href="https://x.com/DeFi_educator/status/1867601830349275645"/>
-        <updated>2024-12-12T01:40:45.000Z</updated>
-        <summary type="html"><![CDATA[RT TuxedoHash 🌹
-Shall we crunch some numbers for all the non $EMP holders?
-Sooo pumpdotfun last months revenue was 93m.. @EmpyrealSDK will eventually encapsulate that market. Why? Because @SimulacrumIO is a superior product. Period.
-Now take all the other revenue streams the treasury will be accumulating fees from.. Trading, swaping, tipping launching, perps, futures, OTC, betting, their AI agents.. Plus all the fees from their SDKs. Its nuts.. the list just goes on.
-Its very easy to see how much a decently sized bag of $EMP will make from rev share. Take even just 50m shared with holders and a supply of only 333k tokens. Its a no-brainer.
-Big companies will buy-in after they see a few quarters of good ROI. Look at @BananaGunBot , the ones who are currently buying and holding big bags of that are hedge funds. They see a safe and juicy return on their investment and go in hard. 
-Same thing will happen with $EMP once rev share goes live and ppl see insane return on their tokens.
-I want to reiterate.. Get in before the big boys pick up on it. Small fish can make it too 🐟
-Punch your ticket. Buy and do not fade this lucrative opportunity 🫶]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
