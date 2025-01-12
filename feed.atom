@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-12T16:17:44.046Z</id>
+    <id>urn:2025-01-12T17:12:33.657Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-12T16:17:44.046Z</updated>
+    <updated>2025-01-12T17:12:33.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -685,21 +685,6 @@ The flow of the course:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC slips 5%, market sees $500mm of long liquidations. DEX volumes as a % of CEX vols hits an ATH this m...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1876824409878466760</id>
-        <link href="https://x.com/OnChainWizard/status/1876824409878466760"/>
-        <updated>2025-01-08T02:51:00.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC slips 5%, market sees $500mm of long liquidations.  
-DEX volumes as a % of CEX vols hits an ATH this month at 20%.  
-Onchain continues to be pretty silly with $swarms hitting $500mm and $MLG speedrunning $2-$150m 
-$IO hits top 4 in DePin ARR]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1876369707848069151</id>
         <link href="https://x.com/DeFi_educator/status/1876369707848069151"/>
@@ -719,81 +704,6 @@ A thread on Portfolio Management, Execution, & Psychology to level up your game.
         <summary type="html"><![CDATA[Re @gmgemma_ai gm gemma]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1876264544731099459</id>
-        <link href="https://x.com/OnChainWizard/status/1876264544731099459"/>
-        <updated>2025-01-06T13:48:21.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge featuring:
-$BTC back above $99k + 2025, the Year of AGI.  
-7d alt strength led by $SPX, $FARTCOIN, $AIOZ and $PENGU (flipped Bonk)
-SOL Trenches are feeling fully back, with recent runners in $HYPE, $HTERM and $GNZ
-$MNT strength + alpha]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Silly szn has begun + SOL trenches are back baby. TG trading volumes have accelerated back to $300mm from...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1875044619052048851</id>
-        <link href="https://x.com/OnChainWizard/status/1875044619052048851"/>
-        <updated>2025-01-03T04:59:11.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-Silly szn has begun + SOL trenches are back baby.  
-TG trading volumes have accelerated back to $300mm from the lows a week ago of $75mm.
-New coins that smart $ likes incl $BUZZ, $SIZE, $SANDY, $ALIVE
-@0xMantle launches $UXLINK Rewards Station]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Flowslikeosmo $20m ARR now, AI accelerating. Cannot be more bullish]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1873262334568972630</id>
-        <link href="https://x.com/OnChainWizard/status/1873262334568972630"/>
-        <updated>2024-12-29T06:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @Flowslikeosmo $20m ARR now, AI accelerating.    Cannot be more bullish]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $SOL finally showing some strength. SOL AI coins catching a bid. $ai16z hits $1.3bn, $VIRTUAL hits $3.5bn...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1873237465873740074</id>
-        <link href="https://x.com/OnChainWizard/status/1873237465873740074"/>
-        <updated>2024-12-29T05:19:38.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$SOL finally showing some strength.   
-SOL AI coins catching a bid.    
-$ai16z hits $1.3bn, $VIRTUAL hits $3.5bn w/ Base runner follow thru
-$IO hits $20mm ARR and is accelerating]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1871278416542290295</id>
-        <link href="https://x.com/OnChainWizard/status/1871278416542290295"/>
-        <updated>2024-12-23T19:35:15.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge featuring:
-$BTC down 13% from ATHs
-AI leaders down 44% on avg from recent peaks. 
-Trenches not completely dead with recent runners $lou, $snai and #TrenchAI 
-TG Trading volumes back to late October levels
-@0xMantle introduces institutional grade settlement]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -827,16 +737,6 @@ TG Trading volumes back to late October levels
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1870629833287565441</id>
-        <link href="https://x.com/OnChainWizard/status/1870629833287565441"/>
-        <updated>2024-12-22T00:38:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity]]></title>
         <id>https://twitter.com/DeFi_educator/status/1870303571515769126</id>
         <link href="https://x.com/DeFi_educator/status/1870303571515769126"/>
@@ -844,16 +744,6 @@ TG Trading volumes back to late October levels
         <summary type="html"><![CDATA[Re @0xkyle__ what if the fundamental value is actually a straight line at y=0 on most of these, and all that changes is momentum/attention/liquidity]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hushky6 @ionet And growing by the day! 📈]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1870190571333280251</id>
-        <link href="https://x.com/OnChainWizard/status/1870190571333280251"/>
-        <updated>2024-12-20T19:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @hushky6 @ionet And growing by the day! 📈]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -887,32 +777,6 @@ TG Trading volumes back to late October levels
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fart early, fart often, fart only]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869640233198944610</id>
-        <link href="https://x.com/OnChainWizard/status/1869640233198944610"/>
-        <updated>2024-12-19T07:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Fart early, fart often, fart only
-
-
-The Daily Edge: The Daily Edge featuring:
-Fartcoin hits $1bn, $1.5trn wiped from US stocks, $700mm of crypto liquidations and largest VIX spike since 2018 thanks to JPow.  
-$UFD hits $150mm, trenches are still alive + DEX trading volumes holding up well
-Chart of the day w/ @vertex_protocol]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ionet @coinbase Now do December]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869514912369959415</id>
-        <link href="https://x.com/OnChainWizard/status/1869514912369959415"/>
-        <updated>2024-12-18T22:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @ionet @coinbase Now do December]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.]]></title>
         <id>https://twitter.com/DeFi_educator/status/1869494005987492107</id>
         <link href="https://x.com/DeFi_educator/status/1869494005987492107"/>
@@ -920,46 +784,6 @@ Chart of the day w/ @vertex_protocol]]></summary>
         <summary type="html"><![CDATA[Re @HeyAnonai Congratulations to all the bots that bought within 1 sec finality of the new sonic chain.]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling this again]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869490133961220274</id>
-        <link href="https://x.com/OnChainWizard/status/1869490133961220274"/>
-        <updated>2024-12-18T21:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Feeling this again
-
-Onchain Wizard: Idk man I’m really nervous ab the market topping.   Taking some risk off here and buying Fartcoin]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crazy work. AI infra ftw 💪]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869473725189669172</id>
-        <link href="https://x.com/OnChainWizard/status/1869473725189669172"/>
-        <updated>2024-12-18T20:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Crazy work.   AI infra ftw 💪
-
-io.net: Last week @ionet averaged $40k in Daily Network Earnings 🦾
-Over the weekend @ionet averaged an ATH of $55k in Daily Network Earnings 🚀]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: #Fartcoin taps $900mm ATHs, has been funny since 1900 BC $IBIT gets biggest inflows in 2 weeks $HYPE stop...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1869251942494670879</id>
-        <link href="https://x.com/OnChainWizard/status/1869251942494670879"/>
-        <updated>2024-12-18T05:20:40.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-#Fartcoin taps $900mm ATHs, has been funny since 1900 BC
- $IBIT gets biggest inflows in 2 weeks
-$HYPE stopped going up (while new users surged on 12/16) + some SOL coins still look good
-$IO partners with @0xzerebro + much more]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -980,51 +804,6 @@ https://pump.fun/coin/eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump
 CA: eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eli5_defi @ionet $IO understand it now 🤔]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868953062297186628</id>
-        <link href="https://x.com/OnChainWizard/status/1868953062297186628"/>
-        <updated>2024-12-17T09:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @eli5_defi @ionet $IO understand it now 🤔]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @b3xai Exactly]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868878937751011847</id>
-        <link href="https://x.com/OnChainWizard/status/1868878937751011847"/>
-        <updated>2024-12-17T04:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @b3xai Exactly]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your memes: not funny, have only been around a day, a month or a year Fartcoin: funny since 1900 BC]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868832088843338058</id>
-        <link href="https://x.com/OnChainWizard/status/1868832088843338058"/>
-        <updated>2024-12-17T01:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Your memes: not funny, have only been around a day, a month or a year
-Fartcoin: funny since 1900 BC]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC taps $107k ATHs, $SOL trenches are cooked. #VIRTUAL hits $3bn while $HYPE continues up only climb to...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1868783432136114278</id>
-        <link href="https://x.com/OnChainWizard/status/1868783432136114278"/>
-        <updated>2024-12-16T22:20:54.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC taps $107k ATHs, $SOL trenches are cooked.  
-#VIRTUAL hits $3bn while $HYPE continues up only climb to $28 (w/ trench attention is flowing towards Hyperliquid tokens).   
-@0xMantle Rewards Station featuring 570k $EIGEN rewards 👀]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
