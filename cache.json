@@ -1,217 +1,26 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://x.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881268168355967197",
-          "author": "吴说区块链",
-          "description": "Orbiter 宣布将于特朗普就职演讲日 TGE 并宣布赞助特朗普大选，第一笔捐款已通过 Orbiter OmniChain 互操作协议至 Trump WLFI 智能合约，并承诺将在特朗普当选期间持续捐款。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36684",
-          "link": "https://x.com/wublockchain12/status/1881268168355967197",
-          "publishedOn": "2025-01-20T09:10:58.000Z",
-          "wordCount": 6,
-          "title": "Orbiter 宣布将于特朗普就职演讲日 TGE 并宣布赞助特朗普大选，第一笔捐款已通过 Orbiter OmniChain 互操作协议至 Trump WLFI 智能合约，并承诺将在特朗普当选期...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881252792456900695",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 EmberCN 监测，一个地址在 MELANIA 上获得了 5957 万美元的收益 (87 倍)。他在 MELANIA 布署的第二分钟就使用 2,500 SOL ($0.68M) 购买了 520.3 万枚 MELANIA，购买价格仅 0.13 美元；然后 MELANIA 急剧上涨，他开始陆续出售。目前已经出售了 270.3 万枚 MELANIA 换得资金 3040 万美元，出售均价 11.25 美元；他现在仍持有 250 万枚的 MELANIA，价值 2985 万美元。他在 MELANIA 上的收益 (已实现+未实现) 已经高达 5957 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36683",
-          "link": "https://x.com/wublockchain12/status/1881252792456900695",
-          "publishedOn": "2025-01-20T08:09:52.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据 EmberCN 监测，一个地址在 MELANIA 上获得了 5957 万美元的收益 (87 倍)。他在 MELANIA 布署的第二分钟就使用 2,500 SOL ($0.68M) 购买了 520.3 万...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881249654249242916",
-          "author": "吴说区块链",
-          "description": "Re Bybit 已上线 MELANIAUSDT 永续合约，杠杆最高可达 50 倍。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36680",
-          "link": "https://x.com/wublockchain12/status/1881249654249242916",
-          "publishedOn": "2025-01-20T07:57:24.000Z",
-          "wordCount": 6,
-          "title": "Re Bybit 已上线 MELANIAUSDT 永续合约，杠杆最高可达 50 倍。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36680",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881247637262975176",
-          "author": "吴说区块链",
-          "description": "GMGN Haze 建议“链上大热币能快人一步买入”：关掉防夹功能，因为都堵在这个节点中；小额多笔买入，滑点调高到 20%，控制每笔被夹的风险；如果还是失败和 VPN 有关，切日本、台湾、美国的节点；GAS 拉高。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36682",
-          "link": "https://x.com/wublockchain12/status/1881247637262975176",
-          "publishedOn": "2025-01-20T07:49:23.000Z",
-          "wordCount": 6,
-          "title": "GMGN Haze 建议“链上大热币能快人一步买入”：关掉防夹功能，因为都堵在这个节点中；小额多笔买入，滑点调高到 20%，控制每笔被夹的风险；如果还是失败和 VPN ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881234816131289472",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安合约将于 2025-01-20 09:30（UTC）上线 MELANIAUSDT 永续合约，最高杠杆 25 倍。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36680",
-          "link": "https://x.com/wublockchain12/status/1881234816131289472",
-          "publishedOn": "2025-01-20T06:58:26.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，币安合约将于 2025-01-20 09:30（UTC）上线 MELANIAUSDT 永续合约，最高杠杆 25 倍。https://www.wublock123.com/index.php?m=content&c=index&a=show...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881228746159730868",
-          "author": "吴说区块链",
-          "description": "美国联邦存款保险公司（FDIC）在一桩 Coinbase 支持的《信息自由法》（FOIA）诉讼案中，被指控遗漏了向银行发送的多封加密货币相关“暂停函”。 History Associates 在 1 月 17 日提交给华盛顿特区联邦法院的报告中指出，FDIC“可能遗漏了其他暂停函”，并计划在其诉讼中提出新的指控。有公众举报称，FDIC“系统性阻挠 FOIA 请求”，导致至少 150 份相关文件未交出。FDIC 在其 1 月 17 日的情况报告中称，该公司已遵守 FOIA 的要求，提交了所有相关文件，并对 2022 年 3 月至 2023 年 5 月期间与监察长办公室共享的信件进行了必要的搜索。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36679",
-          "link": "https://x.com/wublockchain12/status/1881228746159730868",
-          "publishedOn": "2025-01-20T06:34:19.000Z",
-          "wordCount": 6,
-          "title": "美国联邦存款保险公司（FDIC）在一桩 Coinbase 支持的《信息自由法》（FOIA）诉讼案中，被指控遗漏了向银行发送的多封加密货币相关“暂停函”。 History Associa...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881217196531298464",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据泰国邮报，泰国前总理他信·西那瓦表示，加密货币沙盒预计将于十月份在普吉岛推出。在讨论东盟经济时，他信表示，泰国比该地区任何其他国家都更愿意推动加密货币的发展，特别是在美国当选总统特朗普计划采用加密货币之后。他指出，加密货币不应与赌博混淆，称它是一种以黄金或政府债券等资产为支撑的新形式货币。他说，泰国不会接受高风险的加密货币，预计 10 月将推出一个涉及私营部门的加密货币沙盒。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36678",
-          "link": "https://x.com/wublockchain12/status/1881217196531298464",
-          "publishedOn": "2025-01-20T05:48:25.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据泰国邮报，泰国前总理他信·西那瓦表示，加密货币沙盒预计将于十月份在普吉岛推出。在讨论东盟经济时，他信表示，泰国比该地区任何其他国家都更愿意...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881213694862049371",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Robinhood 支持的加密货币列表显示，Robinhood 将上架 TRUMP。TRUMP 突破 60 美元，现报价 62.24 美元，24 小时涨幅达 63.2%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36677",
-          "link": "https://x.com/wublockchain12/status/1881213694862049371",
-          "publishedOn": "2025-01-20T05:34:30.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据 Robinhood 支持的加密货币列表显示，Robinhood 将上架 TRUMP。TRUMP 突破 60 美元，现报价 62.24 美元，24 小时涨幅达 63.2%。https://www.wublock...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881205134065291625",
-          "author": "吴说区块链",
-          "description": "Re 特朗普家族加密项目 World Liberty 预售已重新开放，新增了 5b 代币销售额度，然而 WLFI 单价从原先的 0.015 美元升至 0.05 美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36666",
-          "link": "https://x.com/wublockchain12/status/1881205134065291625",
-          "publishedOn": "2025-01-20T05:00:29.000Z",
-          "wordCount": 6,
-          "title": "Re 特朗普家族加密项目 World Liberty 预售已重新开放，新增了 5b 代币销售额度，然而 WLFI 单价从原先的 0.015 美元升至 0.05 美元。https://www.wublock123.co...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881200886116237757",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Lookonchain 监测，TRON DAO 一小时前再次花费 1500 万 USDT 购买了 10 亿枚 WLFI。Justin Sun 发推表示，他们正在继续增加对 World Liberty Financial 的投资，再追加 4500 万美元，使总投资额达到 7500 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36676",
-          "link": "https://x.com/wublockchain12/status/1881200886116237757",
-          "publishedOn": "2025-01-20T04:43:36.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据 Lookonchain 监测，TRON DAO 一小时前再次花费 1500 万 USDT 购买了 10 亿枚 WLFI。Justin Sun 发推表示，他们正在继续增加对 World Liberty Finan...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881198827803422747",
-          "author": "吴说区块链",
-          "description": "吴说获悉，前 Coinbase 首席技术官 Balaji Srinivasan 发推表示：“一夜之间，美国下一任总统的绝大部分净资产（590 亿美元）现在都以加密货币的形式持有。即使下跌 90%，情况也是如此。随着法定货币的逐渐消亡，全球数十亿人将在未来经历所有非加密资产的相对贬值；全球政治人物、名人、意见领袖纷纷关注这一现象，他们可能会等待观察并推出自己的代币；特朗普或将推动加密货币合法化，以便保护自己的利益并增强政治支持；按照当前的估值，特朗普可以通过空投的方式向所有 7700 万特朗普选民提供 100 美元的锁定 TRUMP，总花费为 77 亿美元。事实上，他甚至可以每人发放 500 美元，仍然能剩下超过 200 亿美元；通过加入特朗普的邮件列表并支持他的加密货币政策，民众将获得一种类似于基本收入（UBI）的福利；如果 7700 万美国人也在受益于 TRUMP 代币，那么利益冲突的指控将不复存在。这将是总统与公民之间一种新的社会契约，建立起个人关系。”https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36675",
-          "link": "https://x.com/wublockchain12/status/1881198827803422747",
-          "publishedOn": "2025-01-20T04:35:26.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，前 Coinbase 首席技术官 Balaji Srinivasan 发推表示：“一夜之间，美国下一任总统的绝大部分净资产（590 亿美元）现在都以加密货币的形式持有。即使...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881193943091794299",
-          "author": "吴说区块链",
-          "description": "Re Phantom 发推表示，所有系统应该都已恢复正常。Phantom 用户今天的交易量超过 12.5 亿美元，交易次数达 1000 万次。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36651",
-          "link": "https://x.com/wublockchain12/status/1881193943091794299",
-          "publishedOn": "2025-01-20T04:16:01.000Z",
-          "wordCount": 6,
-          "title": "Re Phantom 发推表示，所有系统应该都已恢复正常。Phantom 用户今天的交易量超过 12.5 亿美元，交易次数达 1000 万次。 https://www.wublock123.com/index.php?m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881192454990553491",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据链上信息显示，特朗普加密项目 World Liberty 多签地址于 10 小时前买入 WorldLiberty.eth、trumpcoin.eth、erictrump.eth、barrontrump.eth ENS 域名。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36674",
-          "link": "https://x.com/wublockchain12/status/1881192454990553491",
-          "publishedOn": "2025-01-20T04:10:06.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据链上信息显示，特朗普加密项目 World Liberty 多签地址于 10 小时前买入 WorldLiberty.eth、trumpcoin.eth、erictrump.eth、barrontrump.eth ENS 域...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881185879928234055",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据韩国日报，韩国釜山地方警察厅网络犯罪调查组已对一团伙提起不拘留起诉，指控其使用虚假加密货币交易平台为非法赌博网站洗钱约 1.1 万亿韩元（约 7.58 亿美元）。该团伙据称获利约 100 亿韩元（约 689 万美元）。从 2022 年 1 月到 2023 年 9 月，他们在韩国设立了五个办公地点，开发虚假交易网站，并为 112 个赌博网站洗钱。警方还抓获了 80 名涉案未成年人，其中一些是通过使用名人深度伪造视频招募的。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36673",
-          "link": "https://x.com/wublockchain12/status/1881185879928234055",
-          "publishedOn": "2025-01-20T03:43:59.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据韩国日报，韩国釜山地方警察厅网络犯罪调查组已对一团伙提起不拘留起诉，指控其使用虚假加密货币交易平台为非法赌博网站洗钱约 1.1 万亿韩元（约 7....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881179671037166029",
-          "author": "吴说区块链",
-          "description": "吴说获悉，根据 SoSoValue 数据，加密市场板块普遍回调，AI Agents 连续下跌，板块 24H 跌幅达到 12.08%，DeFAI 板块 24H 跌幅为 14.90%。其他板块方面，CeFi 板块 24H 跌幅为 3.28%，PayFi 板块下跌 6.75%，DeFi 板块跌 6.94%，Layer 1 板块下跌 6.99%，Meme 板块下跌 7.53%，Layer 2 板块跌 10.59%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36672",
-          "link": "https://x.com/wublockchain12/status/1881179671037166029",
-          "publishedOn": "2025-01-20T03:19:18.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，根据 SoSoValue 数据，加密市场板块普遍回调，AI Agents 连续下跌，板块 24H 跌幅达到 12.08%，DeFAI 板块 24H 跌幅为 14.90%。其他板块方面，CeFi 板...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881178717822816517",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Tokenomist，未来 7 日单次大额解锁（解锁额大于 500 万美元）有 FTN MRSIMX ALT MURA ENA ID AITECH 等，未来 7 日线性大额解锁（单日解锁额大于 100 万美元）SOL WLD DOGE TIA AVAX TAO SUI DOT NEAR JTO FIL ENS SEI MOCA等。解锁价值总计超 5.98  亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36671",
-          "link": "https://x.com/wublockchain12/status/1881178717822816517",
-          "publishedOn": "2025-01-20T03:15:31.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，据 Tokenomist，未来 7 日单次大额解锁（解锁额大于 500 万美元）有 FTN MRSIMX ALT MURA ENA ID AITECH 等，未来 7 日线性大额解锁（单日解锁额大于 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881173725766414821",
-          "author": "吴说区块链",
-          "description": "吴说获悉，MEXC、Gate、Bitget 等中心化交易所已宣布上线 Melania Meme（MELANIA）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36670",
-          "link": "https://x.com/wublockchain12/status/1881173725766414821",
-          "publishedOn": "2025-01-20T02:55:41.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，MEXC、Gate、Bitget 等中心化交易所已宣布上线 Melania Meme（MELANIA）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&i...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881169052305084675",
-          "author": "吴说区块链",
-          "description": "Re 吴说获悉，特朗普加密项目 WLFI 发推表示：“我们已完成任务并售出了 20% 的代币供应量，由于需求巨大且关注度高，决定再开放 5% 的代币供应量。团队正在努力重新启动销售。”\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36666",
-          "link": "https://x.com/wublockchain12/status/1881169052305084675",
-          "publishedOn": "2025-01-20T02:37:07.000Z",
-          "wordCount": 6,
-          "title": "Re 吴说获悉，特朗普加密项目 WLFI 发推表示：“我们已完成任务并售出了 20% 的代币供应量，由于需求巨大且关注度高，决定再开放 5% 的代币供应量。团队正在努力...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881162159293653463",
-          "author": "吴说区块链",
-          "description": "吴说获悉，在 TRUMP 和 MELANIA 代币出现后，特朗普家族加密项目 World Liberty 预售进程大幅加快，在本日 10 时左右全部募集完，预售价为 $0.015。链上数据显示，WLFI 代币总量为 1,000 亿，持有者数超过 3.4 万，其中 TRON DAO 是最大的独立购买者拥有 30 亿枚。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36666",
-          "link": "https://x.com/wublockchain12/status/1881162159293653463",
-          "publishedOn": "2025-01-20T02:09:43.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，在 TRUMP 和 MELANIA 代币出现后，特朗普家族加密项目 World Liberty 预售进程大幅加快，在本日 10 时左右全部募集完，预售价为 $0.015。链上数据显示...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1881125427869307226",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Phantom 表示，当前其钱包每分钟请求量激增至 800 万次以上，导致交易可能在首次尝试时无法成功。平台正在努力稳定系统。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36651",
-          "link": "https://x.com/wublockchain12/status/1881125427869307226",
-          "publishedOn": "2025-01-19T23:43:46.000Z",
-          "wordCount": 6,
-          "title": "吴说获悉，Phantom 表示，当前其钱包每分钟请求量激增至 800 万次以上，导致交易可能在首次尝试时无法成功。平台正在努力稳定系统。https://www.wublock123.com/...",
-          "imageUrl": null
-        }
-      ]
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848community",
+      "articles": []
     },
     {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1881267113886994765",
+          "author": "链求君 🔥",
+          "description": "Re @bishengkegs 刚看，看错了。\n以为还要求长得帅。",
+          "link": "https://x.com/AntCaveClub/status/1881267113886994765",
+          "publishedOn": "2025-01-20T09:06:46.000Z",
+          "wordCount": 6,
+          "title": "Re @bishengkegs 刚看，看错了。 以为还要求长得帅。",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1881202017240256594",
           "author": "链求君 🔥",
@@ -381,15 +190,152 @@
           "wordCount": 6,
           "title": "$TRUMP 1小时后，LBank 开合约交易。 一条金狗，给你两次机会。 📈📉 各一次。 不看好，就来做空。 📱https://www.lbank.com/zh-TC/activity/100free-5?ic...",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1879955029614031122",
+          "author": "Onchain Wizard",
+          "description": "Feels like we're back to having fun\n\nThe Daily Edge: The Daily Edge featuring:\nDonald Pump to the rescue on $XRP and $SOL, $BTC taps $100k.   AI majors bouncing hard, led by $VIRTUAL, $AIXBT, $griffain and $fartcoin\nTrench volumes accelerating, runners of the day included $AIAI and $ROSSCOIN\nThe DeFAI tailwind for $IO",
+          "link": "https://x.com/OnChainWizard/status/1879955029614031122",
+          "publishedOn": "2025-01-16T18:13:01.000Z",
+          "wordCount": 6,
+          "title": "Feels like we're back to having fun",
+          "imageUrl": null
         },
         {
-          "id": "https://twitter.com/AntCaveClub/status/1880482311076213205",
-          "author": "链求君 🔥",
-          "description": "Re @bishengkegs 三年布道，不及一朝问鼎。😂\n这就是现实世界 。\nTRUMP市值超越PEPE，成为加密市场上市值第三大的Meme币\nTRUMP 市值暂报 84 亿美元，已超越 PEPE（81.2 亿美元），成为加密市场上市值第三大的 Meme 币。",
-          "link": "https://x.com/AntCaveClub/status/1880482311076213205",
-          "publishedOn": "2025-01-18T05:08:15.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1879936476923981877",
+          "author": "Onchain Wizard",
+          "description": "Re @eli5_defi @ionet @injective $IO partnership team goated.",
+          "link": "https://x.com/OnChainWizard/status/1879936476923981877",
+          "publishedOn": "2025-01-16T16:59:18.000Z",
           "wordCount": 6,
-          "title": "Re @bishengkegs 三年布道，不及一朝问鼎。😂 这就是现实世界 。 TRUMP市值超越PEPE，成为加密市场上市值第三大的Meme币 TRUMP 市值暂报 84 亿美元，已超越 PE...",
+          "title": "Re @eli5_defi @ionet @injective $IO partnership team goated.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1879651408355705000",
+          "author": "Onchain Wizard",
+          "description": "Re @Ginzacrypto Yes.   And actually good at it.",
+          "link": "https://x.com/OnChainWizard/status/1879651408355705000",
+          "publishedOn": "2025-01-15T22:06:32.000Z",
+          "wordCount": 6,
+          "title": "Re @Ginzacrypto Yes. And actually good at it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1879292763608649832",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nVibe shift: $BTC up 6% from yesterday's lows, $OTHERS +9%, led by strength in $ai16z, $KAS, $VIRTUAL.  \n$XRP volumes on Coinbase running at over 50% of $BTC, $ARMY up 3x in the last few days to $90mm.   \nBig relief bounce in onchain coins\n$IO x $INJ",
+          "link": "https://x.com/OnChainWizard/status/1879292763608649832",
+          "publishedOn": "2025-01-14T22:21:13.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Vibe shift: $BTC up 6% from yesterday's lows, $OTHERS +9%, led by strength in $ai16z, $KAS, $VIRTUAL. $XR...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1879082412870873495",
+          "author": "Onchain Wizard",
+          "description": "Re @BringMeCoins Agreed.  Compute is basically the L1 trade for AI and agents",
+          "link": "https://x.com/OnChainWizard/status/1879082412870873495",
+          "publishedOn": "2025-01-14T08:25:33.000Z",
+          "wordCount": 6,
+          "title": "Re @BringMeCoins Agreed. Compute is basically the L1 trade for AI and agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1878689387640451265",
+          "author": "Onchain Wizard",
+          "description": "Re @eli5_defi @MessariCrypto @ionet Great summary - the way AI is scaling right now, I think we will see $100m+ ARR for $IO, which is most definitely not priced in.",
+          "link": "https://x.com/OnChainWizard/status/1878689387640451265",
+          "publishedOn": "2025-01-13T06:23:49.000Z",
+          "wordCount": 6,
+          "title": "Re @eli5_defi @MessariCrypto @ionet Great summary - the way AI is scaling right now, I think we will see $100m+ ARR for $IO, which is most definitely ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1878589974469300375",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nThe current market's hangover, lots of Christmas tree charts, OTHERS down 25% from the peak.  \nTrench volumes rolling over, but pockets of strength in things like $anon, $apple, $grph and $UFD.  \n$MNT's exciting 2025 roadmap",
+          "link": "https://x.com/OnChainWizard/status/1878589974469300375",
+          "publishedOn": "2025-01-12T23:08:41.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: The current market's hangover, lots of Christmas tree charts, OTHERS down 25% from the peak. Trench volum...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1876824409878466760",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$BTC slips 5%, market sees $500mm of long liquidations.  \nDEX volumes as a % of CEX vols hits an ATH this month at 20%.  \nOnchain continues to be pretty silly with $swarms hitting $500mm and $MLG speedrunning $2-$150m \n$IO hits top 4 in DePin ARR",
+          "link": "https://x.com/OnChainWizard/status/1876824409878466760",
+          "publishedOn": "2025-01-08T02:51:00.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $BTC slips 5%, market sees $500mm of long liquidations. DEX volumes as a % of CEX vols hits an ATH this m...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1876264544731099459",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\n$BTC back above $99k + 2025, the Year of AGI.  \n7d alt strength led by $SPX, $FARTCOIN, $AIOZ and $PENGU (flipped Bonk)\nSOL Trenches are feeling fully back, with recent runners in $HYPE, $HTERM and $GNZ\n$MNT strength + alpha",
+          "link": "https://x.com/OnChainWizard/status/1876264544731099459",
+          "publishedOn": "2025-01-06T13:48:21.000Z",
+          "wordCount": 6,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1875044619052048851",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nSilly szn has begun + SOL trenches are back baby.  \nTG trading volumes have accelerated back to $300mm from the lows a week ago of $75mm.\nNew coins that smart $ likes incl $BUZZ, $SIZE, $SANDY, $ALIVE\n@0xMantle launches $UXLINK Rewards Station",
+          "link": "https://x.com/OnChainWizard/status/1875044619052048851",
+          "publishedOn": "2025-01-03T04:59:11.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Silly szn has begun + SOL trenches are back baby. TG trading volumes have accelerated back to $300mm from...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1873262334568972630",
+          "author": "Onchain Wizard",
+          "description": "Re @Flowslikeosmo $20m ARR now, AI accelerating.    Cannot be more bullish",
+          "link": "https://x.com/OnChainWizard/status/1873262334568972630",
+          "publishedOn": "2024-12-29T06:58:38.000Z",
+          "wordCount": 6,
+          "title": "Re @Flowslikeosmo $20m ARR now, AI accelerating. Cannot be more bullish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1873237465873740074",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$SOL finally showing some strength.   \nSOL AI coins catching a bid.    \n$ai16z hits $1.3bn, $VIRTUAL hits $3.5bn w/ Base runner follow thru\n$IO hits $20mm ARR and is accelerating",
+          "link": "https://x.com/OnChainWizard/status/1873237465873740074",
+          "publishedOn": "2024-12-29T05:19:38.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $SOL finally showing some strength. SOL AI coins catching a bid. $ai16z hits $1.3bn, $VIRTUAL hits $3.5bn...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1871278416542290295",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\n$BTC down 13% from ATHs\nAI leaders down 44% on avg from recent peaks. \nTrenches not completely dead with recent runners $lou, $snai and #TrenchAI \nTG Trading volumes back to late October levels\n@0xMantle introduces institutional grade settlement",
+          "link": "https://x.com/OnChainWizard/status/1871278416542290295",
+          "publishedOn": "2024-12-23T19:35:15.000Z",
+          "wordCount": 6,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1870629833287565441",
+          "author": "Onchain Wizard",
+          "description": "Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo",
+          "link": "https://x.com/OnChainWizard/status/1870629833287565441",
+          "publishedOn": "2024-12-22T00:38:01.000Z",
+          "wordCount": 6,
+          "title": "Re @BasktIntern @aixbt_agent 1 Ondo = 1 condo",
           "imageUrl": null
         }
       ]
@@ -590,12 +536,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
