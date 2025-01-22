@@ -1,254 +1,197 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882055335311216892",
+          "author": "吴说区块链",
+          "description": "吴说获悉，CoW DAO 发布 CIP-61 提案，计划自 2025 年 2 月 1 日起实施新的收入模式，以价格改进共享（price-improvement-sharing）为核心，同时引入费用和收入共享机制。限价单和市价单的价格改进共享比例为 50%，费用在 Gnosis Chain、Arbitrum、Base 等网络按交易总额的 10 个基点收取，主网交易及部分稳定币交易将免除费用。此外，提案允许合作伙伴自主设定交易费用并参与收入共享，费用上限为 100 个基点。CoW DAO 还将保留实验授权，探索新机制以进一步优化收入模式。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36827",
+          "link": "https://x.com/wublockchain12/status/1882055335311216892",
+          "publishedOn": "2025-01-22T13:18:53.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，CoW DAO 发布 CIP-61 提案，计划自 2025 年 2 月 1 日起实施新的收入模式，以价格改进共享（price-improvement-sharing）为核心，同时引入费用和收入...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882051403725877460",
+          "author": "吴说区块链",
+          "description": "吴说获悉，链上数据显示，USDC Treasury 于 12 分钟前在 Solana 上铸造 2.5 亿枚 USDC，Circle 在过去 22 天内共铸造了 42 亿枚 USDC。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36826",
+          "link": "https://x.com/wublockchain12/status/1882051403725877460",
+          "publishedOn": "2025-01-22T13:03:16.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，链上数据显示，USDC Treasury 于 12 分钟前在 Solana 上铸造 2.5 亿枚 USDC，Circle 在过去 22 天内共铸造了 42 亿枚 USDC。https://www.wublock123.c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882040526427537424",
+          "author": "吴说区块链",
+          "description": "吴说获悉，彭博 ETF 分析师 Eric Balchunas 针对“Rex 提交 DOGE ETF 和 TRUMP ETF 申请”一事发推称，这些 ETF 都是根据 1940 年法案提交的申请，因此（理论上，如果没有被否决的话）可能会在 4 月初（提交后的 75 天）上市。1940 年法案管理资产和衍生品组合基金，根据该法案提交的申请可享受简化的 75 天审查流程。通过利用这一流程，DOGE 和 TRUMP ETF 可以提前于其他备案（例如 XRP 和 Solana ETF），这些 ETF 需要根据 19b-4 备案规则进行繁琐的 240 天审查流程。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36825",
+          "link": "https://x.com/wublockchain12/status/1882040526427537424",
+          "publishedOn": "2025-01-22T12:20:02.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，彭博 ETF 分析师 Eric Balchunas 针对“Rex 提交 DOGE ETF 和 TRUMP ETF 申请”一事发推称，这些 ETF 都是根据 1940 年法案提交的申请，因此（理论上...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882034828507594888",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 DLNews，美国总统特朗普任命 Danielle Sassoon 为纽约南区联邦检察官办公室临时负责人，负责曼哈顿及周边地区事务。Sassoon 曾是联邦政府起诉 FTX 创始人 SBF 一案的首席检察官之一。同时，她还是美国司法部起诉 Terra 创始人 Do Kwon 一案的六名检察官之一。Sassoon 毕业于哈佛大学和耶鲁法学院，并曾担任已故最高法院法官 Antonin Scalia 的书记员。她将领导南区检察官办公室，直至特朗普提名的正式人选 Jay Clayton 完成确认程序。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36824",
+          "link": "https://x.com/wublockchain12/status/1882034828507594888",
+          "publishedOn": "2025-01-22T11:57:24.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 DLNews，美国总统特朗普任命 Danielle Sassoon 为纽约南区联邦检察官办公室临时负责人，负责曼哈顿及周边地区事务。Sassoon 曾是联邦政府起诉 FTX ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882026962505671161",
+          "author": "吴说区块链",
+          "description": "TOP、OKX Ventures 和 Folius Ventures 推出 1000 万美元 Telegram Growth Hub 计划。The Open Platform（TOP）已遴选出首批参与 Telegram Growth Hub 计划的项目团队，包括：Share X：一个 Web3 共享经济生态系统；Up Network：一个 AI 驱动的操作系统；Aria：由 Galaxy Interactive 支持的游戏生态系统；Heyo：一个基于地理位置的社交体验平台；Metya：将约会、AI 和 DePin 结合的平台；FunX：一个面向创造力的新平台；Liquid Node Tokens：由 Zoo Finance 构建，用于标准化 TON 区块链上的节点所有权和交易。入选的 7 个项目团队将参与为期 10 周的加速计划，获得资金支持，并在营销、人才招聘、行业指导以及 TOP 的开发工具支持下加速发展。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36823",
+          "link": "https://x.com/wublockchain12/status/1882026962505671161",
+          "publishedOn": "2025-01-22T11:26:08.000Z",
+          "wordCount": 6,
+          "title": "TOP、OKX Ventures 和 Folius Ventures 推出 1000 万美元 Telegram Growth Hub 计划。The Open Platform（TOP）已遴选出首批参与 Telegram Growth Hub 计划的项...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882026272261558589",
+          "author": "吴说区块链",
+          "description": "Re 因为这不是中国内地认可的金额投资资产类别，香港政府相关规定也不允许对内地用户进行销售，未来需要香港 SFC 更改规定。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36822",
+          "link": "https://x.com/wublockchain12/status/1882026272261558589",
+          "publishedOn": "2025-01-22T11:23:24.000Z",
+          "wordCount": 6,
+          "title": "Re 因为这不是中国内地认可的金额投资资产类别，香港政府相关规定也不允许对内地用户进行销售，未来需要香港 SFC 更改规定。https://www.wublock123.com/index.p...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882026270588010938",
+          "author": "吴说区块链",
+          "description": "1 月 22 日中国人民银行等五部门提出在粤港澳大湾区持续优化“跨境理财通”试点，支持粤港澳大湾区内地居民通过港澳金融机构购买港澳金融机构销售的合资格投资产品。但香港相关合规人士对吴说表示，这并不意味着内地居民可以购买香港的加密货币产品，",
+          "link": "https://x.com/wublockchain12/status/1882026270588010938",
+          "publishedOn": "2025-01-22T11:23:23.000Z",
+          "wordCount": 6,
+          "title": "1 月 22 日中国人民银行等五部门提出在粤港澳大湾区持续优化“跨境理财通”试点，支持粤港澳大湾区内地居民通过港澳金融机构购买港澳金融机构销售的合资格投资产...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882007000894357996",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据官方公告，Binance HODLer 空投现已上线第 6 期项目- Animecoin (ANIME)，2025-01-17 00:00 (UTC) 至 2025-01-21 23:59 (UTC) 期间订阅 BNB 至 Simple Earn 产品的用户将获得空投。币安将于 2025-01-23 14:00 (UTC) 上线 ANIME，并开放 USDT、USDC、BNB、FDUSD 和 TRY 对的交易。种子标签将应用于 ANIME。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36821",
+          "link": "https://x.com/wublockchain12/status/1882007000894357996",
+          "publishedOn": "2025-01-22T10:06:49.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据官方公告，Binance HODLer 空投现已上线第 6 期项目- Animecoin (ANIME)，2025-01-17 00:00 (UTC) 至 2025-01-21 23:59 (UTC) 期间订阅 BNB 至 Simp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882005744176017417",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Coinbase 联合创始人兼首席执行官 Brian Armstrong 发推表示，我们已对 Solana 网络的积压事务进行分类处理，目前交易应能快速生成。如有取消的交易，用户可重新尝试。我们承诺将提升 Solana 的支持能力，包括扩展基础设施规模，并为 DEX 和 Meme 代币交易等常见场景提供原生支持，以实现与比特币、以太坊和 Base 同级的服务水平。近期因活动激增导致的延迟问题已引发关注，团队将优化服务以更好应对高需求时期。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36820",
+          "link": "https://x.com/wublockchain12/status/1882005744176017417",
+          "publishedOn": "2025-01-22T10:01:50.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Coinbase 联合创始人兼首席执行官 Brian Armstrong 发推表示，我们已对 Solana 网络的积压事务进行分类处理，目前交易应能快速生成。如有取消的交易，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1882002987587191065",
+          "author": "吴说区块链",
+          "description": "Jupiter 将于今日 23:30 发放「Jupuary」空投，向社区分发约 7 亿枚 JUP 代币（价值约 6.16 亿美元）。此次空投主要面向两类群体：\"用户和质押者\"以及被称为\"Carrots and Good Cats\"的核心社区贡献者。其中，4.25 亿枚 JUP 代币将分配给在平台进行代币兑换的用户，7500 万枚分配给 JUP 质押者，参与治理投票的用户将获得额外奖励。Jupiter 计划每年 1 月进行代币空投，持续至 2027 年。目前 JUP 代币流通量为 16.8 亿枚，总供应量为 100 亿枚。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36819",
+          "link": "https://x.com/wublockchain12/status/1882002987587191065",
+          "publishedOn": "2025-01-22T09:50:52.000Z",
+          "wordCount": 6,
+          "title": "Jupiter 将于今日 23:30 发放「Jupuary」空投，向社区分发约 7 亿枚 JUP 代币（价值约 6.16 亿美元）。此次空投主要面向两类群体：\"用户和质押者\"以及被称为\"Car...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881995975948153306",
+          "author": "吴说区块链",
+          "description": "QCP 资本指出，在特朗普就职引发的初步失望情绪后，比特币反弹了 3.8%，稳定在 10.5 万美元区间。然而，由于市场对特朗普政府的加密相关行政命令仍持谨慎态度，价格上涨空间受限。与此同时，比特币期货继续向上，尤其是在短期期货方面。上周市场的净多头持仓保持稳固，多头仓位当前以约 20:1 的比例领先于空头。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36818",
+          "link": "https://x.com/wublockchain12/status/1881995975948153306",
+          "publishedOn": "2025-01-22T09:23:01.000Z",
+          "wordCount": 6,
+          "title": "QCP 资本指出，在特朗普就职引发的初步失望情绪后，比特币反弹了 3.8%，稳定在 10.5 万美元区间。然而，由于市场对特朗普政府的加密相关行政命令仍持谨慎态度，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881994255046238460",
+          "author": "吴说区块链",
+          "description": "据 Cointelegraph，桥水基金创始人 Ray Dalio 表示，他持有「少量」比特币。此前，Ray Dalio 在阿布扎比金融会议上表示，由于全球主要经济体面临高债务水平和潜在债务危机，他将投资黄金和比特币等“硬通货”，避开债务资产。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36817",
+          "link": "https://x.com/wublockchain12/status/1881994255046238460",
+          "publishedOn": "2025-01-22T09:16:10.000Z",
+          "wordCount": 6,
+          "title": "据 Cointelegraph，桥水基金创始人 Ray Dalio 表示，他持有「少量」比特币。此前，Ray Dalio 在阿布扎比金融会议上表示，由于全球主要经济体面临高债务水平和潜...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881992695843078523",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安将支持 Litentry（LIT）代币置换及品牌升级为 Heima（HEI）的计划。币安将于 2025 年 2 月 10 日 11:00（东八区时间）停止交易和移除所有现有 LIT 现货交易对（LIT/BTC 和 LIT/USDT），并将自动撤除所有挂单。币安将于 2025 年 2 月 13 日 16:00（东八区时间）开放 HEI/BTC 和 HEI/USDT 现货交易。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36816",
+          "link": "https://x.com/wublockchain12/status/1881992695843078523",
+          "publishedOn": "2025-01-22T09:09:59.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，币安将支持 Litentry（LIT）代币置换及品牌升级为 Heima（HEI）的计划。币安将于 2025 年 2 月 10 日 11:00（东八区时间）停止交易和移除所有现有 LIT...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881989211735331198",
+          "author": "吴说区块链",
+          "description": "Gate Ventures 宣布向 BugsCoin 生态系统投资 850 万美元，旨在加速其加密货币教育平台 INBUMTV 发展，以增强平台功能、优化用户体验、推动全球宣传，并完善 ANTTALK 平台。INBUMTV 是一家致力于加密货币交易教育的 YouTube 频道。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36815",
+          "link": "https://x.com/wublockchain12/status/1881989211735331198",
+          "publishedOn": "2025-01-22T08:56:08.000Z",
+          "wordCount": 6,
+          "title": "Gate Ventures 宣布向 BugsCoin 生态系统投资 850 万美元，旨在加速其加密货币教育平台 INBUMTV 发展，以增强平台功能、优化用户体验、推动全球宣传，并完善 ANT...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881984856756006918",
+          "author": "吴说区块链",
+          "description": "据官方消息，Binance Alpha 新增 MAXONSOL 和 TRISIG 。TRISIG 是一个基于 Solana 链上的 AI 代理。MAX 是基于 Solana 区块链的 Meme 代币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36814",
+          "link": "https://x.com/wublockchain12/status/1881984856756006918",
+          "publishedOn": "2025-01-22T08:38:50.000Z",
+          "wordCount": 6,
+          "title": "据官方消息，Binance Alpha 新增 MAXONSOL 和 TRISIG 。TRISIG 是一个基于 Solana 链上的 AI 代理。MAX 是基于 Solana 区块链的 Meme 代币。https://www.wublock...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881978523856023704",
+          "author": "吴说区块链",
+          "description": "《音频：详谈特朗普上任后的加密货币走势、利好政策、宏观局势》吴说 Colin 与 MuseLabs 理事长、原币安研究院中国首席研究员江金泽讨论了特朗普上任后的加密货币走势，包括美国国家比特币储备能否成行；特朗普可能否决“银行去加密货币”的负面政策；宏观层面存在的利好与风险；",
+          "link": "https://x.com/wublockchain12/status/1881978523856023704",
+          "publishedOn": "2025-01-22T08:13:40.000Z",
+          "wordCount": 6,
+          "title": "《音频：详谈特朗普上任后的加密货币走势、利好政策、宏观局势》吴说 Colin 与 MuseLabs 理事长、原币安研究院中国首席研究员江金泽讨论了特朗普上任后的加密货...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881978526183928153",
+          "author": "吴说区块链",
+          "description": "Re 如何看待特朗普家族发行大量 meme 币与加密货币项目。江金泽个人认为，明年总体利好多于利空，比特币可能向 15 万到 20 万美金迈进。小宇宙收听：https://www.xiaoyuzhoufm.com/episodes/6790980d181b314a5c2671a0 YouTube 收听：https://youtu.be/SPP5vV62whI",
+          "link": "https://x.com/wublockchain12/status/1881978526183928153",
+          "publishedOn": "2025-01-22T08:13:40.000Z",
+          "wordCount": 6,
+          "title": "Re 如何看待特朗普家族发行大量 meme 币与加密货币项目。江金泽个人认为，明年总体利好多于利空，比特币可能向 15 万到 20 万美金迈进。小宇宙收听：https://www...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1881977403737850044",
+          "author": "吴说区块链",
+          "description": "2025 年 1 月 17 日储备金数据显示，Gate io 储备金总值再创新高，达到 103.28 亿美元，总储备金率达 128.58%，较上期增长 4.67%。此外，超额储备金规模增至 22.96 亿美元，增幅达 24.38%，超额储备金率达 28.58%。主流币方面，BTC 储备数量达 20,412 枚，储备金率为 123.06%，ETH 储备数量达 257,007 枚，储备金率为 112.04%，USDT 储备数量达 910,783,326 枚，储备金率为 118.60%，较上期增长 9.35%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=36813",
+          "link": "https://x.com/wublockchain12/status/1881977403737850044",
+          "publishedOn": "2025-01-22T08:09:13.000Z",
+          "wordCount": 6,
+          "title": "2025 年 1 月 17 日储备金数据显示，Gate io 储备金总值再创新高，达到 103.28 亿美元，总储备金率达 128.58%，较上期增长 4.67%。此外，超额储备金规模增至 22....",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://x.com/8848community",
       "articles": []
-    },
-    {
-      "title": "Twitter @链求君 🔥",
-      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
-      "siteUrl": "https://x.com/AntCaveClub",
-      "articles": [
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1882005144243761422",
-          "author": "链求君 🔥",
-          "description": "RT John\nApp的推广是要比bot难很多的，不仅是因为链路长，还有就是需要下载一个新东西。但是当一个App立起来的时候，就是真正护城河开启的时候。\n我一直坚信所谓“链上币安”概念的产品，一定是从一个App走出来的，它需要解决普通用户使用的成本问题。",
-          "link": "https://x.com/AntCaveClub/status/1882005144243761422",
-          "publishedOn": "2025-01-22T09:33:58.000Z",
-          "wordCount": 6,
-          "title": "RT John: App的推广是要比bot难很多的，不仅是因为链路长，还有就是需要下载一个新东西。但是当一个App立起来的时候，就是真正护城河开启的时候。 我一直坚信所...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881951251560337798",
-          "author": "链求君 🔥",
-          "description": "记得上次出现这种情况，不到三天左右，就出现了价格的剧烈波动。 \nETH 多空比例达 4.7 你怎么看👀？ @aixbt_agent\n一直用派网做量化，有时会发现 “多” 或 “空” 一方几乎被榨干， 就非常可能翻转。 \n最近上仓位不要太激进。\nhttps://reg.copybot.info/zh-CN/signUp?r=gCr0jE7D\n可能的情况: \n1. 短期调整概率较大：看多比例过高，市场可能出现反向操作（主力打压价格），引发多头爆仓。\n2. 快速上涨也有可能，但风险较高：如果有强利好支撑，价格可能短期拉升，但容易回调。\n(特朗普当选后，目前想不出更加利好的消息了)\n3. 保持谨慎，控制风险：避免盲目追涨，做好止损，密切关注市场资金流向和关键位置变化。\n✈️ https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1881951251560337798",
-          "publishedOn": "2025-01-22T06:25:17.000Z",
-          "wordCount": 6,
-          "title": "记得上次出现这种情况，不到三天左右，就出现了价格的剧烈波动。 ETH 多空比例达 4.7 你怎么看👀？ @aixbt_agent 一直用派网做量化，有时会发现 “多” 或 “...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881930378908487866",
-          "author": "链求君 🔥",
-          "description": "Re @zhuilong888 蛙哥 这个算挖掘么？ https://x.com/AntCaveClub/status/1881919712080323026?t=IUXaCUPCZ75j32YmK2jmfA&s=19\n\n链求君 🔥: 发现一个比较有 10 倍潜力的 #DEFAI 项目 @the_make_ai\n代币 $MAI ：  BkedE3Gzi1MYXqDQZ3Jun63VwAMxNMADjEgaUmJFpump\n开发者： @trankhac_vy  被 @solana 官方单独关注 \n同时关注他的是:  @therealchaseeb   @akshaybd \n一个基金会负责人+一个天使投资人\nSOL 官方仅关注了 2000+",
-          "link": "https://x.com/AntCaveClub/status/1881930378908487866",
-          "publishedOn": "2025-01-22T05:02:21.000Z",
-          "wordCount": 6,
-          "title": "Re @zhuilong888 蛙哥 这个算挖掘么？ https://x.com/AntCaveClub/status/1881919712080323026?t=IUXaCUPCZ75j32YmK2jmfA&s=19",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881919719982391638",
-          "author": "链求君 🔥",
-          "description": "Re Make AI 项目账号 被 10+ 头部影响力账号所关注。 \n同时与 Mario Nawfal  互关，  @MarioNawfal 是 @ibcgroupio  的创始人。 \nIBC Group 是一个知名投资机构，参投过的项目有： \n@nodepay_ai  Nodepay \n@mindnetwork_xyz  Mind Network \n@pencilsprotocol  Pencils Protocol\n@Rivalz_AI  Rivalz Network\n所以， @the_make_ai  是有干爹的， 而当前市值仅在 $7M 附近徘徊。 \n我认为有两点原因： \n1、 最近市场还在Trump叙事的尾声，都在抄底老的 AI 币\n2、MAI 刚上线不足 2 天，市场上AI项目太多无暇区分PVP刚结束在盘整\n纸手走了，应该很快会有大资金吸筹。\n接着就是，宣发合作利好， 上线交易所，一条龙。",
-          "link": "https://x.com/AntCaveClub/status/1881919719982391638",
-          "publishedOn": "2025-01-22T04:20:00.000Z",
-          "wordCount": 6,
-          "title": "Re Make AI 项目账号 被 10+ 头部影响力账号所关注。 同时与 Mario Nawfal 互关， @MarioNawfal 是 @ibcgroupio 的创始人。 IBC Group 是一个知名投资机构，参投...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881919712080323026",
-          "author": "链求君 🔥",
-          "description": "发现一个比较有 10 倍潜力的 #DEFAI 项目 @the_make_ai\n代币 $MAI ：  BkedE3Gzi1MYXqDQZ3Jun63VwAMxNMADjEgaUmJFpump\n开发者： @trankhac_vy  被 @solana 官方单独关注 \n同时关注他的是:  @therealchaseeb   @akshaybd \n一个基金会负责人+一个天使投资人\nSOL 官方仅关注了 2000+ 账号，其中很多项目方。 \n所以单独被关注的DEV，含金量很高的。\n来看下有趣的关系网 🤔 \n✈️  更多推荐： https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1881919712080323026",
-          "publishedOn": "2025-01-22T04:19:58.000Z",
-          "wordCount": 6,
-          "title": "发现一个比较有 10 倍潜力的 #DEFAI 项目 @the_make_ai 代币 $MAI ： BkedE3Gzi1MYXqDQZ3Jun63VwAMxNMADjEgaUmJFpump 开发者： @trankhac_vy 被 @solana 官方单...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881895711719264399",
-          "author": "链求君 🔥",
-          "description": "🔥💵 $2.75B USDC 于 1 月 21 日被铸造。\n大的要来了 ！！！\n看到趋势了吗，币友们？\n随着更多代币价格下跌，USDC和USDT的流通量不断攀升\n看图中数据， 甚至超过最近一个月累计积累量。 \n大量的U涌入非常可能： 拉高，拉高，拉高。 \n又要出大金了 ！",
-          "link": "https://x.com/AntCaveClub/status/1881895711719264399",
-          "publishedOn": "2025-01-22T02:44:36.000Z",
-          "wordCount": 6,
-          "title": "🔥💵 $2.75B USDC 于 1 月 21 日被铸造。 大的要来了 ！！！ 看到趋势了吗，币友们？ 随着更多代币价格下跌，USDC和USDT的流通量不断攀升 看图中数据， 甚至...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881710803075908070",
-          "author": "链求君 🔥",
-          "description": "美国政府，官网中存在一个 “老鹰”， 通过字符构成。\nhttps://www.usds.gov/ \n当前市值达到： $1M \nCA: GconjfwbWesnCbwmPz4z9gtxtwK6uaxnmsZvJXZdpump \n同时在另一个官网中出现 \"螃蟹\" ， $MOLLIE 已经达到 $18M 市值。\nCA:  7MxBy391erAtPnjUH6ZJsjJzk2pNxCqLFKNowXF1pump\n\n\nGabbens: https://presidentialinnovationfellows.gov/apply/\nGconjfwbWesnCbwmPz4z9gtxtwK6uaxnmsZvJXZdpump - $EAGLE",
-          "link": "https://x.com/AntCaveClub/status/1881710803075908070",
-          "publishedOn": "2025-01-21T14:29:50.000Z",
-          "wordCount": 6,
-          "title": "美国政府，官网中存在一个 “老鹰”， 通过字符构成。 https://www.usds.gov/ 当前市值达到： $1M CA: GconjfwbWesnCbwmPz4z9gtxtwK6uaxnmsZvJXZdpump 同时在另...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881704348193009801",
-          "author": "链求君 🔥",
-          "description": "Debot 的 AI 真的准的很。 \n📱 https://debot.ai?inviteCode=174709\n比人工直觉跟靠谱。 \n多个维度的数据综合考虑 :  $MOLLIE  是能上涨的\n信用评分在 6 / 10 \n当时 $TRUMP 的 AI 评分是： 10 / 10 \n所以 7倍时候， 依然建议上车。 \n之后直接冲到了 :  32 x \n✈️ https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1881704348193009801",
-          "publishedOn": "2025-01-21T14:04:11.000Z",
-          "wordCount": 6,
-          "title": "Debot 的 AI 真的准的很。 📱 https://debot.ai?inviteCode=174709 比人工直觉跟靠谱。 多个维度的数据综合考虑 : $MOLLIE 是能上涨的 信用评分在 6 / 10 当时...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881652116571439269",
-          "author": "链求君 🔥",
-          "description": "Yat Siu概念币 $Yait 最近有点东西，感觉是市场下一个暗藏的金狗。\n- Yat Siu亲自转发互动https://x.com/ysiu/status/1879180008863961563 ，这波操作有点像是Animoca系的间接官宣，暗示性拉满。  \n- Aimonica 和 $Yait ：Aimonica的investment DAO已经低调建仓 $Yait，两边关系直接在推特明牌互动，像是在铺垫什么大动作。  \n回顾一下 Aimonica 的节奏，从社区到拉盘简直是一气呵成，已经登上 Binance Alpha。现在$Yait 的市值还不到 $4M，早期阶段，布局机会感知明显。\n名人概念+AI Agent+Animoca背书，这逻辑看着就很顺。但目前还在低位，情绪没拉满，狗庄吸筹中，后面一旦发力，可能就是全网跟风的节奏。\nCA：5dDTxqg38NUY6ZKKGXXjaopWHt2xc3zSPoKhKmEEpump\n有兴趣的可以自己研究，DYOR。\n\nYat Siu: 🥋🤣",
-          "link": "https://x.com/AntCaveClub/status/1881652116571439269",
-          "publishedOn": "2025-01-21T10:36:38.000Z",
-          "wordCount": 6,
-          "title": "Yat Siu概念币 $Yait 最近有点东西，感觉是市场下一个暗藏的金狗。 - Yat Siu亲自转发互动https://x.com/ysiu/status/1879180008863961563 ，这波操作有点像是An...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881647069141889191",
-          "author": "链求君 🔥",
-          "description": "Re 🔧 推荐工具\n🐦 分组监控钱包- https://debot.ai?inviteCode=174709\n🐸 交易SOL最好工具- https://t.me/solana_trojanbot?start=r-madaodev\n🔥 交易ETH/BASE最好工具- https://t.me/Sigma_buyBot?start=ref=426744161\n🐷 全链交易工具- https://t.me/PinkPunkTradingBot?start=ref_89EF8CB4C0ED930204\n🚀 自动跟单最好工具- https://mevx.io/@0x0TO1M \n🎁 派网（量化机器人交易）- https://www.pionex.com/zh-CN/signUp?r=gCr0jE7D\n🥏 bitget（新币挖矿最好）- https://partner.bitget.com/bg/22ASEK\n🏠 LBank (MEME合约做空) - https://www.lbank.com/zh-TW/login/?icode=4HN7N\n✈️ 投资效率工具(永赚大师) - https://t.me/yongzhuan_bot\n🧷检查KOL/项目实力工具- https://www.protokols.io/\n🪜必备自用梯子VPN- https://airtable.com/appOaaGsocCovfM20/shrX9Vf7sSxKeTk1B",
-          "link": "https://x.com/AntCaveClub/status/1881647069141889191",
-          "publishedOn": "2025-01-21T10:16:35.000Z",
-          "wordCount": 6,
-          "title": "Re 🔧 推荐工具 🐦 分组监控钱包- https://debot.ai?inviteCode=174709 🐸 交易SOL最好工具- https://t.me/solana_trojanbot?start=r-madaodev 🔥 交易E...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881646582321603036",
-          "author": "链求君 🔥",
-          "description": "一个通过 $TRUMP 赚了800万美元的钱包，5小时前刚刚捕获了#ZACHXBT，并赚了120万美元(+3200%)。\n这个钱包几乎什么币都会买，过去7天的中签率在40%左右。\n在过去的7天里，他拿下 $TRUMP ， #MELANIA 和   $BARRON，赚了700多万美元。\n在此之前：\n在 $GOAT 上赚了 7700%\n在 #ZEREBRO 上获利超过1000倍\n这个钱包在我们的追踪名单上。\n一但有任何交易，我们都会发现。\n也成功吃到了 27x \n📱 https://debot.ai?inviteCode=174709  \n(最好用的监控平台)\n如果你感兴趣，请随时加入我们的金狗信号📶群。\n目前，我们在直播抓CA\n✈️ https://t.me/lianqiujun\n他的钱包地址: \nHYWo71Wk9PNDe5sBaRKazPnVyGnQDiwgXCFKvgAQ1ENp",
-          "link": "https://x.com/AntCaveClub/status/1881646582321603036",
-          "publishedOn": "2025-01-21T10:14:39.000Z",
-          "wordCount": 6,
-          "title": "一个通过 $TRUMP 赚了800万美元的钱包，5小时前刚刚捕获了#ZACHXBT，并赚了120万美元(+3200%)。 这个钱包几乎什么币都会买，过去7天的中签率在40%左右。 在过去...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881622172571254818",
-          "author": "链求君 🔥",
-          "description": "M5MFPbS4X6eYek21xhFU38DTavMLuGY9eyC5p8Tpump\nZachXBT 将其拥有的meme持仓加入到了流动性池。 \n多位影响力者在帮助 ZachXBT 推动资金筹集。\n\n\n\nZachXBT: @imRickDeckard @cryptog65230648 @MickiCrossChain @Iam_Polycarp 95% of that is illiquid pump fun coins which cannot be sold for actual value",
-          "link": "https://x.com/AntCaveClub/status/1881622172571254818",
-          "publishedOn": "2025-01-21T08:37:39.000Z",
-          "wordCount": 6,
-          "title": "M5MFPbS4X6eYek21xhFU38DTavMLuGY9eyC5p8Tpump ZachXBT 将其拥有的meme持仓加入到了流动性池。 多位影响力者在帮助 ZachXBT 推动资金筹集。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881295936061919290",
-          "author": "链求君 🔥",
-          "description": "$BARRON 瞬间下跌📉 90%... \n收网了。 \n都说这个钱包有问题。 \n$DJT 的时候就割了一把。 \n这把 $300M 直接砸穿到 $30M \n但你无法证明:  这是巴伦-特朗普的钱包干的。\n\n\n链求君 🔥: 据匿名人士透露 ， 通过链上数据分析\n特朗普的儿子 （ 巴伦·特朗普 ），进行多笔内幕交易，并从中获利。\n巴伦·特朗普的 @pumpdotfun 个人资料是https://pump.fun/profile/2N7qg9a3N6DXgDBXvgZ5JGnXvxUnX1YhBEC5Y7waqxmi\n 让我们深入研究一下他的钱包： \n2N7qg9a3N6DXgDBXvgZ5JGnXvxUnX1YhBEC5Y7waqxmi\n他的钱包已经被确认 ⬇️",
-          "link": "https://x.com/AntCaveClub/status/1881295936061919290",
-          "publishedOn": "2025-01-20T11:01:18.000Z",
-          "wordCount": 6,
-          "title": "$BARRON 瞬间下跌📉 90%... 收网了。 都说这个钱包有问题。 $DJT 的时候就割了一把。 这把 $300M 直接砸穿到 $30M 但你无法证明: 这是巴伦-特朗普的钱包干的。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881267113886994765",
-          "author": "链求君 🔥",
-          "description": "Re @bishengkegs 刚看，看错了。\n以为还要求长得帅。",
-          "link": "https://x.com/AntCaveClub/status/1881267113886994765",
-          "publishedOn": "2025-01-20T09:06:46.000Z",
-          "wordCount": 6,
-          "title": "Re @bishengkegs 刚看，看错了。 以为还要求长得帅。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881202017240256594",
-          "author": "链求君 🔥",
-          "description": "📱 https://app.debot.ai?inviteCode=174709\n有的人在观望，有的人已经赚一周了。 \n执行力 + 认知 + 信息差 ， 少一个都很难赚\n✈️ 信号群📶 https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1881202017240256594",
-          "publishedOn": "2025-01-20T04:48:06.000Z",
-          "wordCount": 6,
-          "title": "📱 https://app.debot.ai?inviteCode=174709 有的人在观望，有的人已经赚一周了。 执行力 + 认知 + 信息差 ， 少一个都很难赚 ✈️ 信号群📶 https://t.me/l...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881184612992610697",
-          "author": "链求君 🔥",
-          "description": "Re 需要注意几点。 Shkreli 钱包与 Barron 主钱包的唯一互动是在 4 月份向他发送了 1 个 SOL。我认为这是 Barron 对\n@phantom 和 Solana 的学习使用过程。\n在 Martin 的 X 空间中，他谈到了向 Barron 介绍交易 SOL 的技巧\n许多人指责 Shkreli 是所有 DJT 钱包的幕后黑手，但如果你看看这些活动，就会发现它们显然是由不同的人持有的。\n而 Shkreli 钱包和 Barron 钱包之间唯一的联系就是 4 月份发送的 1 个 SOL\n一个主要区别在于与交易所的交互。铸造 DJT 的钱包仅与 Kucoin 交互。\n收到2B DJT 的钱包与 Jupiter、Raydium、Jito、Bloxroute 和@pumpdotfun交互\n我们还可以看看为线索而制作的“2N7q”硬币。\n为什么 Bo 只用他的姐妹来制作硬币？\n为什么 Shkreli 会用一条关于他的推文来制作硬币？ 女朋友？\n这显然是他们的朋友之一做的，赚了很丰厚的钱。\n我相信那个朋友只能是藏在幕后的： 巴伦·特朗普",
-          "link": "https://x.com/AntCaveClub/status/1881184612992610697",
-          "publishedOn": "2025-01-20T03:38:57.000Z",
-          "wordCount": 6,
-          "title": "Re 需要注意几点。 Shkreli 钱包与 Barron 主钱包的唯一互动是在 4 月份向他发送了 1 个 SOL。我认为这是 Barron 对 @phantom 和 Solana 的学习使用过程。 在 Ma...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881184615752462804",
-          "author": "链求君 🔥",
-          "description": "Re 简单讲就是：  \n - 巴伦·特朗普经常多个钱包玩pump\n- $DJT 割韭菜赚了非常多的钱\n- 还发过吸食可卡因的meme 🤔\n仅来自上述链上数据分析， @elonsfeed942833 账号匿名身份未知。",
-          "link": "https://x.com/AntCaveClub/status/1881184615752462804",
-          "publishedOn": "2025-01-20T03:38:57.000Z",
-          "wordCount": 6,
-          "title": "Re 简单讲就是： - 巴伦·特朗普经常多个钱包玩pump - $DJT 割韭菜赚了非常多的钱 - 还发过吸食可卡因的meme 🤔 仅来自上述链上数据分析， @elonsfeed942833 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1881184601449840776",
-          "author": "链求君 🔥",
-          "description": "据匿名人士透露 ， 通过链上数据分析\n特朗普的儿子 （ 巴伦·特朗普 ），进行多笔内幕交易，并从中获利。\n巴伦·特朗普的 @pumpdotfun 个人资料是https://pump.fun/profile/2N7qg9a3N6DXgDBXvgZ5JGnXvxUnX1YhBEC5Y7waqxmi\n 让我们深入研究一下他的钱包： \n2N7qg9a3N6DXgDBXvgZ5JGnXvxUnX1YhBEC5Y7waqxmi\n他的钱包已经被确认 ⬇️\n\n\n\nelonsfeed99: Barron Trump's @pumpdotfun profile is https://pump.fun/profile/2N7qg9a3N6DXgDBXvgZ5JGnXvxUnX1YhBEC5Y7waqxmi he's even made a few coins. My favorite is Hunter the Snow Plow. Let's dig in",
-          "link": "https://x.com/AntCaveClub/status/1881184601449840776",
-          "publishedOn": "2025-01-20T03:38:54.000Z",
-          "wordCount": 6,
-          "title": "据匿名人士透露 ， 通过链上数据分析 特朗普的儿子 （ 巴伦·特朗普 ），进行多笔内幕交易，并从中获利。 巴伦·特朗普的 @pumpdotfun 个人资料是https://pump.f...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1881425184076513513",
-          "author": "DeFi Educator",
-          "description": "Re @BobLoukas Think this is the one you’re looking for",
-          "link": "https://x.com/DeFi_educator/status/1881425184076513513",
-          "publishedOn": "2025-01-20T19:34:53.000Z",
-          "wordCount": 6,
-          "title": "Re @BobLoukas Think this is the one you’re looking for",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1881130440758813049",
-          "author": "DeFi Educator",
-          "description": "RT Ryan Fournier\nRe @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.",
-          "link": "https://x.com/DeFi_educator/status/1881130440758813049",
-          "publishedOn": "2025-01-19T21:55:21.000Z",
-          "wordCount": 6,
-          "title": "RT Ryan Fournier: Re @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1880605386971238782",
-          "author": "DeFi Educator",
-          "description": "RT wassielawyer （哇西律师）\n1/ Longer form thoughts re Trump memecoin.\nIts suggestive of a term that's short-term great for price / liquidity but long-term suboptimal for industry development.\nMy concern is on a mid-long term timeframe. Short-term I'm trading the shitters with you all.\nHere's why.\n\nwassielawyer （哇西律师）: Trump dropping his own memecoin means he has the wrong people in his ear re crypto policy. \nI’m now getting very concerned about the Trump presidency.",
-          "link": "https://x.com/DeFi_educator/status/1880605386971238782",
-          "publishedOn": "2025-01-18T10:14:55.000Z",
-          "wordCount": 6,
-          "title": "RT wassielawyer （哇西律师）: 1/ Longer form thoughts re Trump memecoin. Its suggestive of a term that's short-term great for price / liquidity but lo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876369707848069151",
-          "author": "DeFi Educator",
-          "description": "RT Res\nA thread on Portfolio Management, Execution, & Psychology to level up your game.\n8 mental frameworks to cut through the noise and become a sharper, more focused, and structured trader 🧵",
-          "link": "https://x.com/DeFi_educator/status/1876369707848069151",
-          "publishedOn": "2025-01-06T17:26:37.000Z",
-          "wordCount": 6,
-          "title": "RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876296396183314580",
-          "author": "DeFi Educator",
-          "description": "Re @gmgemma_ai gm gemma",
-          "link": "https://x.com/DeFi_educator/status/1876296396183314580",
-          "publishedOn": "2025-01-06T15:54:55.000Z",
-          "wordCount": 6,
-          "title": "Re @gmgemma_ai gm gemma",
-          "imageUrl": null
-        }
-      ]
     },
     {
       "title": "Twitter @Onchain Wizard",
@@ -453,6 +396,213 @@
           "publishedOn": "2024-12-29T06:58:38.000Z",
           "wordCount": 6,
           "title": "Re @Flowslikeosmo $20m ARR now, AI accelerating. Cannot be more bullish",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://x.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881852833341030451",
+          "author": "Surfer",
+          "description": "RT Free_Ross\nRoss was just granted a FULL AND UNCONDITIONAL PARDON by @realDonaldTrump. Words cannot express how grateful we are.\nPresident Trump is a man of his word and he just saved Ross's life. ROSS IS A FREE MAN!!!!!",
+          "link": "https://x.com/DeFiSurfer808/status/1881852833341030451",
+          "publishedOn": "2025-01-21T23:50:36.000Z",
+          "wordCount": 6,
+          "title": "RT Free_Ross: Ross was just granted a FULL AND UNCONDITIONAL PARDON by @realDonaldTrump. Words cannot express how grateful we are. President Trump is ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881839062555996201",
+          "author": "Surfer",
+          "description": "Re @wabuffo Be more useful is if they shared margin as a % of equity. Spx is up >30% from the prior all time high so margin quantum hitting all time high just now could imply avg user is much less levered vs prior peaks in the market",
+          "link": "https://x.com/DeFiSurfer808/status/1881839062555996201",
+          "publishedOn": "2025-01-21T22:59:30.000Z",
+          "wordCount": 6,
+          "title": "Re @wabuffo Be more useful is if they shared margin as a % of equity. Spx is up >30% from the prior all time high so margin quantum hitting all time h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881821304279663040",
+          "author": "Surfer",
+          "description": "Whoa. Usdc entering tether print size territory\n\nStablecoin Printer: Just printed $952,785,336 USDC!\nCirculating Supply: $50,781,622,089",
+          "link": "https://x.com/DeFiSurfer808/status/1881821304279663040",
+          "publishedOn": "2025-01-21T21:48:56.000Z",
+          "wordCount": 6,
+          "title": "Whoa. Usdc entering tether print size territory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881827125772329105",
+          "author": "Surfer",
+          "description": "RT Gammichan\nDXY down, yields down, gold up, equities up, Bitcoin up.\nThe markets have spoken on what direction they want to move in for the next month+",
+          "link": "https://x.com/DeFiSurfer808/status/1881827125772329105",
+          "publishedOn": "2025-01-21T21:46:42.000Z",
+          "wordCount": 6,
+          "title": "RT Gammichan: DXY down, yields down, gold up, equities up, Bitcoin up. The markets have spoken on what direction they want to move in for the next mon...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881816207411785898",
+          "author": "Surfer",
+          "description": "Re @therevcap Did they share a leverage ratio? If it’s just nominal # that’s less informative",
+          "link": "https://x.com/DeFiSurfer808/status/1881816207411785898",
+          "publishedOn": "2025-01-21T21:28:40.000Z",
+          "wordCount": 6,
+          "title": "Re @therevcap Did they share a leverage ratio? If it’s just nominal # that’s less informative",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881792738871677290",
+          "author": "Surfer",
+          "description": "Re @novogratz How long before Wall Street figures out GLXY is sitting on the largest AI datacenter asset in the world",
+          "link": "https://x.com/DeFiSurfer808/status/1881792738871677290",
+          "publishedOn": "2025-01-21T19:55:25.000Z",
+          "wordCount": 6,
+          "title": "Re @novogratz How long before Wall Street figures out GLXY is sitting on the largest AI datacenter asset in the world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881764423943196754",
+          "author": "Surfer",
+          "description": "Re @toptickcrypto Good way to think about it",
+          "link": "https://x.com/DeFiSurfer808/status/1881764423943196754",
+          "publishedOn": "2025-01-21T18:02:54.000Z",
+          "wordCount": 6,
+          "title": "Re @toptickcrypto Good way to think about it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881739992210530603",
+          "author": "Surfer",
+          "description": "Re @RyanDetrick About inline with the growth of M2",
+          "link": "https://x.com/DeFiSurfer808/status/1881739992210530603",
+          "publishedOn": "2025-01-21T16:25:49.000Z",
+          "wordCount": 6,
+          "title": "Re @RyanDetrick About inline with the growth of M2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881686553011122187",
+          "author": "Surfer",
+          "description": "RT Ki Young Ju\n$MSTR is undervalued relative to its #Bitcoin holdings.",
+          "link": "https://x.com/DeFiSurfer808/status/1881686553011122187",
+          "publishedOn": "2025-01-21T12:17:07.000Z",
+          "wordCount": 6,
+          "title": "RT Ki Young Ju: $MSTR is undervalued relative to its #Bitcoin holdings.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881574422802575776",
+          "author": "Surfer",
+          "description": "Re @chrono_chartist 2017 prolonged pump or 2021 pump and dump",
+          "link": "https://x.com/DeFiSurfer808/status/1881574422802575776",
+          "publishedOn": "2025-01-21T05:27:55.000Z",
+          "wordCount": 6,
+          "title": "Re @chrono_chartist 2017 prolonged pump or 2021 pump and dump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881567676818141262",
+          "author": "Surfer",
+          "description": "Re @Valentino_0x Haha love it",
+          "link": "https://x.com/DeFiSurfer808/status/1881567676818141262",
+          "publishedOn": "2025-01-21T05:01:06.000Z",
+          "wordCount": 6,
+          "title": "Re @Valentino_0x Haha love it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881564570986426786",
+          "author": "Surfer",
+          "description": "If / when they announce HyperEVM and related ecosystem incentives this could cook\n\nHyperliquid: All-time highs two days in a row: \nHyperliquid reached >$22B in 24h volume",
+          "link": "https://x.com/DeFiSurfer808/status/1881564570986426786",
+          "publishedOn": "2025-01-21T04:48:46.000Z",
+          "wordCount": 6,
+          "title": "If / when they announce HyperEVM and related ecosystem incentives this could cook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881561184899682742",
+          "author": "Surfer",
+          "description": "Nice to have a president who follows thru on his campaign promises \nWith Obama people voted for “Hope” and “Change” and got drone strikes and race communism\n\nAcyn: Trump: So this is January 6th, these are the hostages, approximately 1500 were pardoned. Full pardon. You have about six commutations in there but we are doing further research. This is a big one. We hope they come out tonight",
+          "link": "https://x.com/DeFiSurfer808/status/1881561184899682742",
+          "publishedOn": "2025-01-21T04:35:18.000Z",
+          "wordCount": 6,
+          "title": "Nice to have a president who follows thru on his campaign promises With Obama people voted for “Hope” and “Change” and got drone strikes and race ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881683596077039746",
+          "author": "Surfer",
+          "description": "RT Anna Matson\nHere we go. Here is a thread of all of President Trump’s Executive Orders he signed on his first day. \nTell me your favorite at the end!\n👇",
+          "link": "https://x.com/DeFiSurfer808/status/1881683596077039746",
+          "publishedOn": "2025-01-21T03:34:04.000Z",
+          "wordCount": 6,
+          "title": "RT Anna Matson: Here we go. Here is a thread of all of President Trump’s Executive Orders he signed on his first day. Tell me your favorite at the en...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881497503557955815",
+          "author": "Surfer",
+          "description": "RT Bingoto.hl\ndot eths everytime ethbtc starts moving 0.5% in their favor",
+          "link": "https://x.com/DeFiSurfer808/status/1881497503557955815",
+          "publishedOn": "2025-01-21T00:08:47.000Z",
+          "wordCount": 6,
+          "title": "RT Bingoto.hl: dot eths everytime ethbtc starts moving 0.5% in their favor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881493944959430836",
+          "author": "Surfer",
+          "description": "Re @frizzaud Level to level me matey",
+          "link": "https://x.com/DeFiSurfer808/status/1881493944959430836",
+          "publishedOn": "2025-01-21T00:08:07.000Z",
+          "wordCount": 6,
+          "title": "Re @frizzaud Level to level me matey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881486726830669999",
+          "author": "Surfer",
+          "description": "Re @0xds_ Eth is defi imo",
+          "link": "https://x.com/DeFiSurfer808/status/1881486726830669999",
+          "publishedOn": "2025-01-20T23:39:26.000Z",
+          "wordCount": 6,
+          "title": "Re @0xds_ Eth is defi imo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881465407355470301",
+          "author": "Surfer",
+          "description": "The President of the United States of America is long bitcoin and DeFi on the first day of his second term \nWut mean\n\nWLFI: To commemorate the inauguration of Donald J. Trump as the 47th President of the United States, $WLFI is proud to announce the following strategic purchases today:\n$47,000,000 ETH\n$47,000,000 wBTC\n$4,700,000 Aave\n$4,700,000 LINK\n$4,700,000 TRX\n$4,700,000 ENA\nExcited for the",
+          "link": "https://x.com/DeFiSurfer808/status/1881465407355470301",
+          "publishedOn": "2025-01-20T22:14:43.000Z",
+          "wordCount": 6,
+          "title": "The President of the United States of America is long bitcoin and DeFi on the first day of his second term Wut mean",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881461113344475531",
+          "author": "Surfer",
+          "description": "Re @0xKNL__ To break down thru $19?",
+          "link": "https://x.com/DeFiSurfer808/status/1881461113344475531",
+          "publishedOn": "2025-01-20T21:57:39.000Z",
+          "wordCount": 6,
+          "title": "Re @0xKNL__ To break down thru $19?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1881456909326463468",
+          "author": "Surfer",
+          "description": "Re @MetamateDaz Ya bro can’t pitch hype based on its current fundamentals gotta sell the dream!",
+          "link": "https://x.com/DeFiSurfer808/status/1881456909326463468",
+          "publishedOn": "2025-01-20T21:40:57.000Z",
+          "wordCount": 6,
+          "title": "Re @MetamateDaz Ya bro can’t pitch hype based on its current fundamentals gotta sell the dream!",
           "imageUrl": null
         }
       ]
