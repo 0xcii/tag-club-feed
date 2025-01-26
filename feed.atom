@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-26T22:13:28.586Z</id>
+    <id>urn:2025-01-26T23:13:41.334Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-26T22:13:28.586Z</updated>
+    <updated>2025-01-26T23:13:41.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @matteopelleg Gotta look at it per capita]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883590326314783146</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883590326314783146"/>
+        <updated>2025-01-26T18:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @matteopelleg Gotta look at it per capita]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Patrick Scott | Dynamo DeFi: This is the most important onchain metric chart right now. Stablecoins are rushing into Solana at the same time App Re...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883580803583783324</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883580803583783324"/>
+        <updated>2025-01-26T18:18:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Patrick Scott | Dynamo DeFi
+This is the most important onchain metric chart right now. Stablecoins are rushing into Solana at the same time App Revenue breaks records.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re DeBot 团队近日注意到慢雾团队成员 @im23pds 提出的安全风险问题，并已完成紧急升级。风险具体表现为用户在初始化和导出钱包阶段，DeBot 依赖 HTTPS 协议进行...]]></title>
         <id>https://twitter.com/wublockchain12/status/1883568856725422148</id>
@@ -13,6 +34,16 @@
         <summary type="html"><![CDATA[Re DeBot 团队近日注意到慢雾团队成员 @im23pds 提出的安全风险问题，并已完成紧急升级。风险具体表现为用户在初始化和导出钱包阶段，DeBot 依赖 HTTPS 协议进行数据传输，虽然具有一定的加密能力，但在特定条件下可能面临中间人攻击的风险。为此，DeBot 团队在 HTTPS 传输层之上增加了额外的加密机制，确保传输过程中数据即使遭遇恶意攻击也能保持加密状态，从而有效降低风险。]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MoonOverlord Another negative is @Bluntz_Capital ‘s squiggle]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883555455764771181</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883555455764771181"/>
+        <updated>2025-01-26T16:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @MoonOverlord Another negative is @Bluntz_Capital ‘s squiggle]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -209,6 +240,123 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37011]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Larry Tentarelli, Blue Chip Daily: Spot Gold made a new record weekly closing high.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883291723310534737</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883291723310534737"/>
+        <updated>2025-01-25T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Larry Tentarelli, Blue Chip Daily
+Spot Gold made a new record weekly closing high.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Callum_Thomas There was a real recession in 2022]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883275991994478607</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883275991994478607"/>
+        <updated>2025-01-25T22:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @Callum_Thomas There was a real recession in 2022]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JSpitTrades U worried about Mstr at all? No longer leading]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883242680102392236</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883242680102392236"/>
+        <updated>2025-01-25T19:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @JSpitTrades U worried about Mstr at all? No longer leading]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheShortBear We had a real recession in 2022]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883222985076842924</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883222985076842924"/>
+        <updated>2025-01-25T18:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheShortBear We had a real recession in 2022]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Stone tossers:]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883223333405426150</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883223333405426150"/>
+        <updated>2025-01-25T16:13:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Stone tossers]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @balajis We should be encouraging other countries like India to develop like China. This is nothing to be fearful of]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883172107418468628</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883172107418468628"/>
+        <updated>2025-01-25T15:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @balajis We should be encouraging other countries like India to develop like China. This is nothing to be fearful of]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😭]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883162150895849815</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883162150895849815"/>
+        <updated>2025-01-25T14:36:58.000Z</updated>
+        <summary type="html"><![CDATA[😭
+
+Willy Woo: On this week 10 years ago.  
+Some things never change (1), others are always changing (2-20).]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Giga Based Dad: Yup 🎯]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883588440387989619</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883588440387989619"/>
+        <updated>2025-01-25T14:33:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Giga Based Dad
+Yup 🎯]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Bob Loukas 🗽: gm 🫰 Bitcoin/Crypto just building another base to support the next level. Go enjoy the weekend.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1883160252700655683</id>
+        <link href="https://x.com/DeFiSurfer808/status/1883160252700655683"/>
+        <updated>2025-01-25T14:23:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Bob Loukas 🗽
+gm 🫰
+Bitcoin/Crypto just building another base to support the next level.  Go enjoy the weekend.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cobie @Evan_ss6 What’s ur base case]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882965265933283721</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882965265933283721"/>
+        <updated>2025-01-25T01:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @cobie @Evan_ss6 What’s ur base case]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Pickle_cRypto We get a capitulation before then?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882938391576354928</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882938391576354928"/>
+        <updated>2025-01-24T23:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @Pickle_cRypto We get a capitulation before then?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @rasmr_eth]]></title>
         <id>https://twitter.com/DeFi_educator/status/1882899714364072094</id>
         <link href="https://x.com/DeFi_educator/status/1882899714364072094"/>
@@ -216,6 +364,61 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37011]]
         <summary type="html"><![CDATA[Re @rasmr_eth]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe if JPOW comes out hawkish next week we get this?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882886313986462063</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882886313986462063"/>
+        <updated>2025-01-24T20:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Maybe if JPOW comes out hawkish next week we get this?
+
+Ansem 🧸💸:]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZaStocks We in the big leagues!]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882841040484491761</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882841040484491761"/>
+        <updated>2025-01-24T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZaStocks We in the big leagues!]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel like $coin is signaling others will start leading soon…]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882820602517671976</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882820602517671976"/>
+        <updated>2025-01-24T15:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Feel like $coin is signaling others will start leading soon…]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882800401860460572</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882800401860460572"/>
+        <updated>2025-01-24T14:39:31.000Z</updated>
+        <summary type="html"><![CDATA[👀
+
+Mike Zaccardi, CFA, CMT 🍖: Dollar loses 108 $DXY]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Miles Deutscher: $BTC is above $100k but retail interest is the lowest it's been in 3 years.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1882815964926140504</id>
+        <link href="https://x.com/DeFiSurfer808/status/1882815964926140504"/>
+        <updated>2025-01-24T12:00:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Miles Deutscher
+$BTC is above $100k but retail interest is the lowest it's been in 3 years.]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
