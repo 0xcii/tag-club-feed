@@ -226,16 +226,6 @@
       "siteUrl": "https://x.com/OnChainWizard",
       "articles": [
         {
-          "id": "https://twitter.com/OnChainWizard/status/1884419052170285186",
-          "author": "Onchain Wizard",
-          "description": "Re @JiraiyaReal Agreed.  One of the most exciting themes of ‘25",
-          "link": "https://x.com/OnChainWizard/status/1884419052170285186",
-          "publishedOn": "2025-01-29T01:51:27.000Z",
-          "wordCount": 6,
-          "title": "Re @JiraiyaReal Agreed. One of the most exciting themes of ‘25",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/OnChainWizard/status/1884275399150166375",
           "author": "Onchain Wizard",
           "description": "Re @breviseth @ChainEDGE_io You’ll receive an email with login credentials",
@@ -424,14 +414,18 @@
           "wordCount": 6,
           "title": "Literally everyone to Melania",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1881094927968579872",
+          "author": "Onchain Wizard",
+          "description": "Re @ZeMirch Lol",
+          "link": "https://x.com/OnChainWizard/status/1881094927968579872",
+          "publishedOn": "2025-01-19T21:42:34.000Z",
+          "wordCount": 6,
+          "title": "Re @ZeMirch Lol",
+          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Surfer",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
-      "siteUrl": "https://x.com/DeFiSurfer808",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
