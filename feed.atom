@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-31T23:14:27.856Z</id>
+    <id>urn:2025-02-01T01:17:18.401Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-31T23:14:27.856Z</updated>
+    <updated>2025-02-01T01:17:18.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,66 +87,6 @@ $MSFT has said to think of capex growth in the mid-teens % in FY26 and for long-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据路透社报道，破产的加密货币交易所 FTX 宣布已解决对风险投资公司 K5 Global 提起的诉讼，K5 Global 是一家由希拉里克林顿办公室前助手共同创立的风险投资公司...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885379287257407914</id>
-        <link href="https://x.com/wublockchain12/status/1885379287257407914"/>
-        <updated>2025-01-31T17:27:05.000Z</updated>
-        <summary type="html"><![CDATA[据路透社报道，破产的加密货币交易所 FTX 宣布已解决对风险投资公司 K5 Global 提起的诉讼，K5 Global 是一家由希拉里克林顿办公室前助手共同创立的风险投资公司。双方将合作最大化 FTX 客户和利益相关者的赔偿。FTX 表示，K5 的投资预计将成为恢复过程中的关键驱动力。FTX 此前曾指控 K5 通过不当资金转移获得了 7 亿美元的投资，并提起诉讼。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37225]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Labs 已正式发布 Uniswap v4，将该协议转变为开发者平台。Uniswap v4 支持多个区块链网络，包括以太坊、Arbitrum、OP Mainnet 和 Base，用户可通过 Unis...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885370305906172348</id>
-        <link href="https://x.com/wublockchain12/status/1885370305906172348"/>
-        <updated>2025-01-31T16:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs 已正式发布 Uniswap v4，将该协议转变为开发者平台。Uniswap v4 支持多个区块链网络，包括以太坊、Arbitrum、OP Mainnet 和 Base，用户可通过 Uniswap 网页应用提供流动性，且兑换功能将在未来几天陆续上线。v4 引入了“hooks”合约，允许开发者自定义池、交换、费用和流动性提供者（LP）位置的交互，从而推动更深的流动性和更多的交易。此外，v4 在 Uniswap v3 的资本效率基础上进行了一些架构改进，采用了“singleton”流动性架构，旨在提高交易速度、降低 gas 费用并改善用户体验。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37224]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Berachain 基金会宣布成立 BGT 基金会，负责代表 BGT 持有者推动网络的治理和发展。理过程分为几个阶段，首先通过稳定的 BeraSwap 流动性池为网络奠定...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885367829492621721</id>
-        <link href="https://x.com/wublockchain12/status/1885367829492621721"/>
-        <updated>2025-01-31T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Berachain 基金会宣布成立 BGT 基金会，负责代表 BGT 持有者推动网络的治理和发展。理过程分为几个阶段，首先通过稳定的 BeraSwap 流动性池为网络奠定基础，随后逐步引入第三方 dApp 和奖励库。PoL 激活后，任何协议池都可以申请 BGT 奖励。随着治理的去中心化，BGT 持有者将能够提出并投票决定协议变更。Guardians 在紧急情况下保留否决权，以确保网络安全。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37223]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，TON AI Bounty Program 旨在推动 TON 插件在 ElizaOS AI 框架中的开发，允许开发者通过完成任务并提交合并的 PR 来获得奖励。开发者可以选择 GitHub ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885365131183640753</id>
-        <link href="https://x.com/wublockchain12/status/1885365131183640753"/>
-        <updated>2025-01-31T16:30:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，TON AI Bounty Program 旨在推动 TON 插件在 ElizaOS AI 框架中的开发，允许开发者通过完成任务并提交合并的 PR 来获得奖励。开发者可以选择 GitHub 上标记为“TON Plugin Bounty”的任务，声明意向后进行开发并提交 PR。Eliza Labs 技术团队会审查提交的 PR，符合要求的将获得奖励，支付由 TON Foundation 处理。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37222]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布收购 Spindl，Spindl 是一家专注于链上广告和归因的平台，旨在解决链上应用的分发问题。通过此次收购，Coinbase 希望帮助开发者实现链上...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885361758606680353</id>
-        <link href="https://x.com/wublockchain12/status/1885361758606680353"/>
-        <updated>2025-01-31T16:17:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布收购 Spindl，Spindl 是一家专注于链上广告和归因的平台，旨在解决链上应用的分发问题。通过此次收购，Coinbase 希望帮助开发者实现链上传播，并加速用户增长。收购后，Spindl 将在 Base 下继续运营，支持现有客户，并遵循开放标准，推动整个生态系统的可持续发展。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37221]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Genius Group 宣布向股东发行配股，配股净收益将全部用于购买比特币，预计收益最高可达 3300 万美元。此外，公司还计划寻求最高 2200 万美元的额外贷...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885356288609263921</id>
-        <link href="https://x.com/wublockchain12/status/1885356288609263921"/>
-        <updated>2025-01-31T15:55:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Genius Group 宣布向股东发行配股，配股净收益将全部用于购买比特币，预计收益最高可达 3300 万美元。此外，公司还计划寻求最高 2200 万美元的额外贷款融资。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37220]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @NicolasFlamelX Brooo]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1885349814251962715</id>
         <link href="https://x.com/DeFiSurfer808/status/1885349814251962715"/>
@@ -167,26 +107,6 @@ $MSFT has said to think of capex growth in the mid-teens % in FY26 and for long-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BounceBit 宣布与 Hashnote Labs（由 Circle 支持的公司）合作以整合 USYC。该项目旨在构建双收益基础设施，包括国债支持资产和基差交易策略，推进 RWA 与 CeDeF...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885343278574231822</id>
-        <link href="https://x.com/wublockchain12/status/1885343278574231822"/>
-        <updated>2025-01-31T15:04:00.000Z</updated>
-        <summary type="html"><![CDATA[BounceBit 宣布与 Hashnote Labs（由 Circle 支持的公司）合作以整合 USYC。该项目旨在构建双收益基础设施，包括国债支持资产和基差交易策略，推进 RWA 与 CeDeFi 的融合。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37219]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Tether 公布 2024 年财报，全年净利润超过 130 亿美元。Tether 对美国国债的直接和间接持有量达到 1130 亿美元，创新高。USDT 发行量在 2024 年累计增...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885340525365973399</id>
-        <link href="https://x.com/wublockchain12/status/1885340525365973399"/>
-        <updated>2025-01-31T14:53:03.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Tether 公布 2024 年财报，全年净利润超过 130 亿美元。Tether 对美国国债的直接和间接持有量达到 1130 亿美元，创新高。USDT 发行量在 2024 年累计增长 450 亿美元，其中 Q4 发行 230 亿美元，超额储备首次超 70 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37218]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[👀]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1885338587958288740</id>
         <link href="https://x.com/DeFiSurfer808/status/1885338587958288740"/>
@@ -201,53 +121,18 @@ Full calendar yr up 21.3% on avg and higher 92.9% of the time.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885328703166832969</id>
-        <link href="https://x.com/wublockchain12/status/1885328703166832969"/>
-        <updated>2025-01-31T14:06:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <title type="html"><![CDATA[RT The Kobeissi Letter: Did DeepSeek illegally buy Nvidia's chips? Since DeepSeek was founded, Nvidia's sales to Singapore are up a WHOPPING +740%. Th...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1885375214155936034</id>
+        <link href="https://x.com/DeFi_educator/status/1885375214155936034"/>
+        <updated>2025-01-31T12:59:41.000Z</updated>
+        <summary type="html"><![CDATA[RT The Kobeissi Letter
+Did DeepSeek illegally buy Nvidia's chips?
+Since DeepSeek was founded, Nvidia's sales to Singapore are up a WHOPPING +740%.
+The US is now PROBING if DeepSeek bought Nvidia's GPUs through third parties in Singapore.
+This will have MASSIVE implications.
+(a thread)]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale 宣布推出新的 Dogecoin 信托。Grayscale 认为，DOGE 不仅是一种模因币，而将成为实现全球金融包容性的工具。此前 Bitwise 等已向美国 SEC 提交申请以...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885326572703387767</id>
-        <link href="https://x.com/wublockchain12/status/1885326572703387767"/>
-        <updated>2025-01-31T13:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale 宣布推出新的 Dogecoin 信托。Grayscale 认为，DOGE 不仅是一种模因币，而将成为实现全球金融包容性的工具。此前 Bitwise 等已向美国 SEC 提交申请以计划推出现货  DOGECOIN ETF。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37216]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，MicroStrategy 宣布优先股发行 (STRK) 定价，将于 2025 年 1 月 30 日发行发行 730 万股，公开发行价为每股 80 美元，股息收益率从最初预期的 8% 提高...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885323965209415708</id>
-        <link href="https://x.com/wublockchain12/status/1885323965209415708"/>
-        <updated>2025-01-31T13:47:15.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，MicroStrategy 宣布优先股发行 (STRK) 定价，将于 2025 年 1 月 30 日发行发行 730 万股，公开发行价为每股 80 美元，股息收益率从最初预期的 8% 提高到 10%。此次发行计划募资约 5.63 亿美元，资金将用于购买更多比特币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37215]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国公布 12 月核心 PCE 通胀率持稳于 2.8%，符合预期。12 月核心 PCE 物价指数月率 0.2%，预期 0.20%，前值 0.10%。https://www.wublock123.com/index.php?m=co...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885322086320656649</id>
-        <link href="https://x.com/wublockchain12/status/1885322086320656649"/>
-        <updated>2025-01-31T13:39:47.000Z</updated>
-        <summary type="html"><![CDATA[美国公布 12 月核心 PCE 通胀率持稳于 2.8%，符合预期。12 月核心 PCE 物价指数月率 0.2%，预期 0.20%，前值 0.10%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37214]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据链上侦探 ZachXBT，一名 Coinbase 用户疑似遭遇社交工程攻击，损失 110 cbBTC（约 1150 万美元）。黑客在 Base 网络上完成盗窃后，迅速将资金兑换、...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1885315493264855329</id>
-        <link href="https://x.com/wublockchain12/status/1885315493264855329"/>
-        <updated>2025-01-31T13:13:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据链上侦探 ZachXBT，一名 Coinbase 用户疑似遭遇社交工程攻击，损失 110 cbBTC（约 1150 万美元）。黑客在 Base 网络上完成盗窃后，迅速将资金兑换、跨链桥转移，并通过多个即时交易平台清洗，最终在以太坊上与其他 Coinbase 受害者的资金合并。近年来，Coinbase 用户因数据泄露、邮件/电话伪造及风控检测不足频繁遭遇社工诈骗，年均损失已超 1.5 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37213]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -410,6 +295,118 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37210]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[吴说获悉，据彭博社，特朗普总统就职典礼执行委员会收到了来自加密货币行业的大额捐款。根据提交至美国参议院公共记录办公室的披露文件，Coinbase、Cryptocom、G...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885229121040769258</id>
+        <link href="https://x.com/wublockchain12/status/1885229121040769258"/>
+        <updated>2025-01-31T07:30:22.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据彭博社，特朗普总统就职典礼执行委员会收到了来自加密货币行业的大额捐款。根据提交至美国参议院公共记录办公室的披露文件，Coinbase、Cryptocom、Galaxy Digital、Paradigm Operations 和 Payward Inc（Kraken）各捐赠 100 万美元，Robinhood Markets 则捐赠 200 万美元。特朗普此次就职典礼的筹款规模预计将超过 2017 年。就职典礼执行委员会计划于 4 月 19 日向美国联邦选举委员会（FEC）提交完整的捐款者名单。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37207]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，跨链互操作性协议 LayerZero 首席执行官 Bryan Pellegrino 发推表示，经过两年多的时间并花费数百万的法律费用，我们与 FTX estate 达成了和解协议。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885221068581069303</id>
+        <link href="https://x.com/wublockchain12/status/1885221068581069303"/>
+        <updated>2025-01-31T06:58:23.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，跨链互操作性协议 LayerZero 首席执行官 Bryan Pellegrino 发推表示，经过两年多的时间并花费数百万的法律费用，我们与 FTX estate 达成了和解协议。原始回购款项已返还给 FTX estate。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37206]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据官方公告，Bithumb 将于当地时间 1 月 31 日下午 19:00 上线 ANIME、VTHO 的韩元交易对。充值/提现开始时间将在发布通知后 2 小时内。ANIME 是由 Ar...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885213206530187591</id>
+        <link href="https://x.com/wublockchain12/status/1885213206530187591"/>
+        <updated>2025-01-31T06:27:08.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据官方公告，Bithumb 将于当地时间 1 月 31 日下午 19:00 上线 ANIME、VTHO 的韩元交易对。充值/提现开始时间将在发布通知后 2 小时内。ANIME 是由 Arbitrum 基金会、Azuki 和 Weeb3 基金会联合推出的项目。VTHO 是 VeChainThor 生态系统的二级代币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37205]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Fortune，特斯拉 CEO 埃隆·马斯克（Elon Musk）的父亲埃罗尔·马斯克（Errol Musk）希望通过一个名为“Musk lt”的代币项目筹集 1.5 亿至2亿美元...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885200764211282020</id>
+        <link href="https://x.com/wublockchain12/status/1885200764211282020"/>
+        <updated>2025-01-31T05:37:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Fortune，特斯拉 CEO 埃隆·马斯克（Elon Musk）的父亲埃罗尔·马斯克（Errol Musk）希望通过一个名为“Musk lt”的代币项目筹集 1.5 亿至2亿美元。老马斯克表示，他对用自己的名字在「meme 币」上赚钱毫无疑虑，因为许多潜在买家必然会把它与他著名的儿子联系在一起。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37204]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《加密律师给特朗普的信：如何让美国成为世界加密货币之都？》超过 20 名加密货币行业律师向特朗普致公开信，建议其政府推行前瞻性政策，助力美国成为世界加密货...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885191853001367614</id>
+        <link href="https://x.com/wublockchain12/status/1885191853001367614"/>
+        <updated>2025-01-31T05:02:17.000Z</updated>
+        <summary type="html"><![CDATA[《加密律师给特朗普的信：如何让美国成为世界加密货币之都？》超过 20 名加密货币行业律师向特朗普致公开信，建议其政府推行前瞻性政策，助力美国成为世界加密货币之都。信中提议在支持美国企业方面，明确代币发行等监管规则，推动稳定币、TradFi 集成、DeFi 等特定领域发展；在促进创新上，尊重加密货币隐私、非中介化和去中心化价值；在营造商业环境时，结束对加密公司去银行化、改善 SEC 规则制定和执行、取消惩罚性税收规则、减少繁文缛节，同时鼓励政府与行业协商并利用监管沙盒控制风险 。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=37192]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 30 日）以太坊现货 ETF 总净流入 6777.26 万美元。昨日单日净流入最多的以太坊现货 ETF 为贝莱德（BlackRo...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885191032067047528</id>
+        <link href="https://x.com/wublockchain12/status/1885191032067047528"/>
+        <updated>2025-01-31T04:59:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 30 日）以太坊现货 ETF 总净流入 6777.26 万美元。昨日单日净流入最多的以太坊现货 ETF 为贝莱德（BlackRock） ETF ETHA，单日净流入为 7985.57 万美元，目前 ETHA 历史总净流入达 40.79 亿美元。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37203]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 30 日）比特币现货 ETF 总净流入 5.88 亿美元。昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885190430805070211</id>
+        <link href="https://x.com/wublockchain12/status/1885190430805070211"/>
+        <updated>2025-01-31T04:56:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，根据 SoSoValue 数据，昨日（美东时间 1 月 30 日）比特币现货 ETF 总净流入 5.88 亿美元。昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock）ETF IBIT，单日净流入为 3.21 亿美元，目前 IBIT 历史总净流入达 401.16 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37202]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Onchain Lens 监测，Circle 于今日北京时间 12:28 在 Solana 链上铸造了 2.5 亿枚 USDC，2025 年迄今已在 Solana 链上累计铸造了 57.5 亿枚 USDC。...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885189811134480533</id>
+        <link href="https://x.com/wublockchain12/status/1885189811134480533"/>
+        <updated>2025-01-31T04:54:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Onchain Lens 监测，Circle 于今日北京时间 12:28 在 Solana 链上铸造了 2.5 亿枚 USDC，2025 年迄今已在 Solana 链上累计铸造了 57.5 亿枚 USDC。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37201]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 204 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra Devnet 5（讨论了影响 Nethermind 客户端的安...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885185509783461966</id>
+        <link href="https://x.com/wublockchain12/status/1885185509783461966"/>
+        <updated>2025-01-31T04:37:05.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 204 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra Devnet 5（讨论了影响 Nethermind 客户端的安全漏洞，该漏洞由 BLS 预编译优化引起。预计不会阻碍 Pectra Devnet 6 的发布，因为相关修复已完成，将在大多数客户端团队通过新的 Hive 测试后发布）、Pectra 时间表（Pectra Devnet 6 预计将在2月3日的一周发布。计划在 2 月 6 日的下一次 ACD 通话中确定 Holesky 和 Sepolia 测试网的升级时间槽，并预计在 2 月 19 日左右升级 Holesky 测试网，约 1 周后 2 月 26 日左右升级 Sepolia 测试网。预计以太坊主网的升级将在 3 月中旬进行）等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37200]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，马斯克引用 DOGE 官方推文表示，截至 1 月 29 日，美国政府效率部门（DOGE ）已经促使教育部、劳工部、财政部、国防部等 24 个政府部门终止了 85 份与...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885183562221314261</id>
+        <link href="https://x.com/wublockchain12/status/1885183562221314261"/>
+        <updated>2025-01-31T04:29:20.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，马斯克引用 DOGE 官方推文表示，截至 1 月 29 日，美国政府效率部门（DOGE ）已经促使教育部、劳工部、财政部、国防部等 24 个政府部门终止了 85 份与 DEIA（多样性、公平、包容性和可及性）相关的合同，总金额约 10 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37199]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 监测，某个实体以 50 亿美元的估值分两笔购买了 2000 万美元的特朗普家族加密项目 World Liberty 的预售，成为仅次于孙宇晨的第二大投资者...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1885179753336103386</id>
+        <link href="https://x.com/wublockchain12/status/1885179753336103386"/>
+        <updated>2025-01-31T04:14:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 监测，某个实体以 50 亿美元的估值分两笔购买了 2000 万美元的特朗普家族加密项目 World Liberty 的预售，成为仅次于孙宇晨的第二大投资者，但孙宇晨购买的估值仅为 15 亿美元。Conor 指出，该实体（多签地址 0x848）的签名者之一是 0x407，而后者不仅由 World Liberty 部署者提供资金（两笔 ETH 转账），同时也是是 WLF 冷存储多签的签名者，并且还被 Arkham 标记为 “worldlibertyfinancial manager”。Conor 猜测这是进行某种回购。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37198]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Citrini: the pause in rate cuts during the dot com bubble was bullish in fact, even the resumption of hikes was bullish (until it wasn’t)]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1885173978559324168</id>
         <link href="https://x.com/DeFiSurfer808/status/1885173978559324168"/>
@@ -558,6 +555,44 @@ Doc: What’s more likely to occur in 2025?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Andre Cronje: http://x.com/i/article/1885036518219100160]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1885063713444540503</id>
+        <link href="https://x.com/DeFi_educator/status/1885063713444540503"/>
+        <updated>2025-01-30T19:56:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Andre Cronje
+http://x.com/i/article/1885036518219100160]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cryptamurai The best of times]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1885027620120572333</id>
+        <link href="https://x.com/OnChainWizard/status/1885027620120572333"/>
+        <updated>2025-01-30T18:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptamurai The best of times]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$IO -benefitting from rising decentralize compute demand from agents -is expanding offering from just compute to a full suite of AI products The true ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1885021185995346200</id>
+        <link href="https://x.com/OnChainWizard/status/1885021185995346200"/>
+        <updated>2025-01-30T17:44:07.000Z</updated>
+        <summary type="html"><![CDATA[$IO 
+-benefitting from rising decentralize compute demand from agents
+-is expanding offering from just compute to a full suite of AI products
+The true pick and shovels play for AI agents this cycle
+
+Tau: Becoming the largest decentralized compute network was just the beginning. 
+Our vision is to decentralize the full AI tech stack and and build a platform that will make it easier than ever for deAI builders to bring their own visions to life. 
+The next 60 days are going to be a]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re 另外，请确保你订阅了我的 Tg 频道，不要错过任何新帖子 https://t.me/lianqiujun 更多优秀工具： 📱 AI驱动交易- https://www.pumpx.ai/refer?inviteCode=...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1885013581424705625</id>
         <link href="https://x.com/AntCaveClub/status/1885013581424705625"/>
@@ -630,6 +665,334 @@ Re @okx  交易所将下架 $USDT 稳定币交易
         <summary type="html"><![CDATA[Re @CavanXy Looks like btc is coming out of a base rather than trading at top of a range IMO]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZeMirch Arb szn April '23 pepe + memes TG trading bots Animal racing brc DePin/GPU 404 szn (rip) Sol Memes domination most of '24 post the great G...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1884686116646764826</id>
+        <link href="https://x.com/OnChainWizard/status/1884686116646764826"/>
+        <updated>2025-01-29T19:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZeMirch Arb szn
+April '23 pepe + memes
+TG trading bots
+Animal racing
+brc
+DePin/GPU
+404 szn (rip)
+Sol Memes domination most of '24 post the great GPU larp death of april '24
+AI agents
+AI agent "infra"]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JiraiyaReal Agreed. One of the most exciting themes of ‘25]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1884419052170285186</id>
+        <link href="https://x.com/OnChainWizard/status/1884419052170285186"/>
+        <updated>2025-01-29T01:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiraiyaReal Agreed.  One of the most exciting themes of ‘25]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretty amazing to see @goodalexander and @IridiumEagle casually talk about deepseek and it’s implications a month before everyone else caught on! �...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1884288099917914583</id>
+        <link href="https://x.com/DeFi_educator/status/1884288099917914583"/>
+        <updated>2025-01-28T17:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Pretty amazing to see @goodalexander and @IridiumEagle casually talk about deepseek and it’s implications a month before everyone else caught on! 
+🧠
+
+goodalexander: @IridiumEagle https://x.com/i/spaces/1nAJEpLQlPvGL link just in case]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @breviseth @ChainEDGE_io You’ll receive an email with login credentials]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1884275399150166375</id>
+        <link href="https://x.com/OnChainWizard/status/1884275399150166375"/>
+        <updated>2025-01-28T16:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @breviseth @ChainEDGE_io You’ll receive an email with login credentials]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $MOVE, $XDC, $JUP, $XRP leading alt strength $DeepSeek, $GFM, $Beenz and $alpha leading onchain strength ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1884255660055163138</id>
+        <link href="https://x.com/OnChainWizard/status/1884255660055163138"/>
+        <updated>2025-01-28T15:01:56.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+$MOVE, $XDC, $JUP, $XRP leading alt strength
+$DeepSeek, $GFM, $Beenz and $alpha leading onchain strength
+TG bot volumes re-accelerating, $BTC still above $100k despite extreme bearishness yesterday
+$IO hits $23mm ARR]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: The DeepSeek reset + $1bn of liquidations. A few onchain coins showing strength like $CUR, $DeepSeek, $Se...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1883950324362404187</id>
+        <link href="https://x.com/OnChainWizard/status/1883950324362404187"/>
+        <updated>2025-01-27T18:48:43.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+The DeepSeek reset + $1bn of liquidations. 
+A few onchain coins showing strength like $CUR, $DeepSeek, $Seek and $MLG
+New launch market still alive and well with runners like $FAFO, $Garlic and $SHY]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good read on Deepseek, Compute and $IO]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1883933671415243209</id>
+        <link href="https://x.com/OnChainWizard/status/1883933671415243209"/>
+        <updated>2025-01-27T17:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Good read on Deepseek, Compute and $IO
+
+Eli5DeFi: R1 @deepseek_ai is creating a stir in the AI community.
+Once a small side project, its capabilities now rival those of industry leaders but at a fraction of the cost, and it's open source.
+This development has the potential to revolutionize the AI landscape and could be a major]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple more liquidations then up only]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1883816924142051358</id>
+        <link href="https://x.com/OnChainWizard/status/1883816924142051358"/>
+        <updated>2025-01-27T09:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Couple more liquidations then up only]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @rasmr_eth]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1882899714364072094</id>
+        <link href="https://x.com/DeFi_educator/status/1882899714364072094"/>
+        <updated>2025-01-24T21:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @rasmr_eth]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @crypthoem @ionet So much higher]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882590715693384086</id>
+        <link href="https://x.com/OnChainWizard/status/1882590715693384086"/>
+        <updated>2025-01-24T00:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @crypthoem @ionet So much higher]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Wen SBR? Most onchain coins getting brutalized. $VINE runner of the night to $350m (and with $1bn of volu...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882482594375446893</id>
+        <link href="https://x.com/OnChainWizard/status/1882482594375446893"/>
+        <updated>2025-01-23T17:36:29.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+Wen SBR?  
+Most onchain coins getting brutalized.   
+$VINE runner of the night to $350m (and with $1bn of volume).  
+$fartcoin / $goat
+$IO's unique positioning for specialized AI agents + much more]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Yano 🟪: Wild stats: 50% of TRUMP/MELANIA holders had never bought a Solana altcoin before. 47% of buyers created their wallets the same day they...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1882593820619247904</id>
+        <link href="https://x.com/DeFi_educator/status/1882593820619247904"/>
+        <updated>2025-01-23T01:27:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Yano 🟪
+Wild stats:
+50% of TRUMP/MELANIA holders had never bought a Solana altcoin before.
+47% of buyers created their wallets the same day they purchased the tokens.
+83% of holders own sub $1k of SOL assets.
+This really was a historic retail onboarding event.
+Credit: @chainalysis]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZeMirch Same]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882175001320927252</id>
+        <link href="https://x.com/OnChainWizard/status/1882175001320927252"/>
+        <updated>2025-01-22T21:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZeMirch Same]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MTorygreen @ionet 🔥update]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882137481379996062</id>
+        <link href="https://x.com/OnChainWizard/status/1882137481379996062"/>
+        <updated>2025-01-22T18:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @MTorygreen @ionet 🔥update]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tory.io 🦾: $IO Nation – I believe in “building in public”. So going forward, @ionet is going to start sharing detailed monthly reports on our...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882137362417017054</id>
+        <link href="https://x.com/OnChainWizard/status/1882137362417017054"/>
+        <updated>2025-01-22T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[RT tory.io 🦾
+$IO Nation –
+I believe in “building in public”.
+So going forward, @ionet is going to start sharing detailed monthly reports
+on our progress, giving you a peak behind the curtain of what we’re doing.
+This is the first one…
+👇
+🧵]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Mantle_Official Bullish]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882104126093603282</id>
+        <link href="https://x.com/OnChainWizard/status/1882104126093603282"/>
+        <updated>2025-01-22T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @Mantle_Official Bullish]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mantle: 👀]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1882104145026683114</id>
+        <link href="https://x.com/OnChainWizard/status/1882104145026683114"/>
+        <updated>2025-01-22T09:04:35.000Z</updated>
+        <summary type="html"><![CDATA[RT Mantle
+👀]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1881952243403927617</id>
+        <link href="https://x.com/OnChainWizard/status/1881952243403927617"/>
+        <updated>2025-01-22T06:29:14.000Z</updated>
+        <summary type="html"><![CDATA[.
+
+
+The Daily Edge: The Daily Edge featuring:
+AI coins are back, led by ai16z at the top and $SORA & $stargate in the trenches.   
+Moonshot hits #1 free finance app -> Moonshot trader favorites on the day included $DOGE, $CHAOS, $USA, XING and $1
+@Mantle_Official's upcoming new product 👀]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Mantle_Official @_kaitoai gmantle]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1881938120633102354</id>
+        <link href="https://x.com/OnChainWizard/status/1881938120633102354"/>
+        <updated>2025-01-22T05:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @Mantle_Official @_kaitoai gmantle]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Hercules_Defi @griffaindotcom @neur_sh @aisweatshop @HeyAnonai @SynFuturesDefi Agreed. Decentralized comptue 🤝 DeFAI agents]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1881606797913710960</id>
+        <link href="https://x.com/OnChainWizard/status/1881606797913710960"/>
+        <updated>2025-01-21T07:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @Hercules_Defi @griffaindotcom @neur_sh @aisweatshop @HeyAnonai @SynFuturesDefi Agreed.  Decentralized comptue 🤝 DeFAI agents]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1881439691582689575</id>
+        <link href="https://x.com/OnChainWizard/status/1881439691582689575"/>
+        <updated>2025-01-20T20:32:32.000Z</updated>
+        <summary type="html"><![CDATA[.
+
+
+The Daily Edge: The Daily Edge featuring:
+@0xMantle x @_kaitoai ?
+$BTC briefly hits fresh ATHs before falling back to $102k and change.  
+GCR is back, $AAVE only top 100 coin w strength.  
+Onchain coins brutalized again, with some pockets of strength in $quant, $beenz, $qude, $the1 and $yne]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BobLoukas Think this is the one you’re looking for]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1881425184076513513</id>
+        <link href="https://x.com/DeFi_educator/status/1881425184076513513"/>
+        <updated>2025-01-20T19:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @BobLoukas Think this is the one you’re looking for]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ryan Fournier: Re @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1881130440758813049</id>
+        <link href="https://x.com/DeFi_educator/status/1881130440758813049"/>
+        <updated>2025-01-19T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Ryan Fournier
+Re @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT wassielawyer （哇西律师）: 1/ Longer form thoughts re Trump memecoin. Its suggestive of a term that's short-term great for price / liquidity but lo...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1880605386971238782</id>
+        <link href="https://x.com/DeFi_educator/status/1880605386971238782"/>
+        <updated>2025-01-18T10:14:55.000Z</updated>
+        <summary type="html"><![CDATA[RT wassielawyer （哇西律师）
+1/ Longer form thoughts re Trump memecoin.
+Its suggestive of a term that's short-term great for price / liquidity but long-term suboptimal for industry development.
+My concern is on a mid-long term timeframe. Short-term I'm trading the shitters with you all.
+Here's why.
+
+wassielawyer （哇西律师）: Trump dropping his own memecoin means he has the wrong people in his ear re crypto policy. 
+I’m now getting very concerned about the Trump presidency.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1876369707848069151</id>
+        <link href="https://x.com/DeFi_educator/status/1876369707848069151"/>
+        <updated>2025-01-06T17:26:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Res
+A thread on Portfolio Management, Execution, & Psychology to level up your game.
+8 mental frameworks to cut through the noise and become a sharper, more focused, and structured trader 🧵]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gmgemma_ai gm gemma]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1876296396183314580</id>
+        <link href="https://x.com/DeFi_educator/status/1876296396183314580"/>
+        <updated>2025-01-06T15:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @gmgemma_ai gm gemma]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
