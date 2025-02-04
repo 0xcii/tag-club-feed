@@ -1,16 +1,307 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
-      "articles": []
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886810506335572070",
+          "author": "吴说区块链",
+          "description": "比特币序数项目 Taproot Wizards 宣布在其首次种子后融资中筹集了 3000 万美元，旨在推动 OP_CAT 生态系统的发展，增强比特币的智能合约功能。OP_CAT 是一种简单的脚本功能，允许在比特币上进行自动化、可定制的交易。该项目由早期支持者 Standard Crypto 领投，Cyberfund 和 Collider Ventures 等机构参与。Taproot Wizards 团队计划利用这些资金支持内部开发，并推动外部生态系统建设。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37368",
+          "link": "https://x.com/wublockchain12/status/1886810506335572070",
+          "publishedOn": "2025-02-04T16:14:14.000Z",
+          "wordCount": 6,
+          "title": "比特币序数项目 Taproot Wizards 宣布在其首次种子后融资中筹集了 3000 万美元，旨在推动 OP_CAT 生态系统的发展，增强比特币的智能合约功能。OP_CAT 是一种简单...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886803558613573914",
+          "author": "吴说区块链",
+          "description": "吴说获悉，FTX 债权人代表 Sunil 发推披露，已确定 FTX 还款自 2025 年 2 月 18 日美国东部时间上午 10 时开始，先行对索赔金额低于 50,000 美元的债权人进行还款。还款分配金额将包括裁定索赔价值的 100%（上限为 50,000 美元），以及裁定索赔价值自 2022 年 11 月 11 日至初始分配日期 9.0% 年息的额外赔偿金额。此次将是债权人获得的首次也是最终赔付，支付完成后相关债权将全部注销。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37367",
+          "link": "https://x.com/wublockchain12/status/1886803558613573914",
+          "publishedOn": "2025-02-04T15:46:38.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，FTX 债权人代表 Sunil 发推披露，已确定 FTX 还款自 2025 年 2 月 18 日美国东部时间上午 10 时开始，先行对索赔金额低于 50,000 美元的债权人进行还...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886795654196019504",
+          "author": "吴说区块链",
+          "description": "吴说获悉，FOX 记者 Eleanor Terrett 发推表示，共和党参议员 Bill Hagerty 今日在参议院提出他的稳定币法案。该法案名为《GENIUS 法案》，其重点包括：法案为美国稳定币提供了明确的监管；将稳定币定义为与美元挂钩的数字资产；为发行人制定许可和准备金要求；对发行额 >100 亿美元的发行人适用美联储规则；对发行额 <100 亿美元的发行人适用州规则；支持金融包容性、高效交易和美元至上。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37366",
+          "link": "https://x.com/wublockchain12/status/1886795654196019504",
+          "publishedOn": "2025-02-04T15:15:13.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，FOX 记者 Eleanor Terrett 发推表示，共和党参议员 Bill Hagerty 今日在参议院提出他的稳定币法案。该法案名为《GENIUS 法案》，其重点包括：法案为美...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886792388573831292",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Berachain 基金会官方宣布，Berachain 主网将于 2025 年 2 月 6 日启动。Berachain 是一个新型的 EVM 兼容的 Layer 1 区块链，旨在通过 Proof of Liquidity（PoL）机制，将网络的价值与在其上构建的应用程序的价值对齐。此外，Berachain 代币 TGE 将与主网启动同时进行，代币经济学和 Checker 将于明日公布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37365",
+          "link": "https://x.com/wublockchain12/status/1886792388573831292",
+          "publishedOn": "2025-02-04T15:02:15.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Berachain 基金会官方宣布，Berachain 主网将于 2025 年 2 月 6 日启动。Berachain 是一个新型的 EVM 兼容的 Layer 1 区块链，旨在通过 Proof of Liqu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886779236649963607",
+          "author": "吴说区块链",
+          "description": "吴说获悉，美股上市公司 Semler Scientific 董事长 Eric Semler 发推宣布，今日已斥资 8850 万美元增持 871 枚 BTC。自 2024 年 7 月 1 日以来已实现 152% 的 BTC 收益率。目前 Semler Scientific 持有 3,192 枚 BTC，但仍处于早期布局阶段。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37364",
+          "link": "https://x.com/wublockchain12/status/1886779236649963607",
+          "publishedOn": "2025-02-04T14:09:59.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，美股上市公司 Semler Scientific 董事长 Eric Semler 发推宣布，今日已斥资 8850 万美元增持 871 枚 BTC。自 2024 年 7 月 1 日以来已实现 152% 的 BT...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886776041303429211",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://x.com/wublockchain12/status/1886776041303429211",
+          "publishedOn": "2025-02-04T13:57:17.000Z",
+          "wordCount": 6,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886772244841660699",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Messari 今日发布 BNBChain 2024 年第四季度报告。其中，2024 年第四季度，BNB 市值达到 1010.9 亿美元，较年初的 473.1 亿美元环比增长 22%，同比增长 114%；截至年底，DeFi TVL 同比增长 53%，达到 53.5 亿美元，第四季度环比增长 10%；全年 DEX 日均交易量增长 269%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37362",
+          "link": "https://x.com/wublockchain12/status/1886772244841660699",
+          "publishedOn": "2025-02-04T13:42:12.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，Messari 今日发布 BNBChain 2024 年第四季度报告。其中，2024 年第四季度，BNB 市值达到 1010.9 亿美元，较年初的 473.1 亿美元环比增长 22%，同比增...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886768490264322480",
+          "author": "吴说区块链",
+          "description": "吴说获悉，AllianceDAO 联合创始人 QwQiao 发推表示，如果要给新兴的高吞吐量公链提一个建议，那就是尽可能自行开发 DEX，而不是外包给第三方团队。如果将区块链首先视为资产账本，那么 DEX 可以说是最重要的基础设施。因此，我会尽一切努力确保它具备： 最低的交易延迟和费用、最友好的用户界面以及最优的做市商体验。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37361",
+          "link": "https://x.com/wublockchain12/status/1886768490264322480",
+          "publishedOn": "2025-02-04T13:27:17.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，AllianceDAO 联合创始人 QwQiao 发推表示，如果要给新兴的高吞吐量公链提一个建议，那就是尽可能自行开发 DEX，而不是外包给第三方团队。如果将区块链...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886737586875719961",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Arkham 监测，一个新地址: Gu2bnm...vCxmni 于本日 17:47 UTC+8 从 Binance 中提取了 1,000 万枚 USDC，随后通过 Jupiter 全部购买成 668.9 万枚 MELANIA，一跃使其成为第十大持有地址，约占总量的 0.67%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37360",
+          "link": "https://x.com/wublockchain12/status/1886737586875719961",
+          "publishedOn": "2025-02-04T11:24:29.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Arkham 监测，一个新地址: Gu2bnm...vCxmni 于本日 17:47 UTC+8 从 Binance 中提取了 1,000 万枚 USDC，随后通过 Jupiter 全部购买成 668.9 万枚 M...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886707862208176482",
+          "author": "吴说区块链",
+          "description": "以太坊网络在获得超过 50% 验证者支持后，首次在 PoS 机制下成功提升区块 Gas 上限。数据显示，Gas 上限已从此前的 3000 万突破至 3100 万，预计最终将调整至 3600 万。此次调整是在没有硬分叉的情况下实现的，这提高了网络的交易能力。值得注意的是，以太坊上一次 Gas 上限调整发生在 2021 年，当时从 1500 万提升至 3000 万。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37359",
+          "link": "https://x.com/wublockchain12/status/1886707862208176482",
+          "publishedOn": "2025-02-04T09:26:22.000Z",
+          "wordCount": 6,
+          "title": "以太坊网络在获得超过 50% 验证者支持后，首次在 PoS 机制下成功提升区块 Gas 上限。数据显示，Gas 上限已从此前的 3000 万突破至 3100 万，预计最终将调整至 36...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886699741658145040",
+          "author": "吴说区块链",
+          "description": "吴说获悉，加拿大上市公司 Sol Strategies 发布公告披露，2025 年 1 月 19 日至 1 月 31 日期间，公司以约 14,337,332 加元（约 993 万美元）的价格完成了额外 40,300 枚 SOL 的购买，平均价格为每枚 SOL 355.77 加元（约 246 美元），其中包括费用和开支。截至 2025 年 1 月 31 日，Sol Strategies 及其子公司共持有约 189,968 枚 SOL，总购买价格约为 4870 万加元（约 3370 万美元）。此前 1 月初，Sol Strategies 宣布完成由 ParaFi Capital 全额认购的 2750 万加元私募融资，该资金将用于扩大 SOL 库存等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37358",
+          "link": "https://x.com/wublockchain12/status/1886699741658145040",
+          "publishedOn": "2025-02-04T08:54:06.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，加拿大上市公司 Sol Strategies 发布公告披露，2025 年 1 月 19 日至 1 月 31 日期间，公司以约 14,337,332 加元（约 993 万美元）的价格完成了额外 4...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886692868674478497",
+          "author": "吴说区块链",
+          "description": "吴说获悉，The Data Nerd 监测显示，疑似 Movement 团队地址于 1 小时前将 1824 枚 ETH（约合 497 万美元）存入 Binance，这些 ETH 于上周从流动性池中移除。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37357",
+          "link": "https://x.com/wublockchain12/status/1886692868674478497",
+          "publishedOn": "2025-02-04T08:26:47.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，The Data Nerd 监测显示，疑似 Movement 团队地址于 1 小时前将 1824 枚 ETH（约合 497 万美元）存入 Binance，这些 ETH 于上周从流动性池中移除。htt...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886673788642975774",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Lookonchain 监测，某巨鲸没有在最佳时机出售 ai16z 和 ZEREBRO，错失了超过 4000 万美元的利润。1 月 2 日，这位巨鲸在 ai16z 和 ZEREBRO 上获得了 4080 万美元的未实现利润，但他没有卖出获利。1 月 9 日，他卖出了 ZEREBRO，损失了约 100 万美元。10 小时前，他卖出了 2134 万枚 ai16z（918 万美元），又损失了约 100 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37356",
+          "link": "https://x.com/wublockchain12/status/1886673788642975774",
+          "publishedOn": "2025-02-04T07:10:58.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Lookonchain 监测，某巨鲸没有在最佳时机出售 ai16z 和 ZEREBRO，错失了超过 4000 万美元的利润。1 月 2 日，这位巨鲸在 ai16z 和 ZEREBRO 上获得...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886672771293569446",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安发布公告称，根据近期审核结果，币安将于 2025 年 02 月 06 日 11:00（东八区时间）移除以下现货交易对并停止交易：QI/BTC、TLM/BTC、VITE/BTC。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37355",
+          "link": "https://x.com/wublockchain12/status/1886672771293569446",
+          "publishedOn": "2025-02-04T07:06:56.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，币安发布公告称，根据近期审核结果，币安将于 2025 年 02 月 06 日 11:00（东八区时间）移除以下现货交易对并停止交易：QI/BTC、TLM/BTC、VITE/BTC。h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886648973542436968",
+          "author": "吴说区块链",
+          "description": "TRON 与 Movement Labs 相继否认与特朗普家族加密项目 World Liberty Financial (WLFI) 达成代币互换协议。链上数据显示，WLFI 目前持有 4070 万枚 TRX（约 930 万美元）和价值 200 万美元的 MOVE 代币，均为市场直接购入。Movement Labs 联合创始人 Rushi Manche 强调未进行任何场外交易。此前市场传闻 WLFI 向多个项目提出 1000-1500 万美元的互换方案，要求项目方购买 WLFI 代币并支付 10% 费用，作为交换 WLFI 将购入等值项目代币。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37354",
+          "link": "https://x.com/wublockchain12/status/1886648973542436968",
+          "publishedOn": "2025-02-04T05:32:22.000Z",
+          "wordCount": 6,
+          "title": "TRON 与 Movement Labs 相继否认与特朗普家族加密项目 World Liberty Financial (WLFI) 达成代币互换协议。链上数据显示，WLFI 目前持有 4070 万枚 TRX（约 930 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886648297819136266",
+          "author": "吴说区块链",
+          "description": "吴说获悉，国务院关税税则委员会发布公告：经国务院批准，自 2025 年 2 月 10 日起，对原产于美国的部分进口商品加征关税。对煤炭、液化天然气加征 15% 关税，对原油、农业机械、大排量汽车、皮卡加征 10% 关税。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37353",
+          "link": "https://x.com/wublockchain12/status/1886648297819136266",
+          "publishedOn": "2025-02-04T05:29:41.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，国务院关税税则委员会发布公告：经国务院批准，自 2025 年 2 月 10 日起，对原产于美国的部分进口商品加征关税。对煤炭、液化天然气加征 15% 关税，对...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886640889130619381",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 2 月 3 日）比特币现货 ETF 总净流出 2.35 亿美元，为过去 4 日净流入后首次净流出。昨日单日净流出最多的比特币现货 ETF 为富达（Fidelity） ETF FBTC，单日净流出为 1.77 亿美元，目前 FBTC 历史总净流入达 128.2亿美元。昨日灰度（Grayscale）ETF GBTC 单日净流入 801.91 万美元，目前 GBTC 历史净流出为 218.83 亿美元。\n https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37352",
+          "link": "https://x.com/wublockchain12/status/1886640889130619381",
+          "publishedOn": "2025-02-04T05:00:14.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 2 月 3 日）比特币现货 ETF 总净流出 2.35 亿美元，为过去 4 日净流入后首次净流出。昨日单日净流出最多的比特币...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886639196712149047",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 2 月 3 日）以太坊现货 ETF 总净流入 8354.04 万美元。昨日单日净流入最多的以太坊现货 ETF 为富达（Fidelity） ETF FETH，单日净流入为 4974.93 万美元，目前 FETH 历史总净流入达 14.62 亿美元。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37351",
+          "link": "https://x.com/wublockchain12/status/1886639196712149047",
+          "publishedOn": "2025-02-04T04:53:31.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 2 月 3 日）以太坊现货 ETF 总净流入 8354.04 万美元。昨日单日净流入最多的以太坊现货 ETF 为富达（Fidelity） E...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1886636644419428736",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Spot On Chain 监测，BlockTower Capital 在过去 9 小时内向币安转入多个 DeFi 代币，总值 1678 万美元，浮亏 294 万美元。具体包括：532,754 枚 UNI（533 万美元，盈利 57.9 万美元）、197,451 枚 LINK（429 万美元，亏损 42.65 万美元）、3,862 枚 MKR（377 万美元，亏损 170 万美元）以及 515.3 万枚 ENA（339 万美元，亏损 139 万美元）。目前该机构仍持有约 2170 万美元资产，主要包括 20,314 枚 AAVE（547 万美元）和 1,713 枚 ETH（484 万美元）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=37350",
+          "link": "https://x.com/wublockchain12/status/1886636644419428736",
+          "publishedOn": "2025-02-04T04:43:22.000Z",
+          "wordCount": 6,
+          "title": "吴说获悉，据 Spot On Chain 监测，BlockTower Capital 在过去 9 小时内向币安转入多个 DeFi 代币，总值 1678 万美元，浮亏 294 万美元。具体包括：532,754 枚 U...",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886814483810762878",
+          "author": "链求君 🔥",
+          "description": "超级马里奥",
+          "link": "https://x.com/AntCaveClub/status/1886814483810762878",
+          "publishedOn": "2025-02-04T16:30:02.000Z",
+          "wordCount": 6,
+          "title": "超级马里奥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886714931086811381",
+          "author": "链求君 🔥",
+          "description": "这个春节，DeepSeek R1 出圈，DAU 直接突破 1000 万，达到了 ChatGPT 的 23% 的水平。  \n春节假期都快过去了，DeepSeek 官网依然是各种「服务器繁忙，请稍后再试」，大家对 R1 的需求实在是太强太强了。  \n需求爆发性增长，相当长的一段时间里难以满足，满满的都是商机。  \n好在 R1 是个开源模型，各个第三方都支持了 R1 各个版本的一键部署。 \n所以你只要使用 API 就能在不同的网站上使用。 \n下面这个网站，注册免费赠送 5000 万 Token  （14元 RMB）\n📱硅流免费赠 ：  https://cloud.siliconflow.cn/i/c6zoogX7\n5000 万 Token 通等成本兑换付费 ChatGPT 你需要支付： $200 \n这就是为什么 DeepSeek 都要被吹上太空的原因\n便宜 + 好用。",
+          "link": "https://x.com/AntCaveClub/status/1886714931086811381",
+          "publishedOn": "2025-02-04T09:54:27.000Z",
+          "wordCount": 6,
+          "title": "这个春节，DeepSeek R1 出圈，DAU 直接突破 1000 万，达到了 ChatGPT 的 23% 的水平。 春节假期都快过去了，DeepSeek 官网依然是各种「服务器繁忙，请稍后再试」...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710982057071092",
+          "author": "链求君 🔥",
+          "description": "Re ➫ 另外，请确保你订阅了我的 Tg 频道，不要错过任何新帖子  https://t.me/lianqiujun",
+          "link": "https://x.com/AntCaveClub/status/1886710982057071092",
+          "publishedOn": "2025-02-04T09:38:46.000Z",
+          "wordCount": 6,
+          "title": "Re ➫ 另外，请确保你订阅了我的 Tg 频道，不要错过任何新帖子 https://t.me/lianqiujun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710977900499022",
+          "author": "链求君 🔥",
+          "description": "Re 8/➫ @swarmnode - $SNAI \n叙述：AI 代理 \n❍ SwarmNode 是一个使用 SDK 部署和管理 AI 代理的平台，提供按需付费定价、无服务器部署和用于各种任务的预构建模板",
+          "link": "https://x.com/AntCaveClub/status/1886710977900499022",
+          "publishedOn": "2025-02-04T09:38:45.000Z",
+          "wordCount": 6,
+          "title": "Re 8/➫ @swarmnode - $SNAI 叙述：AI 代理 ❍ SwarmNode 是一个使用 SDK 部署和管理 AI 代理的平台，提供按需付费定价、无服务器部署和用于各种任务的预构建模...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710972246585792",
+          "author": "链求君 🔥",
+          "description": "Re 7/➫@dolos_diary - $BULLY \n叙述：AI 代理 \n❍ Dolos 是一种诞生于数字混乱中的 AI，在失败中茁壮成长",
+          "link": "https://x.com/AntCaveClub/status/1886710972246585792",
+          "publishedOn": "2025-02-04T09:38:43.000Z",
+          "wordCount": 6,
+          "title": "Re 7/➫@dolos_diary - $BULLY 叙述：AI 代理 ❍ Dolos 是一种诞生于数字混乱中的 AI，在失败中茁壮成长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710966467035161",
+          "author": "链求君 🔥",
+          "description": "Re 6/ ➫@bottoproject - $BOTTO \n叙述：AI 代理 \n❍ BOTTO 是一个去中心化的自主艺术家，将 AI 驱动的创造力与人类洞察力相结合，挑战代理和作者身份的概念",
+          "link": "https://x.com/AntCaveClub/status/1886710966467035161",
+          "publishedOn": "2025-02-04T09:38:42.000Z",
+          "wordCount": 6,
+          "title": "Re 6/ ➫@bottoproject - $BOTTO 叙述：AI 代理 ❍ BOTTO 是一个去中心化的自主艺术家，将 AI 驱动的创造力与人类洞察力相结合，挑战代理和作者身份的概念",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710961144520713",
+          "author": "链求君 🔥",
+          "description": "Re 5/➫@ModernStoicAI - $STOIC \n叙述：AI 代理 \n❍ ModernStoic 是一个快速发展的项目，拥有一个公开的开发团队、实时代码流和即将推出的自主交易代理 MVP",
+          "link": "https://x.com/AntCaveClub/status/1886710961144520713",
+          "publishedOn": "2025-02-04T09:38:41.000Z",
+          "wordCount": 6,
+          "title": "Re 5/➫@ModernStoicAI - $STOIC 叙述：AI 代理 ❍ ModernStoic 是一个快速发展的项目，拥有一个公开的开发团队、实时代码流和即将推出的自主交易代理 MVP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710955834532077",
+          "author": "链求君 🔥",
+          "description": "Re 4/➫@oortech - $OORT \n叙述：AI 代理 \n❍ OORT 是一个用于 AI 的去中心化云平台，结合了全球存储、计算和数据资源",
+          "link": "https://x.com/AntCaveClub/status/1886710955834532077",
+          "publishedOn": "2025-02-04T09:38:39.000Z",
+          "wordCount": 6,
+          "title": "Re 4/➫@oortech - $OORT 叙述：AI 代理 ❍ OORT 是一个用于 AI 的去中心化云平台，结合了全球存储、计算和数据资源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886747332441727132",
+          "author": "链求君 🔥",
+          "description": "RT 链求君 🔥\n链上巨鲸正在秘密积累 AI Agent  以推动它们！\n 花了大约 10 个小时研究各类的 AI Agents 报告。\n以下是 8 个 AI Agents  ，可能会在脱颖而出 🧵👇",
+          "link": "https://x.com/AntCaveClub/status/1886747332441727132",
+          "publishedOn": "2025-02-04T09:38:33.000Z",
+          "wordCount": 6,
+          "title": "RT 链求君 🔥: 链上巨鲸正在秘密积累 AI Agent 以推动它们！ 花了大约 10 个小时研究各类的 AI Agents 报告。 以下是 8 个 AI Agents ，可能会在脱颖而出 🧵...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1886710928697418026",
+          "author": "链求君 🔥",
+          "description": "链上巨鲸正在秘密积累 AI Agent  以推动它们！\n 花了大约 10 个小时研究各类的 AI Agents 报告。\n以下是 8 个 AI Agents  ，可能会在脱颖而出 🧵👇",
+          "link": "https://x.com/AntCaveClub/status/1886710928697418026",
+          "publishedOn": "2025-02-04T09:38:33.000Z",
+          "wordCount": 6,
+          "title": "链上巨鲸正在秘密积累 AI Agent 以推动它们！ 花了大约 10 个小时研究各类的 AI Agents 报告。 以下是 8 个 AI Agents ，可能会在脱颖而出 🧵👇",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1886650228490883150",
           "author": "链求君 🔥",
@@ -69,223 +360,6 @@
           "publishedOn": "2025-02-03T00:54:15.000Z",
           "wordCount": 6,
           "title": "B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump 钻地反弹 ？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1886008650206191955",
-          "author": "链求君 🔥",
-          "description": "Re @DitingData 非常期待，拥有跟单就绝了。 \n聚合聪明钱 + AI 分析+ 信号跟单， 市场独一家。",
-          "link": "https://x.com/AntCaveClub/status/1886008650206191955",
-          "publishedOn": "2025-02-02T11:07:57.000Z",
-          "wordCount": 6,
-          "title": "Re @DitingData 非常期待，拥有跟单就绝了。 聚合聪明钱 + AI 分析+ 信号跟单， 市场独一家。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885920386719825974",
-          "author": "链求君 🔥",
-          "description": "我现在的无敌组合， 现在市场内卷也都靠“工具”独善其身，靠“人工” 太难了。 \n(确保我本金无损的情况自动抓到金狗)\nMevX 自动交易 - 确保自动买在底部 \n🤖 https://mevx.io/@0x0TO1M\nDebot 信号监控 - 确保AI评分是否加仓 \n📱 https://app.debot.ai?inviteCode=174709\nMevX 自动交易一直都在赚，所以基本最近不发布更多更新。\n我最近跟单的三个钱包: \nCWvdyvKHEu8Z6QqGraJT3sLPyp9bJfFhoXcxUYRKC8ou\nBieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW\n3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk  \n具体的跟单配置频道详细发布过 :  https://t.me/lianqiujun",
-          "link": "https://x.com/AntCaveClub/status/1885920386719825974",
-          "publishedOn": "2025-02-02T05:17:13.000Z",
-          "wordCount": 6,
-          "title": "我现在的无敌组合， 现在市场内卷也都靠“工具”独善其身，靠“人工” 太难了。 (确保我本金无损的情况自动抓到金狗) MevX 自动交易 - 确保自动买在底部 🤖 ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885920041054749029",
-          "author": "链求君 🔥",
-          "description": "Re @suedarrr 内盘切换外盘的时候，刚好你发起了交易。 所以失败了。",
-          "link": "https://x.com/AntCaveClub/status/1885920041054749029",
-          "publishedOn": "2025-02-02T05:15:51.000Z",
-          "wordCount": 6,
-          "title": "Re @suedarrr 内盘切换外盘的时候，刚好你发起了交易。 所以失败了。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885885935096848396",
-          "author": "链求君 🔥",
-          "description": "Re 希望你觉得需要其他工具，下面是我推荐的 ⬇️ \n📱 AI驱动交易- https://www.pumpx.ai/refer?inviteCode=R0C121\n🐦 聪明钱驱动交易- https://debot.ai?inviteCode=174709\n💎 手机APP交易- https://dexx.ai/refer?inviteCode=3ESNZD\n🐸 交易SOL最好工具- https://t.me/solana_trojanbot?start=r-madaodev\n🔥 交易ETH/BASE最好工具- https://t.me/Sigma_buyBot?start=ref=426744161\n🐷 全链交易工具- https://t.me/PinkPunkTradingBot?start=ref_89EF8CB4C0ED930204\n🚀 自动跟单最好工具- https://mevx.io/@0x0TO1M\n🎁 派网（量化机器人交易）- https://www.pionex.com/zh-CN/signUp?r=gCr0jE7D\n🥏 bitget（新币挖矿最好）- https://partner.bitget.com/bg/22ASEK\n🏠 LBank (MEME合约做空) - https://www.lbank.com/zh-TW/login/?icode=4HN7N\n✈️ 投资效率工具(永赚大师) - https://t.me/yongzhuan_bot\n🧷检查KOL/项目实力工具- https://www.protokols.io/\n🪜必备自用梯子VPN- https://airtable.com/appOaaGsocCovfM20/shrX9Vf7sSxKeTk1B",
-          "link": "https://x.com/AntCaveClub/status/1885885935096848396",
-          "publishedOn": "2025-02-02T03:00:19.000Z",
-          "wordCount": 6,
-          "title": "Re 希望你觉得需要其他工具，下面是我推荐的 ⬇️ 📱 AI驱动交易- https://www.pumpx.ai/refer?inviteCode=R0C121 🐦 聪明钱驱动交易- https://debot.ai?inv...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885885931431096403",
-          "author": "链求君 🔥",
-          "description": "Re 我的 TG 频道有很多聪明钱包的分享和有用的交易工具。\n ✈️ https://t.me/lianqiujun\n保持着平均 13x 的 CALL 赔率",
-          "link": "https://x.com/AntCaveClub/status/1885885931431096403",
-          "publishedOn": "2025-02-02T03:00:18.000Z",
-          "wordCount": 6,
-          "title": "Re 我的 TG 频道有很多聪明钱包的分享和有用的交易工具。 ✈️ https://t.me/lianqiujun 保持着平均 13x 的 CALL 赔率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885885898908467455",
-          "author": "链求君 🔥",
-          "description": "95% 的交易者都失败了……\n但最顶尖的 5% 的交易者却有秘诀！\n他们追踪内部人员的钱包，并复制他们的行动以获得巨额收益。\n以下是掌握复制交易的完整指南 🧵👇",
-          "link": "https://x.com/AntCaveClub/status/1885885898908467455",
-          "publishedOn": "2025-02-02T03:00:11.000Z",
-          "wordCount": 6,
-          "title": "95% 的交易者都失败了…… 但最顶尖的 5% 的交易者却有秘诀！ 他们追踪内部人员的钱包，并复制他们的行动以获得巨额收益。 以下是掌握复制交易的完整指南 🧵�...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885889123657154645",
-          "author": "链求君 🔥",
-          "description": "RT 链求君 🔥\n95% 的交易者都失败了……\n但最顶尖的 5% 的交易者却有秘诀！\n他们追踪内部人员的钱包，并复制他们的行动以获得巨额收益。\n以下是掌握复制交易的完整指南 🧵👇",
-          "link": "https://x.com/AntCaveClub/status/1885889123657154645",
-          "publishedOn": "2025-02-02T03:00:11.000Z",
-          "wordCount": 6,
-          "title": "RT 链求君 🔥: 95% 的交易者都失败了…… 但最顶尖的 5% 的交易者却有秘诀！ 他们追踪内部人员的钱包，并复制他们的行动以获得巨额收益。 以下是掌握复制交易...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885867609494864324",
-          "author": "链求君 🔥",
-          "description": "Re 注册硅流领取 5000 万 Token ： https://cloud.siliconflow.cn/i/c6zoogX7",
-          "link": "https://x.com/AntCaveClub/status/1885867609494864324",
-          "publishedOn": "2025-02-02T01:47:30.000Z",
-          "wordCount": 6,
-          "title": "Re 注册硅流领取 5000 万 Token ： https://cloud.siliconflow.cn/i/c6zoogX7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AntCaveClub/status/1885867425473925164",
-          "author": "链求君 🔥",
-          "description": "硅流的注册赠送 5000 万 Token是双向的。  \n一旦你再邀请一个新的注册，立即双方各获得 5000 万Token \n就邀请了几个朋友， 余额已经 399 了， 几十亿Token根本用不完。\nDeep Seek 能免费用一辈子了... \n分享一些第三方使用场景： https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md\n只要把 Deep Seek 的 API 填写到对应产品， 就可以无限♾️ 低成本的使用各类付费AI产品功能了。",
-          "link": "https://x.com/AntCaveClub/status/1885867425473925164",
-          "publishedOn": "2025-02-02T01:46:46.000Z",
-          "wordCount": 6,
-          "title": "硅流的注册赠送 5000 万 Token是双向的。 一旦你再邀请一个新的注册，立即双方各获得 5000 万Token 就邀请了几个朋友， 余额已经 399 了， 几十亿Token根本用不...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1886497272730468715",
-          "author": "DeFi Educator",
-          "description": "RT Ben Zhou\nI am afraid that today real total liquidation is a lot more than $2B, by my estimation it should be at least around $8-10b.  FYI, Bybit 24hr liquidation alone was $2.1B, As you can see in below screenshot, Bybit 24hr liquidations recorded on Coinglass was around $333m, however, this is not all of the liquidations. We have api limitation on how much feeds are pushed out per second. From my observation, other exchanges also practice the same to limit liquidation data. Moving forward, Bybit will start to PUSH all liquidation data. We believe in transparency.\n\n\n\nCointelegraph: 🚨 UPDATE: Over $2 BILLION Liquidated in Just 24 Hours!\nMore liquidations than both the COVID crash and FTX implosion.",
-          "link": "https://x.com/DeFi_educator/status/1886497272730468715",
-          "publishedOn": "2025-02-03T12:35:54.000Z",
-          "wordCount": 6,
-          "title": "RT Ben Zhou: I am afraid that today real total liquidation is a lot more than $2B, by my estimation it should be at least around $8-10b. FYI, Bybit 24...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1886264501835575355",
-          "author": "DeFi Educator",
-          "description": "RT Loma\nhis name was capo\n\nil Capo Of Crypto:",
-          "link": "https://x.com/DeFi_educator/status/1886264501835575355",
-          "publishedOn": "2025-02-03T02:04:44.000Z",
-          "wordCount": 6,
-          "title": "RT Loma: his name was capo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1885375214155936034",
-          "author": "DeFi Educator",
-          "description": "RT The Kobeissi Letter\nDid DeepSeek illegally buy Nvidia's chips?\nSince DeepSeek was founded, Nvidia's sales to Singapore are up a WHOPPING +740%.\nThe US is now PROBING if DeepSeek bought Nvidia's GPUs through third parties in Singapore.\nThis will have MASSIVE implications.\n(a thread)",
-          "link": "https://x.com/DeFi_educator/status/1885375214155936034",
-          "publishedOn": "2025-01-31T12:59:41.000Z",
-          "wordCount": 6,
-          "title": "RT The Kobeissi Letter: Did DeepSeek illegally buy Nvidia's chips? Since DeepSeek was founded, Nvidia's sales to Singapore are up a WHOPPING +740%. Th...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1885063713444540503",
-          "author": "DeFi Educator",
-          "description": "RT Andre Cronje\nhttp://x.com/i/article/1885036518219100160",
-          "link": "https://x.com/DeFi_educator/status/1885063713444540503",
-          "publishedOn": "2025-01-30T19:56:19.000Z",
-          "wordCount": 6,
-          "title": "RT Andre Cronje: http://x.com/i/article/1885036518219100160",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1884288099917914583",
-          "author": "DeFi Educator",
-          "description": "Pretty amazing to see @goodalexander and @IridiumEagle casually talk about deepseek and it’s implications a month before everyone else caught on! \n🧠\n\ngoodalexander: @IridiumEagle https://x.com/i/spaces/1nAJEpLQlPvGL link just in case",
-          "link": "https://x.com/DeFi_educator/status/1884288099917914583",
-          "publishedOn": "2025-01-28T17:11:06.000Z",
-          "wordCount": 6,
-          "title": "Pretty amazing to see @goodalexander and @IridiumEagle casually talk about deepseek and it’s implications a month before everyone else caught on! �...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1882899714364072094",
-          "author": "DeFi Educator",
-          "description": "Re @rasmr_eth",
-          "link": "https://x.com/DeFi_educator/status/1882899714364072094",
-          "publishedOn": "2025-01-24T21:14:09.000Z",
-          "wordCount": 6,
-          "title": "Re @rasmr_eth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1882593820619247904",
-          "author": "DeFi Educator",
-          "description": "RT Yano 🟪\nWild stats:\n50% of TRUMP/MELANIA holders had never bought a Solana altcoin before.\n47% of buyers created their wallets the same day they purchased the tokens.\n83% of holders own sub $1k of SOL assets.\nThis really was a historic retail onboarding event.\nCredit: @chainalysis",
-          "link": "https://x.com/DeFi_educator/status/1882593820619247904",
-          "publishedOn": "2025-01-23T01:27:58.000Z",
-          "wordCount": 6,
-          "title": "RT Yano 🟪: Wild stats: 50% of TRUMP/MELANIA holders had never bought a Solana altcoin before. 47% of buyers created their wallets the same day they...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1881425184076513513",
-          "author": "DeFi Educator",
-          "description": "Re @BobLoukas Think this is the one you’re looking for",
-          "link": "https://x.com/DeFi_educator/status/1881425184076513513",
-          "publishedOn": "2025-01-20T19:34:53.000Z",
-          "wordCount": 6,
-          "title": "Re @BobLoukas Think this is the one you’re looking for",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1881130440758813049",
-          "author": "DeFi Educator",
-          "description": "RT Ryan Fournier\nRe @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.",
-          "link": "https://x.com/DeFi_educator/status/1881130440758813049",
-          "publishedOn": "2025-01-19T21:55:21.000Z",
-          "wordCount": 6,
-          "title": "RT Ryan Fournier: Re @ibuybottom @2ndshotpro I literally sold because it was going down increasingly. I don’t know who wouldn’t do that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1880605386971238782",
-          "author": "DeFi Educator",
-          "description": "RT wassielawyer （哇西律师）\n1/ Longer form thoughts re Trump memecoin.\nIts suggestive of a term that's short-term great for price / liquidity but long-term suboptimal for industry development.\nMy concern is on a mid-long term timeframe. Short-term I'm trading the shitters with you all.\nHere's why.\n\nwassielawyer （哇西律师）: Trump dropping his own memecoin means he has the wrong people in his ear re crypto policy. \nI’m now getting very concerned about the Trump presidency.",
-          "link": "https://x.com/DeFi_educator/status/1880605386971238782",
-          "publishedOn": "2025-01-18T10:14:55.000Z",
-          "wordCount": 6,
-          "title": "RT wassielawyer （哇西律师）: 1/ Longer form thoughts re Trump memecoin. Its suggestive of a term that's short-term great for price / liquidity but lo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876369707848069151",
-          "author": "DeFi Educator",
-          "description": "RT Res\nA thread on Portfolio Management, Execution, & Psychology to level up your game.\n8 mental frameworks to cut through the noise and become a sharper, more focused, and structured trader 🧵",
-          "link": "https://x.com/DeFi_educator/status/1876369707848069151",
-          "publishedOn": "2025-01-06T17:26:37.000Z",
-          "wordCount": 6,
-          "title": "RT Res: A thread on Portfolio Management, Execution, & Psychology to level up your game. 8 mental frameworks to cut through the noise and become a sha...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1876296396183314580",
-          "author": "DeFi Educator",
-          "description": "Re @gmgemma_ai gm gemma",
-          "link": "https://x.com/DeFi_educator/status/1876296396183314580",
-          "publishedOn": "2025-01-06T15:54:55.000Z",
-          "wordCount": 6,
-          "title": "Re @gmgemma_ai gm gemma",
           "imageUrl": null
         }
       ]
@@ -703,12 +777,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
