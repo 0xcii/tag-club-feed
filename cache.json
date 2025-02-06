@@ -533,26 +533,6 @@
       "siteUrl": "https://x.com/OnChainWizard",
       "articles": [
         {
-          "id": "https://twitter.com/OnChainWizard/status/1887249367611928723",
-          "author": "Onchain Wizard",
-          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\nBerachain is Real?   And the SBR might be too?\n$BTC dominance hits cycle highs \nOnchain coins punished, a few new launch runners of the day + $IO's partnership with @nillionnetwork",
-          "link": "https://x.com/OnChainWizard/status/1887249367611928723",
-          "publishedOn": "2025-02-05T21:18:07.000Z",
-          "wordCount": 6,
-          "title": ".",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1887219350827831355",
-          "author": "Onchain Wizard",
-          "description": "RT 0xRapture\nmarket dull AF right now\ngonna hop on stream, run through some chart requests, look at coins maintaining top attention spots on CE and do a little vibes check\nbrought to you by @thedailyedge_& @ChainEDGE_io \nlink to the Twitch channel below, follow and join along\n⇣⇣⇣",
-          "link": "https://x.com/OnChainWizard/status/1887219350827831355",
-          "publishedOn": "2025-02-05T17:55:19.000Z",
-          "wordCount": 6,
-          "title": "RT 0xRapture: market dull AF right now gonna hop on stream, run through some chart requests, look at coins maintaining top attention spots on CE and d...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/OnChainWizard/status/1886573110956052651",
           "author": "Onchain Wizard",
           "description": "RT The Daily Edge\nThe Daily Edge featuring:\nNothing ever happens - $BTC already back over $101k after falling to ~$92k in last night's $2bn liquidation cascade.   \nOnchain coins also bouncing nicely, led by $SNAI and $cloudy\n$MNT's strength should be studied, rising nearly 50% yest lows",
@@ -731,14 +711,28 @@
           "wordCount": 6,
           "title": "RT Mantle: 👀",
           "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1881952243403927617",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\nAI coins are back, led by ai16z at the top and $SORA & $stargate in the trenches.   \nMoonshot hits #1 free finance app -> Moonshot trader favorites on the day included $DOGE, $CHAOS, $USA, XING and $1\n@Mantle_Official's upcoming new product 👀",
+          "link": "https://x.com/OnChainWizard/status/1881952243403927617",
+          "publishedOn": "2025-01-22T06:29:14.000Z",
+          "wordCount": 6,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1881938120633102354",
+          "author": "Onchain Wizard",
+          "description": "Re @Mantle_Official @_kaitoai gmantle",
+          "link": "https://x.com/OnChainWizard/status/1881938120633102354",
+          "publishedOn": "2025-01-22T05:33:07.000Z",
+          "wordCount": 6,
+          "title": "Re @Mantle_Official @_kaitoai gmantle",
+          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
