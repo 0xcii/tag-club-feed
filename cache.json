@@ -710,6 +710,26 @@
       "siteUrl": "https://x.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1888222532819407296",
+          "author": "Surfer",
+          "description": "Re @jevgenijs Ye imagine they’ll buy melio if cash flow central is a success",
+          "link": "https://x.com/DeFiSurfer808/status/1888222532819407296",
+          "publishedOn": "2025-02-08T13:45:07.000Z",
+          "wordCount": 6,
+          "title": "Re @jevgenijs Ye imagine they’ll buy melio if cash flow central is a success",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1888221357831283090",
+          "author": "Surfer",
+          "description": "Re @jevgenijs Fiserv’s longer term strategy is to organically develop the offerings off all these little fintechs and sell to its 1000s of bank partners. Basically transitioning from a commodity payments player to a software enabled platform",
+          "link": "https://x.com/DeFiSurfer808/status/1888221357831283090",
+          "publishedOn": "2025-02-08T13:40:27.000Z",
+          "wordCount": 6,
+          "title": "Re @jevgenijs Fiserv’s longer term strategy is to organically develop the offerings off all these little fintechs and sell to its 1000s of bank partn...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1888067930832740388",
           "author": "Surfer",
           "description": "Re @EconBerger What month would you guess we could start seeing a reheating?",
@@ -858,38 +878,14 @@
           "wordCount": 6,
           "title": "Re @SimonSaysBTC @glxy What’s fair value for GLXY",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1887577622642651393",
-          "author": "Surfer",
-          "description": "😬\n\nzerohedge: \"Retail sentiment score reached ~4 on Tuesday, the highest level on record and ~1 pt higher than the peak of the meme mania in 2021\" - JPM",
-          "link": "https://x.com/DeFiSurfer808/status/1887577622642651393",
-          "publishedOn": "2025-02-06T19:02:29.000Z",
-          "wordCount": 6,
-          "title": "😬",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1887529398712090661",
-          "author": "Surfer",
-          "description": "At this rate Ansem’s $1500 bottom PT for Eth might be optimistic",
-          "link": "https://x.com/DeFiSurfer808/status/1887529398712090661",
-          "publishedOn": "2025-02-06T15:50:51.000Z",
-          "wordCount": 6,
-          "title": "At this rate Ansem’s $1500 bottom PT for Eth might be optimistic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1887473484017565977",
-          "author": "Surfer",
-          "description": "RT Thor\nHow has your portfolio performed in 2025 so far?\nFor reference:\n• BTC: +2%\n• ETH: -16%\n• SOL: +3%\n• Only 5.3% of tokens on Binance are up this year (18 out of 341)\n• Average YTD return for tokens on Binance: -37%",
-          "link": "https://x.com/DeFiSurfer808/status/1887473484017565977",
-          "publishedOn": "2025-02-06T12:05:23.000Z",
-          "wordCount": 6,
-          "title": "RT Thor: How has your portfolio performed in 2025 so far? For reference: • BTC: +2% • ETH: -16% • SOL: +3% • Only 5.3% of tokens on Binance are up...",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
