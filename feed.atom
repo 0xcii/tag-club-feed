@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T08:20:52.356Z</id>
+    <id>urn:2025-02-18T09:17:09.944Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-18T08:20:52.356Z</updated>
+    <updated>2025-02-18T09:17:09.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[QCP 资本指出，以太坊 Pectra 升级临近，ETH 期权市场在 3 月到期附近出现明显异动，或反映市场提前布局。当前 ETH 期权波动率在 3 月 28 日后倾向看涨，但 LIBR...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891775911768252629</id>
+        <link href="https://x.com/wublockchain12/status/1891775911768252629"/>
+        <updated>2025-02-18T09:04:59.000Z</updated>
+        <summary type="html"><![CDATA[QCP 资本指出，以太坊 Pectra 升级临近，ETH 期权市场在 3 月到期附近出现明显异动，或反映市场提前布局。当前 ETH 期权波动率在 3 月 28 日后倾向看涨，但 LIBRA 崩盘、SOL 与 ETH 回落至大选前水平，以及 BTC 继续维持高主导率，可能成为市场复苏的阻力。山寨币的进一步回暖需依赖真实世界应用和网络发展，而非仅靠投机流动性。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38087]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊官方执行客户端 Geth（go-ethereum）开发团队发布紧急公告，要求使用 v1.15.1 版本的验证者尽快升级至 v1.15.2 版本。此次更新旨在修复回归问题，防止以太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891773425787543895</id>
+        <link href="https://x.com/wublockchain12/status/1891773425787543895"/>
+        <updated>2025-02-18T08:55:06.000Z</updated>
+        <summary type="html"><![CDATA[以太坊官方执行客户端 Geth（go-ethereum）开发团队发布紧急公告，要求使用 v1.15.1 版本的验证者尽快升级至 v1.15.2 版本。此次更新旨在修复回归问题，防止以太坊主网上区块创建失败，从而避免验证者错过出块机会并造成区块奖励和交易手续费损失。(TheBlock)https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38086]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，一位交易者通过交易 TRUMP 代币获利 732 万美元，但在 MELANIA 代币上亏损 61.7 万美元，在 LIBRA 代币上亏损 176 万美元。该交...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891755834096615679</id>
+        <link href="https://x.com/wublockchain12/status/1891755834096615679"/>
+        <updated>2025-02-18T07:45:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，一位交易者通过交易 TRUMP 代币获利 732 万美元，但在 MELANIA 代币上亏损 61.7 万美元，在 LIBRA 代币上亏损 176 万美元。该交易者在 LIBRA 上曾两次亏损：3 天前，该地址曾花费 170 万美元购买 LIBRA，以 13.6 万美元卖出，亏损 156 万美元；在 Javier Milei 转发有关如何购买 LIBRA 的帖子后，该地址再次投入 30 万美元购买 LIBRA，又亏损了 20 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38083]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球第二大托管银行道富银行（State Street ）和第四大托管银行花旗（Citi）都计划进军加密货币托管业务，其中 State Street 计划于明年推出相关服务。State Str...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891754996112204257</id>
+        <link href="https://x.com/wublockchain12/status/1891754996112204257"/>
+        <updated>2025-02-18T07:41:52.000Z</updated>
+        <summary type="html"><![CDATA[全球第二大托管银行道富银行（State Street ）和第四大托管银行花旗（Citi）都计划进军加密货币托管业务，其中 State Street 计划于明年推出相关服务。State Street 目前托管资产规模达 46.6 万亿美元，而花旗托管资产规模为 25 万亿美元。（Ledger Insights）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38082]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，慢雾余弦发推称，地址 doodo...kqg7 在阿根廷总统米莱发推后，第一时间测试了 3 个 CA，且均归属同一人（通过数据交叉分析得出）。该地址所有者应知晓...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891740052335804600</id>
+        <link href="https://x.com/wublockchain12/status/1891740052335804600"/>
+        <updated>2025-02-18T06:42:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，慢雾余弦发推称，地址 doodo...kqg7 在阿根廷总统米莱发推后，第一时间测试了 3 个 CA，且均归属同一人（通过数据交叉分析得出）。该地址所有者应知晓相关情况，也许真的只是履行其在 Jupiter 公司的例行测试。余弦表示，其发布上述帖子是因为 Jupiter 的推文提到：“如果有证据表明 Jupiter 员工泄露信息或有其他狙击行为，请直接联系我们。”https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38081]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Hyper 基金会发推表示，HyperEVM 已正式上线。这是朝着在 Hyperliquid 的高性能金融系统中实现通用可编程性、从而容纳所有金融愿景迈出的重要一步。Hy...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891736895631261699</id>
+        <link href="https://x.com/wublockchain12/status/1891736895631261699"/>
+        <updated>2025-02-18T06:29:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Hyper 基金会发推表示，HyperEVM 已正式上线。这是朝着在 Hyperliquid 的高性能金融系统中实现通用可编程性、从而容纳所有金融愿景迈出的重要一步。HyperEVM 的初始主网发布包括：作为 L1 执行的一部分构建的 HyperEVM 区块，继承自 HyperBFT 共识的所有安全性；原生现货 HYPE 与 HyperEVM HYPE 之间的即时转账，HYPE 是 HyperEVM 上的原生 gas 代币；在 0x555...5 部署的规范 WHYPE 系统合约，用于 DeFi 应用。在未来的网络升级中，将启用通用的 ERC20 原生转账和预编译。虽然这些功能已在测试网上实现，但主网的发布是分阶段进行的，以最大限度地减少对 L1 上现有用户的影响。HyperEVM 可与 L1 状态组合，同时不影响现有用户的低延迟交易体验。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38080]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《观点：别把 memecoin 和 shitcoin 混为一谈》（作者 Mannay）Web3 将 meme 转变为自我主权的资产，社区将他们的文化劳动货币化。meme 也成为了可交易的“股权...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891731217223123181</id>
+        <link href="https://x.com/wublockchain12/status/1891731217223123181"/>
+        <updated>2025-02-18T06:07:23.000Z</updated>
+        <summary type="html"><![CDATA[《观点：别把 memecoin 和 shitcoin 混为一谈》（作者 Mannay）Web3 将 meme 转变为自我主权的资产，社区将他们的文化劳动货币化。meme 也成为了可交易的“股权”，由去中心化社区治理，而非公司算法控制。这种转变实际上是革命性的，因为 meme 已从短暂性的内容转变为了持久性的文化资本。shitcoin 绕过了这一生命周期。它们是金融僵尸 —— 缺乏叙事，仅会通过掠夺性策略和拉高出货来收割。memecoin 不仅仅是笑话，它们是反映互联网文化本质的镜子，而 shitcoin 则是哈哈镜——全是表面，没有实质。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=38079]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据第一财经，一则关于 “知名量化私募宽德投资某员工在社交平台指公司用脑机武器迫害公司员工” 的消息在私募圈持续发酵。宽德投资 2 月 18 日回应称...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1891729804350951768</id>
+        <link href="https://x.com/wublockchain12/status/1891729804350951768"/>
+        <updated>2025-02-18T06:01:46.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据第一财经，一则关于 “知名量化私募宽德投资某员工在社交平台指公司用脑机武器迫害公司员工” 的消息在私募圈持续发酵。宽德投资 2 月 18 日回应称：“公司关注到了网络平台上出现关于公司的不当言论。经核实，该言论发布者确曾短期任职于公司（2022 年 7 月入职，同年 9 月初主动离职，任职期约 1 个月）。目前，该发布者已与公司解除劳动关系，其言论为个人行为，所述内容存在不实及误导性信息。https://www.yicai.com/brief/102476739.html]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，币安发布关于 BurgerCities （BURGER）代币经济学变更的通知，BurgerCities （BURGER） 的总供应量将会增加或已经增加，年通膨胀率为 6% 至 12%。http...]]></title>
         <id>https://twitter.com/wublockchain12/status/1891718202389885197</id>
@@ -107,56 +187,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38072]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉， Jupiter 联合创始人 meow 发推称，Jupiter 和 Meteora 均未涉及任何内幕交易或金融不当行为。他表示公司已聘请知名律所 Fenwick & West 作为独立第三...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891666844727247226</id>
-        <link href="https://x.com/wublockchain12/status/1891666844727247226"/>
-        <updated>2025-02-18T01:51:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉， Jupiter 联合创始人 meow 发推称，Jupiter 和 Meteora 均未涉及任何内幕交易或金融不当行为。他表示公司已聘请知名律所 Fenwick & West 作为独立第三方进行调查并发布报告。同时，他强调 JUP 代币在透明度方面一直保持较高标准，是唯一一个在三次审计过程中对每种代币进行详细说明的主要协议，从未进行场外交易（OTC）。去中心化交易平台 Meteora 项目负责人 Ben 已选择辞职。meow 表示，虽然他对 Ben 的品格有充分信心，但作为项目负责人，Ben 在过去几个月中对项目核心方面的判断和关注度不足，这一点令人无法接受。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38068]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《AMA 激辩：0G 团队回应是否 CFX 软 RUG、估值与代币承诺虚高》0G Labs 早先宣布获得 2.9 亿美元的新融资，估值上限超过 20 亿美元。AMA 争论焦点围绕 0G 是否...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891660222760194431</id>
-        <link href="https://x.com/wublockchain12/status/1891660222760194431"/>
-        <updated>2025-02-18T01:25:17.000Z</updated>
-        <summary type="html"><![CDATA[《AMA 激辩：0G 团队回应是否 CFX 软 RUG、估值与代币承诺虚高》0G Labs 早先宣布获得 2.9 亿美元的新融资，估值上限超过 20 亿美元。AMA 争论焦点围绕 0G 是否是 Conflux 团队软 RUG 后的新发币项目；以及虚高的估值与融资额的细节，是否在欺骗社区或向社区倾销。0G 团队也对上述问题进行了详细的解答。阅读全文：https://mp.weixin.qq.com/s/036PTVyKXxLJlM6Wdretpw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据香港电台报道，香港证监会中介机构部执行董事叶志衡表示，证监会将于本月内公布虚拟资产发展路线图，该路线图将阐明发展原则，并涉及证监会短期内计...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891659012749615602</id>
-        <link href="https://x.com/wublockchain12/status/1891659012749615602"/>
-        <updated>2025-02-18T01:20:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据香港电台报道，香港证监会中介机构部执行董事叶志衡表示，证监会将于本月内公布虚拟资产发展路线图，该路线图将阐明发展原则，并涉及证监会短期内计划与市场研究的领域以及平台参与者期望优化的方面。叶志衡补充称，即将公布的虚拟资产路线图的重点不在于内容本身，而是证监会向市场展示监管原则及立场。他认为市场发展与监管并不矛盾，作为监管者需要深入理解市场以实现更好的监管。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38067]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚警方近日破获一起针对加密货币 ATM 机和收藏卡牌商店的盗窃案。警方逮捕了 4 名嫌疑人，缴获了 6 台加密货币 ATM 机、价值约 5 万美元的收藏卡牌、枪支...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891658196965896521</id>
-        <link href="https://x.com/wublockchain12/status/1891658196965896521"/>
-        <updated>2025-02-18T01:17:14.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚警方近日破获一起针对加密货币 ATM 机和收藏卡牌商店的盗窃案。警方逮捕了 4 名嫌疑人，缴获了 6 台加密货币 ATM 机、价值约 5 万美元的收藏卡牌、枪支、100 把汽车钥匙等赃物。根据 Coin ATM Radar 数据显示，澳大利亚目前运营着 1,462 台加密货币 ATM 机，是全球第三大加密货币 ATM 机市场。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38066]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币质押平台 Core 与加密借贷平台 Maple Finance 及托管商 BitGo、Copper、Hex Trust 达成合作，进一步拓展 BTC 质押市场。Core 推出的 lstBTC 代币允许机构...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891657291063279843</id>
-        <link href="https://x.com/wublockchain12/status/1891657291063279843"/>
-        <updated>2025-02-18T01:13:38.000Z</updated>
-        <summary type="html"><![CDATA[比特币质押平台 Core 与加密借贷平台 Maple Finance 及托管商 BitGo、Copper、Hex Trust 达成合作，进一步拓展 BTC 质押市场。Core 推出的 lstBTC 代币允许机构投资者在不改变现有托管安排的情况下，通过比特币持仓赚取收益。Maple 计划在未来几个月内发行流动性质押代币，使质押 BTC 可用于 DeFi 抵押借贷。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38065]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @FLS_OTC 我觉得他觉得自己很聪明... 一直觉得我们是煞笔的感觉。]]></title>
         <id>https://twitter.com/AntCaveClub/status/1891654121456902630</id>
         <link href="https://x.com/AntCaveClub/status/1891654121456902630"/>
@@ -178,97 +208,6 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38072]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，USDC Treasury 于北京时间 4:55 在 Solana 链上增发 2.5 亿枚 USDC。https://www.wublock123.com/index.php?m=content&c=index&...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891651817177559223</id>
-        <link href="https://x.com/wublockchain12/status/1891651817177559223"/>
-        <updated>2025-02-18T00:51:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，USDC Treasury 于北京时间 4:55 在 Solana 链上增发 2.5 亿枚 USDC。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38064]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国总统特朗普在其社交平台 Truth Social 上发布了阿根廷总统 Javier Milei 的照片，并引用了其关于货币政策的言论："如果印钞能消除贫困，那么印文...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891649964272390462</id>
-        <link href="https://x.com/wublockchain12/status/1891649964272390462"/>
-        <updated>2025-02-18T00:44:31.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国总统特朗普在其社交平台 Truth Social 上发布了阿根廷总统 Javier Milei 的照片，并引用了其关于货币政策的言论："如果印钞能消除贫困，那么印文凭就能消除愚蠢。"https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38063]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，约 7 小时前，Barstool 创始人 Dave Portnoy 已将从 LIBRA 团队获得的 500 万美元 USDC 补偿金兑换为 27,688 枚 SOL，随后将 29...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891648823002530111</id>
-        <link href="https://x.com/wublockchain12/status/1891648823002530111"/>
-        <updated>2025-02-18T00:39:59.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，约 7 小时前，Barstool 创始人 Dave Portnoy 已将从 LIBRA 团队获得的 500 万美元 USDC 补偿金兑换为 27,688 枚 SOL，随后将 29,657 枚 SOL（约合 529 万美元）存入Kraken。此前，Barstool 创始人地址买入 LIBRA 亏损 534 万美元，后获项目团队 500 万美元补偿。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38062]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[截至 2024 年 12 月 31 日，机构投资者持有现货比特币 ETF 管理资产（AUM）的 25.4%，总额达到 268 亿美元。K33 Research 研究主管 Vetle Lunde 表示，2024 年第...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891643197371359494</id>
-        <link href="https://x.com/wublockchain12/status/1891643197371359494"/>
-        <updated>2025-02-18T00:17:37.000Z</updated>
-        <summary type="html"><![CDATA[截至 2024 年 12 月 31 日，机构投资者持有现货比特币 ETF 管理资产（AUM）的 25.4%，总额达到 268 亿美元。K33 Research 研究主管 Vetle Lunde 表示，2024 年第三季度至第四季度，机构投资者持有的比特币 ETF 管理资产比例增长了 113%。Lunde 的数据还显示，2024 年机构对贝莱德旗下 IBIT 的兴趣增长了 4 倍多。（cryptoslate）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38061]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，阿根廷总统哈维尔·米莱在社交平台 X 上转发了由原阿根廷经济和政治评论员 Dario Epstein 发布 LIBRA 代币购买教程。早先米莱曾发推表示，了解之后，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1891637176749916379</id>
-        <link href="https://x.com/wublockchain12/status/1891637176749916379"/>
-        <updated>2025-02-17T23:53:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，阿根廷总统哈维尔·米莱在社交平台 X 上转发了由原阿根廷经济和政治评论员 Dario Epstein 发布 LIBRA 代币购买教程。早先米莱曾发推表示，了解之后，我决定不再继续传播该消息（这就是我删除推文的原因）。据 Lookonchain 监测，在 Javier Milei 转发了关于如何购买 LIBRA 的帖子后，用户 goofyahh.sol 花费 500 万 USDC 购买了 1040 万 LIBRA。随后，他卖出了所有 LIBRA，获利 49.7 万美元。此前，goofyahh.sol 已通过 LIBRA 获利 165 万美元。不过也有评论指出，米莱转发是为了显示购买流程比较复杂，阿根廷普通人购买这个代币是非常困难的。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38057]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @fallacyalarm I dunno... UK and Canada also a joke. Pretty stiff competition]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891616774170238994</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891616774170238994"/>
-        <updated>2025-02-17T22:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @fallacyalarm I dunno... UK and Canada also a joke. Pretty stiff competition]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @frizzaud Regime change]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891586416292893104</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891586416292893104"/>
-        <updated>2025-02-17T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @frizzaud Regime change]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @qthomp With btc still at $96k]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891586274080719009</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891586274080719009"/>
-        <updated>2025-02-17T20:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @qthomp With btc still at $96k]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ZaStocks !pray]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891556920420409784</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891556920420409784"/>
-        <updated>2025-02-17T18:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @ZaStocks !pray]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT db: These guys are supervillains Kelsier Ventures were reportedly cooking up a similar scheme with Nigeria and have been approaching other countrie...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1891552554493854080</id>
         <link href="https://x.com/DeFi_educator/status/1891552554493854080"/>
@@ -283,28 +222,6 @@ They had established contact with the Nigerian presidential team.
 "The project was in advanced stages" https://en.thebigwhale.io/article-en/exclusive-after-javier-milei-s-memecoin-scandal-kelsier-ventures-set-its-sights-on-nigeria]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😳]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891546603778883746</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891546603778883746"/>
-        <updated>2025-02-17T17:53:48.000Z</updated>
-        <summary type="html"><![CDATA[😳
-
-glassnode: #Bitcoin's RHODL Ratio helps identify cycle inflection points by comparing mid-cycle holders (6m-2y) to new entrants (1d-3m). A high ratio often happens near market bottoms. A low ratio signals excessive short-term speculation, often aligning with market tops.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stogolp The blue chips]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891533926520271204</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891533926520271204"/>
-        <updated>2025-02-17T17:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @stogolp The blue chips]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -323,17 +240,6 @@ $PI 上线， 本质上是对 “6000万 增量用户的抢夺战” ， 选择�
 📱立即注册 https://www.pionex.com/zh-CN/signUp?r=gCr0jE7D]]></summary>
         <author>
             <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @trollravioli @ZaStocks There have been so many monsters since end of 2022: Dave, sezl, hood, coin, afrm, shop, TOST etc]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891523718662283760</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891523718662283760"/>
-        <updated>2025-02-17T16:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @trollravioli @ZaStocks There have been so many monsters since end of 2022:
-Dave, sezl, hood, coin, afrm, shop, TOST etc]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -420,16 +326,6 @@ DYOR，但这次机会真的不容错过！]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xKNL__ jeeez]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891480353828753582</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891480353828753582"/>
-        <updated>2025-02-17T13:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xKNL__ jeeez]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Coffeezilla: Re Share it w/ your fellow KOLs https://www.youtube.com/watch?v=EqizJTbxAEM]]></title>
         <id>https://twitter.com/DeFi_educator/status/1891500719552786703</id>
         <link href="https://x.com/DeFi_educator/status/1891500719552786703"/>
@@ -438,16 +334,6 @@ DYOR，但这次机会真的不容错过！]]></summary>
 Re Share it w/ your fellow KOLs https://www.youtube.com/watch?v=EqizJTbxAEM]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @novogratz Why wouldn’t eliminating waste in the government apply to the irs]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891269211210596601</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891269211210596601"/>
-        <updated>2025-02-16T23:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @novogratz Why wouldn’t eliminating waste in the government apply to the irs]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -495,16 +381,6 @@ This viewpoint dovetails very well with “market neutral” return streams. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MadsCapital so bizarre]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891202277022519716</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891202277022519716"/>
-        <updated>2025-02-16T19:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @MadsCapital so bizarre]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re all jokes aside, I am a big fan of your writing... BUT it's not intuitive to me how off-boarding will happen to anything other than non-bearer asse...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1891197424271503725</id>
         <link href="https://x.com/DeFi_educator/status/1891197424271503725"/>
@@ -527,40 +403,6 @@ So why hold anything other than a non-bearer asset? Such as BTC, physical precio
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mans pinned his tweet. Putting a stake in the ground Tbh I don’t like how btc is limping around below the 50DMA into the seasonally weakest two weeks...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891183551825023476</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891183551825023476"/>
-        <updated>2025-02-16T17:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Mans pinned his tweet. Putting a stake in the ground 
-Tbh I don’t like how btc is limping around below the 50DMA into the seasonally weakest two weeks of the year
-
-Cav: Seeing more confluence: both qualitative and quantitative
-Jan/Feb bearish bias is getting stronger, but I will let price do the talking]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CavanXy U think dipperino accelerates shortly?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891181686022377774</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891181686022377774"/>
-        <updated>2025-02-16T17:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @CavanXy U think dipperino accelerates shortly?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @intocryptoverse With btc up or alts down?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891172874259472545</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891172874259472545"/>
-        <updated>2025-02-16T17:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @intocryptoverse With btc up or alts down?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @KelsierVentures It's evident that insiders profited. The chain doesn't lie. At this point stop talking about 'the CHART' and airdrop money that yo...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1891172397547401530</id>
         <link href="https://x.com/DeFi_educator/status/1891172397547401530"/>
@@ -568,16 +410,6 @@ Jan/Feb bearish bias is getting stronger, but I will let price do the talking]]>
         <summary type="html"><![CDATA[Re @KelsierVentures It's evident that insiders profited. The chain doesn't lie. At this point stop talking about 'the CHART' and airdrop money that you extracted back to the people who lost. Should be easily verifiable onchain... stop digging a deeper hole for yourself]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xKNL__ What about bitty]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1891139078470369314</id>
-        <link href="https://x.com/DeFiSurfer808/status/1891139078470369314"/>
-        <updated>2025-02-16T14:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xKNL__ What about bitty]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -594,16 +426,6 @@ It is broadly obvious that none of the onchain token launch methods work well at
 Kelsier: Addressing Libra:]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NotChaseColeman u think ansem too beared up?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1890955904880615534</id>
-        <link href="https://x.com/DeFiSurfer808/status/1890955904880615534"/>
-        <updated>2025-02-16T02:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @NotChaseColeman u think ansem too beared up?]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -637,49 +459,6 @@ meme开空单用:  https://www.lbank.com/zh-TW/login/?icode=4HN7N
 http://x.com/i/article/1890837407211151362]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @blknoiz06 U think crypto diverging from the equity indexes which look bullish or ur expecting a correction?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1890848902015766917</id>
-        <link href="https://x.com/DeFiSurfer808/status/1890848902015766917"/>
-        <updated>2025-02-15T19:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @blknoiz06 U think crypto diverging from the equity indexes which look bullish or ur expecting a correction?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wow]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1890832233767776527</id>
-        <link href="https://x.com/DeFiSurfer808/status/1890832233767776527"/>
-        <updated>2025-02-15T18:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Wow
-
-Ansem 🧸💸: your biggest portfolio position]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Bitforce: Solana is cooked. Done for the cycle.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1890806509942034894</id>
-        <link href="https://x.com/DeFiSurfer808/status/1890806509942034894"/>
-        <updated>2025-02-15T16:15:38.000Z</updated>
-        <summary type="html"><![CDATA[RT Bitforce
-Solana is cooked. Done for the cycle.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @frizzaud Range low incoming]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1890785280002568463</id>
-        <link href="https://x.com/DeFiSurfer808/status/1890785280002568463"/>
-        <updated>2025-02-15T15:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @frizzaud Range low incoming]]></summary>
-        <author>
-            <name>Surfer</name>
         </author>
     </entry>
     <entry>
