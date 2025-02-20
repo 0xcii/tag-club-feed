@@ -208,6 +208,12 @@
       ]
     },
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848community",
+      "articles": []
+    },
+    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
@@ -420,6 +426,36 @@
       "siteUrl": "https://x.com/OnChainWizard",
       "articles": [
         {
+          "id": "https://twitter.com/OnChainWizard/status/1892426597971468770",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nMkt showing signs of life, strong alts up DD incl the Aptos CTO \nSome onchain coins also starting to catch a bid incl $anon and $SSE \n$PAIN token launched and is leading onchain mindshare\nTrade w/ up to 7x liq protected leverage with @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1892426597971468770",
+          "publishedOn": "2025-02-20T04:04:00.000Z",
+          "wordCount": 6,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Mkt showing signs of life, strong alts up DD incl the Aptos CTO Some onchain coins also starting to catch...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1892422679585579230",
+          "author": "Onchain Wizard",
+          "description": "Re @ionet LFG 🔥",
+          "link": "https://x.com/OnChainWizard/status/1892422679585579230",
+          "publishedOn": "2025-02-20T03:55:00.000Z",
+          "wordCount": 6,
+          "title": "Re @ionet LFG 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1892349433460748416",
+          "author": "Onchain Wizard",
+          "description": "Re @ZeMirch",
+          "link": "https://x.com/OnChainWizard/status/1892349433460748416",
+          "publishedOn": "2025-02-19T23:03:57.000Z",
+          "wordCount": 6,
+          "title": "Re @ZeMirch",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/OnChainWizard/status/1891951136174723478",
           "author": "Onchain Wizard",
           "description": "We need a new meta... Maybe hamster racing again?\n\n\nThe Daily Edge: The Daily Edge featuring:\nThe trenches & $SOL are cooked following the $LIBRA + other \"max extraction\" fallout.    .    \nFew spots of strength onchain incl $broccoli, $FIST, $DUO and $SHADOW\nA potential trade idea for you \n$IO cooking with IO intelligence launch",
@@ -588,38 +624,14 @@
           "wordCount": 6,
           "title": "RT The Daily Edge: The Daily Edge featuring: $MOVE, $XDC, $JUP, $XRP leading alt strength $DeepSeek, $GFM, $Beenz and $alpha leading onchain strength ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1883950324362404187",
-          "author": "Onchain Wizard",
-          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nThe DeepSeek reset + $1bn of liquidations. \nA few onchain coins showing strength like $CUR, $DeepSeek, $Seek and $MLG\nNew launch market still alive and well with runners like $FAFO, $Garlic and $SHY",
-          "link": "https://x.com/OnChainWizard/status/1883950324362404187",
-          "publishedOn": "2025-01-27T18:48:43.000Z",
-          "wordCount": 6,
-          "title": "RT The Daily Edge: The Daily Edge featuring: The DeepSeek reset + $1bn of liquidations. A few onchain coins showing strength like $CUR, $DeepSeek, $Se...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1883933671415243209",
-          "author": "Onchain Wizard",
-          "description": "Good read on Deepseek, Compute and $IO\n\nEli5DeFi: R1 @deepseek_ai is creating a stir in the AI community.\nOnce a small side project, its capabilities now rival those of industry leaders but at a fraction of the cost, and it's open source.\nThis development has the potential to revolutionize the AI landscape and could be a major",
-          "link": "https://x.com/OnChainWizard/status/1883933671415243209",
-          "publishedOn": "2025-01-27T17:42:43.000Z",
-          "wordCount": 6,
-          "title": "Good read on Deepseek, Compute and $IO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1883816924142051358",
-          "author": "Onchain Wizard",
-          "description": "Couple more liquidations then up only",
-          "link": "https://x.com/OnChainWizard/status/1883816924142051358",
-          "publishedOn": "2025-01-27T09:58:48.000Z",
-          "wordCount": 6,
-          "title": "Couple more liquidations then up only",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
