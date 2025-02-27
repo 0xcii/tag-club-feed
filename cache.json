@@ -198,9 +198,9 @@
       ]
     },
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
+      "title": "Twitter @链求君 🔥",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
       "articles": []
     },
     {
@@ -416,6 +416,26 @@
       "siteUrl": "https://x.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1895093974618251561",
+          "author": "Surfer",
+          "description": "RT Connor Bates\n#7 Highest Spike in Bearish Sentiment of all time \nHere are the dates & charts of previous 60%+ AAII Bear Readings \n3/5/2009 70.2% \n10/18/1990 67% \n8/30/1990 61% \n9/22/2022 60.9% \n10/9/2008 60.8% \n9/29/2022 60.80% \n2/27/2025 60.6% \n*Every other time in history the market was oversold and considerably off whens when sentiment reached over 60% to the bear side. This time around the market is only 3% off ATH's. \n/ Thread",
+          "link": "https://x.com/DeFiSurfer808/status/1895093974618251561",
+          "publishedOn": "2025-02-27T12:33:02.000Z",
+          "wordCount": null,
+          "title": "RT Connor Bates: #7 Highest Spike in Bearish Sentiment of all time Here are the dates & charts of previous 60%+ AAII Bear Readings 3/5/2009 70.2% 10/1...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1895069945437806746",
+          "author": "Surfer",
+          "description": "What a strange cycle\n\nConnor Bates: AAII Investor Sentiment - Most bearish since 2022 at 60.6%. \nIt's now nearing the lows of early 2009.",
+          "link": "https://x.com/DeFiSurfer808/status/1895069945437806746",
+          "publishedOn": "2025-02-27T11:14:18.000Z",
+          "wordCount": null,
+          "title": "What a strange cycle",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1894925242772160759",
           "author": "Surfer",
           "description": "Re @Crowded_Mkt_Rpt What’re the commercials saying??",
@@ -594,24 +614,8 @@
           "wordCount": null,
           "title": "We’re gonna have to retire this framework",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1894220009108381717",
-          "author": "Surfer",
-          "description": "Re @based16z Financial crisis 2.0",
-          "link": "https://x.com/DeFiSurfer808/status/1894220009108381717",
-          "publishedOn": "2025-02-25T02:56:57.000Z",
-          "wordCount": null,
-          "title": "Re @based16z Financial crisis 2.0",
-          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
