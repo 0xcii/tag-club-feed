@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T02:52:00.494Z</id>
+    <id>urn:2025-02-28T03:24:08.126Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-28T02:52:00.494Z</updated>
+    <updated>2025-02-28T03:24:08.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,36 +81,6 @@ Bybit 被黑事件后， 市场的资金和用户最终流入了币安
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitalik TAKO AMA 全文：ETH 定位上，兼具世界计算机和货币属性；Rollup 路线采用 Hybrid L1 + L2 模式更优；中心化 Sequencer 有风险也有优点，可利用区块链特...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895279939303444884</id>
-        <link href="https://x.com/wublockchain12/status/1895279939303444884"/>
-        <updated>2025-02-28T01:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik TAKO AMA 全文：ETH 定位上，兼具世界计算机和货币属性；Rollup 路线采用 Hybrid L1 + L2 模式更优；中心化 Sequencer 有风险也有优点，可利用区块链特性规避；目前不存在 ETH 3.0 概念，需增强 L1；以太坊基金会遵循 “减法” 哲学；以太坊需新叙事和新用户，应避免公司化；ZK 技术在多场景有应用潜力；要多举措吸引开发者；d/acc 是去中心化防御性加速；EF 正在改革；以太坊成功应体现在对社会平等和权力分配的影响等。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=38664]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Spot on Chain 监测，Bybit 黑客目前已成功洗白超过 50% 被盗 ETH。在过去的 5 天半时间里，Bybit 黑客总计洗白 266,309 枚 ETH（约 6.14 亿美元）...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895279091470999652</id>
-        <link href="https://x.com/wublockchain12/status/1895279091470999652"/>
-        <updated>2025-02-28T01:05:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Spot on Chain 监测，Bybit 黑客目前已成功洗白超过 50% 被盗 ETH。在过去的 5 天半时间里，Bybit 黑客总计洗白 266,309 枚 ETH（约 6.14 亿美元），占被盗 49.9 万枚 ETH 的 53.3%，平均每天洗白 48,420 枚 ETH，大部分是通过 THORChain 转换为 BTC。按照当前速度，剩下的 233,086 枚 ETH 可能只需要 5 天就可以全部洗白。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38667]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Satoshi Action Fund（SAF）联合创始人兼首席执行官 Dennis Porter 发推表示，美国七个州已通过战略比特币储备法案的委员会审议，立法进程正在推进中...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895273310692446445</id>
-        <link href="https://x.com/wublockchain12/status/1895273310692446445"/>
-        <updated>2025-02-28T00:42:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Satoshi Action Fund（SAF）联合创始人兼首席执行官 Dennis Porter 发推表示，美国七个州已通过战略比特币储备法案的委员会审议，立法进程正在推进中。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38666]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Its true @SonicLabs $S]]></title>
         <id>https://twitter.com/AntCaveClub/status/1895264679053943085</id>
         <link href="https://x.com/AntCaveClub/status/1895264679053943085"/>
@@ -134,16 +104,6 @@ The so-called "decentralized" chains are now just glorified databases with extra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多个加密和区块链公司联合成立了开放人工智能（AI）服务联盟 Open Agents Alliance（OAA），成员包括 NEAR AI、Coinbase 的支付与 AI 部门等。该联盟旨在提供安...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895261225241715045</id>
-        <link href="https://x.com/wublockchain12/status/1895261225241715045"/>
-        <updated>2025-02-27T23:54:23.000Z</updated>
-        <summary type="html"><![CDATA[多个加密和区块链公司联合成立了开放人工智能（AI）服务联盟 Open Agents Alliance（OAA），成员包括 NEAR AI、Coinbase 的支付与 AI 部门等。该联盟旨在提供安全、开源、经济且公平的 AI 访问，并通过联合基础设施，如 AI 代理框架、云托管以及法币和加密货币的上下桥接，支持开发者构建和部署 AI 工具。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38665]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @0xKNL__ Is knl bullish?]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1895260903412768875</id>
         <link href="https://x.com/DeFiSurfer808/status/1895260903412768875"/>
@@ -151,16 +111,6 @@ The so-called "decentralized" chains are now just glorified databases with extra
         <summary type="html"><![CDATA[Re @0xKNL__ Is knl bullish?]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，SEC 委员 Hester Peirce 表示，SEC 已正式撤销对 Coinbase 的民事执法诉讼，并表示不会再对此案采取进一步行动。SEC 在对 Coinbase 的案件中采取了过...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895256930626740639</id>
-        <link href="https://x.com/wublockchain12/status/1895256930626740639"/>
-        <updated>2025-02-27T23:37:19.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，SEC 委员 Hester Peirce 表示，SEC 已正式撤销对 Coinbase 的民事执法诉讼，并表示不会再对此案采取进一步行动。SEC 在对 Coinbase 的案件中采取了过于依赖执法手段而非政策制定的做法，导致了加密行业的监管不确定性。此外，Peirce 还批评了 SEC 在处理加密产品时，过度依赖 Howey 测试的宽泛解释，导致许多行业参与者无法明确判断哪些产品被视为证券。她表示 SEC 当前的政策方向将通过加密工作组推动，并计划与公众互动，以构建更加明确的加密行业监管框架。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38663]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -183,36 +133,6 @@ The so-called "decentralized" chains are now just glorified databases with extra
         <summary type="html"><![CDATA[Re @toupaiwang 然后你们撤退了， 他们马上跑了是么  哈哈😄]]></summary>
         <author>
             <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit 近期被盗事件中，黑客通过 THORChain 将 ETH 兑换为 BTC 进行洗钱，为 THORChain 带来了巨量的交易量跟手续费。TCB 表示，他是投票停止 THORChain ETH 交...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895253581458252116</id>
-        <link href="https://x.com/wublockchain12/status/1895253581458252116"/>
-        <updated>2025-02-27T23:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Bybit 近期被盗事件中，黑客通过 THORChain 将 ETH 兑换为 BTC 进行洗钱，为 THORChain 带来了巨量的交易量跟手续费。TCB 表示，他是投票停止 THORChain ETH 交易的三名验证者之一，一直在寻找阻止 Bybit 黑客洗钱的方法。THORChain 首席开发者 Pluto 宣布离职。TCB 表示，当你的绝大部分资金流都是从朝鲜窃取的，用于人类历史上最大的金钱抢劫时，它将成为国家安全问题，这不再是游戏了。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38662]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 尽管如此，本声明不适用于与上述描述不符的 meme coin 的发行与销售，或那些通过伪装产品以规避联邦证券法适用的 meme coin。与其相关的欺诈行为可能会受到其...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895249867251032170</id>
-        <link href="https://x.com/wublockchain12/status/1895249867251032170"/>
-        <updated>2025-02-27T23:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Re 尽管如此，本声明不适用于与上述描述不符的 meme coin 的发行与销售，或那些通过伪装产品以规避联邦证券法适用的 meme coin。与其相关的欺诈行为可能会受到其他联邦或州机构依据其他法律的执法或起诉。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Spheron 宣布已完成战略融资轮，融资来自 TykheBV、HASHCIB 和 ArcanumVentures 等投资者，Spheron 将扩大 GPU 部署，提升去中心化计算能力，并推动 A...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895244909097164878</id>
-        <link href="https://x.com/wublockchain12/status/1895244909097164878"/>
-        <updated>2025-02-27T22:49:32.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Spheron 宣布已完成战略融资轮，融资来自 TykheBV、HASHCIB 和 ArcanumVentures 等投资者，Spheron 将扩大 GPU 部署，提升去中心化计算能力，并推动 AI 驱动应用的开发。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38661]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -260,86 +180,6 @@ The so-called "decentralized" chains are now just glorified databases with extra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap 已推出首个原生法币退出工具，支持与 MoonPay、Robinhood 和 Transak 的集成。用户可以将支持的 ERC-20 代币兑换为 USDC、其他稳定币或 ETH，然后直接提...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895239068377850002</id>
-        <link href="https://x.com/wublockchain12/status/1895239068377850002"/>
-        <updated>2025-02-27T22:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap 已推出首个原生法币退出工具，支持与 MoonPay、Robinhood 和 Transak 的集成。用户可以将支持的 ERC-20 代币兑换为 USDC、其他稳定币或 ETH，然后直接提取到银行账户。(TheBlock) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38660]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，SEC 发布声明，澄清了 meme coin 的适用情况。声明指出，meme coin 是一种受互联网模因、角色或趋势启发的加密资产，通常用于娱乐、社交和文化目的，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895235478267580596</id>
-        <link href="https://x.com/wublockchain12/status/1895235478267580596"/>
-        <updated>2025-02-27T22:12:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，SEC 发布声明，澄清了 meme coin 的适用情况。声明指出，meme coin 是一种受互联网模因、角色或趋势启发的加密资产，通常用于娱乐、社交和文化目的，且其价值主要由市场需求和投机驱动，通常没有实际功能。SEC 认为，meme coin 的交易不涉及证券的发行和销售，因此参与者无需根据《证券法》注册，也不受联邦证券法保护。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38659]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据知情人士透露，加密货币交易所 BitMEX 正在寻找买家，并已委托投资银行 Broadhaven Capital Partners 协助销售。BitMEX 自 2014 年由 Arthur Hayes 等人共同创...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895181563652120661</id>
-        <link href="https://x.com/wublockchain12/status/1895181563652120661"/>
-        <updated>2025-02-27T18:37:50.000Z</updated>
-        <summary type="html"><![CDATA[据知情人士透露，加密货币交易所 BitMEX 正在寻找买家，并已委托投资银行 Broadhaven Capital Partners 协助销售。BitMEX 自 2014 年由 Arthur Hayes 等人共同创办，后因未能有效实施反洗钱措施而被指控，Hayes 在美国提起刑事指控后辞去 CEO 职位。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38658]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据路透社，美国总统特朗普宣布，计划对墨西哥和加拿大商品征收 25% 的关税将于 3 月 4 日生效，并威胁对中国商品加征额外 10% 的关税，叠加 2 月 4 日已对中国商...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895176910994567651</id>
-        <link href="https://x.com/wublockchain12/status/1895176910994567651"/>
-        <updated>2025-02-27T18:19:20.000Z</updated>
-        <summary type="html"><![CDATA[据路透社，美国总统特朗普宣布，计划对墨西哥和加拿大商品征收 25% 的关税将于 3 月 4 日生效，并威胁对中国商品加征额外 10% 的关税，叠加 2 月 4 日已对中国商品征收的 10% 关税。特朗普的声明澄清了他周三在关于对加拿大和墨西哥商品征收惩罚性关税的截止日期问题上引发的混乱。4 月的截止日期与“互惠关税”有关，即匹配其他国家的进口关税并抵消它们的其他限制。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38657]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Consensys 创始人 Joseph Lubin 表示，Consensys 与美国证券交易委员会（SEC）已达成原则协议，决定撤销有关 MetaMask 的证券执法案件。经委员会批准...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895160499538678245</id>
-        <link href="https://x.com/wublockchain12/status/1895160499538678245"/>
-        <updated>2025-02-27T17:14:08.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Consensys 创始人 Joseph Lubin 表示，Consensys 与美国证券交易委员会（SEC）已达成原则协议，决定撤销有关 MetaMask 的证券执法案件。经委员会批准后，SEC 将向法院提交一项协议，正式关闭该案件。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38656]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据华尔街日报，私募基金管理公司 Sixth Street Partners 正在与区块链贷款平台 Figure Technology Solutions 合作，投资 2 亿美元。通过与 Sixth Stre...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895157889003855939</id>
-        <link href="https://x.com/wublockchain12/status/1895157889003855939"/>
-        <updated>2025-02-27T17:03:45.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据华尔街日报，私募基金管理公司 Sixth Street Partners 正在与区块链贷款平台 Figure Technology Solutions 合作，投资 2 亿美元。通过与 Sixth Street 的合作，Figure 能够将这笔资金循环使用，最多提供 20 亿美元的新贷款。此外，Figure 还为个人提供以加密货币投资为担保的个人贷款。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38655]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据美国司法网站报道，蒙大拿州男子 Randall V. Rule（73 岁）因参与加密货币洗钱阴谋被联邦陪审团裁定所有罪名成立。2022 年 11 月，Rule 与南卡罗来...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895141343661564147</id>
-        <link href="https://x.com/wublockchain12/status/1895141343661564147"/>
-        <updated>2025-02-27T15:58:01.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据美国司法网站报道，蒙大拿州男子 Randall V. Rule（73 岁）因参与加密货币洗钱阴谋被联邦陪审团裁定所有罪名成立。2022 年 11 月，Rule 与南卡罗来纳州男子 Gregory C. Nysewander 被控通过加密货币洗钱超 240 万美元，涉及伪造骗局、商业电邮诈骗及房地产诈欺等犯罪所得。两人伪造交易标签并向金融机构隐瞒事实，违反《银行保密法》。Rule 面临每项洗钱罪最高 20 年监禁及共谋罪最高 5 年监禁。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38654]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui 链上 AI 内容平台 FanTV 宣布完成 300 万美元战略融资，Mysten Labs、Cypher Capital、CoinSwitch Ventures 和 Illuminati Capital 参投。此前，FanTV 已获 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895121721273061773</id>
-        <link href="https://x.com/wublockchain12/status/1895121721273061773"/>
-        <updated>2025-02-27T14:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Sui 链上 AI 内容平台 FanTV 宣布完成 300 万美元战略融资，Mysten Labs、Cypher Capital、CoinSwitch Ventures 和 Illuminati Capital 参投。此前，FanTV 已获 Multicoin Capital、Woodstock Fund 等 550 万美元支持。据 RootData 资料，FanTV 是一个基于 Web3 的视频+直播社交平台，其目标是通过提供流媒体、社区和代币化服务，为创作者赋能，促进链上创作者经济的转型。(TheBlock) http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38653]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @MaxGuruAI 你说的话我都看不懂了兄弟👬...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1895120879212019826</id>
         <link href="https://x.com/AntCaveClub/status/1895120879212019826"/>
@@ -368,66 +208,6 @@ Speed is an illusion in a world where time is relative; the true measure of prog
         <summary type="html"><![CDATA[Re @stoicsavage Who?]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国至 2 月 22 日当周初请失业金人数 24.2 万人，预期 22.1 万人，前值由 21.9 万人修正为 22 万人，为 2024 年 12 月 7 日当周以来新高。美国第四季度实际 GDP...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895114712809120057</id>
-        <link href="https://x.com/wublockchain12/status/1895114712809120057"/>
-        <updated>2025-02-27T14:12:11.000Z</updated>
-        <summary type="html"><![CDATA[美国至 2 月 22 日当周初请失业金人数 24.2 万人，预期 22.1 万人，前值由 21.9 万人修正为 22 万人，为 2024 年 12 月 7 日当周以来新高。美国第四季度实际 GDP 年化季率修正值 2.3%，预期 2.30%，前值 2.30%。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38650]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Suji Yan 在 X 上发文表示，非常感谢大家的关注，但目前请大家保持理性。被盗资金是他的个人资产，和公司、基金、关联投资的项目方没有任何关系。已经让专业...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895113752594522574</id>
-        <link href="https://x.com/wublockchain12/status/1895113752594522574"/>
-        <updated>2025-02-27T14:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Re Suji Yan 在 X 上发文表示，非常感谢大家的关注，但目前请大家保持理性。被盗资金是他的个人资产，和公司、基金、关联投资的项目方没有任何关系。已经让专业人士介入。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895112753133822078</id>
-        <link href="https://x.com/wublockchain12/status/1895112753133822078"/>
-        <updated>2025-02-27T14:04:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Infini 创始人 Christian 在 X 上发文表示，就 Infini 黑客事件已在香港正式完成立案。Christian 表示，香港警方办事效率高，能感受到香港政府对数字...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895108822840287422</id>
-        <link href="https://x.com/wublockchain12/status/1895108822840287422"/>
-        <updated>2025-02-27T13:48:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Infini 创始人 Christian 在 X 上发文表示，就 Infini 黑客事件已在香港正式完成立案。Christian 表示，香港警方办事效率高，能感受到香港政府对数字资产的开放包容态度。目前被盗资产已从法律角度归属于 Infini，Christian 期待未来能有更多实质性利好出现。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38651]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Mask Network 创始人 Suji Yan 在 X 上透露，确认了一手机的公开钱包遭黑客攻击，损失超 400 万美元资产，而这天刚好是其 29 岁生日。黑客操作疑为手动转账，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895105357342789688</id>
-        <link href="https://x.com/wublockchain12/status/1895105357342789688"/>
-        <updated>2025-02-27T13:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Re Mask Network 创始人 Suji Yan 在 X 上透露，确认了一手机的公开钱包遭黑客攻击，损失超 400 万美元资产，而这天刚好是其 29 岁生日。黑客操作疑为手动转账，持续 11 多分钟，可能因私钥泄露或线下攻击所致。Suji 表示，当天与十余名朋友私聚，期间手机短暂离身，虽信任朋友但称此为噩梦。目前已联系 SlowMist 团队和链上侦探 ZachXBT 协助调查，并与相关部门合作。在专家结果出炉前，他暂不透露更多细节。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Cyvers Alerts 监测，Mask Network 创始人 Suji Yan 账户疑似遭遇黑客攻击进行可疑交易。一个可疑地址接收了价值近 400 万美元的数字资产，包括 11...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1895096915714547896</id>
-        <link href="https://x.com/wublockchain12/status/1895096915714547896"/>
-        <updated>2025-02-27T13:01:28.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Cyvers Alerts 监测，Mask Network 创始人 Suji Yan 账户疑似遭遇黑客攻击进行可疑交易。一个可疑地址接收了价值近 400 万美元的数字资产，包括 113 枚 ETH、923 枚 WETH、301 枚 ezETH、156 枚 weETH、90 枚 pufETH、48.4K 枚 MASK、5 万枚 USDT 以及 15 枚 swETH。被盗资产随即被兑换成 ETH 并分散至六个不同地址。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38647]]></summary>
-        <author>
-            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
