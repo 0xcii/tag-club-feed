@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-02T05:16:36.829Z</id>
+    <id>urn:2025-03-02T06:22:14.908Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-02T05:16:36.829Z</updated>
+    <updated>2025-03-02T06:22:14.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[吴说获悉，在 Ethereum Research 网站上，malik672 提出“去中心化随机区块提案：消除 MEV 并实现以太坊完全民主化”提案，提出了一个去中心化系统，其中所有以太坊客户端都使用共享随机算法提出区块（propose blocks）。通过利用拜占庭容错 (BFT)，消除了区块级 MEV，完全民主化了区块提出，并可能加速 propagation，同时支持 Danksharding 的 Rollup 未来。与 PBS 相比，它优先考虑免信任性而不是优化，为以太坊带来了变革性转变。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38758]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @rev_cap MAGA trade]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1896038259031228910</id>
+        <link href="https://x.com/DeFiSurfer808/status/1896038259031228910"/>
+        <updated>2025-03-02T03:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @rev_cap MAGA trade]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -675,16 +685,6 @@ AMERICA FIRST 🇺🇸]]></summary>
         <link href="https://x.com/DeFiSurfer808/status/1895500740300513337"/>
         <updated>2025-02-28T15:46:07.000Z</updated>
         <summary type="html"><![CDATA[Re @wabuffo Dude it is wild how it happens again and again]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Pickle_cRypto Local top march 17 ok got it]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1895484305507602550</id>
-        <link href="https://x.com/DeFiSurfer808/status/1895484305507602550"/>
-        <updated>2025-02-28T14:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @Pickle_cRypto Local top march 17 ok got it]]></summary>
         <author>
             <name>Surfer</name>
         </author>

@@ -208,6 +208,12 @@
       ]
     },
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848community",
+      "articles": []
+    },
+    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
@@ -637,6 +643,16 @@
       "siteUrl": "https://x.com/DeFiSurfer808",
       "articles": [
         {
+          "id": "https://twitter.com/DeFiSurfer808/status/1896038259031228910",
+          "author": "Surfer",
+          "description": "Re @rev_cap MAGA trade",
+          "link": "https://x.com/DeFiSurfer808/status/1896038259031228910",
+          "publishedOn": "2025-03-02T03:22:02.000Z",
+          "wordCount": null,
+          "title": "Re @rev_cap MAGA trade",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFiSurfer808/status/1895971157633089586",
           "author": "Surfer",
           "description": "Re @CoorsLightCEO Is it over",
@@ -805,18 +821,14 @@
           "wordCount": null,
           "title": "Re @wabuffo Dude it is wild how it happens again and again",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFiSurfer808/status/1895484305507602550",
-          "author": "Surfer",
-          "description": "Re @Pickle_cRypto Local top march 17 ok got it",
-          "link": "https://x.com/DeFiSurfer808/status/1895484305507602550",
-          "publishedOn": "2025-02-28T14:40:49.000Z",
-          "wordCount": null,
-          "title": "Re @Pickle_cRypto Local top march 17 ok got it",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
