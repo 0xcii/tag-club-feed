@@ -1,197 +1,30 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://x.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897140784375455988",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据慢雾安全团队披露，在广泛使用的 elliptic 加密库中发现一个关键漏洞（GHSA-vjh7-7g9h-fjfh）。攻击者可通过构造特定输入，仅需一个签名就能提取私钥，这可能导致数字资产或身份凭证被盗。该漏洞可能影响依赖此加密库的区块链应用和数字身份系统。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38938",
-          "link": "https://x.com/wublockchain12/status/1897140784375455988",
-          "publishedOn": "2025-03-05T04:23:04.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据慢雾安全团队披露，在广泛使用的 elliptic 加密库中发现一个关键漏洞（GHSA-vjh7-7g9h-fjfh）。攻击者可通过构造特定输入，仅需一个签名就能提取私...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897134994537218554",
-          "author": "吴说区块链",
-          "description": "《Arthur Hayes 博文：我为什么相信牛市周期还在？》文章认为投资者应遵循 KISS 原则，避免受繁杂信息干扰。作者坚信特朗普会通过债务融资实现 “美国优先” 政策，他可能借助 DOGE 削减政府开支、引发经济衰退，迫使鲍威尔领导的美联储降息、停止 QT、重启 QE 等，释放大量流动性。作者指出比特币能预警流动性危机，虽当前市场低迷，但仍处于牛市周期，建议投资者无杠杆谨慎抄底，等待再通胀推动币价上升。 阅读全文：http://wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=38922",
-          "link": "https://x.com/wublockchain12/status/1897134994537218554",
-          "publishedOn": "2025-03-05T04:00:04.000Z",
-          "wordCount": null,
-          "title": "《Arthur Hayes 博文：我为什么相信牛市周期还在？》文章认为投资者应遵循 KISS 原则，避免受繁杂信息干扰。作者坚信特朗普会通过债务融资实现 “美国优先” 政...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897132216737784013",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据韩国经济日报 TV 报道，韩国金融情报分析院（FIU）近日召开 AML 检验受托机构会议，宣布为应对虚拟账户及简易转账等新型洗钱手法，将强化 2025 年反洗钱（AML）系统。FIU 院长朴光主持会议，与金监院、行政安全部等 11 家机构讨论民生产犯罪对策及年度检验计划。FIU 将联合金监院及金融机构组建“民生产犯罪 AML 共同应对小组”，每两月运作一次，分析语音钓鱼、多级诈骗等交易模式，并针对虚拟资产相关风险加强检查。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38937",
-          "link": "https://x.com/wublockchain12/status/1897132216737784013",
-          "publishedOn": "2025-03-05T03:49:02.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据韩国经济日报 TV 报道，韩国金融情报分析院（FIU）近日召开 AML 检验受托机构会议，宣布为应对虚拟账户及简易转账等新型洗钱手法，将强化 2025 年反...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897130127533990109",
-          "author": "吴说区块链",
-          "description": "Re EIP-7886 将部分复杂的交易执行延后到下个区块，只提前进行简单检查，这样既能延长准备时间又减轻验证压力，不过需要额外的签名操作，难度较高；EIP-7732 则把区块中的执行数据分离出来，数据可以分开传播验证，给数据更多传播时间，但可能会缩短区块的准备时间，难度居中。据了解，这类“延迟执行”方案主要是针对以太坊的 L1 层进行优化，通过调整执行和验证的时序，减少区块生产和传播的延迟。",
-          "link": "https://x.com/wublockchain12/status/1897130127533990109",
-          "publishedOn": "2025-03-05T03:40:44.000Z",
-          "wordCount": null,
-          "title": "Re EIP-7886 将部分复杂的交易执行延后到下个区块，只提前进行简单检查，这样既能延长准备时间又减轻验证压力，不过需要额外的签名操作，难度较高；EIP-7732 则...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897130129496924318",
-          "author": "吴说区块链",
-          "description": "Re 另外提高 Gas Limit 以及无状态（Statelessness）也属于 L1 扩容的范畴。而目前 L2 的扩容方案主要为提升 Blob 数量（减少 L2 提交数据的成本，从而增加吞吐量）、PeerDAS（提高 L2 获取 L1 数据的效率和安全性） 以及 2D 数据可用性采样（优化 L2 在 L1 进行数据验证的方式，以降低带宽需求）。",
-          "link": "https://x.com/wublockchain12/status/1897130129496924318",
-          "publishedOn": "2025-03-05T03:40:44.000Z",
-          "wordCount": null,
-          "title": "Re 另外提高 Gas Limit 以及无状态（Statelessness）也属于 L1 扩容的范畴。而目前 L2 的扩容方案主要为提升 Blob 数量（减少 L2 提交数据的成本，从而增加吞吐...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897130125273260316",
-          "author": "吴说区块链",
-          "description": "吴说获悉，以太坊开发者 @terencechain 发文探讨“延迟执行设计权衡”，提出了三种方案：EIP-7862 把计算状态根的工作交给提案人，区块生产时不必实时计算，准备时间更充裕，但对数据传播和整体验证帮助不大，难度较低； http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38936",
-          "link": "https://x.com/wublockchain12/status/1897130125273260316",
-          "publishedOn": "2025-03-05T03:40:43.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，以太坊开发者 @terencechain 发文探讨“延迟执行设计权衡”，提出了三种方案：EIP-7862 把计算状态根的工作交给提案人，区块生产时不必实时计算，准备...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897122412296310901",
-          "author": "吴说区块链",
-          "description": "吴说获悉，韩国第二大加密交易所 Bithumb 将上线 PLUME 、COW 现货 KRW 交易。Plume Network 是专为 RWAfi 构建的 L1 公链；CoW Protocol 是以太坊上的 DeFi 创新协议。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38935",
-          "link": "https://x.com/wublockchain12/status/1897122412296310901",
-          "publishedOn": "2025-03-05T03:10:04.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，韩国第二大加密交易所 Bithumb 将上线 PLUME 、COW 现货 KRW 交易。Plume Network 是专为 RWAfi 构建的 L1 公链；CoW Protocol 是以太坊上的 DeFi 创...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897118072974217594",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Upbit 将上线 KAITO 韩元、BTC 及 USDT 交易对。Kaito AI 正在构建一个由人工智能驱动的 InfoFi 网络，使市场能够更有效地重新分配注意力和资本。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38934",
-          "link": "https://x.com/wublockchain12/status/1897118072974217594",
-          "publishedOn": "2025-03-05T02:52:50.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Upbit 将上线 KAITO 韩元、BTC 及 USDT 交易对。Kaito AI 正在构建一个由人工智能驱动的 InfoFi 网络，使市场能够更有效地重新分配注意力和资本。http...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897115741478134089",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 OnchainLens 监测，一巨鲸约 5 小时前解除了 134,902 枚 SOL 的质押，价值 1926 万美元，随后通过 Jupiter 限价单出售了 13.5 万枚 SOL。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38933",
-          "link": "https://x.com/wublockchain12/status/1897115741478134089",
-          "publishedOn": "2025-03-05T02:43:34.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 OnchainLens 监测，一巨鲸约 5 小时前解除了 134,902 枚 SOL 的质押，价值 1926 万美元，随后通过 Jupiter 限价单出售了 13.5 万枚 SOL。http://wu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897114698015031563",
-          "author": "吴说区块链",
-          "description": "据 Chainlink 消息，OpenUSDT 现已采用 Chainlink CCIP 实现跨链转账，这一为 OP Superchain 生态打造的 USDT 互操作版本已上线 7 个链，包括 Base、Fraxtal、Lisk、Mode、Optimism、Soneium、Unichain等。OpenUSDT 由 Tether（市值超 1410 亿美元）支持，与 Celo、Hyperlane 和 VelodromeFi 合作，以 Celo 为枢纽链实现 1:1 原生 USDT 抵押，旨在无许可、无厂商锁定的方式扩展多链经济中的稳定币流动性。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38932",
-          "link": "https://x.com/wublockchain12/status/1897114698015031563",
-          "publishedOn": "2025-03-05T02:39:25.000Z",
-          "wordCount": null,
-          "title": "据 Chainlink 消息，OpenUSDT 现已采用 Chainlink CCIP 实现跨链转账，这一为 OP Superchain 生态打造的 USDT 互操作版本已上线 7 个链，包括 Base、Fraxtal、Li...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897112052310925568",
-          "author": "吴说区块链",
-          "description": "吴说获悉，刘红林律师表示，最近一个月曼昆团队接到了好几起因出售加密货币香港银行账户被冻结的情况，甚至有银行工作人员打电话让客户去银行，到银行后直接被香港警方带走。建议要保留网络上的交易订单记录和社交软件的聊天记录，否则和警察解释的难度会剧增。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38931",
-          "link": "https://x.com/wublockchain12/status/1897112052310925568",
-          "publishedOn": "2025-03-05T02:28:54.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，刘红林律师表示，最近一个月曼昆团队接到了好几起因出售加密货币香港银行账户被冻结的情况，甚至有银行工作人员打电话让客户去银行，到银行后直接被香...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897108887922467284",
-          "author": "吴说区块链",
-          "description": "吴说获悉，京基金融国际（控股）有限公司发布新公告，披露其正考虑设立受加密货币许可牌照监管的投资机会及服务。公司正与 Amber Group 制定比特币及其他主要加密货币的投资计划，由投资委员会审核并经董事会执行，资金将从现有现金储备拨付。公告称，董事会看好加密货币的颠覆潜力及长期价值，计划通过比特币投资提升股东价值，同时探索稳定币及现实世界资产（RWA），以推动区块链技术应用。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38930",
-          "link": "https://x.com/wublockchain12/status/1897108887922467284",
-          "publishedOn": "2025-03-05T02:16:20.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，京基金融国际（控股）有限公司发布新公告，披露其正考虑设立受加密货币许可牌照监管的投资机会及服务。公司正与 Amber Group 制定比特币及其他主要加...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897104882542501945",
-          "author": "吴说区块链",
-          "description": "吴说获悉，本日有多个来源于 Ethena 多签（0x68…A67F）的地址向 CEX 转移 ENA，包括地址: 0x7e…c4F8向 Binance Deposit 转移了 850 万枚 ENA，价值约 320 万美元；地址: 0x44…CfE2 向 Binance Deposit 转移了 1,700 万枚 ENA，价值约 653 万美元；地址: 0xab…c1b3 向 Binance Deposit 转移了 1,286.5 万枚 ENA，价值约 493 万美元。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38929",
-          "link": "https://x.com/wublockchain12/status/1897104882542501945",
-          "publishedOn": "2025-03-05T02:00:25.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，本日有多个来源于 Ethena 多签（0x68…A67F）的地址向 CEX 转移 ENA，包括地址: 0x7e…c4F8向 Binance Deposit 转移了 850 万枚 ENA，价值约 320 万美...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897098982549336200",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 @EmberCN 监测，去年 8 月从 Genesis Trading 清算中获赔最多 ETH 的巨鲸/机构，近两日通过 OTC 出售 4 万枚 ETH（8920 万美元）。其中，3 万枚 ETH 转至 Galaxy Digital，换回 2000 万 USDC；1 万枚 ETH 转至 FalconX，换回 1949 万 USDC。该地址去年 8 月收到 11.45 万枚 ETH（3.5819 亿美元）赔付，当时 ETH 均价 3128 美元，现价跌超 30%，持仓价值缩水 1.1 亿美元。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38928",
-          "link": "https://x.com/wublockchain12/status/1897098982549336200",
-          "publishedOn": "2025-03-05T01:36:58.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 @EmberCN 监测，去年 8 月从 Genesis Trading 清算中获赔最多 ETH 的巨鲸/机构，近两日通过 OTC 出售 4 万枚 ETH（8920 万美元）。其中，3 万枚 ET...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897093328141005154",
-          "author": "吴说区块链",
-          "description": "VanEck 研究主管 Matthew Sigel 表示，Solana 计划于 3 月推出的两项协议升级（SIMD 0123 和 SIMD 0228）虽有助于网络长期健康，但可能重创验证者收入。SIMD 0123 将优先费（占网络收入 40%）分配给质押者，提升回报并减少场外交易，3 月 6 日投票；SIMD 0228 则调整 SOL 通胀率（当前 4%）与质押比例挂钩，或削减验证者收益高达 95%，威胁小型运营商。据 Coin Metrics 报告，截至 2 月，Solana 通胀率为 4%，低于最初的 8%，但仍远高于 1.5% 的终端目标，目前正以每年 15% 的速度下降。(Cointelegraph)http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38927",
-          "link": "https://x.com/wublockchain12/status/1897093328141005154",
-          "publishedOn": "2025-03-05T01:14:30.000Z",
-          "wordCount": null,
-          "title": "VanEck 研究主管 Matthew Sigel 表示，Solana 计划于 3 月推出的两项协议升级（SIMD 0123 和 SIMD 0228）虽有助于网络长期健康，但可能重创验证者收入。SIMD 012...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897092291275448359",
-          "author": "吴说区块链",
-          "description": "Re 此外，文章评估了对验证者经济的影响，发现 SIMD-228 对验证者数量的影响有限（收缩约 3.4%），但投票成本仍是长尾验证者的主要负担。文章还讨论了支持和反对 SIMD-228 的观点：支持者认为它通过市场驱动的方式减少通胀浪费，反对者担忧其复杂性和对小型验证者的潜在风险。",
-          "link": "https://x.com/wublockchain12/status/1897092291275448359",
-          "publishedOn": "2025-03-05T01:10:23.000Z",
-          "wordCount": null,
-          "title": "Re 此外，文章评估了对验证者经济的影响，发现 SIMD-228 对验证者数量的影响有限（收缩约 3.4%），但投票成本仍是长尾验证者的主要负担。文章还讨论了支持和反对...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897092289434100111",
-          "author": "吴说区块链",
-          "description": "Re 文章探讨了 Solana 当前通胀率（约 4.68%）从 8% 逐年下降 15% 至 1.5% 的固定模式，并提出了 SIMD-228 的新公式：基于 staking 率动态调整通胀，以减少不必要的代币发行，减轻卖压并提升网络安全性。主要内容包括对提案影响的模拟分析，展示了最佳、中等和最差场景下的表现：高 staking 率下通胀稳定，收益可持续；低 staking 率和高惩罚场景下可能威胁网络稳定。",
-          "link": "https://x.com/wublockchain12/status/1897092289434100111",
-          "publishedOn": "2025-03-05T01:10:22.000Z",
-          "wordCount": null,
-          "title": "Re 文章探讨了 Solana 当前通胀率（约 4.68%）从 8% 逐年下降 15% 至 1.5% 的固定模式，并提出了 SIMD-228 的新公式：基于 staking 率动态调整通胀，以减少不必...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1897092284623282361",
-          "author": "吴说区块链",
-          "description": "《SIMD-228 分析：将 SOL 发行转向市场驱动模式》（作者：Helius）文章深入分析了 Solana 改进提案（SIMD-228），该提案旨在通过引入基于市场的动态通胀机制替代当前的固定通缩模型，优化 Solana 网络的通货膨胀和 staking 生态。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38926",
-          "link": "https://x.com/wublockchain12/status/1897092284623282361",
-          "publishedOn": "2025-03-05T01:10:21.000Z",
-          "wordCount": null,
-          "title": "《SIMD-228 分析：将 SOL 发行转向市场驱动模式》（作者：Helius）文章深入分析了 Solana 改进提案（SIMD-228），该提案旨在通过引入基于市场的动态通胀机制替代...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
       "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1897198555175284897",
+          "author": "链求君 🔥",
+          "description": "IN11 是什么？ 研究了一下 ⬇️ \n P小将来看看你的 1 SOL 可以去哪里消费\n#送给链上挥金如土的你",
+          "link": "https://x.com/AntCaveClub/status/1897198555175284897",
+          "publishedOn": "2025-03-05T08:12:38.000Z",
+          "wordCount": null,
+          "title": "IN11 是什么？ 研究了一下 ⬇️ P小将来看看你的 1 SOL 可以去哪里消费 #送给链上挥金如土的你",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1897162956062044212",
+          "author": "链求君 🔥",
+          "description": "RT MaxG\n真正的智慧不在于追逐市场的喧嚣，而在于洞察资金的流动与沉默的规律。\n那些在混乱中保持清醒的人，往往能在无声处听见财富的回响。",
+          "link": "https://x.com/AntCaveClub/status/1897162956062044212",
+          "publishedOn": "2025-03-05T04:45:37.000Z",
+          "wordCount": null,
+          "title": "RT MaxG: 真正的智慧不在于追逐市场的喧嚣，而在于洞察资金的流动与沉默的规律。 那些在混乱中保持清醒的人，往往能在无声处听见财富的回响。",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AntCaveClub/status/1897131260784599350",
           "author": "链求君 🔥",
@@ -370,213 +203,6 @@
           "publishedOn": "2025-03-03T10:35:28.000Z",
           "wordCount": null,
           "title": "链上的赌场们现在都赚多少钱？ 有些链上的项目， 现在1天内收益仅 $7 ... 来看看都有哪些链上项目值得参与 哪些项目需要赶紧远离。 @Tether_to 和 @circle 分别...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
-      "articles": [
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1896661698196672946",
-          "author": "DeFi Educator",
-          "description": "Re @CryptoDonAlt",
-          "link": "https://x.com/DeFi_educator/status/1896661698196672946",
-          "publishedOn": "2025-03-03T20:39:21.000Z",
-          "wordCount": null,
-          "title": "Re @CryptoDonAlt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1896661430918934556",
-          "author": "DeFi Educator",
-          "description": "zoomer: [ ZOOMER ]\nDAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECREASE ON RECORD: MARKET",
-          "link": "https://x.com/DeFi_educator/status/1896661430918934556",
-          "publishedOn": "2025-03-03T20:38:18.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1895997926654271517",
-          "author": "DeFi Educator",
-          "description": "RT Pix🔎\nXyzeva just saved crypto. Again.\nShe found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-update exploit.\nMillions of users were at risk. Billions in assets on the line.\nShe reported it. It got patched. Crypto was saved.\nHer reward? Just $55K.\nBut this isn’t even her first time.\nShe also exposed a16z leaking AWS keys, database credentials, and PII—sitting in inspect element.\nThat hack could’ve compromised one of the biggest VCs in crypto.\nHer reward? $0.\nThen, she discovered a way to hijack someone’s Arc browser without them even visiting a website — letting attackers execute arbitrary JavaScript on any page.\nThat time, she got $2K.\n$57K total for stopping multiple disasters.\nSome people break crypto. Xyzeva keeps saving it.",
-          "link": "https://x.com/DeFi_educator/status/1895997926654271517",
-          "publishedOn": "2025-03-01T12:38:54.000Z",
-          "wordCount": null,
-          "title": "RT Pix🔎: Xyzeva just saved crypto. Again. She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-upd...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1895538796265091338",
-          "author": "DeFi Educator",
-          "description": "RT MMCrypto\nWOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
-          "link": "https://x.com/DeFi_educator/status/1895538796265091338",
-          "publishedOn": "2025-02-28T05:20:28.000Z",
-          "wordCount": null,
-          "title": "RT MMCrypto: WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1895289966386958477",
-          "author": "DeFi Educator",
-          "description": "Re @Route2FI Btc looking good here",
-          "link": "https://x.com/DeFi_educator/status/1895289966386958477",
-          "publishedOn": "2025-02-28T01:48:35.000Z",
-          "wordCount": null,
-          "title": "Re @Route2FI Btc looking good here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1895289900314042789",
-          "author": "DeFi Educator",
-          "description": "Re @Route2FI 👋",
-          "link": "https://x.com/DeFi_educator/status/1895289900314042789",
-          "publishedOn": "2025-02-28T01:48:19.000Z",
-          "wordCount": null,
-          "title": "Re @Route2FI 👋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894809641391137265",
-          "author": "DeFi Educator",
-          "description": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
-          "link": "https://x.com/DeFi_educator/status/1894809641391137265",
-          "publishedOn": "2025-02-26T17:59:57.000Z",
-          "wordCount": null,
-          "title": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894799180104597684",
-          "author": "DeFi Educator",
-          "description": "Re @sjdedic @HeyAnonai",
-          "link": "https://x.com/DeFi_educator/status/1894799180104597684",
-          "publishedOn": "2025-02-26T17:18:22.000Z",
-          "wordCount": null,
-          "title": "Re @sjdedic @HeyAnonai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894524412247921000",
-          "author": "DeFi Educator",
-          "description": "Re @FitnessF0rWomen yeah or go get some waves",
-          "link": "https://x.com/DeFi_educator/status/1894524412247921000",
-          "publishedOn": "2025-02-25T23:06:33.000Z",
-          "wordCount": null,
-          "title": "Re @FitnessF0rWomen yeah or go get some waves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894523915612889098",
-          "author": "DeFi Educator",
-          "description": "Re @culturesolana",
-          "link": "https://x.com/DeFi_educator/status/1894523915612889098",
-          "publishedOn": "2025-02-25T23:04:34.000Z",
-          "wordCount": null,
-          "title": "Re @culturesolana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894519982475575720",
-          "author": "DeFi Educator",
-          "description": "Re @BananaGunBot Sonic slashed 90% of the validator fees and giving it to builders, from my understanding that means smart contract builders -> DEX's... Does bananagun stand to gain any of these fees?",
-          "link": "https://x.com/DeFi_educator/status/1894519982475575720",
-          "publishedOn": "2025-02-25T22:48:56.000Z",
-          "wordCount": null,
-          "title": "Re @BananaGunBot Sonic slashed 90% of the validator fees and giving it to builders, from my understanding that means smart contract builders -> DEX's....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1894505006897692724",
-          "author": "DeFi Educator",
-          "description": "I'm a simple man",
-          "link": "https://x.com/DeFi_educator/status/1894505006897692724",
-          "publishedOn": "2025-02-25T21:49:26.000Z",
-          "wordCount": null,
-          "title": "I'm a simple man",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1893697740011442196",
-          "author": "DeFi Educator",
-          "description": "RT Evanss6\nLot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B",
-          "link": "https://x.com/DeFi_educator/status/1893697740011442196",
-          "publishedOn": "2025-02-23T00:44:41.000Z",
-          "wordCount": null,
-          "title": "RT Evanss6: Lot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1893131338888175976",
-          "author": "DeFi Educator",
-          "description": "Re \"I have not experienced an account being unfairly frozen and I don't know anyone who has and it surprises me that other people have so this is a eye for an eye I suppose.\"\nI think the covid pandemic was an eye opener for a lot of people who lived in Canada who had their bank accounts frozen without due process. \nhttps://www.businessinsider.com/trudeau-canada-freeze-bank-accounts-freedom-convoy-truckers-2022-2",
-          "link": "https://x.com/DeFi_educator/status/1893131338888175976",
-          "publishedOn": "2025-02-22T02:50:58.000Z",
-          "wordCount": null,
-          "title": "Re \"I have not experienced an account being unfairly frozen and I don't know anyone who has and it surprises me that other people have so this is a ey...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1893071418612482096",
-          "author": "DeFi Educator",
-          "description": "RT Eric Wall | BIP-420 🐱\nIf you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 report is great\nStep 1: Swap any ERC20s (like stETH) into ETH \nStep 2: Swap any ETH into BTC \nStep 3: Cash out BTC to cash (Chinese Renminbi) using Asian exchanges \nThis process can take years. They are in no hurry. \nIn 2022, it was noted how North Korea was still sitting on $55 worth of funds from hacks that happened six years earlier (2016).",
-          "link": "https://x.com/DeFi_educator/status/1893071418612482096",
-          "publishedOn": "2025-02-21T21:19:45.000Z",
-          "wordCount": null,
-          "title": "RT Eric Wall | BIP-420 🐱: If you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1893034457415713130",
-          "author": "DeFi Educator",
-          "description": "RT Sipan V'artagnan ⚖️⚡️\nThe hacker could’ve just grabbed that easy $4000.",
-          "link": "https://x.com/DeFi_educator/status/1893034457415713130",
-          "publishedOn": "2025-02-21T17:07:59.000Z",
-          "wordCount": null,
-          "title": "RT Sipan V'artagnan ⚖️⚡️: The hacker could’ve just grabbed that easy $4000.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1892257260920869345",
-          "author": "DeFi Educator",
-          "description": "Re @goodalexander",
-          "link": "https://x.com/DeFi_educator/status/1892257260920869345",
-          "publishedOn": "2025-02-19T16:57:42.000Z",
-          "wordCount": null,
-          "title": "Re @goodalexander",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1891552554493854080",
-          "author": "DeFi Educator",
-          "description": "RT db\nThese guys are supervillains\nKelsier Ventures were reportedly cooking up a similar scheme with Nigeria and have been approaching other countries\n\nRaphaël Bloch 🐳: 🔴 Memecoin Libra: Global Scandal Unfolds?\nAccording to @TheBigWhale_, the team behind $Libra had a parallel memecoin project in Nigeria.\nThey had established contact with the Nigerian presidential team.\n\"The project was in advanced stages\" https://en.thebigwhale.io/article-en/exclusive-after-javier-milei-s-memecoin-scandal-kelsier-ventures-set-its-sights-on-nigeria",
-          "link": "https://x.com/DeFi_educator/status/1891552554493854080",
-          "publishedOn": "2025-02-17T18:13:53.000Z",
-          "wordCount": null,
-          "title": "RT db: These guys are supervillains Kelsier Ventures were reportedly cooking up a similar scheme with Nigeria and have been approaching other countrie...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1891500719552786703",
-          "author": "DeFi Educator",
-          "description": "RT Coffeezilla\nRe Share it w/ your fellow KOLs https://www.youtube.com/watch?v=EqizJTbxAEM",
-          "link": "https://x.com/DeFi_educator/status/1891500719552786703",
-          "publishedOn": "2025-02-17T05:01:02.000Z",
-          "wordCount": null,
-          "title": "RT Coffeezilla: Re Share it w/ your fellow KOLs https://www.youtube.com/watch?v=EqizJTbxAEM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1891276571031249227",
-          "author": "DeFi Educator",
-          "description": "RT goodalexander\nThere’s this concept that took me forever to learn \nA lot of the best traders are poker players or sports betting enthusiasts. They’re focused on maximizing their statistical edge. And they love franchises that allow them to “pursue their art”. They’re gamers \nIf you’re running a franchise - you want to fill it with people like this. \nThe people who tend to look at the world this way think they’re “playing the greatest game ever invented”. They’re pricing assets - they need to. If they didn’t capitalism wouldn’t work. They get to experience the joy of “making the markets efficient”\nThis viewpoint dovetails very well with “market neutral” return streams. You find a guy who loves picking up basis points going long Marriott and short Hilton. Then you tell your LPs that your h…",
-          "link": "https://x.com/DeFi_educator/status/1891276571031249227",
-          "publishedOn": "2025-02-16T20:14:48.000Z",
-          "wordCount": null,
-          "title": "RT goodalexander: There’s this concept that took me forever to learn A lot of the best traders are poker players or sports betting enthusiasts. They...",
           "imageUrl": null
         }
       ]
@@ -787,12 +413,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
