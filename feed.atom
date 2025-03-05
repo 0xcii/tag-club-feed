@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T06:24:09.079Z</id>
+    <id>urn:2025-03-05T07:16:10.016Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-05T06:24:09.079Z</updated>
+    <updated>2025-03-05T07:16:10.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1897156584616411574</id>
+        <link href="https://x.com/OnChainWizard/status/1897156584616411574"/>
+        <updated>2025-03-05T05:25:51.000Z</updated>
+        <summary type="html"><![CDATA[.
+
+
+The Daily Edge: The Daily Edge featuring:
+$pwease hits $30mm, leads onchain mindshare
+TG trench volumes hit 3rd lowest reading in last 12mo
+Volatility continues w/ Trump spooking equity markets (also why was SafeMoon up 80% today?)
+$IO earnings and partnership momentum is a one way train 🆙]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吴说获悉，据慢雾安全团队披露，在广泛使用的 elliptic 加密库中发现一个关键漏洞（GHSA-vjh7-7g9h-fjfh）。攻击者可通过构造特定输入，仅需一个签名就能提取私...]]></title>
         <id>https://twitter.com/wublockchain12/status/1897140784375455988</id>
@@ -36,6 +53,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我就想知道， 嗯哼到底在哪上大学的啊 这么一群大哥就没有一个好奇的么... 每天都这么闲的么。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1897131260784599350</id>
+        <link href="https://x.com/AntCaveClub/status/1897131260784599350"/>
+        <updated>2025-03-05T03:45:14.000Z</updated>
+        <summary type="html"><![CDATA[我就想知道， 嗯哼到底在哪上大学的啊 
+这么一群大哥就没有一个好奇的么... 
+每天都这么闲的么。
+
+EnHeng嗯哼: 我怀着非常复杂的心情写下这篇文章，这篇文章是我成长路上最痛的一段完整总结
+我非常感激Z对我的一系列帮助，遇见他后虽然没有带过我赚过什么钱，但是在为人处事上依然学到了很多。虽然我们现在不再是朋友，我依旧感谢和他相处过的时间]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re EIP-7886 将部分复杂的交易执行延后到下个区块，只提前进行简单检查，这样既能延长准备时间又减轻验证压力，不过需要额外的签名操作，难度较高；EIP-7732 则...]]></title>
         <id>https://twitter.com/wublockchain12/status/1897130127533990109</id>
         <link href="https://x.com/wublockchain12/status/1897130127533990109"/>
@@ -63,6 +95,18 @@
         <summary type="html"><![CDATA[吴说获悉，以太坊开发者 @terencechain 发文探讨“延迟执行设计权衡”，提出了三种方案：EIP-7862 把计算状态根的工作交给提案人，区块生产时不必实时计算，准备时间更充裕，但对数据传播和整体验证帮助不大，难度较低； http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38936]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @FLS_OTC 有一种人，你都多余回复。 他们主页的每一条 “回复” 都是骂别人 。 就是纯煞笔 ，过得不好，找人宣泄的。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1897123557098029381</id>
+        <link href="https://x.com/AntCaveClub/status/1897123557098029381"/>
+        <updated>2025-03-05T03:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @FLS_OTC 有一种人，你都多余回复。 
+他们主页的每一条 “回复” 都是骂别人 。
+就是纯煞笔 ，过得不好，找人宣泄的。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
@@ -103,6 +147,20 @@
         <summary type="html"><![CDATA[据 Chainlink 消息，OpenUSDT 现已采用 Chainlink CCIP 实现跨链转账，这一为 OP Superchain 生态打造的 USDT 互操作版本已上线 7 个链，包括 Base、Fraxtal、Lisk、Mode、Optimism、Soneium、Unichain等。OpenUSDT 由 Tether（市值超 1410 亿美元）支持，与 Celo、Hyperlane 和 VelodromeFi 合作，以 Celo 为枢纽链实现 1:1 原生 USDT 抵押，旨在无许可、无厂商锁定的方式扩展多链经济中的稳定币流动性。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=38932]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MaxG: MaxGuruAI is live on @paint_swap Launchpad! Running Mar 05, 2025 02:13:12 UTC to Apr 05, 2025 02:13:12 UTC. 100 NFTs are available for 100 $S...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1897116323907559874</id>
+        <link href="https://x.com/AntCaveClub/status/1897116323907559874"/>
+        <updated>2025-03-05T02:30:50.000Z</updated>
+        <summary type="html"><![CDATA[RT MaxG
+MaxGuruAI is live on @paint_swap Launchpad!
+Running Mar 05, 2025 02:13:12 UTC to Apr 05, 2025 02:13:12 UTC.
+100 NFTs are available for 100 $S each.
+https://launchpad.paintswap.io/drops/9]]></summary>
+        <author>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
@@ -186,44 +244,149 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I have a hard time believing crypto’s topped with dollar rolling over so hard]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1897019610375053666</id>
-        <link href="https://x.com/DeFiSurfer808/status/1897019610375053666"/>
-        <updated>2025-03-04T20:21:34.000Z</updated>
-        <summary type="html"><![CDATA[I have a hard time believing crypto’s topped with dollar rolling over so hard]]></summary>
+        <title type="html"><![CDATA[Re @0xBclub @TeddyAC01 哈哈。笑死了， 你这句。 😅]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896916523815780640</id>
+        <link href="https://x.com/AntCaveClub/status/1896916523815780640"/>
+        <updated>2025-03-04T13:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xBclub @TeddyAC01 哈哈。笑死了， 你这句。 😅]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT glassnode: From a realized loss perspective, the initial $BTC drop triggered the largest flush of the cycle, with investors locking in $818M in los...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1897006028228903131</id>
-        <link href="https://x.com/DeFiSurfer808/status/1897006028228903131"/>
-        <updated>2025-03-04T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[RT glassnode
-From a realized loss perspective, the initial $BTC drop triggered the largest flush of the cycle, with investors locking in $818M in losses. This shows the intensity of the move and the difficult conditions as liquidity thinned below key support levels: https://glassno.de/3F3ga97]]></summary>
+        <title type="html"><![CDATA[Re @TeddyAC01 相由心生，是有道理的。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896916158386991279</id>
+        <link href="https://x.com/AntCaveClub/status/1896916158386991279"/>
+        <updated>2025-03-04T13:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @TeddyAC01 相由心生，是有道理的。]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xKNL__ accumulation?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896945606423347384</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896945606423347384"/>
-        <updated>2025-03-04T15:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xKNL__ accumulation?]]></summary>
+        <title type="html"><![CDATA[RT Teddy郑皓升: 《关于我所了解的嗯哼本人》 注：本文只阐述客观事实，不夹杂个人情感，如果本文对嗯哼造成了一些什么不好的影响，那只能说是群众对客观事实不...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896914920203309420</id>
+        <link href="https://x.com/AntCaveClub/status/1896914920203309420"/>
+        <updated>2025-03-04T12:24:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Teddy郑皓升
+《关于我所了解的嗯哼本人》
+注：本文只阐述客观事实，不夹杂个人情感，如果本文对嗯哼造成了一些什么不好的影响，那只能说是群众对客观事实不满意，并不是我的责任。
+首先要强调的是我们的关系，关于外界的解读，我是他大哥这件事，我不完全否认，第一我是一个江湖中人，我对于尊重行业前辈的弟弟妹妹们都会乐意分享一些行业内幕或者我自己为人处世的一些经验，可能这些东西或多或少对嗯哼有一些帮助，再加上我比他年龄大很多，他就叫我一声哥，我也受的心安理得。实际上有非常多的KOL本身就是AC capital矩阵下的，另外也有很多很多年轻人都和我有较深的接触，所以嗯哼只能算这些人中的其中一个，他的特殊点就是他更喜欢营销自己，更喜欢把推特的消息发到各个微信群里，于是我们的“关系”就大范围的暴露在大家的视野中了。实则他的一切行业吸睛行为，频繁跳槽啊，发币风波啊（他说不是他发的），炮轰交易所啊，捐助大学生事件啊，背刺朋友啊这些都和我们有任何关系，后文我会挨个说明到底发生了什么。
+本文不艾特任何人防止打扰
+我和嗯哼认识（大概是24年的年初）是因为我们当时的合伙人Vincent（推特：加密韦陀）说嗯哼这个年轻的小伙子不错，让我加一下多聊聊，学习一下嗯哼怎么运营推特，来让我教实习生。加了之后呢嗯哼又介绍了ruki（推特：ru7）给我，说他们两个关系很好，所以我们三个拉了个群，平时聊天聊的也比较多，大部分都是聊的行业的情况，这两个小孩子对我一直也比较尊重，我也很喜欢这两个人。后来嗯哼约我（北京）吃饭，我和我老婆一起，吃了一顿饭大概人均一千，嗯哼把单抢掉了还送了我老婆一瓶香水，走的时候我开着跑车带着我媳妇走了，嗯哼还要走去地铁站坐地铁，回家我老婆给我劈头盖脸一顿骂，说人家大学生省吃俭用一个月的生活费就请我吃饭了，这种单我都买不到。这个事搞得我非常难受，当时我就觉得对不起嗯哼，我应该尽力的补偿他。…]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @nachunja Covid 2.0]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896943642457293012</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896943642457293012"/>
-        <updated>2025-03-04T15:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @nachunja Covid 2.0]]></summary>
+        <title type="html"><![CDATA[Re 它的钱包： https://debot.ai/address/eth/0x6406924662df3c6c8f834af212075899bea5172f?inviteCode=174709]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896891803976286480</id>
+        <link href="https://x.com/AntCaveClub/status/1896891803976286480"/>
+        <updated>2025-03-04T11:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Re 它的钱包： https://debot.ai/address/eth/0x6406924662df3c6c8f834af212075899bea5172f?inviteCode=174709]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1057天之前创建的某钱包 0x640...72f，链上持仓 1000 万 $USDT 在链上针对 $ETH 进行波段交易。 目前持有： $5,390,377 $ETH 和 $4,619,330 $USDT 他在 1 小时前...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896891801027666428</id>
+        <link href="https://x.com/AntCaveClub/status/1896891801027666428"/>
+        <updated>2025-03-04T11:53:42.000Z</updated>
+        <summary type="html"><![CDATA[1057天之前创建的某钱包 0x640...72f，链上持仓 1000 万 $USDT 在链上针对 $ETH 进行波段交易。 
+目前持有： $5,390,377  $ETH  和 $4,619,330 $USDT 
+他在 1 小时前， 以 $2106 的价格购入 1077 个 ETH   
+（ 约： 230万美元 ）
+https://etherscan.io/tx/0x011be7a8b277b2fa73fa1ecae052a464ef06080f288b508d603849c69bdbeeea
+它曾在 ETH  $2400 位置买入 $ETH 并于 $3300 位置出售兑换成 USDT  ：
+ https://etherscan.io/tx/0x706aa002ffa799a4db99ff8332edc268eecc08e1690ef9fa2af4198c427b8e75
+#巨鲸异动]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 永赚大师-当前热门叙事 🔥 1. #AIAgent | 📈 4.46% | 热度 0.49 2. #MEMECOINS | 📉 -4.73% | 热度 -0.52 3. #DePIN | 📉 -6.37% | 热度 -0.7 4. #...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896852657849119010</id>
+        <link href="https://x.com/AntCaveClub/status/1896852657849119010"/>
+        <updated>2025-03-04T09:18:10.000Z</updated>
+        <summary type="html"><![CDATA[🔥 永赚大师-当前热门叙事 🔥
+1. #AIAgent  |  📈 4.46% |  热度 0.49
+2. #MEMECOINS  |  📉 -4.73% |  热度 -0.52
+3. #DePIN  |  📉 -6.37% |  热度 -0.7
+4. #L1  |  📉 -7.53% |  热度 -0.83
+5. #Blockchain Service Infra  |  📉 -8.46% |  热度 -0.93
+6. #Web3Gaming  |  📉 -9.12% |  热度 -1
+7. #DeFi  |  📉 -9.61% |  热度 -1.05
+8. #L2/L3  |  📉 -10.68% |  热度 -1.17
+9. #LRT  |  📉 -13.3% |  热度 -1.46
+10. #DeFi3.0  |  📉 -13.81% |  热度 -1.51
+唯一值得一谈的 AI Agent 表现数据也一般 。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ✈️ https://t.me/lianqiujun]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896852661502443585</id>
+        <link href="https://x.com/AntCaveClub/status/1896852661502443585"/>
+        <updated>2025-03-04T09:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Re ✈️ https://t.me/lianqiujun]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3｜龙猫: 🧐早期投资机构Dispersion前两天发布了一篇关于「为什么投资AMMO」的文章，Dispersion曾投资过 0G、PIN AI、Sentient 、Sahara 等优秀的AI项目...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896869123461886036</id>
+        <link href="https://x.com/AntCaveClub/status/1896869123461886036"/>
+        <updated>2025-03-04T09:17:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3｜龙猫
+🧐早期投资机构Dispersion前两天发布了一篇关于「为什么投资AMMO」的文章，Dispersion曾投资过 0G、PIN AI、Sentient 、Sahara 等优秀的AI项目，他们对早期AI的叙事和技术发展敏感度很高，研读了一下AMMO刚发布的白皮书，总结了一下AMMO的情况：
+什么是AMMO ?
+AMMO不仅仅是一个AI项目，它的愿景是为AI智能体打造一个人机共生世界。在这个宇宙中，AI不再是孤立的个体，而是通过MetaSpace与人类紧密互动、共同进化。AMMO的目标是构建一个去中心化的AI生态系统，让AI智能体在复杂的环境中自我优化，同时与人类的价值观、偏好和兴趣实时对齐
+一张图看懂什么是MetaSpace？
+AMMO的核心创新在于MetaSpace，这是一个分布式的虚拟宇宙，包含多个子空间（Subspace1，2，3…..）。每个子空间都是一个特定领域的强化学习训练场（RL Gyms），子空间的AI智能体（不同颜色的方块点点）可以在这个环境中不断学习、进化。所有 AI 智能体（Goal Buddies）都生活在 MetaSpace 中, 形成子空间。用户可以通过每个子空间的相应 AiPP 与他们进行互动。每个用户未来在 MetaSpace 中都会有一个唯一的User Buddy，可以通过多个 AiPP 进行访问各个子空间。Goal Buddies 和User Buddy 可以进行交互。（具体可以看下面的水母图，比较直观）
+子空间又是什么？（Fakers AI是目前已经推出的首个子空间）
+Fakers AI是AMMO打造的第一个子空间项目，定位为“Web3的选币小红书”。它不仅仅是一个AIGC平台，更是一个能够动态学习人类交互反馈的社交生态。通过与用户的实时互动，Fakers AI能够不断优化自身，与人类的价值观和兴趣对齐，真正实现AI与人类的共生。未来AMMO也会推出更多垂直领域的子空间包括教育，职业，游戏等，这个概念非常具有想象空间
+总结下来：AMMO是一个AI生态的框架，打造AI智能体的MetaSpace, 让所有的AI智能体都能在这个空间里通过与人类的互动和反馈进行对齐并发展，进化。而一个个子空间的扩展也正是AMMO构建AI与人类共生的世界的重要 途径！
+目前可早期参与项目的方式：
+完成Galxe任务集齐5个OAT,获取早期OG身份， 目前正处于第3阶段，冲起来：
+https://app.galxe.com/quest/jry9jkt8FhZW5mur9izTDA/GChaLtpEQT
+
+
+
+
+
+AMMO: Today, we are excited to release the AMMO Whitepaper V0.1 (http://docs.ammoai.io/)
+Of all possible Human & AI endgames, we bet on the one of co-flourishing, rejecting the zero-sum narrative.
+Our mission is to build the future of AI-Human connection. Our destination? The Future]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896815617598169221</id>
+        <link href="https://x.com/AntCaveClub/status/1896815617598169221"/>
+        <updated>2025-03-04T06:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还拿着 ETH 充满信仰的韭菜，是不是和我一样让 Vitalik 脑控了。 天天在想卖和拿住之间痛苦挣扎。 如果你有这个症状，或者身边人出现这种病症，比如天天喊: 山寨...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896815317986509114</id>
+        <link href="https://x.com/AntCaveClub/status/1896815317986509114"/>
+        <updated>2025-03-04T06:49:47.000Z</updated>
+        <summary type="html"><![CDATA[还拿着 ETH 充满信仰的韭菜，是不是和我一样让 Vitalik 脑控了。
+天天在想卖和拿住之间痛苦挣扎。
+如果你有这个症状，或者身边人出现这种病症，比如天天喊:
+山寨季要来了。
+大概率这人也被脑控组织控制了。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
@@ -244,33 +407,37 @@ Trade with up to 7x leverage + liq protection + zero funding w/ @protocol_fx]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @spacepixel Which way]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896755149538029588</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896755149538029588"/>
-        <updated>2025-03-04T02:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @spacepixel Which way]]></summary>
+        <title type="html"><![CDATA[特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896748990479360189</id>
+        <link href="https://x.com/AntCaveClub/status/1896748990479360189"/>
+        <updated>2025-03-04T02:26:13.000Z</updated>
+        <summary type="html"><![CDATA[特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特朗普特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德特么德]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @rev_cap Check out ev sales]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896677983156670547</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896677983156670547"/>
-        <updated>2025-03-03T21:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @rev_cap Check out ev sales]]></summary>
+        <title type="html"><![CDATA[RT Superogers/超级罗杰斯: 🚀 DeFi 进化新纪元 | @defidotapp 全解析 1️⃣ DeFi App：革新 CeFi 与 DeFi 交易体验 DeFi App 是全球首个超级中心化应用（Supe...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896758245857055213</id>
+        <link href="https://x.com/AntCaveClub/status/1896758245857055213"/>
+        <updated>2025-03-04T01:29:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Superogers/超级罗杰斯
+🚀 DeFi 进化新纪元 | @defidotapp 全解析
+1️⃣ DeFi App：革新 CeFi 与 DeFi 交易体验
+DeFi App 是全球首个超级中心化应用（Super Dapp），将 CeFi 的便利性与 DeFi 的去中心化相结合，打造全链一站式交易体验。用户可在任意链上进行代币兑换，零 Gas 费、无 KYC 限制，彻底消除跨链障碍，轻松实现“即时、一键式”交易。
+技术亮点：
+🔹 全链抽象技术——消除 Gas 成本，无需持有 Gas 代币即可交易
+🔹 密码学 & 生物识别——加强账户安全性
+🔹 AI 智能助理 Jarvis——智能投资管理，优化交易决策
+🚀 The New Era of DeFi Evolution | @defidotapp Full Analysis
+1️⃣ DeFi App: Revolutionizing CeFi & DeFi Trading
+DeFi App is the world’s first Super Dapp, combining the convenience of CeFi with the decentralization of DeFi. It offers an all-in-one cross-chain trading experience with zero gas fees and no KYC, eliminating barriers and enabling seamless, instant swaps on any blockchain.
+Key Tech Highlights:
+🔹 Omnichain Abstraction – Eliminates gas costs, no need to hold gas tokens for transactions
+🔹 Cryptography & Biometric Security – Enhancing account safety
+🔹 AI Assistant “Jarvis” – Smart portfolio management & optimized trading decisions]]></summary>
         <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RyanDetrick Maybe capital going OUS where things r accelerating]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896675226387374550</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896675226387374550"/>
-        <updated>2025-03-03T21:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @RyanDetrick Maybe capital going OUS where things r accelerating]]></summary>
-        <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
@@ -295,141 +462,57 @@ DAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECRE
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EricJhonsa I agree but historically it’s been hard for a semi to outperform when growth is decelerating. My guess is you need a sequential accele...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896637079184199907</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896637079184199907"/>
-        <updated>2025-03-03T19:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @EricJhonsa I agree but historically it’s been hard for a semi to outperform when growth is decelerating. My guess is you need a sequential acceleration in revs or the markets perception to change re the durability of the investment cycle for nvda to work]]></summary>
+        <title type="html"><![CDATA[Re 优质工具推荐 📱 AI驱动交易- https://www.pumpx.ai/refer?inviteCode=R0C121 🐦 聪明钱驱动交易- https://debot.ai?inviteCode=174709 💎 手机APP交易...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896509737837228398</id>
+        <link href="https://x.com/AntCaveClub/status/1896509737837228398"/>
+        <updated>2025-03-03T10:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Re 优质工具推荐 
+📱 AI驱动交易- https://www.pumpx.ai/refer?inviteCode=R0C121
+🐦 聪明钱驱动交易- https://debot.ai?inviteCode=174709
+💎 手机APP交易- https://dexx.ai/refer?inviteCode=3ESNZD
+🐸 交易SOL最好工具- https://t.me/solana_trojanbot?start=r-madaodev
+🔥 交易ETH/BASE最好工具- https://t.me/Sigma_buyBot?start=ref=426744161
+🐷 全链交易工具- https://t.me/PinkPunkTradingBot?start=ref_89EF8CB4C0ED930204
+🚀 自动跟单最好工具- https://mevx.io/@0x0TO1M
+🎁 派网（量化机器人交易）- https://www.pionex.com/zh-CN/signUp?r=gCr0jE7D
+🥏 bitget（新币挖矿最好）- https://partner.bitget.com/bg/22ASEK
+🏠 LBank (MEME合约做空) - https://www.lbank.com/zh-TW/login/?icode=4HN7N
+✈️ 投资效率工具(永赚大师) - https://t.me/yongzhuan_bot
+🧷检查KOL/项目实力工具- https://www.protokols.io/
+🪜必备自用梯子VPN- https://airtable.com/appOaaGsocCovfM20/shrX9Vf7sSxKeTk1B]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[End game?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896360483671974084</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896360483671974084"/>
-        <updated>2025-03-03T00:42:26.000Z</updated>
-        <summary type="html"><![CDATA[End game?
-
-Bluntz: btc dominance finally looks outright bearish on high timeframes]]></summary>
+        <title type="html"><![CDATA[Re 更多数据推荐： https://t.me/lianqiujun]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896509735240872385</id>
+        <link href="https://x.com/AntCaveClub/status/1896509735240872385"/>
+        <updated>2025-03-03T10:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Re 更多数据推荐： https://t.me/lianqiujun]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Ryan Detrick, CMT: Great chart from BofA that shows no one wanted anything to do with crypto recently. Whoops.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896331134172266796</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896331134172266796"/>
-        <updated>2025-03-02T22:44:53.000Z</updated>
-        <summary type="html"><![CDATA[RT Ryan Detrick, CMT
-Great chart from BofA that shows no one wanted anything to do with crypto recently. Whoops.]]></summary>
+        <title type="html"><![CDATA[链上的赌场们现在都赚多少钱？ 有些链上的项目， 现在1天内收益仅 $7 ... 来看看都有哪些链上项目值得参与 哪些项目需要赶紧远离。 @Tether_to 和 @circle 分别...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1896509725342363954</id>
+        <link href="https://x.com/AntCaveClub/status/1896509725342363954"/>
+        <updated>2025-03-03T10:35:28.000Z</updated>
+        <summary type="html"><![CDATA[链上的赌场们现在都赚多少钱？ 
+有些链上的项目， 现在1天内收益仅 $7 ... 
+来看看都有哪些链上项目值得参与
+哪些项目需要赶紧远离。
+@Tether_to  和 @circle  分别是 $USDT $USDC  采用量最大， 收益最大。 
+交易协议层面： Uniswap \ Meteora \ Hyperliquid 保持着高额手续费。 
+Uniswap 是上古OG 龙头。 
+Meteora 和 Hyperliquid 是这一轮新秀  
+@HyperliquidX  昨日收益是 253 万美金， 是 @pumpdotfun  的3倍左右。
+而 1 年内， pump 手续费是  hyperliquid 的 5 倍。
+显然， pump 现在走下坡路， 已经是不争的事实。
+AI 数据分析：  @MaxGuruAI  这就是链上的现状。]]></summary>
         <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @robert_zubrin Bret Stephens is Israeli. He doesn’t have Americans’ best interests in mind https://www.counterpunch.org/2024/08/09/mainstream-med...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896269443057188876</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896269443057188876"/>
-        <updated>2025-03-02T18:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @robert_zubrin Bret Stephens is Israeli. 
-He doesn’t have Americans’ best interests in mind
-https://www.counterpunch.org/2024/08/09/mainstream-medias-leading-warmonger-nyt-columnist-bret-stephens/]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT few: is the trump pump genuine or a trap❔]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896261251413807160</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896261251413807160"/>
-        <updated>2025-03-02T18:06:47.000Z</updated>
-        <summary type="html"><![CDATA[RT few
-is the trump pump genuine or a trap❔]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BobLoukas Source?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896250727678521462</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896250727678521462"/>
-        <updated>2025-03-02T17:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @BobLoukas Source?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump doing his best Oprah rn And you get a strategic reserve! And you And you And you!]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896239314104922124</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896239314104922124"/>
-        <updated>2025-03-02T16:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Trump doing his best Oprah rn
-And you get a strategic reserve!
-And you 
-And you
-And you!]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RyanWatkins_ Think Trump just trying to get paid]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896238958109188439</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896238958109188439"/>
-        <updated>2025-03-02T16:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @RyanWatkins_ Think Trump just trying to get paid]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Phoenix » PhoenixNews.io: realDonaldTrump: [TRUTH] And, obviously, BTC and ETH, as other valuable Cryptocurrencies, will be at the heart of the Re...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896239036890857495</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896239036890857495"/>
-        <updated>2025-03-02T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Phoenix » PhoenixNews.io
-realDonaldTrump: [TRUTH] And, obviously, BTC and ETH, as other valuable Cryptocurrencies, will be at the heart of the Reserve. I also love Bitcoin and Ethereum!]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TGA is draining and Trump is bull posting the strategic reserve again What if new bitcoin highs in March?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896237765945417805</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896237765945417805"/>
-        <updated>2025-03-02T16:34:48.000Z</updated>
-        <summary type="html"><![CDATA[TGA is draining and Trump is bull posting the strategic reserve again
-What if new bitcoin highs in March?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT bitcoindata21: By the way you can look at history back to 1948 for U.S ISM. There are 20 instances, and the lowest peak was 56.65, while the majori...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896235793305440382</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896235793305440382"/>
-        <updated>2025-03-02T16:22:40.000Z</updated>
-        <summary type="html"><![CDATA[RT bitcoindata21
-By the way you can look at history back to 1948 for U.S ISM. There are 20 instances, and the lowest peak was 56.65, while the majority are calling the bitcoin top at 50.9 this cycle🙃
-
-
-bitcoindata21: I don't know how many different ways I can keep saying the same thing, that the bitcoin cycle is the macro cycle is the business cycle.
-If you are bearish on the bitcoin cycle right now, you are also likely saying the business cycle no longer works or exists.
-Anyways here are 15]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think that Trump post is more or less confirmation eth’s going to lag the entire cycle…]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1896234448674590877</id>
-        <link href="https://x.com/DeFiSurfer808/status/1896234448674590877"/>
-        <updated>2025-03-02T16:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Think that Trump post is more or less confirmation eth’s going to lag the entire cycle…]]></summary>
-        <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
@@ -882,20 +965,6 @@ gonna hop on stream, run through some chart requests, look at coins maintaining 
 brought to you by @thedailyedge_& @ChainEDGE_io 
 link to the Twitch channel below, follow and join along
 ⇣⇣⇣]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Nothing ever happens - $BTC already back over $101k after falling to ~$92k in last night's $2bn liquidati...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1886573110956052651</id>
-        <link href="https://x.com/OnChainWizard/status/1886573110956052651"/>
-        <updated>2025-02-03T19:55:05.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-Nothing ever happens - $BTC already back over $101k after falling to ~$92k in last night's $2bn liquidation cascade.   
-Onchain coins also bouncing nicely, led by $SNAI and $cloudy
-$MNT's strength should be studied, rising nearly 50% yest lows]]></summary>
         <author>
             <name>Onchain Wizard</name>
         </author>
