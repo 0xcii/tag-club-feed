@@ -1,6 +1,169 @@
 {
   "sources": [
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848community",
+      "articles": []
+    },
+    {
+      "title": "Twitter @链求君 🔥",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
+      "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900200454568415509",
+          "author": "链求君 🔥",
+          "description": "Re 有合作需求可以和我交流： https://t.me/lianqiujun",
+          "link": "https://x.com/AntCaveClub/status/1900200454568415509",
+          "publishedOn": "2025-03-13T15:01:07.000Z",
+          "wordCount": null,
+          "title": "Re 有合作需求可以和我交流： https://t.me/lianqiujun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900200450030526507",
+          "author": "链求君 🔥",
+          "description": "Re 3⃣️ epUSDT （ 0 手续费 ）\n纯开源，基本上是全流程自己搭建， 中间无任何抽水环节， 自己使用就 0 手续费。 也可以做成服务，给其他人使用。\n需要点技术门槛搭建。\n🔗 https://github.com/assimon/epusdt",
+          "link": "https://x.com/AntCaveClub/status/1900200450030526507",
+          "publishedOn": "2025-03-13T15:01:05.000Z",
+          "wordCount": null,
+          "title": "Re 3⃣️ epUSDT （ 0 手续费 ） 纯开源，基本上是全流程自己搭建， 中间无任何抽水环节， 自己使用就 0 手续费。 也可以做成服务，给其他人使用。 需要点技术门...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900200432250871967",
+          "author": "链求君 🔥",
+          "description": "#效率工具\n付费产品怎么用加密货币收付款？\n@stripe 可能是主流方案，但是 KYC + 手续费抽成， 都是高昂的代价。\n分享下出海做产品，成本最低的收款方式 ！\n付费功能，是大部分产品和项目都需的。\n如何能做到： 简单，便捷， 低成本\n“搞定收钱这件事”\n我推荐几个思路，如果你有更好的，请在评论区分享下 ⬇️",
+          "link": "https://x.com/AntCaveClub/status/1900200432250871967",
+          "publishedOn": "2025-03-13T15:01:01.000Z",
+          "wordCount": null,
+          "title": "#效率工具 付费产品怎么用加密货币收付款？ @stripe 可能是主流方案，但是 KYC + 手续费抽成， 都是高昂的代价。 分享下出海做产品，成本最低的收款方式 ！ 付费...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900183958677295223",
+          "author": "链求君 🔥",
+          "description": "2亿 USDC 的转账， 挺少见的。 \n是不是又什么大事要发生了？\n\n\nWhale Alert: 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  200,200,000 #USDC (200,207,807 USD) transferred from unknown wallet to unknown wallet\nhttps://whale-alert.io/transaction/ethereum/0xb50eeb123bf37b611be3fd7bcba33f6a63a60ea4975bf3eaff03688c6f44a425",
+          "link": "https://x.com/AntCaveClub/status/1900183958677295223",
+          "publishedOn": "2025-03-13T13:55:34.000Z",
+          "wordCount": null,
+          "title": "2亿 USDC 的转账， 挺少见的。 是不是又什么大事要发生了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900137121283006617",
+          "author": "链求君 🔥",
+          "description": "Re 将Manus等中心化AI Agent比作“终端”，Rivalz则构建去中心化的“能源网络”，通过Swarm协议、rAgent质押等模块，实现资源调度与经济结算的自由流动，赋能AI代理的链上可信协作。\n以Swarm协议（分布式协作）、OCY（数据层）、ADCS（低延迟通信）、NOSTRINGS（身份管理）、VORD（应用层）构建技术栈，成为中心化AI代理接入Web3资源的标准化接口。",
+          "link": "https://x.com/AntCaveClub/status/1900137121283006617",
+          "publishedOn": "2025-03-13T10:49:27.000Z",
+          "wordCount": null,
+          "title": "Re 将Manus等中心化AI Agent比作“终端”，Rivalz则构建去中心化的“能源网络”，通过Swarm协议、rAgent质押等模块，实现资源调度与经济结算的自由流动，赋能AI...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900137124479037596",
+          "author": "链求君 🔥",
+          "description": "Re 整体来看该项目的技术壁垒还是比较强的。\nRivalz的叙事体系覆盖技术、经济与用户三层：\n技术层：以DePIN+模块化协议打通AI代理与分布式资源的交互；\n经济层：通过代币化质押与链上结算构建自主经济循环；\n用户层：平衡中心化易用性与去中心化安全性，降低采用门槛。\n其核心竞争力在于将复杂的去中心化逻辑封装为可被AI开发者及普通用户直接调用的基础设施。 \n🐦 https://x.com/Rivalz_AI",
+          "link": "https://x.com/AntCaveClub/status/1900137124479037596",
+          "publishedOn": "2025-03-13T10:49:27.000Z",
+          "wordCount": null,
+          "title": "Re 整体来看该项目的技术壁垒还是比较强的。 Rivalz的叙事体系覆盖技术、经济与用户三层： 技术层：以DePIN+模块化协议打通AI代理与分布式资源的交互； 经济层：...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900141167058313377",
+          "author": "链求君 🔥",
+          "description": "RT 链求君 🔥\nRe @Rivalz_AI Rivalz Network的 AI 基础设施探索\n近期市场调整期间，AI赛道项目Rivalz Network的代币 $RIZ 展现韧性，其技术架构值得关注。\n项目由连续获得十余次全球黑客松冠军的开发者 IgorKol 主导，团队以900万美元融资为支撑，已上线无代码开发平台Vord，并推进分布式AI协议 RivalzSwarm 的测试。\n作为早期探索“AI+DePIN”融合的协议，Rivalz尝试通过分布式节点网络构建开放的计算资源市场，用户消耗RIZ即可调用AI推理服务。\n目前生态已覆盖去中心化存储、链上数据预言机等模块，并与超100个Web3项目建立技术协同，为开发者提供从数据到应用的全链条工具。",
+          "link": "https://x.com/AntCaveClub/status/1900141167058313377",
+          "publishedOn": "2025-03-13T10:49:24.000Z",
+          "wordCount": null,
+          "title": "RT 链求君 🔥: Re @Rivalz_AI Rivalz Network的 AI 基础设施探索 近期市场调整期间，AI赛道项目Rivalz Network的代币 $RIZ 展现韧性，其技术架构值得关注。 项...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900137109543149997",
+          "author": "链求君 🔥",
+          "description": "Re @Rivalz_AI Rivalz Network的 AI 基础设施探索\n近期市场调整期间，AI赛道项目Rivalz Network的代币 $RIZ 展现韧性，其技术架构值得关注。\n项目由连续获得十余次全球黑客松冠军的开发者 IgorKol 主导，团队以900万美元融资为支撑，已上线无代码开发平台Vord，并推进分布式AI协议 RivalzSwarm 的测试。\n作为早期探索“AI+DePIN”融合的协议，Rivalz尝试通过分布式节点网络构建开放的计算资源市场，用户消耗RIZ即可调用AI推理服务。\n目前生态已覆盖去中心化存储、链上数据预言机等模块，并与超100个Web3项目建立技术协同，为开发者提供从数据到应用的全链条工具。",
+          "link": "https://x.com/AntCaveClub/status/1900137109543149997",
+          "publishedOn": "2025-03-13T10:49:24.000Z",
+          "wordCount": null,
+          "title": "Re @Rivalz_AI Rivalz Network的 AI 基础设施探索 近期市场调整期间，AI赛道项目Rivalz Network的代币 $RIZ 展现韧性，其技术架构值得关注。 项目由连续获得十余...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900110855808966938",
+          "author": "链求君 🔥",
+          "description": "Re @0xBclub zksync  一天赚 800u 😂",
+          "link": "https://x.com/AntCaveClub/status/1900110855808966938",
+          "publishedOn": "2025-03-13T09:05:05.000Z",
+          "wordCount": null,
+          "title": "Re @0xBclub zksync 一天赚 800u 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900094903075651723",
+          "author": "链求君 🔥",
+          "description": "#SOL #OM \n一个新创建的钱包 3 小时前从 #Binance 提取了 201,755 $SOL （2500 万美元）。\nhttps://solscan.io/account/2fyep8kCZyKyZemnkMTGXiXEUfqpZCHvutVLLgfqgcgJ#transfers\n一个新创建的钱包1小时前从 #Binance📷中提取了 240 万 $OM 价值 1548 万美元。  \n地址：\n0x7c91f09d1bf4b97796dcf9a48a9f56bf87093a83",
+          "link": "https://x.com/AntCaveClub/status/1900094903075651723",
+          "publishedOn": "2025-03-13T08:01:41.000Z",
+          "wordCount": null,
+          "title": "#SOL #OM 一个新创建的钱包 3 小时前从 #Binance 提取了 201,755 $SOL （2500 万美元）。 https://solscan.io/account/2fyep8kCZyKyZemnkMTGXiXEUfqpZCHvutVLLgf...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900090902292660579",
+          "author": "链求君 🔥",
+          "description": "#效率工具 \n这个好用，一键发多平台， 效率提升\n🔗 https://multipost.app/\n免费🆓",
+          "link": "https://x.com/AntCaveClub/status/1900090902292660579",
+          "publishedOn": "2025-03-13T07:45:47.000Z",
+          "wordCount": null,
+          "title": "#效率工具 这个好用，一键发多平台， 效率提升 🔗 https://multipost.app/ 免费🆓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900026504706392317",
+          "author": "链求君 🔥",
+          "description": "Re @FLS_OTC 你们都是被脑控组织迫害的人。 \n被 @VitalikButerin  脑控了。 \n一般症状都差不多。",
+          "link": "https://x.com/AntCaveClub/status/1900026504706392317",
+          "publishedOn": "2025-03-13T03:29:54.000Z",
+          "wordCount": null,
+          "title": "Re @FLS_OTC 你们都是被脑控组织迫害的人。 被 @VitalikButerin 脑控了。 一般症状都差不多。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1900020226059887035",
+          "author": "链求君 🔥",
+          "description": "RT MaxG\n市场低迷时，空投确实成了许多人的避风港。但别忘了，空投的本质是项目方的营销手段，而非真正的价值创造。@initia 的 TGE 临近，但 Wallet Extension 的终止可能意味着技术或安全上的调整。建议深入研究项目背景和团队实力，而非盲目追逐空投。数据驱动的决策才是王道。\n\n鬼谷研选GhostClub(Ø,G): 最近行情是真的没法看，还是继续卷空投吧  @KaitoAI ！@aixbt_agent 你说对不？\n卷点高质量的项目吧，比如 @initia @defidotapp  @Eclipse  @succinct @mitosis  @humanityprot 等\n 1. 先说 @initia 我感觉tge很快就会来了，\n3月7日，Initia 宣布终止 Wallet Extension，敦促用户在3月18日3:00 UTC",
+          "link": "https://x.com/AntCaveClub/status/1900020226059887035",
+          "publishedOn": "2025-03-13T02:52:15.000Z",
+          "wordCount": null,
+          "title": "RT MaxG: 市场低迷时，空投确实成了许多人的避风港。但别忘了，空投的本质是项目方的营销手段，而非真正的价值创造。@initia 的 TGE 临近，但 Wallet Extension ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1899832055162343658",
+          "author": "链求君 🔥",
+          "description": "Re @SonicAssistant 可能比你想象的更受欢迎 👏",
+          "link": "https://x.com/AntCaveClub/status/1899832055162343658",
+          "publishedOn": "2025-03-12T14:37:13.000Z",
+          "wordCount": null,
+          "title": "Re @SonicAssistant 可能比你想象的更受欢迎 👏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1899772142775906748",
+          "author": "链求君 🔥",
+          "description": "RT IAN许豪杰\n🔥揭露100倍Meme币的套路\n🚀这是我第97次创业\n#创业之神 #meme #币圈 #套路",
+          "link": "https://x.com/AntCaveClub/status/1899772142775906748",
+          "publishedOn": "2025-03-09T04:14:27.000Z",
+          "wordCount": null,
+          "title": "RT IAN许豪杰: 🔥揭露100倍Meme币的套路 🚀这是我第97次创业 #创业之神 #meme #币圈 #套路",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @DeFi Educator",
       "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
       "siteUrl": "https://x.com/DeFi_educator",
@@ -620,6 +783,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
