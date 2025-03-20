@@ -1,10 +1,612 @@
 {
   "sources": [
     {
-      "title": "Twitter @Surfer",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
-      "siteUrl": "https://x.com/DeFiSurfer808",
-      "articles": []
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902608015368581546",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据彭博社报道，尽管印度官员急于通过减少贸易壁垒来安抚美国，但美国总统特朗普表示，印度将从 4 月 2 日起被征收对等关税。特朗普当地时间周三在接受采访时表示，印度是 “世界上关税最高的国家之一，我相信他们可能会大幅降低这些关税，但在 4 月 2 日，我们将向他们征收对等关税。”\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39749",
+          "link": "https://x.com/wublockchain12/status/1902608015368581546",
+          "publishedOn": "2025-03-20T06:27:54.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据彭博社报道，尽管印度官员急于通过减少贸易壁垒来安抚美国，但美国总统特朗普表示，印度将从 4 月 2 日起被征收对等关税。特朗普当地时间周三在接受...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902596188966416414",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据彭博社报道，巴基斯坦加密委员会（Pakistan Crypto Council）首席执行官 Bilal bin Saqib 在接受采访时表示，该国旨在制定明确的监管框架来管理数字资产活动，以促进本地生态系统发展。Saqib 说道：“巴基斯坦不再袖手旁观，我们希望吸引国际投资，因为巴基斯坦是一个低成本高增长的市场，60% 的人口在 30 岁以下。我们拥有准备构建 Web3 的本土劳动力。”Saqib 指出，他希望将巴基斯坦打造成南亚的加密货币之都，与迪拜、新加坡和中国香港争夺区块链领域的领导地位。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39748",
+          "link": "https://x.com/wublockchain12/status/1902596188966416414",
+          "publishedOn": "2025-03-20T05:40:54.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据彭博社报道，巴基斯坦加密委员会（Pakistan Crypto Council）首席执行官 Bilal bin Saqib 在接受采访时表示，该国旨在制定明确的监管框架来管理数字...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902593351079399791",
+          "author": "吴说区块链",
+          "description": "澳大利亚联邦警察（AFP）联合国家反诈骗中心（NASC）和币安澳大利亚展开“火风暴行动”，打击冒充币安客服实施加密诈骗的团伙。目前已预警 130 多名潜在受害者。诈骗者通过伪造短信和客服热线，引导用户将加密资产转入其控制的钱包。（Decrypt）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39747",
+          "link": "https://x.com/wublockchain12/status/1902593351079399791",
+          "publishedOn": "2025-03-20T05:29:38.000Z",
+          "wordCount": null,
+          "title": "澳大利亚联邦警察（AFP）联合国家反诈骗中心（NASC）和币安澳大利亚展开“火风暴行动”，打击冒充币安客服实施加密诈骗的团伙。目前已预警 130 多名潜在受害者。...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902590861550158040",
+          "author": "吴说区块链",
+          "description": "Gotbit 创始人 Aleksei Andriunin 已与美国当局达成认罪协议，同意放弃 2300 万美元加密资产，以换取市场操纵指控的和解。Andriunin 原本面临最高 20 年监禁，指控包括电信欺诈和共谋市场操纵，但根据协议，他可能不会面临额外罚款或监禁，法院仍保留最终量刑决定权。Gotbit 的创始人于 2 月底被引渡到美国，此前他于四个月前在葡萄牙被捕。（Decrypt）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39746",
+          "link": "https://x.com/wublockchain12/status/1902590861550158040",
+          "publishedOn": "2025-03-20T05:19:44.000Z",
+          "wordCount": null,
+          "title": "Gotbit 创始人 Aleksei Andriunin 已与美国当局达成认罪协议，同意放弃 2300 万美元加密资产，以换取市场操纵指控的和解。Andriunin 原本面临最高 20 年监禁，指...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902589519939170382",
+          "author": "吴说区块链",
+          "description": "吴说获悉，DeFi 预言机 RedStone 发推澄清，近期有关其与做市商 Web3Port 和 Whisper 合作的传闻不实。RedStone 表示，未与上述方有任何合作，相关声明未经其同意发布，已要求删除。RedStone 强调，这些实体未曾为其提供做市服务，误导性信息可能带来严重后果。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39745",
+          "link": "https://x.com/wublockchain12/status/1902589519939170382",
+          "publishedOn": "2025-03-20T05:14:24.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，DeFi 预言机 RedStone 发推澄清，近期有关其与做市商 Web3Port 和 Whisper 合作的传闻不实。RedStone 表示，未与上述方有任何合作，相关声明未经其同...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902588108295876731",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Ordinals 创始人 Casey 宣布了 Runes 协议的升级，称为“gents”，以实现比特币 L1 上的 Runes AMM。Agents 通过“交互式交易构建”机制，使做市商能够无信任地向 Runes AMM 添加流动性，并解决“批量拆分”和“内存池抢跑”等交易问题，改善用户体验。目前，该功能的具体上线日期尚未公布。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39744",
+          "link": "https://x.com/wublockchain12/status/1902588108295876731",
+          "publishedOn": "2025-03-20T05:08:48.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Ordinals 创始人 Casey 宣布了 Runes 协议的升级，称为“gents”，以实现比特币 L1 上的 Runes AMM。Agents 通过“交互式交易构建”机制，使做市商能...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902581848322060696",
+          "author": "吴说区块链",
+          "description": "Ripple 首席执行官布拉德·加林豪斯（Brad Garlinghouse）表示，他预计在 2025 年底之前，XRP 交易所交易基金（ETF）将会推出，同时 XRP 有望成为白宫提议的数字资产储备的一部分。同时，他也提到 Ripple Labs 上市（IPO）“是有可能的，但并不是当前的首要任务”。（CoinDesk）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39743",
+          "link": "https://x.com/wublockchain12/status/1902581848322060696",
+          "publishedOn": "2025-03-20T04:43:55.000Z",
+          "wordCount": null,
+          "title": "Ripple 首席执行官布拉德·加林豪斯（Brad Garlinghouse）表示，他预计在 2025 年底之前，XRP 交易所交易基金（ETF）将会推出，同时 XRP 有望成为白宫提议的数字...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902570298215731393",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Blockworks Research，代币化资产价值已超过 180 亿美元，其中私人信贷和美国国债占比 90%，其中 Figure 开发的 Provenance Blockchain 拥有 95 亿美元的代币化资产，全部来自于私人信贷；过去一年代币化国债市场总量增长了 5 倍多达约 46 亿美元，其中 BlackRock BUIDL 在近期超过了 Hashnote USDY 成为最大的代币化货币市场基金；代币化的机构另类基金的资产管理规模超过 4 亿美元，其中 Superstate USCC 是过去一年增长最快的基金。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39742",
+          "link": "https://x.com/wublockchain12/status/1902570298215731393",
+          "publishedOn": "2025-03-20T03:58:01.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Blockworks Research，代币化资产价值已超过 180 亿美元，其中私人信贷和美国国债占比 90%，其中 Figure 开发的 Provenance Blockchain 拥有 95 亿...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902569741358920040",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 3 月 19 日）比特币现货 ETF 总净流入 1179.84 万美元，持续 4 日净流入。昨日单日净流入最多的比特币现货 ETF 为Bitwise ETF BITB，单日净流入为 1208.69 万美元，目前 BITB 历史总净流入达 20.41 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39741",
+          "link": "https://x.com/wublockchain12/status/1902569741358920040",
+          "publishedOn": "2025-03-20T03:55:49.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 3 月 19 日）比特币现货 ETF 总净流入 1179.84 万美元，持续 4 日净流入。昨日单日净流入最多的比特币现货 ETF 为...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902568967753154671",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 3 月 19 日）以太坊现货 ETF 总净流出 1174.59 万美元，持续 11 日净流出。昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流入 1016.06 万美元，目前 ETHE 历史净流出为 41.71 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39740",
+          "link": "https://x.com/wublockchain12/status/1902568967753154671",
+          "publishedOn": "2025-03-20T03:52:44.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 3 月 19 日）以太坊现货 ETF 总净流出 1174.59 万美元，持续 11 日净流出。昨日灰度（Grayscale）以太坊信托 ETF ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902566484494446700",
+          "author": "吴说区块链",
+          "description": "吴说获悉，BitMEX 联合创始人 Arthur Hayes 发推称，鲍威尔已兑现承诺，量化紧缩（QT）基本于 4 月 1 日结束。接下来，若要真正推动市场进入牛市，要么恢复补充杠杆率（SLR）豁免政策，要么重启量化宽松（QE）。比特币 77,000 美元或许就是底部，有这种可能。不过，股市可能还得再经历一番震荡，才能让杰伊（鲍威尔）完全倒向特朗普团队。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39739",
+          "link": "https://x.com/wublockchain12/status/1902566484494446700",
+          "publishedOn": "2025-03-20T03:42:52.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，BitMEX 联合创始人 Arthur Hayes 发推称，鲍威尔已兑现承诺，量化紧缩（QT）基本于 4 月 1 日结束。接下来，若要真正推动市场进入牛市，要么恢复补充...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902557385190936994",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据  Onchain Lens 监测，过去 16 小时内，一名巨鲸向HyperLiquid 存入了 737 万美元稳定币 USDC，并以 594 万美元购买了 400,059 枚 HYPE 代币。该巨鲸钱包中仍持有 142 万美元资金，可能用于进一步增持 HYPE 代币。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39738",
+          "link": "https://x.com/wublockchain12/status/1902557385190936994",
+          "publishedOn": "2025-03-20T03:06:43.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Onchain Lens 监测，过去 16 小时内，一名巨鲸向HyperLiquid 存入了 737 万美元稳定币 USDC，并以 594 万美元购买了 400,059 枚 HYPE 代币。该巨鲸...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902556368755900537",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Spot on Chain 监测，在过去 9 个小时内，三个鲸鱼地址以平均 2,036 美元的价格从 Binance 累计提取了 14,217 枚 ETH（约合 2895 万美元），此后他们用 ETH 在 Aave 上借了 1200 万 USDT，并将 U 存回 Binance 和 OKX。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39737",
+          "link": "https://x.com/wublockchain12/status/1902556368755900537",
+          "publishedOn": "2025-03-20T03:02:40.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Spot on Chain 监测，在过去 9 个小时内，三个鲸鱼地址以平均 2,036 美元的价格从 Binance 累计提取了 14,217 枚 ETH（约合 2895 万美元），此后他...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902554559190593840",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Flipside 研究，针对 EVM 链空投数据发现，在领取空投的前 7 天里，50% 的资金是钻石手，45% 立即兑换、跨链或转移至 CEX，5% 用于质押或 LP；一旦用户抛售了一个空投，有 83% 的概率会在下一次空投中做同样的事情；确定了 1.95 万个地址，这些地址领取了 2-13 次空投，并抛售了每一次；42% 的 EVM 空投流向了 0-2 分的低质量用户地址（满分为 12 分）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39736",
+          "link": "https://x.com/wublockchain12/status/1902554559190593840",
+          "publishedOn": "2025-03-20T02:55:29.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Flipside 研究，针对 EVM 链空投数据发现，在领取空投的前 7 天里，50% 的资金是钻石手，45% 立即兑换、跨链或转移至 CEX，5% 用于质押或 LP；一旦...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902552396724949360",
+          "author": "吴说区块链",
+          "description": "吴说获悉，根据 Dune 和 Artemis 发布的稳定币报告，截至 2025 年 2 月，稳定币供应量已达 2,140 亿美元，活跃地址达到 3,000 万；年转账量达 35 万亿美元，是 Visa 年吞吐量的 2 倍；USDT 供应量处于主导地位，但在市场份额和机构使用方面却有所下滑，专注于 P2P 汇款；Ethena USDe 从 1.46 亿飙升至 62 亿，是第三大稳定币，得益于创新收益策略和 delta 中性对冲；Ethereum 在稳定币供应量占 55% 的市场份额，但 Base 和 Solana 在 DeFi 和 Memecoins 推动下转账量激增占据主导地位；大多数稳定币流动性存在于中心化交易所，但 DeFi 推动了大部分转账量。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39734",
+          "link": "https://x.com/wublockchain12/status/1902552396724949360",
+          "publishedOn": "2025-03-20T02:46:53.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，根据 Dune 和 Artemis 发布的稳定币报告，截至 2025 年 2 月，稳定币供应量已达 2,140 亿美元，活跃地址达到 3,000 万；年转账量达 35 万亿美元，是 V...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902551156787966024",
+          "author": "吴说区块链",
+          "description": "《四年来首次 比特币可能迎来“用户主导软分叉”？》比特币基层社区在开始推动比特币底层软件的变更，这是超四年以来少有的事（此前可能重大的底层变更都由核心开发者群体主导推动）。这次正在涌现基层支持的是两个比特币改进提案（BIP），即 BIP-119（CTV） 和 BIP-348（CSFS）。这两个提案提出了新的比特币脚本编写方式，将使比特币能够实现 “契约”（Covenants）的功能。这两个提案可能会在比特币下一次软分叉中实施。阅读全文：https://mp.weixin.qq.com/s/5ogoRTxxxiM5uhQ1PHrI6Q",
+          "link": "https://x.com/wublockchain12/status/1902551156787966024",
+          "publishedOn": "2025-03-20T02:41:58.000Z",
+          "wordCount": null,
+          "title": "《四年来首次 比特币可能迎来“用户主导软分叉”？》比特币基层社区在开始推动比特币底层软件的变更，这是超四年以来少有的事（此前可能重大的底层变更都由核心...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902550996209037596",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Arkham 监测，Melania 内部地址: Cq2Tj6…ZARBXi 在 0:29-8:28UTC+8 将 250 万枚 MELANIA（价值约 186 万美元）转移至地址: Chptda…Syxzky 中，随后该地址: Chptda…Syxzky 把 100 万枚 MELANIA 转移至另一地址: Ha1Ye4…GZQS2M 并在 Meteora 上添加了 100 万枚 MELANIA 的单边流动性，以 0.005421 SOL 价格卖出。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39733",
+          "link": "https://x.com/wublockchain12/status/1902550996209037596",
+          "publishedOn": "2025-03-20T02:41:19.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Arkham 监测，Melania 内部地址: Cq2Tj6…ZARBXi 在 0:29-8:28UTC+8 将 250 万枚 MELANIA（价值约 186 万美元）转移至地址: Chptda…Syxzky 中，随...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1902548750633201960",
+          "author": "吴说区块链",
+          "description": "吴说获悉，特朗普发文表示，随着美国关税开始影响经济（放缓！），美联储最好降息，做正确的事。4 月 2 日是美国的解放日。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39732",
+          "link": "https://x.com/wublockchain12/status/1902548750633201960",
+          "publishedOn": "2025-03-20T02:32:24.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，特朗普发文表示，随着美国关税开始影响经济（放缓！），美联储最好降息，做正确的事。4 月 2 日是美国的解放日。https://www.wublock123.com/index.ph...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @链求君 🔥",
+      "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
+      "siteUrl": "https://x.com/AntCaveClub",
+      "articles": [
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902573180159754668",
+          "author": "链求君 🔥",
+          "description": "0xb20568b5de8abe668062710d785d292f686541e6\nbe hacked now ?",
+          "link": "https://x.com/AntCaveClub/status/1902573180159754668",
+          "publishedOn": "2025-03-20T04:09:28.000Z",
+          "wordCount": null,
+          "title": "0xb20568b5de8abe668062710d785d292f686541e6 be hacked now ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902571921990152639",
+          "author": "链求君 🔥",
+          "description": "兄弟们，再推荐一个有产品的项目 ⬇️\n#FactoryB - BNB链上的AI Agent 项目🟡\n主要特点：\n1⃣️ 人工智能驱动的 Twitter 机器人：通过标记其句柄 @FactoryB_ai 来命令 FactoryB - 直接从 X 的社交信息流创建、部署和交易代币。\n2⃣️ dApp 集成：使用 Privy（通过 Twitter）登录以跟踪最近的代币活动、个人和外部钱包交易，并与 FactoryB 的 AI 聊天终端进行交互。\n3⃣️钱包管理：实时跟踪您的钱包余额和持有代币，确保您的资产完全透明。\n4⃣️即时代币部署：在 http://four.meme 上生成代币，自定义参数（股票代码、名称、分配），并在它们达到粘合曲线后立即在 PancakeSwap 上列出它们。如果需要，代币可以直接发布到 PancakeSwap。\n5⃣️智能交易命令：购买/出售代币，从标记的帖子中获取股票代码，甚至自动附加图像以增强交易洞察力。\n6⃣️轻松转移：使用单个命令将代币发送到任何钱包地址 - 无需手动输入。\n🚀 FactoryB——人工智能与链上自动化的未来相遇的地方。\n📱 个人官方链接：\nX：https://x.com/factoryb_ai\n网站： http://FactoryB.AI\nX自动发币：https://x.com/thebfacturer\nTG频道：http://T.Me/factoryb_ai\n#FactoryB #DeFAI #AIAgents #BNB #BSC",
+          "link": "https://x.com/AntCaveClub/status/1902571921990152639",
+          "publishedOn": "2025-03-20T04:04:28.000Z",
+          "wordCount": null,
+          "title": "兄弟们，再推荐一个有产品的项目 ⬇️ #FactoryB - BNB链上的AI Agent 项目🟡 主要特点： 1⃣️ 人工智能驱动的 Twitter 机器人：通过标记其句柄 @FactoryB_ai...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902337362384093451",
+          "author": "链求君 🔥",
+          "description": "狂暴 CZ ， 这赛季太难了\n到底如何才能上巅峰。",
+          "link": "https://x.com/AntCaveClub/status/1902337362384093451",
+          "publishedOn": "2025-03-19T12:32:25.000Z",
+          "wordCount": null,
+          "title": "狂暴 CZ ， 这赛季太难了 到底如何才能上巅峰。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902317323480133676",
+          "author": "链求君 🔥",
+          "description": "RT 摸金校尉 𝕏 (Ø,G)\n夕陽夜總會 一起來玩 😂",
+          "link": "https://x.com/AntCaveClub/status/1902317323480133676",
+          "publishedOn": "2025-03-19T10:31:15.000Z",
+          "wordCount": null,
+          "title": "RT 摸金校尉 𝕏 (Ø,G): 夕陽夜總會 一起來玩 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902276241790791915",
+          "author": "链求君 🔥",
+          "description": "0xc2594bdbb3309db3c170805cecaad15d79be8a97\n🤖️ https://t.me/Sigma_buyBot?start=r-0xc2594BDBb3309dB3c170805CecaAD15D79Be8a97",
+          "link": "https://x.com/AntCaveClub/status/1902276241790791915",
+          "publishedOn": "2025-03-19T08:29:33.000Z",
+          "wordCount": null,
+          "title": "0xc2594bdbb3309db3c170805cecaad15d79be8a97 🤖️ https://t.me/Sigma_buyBot?start=r-0xc2594BDBb3309dB3c170805CecaAD15D79Be8a97",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902220194833133931",
+          "author": "链求君 🔥",
+          "description": "meme 都是秒射的小市值，符合自然规律\n秒射最健康，小奶子最美。\n男追求延时，女挤沟子，完全搞错了。\n生理构造上， 前列腺海绵体不适合长时间充血，阴道也不适合长时间摩擦。\n半小时不射，谁取悦谁？ 狮子王秒射大王，你搞半天不出来， 早被大自然淘汰了。\n哺乳动物雄性都秒射，雌性都是小奶子。\n早泄不是病，小奶不用羞，你们是优秀的哺乳动物。\n@bishengkegs @0xBclub",
+          "link": "https://x.com/AntCaveClub/status/1902220194833133931",
+          "publishedOn": "2025-03-19T04:46:50.000Z",
+          "wordCount": null,
+          "title": "meme 都是秒射的小市值，符合自然规律 秒射最健康，小奶子最美。 男追求延时，女挤沟子，完全搞错了。 生理构造上， 前列腺海绵体不适合长时间充血，阴道也不适...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902202932193374714",
+          "author": "链求君 🔥",
+          "description": "$CZN 市值也才 $120K ， V 反上来了，应该浇不到哪去。\n0x38aeecc859ddbcc00f915821e893d37173cdb3ef\nhttps://t.me/Sigma_buyBot?start=r-0x38AeECC859DdbcC00F915821e893D37173CDB3eF",
+          "link": "https://x.com/AntCaveClub/status/1902202932193374714",
+          "publishedOn": "2025-03-19T03:38:14.000Z",
+          "wordCount": null,
+          "title": "$CZN 市值也才 $120K ， V 反上来了，应该浇不到哪去。 0x38aeecc859ddbcc00f915821e893d37173cdb3ef https://t.me/Sigma_buyBot?start=r-0x38AeECC859DdbcC00F9...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902189524048080985",
+          "author": "链求君 🔥",
+          "description": "RT 凉兮大元帅（白虎）\n昨天晚上做了个梦，梦到何一了，因为昨晚何一发了个照片，我特别想笑，然后一直就想这个事，梦里赵长鹏变成了肌肉巨怪，然后赵长鹏有了超能力，赵长鹏让何一也变成了这样，何一把我抓起来就是一顿暴揍，一直抽我耳光，说：就是你小子没事在推特上骂我们夫妻俩，你现在怎么不嘴硬了，说话啊，何一两个手使劲掐着我的脖子，然后我利用墙边发力，后蹬腿，然后把何一撞到了，我迅速拿出刀子，给她给予致命一击，然后刀子断了，何一变成了不死之身，然后她就一直追着我打 ，一直到我醒来一身汗",
+          "link": "https://x.com/AntCaveClub/status/1902189524048080985",
+          "publishedOn": "2025-03-19T02:29:23.000Z",
+          "wordCount": null,
+          "title": "RT 凉兮大元帅（白虎）: 昨天晚上做了个梦，梦到何一了，因为昨晚何一发了个照片，我特别想笑，然后一直就想这个事，梦里赵长鹏变成了肌肉巨怪，然后赵长鹏有了...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902182057255854590",
+          "author": "链求君 🔥",
+          "description": "#效率工具 \n这网站挺好， 想要的数据都有了。 \n📱 https://coinank.com/zh\n还支持 APP",
+          "link": "https://x.com/AntCaveClub/status/1902182057255854590",
+          "publishedOn": "2025-03-19T02:15:17.000Z",
+          "wordCount": null,
+          "title": "#效率工具 这网站挺好， 想要的数据都有了。 📱 https://coinank.com/zh 还支持 APP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1902169879995896193",
+          "author": "链求君 🔥",
+          "description": "RT 币圈偷拍王-科学家俱乐部\n肌肉羊我的理解：\n1 首先这个币的预期是CZ换头像，他换了，肯定起飞。\n2 那没的说，换头像肯定是换422，他不能换个270做头像吧，有人说是正版，我不觉得区块链有正版和盗版，就纯资金和共识驱动\n3 422前排CZ 2%筹码 看到更舒服\n两个CA:\n0x45f3808ff8e66a41ee4798e60864796e52e3b422\n0xe7ba3e4be1fb144d9e097736a5cf93fc45c6d270\n我选了422，但我也可能是小丑，谁知道呢\n\n\n币圈偷拍王-科学家俱乐部: 表哥，大家都起床了。肌肉羊\n@cz_binance",
+          "link": "https://x.com/AntCaveClub/status/1902169879995896193",
+          "publishedOn": "2025-03-19T00:55:34.000Z",
+          "wordCount": null,
+          "title": "RT 币圈偷拍王-科学家俱乐部: 肌肉羊我的理解： 1 首先这个币的预期是CZ换头像，他换了，肯定起飞。 2 那没的说，换头像肯定是换422，他不能换个270做头像吧，有...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1901965082801926353",
+          "author": "链求君 🔥",
+          "description": "RT 币圈偷拍王-科学家俱乐部\n链求君前一天还再说互动差。直接数据爆炸\n学习更多推特算法\n\n\n链求君 🔥: 有一种男的，你直接给他番号他都看不上小电影，得直接给他种子。\n还有一种男的，只要想，他可以在互联网上找到他想要的任何东西。\n这两种男人的人生，截然不同。 \n---------- 偷拍王 @toupaiwang",
+          "link": "https://x.com/AntCaveClub/status/1901965082801926353",
+          "publishedOn": "2025-03-18T11:48:15.000Z",
+          "wordCount": null,
+          "title": "RT 币圈偷拍王-科学家俱乐部: 链求君前一天还再说互动差。直接数据爆炸 学习更多推特算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1901815951391396092",
+          "author": "链求君 🔥",
+          "description": "BSC 玩家 = 赢家 \n土狗币生命周期：\n\"开盘 → 拉盘500% → 大V喊单 → 社区FOMO → 项目方出货 → 维权群成立 → 新项目预热\" \n老师们，你认为 $mubarak  到FOMO阶段了吗？",
+          "link": "https://x.com/AntCaveClub/status/1901815951391396092",
+          "publishedOn": "2025-03-18T02:00:31.000Z",
+          "wordCount": null,
+          "title": "BSC 玩家 = 赢家 土狗币生命周期： \"开盘 → 拉盘500% → 大V喊单 → 社区FOMO → 项目方出货 → 维权群成立 → 新项目预热\" 老师们，你认为 $mubarak 到FOMO阶...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1901661509832597813",
+          "author": "链求君 🔥",
+          "description": "大家不适应可以理解？ \n刚开始肯定是有难度。\n需要点时间， 肯定会越来越好。\n$BNB  #BNB  \nhttps://accounts.marketwebb.club/register?ref=35266688",
+          "link": "https://x.com/AntCaveClub/status/1901661509832597813",
+          "publishedOn": "2025-03-17T15:46:49.000Z",
+          "wordCount": null,
+          "title": "大家不适应可以理解？ 刚开始肯定是有难度。 需要点时间， 肯定会越来越好。 $BNB #BNB https://accounts.marketwebb.club/register?ref=35266688",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1901653276174753882",
+          "author": "链求君 🔥",
+          "description": "信息传播需要一点点时间。 \n币安把整个链上交易，放到了“首页”  (更新APP)\n数亿用户，很快会发现并学会，在上面交易。\nmubarak 是事实意义上的 龙头🐲 \nhttps://accounts.marketwebb.club/register?ref=35266688\n归零下跌📉 几乎不可能。\n而上涨📈上涨📈继续涨 ，反倒很可能。 \n0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+          "link": "https://x.com/AntCaveClub/status/1901653276174753882",
+          "publishedOn": "2025-03-17T15:14:06.000Z",
+          "wordCount": null,
+          "title": "信息传播需要一点点时间。 币安把整个链上交易，放到了“首页” (更新APP) 数亿用户，很快会发现并学会，在上面交易。 mubarak 是事实意义上的 龙头🐲 https:/...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AntCaveClub/status/1901574818929209628",
+          "author": "链求君 🔥",
+          "description": "事件脉络  #BSC #BNB  \n1、 cz heyi 两班倒， X 互动造势 meme + bsc 生态， 搞热度，支持生态。\n2、 OKX 遇到监管问题。 钱包突发暂停 ⏸️\n3、 所有依赖 OKX 钱包聚合接口的 ： Bot 和工具 ， 崩溃停机。\n4、 各大工具紧急‼️ 抢修， 替换 DEX 路由， 恢复交易。\n5、 部分 BOT 还未恢复，已经流失用户。\n6、 币安把 MEME （Alpha） 放到了 “首页” ！ 币安拥有数亿用户\n7、 想一想🤔️ 老外起床， 会怎么？\n8、 （猜测） 币安，最近几天，砸钱来个天量空投给钱包用户！或者 出一个 1 万倍金狗 ！让傻子都赚钱 ！\n9、 （观望）🤔 OKX 钱包，顶得住顶不住 ？ \n📱 https://accounts.marketwebb.club/register?ref=35266688",
+          "link": "https://x.com/AntCaveClub/status/1901574818929209628",
+          "publishedOn": "2025-03-17T10:02:21.000Z",
+          "wordCount": null,
+          "title": "事件脉络 #BSC #BNB 1、 cz heyi 两班倒， X 互动造势 meme + bsc 生态， 搞热度，支持生态。 2、 OKX 遇到监管问题。 钱包突发暂停 ⏸️ 3、 所有依赖 OKX 钱包...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1898403159833288762",
+          "author": "DeFi Educator",
+          "description": "RT intern ⨀\nas is tradition, intern notes on the White House Crypto Summit covering\n- Strategic Bitcoin Reserve\n- Stablecoin Growth\n- Beating China\n25 minute stream distilled into 4 screenshots 👇",
+          "link": "https://x.com/DeFi_educator/status/1898403159833288762",
+          "publishedOn": "2025-03-07T21:15:27.000Z",
+          "wordCount": null,
+          "title": "RT intern ⨀: as is tradition, intern notes on the White House Crypto Summit covering - Strategic Bitcoin Reserve - Stablecoin Growth - Beating China ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1896661430918934556",
+          "author": "DeFi Educator",
+          "description": "zoomer: [ ZOOMER ]\nDAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECREASE ON RECORD: MARKET",
+          "link": "https://x.com/DeFi_educator/status/1896661430918934556",
+          "publishedOn": "2025-03-03T20:38:18.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1895997926654271517",
+          "author": "DeFi Educator",
+          "description": "RT Pix🔎\nXyzeva just saved crypto. Again.\nShe found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-update exploit.\nMillions of users were at risk. Billions in assets on the line.\nShe reported it. It got patched. Crypto was saved.\nHer reward? Just $55K.\nBut this isn’t even her first time.\nShe also exposed a16z leaking AWS keys, database credentials, and PII—sitting in inspect element.\nThat hack could’ve compromised one of the biggest VCs in crypto.\nHer reward? $0.\nThen, she discovered a way to hijack someone’s Arc browser without them even visiting a website — letting attackers execute arbitrary JavaScript on any page.\nThat time, she got $2K.\n$57K total for stopping multiple disasters.\nSome people break crypto. Xyzeva keeps saving it.",
+          "link": "https://x.com/DeFi_educator/status/1895997926654271517",
+          "publishedOn": "2025-03-01T12:38:54.000Z",
+          "wordCount": null,
+          "title": "RT Pix🔎: Xyzeva just saved crypto. Again. She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-upd...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1895538796265091338",
+          "author": "DeFi Educator",
+          "description": "RT MMCrypto\nWOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
+          "link": "https://x.com/DeFi_educator/status/1895538796265091338",
+          "publishedOn": "2025-02-28T05:20:28.000Z",
+          "wordCount": null,
+          "title": "RT MMCrypto: WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1894809641391137265",
+          "author": "DeFi Educator",
+          "description": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
+          "link": "https://x.com/DeFi_educator/status/1894809641391137265",
+          "publishedOn": "2025-02-26T17:59:57.000Z",
+          "wordCount": null,
+          "title": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1894505006897692724",
+          "author": "DeFi Educator",
+          "description": "I'm a simple man",
+          "link": "https://x.com/DeFi_educator/status/1894505006897692724",
+          "publishedOn": "2025-02-25T21:49:26.000Z",
+          "wordCount": null,
+          "title": "I'm a simple man",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1893697740011442196",
+          "author": "DeFi Educator",
+          "description": "RT Evanss6\nLot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B",
+          "link": "https://x.com/DeFi_educator/status/1893697740011442196",
+          "publishedOn": "2025-02-23T00:44:41.000Z",
+          "wordCount": null,
+          "title": "RT Evanss6: Lot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1893071418612482096",
+          "author": "DeFi Educator",
+          "description": "RT Eric Wall | BIP-420 🐱\nIf you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 report is great\nStep 1: Swap any ERC20s (like stETH) into ETH \nStep 2: Swap any ETH into BTC \nStep 3: Cash out BTC to cash (Chinese Renminbi) using Asian exchanges \nThis process can take years. They are in no hurry. \nIn 2022, it was noted how North Korea was still sitting on $55 worth of funds from hacks that happened six years earlier (2016).",
+          "link": "https://x.com/DeFi_educator/status/1893071418612482096",
+          "publishedOn": "2025-02-21T21:19:45.000Z",
+          "wordCount": null,
+          "title": "RT Eric Wall | BIP-420 🐱: If you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1893034457415713130",
+          "author": "DeFi Educator",
+          "description": "RT Sipan V'artagnan ⚖️⚡️\nThe hacker could’ve just grabbed that easy $4000.",
+          "link": "https://x.com/DeFi_educator/status/1893034457415713130",
+          "publishedOn": "2025-02-21T17:07:59.000Z",
+          "wordCount": null,
+          "title": "RT Sipan V'artagnan ⚖️⚡️: The hacker could’ve just grabbed that easy $4000.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902215094089457941",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nMajors holding up well, potential bottom signals for alts and the HL short whale made $9.5m.\nSOL trenches cooked but still pockets of coins working incl bsc SZN, $KTA and high mindshare SOL runners like $PVS\n$IO hits #2 by ARR according to @DepinNinja",
+          "link": "https://x.com/OnChainWizard/status/1902215094089457941",
+          "publishedOn": "2025-03-19T04:26:34.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902010604380176773",
+          "author": "Onchain Wizard",
+          "description": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions\n\ntory.io 🦾: http://x.com/i/article/1901653705516331008",
+          "link": "https://x.com/OnChainWizard/status/1902010604380176773",
+          "publishedOn": "2025-03-18T14:54:00.000Z",
+          "wordCount": null,
+          "title": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902018737575735374",
+          "author": "Onchain Wizard",
+          "description": "RT f(x) Protocol\nIT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀\nIt's time: In 24 hours, f(x) Protocol will support wBTC markets, allowing traders to access up to 7X leverage on Bitcoin with ZERO funding fees and minimal liquidation risk.\n✅ No more perpetual funding fees eating into your profits\n✅ Say goodbye to brutal liquidations during volatile periods\n✅ Same innovative model that's already proven to work\nFor Stability Pool depositors and $veFXN holders, this means even more yield as you'll now earn BTC trading commissions (automatically converted to wstETH) on top of existing rewards.\nf(x) Protocol has already demonstrated product-market fit with ETH long positions exceeding 20,000 wstETH at peak. Now we're bringing that same capital efficiency to Bitcoin traders.\nThis is just one of several major updates coming to f(x), including batch processing for keepers and flexible yield options for the Stability Pool. Read the full article: https://medium.com/@protocol_fx_667/expanding-horizons-major-updates-coming-to-f-x-protocol-079f0b90522f\nGet ready for tomorrow: The future of decentralized leveraged trading is here, and you can start using it in just 24 hours! 🔥",
+          "link": "https://x.com/OnChainWizard/status/1902018737575735374",
+          "publishedOn": "2025-03-18T14:31:44.000Z",
+          "wordCount": null,
+          "title": "RT f(x) Protocol: IT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀 ​ It's time: In 24 hours, f(x) Protocol will support wBTC m...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1901827079429066935",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nVibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%)\nOnchain coins also starting to shine with strength on the day in $KTA, $YZY, $BMT\nTrade w/ up to 7x leverage + liq protection + zero funding @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1901827079429066935",
+          "publishedOn": "2025-03-18T02:44:34.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Vibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%) Onchain coi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1900029087059423365",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nEquity markets stopped going down, cool CPI and BTC back up to ~$84k\nThe trenches got a few runners today incl $LORIA and $EIC while $pwease, $keycat $doginme and $KTA saw notable strength \n@mETHProtocol's new Fixed Yield Vault",
+          "link": "https://x.com/OnChainWizard/status/1900029087059423365",
+          "publishedOn": "2025-03-13T03:39:48.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Equity markets stopped going down, cool CPI and BTC back up to ~$84k The trenches got a few runners today...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1899683288673095865",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nBTC leading equities for once\nSome alts seeing a relief bounce incl $BANANA, $GIGA and $TIA\nOnchain strength led by $pwease, $drb, $bnkr and #fartcoin \nTrade with up to 7x leverage + liq protection + zero funding w/\n@protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1899683288673095865",
+          "publishedOn": "2025-03-12T04:45:54.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: BTC leading equities for once Some alts seeing a relief bounce incl $BANANA, $GIGA and $TIA Onchain stren...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1899569932121125165",
+          "author": "Onchain Wizard",
+          "description": "Incredible strength in $IO momentum despite both deepseek fears and collapsing markets 🫡\n\nio.net: Another exciting milestone was hit as @ionet Total Network Earnings surpassed $9,000,000. Can't stop, won't stop.",
+          "link": "https://x.com/OnChainWizard/status/1899569932121125165",
+          "publishedOn": "2025-03-11T21:15:38.000Z",
+          "wordCount": null,
+          "title": "Incredible strength in $IO momentum despite both deepseek fears and collapsing markets 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1899334095173239085",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\nNasdaq's worst day since 2022, BTC taps $76k and change.   \nEF opens a 30k ETH position w/ a $1.1k liq\nMini base szn w/ $DRB and $BNKR\nSmart SOL holders sticking with $fartcoin, $pwease and $DOGEAI\n$IO hits $9m in total network earnings",
+          "link": "https://x.com/OnChainWizard/status/1899334095173239085",
+          "publishedOn": "2025-03-11T05:38:30.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1898950093480309197",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$OTHERS gives back all election gains, $BTC seeing sharp accumulation\nBerachain leading onchain capital flows as folks farm out the drawdown\n+ New upcoming projects 2 watch\nTrade with up to 7x leverage + liq protection + zero funding w/\n@protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1898950093480309197",
+          "publishedOn": "2025-03-10T04:12:24.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $OTHERS gives back all election gains, $BTC seeing sharp accumulation Berachain leading onchain capital f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1897524400376643904",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$92k $BTC, #Fartcoin showing strength\nThe trenches with a few small winners on $wildnout and $kta\n$pwease still leading overall onchain mindshare\n@mETHProtocol metamorphosis szn 3 incoming featuring 3+ layers of yield",
+          "link": "https://x.com/OnChainWizard/status/1897524400376643904",
+          "publishedOn": "2025-03-06T05:47:15.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $92k $BTC, #Fartcoin showing strength The trenches with a few small winners on $wildnout and $kta $pwease...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1897156584616411574",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: The Daily Edge featuring:\n$pwease hits $30mm, leads onchain mindshare\nTG trench volumes hit 3rd lowest reading in last 12mo\nVolatility continues w/ Trump spooking equity markets (also why was SafeMoon up 80% today?)\n$IO earnings and partnership momentum is a one way train 🆙",
+          "link": "https://x.com/OnChainWizard/status/1897156584616411574",
+          "publishedOn": "2025-03-05T05:25:51.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1896774052859281617",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nThe trenches finally see a few smaller runners $gay, $baby and $pwease\nOTHERS has fully retraced the Trump election pump\nSome smaller coins quietly going up incl $ALCH and $DOGEAI\nTrade with up to 7x leverage + liq protection + zero funding w/ @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1896774052859281617",
+          "publishedOn": "2025-03-04T04:05:49.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1894846039972085799",
+          "author": "Onchain Wizard",
+          "description": "Seems bullish $IO.   GPU availability tightening up significantly YTD.    Can see it in daily earnings trends despite the slowdown in crypto AI agent szn.",
+          "link": "https://x.com/OnChainWizard/status/1894846039972085799",
+          "publishedOn": "2025-02-26T20:24:35.000Z",
+          "wordCount": null,
+          "title": "Seems bullish $IO. GPU availability tightening up significantly YTD. Can see it in daily earnings trends despite the slowdown in crypto AI agent szn.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1894209342095688148",
+          "author": "Onchain Wizard",
+          "description": "1) What\n\n\nThe Daily Edge: The Daily Edge featuring:\nBetter luck next cycle - The SOL trenches have reverted to summer '24 activity levels.    Pump launching its own AMM.   \nOnly ~10 coins actually going up + a few more if you include ponzi yields.  \nDecentralized compute demand still up only for $IO",
+          "link": "https://x.com/OnChainWizard/status/1894209342095688148",
+          "publishedOn": "2025-02-25T02:14:34.000Z",
+          "wordCount": null,
+          "title": "1) What",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1893237133994807613",
+          "author": "Onchain Wizard",
+          "description": "RT ApeBasic 🥟\nOR for $80/months\n you can subscribe to @ChainEDGE_io and get literally all that + \n- top smart money wallets, \n-accumulation activity on tokens, \n-Live smart buys \n-attention dashboard showing tickers social activity and heatmaps\n-Works on sol, eth and all EVMs \n-and so so much more.\nGood night\n\nAssetDash: $MOBY required for premium access:\n1. PumpFun Feed - live buys + sells of the Top 500 traders on Pump Fun (25K tokens)\n2. 10x Whale - live buys + sells of Whale Watch whales who have been early to a major runner recently (50K tokens)\n3. Leaderboards - all data aggregated in a",
+          "link": "https://x.com/OnChainWizard/status/1893237133994807613",
+          "publishedOn": "2025-02-22T05:32:14.000Z",
+          "wordCount": null,
+          "title": "RT ApeBasic 🥟: OR for $80/months you can subscribe to @ChainEDGE_io and get literally all that + - top smart money wallets, -accumulation activity ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1892426597971468770",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nMkt showing signs of life, strong alts up DD incl the Aptos CTO \nSome onchain coins also starting to catch a bid incl $anon and $SSE \n$PAIN token launched and is leading onchain mindshare\nTrade w/ up to 7x liq protected leverage with @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1892426597971468770",
+          "publishedOn": "2025-02-20T04:04:00.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Mkt showing signs of life, strong alts up DD incl the Aptos CTO Some onchain coins also starting to catch...",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Twitter @Andre Cronje",
