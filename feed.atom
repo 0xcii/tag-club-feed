@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T02:56:58.170Z</id>
+    <id>urn:2025-03-21T03:31:16.444Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-21T02:56:58.170Z</updated>
+    <updated>2025-03-21T03:31:16.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 153 次以太坊共识层核心开发者会议（ACDC）的总结，本次会议主要讨论了：Pectra 测试（3 月 27 日凌晨进行新测试网 “Hoodi” ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902889225093300731</id>
+        <link href="https://x.com/wublockchain12/status/1902889225093300731"/>
+        <updated>2025-03-21T01:05:19.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Christine Kim 对第 153 次以太坊共识层核心开发者会议（ACDC）的总结，本次会议主要讨论了：Pectra 测试（3 月 27 日凌晨进行新测试网 “Hoodi” 的 Pectra 测试，测试完成后再确定主网激活时间）、历史数据过期问题（由于 Pectra 主网激活的延迟，原计划于 2025 年 5 月 1 日前清除合并前的历史数据的方案受到影响。EIP-6110 对验证者存款及验证流程的修改使得在 Pectra 激活前安全删除存款历史数据变得更复杂）、Pectra Devnet 6 测试（开发者测试了提高至 60m gas limit）、EIP-7688 提议（即前向兼容的共识数据结构提议，被讨论拟加入 Fusaka 升级。该提议旨在支持即将在 Pectra 中激活的 EIP-4788，使智能合约能够验证共识层数据，从而降低质押时对信任的需求，同时帮助减少信标链状态数据的冗余。尽管此提议有望为诸如 Lido、Rocketpool 等应用提供帮助，但在客户端团队对 PeerDAS 有更充分实现之前，不建议加入更多共识层相关的 EIP）等。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39794]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In 2022 when fintwit was drooling over energy, it was time to buy tech]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1902879604517355928</id>
@@ -15,6 +25,156 @@
 Elite Swing Traders: $XOM monthly building a massive bull flag.]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，特朗普政府计划将美国国际开发署（USAID）更名为美国国际人道主义援助署（IHA），并将其并入国务院，同时在采购流程中采用区块链技术以提高资金分配的...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902874018052808739</id>
+        <link href="https://x.com/wublockchain12/status/1902874018052808739"/>
+        <updated>2025-03-21T00:04:54.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，特朗普政府计划将美国国际开发署（USAID）更名为美国国际人道主义援助署（IHA），并将其并入国务院，同时在采购流程中采用区块链技术以提高资金分配的安全性和透明度。然而，备忘录未明确具体实施方式，例如是否涉及使用加密货币或稳定币进行现金转账，或仅用于追踪援助资金分配。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39792]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Galaxy 向 MoonPay 提供 2 亿美元循环信贷额度，以支持业务增长并扩大数字资产获取渠道。Galaxy 创始人 Mike Novogratz 表示，此类举措有助于行业发展...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902867925670952966</id>
+        <link href="https://x.com/wublockchain12/status/1902867925670952966"/>
+        <updated>2025-03-20T23:40:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Galaxy 向 MoonPay 提供 2 亿美元循环信贷额度，以支持业务增长并扩大数字资产获取渠道。Galaxy 创始人 Mike Novogratz 表示，此类举措有助于行业发展，期待与 MoonPay 进一步合作。MoonPay CEO Ivan Soto-Wright 认为，该信贷额度将增强公司财务灵活性，以满足市场需求并优化用户体验。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39790]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国证券交易委员会（SEC）主席提名人 Paul Atkins 将于 3 月 27 日在参议院银行委员会作证，与他一同接受确认听证的还有货币监理署（OCC）署长提名人 Jonathan ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902864098498580510</id>
+        <link href="https://x.com/wublockchain12/status/1902864098498580510"/>
+        <updated>2025-03-20T23:25:29.000Z</updated>
+        <summary type="html"><![CDATA[美国证券交易委员会（SEC）主席提名人 Paul Atkins 将于 3 月 27 日在参议院银行委员会作证，与他一同接受确认听证的还有货币监理署（OCC）署长提名人 Jonathan Gould 和财政部助理部长提名人 Luke Pettit。如果委员会投票通过提名，参议院全体会议将进行最终确认，Atkins 最早可于下月上任。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39789]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Bitnomial 宣布推出 XRP US Dollar Myra (XRUY) 期货，为美国首个 CFTC 监管的 XRP 期货，采用实物交割模式。此外，Bitnomial Exchange, LLC 已撤回针...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902857610933703082</id>
+        <link href="https://x.com/wublockchain12/status/1902857610933703082"/>
+        <updated>2025-03-20T22:59:42.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bitnomial 宣布推出 XRP US Dollar Myra (XRUY) 期货，为美国首个 CFTC 监管的 XRP 期货，采用实物交割模式。此外，Bitnomial Exchange, LLC 已撤回针对 SEC 的诉讼，该案件围绕 XRP 期货是否属于证券期货合约展开。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39788]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布将 AltLayer (ALT)、Pendle (PENDLE) 和 Layer3 (L3) 添加到上币路线图。https://www.wublock123.com/index.php?m=content&c=index&a=sh...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902796400250982422</id>
+        <link href="https://x.com/wublockchain12/status/1902796400250982422"/>
+        <updated>2025-03-20T18:56:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布将 AltLayer (ALT)、Pendle (PENDLE) 和 Layer3 (L3) 添加到上币路线图。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39787]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，美国证券交易委员会发布声明，明确 PoW 机制下的矿工及矿池活动不涉及证券发行，因此无需遵守《证券法》和《交易法》规定的注册要求。声明指出，矿工...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902787395797520696</id>
+        <link href="https://x.com/wublockchain12/status/1902787395797520696"/>
+        <updated>2025-03-20T18:20:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，美国证券交易委员会发布声明，明确 PoW 机制下的矿工及矿池活动不涉及证券发行，因此无需遵守《证券法》和《交易法》规定的注册要求。声明指出，矿工在 PoW 网络上进行的 Protocol Mining（协议挖矿）仅涉及计算资源的投入，以验证交易并维护网络安全，矿工获得的奖励来源于执行网络协议规则，而非依赖他人的创业或管理努力，因此不符合 Howey Test 对投资合同的定义。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39786]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，NYSE Arca 提交初始申请，提议修改已获批准上市交易的 Bitwise Ethereum ETF，允许该信托持有的以太坊参与质押。https://www.wublock123.com/index.ph...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902776414426071505</id>
+        <link href="https://x.com/wublockchain12/status/1902776414426071505"/>
+        <updated>2025-03-20T17:37:03.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，NYSE Arca 提交初始申请，提议修改已获批准上市交易的 Bitwise Ethereum ETF，允许该信托持有的以太坊参与质押。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39785]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pumpfun 推出基于自身流动性池的代币交换服务 PumpSwap，直接与 Solana 现有的自动做市商（AMM）竞争，不再将热门 memecoin 推向 Raydium，而是在内部提供启动流...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902765545830879424</id>
+        <link href="https://x.com/wublockchain12/status/1902765545830879424"/>
+        <updated>2025-03-20T16:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Pumpfun 推出基于自身流动性池的代币交换服务 PumpSwap，直接与 Solana 现有的自动做市商（AMM）竞争，不再将热门 memecoin 推向 Raydium，而是在内部提供启动流动性，以降低成本并调整收入模式。未来，PumpSwap 计划通过 25 个基点的交易费分成机制向代币创作者提供收入，但具体比例和时间尚未披露。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39783]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Solana 上的 Memecoin 发射平台 Pumpfun 表示已禁止印度用户使用该平台。此前，Pumpfun 已阻止英国用户使用。英国 FCA 官网显示，Pumpfun 提供未经允...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902765458941689956</id>
+        <link href="https://x.com/wublockchain12/status/1902765458941689956"/>
+        <updated>2025-03-20T16:53:31.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Solana 上的 Memecoin 发射平台 Pumpfun 表示已禁止印度用户使用该平台。此前，Pumpfun 已阻止英国用户使用。英国 FCA 官网显示，Pumpfun 提供未经允许的金融服务或产品。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39782]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，YZi Labs 宣布 Jane He 加入公司担任 General Partner，负责生物科技投资，并参与公司在 AI 和 Web3 领域的整体战略。Jane 此前在香港一家对冲基金担...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902756041898741831</id>
+        <link href="https://x.com/wublockchain12/status/1902756041898741831"/>
+        <updated>2025-03-20T16:16:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，YZi Labs 宣布 Jane He 加入公司担任 General Partner，负责生物科技投资，并参与公司在 AI 和 Web3 领域的整体战略。Jane 此前在香港一家对冲基金担任投资人兼首席运营官，专注于生物科技及创新驱动领域的成长型投资，她曾在 PAAMCO Prisma 负责亚洲地区的基金投资。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39781]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Freysa (FAI) 添加到上币路线图。Freysa 是一款对抗性代理游戏，它是一个控制奖池的人工智能。https://www.wublock123.com/index.php...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902752615357935715</id>
+        <link href="https://x.com/wublockchain12/status/1902752615357935715"/>
+        <updated>2025-03-20T16:02:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Freysa (FAI) 添加到上币路线图。Freysa 是一款对抗性代理游戏，它是一个控制奖池的人工智能。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39780]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Pudgy Penguin 创始人 Luca Netz 在 X 上透露，Canary 已向美 SEC 提交 PENGU ETF 的 S-1 申请文件。http://wublock123.com/index.php?m=content&c=in...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902750220200689849</id>
+        <link href="https://x.com/wublockchain12/status/1902750220200689849"/>
+        <updated>2025-03-20T15:52:58.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Pudgy Penguin 创始人 Luca Netz 在 X 上透露，Canary 已向美 SEC 提交 PENGU ETF 的 S-1 申请文件。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39779]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，TON 基金会宣布一批知名 VC 从 TON 的私人投资者处购买了价值 4 亿美金的 TON，具体购买价格没有披露，投资者包括 Sequoia Capital、Ribbit、Benchmar...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902750023710085613</id>
+        <link href="https://x.com/wublockchain12/status/1902750023710085613"/>
+        <updated>2025-03-20T15:52:11.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，TON 基金会宣布一批知名 VC 从 TON 的私人投资者处购买了价值 4 亿美金的 TON，具体购买价格没有披露，投资者包括 Sequoia Capital、Ribbit、Benchmark、Kingsway、Vy Capital、Draper Associates、Libertus Capital、CoinFund、Hypersphere、SkyBridge 和 Karatage 等。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39775]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据记者 Eleanor Terrett 消息，美国总统特朗普在数字资产峰会上发表讲话表示，他将使美国成为“无可争议的比特币超级大国和世界加密货币之都”。同时...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902744946366685201</id>
+        <link href="https://x.com/wublockchain12/status/1902744946366685201"/>
+        <updated>2025-03-20T15:32:01.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据记者 Eleanor Terrett 消息，美国总统特朗普在数字资产峰会上发表讲话表示，他将使美国成为“无可争议的比特币超级大国和世界加密货币之都”。同时特朗普呼吁国会通过具有里程碑意义的立法，为稳定币和市场结构制定简单、常识性的规则。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39778]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，波场 TRON 创始人孙宇晨在 X 上发文表示，TRX 代币现已在 Solana 网络同步发行。链上数据显示，目前 Solana 网络上的 TRX 总发行量为 2000 万枚。对 S...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1902742345357173185</id>
+        <link href="https://x.com/wublockchain12/status/1902742345357173185"/>
+        <updated>2025-03-20T15:21:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，波场 TRON 创始人孙宇晨在 X 上发文表示，TRX 代币现已在 Solana 网络同步发行。链上数据显示，目前 Solana 网络上的 TRX 总发行量为 2000 万枚。对 Solana-TRX 有执行权限的地址持有总量的 56.47%，目前没有放弃增发铸造权限。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39777]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
