@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-22T01:18:20.254Z</id>
+    <id>urn:2025-03-22T02:53:05.588Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-22T01:18:20.254Z</updated>
+    <updated>2025-03-22T02:53:05.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -398,6 +398,17 @@ Pretty sure our team cracked algo stable coins today, but previous cycle gave me
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT 0xLouisT: http://x.com/i/article/1900166267329507328]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1903165378991362363</id>
+        <link href="https://x.com/DeFi_educator/status/1903165378991362363"/>
+        <updated>2025-03-20T16:15:53.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xLouisT
+http://x.com/i/article/1900166267329507328]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[有些人是怎么腆着脸夸这个项目好的 @0xinfini 说你没钱吧，你丢 5000 w , 合约开发找个应届生。 你都不如找个外包。 要真找不到外包团队，可以周围找人问问。 欧...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1902740411535552849</id>
         <link href="https://x.com/AntCaveClub/status/1902740411535552849"/>
@@ -439,6 +450,17 @@ Cursor   VS  Trae IDE
 0x43e5688e8706dca9a6c4638b7baff36482453862]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ZachXBT: 1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly ...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1902784826442133871</id>
+        <link href="https://x.com/DeFi_educator/status/1902784826442133871"/>
+        <updated>2025-03-20T13:25:09.000Z</updated>
+        <summary type="html"><![CDATA[RT ZachXBT
+1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly leveraged positions over the past couple weeks.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -855,6 +877,21 @@ Trade with up to 7x leverage + liq protection + zero funding w/
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT intern ⨀: as is tradition, intern notes on the White House Crypto Summit covering - Strategic Bitcoin Reserve - Stablecoin Growth - Beating China ...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1898403159833288762</id>
+        <link href="https://x.com/DeFi_educator/status/1898403159833288762"/>
+        <updated>2025-03-07T21:15:27.000Z</updated>
+        <summary type="html"><![CDATA[RT intern ⨀
+as is tradition, intern notes on the White House Crypto Summit covering
+- Strategic Bitcoin Reserve
+- Stablecoin Growth
+- Beating China
+25 minute stream distilled into 4 screenshots 👇]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $92k $BTC, #Fartcoin showing strength The trenches with a few small winners on $wildnout and $kta $pwease...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1897524400376643904</id>
         <link href="https://x.com/OnChainWizard/status/1897524400376643904"/>
@@ -904,6 +941,51 @@ Trade with up to 7x leverage + liq protection + zero funding w/ @protocol_fx]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1896661430918934556</id>
+        <link href="https://x.com/DeFi_educator/status/1896661430918934556"/>
+        <updated>2025-03-03T20:38:18.000Z</updated>
+        <summary type="html"><![CDATA[zoomer: [ ZOOMER ]
+DAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECREASE ON RECORD: MARKET]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Pix🔎: Xyzeva just saved crypto. Again. She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-upd...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1895997926654271517</id>
+        <link href="https://x.com/DeFi_educator/status/1895997926654271517"/>
+        <updated>2025-03-01T12:38:54.000Z</updated>
+        <summary type="html"><![CDATA[RT Pix🔎
+Xyzeva just saved crypto. Again.
+She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-update exploit.
+Millions of users were at risk. Billions in assets on the line.
+She reported it. It got patched. Crypto was saved.
+Her reward? Just $55K.
+But this isn’t even her first time.
+She also exposed a16z leaking AWS keys, database credentials, and PII—sitting in inspect element.
+That hack could’ve compromised one of the biggest VCs in crypto.
+Her reward? $0.
+Then, she discovered a way to hijack someone’s Arc browser without them even visiting a website — letting attackers execute arbitrary JavaScript on any page.
+That time, she got $2K.
+$57K total for stopping multiple disasters.
+Some people break crypto. Xyzeva keeps saving it.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MMCrypto: WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1895538796265091338</id>
+        <link href="https://x.com/DeFi_educator/status/1895538796265091338"/>
+        <updated>2025-02-28T05:20:28.000Z</updated>
+        <summary type="html"><![CDATA[RT MMCrypto
+WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seems bullish $IO. GPU availability tightening up significantly YTD. Can see it in daily earnings trends despite the slowdown in crypto AI agent szn.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1894846039972085799</id>
         <link href="https://x.com/OnChainWizard/status/1894846039972085799"/>
@@ -911,6 +993,26 @@ Trade with up to 7x leverage + liq protection + zero funding w/ @protocol_fx]]><
         <summary type="html"><![CDATA[Seems bullish $IO.   GPU availability tightening up significantly YTD.    Can see it in daily earnings trends despite the slowdown in crypto AI agent szn.]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1894809641391137265</id>
+        <link href="https://x.com/DeFi_educator/status/1894809641391137265"/>
+        <updated>2025-02-26T17:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm a simple man]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1894505006897692724</id>
+        <link href="https://x.com/DeFi_educator/status/1894505006897692724"/>
+        <updated>2025-02-25T21:49:26.000Z</updated>
+        <summary type="html"><![CDATA[I'm a simple man]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -927,6 +1029,17 @@ Only ~10 coins actually going up + a few more if you include ponzi yields.
 Decentralized compute demand still up only for $IO]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Evanss6: Lot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1893697740011442196</id>
+        <link href="https://x.com/DeFi_educator/status/1893697740011442196"/>
+        <updated>2025-02-23T00:44:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Evanss6
+Lot of people describing the Bybit hack for $1.5B as “the biggest heist of all time” but I just checked and Cardano is still worth $35B]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -951,6 +1064,33 @@ AssetDash: $MOBY required for premium access:
 3. Leaderboards - all data aggregated in a]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Eric Wallzard: If you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 report is g...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1893071418612482096</id>
+        <link href="https://x.com/DeFi_educator/status/1893071418612482096"/>
+        <updated>2025-02-21T21:19:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Eric Wallzard
+If you want to understand what happens to funds after they’re stolen by North Korea/Lazarus Group, the Chainalysis 2022 report is great
+Step 1: Swap any ERC20s (like stETH) into ETH 
+Step 2: Swap any ETH into BTC 
+Step 3: Cash out BTC to cash (Chinese Renminbi) using Asian exchanges 
+This process can take years. They are in no hurry. 
+In 2022, it was noted how North Korea was still sitting on $55 worth of funds from hacks that happened six years earlier (2016).]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sipan V'artagnan ⚖️⚡️: The hacker could’ve just grabbed that easy $4000.]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1893034457415713130</id>
+        <link href="https://x.com/DeFi_educator/status/1893034457415713130"/>
+        <updated>2025-02-21T17:07:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Sipan V'artagnan ⚖️⚡️
+The hacker could’ve just grabbed that easy $4000.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
