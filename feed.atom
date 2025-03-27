@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-27T21:16:26.115Z</id>
+    <id>urn:2025-03-27T22:16:19.180Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-27T21:16:26.115Z</updated>
+    <updated>2025-03-27T22:16:19.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布开源其多方计算（MPC）加密库，旨在提升数字资产密钥管理的透明度与行业安全标准。该库包含 ECDSA 和 EdDSA 的两方与多方签名实现、密钥...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905333083785887930</id>
+        <link href="https://x.com/wublockchain12/status/1905333083785887930"/>
+        <updated>2025-03-27T18:56:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布开源其多方计算（MPC）加密库，旨在提升数字资产密钥管理的透明度与行业安全标准。该库包含 ECDSA 和 EdDSA 的两方与多方签名实现、密钥生成、备份流程及分层密钥派生等工具，并附带完整文档、示例和性能基准。该代码源自 Coinbase 内部使用版本，现已调整为通用版本供开发者使用。Coinbase 表示，开源此库可为缺乏专业团队的组织提供参考，并鼓励社区参与代码审查与漏洞报告。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40112]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Blockworks，Tools for Humanity 宣布推出 Mini Apps 1.2 版本，提升 World 应用内小程序加载速度、交互体验和个性化功能，并支持将小程序固定到手...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905330434042724714</id>
+        <link href="https://x.com/wublockchain12/status/1905330434042724714"/>
+        <updated>2025-03-27T18:45:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Blockworks，Tools for Humanity 宣布推出 Mini Apps 1.2 版本，提升 World 应用内小程序加载速度、交互体验和个性化功能，并支持将小程序固定到手机主屏幕。该公司还将于 4 月 1 日启动总额 30 万美元的开发者激励试点计划，开发者可通过 World ID 实名用户的活跃度获得最多每周 2.5 万美元的 WLD 奖励。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40111]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Hyperliquid 回应“JELLY 事件”，表示按 0.037555 的价格结算所有未被标记地址用户的多头头寸。并加强风险管理，包括为 Liquidator vault 设置严格上...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905325884032385545</id>
+        <link href="https://x.com/wublockchain12/status/1905325884032385545"/>
+        <updated>2025-03-27T18:27:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Hyperliquid 回应“JELLY 事件”，表示按 0.037555 的价格结算所有未被标记地址用户的多头头寸。并加强风险管理，包括为 Liquidator vault 设置严格上限，仅占 HLP 总账户价值的一小部分，降低再平衡频率，并引入更复杂的兜底清算逻辑；当该 vault 损失超过设定阈值时将触发 ADL，而非自动调用其他组件 vault 的抵押品（ADL 在正常市场波动中预计不会触发）；未平仓合约上限将根据资产市值动态调整；对于低于设定门槛的资产，验证者将通过链上投票决定是否予以下线。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40110]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Arkham 监测，美国政府地址 “Sae-Heng Confiscated Funds” 于 2025 年 3 月 27 日 17:23:27（UTC）将 97.33599434 枚比特币（约合 846 万美元）...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905319708225921474</id>
+        <link href="https://x.com/wublockchain12/status/1905319708225921474"/>
+        <updated>2025-03-27T18:03:12.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Arkham 监测，美国政府地址 “Sae-Heng Confiscated Funds” 于 2025 年 3 月 27 日 17:23:27（UTC）将 97.33599434 枚比特币（约合 846 万美元）转出。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40109]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安公布首批投票上币结果，确认将于 2025 年 03 月 28 日 05:00（东八区时间）上线 Mubarak（MUBARAK）、CZ’S Dog（BROCCOLI714）、Tutorial（TUT）...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905312728652415230</id>
+        <link href="https://x.com/wublockchain12/status/1905312728652415230"/>
+        <updated>2025-03-27T17:35:28.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安公布首批投票上币结果，确认将于 2025 年 03 月 28 日 05:00（东八区时间）上线 Mubarak（MUBARAK）、CZ’S Dog（BROCCOLI714）、Tutorial（TUT）和 Banana For Scale（BANANAS31），并应用种子标签。这些代币的现货交易对将包括 USDT 和 USDC 计价对，充值通道将在一小时内开放，提现预计于 3 月 29 日开启。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40108]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据路透社，法国国有投资银行 Bpifrance 宣布将设立一支最高 2500 万欧元的新基金，专门用于直接投资尚未上线交易所的本土加密货币项目，以支持法国本地的加密业...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905310685002908006</id>
+        <link href="https://x.com/wublockchain12/status/1905310685002908006"/>
+        <updated>2025-03-27T17:27:20.000Z</updated>
+        <summary type="html"><![CDATA[据路透社，法国国有投资银行 Bpifrance 宣布将设立一支最高 2500 万欧元的新基金，专门用于直接投资尚未上线交易所的本土加密货币项目，以支持法国本地的加密业务发展。这是其首次专门设立用于购买代币的基金，之前已在区块链项目中投入约 1.5 亿欧元。Bpifrance 表示将重点投资由法国团队发行的小型新代币，并可能协助其上线交易所。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40107]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Binance Alpha 上线 Ghiblification (Ghibli) 和 GhibliCZ (Ghibli) 。均是受 OpenAI 推出 ChatGPT-4o 图像生成功能影响所创建的 memecoin。https://w...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905309823140593722</id>
+        <link href="https://x.com/wublockchain12/status/1905309823140593722"/>
+        <updated>2025-03-27T17:23:55.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Binance Alpha 上线 Ghiblification (Ghibli) 和 GhibliCZ (Ghibli) 。均是受 OpenAI 推出 ChatGPT-4o 图像生成功能影响所创建的 memecoin。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40106]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲加密风投机构 Maven 11 宣布其第三支基金完成募资，总额为 1.07 亿美元，Maven 11 已动用约 15% 的资金投资多个项目，包括 GTE、JokeRace、August 和 Spire ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1905300800060227824</id>
+        <link href="https://x.com/wublockchain12/status/1905300800060227824"/>
+        <updated>2025-03-27T16:48:04.000Z</updated>
+        <summary type="html"><![CDATA[欧洲加密风投机构 Maven 11 宣布其第三支基金完成募资，总额为 1.07 亿美元，Maven 11 已动用约 15% 的资金投资多个项目，包括 GTE、JokeRace、August 和 Spire Labs。该基金计划在未来 3 至 4 年内用于早期和 A 轮股权及代币投资，单笔投资金额在 50 万至 500 万美元之间，关注领域包括消费应用、基础设施及 AI 与加密交叉方向。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40105]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汇款应用 Abound 宣布完成 1400 万美元种子轮融资，投资方包括 Circle Ventures 和 Near Foundation。Abound 由印度《时报集团》旗下数字机构孵化，主要为非印度...]]></title>
         <id>https://twitter.com/wublockchain12/status/1905298895422587251</id>
@@ -116,46 +196,6 @@ I am probably the last guy to try this. Not going to change my pfp, as it will p
         <link href="https://x.com/wublockchain12/status/1905263207905943673"/>
         <updated>2025-03-27T14:18:41.000Z</updated>
         <summary type="html"><![CDATA[Sam Bankman-Fried 已于近日被转移至俄克拉荷马城联邦转运中心（Oklahoma City FTC），以继续其诈骗罪刑期，此前他于本月早些时候在布鲁克林大都会拘留中心未经授权接受 Tucker Carlson 的远程视频采访。据联邦监狱局网站更新，SBF 的转移始于 3 月 26 日凌晨 3 点，监狱官员未提前告知其目的地。俄克拉荷马城 FTC 是美国联邦监狱系统的中转枢纽，SBF 将在此临时关押后转至永久监狱服刑，其预计释放日期为 2044 年 11 月 17 日。(TheBlock)  http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40096]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1905260966964502705</id>
-        <link href="https://x.com/wublockchain12/status/1905260966964502705"/>
-        <updated>2025-03-27T14:09:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance Futures 将于 2025-03-27 23:30 UTC+8 上线 WALUSDT 永续合约，最高 25 倍杠杆。Walrus 是一个去中心化的数据存储协议和应用程序开发平台。 h...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1905259710632317382</id>
-        <link href="https://x.com/wublockchain12/status/1905259710632317382"/>
-        <updated>2025-03-27T14:04:47.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance Futures 将于 2025-03-27 23:30 UTC+8 上线 WALUSDT 永续合约，最高 25 倍杠杆。Walrus 是一个去中心化的数据存储协议和应用程序开发平台。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40094]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，链上侦探 ZachXBT 在个人频道发文表示，随着 Token 2049 会议临近，参会者需警惕赞助商的信誉，因会议对赞助商的尽职调查不足。他指出，标题赞助商 Sp...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1905256262562115679</id>
-        <link href="https://x.com/wublockchain12/status/1905256262562115679"/>
-        <updated>2025-03-27T13:51:05.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，链上侦探 ZachXBT 在个人频道发文表示，随着 Token 2049 会议临近，参会者需警惕赞助商的信誉，因会议对赞助商的尽职调查不足。他指出，标题赞助商 Spacecoin 涉嫌机器人刷量，白金赞助商 Bitunix、JuCoin、WEEX 均为可疑交易所，Auros 和 DWF 的做市操作存在一定争议。ZachXBT 建议通过核查团队公开性和过往行业经历判断中心化交易所的可信度，Bitunix、JuCoin 和 WEEX 均未通过此测试。2023 年末，Token 2049 白金赞助商 JPEX 曾被香港政府标记为“可疑”，会后因涉嫌盗窃超 1 亿美元被捕，受害者向执法部门提交 1400 份报告。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40090]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链上订单开发商 Warlock Labs 宣布完成 800 万美元融资，Polychain Capital 领投，Greenfield Capital、Reciprocal ventures、Symbolic Capital、Ambush Capital...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1905254328387981462</id>
-        <link href="https://x.com/wublockchain12/status/1905254328387981462"/>
-        <updated>2025-03-27T13:43:24.000Z</updated>
-        <summary type="html"><![CDATA[链上订单开发商 Warlock Labs 宣布完成 800 万美元融资，Polychain Capital 领投，Greenfield Capital、Reciprocal ventures、Symbolic Capital、Ambush Capital 和 TRGC 参投。该公司旨在重塑链上订单流，证明提交的订单流未被篡改，以确保公平交易。(CoinDesk) http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40093]]></summary>
         <author>
             <name>吴说区块链</name>
         </author>
@@ -409,28 +449,6 @@ The @Mantle_Official Yapperboard challenge is now live - top 50 yappers qualify 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 0xLouisT: http://x.com/i/article/1900166267329507328]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1903165378991362363</id>
-        <link href="https://x.com/DeFi_educator/status/1903165378991362363"/>
-        <updated>2025-03-20T16:15:53.000Z</updated>
-        <summary type="html"><![CDATA[RT 0xLouisT
-http://x.com/i/article/1900166267329507328]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ZachXBT: 1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1902784826442133871</id>
-        <link href="https://x.com/DeFi_educator/status/1902784826442133871"/>
-        <updated>2025-03-20T13:25:09.000Z</updated>
-        <summary type="html"><![CDATA[RT ZachXBT
-1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly leveraged positions over the past couple weeks.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.]]></title>
         <id>https://twitter.com/OnChainWizard/status/1902215094089457941</id>
         <link href="https://x.com/OnChainWizard/status/1902215094089457941"/>
@@ -519,76 +537,6 @@ Trade with up to 7x leverage + liq protection + zero funding w/
 @protocol_fx]]></summary>
         <author>
             <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT intern ⨀: as is tradition, intern notes on the White House Crypto Summit covering - Strategic Bitcoin Reserve - Stablecoin Growth - Beating China ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1898403159833288762</id>
-        <link href="https://x.com/DeFi_educator/status/1898403159833288762"/>
-        <updated>2025-03-07T21:15:27.000Z</updated>
-        <summary type="html"><![CDATA[RT intern ⨀
-as is tradition, intern notes on the White House Crypto Summit covering
-- Strategic Bitcoin Reserve
-- Stablecoin Growth
-- Beating China
-25 minute stream distilled into 4 screenshots 👇]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1896661430918934556</id>
-        <link href="https://x.com/DeFi_educator/status/1896661430918934556"/>
-        <updated>2025-03-03T20:38:18.000Z</updated>
-        <summary type="html"><![CDATA[zoomer: [ ZOOMER ]
-DAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECREASE ON RECORD: MARKET]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Pix🔎: Xyzeva just saved crypto. Again. She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-upd...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1895997926654271517</id>
-        <link href="https://x.com/DeFi_educator/status/1895997926654271517"/>
-        <updated>2025-03-01T12:38:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Pix🔎
-Xyzeva just saved crypto. Again.
-She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-update exploit.
-Millions of users were at risk. Billions in assets on the line.
-She reported it. It got patched. Crypto was saved.
-Her reward? Just $55K.
-But this isn’t even her first time.
-She also exposed a16z leaking AWS keys, database credentials, and PII—sitting in inspect element.
-That hack could’ve compromised one of the biggest VCs in crypto.
-Her reward? $0.
-Then, she discovered a way to hijack someone’s Arc browser without them even visiting a website — letting attackers execute arbitrary JavaScript on any page.
-That time, she got $2K.
-$57K total for stopping multiple disasters.
-Some people break crypto. Xyzeva keeps saving it.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT MMCrypto: WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1895538796265091338</id>
-        <link href="https://x.com/DeFi_educator/status/1895538796265091338"/>
-        <updated>2025-02-28T05:20:28.000Z</updated>
-        <summary type="html"><![CDATA[RT MMCrypto
-WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1894809641391137265</id>
-        <link href="https://x.com/DeFi_educator/status/1894809641391137265"/>
-        <updated>2025-02-26T17:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
