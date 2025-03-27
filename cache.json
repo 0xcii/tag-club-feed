@@ -1,10 +1,131 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
-      "articles": []
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905298895422587251",
+          "author": "吴说区块链",
+          "description": "汇款应用 Abound 宣布完成 1400 万美元种子轮融资，投资方包括 Circle Ventures 和 Near Foundation。Abound 由印度《时报集团》旗下数字机构孵化，主要为非印度居民（NRI）提供跨境汇款服务，公司计划利用本轮资金扩充关键岗位并升级技术基础设施。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40104",
+          "link": "https://x.com/wublockchain12/status/1905298895422587251",
+          "publishedOn": "2025-03-27T16:40:30.000Z",
+          "wordCount": null,
+          "title": "汇款应用 Abound 宣布完成 1400 万美元种子轮融资，投资方包括 Circle Ventures 和 Near Foundation。Abound 由印度《时报集团》旗下数字机构孵化，主要为非印度...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905296619639345271",
+          "author": "吴说区块链",
+          "description": "吴说获悉，YZi Labs 将于 2025 年 4 月 12 日在旧金山湾区的 AGI House 举办一场线下黑客松，并与其投资组合公司 DoraHacks 合作于 4 月 13 日至 27 日举办线上黑客松，旨在运用 AI 与区块链技术解决金融科技领域的实际问题，参赛者可获得加入 YZi Labs 孵化计划及潜在投资机会。活动期间还将在斯坦福大学举办 BUIDLer Breakfast（4 月 13 日），并有来自加密行业的分享。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40103",
+          "link": "https://x.com/wublockchain12/status/1905296619639345271",
+          "publishedOn": "2025-03-27T16:31:27.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，YZi Labs 将于 2025 年 4 月 12 日在旧金山湾区的 AGI House 举办一场线下黑客松，并与其投资组合公司 DoraHacks 合作于 4 月 13 日至 27 日举办线上...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905291369545130141",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Tim Beiko 对第 208 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra（主网升级初定于 4 月 30 日 / Slot 115999872，将在下周的 ACDC 会议上确认）、Fusaka（EOF 仍将纳入 Fusaka，下次 ACDE 会议将敲定其范围，确保年底前交付，不添加可能延迟 PeerDAS 的内容）、历史数据到期（因 EIP-6110 问题，同意 Pectra 后再丢弃主网 Merge 前历史数据；Sepolia 测试网定于 5 月 1 日执行。EIP-6110：将验证者存款信息纳入执行层区块，简化共识层工作，优化验证者体验）等。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40102",
+          "link": "https://x.com/wublockchain12/status/1905291369545130141",
+          "publishedOn": "2025-03-27T16:10:35.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Tim Beiko 对第 208 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra（主网升级初定于 4 月 30 日 / Slot 115999872，将...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905278893487186015",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Coinbase Advanced 将上线 BNB 永续合约，BNB-PERP 市场将于 4 月 3 日 17:30 （UTC+8）或之后开放。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40101",
+          "link": "https://x.com/wublockchain12/status/1905278893487186015",
+          "publishedOn": "2025-03-27T15:21:01.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Coinbase Advanced 将上线 BNB 永续合约，BNB-PERP 市场将于 4 月 3 日 17:30 （UTC+8）或之后开放。 http://wublock123.com/index.php?m=content&c=i...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905269406453899591",
+          "author": "吴说区块链",
+          "description": "TVL 接近 8 亿美元的去中心化借贷协议 Dolomite 宣布将通过与 Botanix Labs 的 Spiderchain 整合在比特币上推出。此前特朗普家族支持的 World Liberty Financial  曾任命 Dolomite 联合创始人 Caplan 为该项目的技术战略主管。Spiderchain 是一种比特币 L2 解决方案，旨在通过集成以太坊 EVM 兼容性来增强比特币的可扩展性和功能性。（The Block）http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40099",
+          "link": "https://x.com/wublockchain12/status/1905269406453899591",
+          "publishedOn": "2025-03-27T14:43:19.000Z",
+          "wordCount": null,
+          "title": "TVL 接近 8 亿美元的去中心化借贷协议 Dolomite 宣布将通过与 Botanix Labs 的 Spiderchain 整合在比特币上推出。此前特朗普家族支持的 World Liberty Financial...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905267609668301160",
+          "author": "吴说区块链",
+          "description": "吴说获悉，以太坊核心开发者 @terencechain 发推表示，以太坊主网 Pectra 升级暂定于 4 月 30 日，具体实施可能取决于一些未解决的小问题和核心开发者团队的下一次会议确认。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40098",
+          "link": "https://x.com/wublockchain12/status/1905267609668301160",
+          "publishedOn": "2025-03-27T14:36:10.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，以太坊核心开发者 @terencechain 发推表示，以太坊主网 Pectra 升级暂定于 4 月 30 日，具体实施可能取决于一些未解决的小问题和核心开发者团队的下一...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905266780563730910",
+          "author": "吴说区块链",
+          "description": "吴说获悉，CZ 发布新推文并附带其吉卜力风形象图片，“我可能是最后一个尝试这个的人。不会改变我的 pfp（头像），因为它会让 bluetick 再次进入审核模式。而且我很喜欢我目前的非吉卜力 pfp。”http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40097",
+          "link": "https://x.com/wublockchain12/status/1905266780563730910",
+          "publishedOn": "2025-03-27T14:32:53.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，CZ 发布新推文并附带其吉卜力风形象图片，“我可能是最后一个尝试这个的人。不会改变我的 pfp（头像），因为它会让 bluetick 再次进入审核模式。而且...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905263207905943673",
+          "author": "吴说区块链",
+          "description": "Sam Bankman-Fried 已于近日被转移至俄克拉荷马城联邦转运中心（Oklahoma City FTC），以继续其诈骗罪刑期，此前他于本月早些时候在布鲁克林大都会拘留中心未经授权接受 Tucker Carlson 的远程视频采访。据联邦监狱局网站更新，SBF 的转移始于 3 月 26 日凌晨 3 点，监狱官员未提前告知其目的地。俄克拉荷马城 FTC 是美国联邦监狱系统的中转枢纽，SBF 将在此临时关押后转至永久监狱服刑，其预计释放日期为 2044 年 11 月 17 日。(TheBlock)  http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40096",
+          "link": "https://x.com/wublockchain12/status/1905263207905943673",
+          "publishedOn": "2025-03-27T14:18:41.000Z",
+          "wordCount": null,
+          "title": "Sam Bankman-Fried 已于近日被转移至俄克拉荷马城联邦转运中心（Oklahoma City FTC），以继续其诈骗罪刑期，此前他于本月早些时候在布鲁克林大都会拘留中心未经...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905260966964502705",
+          "author": "吴说区块链",
+          "description": "吴说每日晚报",
+          "link": "https://x.com/wublockchain12/status/1905260966964502705",
+          "publishedOn": "2025-03-27T14:09:47.000Z",
+          "wordCount": null,
+          "title": "吴说每日晚报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905259710632317382",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Binance Futures 将于 2025-03-27 23:30 UTC+8 上线 WALUSDT 永续合约，最高 25 倍杠杆。Walrus 是一个去中心化的数据存储协议和应用程序开发平台。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40094",
+          "link": "https://x.com/wublockchain12/status/1905259710632317382",
+          "publishedOn": "2025-03-27T14:04:47.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Binance Futures 将于 2025-03-27 23:30 UTC+8 上线 WALUSDT 永续合约，最高 25 倍杠杆。Walrus 是一个去中心化的数据存储协议和应用程序开发平台。 h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905256262562115679",
+          "author": "吴说区块链",
+          "description": "吴说获悉，链上侦探 ZachXBT 在个人频道发文表示，随着 Token 2049 会议临近，参会者需警惕赞助商的信誉，因会议对赞助商的尽职调查不足。他指出，标题赞助商 Spacecoin 涉嫌机器人刷量，白金赞助商 Bitunix、JuCoin、WEEX 均为可疑交易所，Auros 和 DWF 的做市操作存在一定争议。ZachXBT 建议通过核查团队公开性和过往行业经历判断中心化交易所的可信度，Bitunix、JuCoin 和 WEEX 均未通过此测试。2023 年末，Token 2049 白金赞助商 JPEX 曾被香港政府标记为“可疑”，会后因涉嫌盗窃超 1 亿美元被捕，受害者向执法部门提交 1400 份报告。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40090",
+          "link": "https://x.com/wublockchain12/status/1905256262562115679",
+          "publishedOn": "2025-03-27T13:51:05.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，链上侦探 ZachXBT 在个人频道发文表示，随着 Token 2049 会议临近，参会者需警惕赞助商的信誉，因会议对赞助商的尽职调查不足。他指出，标题赞助商 Sp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1905254328387981462",
+          "author": "吴说区块链",
+          "description": "链上订单开发商 Warlock Labs 宣布完成 800 万美元融资，Polychain Capital 领投，Greenfield Capital、Reciprocal ventures、Symbolic Capital、Ambush Capital 和 TRGC 参投。该公司旨在重塑链上订单流，证明提交的订单流未被篡改，以确保公平交易。(CoinDesk) http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40093",
+          "link": "https://x.com/wublockchain12/status/1905254328387981462",
+          "publishedOn": "2025-03-27T13:43:24.000Z",
+          "wordCount": null,
+          "title": "链上订单开发商 Warlock Labs 宣布完成 800 万美元融资，Polychain Capital 领投，Greenfield Capital、Reciprocal ventures、Symbolic Capital、Ambush Capital...",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Twitter @链求君 🔥",
@@ -154,78 +275,315 @@
       ]
     },
     {
-      "title": "Twitter @DeFi Educator",
-      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
-      "siteUrl": "https://x.com/DeFi_educator",
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
       "articles": [
         {
-          "id": "https://twitter.com/DeFi_educator/status/1903165378991362363",
-          "author": "DeFi Educator",
-          "description": "RT 0xLouisT\nhttp://x.com/i/article/1900166267329507328",
-          "link": "https://x.com/DeFi_educator/status/1903165378991362363",
-          "publishedOn": "2025-03-20T16:15:53.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1904797721078145398",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nAlts continue their momentum led by $MOVE, $MEW and #fartcoin\nBitboy is jail & $ETH ETFs got ZERO flows on 3/24\nTrenches healing with daily runners on $TIM and $jeta\nEarn a share of $30k in MNT by swapping on @BungeeExchange via @Mantle_Official",
+          "link": "https://x.com/OnChainWizard/status/1904797721078145398",
+          "publishedOn": "2025-03-26T07:28:51.000Z",
           "wordCount": null,
-          "title": "RT 0xLouisT: http://x.com/i/article/1900166267329507328",
+          "title": "RT The Daily Edge: The Daily Edge featuring: Alts continue their momentum led by $MOVE, $MEW and #fartcoin Bitboy is jail & $ETH ETFs got ZERO flows o...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1902784826442133871",
-          "author": "DeFi Educator",
-          "description": "RT ZachXBT\n1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly leveraged positions over the past couple weeks.",
-          "link": "https://x.com/DeFi_educator/status/1902784826442133871",
-          "publishedOn": "2025-03-20T13:25:09.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1904233374220247063",
+          "author": "Onchain Wizard",
+          "description": "Good read on why decentralized compute matters $IO\n\nThe Defiant: 📢 The AI Boom's Looming Crisis: A Compute Crunch!\n🚀 @MTorygreen from @ionet warns of a massive bottleneck threatening AI's future!\n💡 Centralized cloud providers are choking innovation. Decentralized compute networks could slash costs by 10x and eliminate wait times.\n🤔 Can",
+          "link": "https://x.com/OnChainWizard/status/1904233374220247063",
+          "publishedOn": "2025-03-24T18:06:30.000Z",
           "wordCount": null,
-          "title": "RT ZachXBT: 1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly ...",
+          "title": "Good read on why decentralized compute matters $IO",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1898403159833288762",
-          "author": "DeFi Educator",
-          "description": "RT intern ⨀\nas is tradition, intern notes on the White House Crypto Summit covering\n- Strategic Bitcoin Reserve\n- Stablecoin Growth\n- Beating China\n25 minute stream distilled into 4 screenshots 👇",
-          "link": "https://x.com/DeFi_educator/status/1898403159833288762",
-          "publishedOn": "2025-03-07T21:15:27.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1904045796984606837",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nHot air rises again w/ #Fartcoin up another 25%\nMarkets looking decent after 4/2 tariffs being walked back+ $OTHERS overall looks quite sendy \n#routine, $yzy, $PVS and $REI leading onchain strength\nWin a share of $40k by yapping about \n@Mantle_Official",
+          "link": "https://x.com/OnChainWizard/status/1904045796984606837",
+          "publishedOn": "2025-03-24T05:41:08.000Z",
           "wordCount": null,
-          "title": "RT intern ⨀: as is tradition, intern notes on the White House Crypto Summit covering - Strategic Bitcoin Reserve - Stablecoin Growth - Beating China ...",
+          "title": ".",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1896661430918934556",
-          "author": "DeFi Educator",
-          "description": "zoomer: [ ZOOMER ]\nDAY AFTER BEST EVER INCREASE, TOTAL CRYPTO MARKET CAP SET FOR SECOND WORST DECREASE ON RECORD: MARKET",
-          "link": "https://x.com/DeFi_educator/status/1896661430918934556",
-          "publishedOn": "2025-03-03T20:38:18.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1902919410429370808",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nSmall bounce across the board after the \"dovish\" FOMC.\n$PEPE still the strongest large cap meme\nOnchain led by BSC szn, $KTA $titcoin and $RIF\nThe @Mantle_Official Yapperboard challenge is now live - top 50 yappers qualify for a share of ~$40k",
+          "link": "https://x.com/OnChainWizard/status/1902919410429370808",
+          "publishedOn": "2025-03-21T03:04:55.000Z",
           "wordCount": null,
-          "title": "Untitled",
+          "title": "RT The Daily Edge: The Daily Edge featuring: Small bounce across the board after the \"dovish\" FOMC. $PEPE still the strongest large cap meme Onchain l...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1895997926654271517",
-          "author": "DeFi Educator",
-          "description": "RT Pix🔎\nXyzeva just saved crypto. Again.\nShe found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-update exploit.\nMillions of users were at risk. Billions in assets on the line.\nShe reported it. It got patched. Crypto was saved.\nHer reward? Just $55K.\nBut this isn’t even her first time.\nShe also exposed a16z leaking AWS keys, database credentials, and PII—sitting in inspect element.\nThat hack could’ve compromised one of the biggest VCs in crypto.\nHer reward? $0.\nThen, she discovered a way to hijack someone’s Arc browser without them even visiting a website — letting attackers execute arbitrary JavaScript on any page.\nThat time, she got $2K.\n$57K total for stopping multiple disasters.\nSome people break crypto. Xyzeva keeps saving it.",
-          "link": "https://x.com/DeFi_educator/status/1895997926654271517",
-          "publishedOn": "2025-03-01T12:38:54.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1902215094089457941",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nMajors holding up well, potential bottom signals for alts and the HL short whale made $9.5m.\nSOL trenches cooked but still pockets of coins working incl bsc SZN, $KTA and high mindshare SOL runners like $PVS\n$IO hits #2 by ARR according to @DepinNinja",
+          "link": "https://x.com/OnChainWizard/status/1902215094089457941",
+          "publishedOn": "2025-03-19T04:26:34.000Z",
           "wordCount": null,
-          "title": "RT Pix🔎: Xyzeva just saved crypto. Again. She found a flaw that could’ve hacked Coinbase engineers and top crypto teams through a massive auto-upd...",
+          "title": ".",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1895538796265091338",
-          "author": "DeFi Educator",
-          "description": "RT MMCrypto\nWOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
-          "link": "https://x.com/DeFi_educator/status/1895538796265091338",
-          "publishedOn": "2025-02-28T05:20:28.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1902010604380176773",
+          "author": "Onchain Wizard",
+          "description": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions\n\ntory.io 🦾: http://x.com/i/article/1901653705516331008",
+          "link": "https://x.com/OnChainWizard/status/1902010604380176773",
+          "publishedOn": "2025-03-18T14:54:00.000Z",
           "wordCount": null,
-          "title": "RT MMCrypto: WOW! TRUMP GETTING ROASTED FOR $TRUMP ON A POLITICAL STAGE!!!",
+          "title": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFi_educator/status/1894809641391137265",
-          "author": "DeFi Educator",
-          "description": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
-          "link": "https://x.com/DeFi_educator/status/1894809641391137265",
-          "publishedOn": "2025-02-26T17:59:57.000Z",
+          "id": "https://twitter.com/OnChainWizard/status/1902018737575735374",
+          "author": "Onchain Wizard",
+          "description": "RT f(x) Protocol\nIT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀\nIt's time: In 24 hours, f(x) Protocol will support wBTC markets, allowing traders to access up to 7X leverage on Bitcoin with ZERO funding fees and minimal liquidation risk.\n✅ No more perpetual funding fees eating into your profits\n✅ Say goodbye to brutal liquidations during volatile periods\n✅ Same innovative model that's already proven to work\nFor Stability Pool depositors and $veFXN holders, this means even more yield as you'll now earn BTC trading commissions (automatically converted to wstETH) on top of existing rewards.\nf(x) Protocol has already demonstrated product-market fit with ETH long positions exceeding 20,000 wstETH at peak. Now we're bringing that same capital efficiency to Bitcoin traders.\nThis is just one of several major updates coming to f(x), including batch processing for keepers and flexible yield options for the Stability Pool. Read the full article: https://medium.com/@protocol_fx_667/expanding-horizons-major-updates-coming-to-f-x-protocol-079f0b90522f\nGet ready for tomorrow: The future of decentralized leveraged trading is here, and you can start using it in just 24 hours! 🔥",
+          "link": "https://x.com/OnChainWizard/status/1902018737575735374",
+          "publishedOn": "2025-03-18T14:31:44.000Z",
           "wordCount": null,
-          "title": "Short Term Holders are locking in profits almost on par with FTX collapse and the summer lows.",
+          "title": "RT f(x) Protocol: IT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀 ​ It's time: In 24 hours, f(x) Protocol will support wBTC m...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1901827079429066935",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nVibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%)\nOnchain coins also starting to shine with strength on the day in $KTA, $YZY, $BMT\nTrade w/ up to 7x leverage + liq protection + zero funding @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1901827079429066935",
+          "publishedOn": "2025-03-18T02:44:34.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Vibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%) Onchain coi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1900029087059423365",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nEquity markets stopped going down, cool CPI and BTC back up to ~$84k\nThe trenches got a few runners today incl $LORIA and $EIC while $pwease, $keycat $doginme and $KTA saw notable strength \n@mETHProtocol's new Fixed Yield Vault",
+          "link": "https://x.com/OnChainWizard/status/1900029087059423365",
+          "publishedOn": "2025-03-13T03:39:48.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Equity markets stopped going down, cool CPI and BTC back up to ~$84k The trenches got a few runners today...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1899683288673095865",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nBTC leading equities for once\nSome alts seeing a relief bounce incl $BANANA, $GIGA and $TIA\nOnchain strength led by $pwease, $drb, $bnkr and #fartcoin \nTrade with up to 7x leverage + liq protection + zero funding w/\n@protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1899683288673095865",
+          "publishedOn": "2025-03-12T04:45:54.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: BTC leading equities for once Some alts seeing a relief bounce incl $BANANA, $GIGA and $TIA Onchain stren...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://x.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1905048712558039488",
+          "author": "Surfer",
+          "description": "RT Za\n25% tariffs on all foreign-made cars sold in the U.S?\nYou can get on the wagon or ignore it but it’s very clear the wind will be at the back of $TSLA for the next 4 years. \nAnything that can be done to help Tesla will be done by the current administration.",
+          "link": "https://x.com/DeFiSurfer808/status/1905048712558039488",
+          "publishedOn": "2025-03-27T00:05:54.000Z",
+          "wordCount": null,
+          "title": "RT Za: 25% tariffs on all foreign-made cars sold in the U.S? You can get on the wagon or ignore it but it’s very clear the wind will be at the back o...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904570683868184865",
+          "author": "Surfer",
+          "description": "RT CryptoAmsterdam\nBecoming hilariously bearish to cope with losses is real.\nMarkets have multiple scenarios.\nOne is very bullish for Altcoins.\nBut... if you're deep in a bear sabbatical, you won’t act if things turn — and they can turn fast.\nWhat am I looking for 👇\n(1/10)",
+          "link": "https://x.com/DeFiSurfer808/status/1904570683868184865",
+          "publishedOn": "2025-03-25T15:01:47.000Z",
+          "wordCount": null,
+          "title": "RT CryptoAmsterdam: Becoming hilariously bearish to cope with losses is real. Markets have multiple scenarios. One is very bullish for Altcoins. But.....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904253523857981833",
+          "author": "Surfer",
+          "description": "It’s not talked about enough how ridiculous MSTR is. \nHe buys btc for $1 and it immediately gets marked up 2x + MSTR’s price impact. \nMost reflexive stock ever?\n\nVIKTOR: Saylor does have a money glitch to buy $BTC as long as the $MSTR premium remains elevated\nBased on his previous BTC purchases, he wants to use the ATM (ie selling newly issued MSTR shares) when the premium is above 1.8\nHe stopped using it completely after early February but",
+          "link": "https://x.com/DeFiSurfer808/status/1904253523857981833",
+          "publishedOn": "2025-03-24T19:26:34.000Z",
+          "wordCount": null,
+          "title": "It’s not talked about enough how ridiculous MSTR is. He buys btc for $1 and it immediately gets marked up 2x + MSTR’s price impact. Most reflexive s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904253269649600711",
+          "author": "Surfer",
+          "description": "RT VIKTOR\nSaylor does have a money glitch to buy $BTC as long as the $MSTR premium remains elevated\nBased on his previous BTC purchases, he wants to use the ATM (ie selling newly issued MSTR shares) when the premium is above 1.8\nHe stopped using it completely after early February but started doing it again last week.\nAnd he's most likely going to get $700M tomorrow with the $STRF issuance on top of the $500M he deployed last week\nCheck regularly the MSTR premium (or MSTR/BTC ratio), and as long as it remains around current levels or above... well it means that he still has a lot of optionalities and 'dry powder' to purchase more BTC\nOverall : that's bullish $BTC",
+          "link": "https://x.com/DeFiSurfer808/status/1904253269649600711",
+          "publishedOn": "2025-03-24T19:05:53.000Z",
+          "wordCount": null,
+          "title": "RT VIKTOR: Saylor does have a money glitch to buy $BTC as long as the $MSTR premium remains elevated Based on his previous BTC purchases, he wants to ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904238490067292387",
+          "author": "Surfer",
+          "description": "RT Logan Hall\nDemocrats are completely cooked.\nWe might never lose again. They’ve got nothing.",
+          "link": "https://x.com/DeFiSurfer808/status/1904238490067292387",
+          "publishedOn": "2025-03-24T17:41:01.000Z",
+          "wordCount": null,
+          "title": "RT Logan Hall: Democrats are completely cooked. We might never lose again. They’ve got nothing.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904622079284036040",
+          "author": "Surfer",
+          "description": "RT Giga Based Dad\nThe more sexual partners a woman has had the more likely her marriage is to fail.\nWomen with zero sexual partners until marriage have an extraordinary success rate in marriage compared to the rest.\nPeople don’t want to have this conversation, but the data does not lie .",
+          "link": "https://x.com/DeFiSurfer808/status/1904622079284036040",
+          "publishedOn": "2025-03-24T16:31:46.000Z",
+          "wordCount": null,
+          "title": "RT Giga Based Dad: The more sexual partners a woman has had the more likely her marriage is to fail. Women with zero sexual partners until marriage ha...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904243199377367282",
+          "author": "Surfer",
+          "description": "RT Paul Joseph Watson\nFascinating how diversity in advertising suddenly disappears when it's about sending boys off to war.\n\nChay Bowes: German magazine Stern calls on young Germans \"to prepare for war with Russia\"\n\"Would you go to war for Germany? None of us wants war, but we must prepare for it now.\"\nThis insanity ends only one way.",
+          "link": "https://x.com/DeFiSurfer808/status/1904243199377367282",
+          "publishedOn": "2025-03-24T11:15:16.000Z",
+          "wordCount": null,
+          "title": "RT Paul Joseph Watson: Fascinating how diversity in advertising suddenly disappears when it's about sending boys off to war.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1903988036381090016",
+          "author": "Surfer",
+          "description": "RT Cobie\nRe Immigration puts downwards pressure on wages (and thus cost of labour for billionaires) while putting upwards pressure on assets, housing, rent prices etc (which also benefits asset holders). Lower income migration on avg not a contributor to welfare state, thus increasing costs to state or spreading welfare program more thinly — ie less support per person — increasing the required tax revenue to continue supporting consistent level of support per person from welfare programs.",
+          "link": "https://x.com/DeFiSurfer808/status/1903988036381090016",
+          "publishedOn": "2025-03-24T01:39:10.000Z",
+          "wordCount": null,
+          "title": "RT Cobie: Re Immigration puts downwards pressure on wages (and thus cost of labour for billionaires) while putting upwards pressure on assets, housing...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1904255190020272304",
+          "author": "Surfer",
+          "description": "RT I,Hypocrite\nHave you tried pulling yourself up by your bootstraps?",
+          "link": "https://x.com/DeFiSurfer808/status/1904255190020272304",
+          "publishedOn": "2025-03-24T01:00:06.000Z",
+          "wordCount": null,
+          "title": "RT I,Hypocrite: Have you tried pulling yourself up by your bootstraps?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1903910495242875334",
+          "author": "Surfer",
+          "description": "Big week\n\nTHE SHORT BEAR: Will seasonality lead us higher or are we facing a bigger pullback?\nMonday marks the usual seasonality bottom which lead us higher throughout the year.",
+          "link": "https://x.com/DeFiSurfer808/status/1903910495242875334",
+          "publishedOn": "2025-03-23T20:43:29.000Z",
+          "wordCount": null,
+          "title": "Big week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1903492108809372146",
+          "author": "Surfer",
+          "description": "RT Will\nThe attainability of the cornerstone of the American dream for the average young person has been on a decline for decades, only accelerated by the corporate ownership of single-family homes. I think this very likely has second-order effects on other parts of society.",
+          "link": "https://x.com/DeFiSurfer808/status/1903492108809372146",
+          "publishedOn": "2025-03-22T16:46:43.000Z",
+          "wordCount": null,
+          "title": "RT Will: The attainability of the cornerstone of the American dream for the average young person has been on a decline for decades, only accelerated b...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1903148606418235488",
+          "author": "Surfer",
+          "description": "Man it’s looking bleak laddies\n\nJoe: Broadly speaking, Crypto VC is an industrial manufacturing plant, whose primary business is supplying speculation instruments (tokens) into the market. Not software technologies.\nMany within the VC population fail to recognize that the core demand function of their business",
+          "link": "https://x.com/DeFiSurfer808/status/1903148606418235488",
+          "publishedOn": "2025-03-21T18:16:01.000Z",
+          "wordCount": null,
+          "title": "Man it’s looking bleak laddies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902879604517355928",
+          "author": "Surfer",
+          "description": "In 2022 when fintwit was drooling over energy, it was time to buy tech\n\nElite Swing Traders: $XOM monthly building a massive bull flag.",
+          "link": "https://x.com/DeFiSurfer808/status/1902879604517355928",
+          "publishedOn": "2025-03-21T00:27:06.000Z",
+          "wordCount": null,
+          "title": "In 2022 when fintwit was drooling over energy, it was time to buy tech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902695582105321516",
+          "author": "Surfer",
+          "description": "RT arctotherium\nRe @luluphooey It's gone to pay for more immigrants. They're very expensive.",
+          "link": "https://x.com/DeFiSurfer808/status/1902695582105321516",
+          "publishedOn": "2025-03-20T12:04:29.000Z",
+          "wordCount": null,
+          "title": "RT arctotherium: Re @luluphooey It's gone to pay for more immigrants. They're very expensive.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902748849233416691",
+          "author": "Surfer",
+          "description": "RT arctotherium\nThis chart shows which countries the wallet is likely to be returned in. Switzerland, Norway, Netherlands: yes. China, India, Mexico: no. This should be accounted for in migration policy. The US is famously untrustworthy for our level of income, in part because of our diversity.\n\n\nSean Last: Gallup evidences that people engaging in pro-social behavior, or even more so expecting others around you to be pro-social, predicts life satisfaction better than things like income growth and unemployment.",
+          "link": "https://x.com/DeFiSurfer808/status/1902748849233416691",
+          "publishedOn": "2025-03-20T11:20:10.000Z",
+          "wordCount": null,
+          "title": "RT arctotherium: This chart shows which countries the wallet is likely to be returned in. Switzerland, Norway, Netherlands: yes. China, India, Mexico:...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902698310600700283",
+          "author": "Surfer",
+          "description": "RT Rene Bruentrup\nMarch 2025 Market Strategy\nThe growth scare is finally here and it's finding its way into investor sentiment. Some may see signs of capitulation. But a much bigger narrative shift will be necessary to provide a buyable dip.\nhttps://www.fallacyalarm.com/p/march-2025-market-strategy",
+          "link": "https://x.com/DeFiSurfer808/status/1902698310600700283",
+          "publishedOn": "2025-03-19T20:26:38.000Z",
+          "wordCount": null,
+          "title": "RT Rene Bruentrup: March 2025 Market Strategy The growth scare is finally here and it's finding its way into investor sentiment. Some may see signs of...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902368800764244226",
+          "author": "Surfer",
+          "description": "RT Jeremy Kauffman 🦔🌲🌕\nOnly white Americans believe in free speech.\nAmerica losing free speech this century is plausible, unfortunately.\n\n\nCaldron Pool: \"Australians don't have the same freedom of speech laws that they have in the United States, and the reason for that is  that we want to hold together a multicultural community...\"\nWhen did Australians choose to trade their freedom for multiculturalism?",
+          "link": "https://x.com/DeFiSurfer808/status/1902368800764244226",
+          "publishedOn": "2025-03-19T11:37:14.000Z",
+          "wordCount": null,
+          "title": "RT Jeremy Kauffman 🦔🌲🌕: Only white Americans believe in free speech. America losing free speech this century is plausible, unfortunately.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902125623767630020",
+          "author": "Surfer",
+          "description": "Seems like sell off over done but leadership may be shifting\n\nBill: George is very right....",
+          "link": "https://x.com/DeFiSurfer808/status/1902125623767630020",
+          "publishedOn": "2025-03-18T22:31:03.000Z",
+          "wordCount": null,
+          "title": "Seems like sell off over done but leadership may be shifting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1902120748640043061",
+          "author": "Surfer",
+          "description": "RT Wall Street Apes\nThis may be the most corrupt thing I’ve ever heard in my life\nA Democrat federal judge made it illegal for Republicans to be poll watchers since the 80’s. Democrats have been renewing the injunction every 5 years. This only ended in 2020\nREAD THAT AGAIN\n“Something else people don't know is that start in the mid-1980s, there was a federal district court judge in New Jersey, who entered a consent decree that Republicans could not be poll watchers. So from mid-80’s until 2020, Republicans were not allowed to be poll watchers on these national elections. \nAnd what happened was that judge eventually died and the Democrats, the DNC, they had to go get that injunction renewed every 5-8 years, something along those lines. \nAnd when that judge died, he was replaced by an Obama judge, and they went back to that judge and they said, we want this consent decree in place making so Republicans cannot be poll watchers and cannot be a part of this process. \nAnd he said, what in the heck are you talking about? This is absolutely so unconstitutional. And he refused to renew that consent decree. He refused to renew that injunction. \nSo 2020 was one of the first years that we had professional Republican poll watchers in these elections to see what was going on in Atlanta, in Detroit, in Milwaukee, in, you know, in in Philadelphia. It was the first time we were able to really see what was going on in these polling places. \nWhat that tells me is that probably a lot of these shenanigans were been going on for a long, long time, but there were no Republicans there to report on it.”\nOur elections have always been rigged by Democrats",
+          "link": "https://x.com/DeFiSurfer808/status/1902120748640043061",
+          "publishedOn": "2025-03-18T05:02:57.000Z",
+          "wordCount": null,
+          "title": "RT Wall Street Apes: This may be the most corrupt thing I’ve ever heard in my life A Democrat federal judge made it illegal for Republicans to be pol...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1903775238334091456",
+          "author": "Surfer",
+          "description": "RT arctotherium\nImmigration and fertility are the two things I most write about, so this article was probably inevitable. The thrust of it: \"we need immigration because of low birth rates\" is not only wrong but actively counterproductive; immigration makes the problems of population decline worse, not better. It barely budges population aging, lowers living standards, makes paying pensions harder, not easier, weakens national unity and thus national strength, and erases ethnic groups rather than ensure their continuance. \nRead it below.\n\n\n\n\n\nNoah Carl: \"Once you start looking at the reasons why a growing population might be beneficial, it becomes clear that actually-existing immigration makes the problems of population decline worse, not better.\" https://www.aporiamagazine.com/p/immigration-does-not-solve-population",
+          "link": "https://x.com/DeFiSurfer808/status/1903775238334091456",
+          "publishedOn": "2025-02-28T18:53:34.000Z",
+          "wordCount": null,
+          "title": "RT arctotherium: Immigration and fertility are the two things I most write about, so this article was probably inevitable. The thrust of it: \"we need ...",
           "imageUrl": null
         }
       ]
