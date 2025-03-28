@@ -1,153 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://x.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905381474922364967",
-          "author": "吴说区块链",
-          "description": "吴说获悉，美国证券交易委员会正式宣布撤销对 Payward Inc. 及 Payward Ventures Inc.（Kraken）、Consensys Software Inc. 和 Cumberland DRW LLC 的诉讼，并发布相关通告。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40114",
-          "link": "https://x.com/wublockchain12/status/1905381474922364967",
-          "publishedOn": "2025-03-27T22:08:38.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，美国证券交易委员会正式宣布撤销对 Payward Inc. 及 Payward Ventures Inc.（Kraken）、Consensys Software Inc. 和 Cumberland DRW LLC 的诉讼，并发...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905361159295041598",
-          "author": "吴说区块链",
-          "description": "Sei Foundation 宣布正考虑收购已申请破产保护的基因检测公司 23andMe，并计划将其 1500 万用户的基因数据上链，实现用户对个人基因数据的所有权和加密控制。若收购达成，相关数据将通过 Sei 区块链实现加密传输和用户自主变现权。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40113",
-          "link": "https://x.com/wublockchain12/status/1905361159295041598",
-          "publishedOn": "2025-03-27T20:47:54.000Z",
-          "wordCount": null,
-          "title": "Sei Foundation 宣布正考虑收购已申请破产保护的基因检测公司 23andMe，并计划将其 1500 万用户的基因数据上链，实现用户对个人基因数据的所有权和加密控制。若...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905333083785887930",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Coinbase 宣布开源其多方计算（MPC）加密库，旨在提升数字资产密钥管理的透明度与行业安全标准。该库包含 ECDSA 和 EdDSA 的两方与多方签名实现、密钥生成、备份流程及分层密钥派生等工具，并附带完整文档、示例和性能基准。该代码源自 Coinbase 内部使用版本，现已调整为通用版本供开发者使用。Coinbase 表示，开源此库可为缺乏专业团队的组织提供参考，并鼓励社区参与代码审查与漏洞报告。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40112",
-          "link": "https://x.com/wublockchain12/status/1905333083785887930",
-          "publishedOn": "2025-03-27T18:56:21.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Coinbase 宣布开源其多方计算（MPC）加密库，旨在提升数字资产密钥管理的透明度与行业安全标准。该库包含 ECDSA 和 EdDSA 的两方与多方签名实现、密钥...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905330434042724714",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Blockworks，Tools for Humanity 宣布推出 Mini Apps 1.2 版本，提升 World 应用内小程序加载速度、交互体验和个性化功能，并支持将小程序固定到手机主屏幕。该公司还将于 4 月 1 日启动总额 30 万美元的开发者激励试点计划，开发者可通过 World ID 实名用户的活跃度获得最多每周 2.5 万美元的 WLD 奖励。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40111",
-          "link": "https://x.com/wublockchain12/status/1905330434042724714",
-          "publishedOn": "2025-03-27T18:45:49.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 Blockworks，Tools for Humanity 宣布推出 Mini Apps 1.2 版本，提升 World 应用内小程序加载速度、交互体验和个性化功能，并支持将小程序固定到手...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905325884032385545",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Hyperliquid 回应“JELLY 事件”，表示按 0.037555 的价格结算所有未被标记地址用户的多头头寸。并加强风险管理，包括为 Liquidator vault 设置严格上限，仅占 HLP 总账户价值的一小部分，降低再平衡频率，并引入更复杂的兜底清算逻辑；当该 vault 损失超过设定阈值时将触发 ADL，而非自动调用其他组件 vault 的抵押品（ADL 在正常市场波动中预计不会触发）；未平仓合约上限将根据资产市值动态调整；对于低于设定门槛的资产，验证者将通过链上投票决定是否予以下线。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40110",
-          "link": "https://x.com/wublockchain12/status/1905325884032385545",
-          "publishedOn": "2025-03-27T18:27:44.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Hyperliquid 回应“JELLY 事件”，表示按 0.037555 的价格结算所有未被标记地址用户的多头头寸。并加强风险管理，包括为 Liquidator vault 设置严格上...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905312728652415230",
-          "author": "吴说区块链",
-          "description": "吴说获悉，币安公布首批投票上币结果，确认将于 2025 年 03 月 28 日 05:00（东八区时间）上线 Mubarak（MUBARAK）、CZ’S Dog（BROCCOLI714）、Tutorial（TUT）和 Banana For Scale（BANANAS31），并应用种子标签。这些代币的现货交易对将包括 USDT 和 USDC 计价对，充值通道将在一小时内开放，提现预计于 3 月 29 日开启。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40108",
-          "link": "https://x.com/wublockchain12/status/1905312728652415230",
-          "publishedOn": "2025-03-27T17:35:28.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，币安公布首批投票上币结果，确认将于 2025 年 03 月 28 日 05:00（东八区时间）上线 Mubarak（MUBARAK）、CZ’S Dog（BROCCOLI714）、Tutorial（TUT）...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905310685002908006",
-          "author": "吴说区块链",
-          "description": "据路透社，法国国有投资银行 Bpifrance 宣布将设立一支最高 2500 万欧元的新基金，专门用于直接投资尚未上线交易所的本土加密货币项目，以支持法国本地的加密业务发展。这是其首次专门设立用于购买代币的基金，之前已在区块链项目中投入约 1.5 亿欧元。Bpifrance 表示将重点投资由法国团队发行的小型新代币，并可能协助其上线交易所。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40107",
-          "link": "https://x.com/wublockchain12/status/1905310685002908006",
-          "publishedOn": "2025-03-27T17:27:20.000Z",
-          "wordCount": null,
-          "title": "据路透社，法国国有投资银行 Bpifrance 宣布将设立一支最高 2500 万欧元的新基金，专门用于直接投资尚未上线交易所的本土加密货币项目，以支持法国本地的加密业...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905309823140593722",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Binance Alpha 上线 Ghiblification (Ghibli) 和 GhibliCZ (Ghibli) 。均是受 OpenAI 推出 ChatGPT-4o 图像生成功能影响所创建的 memecoin。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40106",
-          "link": "https://x.com/wublockchain12/status/1905309823140593722",
-          "publishedOn": "2025-03-27T17:23:55.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Binance Alpha 上线 Ghiblification (Ghibli) 和 GhibliCZ (Ghibli) 。均是受 OpenAI 推出 ChatGPT-4o 图像生成功能影响所创建的 memecoin。https://w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905300800060227824",
-          "author": "吴说区块链",
-          "description": "欧洲加密风投机构 Maven 11 宣布其第三支基金完成募资，总额为 1.07 亿美元，Maven 11 已动用约 15% 的资金投资多个项目，包括 GTE、JokeRace、August 和 Spire Labs。该基金计划在未来 3 至 4 年内用于早期和 A 轮股权及代币投资，单笔投资金额在 50 万至 500 万美元之间，关注领域包括消费应用、基础设施及 AI 与加密交叉方向。（The Block）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40105",
-          "link": "https://x.com/wublockchain12/status/1905300800060227824",
-          "publishedOn": "2025-03-27T16:48:04.000Z",
-          "wordCount": null,
-          "title": "欧洲加密风投机构 Maven 11 宣布其第三支基金完成募资，总额为 1.07 亿美元，Maven 11 已动用约 15% 的资金投资多个项目，包括 GTE、JokeRace、August 和 Spire ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905298895422587251",
-          "author": "吴说区块链",
-          "description": "汇款应用 Abound 宣布完成 1400 万美元种子轮融资，投资方包括 Circle Ventures 和 Near Foundation。Abound 由印度《时报集团》旗下数字机构孵化，主要为非印度居民（NRI）提供跨境汇款服务，公司计划利用本轮资金扩充关键岗位并升级技术基础设施。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40104",
-          "link": "https://x.com/wublockchain12/status/1905298895422587251",
-          "publishedOn": "2025-03-27T16:40:30.000Z",
-          "wordCount": null,
-          "title": "汇款应用 Abound 宣布完成 1400 万美元种子轮融资，投资方包括 Circle Ventures 和 Near Foundation。Abound 由印度《时报集团》旗下数字机构孵化，主要为非印度...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905296619639345271",
-          "author": "吴说区块链",
-          "description": "吴说获悉，YZi Labs 将于 2025 年 4 月 12 日在旧金山湾区的 AGI House 举办一场线下黑客松，并与其投资组合公司 DoraHacks 合作于 4 月 13 日至 27 日举办线上黑客松，旨在运用 AI 与区块链技术解决金融科技领域的实际问题，参赛者可获得加入 YZi Labs 孵化计划及潜在投资机会。活动期间还将在斯坦福大学举办 BUIDLer Breakfast（4 月 13 日），并有来自加密行业的分享。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40103",
-          "link": "https://x.com/wublockchain12/status/1905296619639345271",
-          "publishedOn": "2025-03-27T16:31:27.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，YZi Labs 将于 2025 年 4 月 12 日在旧金山湾区的 AGI House 举办一场线下黑客松，并与其投资组合公司 DoraHacks 合作于 4 月 13 日至 27 日举办线上...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905291369545130141",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Tim Beiko 对第 208 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra（主网升级初定于 4 月 30 日 / Slot 115999872，将在下周的 ACDC 会议上确认）、Fusaka（EOF 仍将纳入 Fusaka，下次 ACDE 会议将敲定其范围，确保年底前交付，不添加可能延迟 PeerDAS 的内容）、历史数据到期（因 EIP-6110 问题，同意 Pectra 后再丢弃主网 Merge 前历史数据；Sepolia 测试网定于 5 月 1 日执行。EIP-6110：将验证者存款信息纳入执行层区块，简化共识层工作，优化验证者体验）等。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40102",
-          "link": "https://x.com/wublockchain12/status/1905291369545130141",
-          "publishedOn": "2025-03-27T16:10:35.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 Tim Beiko 对第 208 次以太坊执行层核心开发者会议 (ACDE) 的总结，本次会议主要讨论了：Pectra（主网升级初定于 4 月 30 日 / Slot 115999872，将...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905278893487186015",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Coinbase Advanced 将上线 BNB 永续合约，BNB-PERP 市场将于 4 月 3 日 17:30 （UTC+8）或之后开放。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40101",
-          "link": "https://x.com/wublockchain12/status/1905278893487186015",
-          "publishedOn": "2025-03-27T15:21:01.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Coinbase Advanced 将上线 BNB 永续合约，BNB-PERP 市场将于 4 月 3 日 17:30 （UTC+8）或之后开放。 http://wublock123.com/index.php?m=content&c=i...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1905269406453899591",
-          "author": "吴说区块链",
-          "description": "TVL 接近 8 亿美元的去中心化借贷协议 Dolomite 宣布将通过与 Botanix Labs 的 Spiderchain 整合在比特币上推出。此前特朗普家族支持的 World Liberty Financial  曾任命 Dolomite 联合创始人 Caplan 为该项目的技术战略主管。Spiderchain 是一种比特币 L2 解决方案，旨在通过集成以太坊 EVM 兼容性来增强比特币的可扩展性和功能性。（The Block）http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40099",
-          "link": "https://x.com/wublockchain12/status/1905269406453899591",
-          "publishedOn": "2025-03-27T14:43:19.000Z",
-          "wordCount": null,
-          "title": "TVL 接近 8 亿美元的去中心化借贷协议 Dolomite 宣布将通过与 Botanix Labs 的 Spiderchain 整合在比特币上推出。此前特朗普家族支持的 World Liberty Financial...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://x.com/8848community",
@@ -398,10 +251,127 @@
       ]
     },
     {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1904797721078145398",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nAlts continue their momentum led by $MOVE, $MEW and #fartcoin\nBitboy is jail & $ETH ETFs got ZERO flows on 3/24\nTrenches healing with daily runners on $TIM and $jeta\nEarn a share of $30k in MNT by swapping on @BungeeExchange via @Mantle_Official",
+          "link": "https://x.com/OnChainWizard/status/1904797721078145398",
+          "publishedOn": "2025-03-26T07:28:51.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Alts continue their momentum led by $MOVE, $MEW and #fartcoin Bitboy is jail & $ETH ETFs got ZERO flows o...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1904233374220247063",
+          "author": "Onchain Wizard",
+          "description": "Good read on why decentralized compute matters $IO\n\nThe Defiant: 📢 The AI Boom's Looming Crisis: A Compute Crunch!\n🚀 @MTorygreen from @ionet warns of a massive bottleneck threatening AI's future!\n💡 Centralized cloud providers are choking innovation. Decentralized compute networks could slash costs by 10x and eliminate wait times.\n🤔 Can",
+          "link": "https://x.com/OnChainWizard/status/1904233374220247063",
+          "publishedOn": "2025-03-24T18:06:30.000Z",
+          "wordCount": null,
+          "title": "Good read on why decentralized compute matters $IO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1904045796984606837",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nHot air rises again w/ #Fartcoin up another 25%\nMarkets looking decent after 4/2 tariffs being walked back+ $OTHERS overall looks quite sendy \n#routine, $yzy, $PVS and $REI leading onchain strength\nWin a share of $40k by yapping about \n@Mantle_Official",
+          "link": "https://x.com/OnChainWizard/status/1904045796984606837",
+          "publishedOn": "2025-03-24T05:41:08.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902919410429370808",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nSmall bounce across the board after the \"dovish\" FOMC.\n$PEPE still the strongest large cap meme\nOnchain led by BSC szn, $KTA $titcoin and $RIF\nThe @Mantle_Official Yapperboard challenge is now live - top 50 yappers qualify for a share of ~$40k",
+          "link": "https://x.com/OnChainWizard/status/1902919410429370808",
+          "publishedOn": "2025-03-21T03:04:55.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Small bounce across the board after the \"dovish\" FOMC. $PEPE still the strongest large cap meme Onchain l...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902215094089457941",
+          "author": "Onchain Wizard",
+          "description": ".\n\n\nThe Daily Edge: TDE featuring:\nMajors holding up well, potential bottom signals for alts and the HL short whale made $9.5m.\nSOL trenches cooked but still pockets of coins working incl bsc SZN, $KTA and high mindshare SOL runners like $PVS\n$IO hits #2 by ARR according to @DepinNinja",
+          "link": "https://x.com/OnChainWizard/status/1902215094089457941",
+          "publishedOn": "2025-03-19T04:26:34.000Z",
+          "wordCount": null,
+          "title": ".",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902010604380176773",
+          "author": "Onchain Wizard",
+          "description": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions\n\ntory.io 🦾: http://x.com/i/article/1901653705516331008",
+          "link": "https://x.com/OnChainWizard/status/1902010604380176773",
+          "publishedOn": "2025-03-18T14:54:00.000Z",
+          "wordCount": null,
+          "title": "Bullish update from the chads at $IO with network earnings and partnership growth keeping momentum despite soft market conditions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1902018737575735374",
+          "author": "Onchain Wizard",
+          "description": "RT f(x) Protocol\nIT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀\nIt's time: In 24 hours, f(x) Protocol will support wBTC markets, allowing traders to access up to 7X leverage on Bitcoin with ZERO funding fees and minimal liquidation risk.\n✅ No more perpetual funding fees eating into your profits\n✅ Say goodbye to brutal liquidations during volatile periods\n✅ Same innovative model that's already proven to work\nFor Stability Pool depositors and $veFXN holders, this means even more yield as you'll now earn BTC trading commissions (automatically converted to wstETH) on top of existing rewards.\nf(x) Protocol has already demonstrated product-market fit with ETH long positions exceeding 20,000 wstETH at peak. Now we're bringing that same capital efficiency to Bitcoin traders.\nThis is just one of several major updates coming to f(x), including batch processing for keepers and flexible yield options for the Stability Pool. Read the full article: https://medium.com/@protocol_fx_667/expanding-horizons-major-updates-coming-to-f-x-protocol-079f0b90522f\nGet ready for tomorrow: The future of decentralized leveraged trading is here, and you can start using it in just 24 hours! 🔥",
+          "link": "https://x.com/OnChainWizard/status/1902018737575735374",
+          "publishedOn": "2025-03-18T14:31:44.000Z",
+          "wordCount": null,
+          "title": "RT f(x) Protocol: IT'S HAPPENING: f(x) Protocol's Bitcoin market goes LIVE TOMORROW! 🚀 ​ It's time: In 24 hours, f(x) Protocol will support wBTC m...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1901827079429066935",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nVibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%)\nOnchain coins also starting to shine with strength on the day in $KTA, $YZY, $BMT\nTrade w/ up to 7x leverage + liq protection + zero funding @protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1901827079429066935",
+          "publishedOn": "2025-03-18T02:44:34.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Vibes are gradually improving w/ OTHERS up over 9% on the week (and leaders like $TON up 41%) Onchain coi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1900029087059423365",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nEquity markets stopped going down, cool CPI and BTC back up to ~$84k\nThe trenches got a few runners today incl $LORIA and $EIC while $pwease, $keycat $doginme and $KTA saw notable strength \n@mETHProtocol's new Fixed Yield Vault",
+          "link": "https://x.com/OnChainWizard/status/1900029087059423365",
+          "publishedOn": "2025-03-13T03:39:48.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Equity markets stopped going down, cool CPI and BTC back up to ~$84k The trenches got a few runners today...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1899683288673095865",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nBTC leading equities for once\nSome alts seeing a relief bounce incl $BANANA, $GIGA and $TIA\nOnchain strength led by $pwease, $drb, $bnkr and #fartcoin \nTrade with up to 7x leverage + liq protection + zero funding w/\n@protocol_fx",
+          "link": "https://x.com/OnChainWizard/status/1899683288673095865",
+          "publishedOn": "2025-03-12T04:45:54.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: BTC leading equities for once Some alts seeing a relief bounce incl $BANANA, $GIGA and $TIA Onchain stren...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @Surfer",
       "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
       "siteUrl": "https://x.com/DeFiSurfer808",
       "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1905418320180076919",
+          "author": "Surfer",
+          "description": "RT FischerKing\nRe It was the American people who took it on the chin all these years in the form of degraded social services, increased housing costs, lower wages. If rectifying the situation causes discomfort we should blame the people who caused the problem. Chamber of Commerce types and open borders leftists.",
+          "link": "https://x.com/DeFiSurfer808/status/1905418320180076919",
+          "publishedOn": "2025-03-27T23:58:03.000Z",
+          "wordCount": null,
+          "title": "RT FischerKing: Re It was the American people who took it on the chin all these years in the form of degraded social services, increased housing costs...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DeFiSurfer808/status/1905344157843161516",
           "author": "Surfer",
@@ -583,16 +553,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DeFiSurfer808/status/1902368800764244226",
-          "author": "Surfer",
-          "description": "RT Jeremy Kauffman 🦔🌲🌕\nOnly white Americans believe in free speech.\nAmerica losing free speech this century is plausible, unfortunately.\n\n\nCaldron Pool: \"Australians don't have the same freedom of speech laws that they have in the United States, and the reason for that is  that we want to hold together a multicultural community...\"\nWhen did Australians choose to trade their freedom for multiculturalism?",
-          "link": "https://x.com/DeFiSurfer808/status/1902368800764244226",
-          "publishedOn": "2025-03-19T11:37:14.000Z",
-          "wordCount": null,
-          "title": "RT Jeremy Kauffman 🦔🌲🌕: Only white Americans believe in free speech. America losing free speech this century is plausible, unfortunately.",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/DeFiSurfer808/status/1903775238334091456",
           "author": "Surfer",
           "description": "RT arctotherium\nImmigration and fertility are the two things I most write about, so this article was probably inevitable. The thrust of it: \"we need immigration because of low birth rates\" is not only wrong but actively counterproductive; immigration makes the problems of population decline worse, not better. It barely budges population aging, lowers living standards, makes paying pensions harder, not easier, weakens national unity and thus national strength, and erases ethnic groups rather than ensure their continuance. \nRead it below.\n\n\n\n\n\nNoah Carl: \"Once you start looking at the reasons why a growing population might be beneficial, it becomes clear that actually-existing immigration makes the problems of population decline worse, not better.\" https://www.aporiamagazine.com/p/immigration-does-not-solve-population",
@@ -603,6 +563,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
