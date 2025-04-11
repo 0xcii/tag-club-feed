@@ -188,6 +188,12 @@
       ]
     },
     {
+      "title": "Twitter @Deleted Account",
+      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
+      "siteUrl": "https://x.com/8848community",
+      "articles": []
+    },
+    {
       "title": "Twitter @链求君 🔥",
       "feedUrl": "https://rsshub.app/twitter/user/AntCaveClub",
       "siteUrl": "https://x.com/AntCaveClub",
@@ -535,18 +541,14 @@
           "wordCount": null,
           "title": "RT The Daily Edge: The Daily Edge featuring: Alts continue their momentum led by $MOVE, $MEW and #fartcoin Bitboy is jail & $ETH ETFs got ZERO flows o...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OnChainWizard/status/1904233374220247063",
-          "author": "Onchain Wizard",
-          "description": "Good read on why decentralized compute matters $IO\n\nThe Defiant: 📢 The AI Boom's Looming Crisis: A Compute Crunch!\n🚀 @MTorygreen from @ionet warns of a massive bottleneck threatening AI's future!\n💡 Centralized cloud providers are choking innovation. Decentralized compute networks could slash costs by 10x and eliminate wait times.\n🤔 Can",
-          "link": "https://x.com/OnChainWizard/status/1904233374220247063",
-          "publishedOn": "2025-03-24T18:06:30.000Z",
-          "wordCount": null,
-          "title": "Good read on why decentralized compute matters $IO",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
