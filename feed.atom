@@ -1,507 +1,274 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T06:23:39.723Z</id>
+    <id>urn:2025-04-13T07:15:46.064Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-13T06:23:39.723Z</updated>
+    <updated>2025-04-13T07:15:46.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Sleepysol: Re Assuming the same multiple (4 - 5x) for China (and I think its likely slightly higher) that means they'll see an impact of at the low...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1910889160560501069</id>
-        <link href="https://x.com/DeFiSurfer808/status/1910889160560501069"/>
-        <updated>2025-04-11T15:09:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Sleepysol
-Re Assuming the same multiple (4 - 5x) for China (and I think its likely slightly higher) that means they'll see an impact of at the low end 80mm jobs, at the high end 100mm~. Or put another way, 10 - 14% of their total working population.]]></summary>
+        <title type="html"><![CDATA[吴说项目周精选：TRUMP 迎来大规模解锁；Aave 启动回购计划；币安第 67 个 Launchpool 项目 Walletconnect；Vitalik Buterin 分享以太坊 L1 简易隐私路线图。 ht...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911298756949217284</id>
+        <link href="https://x.com/wublockchain12/status/1911298756949217284"/>
+        <updated>2025-04-13T06:01:48.000Z</updated>
+        <summary type="html"><![CDATA[吴说项目周精选：TRUMP 迎来大规模解锁；Aave 启动回购计划；币安第 67 个 Launchpool 项目 Walletconnect；Vitalik Buterin 分享以太坊 L1 简易隐私路线图。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40899]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Hiruni Liyanage: US data scientists are so cooked right now. they can't import pandas anymore]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910918532029612308</id>
-        <link href="https://x.com/DeFi_educator/status/1910918532029612308"/>
-        <updated>2025-04-11T09:30:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Hiruni Liyanage
-US data scientists are so cooked right now. they can't import  pandas anymore]]></summary>
+        <title type="html"><![CDATA[吴说获悉，OKX CEO Star 在推特上回应用户账户被封事件，表示理解用户不满并对因清退个别高风险账户所带来的不便表示歉意。他解释称，作为持有多国加密资产牌照...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911280795576328438</id>
+        <link href="https://x.com/wublockchain12/status/1911280795576328438"/>
+        <updated>2025-04-13T04:50:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，OKX CEO Star 在推特上回应用户账户被封事件，表示理解用户不满并对因清退个别高风险账户所带来的不便表示歉意。他解释称，作为持有多国加密资产牌照的全球公司，OKX 必须遵守国际合规义务，包括反洗钱和打击恐怖主义融资等法律要求。由于各国法规，OKX 无法透露具体清退原因，但保证客户资产安全且可 100% 取回。Star 还补充道，合规已成为行业趋势，越来越多同行将采取类似措施。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40898]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Andreas Steno Larsen: Re Shown here..]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910500745218039853</id>
-        <link href="https://x.com/DeFi_educator/status/1910500745218039853"/>
-        <updated>2025-04-10T20:18:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Andreas Steno Larsen
-Re Shown here..]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，特朗普家族加密项目 WLFI 昨天以 0.158 美元的价格购买了 77.5 万美元的 SEI。在过去两个月中，WLFI 通过 3 笔交易花费约 100 万 U...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911268343195287595</id>
+        <link href="https://x.com/wublockchain12/status/1911268343195287595"/>
+        <updated>2025-04-13T04:00:57.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，特朗普家族加密项目 WLFI 昨天以 0.158 美元的价格购买了 77.5 万美元的 SEI。在过去两个月中，WLFI 通过 3 笔交易花费约 100 万 USDC 购买了 598.3 万枚 SEI，均价为 0.167 美元。目前，SEI 是 WLFI 投资组合中仅有的三个未亏损的代币之一（另两个为 TRX 和 AVAX）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40897]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Andreas Steno Larsen: Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US This is a credibility issue]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910500727606100119</id>
-        <link href="https://x.com/DeFi_educator/status/1910500727606100119"/>
-        <updated>2025-04-10T20:16:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Andreas Steno Larsen
-Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US
-This is a credibility issue]]></summary>
+        <title type="html"><![CDATA[佛罗里达州联邦法院法官 Federico Moreno 本周最终批准 NBA 球星沙奎尔·奥尼尔以 1100 万美元的价格与 Astrals 非同质化代币 (NFT) 买家的集体诉讼和解协议，该...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911261902778536186</id>
+        <link href="https://x.com/wublockchain12/status/1911261902778536186"/>
+        <updated>2025-04-13T03:35:21.000Z</updated>
+        <summary type="html"><![CDATA[佛罗里达州联邦法院法官 Federico Moreno 本周最终批准 NBA 球星沙奎尔·奥尼尔以 1100 万美元的价格与 Astrals 非同质化代币 (NFT) 买家的集体诉讼和解协议，该法官在发布的命令中表示原告已审查并批准首席集体律师要求的费用公平合理。（Cryptonews）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40896]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Has anyone considered pulling a @saylor but with gold not btc?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1910390438181179817</id>
-        <link href="https://x.com/DeFiSurfer808/status/1910390438181179817"/>
-        <updated>2025-04-10T17:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Has anyone considered pulling a @saylor but with gold not btc?]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，「2015 年 IC0 10 万枚 ETH 的 OG 巨鲸」5 小时前再次抛售 632 枚 ETH，价值 104 万美元，该巨鲸近期每两天进行一次卖出。该鲸...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911255885252575442</id>
+        <link href="https://x.com/wublockchain12/status/1911255885252575442"/>
+        <updated>2025-04-13T03:11:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，「2015 年 IC0 10 万枚 ETH 的 OG 巨鲸」5 小时前再次抛售 632 枚 ETH，价值 104 万美元，该巨鲸近期每两天进行一次卖出。该鲸鱼四月以来累计抛售的 ETH 数量增长至 4812 枚，约 809 万美元，其成本低至 0.31 美元，仍持有 30189 枚 ETH。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40895]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Justin Spittler: If you like stocks here, you should like bitcoin even more... $BTC vs. $QQQ chart still holding strong Found support at rising 10M]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1910109368877752705</id>
-        <link href="https://x.com/DeFiSurfer808/status/1910109368877752705"/>
-        <updated>2025-04-09T22:34:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Justin Spittler
-If you like stocks here, you should like bitcoin even more...
-$BTC vs. $QQQ chart still holding strong
-Found support at rising 10M]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，“56,995 ETH 濒临清算巨鲸”已接近清仓，共计减持 64,792 枚 ETH。该地址自 4 月 10 日起，以均价 1562 卖出 35,881 枚 ETH ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911254925922976128</id>
+        <link href="https://x.com/wublockchain12/status/1911254925922976128"/>
+        <updated>2025-04-13T03:07:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，“56,995 ETH 濒临清算巨鲸”已接近清仓，共计减持 64,792 枚 ETH。该地址自 4 月 10 日起，以均价 1562 卖出 35,881 枚 ETH 并解除杠杆；三小时前又以 1575 售出剩余 2000 枚 ETH，目前仅余 688 枚 ETH，基本实现满仓稳定币。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40894]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Spencer Hakimian: Round of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the G...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910141268778156391</id>
-        <link href="https://x.com/DeFi_educator/status/1910141268778156391"/>
-        <updated>2025-04-09T21:11:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Spencer Hakimian
-Round of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the Great Depression. 
-We will not forget your sacrifice brother 🫡]]></summary>
+        <title type="html"><![CDATA[比特币矿企 Luxor Technology 业务发展总监 Aaron Forster 在 Consensus festival 接受采访时表示，加密货币矿业正在被接受并自然地发展到其他市场，大型矿工转...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911251006354313644</id>
+        <link href="https://x.com/wublockchain12/status/1911251006354313644"/>
+        <updated>2025-04-13T02:52:03.000Z</updated>
+        <summary type="html"><![CDATA[比特币矿企 Luxor Technology 业务发展总监 Aaron Forster 在 Consensus festival 接受采访时表示，加密货币矿业正在被接受并自然地发展到其他市场，大型矿工转变为人工智能的电力基础设施提供商，而不是建造大型矿山。比特币挖矿业务是通往人工智能等更大、更资本密集型行业的垫脚石，这让我感到兴奋，因为它让比特币矿业被更广泛地接受。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40893]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is pure gold]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910043660676219358</id>
-        <link href="https://x.com/DeFi_educator/status/1910043660676219358"/>
-        <updated>2025-04-09T18:54:30.000Z</updated>
-        <summary type="html"><![CDATA[This is pure gold
+        <title type="html"><![CDATA[吴说获悉，Vitalik Buterin 在 Warpcast 上回应关于以太坊自我更新和社区世代更替的问题时表示，应用层的增长需要良好的社会哲学支持。他以 C++ 举例，指出虽然...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911230981182554303</id>
+        <link href="https://x.com/wublockchain12/status/1911230981182554303"/>
+        <updated>2025-04-13T01:32:29.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Vitalik Buterin 在 Warpcast 上回应关于以太坊自我更新和社区世代更替的问题时表示，应用层的增长需要良好的社会哲学支持。他以 C++ 举例，指出虽然其开发者背景可能不理想，但它仍然是通用的，不易被社会哲学所影响。而以太坊的情况不同，去中心化理念深刻影响其发展，如轻客户端、POCIL 和 PoS 迁移等，都需要信仰去中心化的开发者推动。他强调，构建什么样的应用程序取决于开发者对以太坊未来的信念，好的应用如 Railgun、Farcaster、Polymarket 和 Signal，差的应用如 Pump fun、Terra/Luna、FTX，关键在于开发者对目标的不同信念。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40892]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话 OSL CEO Kevin：随着时间推移，开始明显地感受到整个行业 “合规化” 的趋势，尤其是在 2023 年下半年到 2024 年上半年，全球各国的合规政策和监管框架逐渐...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911225223959232579</id>
+        <link href="https://x.com/wublockchain12/status/1911225223959232579"/>
+        <updated>2025-04-13T01:09:36.000Z</updated>
+        <summary type="html"><![CDATA[对话 OSL CEO Kevin：随着时间推移，开始明显地感受到整个行业 “合规化” 的趋势，尤其是在 2023 年下半年到 2024 年上半年，全球各国的合规政策和监管框架逐渐成形，这是非常显著的趋势。如果说加密行业将来要真正实现 “大规模应用”，那一定是建立在合规框架之上。继续推进全球化布局，争取在 2025 年再拿下 2 到 4 张不同地区或国家的运营牌照。阅读全文: https://mp.weixin.qq.com/s/aUbQH5nKZb6Rp7nQXt8VBQ]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国参议院银行委员会主席蒂姆·斯科特（Tim Scott）表示，他预计加密货币市场结构法案将在 2025 年 8 月前成为法律。斯科特还指出，参议院银行委员会已在 2025 ...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911206498392580239</id>
+        <link href="https://x.com/wublockchain12/status/1911206498392580239"/>
+        <updated>2025-04-12T23:55:12.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院银行委员会主席蒂姆·斯科特（Tim Scott）表示，他预计加密货币市场结构法案将在 2025 年 8 月前成为法律。斯科特还指出，参议院银行委员会已在 2025 年 3 月推进了全面的稳定币监管法案——GENIUS 法案，表明该委员会将加密政策作为优先事项。他强调，创新应在监管之前进行，以确保美国在全球经济中的数字资产主导地位。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40889]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，北京时间 03:30 左右，Tether Treasury 在以太坊链上销毁 1,800,000,000 枚 USDT。https://www.wublock123.com/index.php?m=con...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911203129154220373</id>
+        <link href="https://x.com/wublockchain12/status/1911203129154220373"/>
+        <updated>2025-04-12T23:41:49.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Whale Alert 监测，北京时间 03:30 左右，Tether Treasury 在以太坊链上销毁 1,800,000,000 枚 USDT。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40888]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说每日晚报]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911056011433320545</id>
+        <link href="https://x.com/wublockchain12/status/1911056011433320545"/>
+        <updated>2025-04-12T13:57:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，DWF Labs 为特朗普家族项目 World Liberty Financial USD（$USD1）创建 6 个 DeFi 流动性池，总价值 1800 万美元，包括：150 万...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911048521702408388</id>
+        <link href="https://x.com/wublockchain12/status/1911048521702408388"/>
+        <updated>2025-04-12T13:27:27.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 Lookonchain 监测，DWF Labs 为特朗普家族项目 World Liberty Financial USD（$USD1）创建 6 个 DeFi 流动性池，总价值 1800 万美元，包括：150 万 USDT 和 150 万 USD1、250 万 USDC 和 250 万 USD1、49 万 USDf 和 50 万 USD1、31.85 万 ETH（50 万美元）和 50 万 USD1、300 万 USDT 和 300 万 USD1，以及 1730 BNB（100 万美元）和 100 万 USD1 等。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40886]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据财经杂志，美国东部时间 4 月 11 日晚，美国海关及边境保护局（CBP）发布关税更新指南，根据特朗普总统签署的备忘录，美国对《美国统一关税表》（HT...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911044098217394649</id>
+        <link href="https://x.com/wublockchain12/status/1911044098217394649"/>
+        <updated>2025-04-12T13:09:53.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据财经杂志，美国东部时间 4 月 11 日晚，美国海关及边境保护局（CBP）发布关税更新指南，根据特朗普总统签署的备忘录，美国对《美国统一关税表》（HTSUS）下 20 项产品免除“对等关税”，包括原产于中国的集成电路（HS 8542）、智能手机（HS 8517.13.00）、平板显示模组（HS 8524）、计算机及部件（HS 8471、8473.30）、半导体制造设备（HS 8486）等。此举意味着上述商品不再征收 125% 的对等关税。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40885]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，币安合约即将上线 PUMPUSDT、STOUSDT 和 FHEUSDT 永续合约。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40884]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911041574546383187</id>
+        <link href="https://x.com/wublockchain12/status/1911041574546383187"/>
+        <updated>2025-04-12T12:59:51.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，币安合约即将上线 PUMPUSDT、STOUSDT 和 FHEUSDT 永续合约。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40884]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据星岛头条报道，虚拟资产平台 JPEX 涉嫌诈骗案已持续 18 个月，香港警方冻结 2.28 亿港元资金。选委界议员吴杰庄关注能否追回骗款，警务处长周一鸣表...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1911016871840878957</id>
+        <link href="https://x.com/wublockchain12/status/1911016871840878957"/>
+        <updated>2025-04-12T11:21:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据星岛头条报道，虚拟资产平台 JPEX 涉嫌诈骗案已持续 18 个月，香港警方冻结 2.28 亿港元资金。选委界议员吴杰庄关注能否追回骗款，警务处长周一鸣表示，案件仍在调查，冻结资金需待结案后确定分配方式。另有议员关注本港诈骗案增至 4.4 万宗，同比增 10%，建议续签通知中加入防骗宣传。周一鸣称，警方已研发虚拟资产分析工具，与本地大学合作优化资金流追踪，并通过内地小程序等加强防骗宣传。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=40883]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1910190689901490482</id>
+        <link href="https://x.com/OnChainWizard/status/1910190689901490482"/>
+        <updated>2025-04-10T04:38:30.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40%
+Onchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $RFC
+Trenches also caught a runner in $cryptoai to $6mm]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1909639847574192399</id>
+        <link href="https://x.com/OnChainWizard/status/1909639847574192399"/>
+        <updated>2025-04-08T16:09:53.000Z</updated>
+        <summary type="html"><![CDATA[.
 
 
-Lookonchain: Has Trump's World Liberty(@worldlibertyfi) started selling $ETH at a loss?
-According to Arkham, a wallet possibly linked to #WorldLiberty sold 5,471 $ETH($8.01M) at $1,465 30 minutes ago.
-#WorldLiberty previously spent ~$210M to buy 67,498 $ETH at an average price of $3,259,]]></summary>
+The Daily Edge: The Daily Edge featuring:
+Equities bouncing, majors stay flat
+#Fartcoin supremacy
+Trenches finally get a runner on $remus to $12mm highs
+Other onch strength incl. $house, $RFC, $PVS and $buttcoin
+@mETHProtocol Methamorphosis Season 3 is Live!]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT intern ⨀: traditional finance losing their minds with these market swings crypto traders experience this every 3 months years and years of mental ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1910045713708220741</id>
-        <link href="https://x.com/DeFi_educator/status/1910045713708220741"/>
-        <updated>2025-04-09T18:28:53.000Z</updated>
-        <summary type="html"><![CDATA[RT intern ⨀
-traditional finance losing their minds with these market swings
-crypto traders experience this every 3 months
-years and years of mental illness inducing volatility finally paying off]]></summary>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: + $BTC showing incredible strength vs. nuking equities + Trenches are closed but onchain casino is open, ...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1908248149258371433</id>
+        <link href="https://x.com/OnChainWizard/status/1908248149258371433"/>
+        <updated>2025-04-04T17:13:43.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
++ $BTC showing incredible strength vs. nuking equities
++ Trenches are closed but onchain casino is open, led by the Four Horseman: $fartcoin, $buttcoin, $titcoin and $housecoin
++ @Mantle_Official's jam packed Q2 roadmap]]></summary>
         <author>
-            <name>DeFi Educator</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Battle Beagle:]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1910090412095681010</id>
-        <link href="https://x.com/DeFiSurfer808/status/1910090412095681010"/>
-        <updated>2025-04-09T18:00:40.000Z</updated>
-        <summary type="html"><![CDATA[RT Battle Beagle
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Liberation day is here (tho is this peak tariff uncertainty?) Is #titcoin the new #fartcoin? Onchain toke...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1907314667099214230</id>
+        <link href="https://x.com/OnChainWizard/status/1907314667099214230"/>
+        <updated>2025-04-02T06:10:14.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+Liberation day is here (tho is this peak tariff uncertainty?)
+Is #titcoin the new #fartcoin?
+Onchain tokens w strength: $titcoin, $BUTTCOIN, $GRUMPY and $Ghibli
+$MNT x MEXC $1mm trading prize pool]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Hot air rises w/ #fartcoin +12% $SOL at an important level Decent day in the trenches w/ $housecoin, $fis...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1906945850565074984</id>
+        <link href="https://x.com/OnChainWizard/status/1906945850565074984"/>
+        <updated>2025-04-01T05:44:44.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+Hot air rises w/ #fartcoin +12%
+$SOL at an important level
+Decent day in the trenches w/ $housecoin, $fish2, $RFC and $country
+TG trench volumes hit November 2023 lows
+$MNT x MEXC $1mm trading prize pool]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The @blocmatesdotcom chads get it. This is a fantastic summary about $IO, its incredible competitve position and how compute is the backbone of AI �...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1906907787810189695</id>
+        <link href="https://x.com/OnChainWizard/status/1906907787810189695"/>
+        <updated>2025-04-01T03:13:39.000Z</updated>
+        <summary type="html"><![CDATA[The @blocmatesdotcom chads get it.    This is a fantastic summary about $IO, its incredible competitve position and how compute is the backbone of AI 🫡
 
-
-Just Loki: Trump got the stock market to accept 10% global tariffs and 125% tariffs on China as “salvation itself.”]]></summary>
+blocmates.: DePIN and AI are on track to explode over the next decade, and @ionet is right at the intersection of these two.
+We’ve been closely tracking http://io.net for well over a year now, even before @Grantblocmates and @563defi first hosted @MTorygreen on the podcast.]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Timeline sentiment is hysterical when newsflow reaching max negativity and selling seems to be near exhaustion]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909962987407810588</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909962987407810588"/>
-        <updated>2025-04-09T13:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Timeline sentiment is hysterical when newsflow reaching max negativity and selling seems to be near exhaustion]]></summary>
+        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Alts continue their momentum led by $MOVE, $MEW and #fartcoin Bitboy is jail & $ETH ETFs got ZERO flows o...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1904797721078145398</id>
+        <link href="https://x.com/OnChainWizard/status/1904797721078145398"/>
+        <updated>2025-03-26T07:28:51.000Z</updated>
+        <summary type="html"><![CDATA[RT The Daily Edge
+The Daily Edge featuring:
+Alts continue their momentum led by $MOVE, $MEW and #fartcoin
+Bitboy is jail & $ETH ETFs got ZERO flows on 3/24
+Trenches healing with daily runners on $TIM and $jeta
+Earn a share of $30k in MNT by swapping on @BungeeExchange via @Mantle_Official]]></summary>
         <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Naval: The US will actually do better in a multipolar world, because it’ll no longer have to subsidize and police everyone else.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909796385475510767</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909796385475510767"/>
-        <updated>2025-04-09T02:27:32.000Z</updated>
-        <summary type="html"><![CDATA[RT Naval
-The US will actually do better in a multipolar world, because it’ll no longer have to subsidize and police everyone else.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT vatnik: it's even worse than that, you can reverse image search any product on amazon and it's literally an 1,000% markup from alibaba]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909936270140203142</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909936270140203142"/>
-        <updated>2025-04-09T00:43:34.000Z</updated>
-        <summary type="html"><![CDATA[RT vatnik
-it's even worse than that, you can reverse image search any product on amazon and it's literally an 1,000% markup from alibaba
-
-
-
-Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞): The funniest outcome of tariffs would be that nothing changes much for either the US or for China, because it turns out Americans have been ridiculously scammy middlemen and sold stuff with like 500% markup, so markup drops to 396% and consumption stays the same.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Vaughn Okumura: If the month ended today, this would be the S&P 500's 7th worst month ever. $SPX]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909730214693028087</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909730214693028087"/>
-        <updated>2025-04-08T22:05:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Vaughn Okumura
-If the month ended today, this would be the S&P 500's 7th worst month ever. $SPX]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Based]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909724771471831471</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909724771471831471"/>
-        <updated>2025-04-08T21:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Based
-
-Charlie Bilello: The S&P 500 is down 15.3% in the first 66 trading days of 2025, the 4th worst start to a year in history. $SPX
-https://bilello.blog/newsletter]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Battle Beagle: Grok did the math.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909640510353867168</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909640510353867168"/>
-        <updated>2025-04-08T14:26:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Battle Beagle
-Grok did the math.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Connor Bates: The 50/80 Rule has been playing out in full force over the past few months. Once a secular market leader makes a major top, theres a ...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909405198629355619</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909405198629355619"/>
-        <updated>2025-04-08T00:33:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Connor Bates
-The 50/80 Rule has been playing out in full force over the past few months.
-Once a secular market leader makes a major top, theres a 50% chance it will decline by 80% and an 80% chance it will decline by 50%, with an average decline of over 70%. 
-The first ones to fall: 
-$ANF - 63% off highs 
-$SMCI - 67% off highs 
-$ELF - 75% off highs 
-Recently: 
-$APP - 55% off highs 
-$HIMS - 62% off highs 
-$VRT - 60% off highs 
-$VST - 48% off highs 
-$NVDA - 36% off highs 
-$AVGO - 38% off highs 
-$TSLA - 52% off highs 
-“The markets take the stairs up and the elevator down”]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lyn Alden: The most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in sto...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1909308988707000548</id>
-        <link href="https://x.com/DeFi_educator/status/1909308988707000548"/>
-        <updated>2025-04-07T15:33:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Lyn Alden
-The most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in stocks.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Justin.eth Drake: Today's a good day to remember why we're here. We're building the future of finance—internet finance. Unstoppable global free tr...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1909361654456107283</id>
-        <link href="https://x.com/DeFi_educator/status/1909361654456107283"/>
-        <updated>2025-04-07T10:26:28.000Z</updated>
-        <summary type="html"><![CDATA[RT Justin.eth Drake
-Today's a good day to remember why we're here.
-We're building the future of finance—internet finance.
-Unstoppable global free trade, not trade wars.
-Credible neutrality, not entrenched interests.
-Permissionless innovation, not bureaucracy.
-Undebasable money, not money printers.
-Sovereign individuals, not intermediaries.
-A multi-decade vision, not 4-year cycles.
-The internet, not imperial superpowers.
-Positive-sum games, not rent-seeking.
-Peaceful revolutions, not warmongers.
-Cryptography, not aircraft carriers.
-Network effects, not isolationism.
-Fairness by design, not cronyism.
-Open competition, not oligopoly.
-Network states, not nationalism.
-Frictionless markets, not tariffs.
-Innovators, not lobbyists.
-Builders, not lawyers.
-Devs, not politicians.
-Internet finance is coming. It's built different. Believe in something.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Not Jerome Powell: Who did this?]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1909364327443837305</id>
-        <link href="https://x.com/DeFi_educator/status/1909364327443837305"/>
-        <updated>2025-04-07T01:18:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Not Jerome Powell
-Who did this?]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Subu Trade: At this rate, the S&P 500 will be down more than -14% in just 3 days by tomorrow. That's only happened during the 1987 crash & Great De...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909043490207449374</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909043490207449374"/>
-        <updated>2025-04-06T23:12:40.000Z</updated>
-        <summary type="html"><![CDATA[RT Subu Trade
-At this rate, the S&P 500 will be down more than -14% in just 3 days by tomorrow.
-That's only happened during the 1987 crash & Great Depression before:]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1909004345854541968</id>
-        <link href="https://x.com/DeFiSurfer808/status/1909004345854541968"/>
-        <updated>2025-04-06T22:04:38.000Z</updated>
-        <summary type="html"><![CDATA[👀
-
-Bluntz: @watchking69 36k]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Crémieux: Here's something interesting. Across regions of the continental U.S., Whites tend to have higher fertility in places that are more homog...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908918421288272080</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908918421288272080"/>
-        <updated>2025-04-06T15:37:35.000Z</updated>
-        <summary type="html"><![CDATA[RT Crémieux
-Here's something interesting.
-Across regions of the continental U.S., Whites tend to have higher fertility in places that are more homogeneously White.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re already in a technical recession aren’t we]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908862345968771525</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908862345968771525"/>
-        <updated>2025-04-06T12:40:22.000Z</updated>
-        <summary type="html"><![CDATA[We’re already in a technical recession aren’t we
-
-Charlie Bilello: Truflation's real-time US inflation gauge has moved down to 1.2%, the lowest level since November 2020.
-https://bilello.blog/newsletter]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Roman Helmet Guy: Here’s what GDP growth in the USA was for the past 50 years: We import stuff. Other countries get better at making stuff, so it ...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908919713884676586</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908919713884676586"/>
-        <updated>2025-04-06T01:10:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Roman Helmet Guy
-Here’s what GDP growth in the USA was for the past 50 years: We import stuff. Other countries get better at making stuff, so it gets cheaper. But that’s deflation, so we print money to cause inflation. That makes homes, college, and healthcare more expensive. We call this growth.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think it’d throw everyone off if AI had another leg this year. Nvda earnings May 28…]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908661480871882888</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908661480871882888"/>
-        <updated>2025-04-05T23:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Think it’d throw everyone off if AI had another leg this year. 
-Nvda earnings May 28…
-
-Min Choi: Holy sh*t
-Meta just revealed Llama 4 models: Behemoth, Maverick & Scout.
-Llama 4 Scout can run on single GPU and has 10M context window 🤯]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908614277134696715</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908614277134696715"/>
-        <updated>2025-04-05T20:14:38.000Z</updated>
-        <summary type="html"><![CDATA[👀
-
-Bracco ⚡️: The T2108 (% of stocks above 40ma) does not get below 5% often... Based off of historical data, a print below 5% on T2108 is considered a generational multi year buying opportunity.
-Going all the way back to 1986, this has only happened 5 times before.
-1. October, 1987 (Black]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀 2017 and 2021 btc runs $ was falling like a rock…]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908589689855947252</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908589689855947252"/>
-        <updated>2025-04-05T18:36:56.000Z</updated>
-        <summary type="html"><![CDATA[👀 
-2017 and 2021 btc runs $ was falling like a rock…
-
-Jordi Alexander: They say 5x a year theres free money on the floor to pick up, but noone really says it clearly when its one of those situations--
-IMO, one of the times is right now. The risk/reward on buying $BTC here in the low 80s with a 6-month horizon is excellent. 
-It doesn't really]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Rob Henderson: Tariffs don't work, so why do so many smart countries have tariffs on American goods?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1908588147232940171</id>
-        <link href="https://x.com/DeFiSurfer808/status/1908588147232940171"/>
-        <updated>2025-04-05T18:22:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Rob Henderson
-Tariffs don't work, so why do so many smart countries have tariffs on American goods?
-
-Rob Henderson: Thomas Sowell on tariffs:]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT TradingView: Don't even open TradingView today.]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1908314439671042128</id>
-        <link href="https://x.com/DeFi_educator/status/1908314439671042128"/>
-        <updated>2025-04-04T19:43:50.000Z</updated>
-        <summary type="html"><![CDATA[RT TradingView
-Don't even open TradingView today.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎯]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907929534080716947</id>
-        <link href="https://x.com/DeFi_educator/status/1907929534080716947"/>
-        <updated>2025-04-03T22:53:43.000Z</updated>
-        <summary type="html"><![CDATA[🎯
-
-Res: Yields are down, that's all they care about. Tariffs are a theatre
-30% of the debt is set to mature within the next 12 months
-that’s ≈ $10 trillion that will need to be rolled over in the near-term after a huge issuance post-pandemic
-And they want those yields much lower]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907587601403359568</id>
-        <link href="https://x.com/DeFi_educator/status/1907587601403359568"/>
-        <updated>2025-04-03T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Watcher.Guru: JUST IN: $300,000,000 liquidated from the cryptocurrency market in the past 4 hours.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ☉rthonormalist🧭✡️: DID I CRACK IT? I think I figured out at least a chunk of the math. It's trade deficit divided by their exports. EU: expor...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907572727633916212</id>
-        <link href="https://x.com/DeFi_educator/status/1907572727633916212"/>
-        <updated>2025-04-02T21:26:46.000Z</updated>
-        <summary type="html"><![CDATA[RT ☉rthonormalist🧭✡️
-DID I CRACK IT?
-I think I figured out at least a chunk of the math.
-It's trade deficit divided by their exports.
-EU: exports 531.6, imports 333.4, deficit 198.2. 198.2/531.6 is 37, close to 39.
-Israel: exports 22.2, imports 14.8, deficit 7.4. 7.4/22.2 is 33.
-
-Rapid Response 47: FULL LIST: Liberation Day]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Kobeissi Letter: BREAKING: The White House publishes an even larger list of US tariffs than initially shown at the "Make America Wealth Again E...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907545556202958894</id>
-        <link href="https://x.com/DeFi_educator/status/1907545556202958894"/>
-        <updated>2025-04-02T21:10:56.000Z</updated>
-        <summary type="html"><![CDATA[RT The Kobeissi Letter
-BREAKING: The White House publishes an even larger list of US tariffs than initially shown at the "Make America Wealth Again Event."
-We have included the full list in the thread below with ALL countries worldwide being tariffed.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT TheLastBearStanding: Never has wealth in the U.S. been so reliant on the market. What happens if it goes down? And for those already experiencing r...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907552736775909545</id>
-        <link href="https://x.com/DeFi_educator/status/1907552736775909545"/>
-        <updated>2025-03-30T23:08:40.000Z</updated>
-        <summary type="html"><![CDATA[RT TheLastBearStanding
-Never has wealth in the U.S. been so reliant on the market. What happens if it goes down?
-And for those already experiencing recessionary conditions, does it matter?
-With @Citrini7: The wealth-effect recession and how to trade it: Haves vs. Have Nots.
-https://www.thelastbearstanding.com/p/haves-vs-have-nots]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Daniele 🟧 ( Meme Quant ): Anon there is levels to this]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1907491692682379609</id>
-        <link href="https://x.com/DeFi_educator/status/1907491692682379609"/>
-        <updated>2025-03-28T11:25:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Daniele 🟧 ( Meme Quant )
-Anon there is levels to this]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 0xLouisT: http://x.com/i/article/1900166267329507328]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1903165378991362363</id>
-        <link href="https://x.com/DeFi_educator/status/1903165378991362363"/>
-        <updated>2025-03-20T16:15:53.000Z</updated>
-        <summary type="html"><![CDATA[RT 0xLouisT
-http://x.com/i/article/1900166267329507328]]></summary>
-        <author>
-            <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ZachXBT: 1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly ...]]></title>
-        <id>https://twitter.com/DeFi_educator/status/1902784826442133871</id>
-        <link href="https://x.com/DeFi_educator/status/1902784826442133871"/>
-        <updated>2025-03-20T13:25:09.000Z</updated>
-        <summary type="html"><![CDATA[RT ZachXBT
-1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly leveraged positions over the past couple weeks.]]></summary>
-        <author>
-            <name>DeFi Educator</name>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
