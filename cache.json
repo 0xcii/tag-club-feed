@@ -306,6 +306,16 @@
       "siteUrl": "https://x.com/DeFi_educator",
       "articles": [
         {
+          "id": "https://twitter.com/DeFi_educator/status/1913325511113158925",
+          "author": "DeFi Educator",
+          "description": "RT nick.eth\nRecently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Google's infrastructure, and given their refusal to fix it, we're likely to see it a lot more. Here's the email I got:",
+          "link": "https://x.com/DeFi_educator/status/1913325511113158925",
+          "publishedOn": "2025-04-16T09:32:49.000Z",
+          "wordCount": null,
+          "title": "RT nick.eth: Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Go...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DeFi_educator/status/1910918532029612308",
           "author": "DeFi Educator",
           "description": "RT Hiruni Liyanage\nUS data scientists are so cooked right now. they can't import  pandas anymore",
@@ -473,16 +483,6 @@
           "publishedOn": "2025-03-20T16:15:53.000Z",
           "wordCount": null,
           "title": "RT 0xLouisT: http://x.com/i/article/1900166267329507328",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeFi_educator/status/1902784826442133871",
-          "author": "DeFi Educator",
-          "description": "RT ZachXBT\n1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly leveraged positions over the past couple weeks.",
-          "link": "https://x.com/DeFi_educator/status/1902784826442133871",
-          "publishedOn": "2025-03-20T13:25:09.000Z",
-          "wordCount": null,
-          "title": "RT ZachXBT: 1/ An investigation into the alleged identity of the mysterious Hyperliquid whale tied to illicit activity that profited ~$20M via highly ...",
           "imageUrl": null
         }
       ]
@@ -800,6 +800,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
