@@ -1,100 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T10:19:56.483Z</id>
+    <id>urn:2025-04-23T11:15:29.864Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-23T10:19:56.483Z</updated>
+    <updated>2025-04-23T11:15:29.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pool address: HMn6o5rM2NGgNAuYeH7JxRKfQNoQgsiqyxVUYwVpuZcV Bin: -977 $arc: 61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump $ryzome: 8r1KTUydWw61WDyrJMPdi...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914907472126730580</id>
-        <link href="https://x.com/AntCaveClub/status/1914907472126730580"/>
-        <updated>2025-04-23T05:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Pool address: HMn6o5rM2NGgNAuYeH7JxRKfQNoQgsiqyxVUYwVpuZcV  Bin: -977  
-$arc: 61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump  
-$ryzome: 8r1KTUydWw61WDyrJMPdiyk3Gpxqg6uzKSgLsWonpump
-AI 龙头🐲 
-ARC 推出的服务： https://www.arc.fun/ryzome-waitlist]]></summary>
+        <title type="html"><![CDATA[吴说获悉，据 @tomwanhh 数据面板，Ethena sUSDe 和 Sky sUSDs APY 分别为 4.7% 和 4.48%，均已跌至逼近美国国债 T-Bill 收益率（4.24%）。迈入 4 月以来，Ethen...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914962363385798782</id>
+        <link href="https://x.com/wublockchain12/status/1914962363385798782"/>
+        <updated>2025-04-23T08:39:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @tomwanhh 数据面板，Ethena sUSDe 和 Sky sUSDs APY 分别为 4.7% 和 4.48%，均已跌至逼近美国国债 T-Bill 收益率（4.24%）。迈入 4 月以来，Ethena USDe 质押率跌至 45% 以下，sUSDe 供应量也从去年 12 月末峰值的 45 亿美元持续下滑至今约 21.1 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41350]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老币随着市场好，都开始上涨了 207天之前的， $Nyan 爆拉， 老币捡起来， 车头🧻纸手比较少。 $100K -> $500K 83RS3reTJqtBTZYrYqLWUUyejNbkShnc72WAmmrvg7yq ...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914904191815819644</id>
-        <link href="https://x.com/AntCaveClub/status/1914904191815819644"/>
-        <updated>2025-04-23T04:48:31.000Z</updated>
-        <summary type="html"><![CDATA[老币随着市场好，都开始上涨了
-207天之前的， $Nyan 爆拉， 老币捡起来， 车头🧻纸手比较少。
-$100K -> $500K
-83RS3reTJqtBTZYrYqLWUUyejNbkShnc72WAmmrvg7yq
-$KOLScan 查看每日最强浇易员
-https://kolscan.io/leaderboard
-6jTQCFZR8JwvvenVGa3RzGM3a5YEagk9kQXDpHHdpump
-6个月前，$RETARD 的dev 被扒出来是： https://x.com/0xMert_
-D2isQXcwCXfTvnT6MMeo9R2735jmv7BeqUksM3fspump]]></summary>
+        <title type="html"><![CDATA[Re 当 RISC-V 这种“现代感十足”的架构出现在区块链工程师面前时，他们的直觉是：我们能不能把区块链虚拟机也 “RISC-V化”？RISC-V 结构清晰，执行行为可预测...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914956015386419495</id>
+        <link href="https://x.com/wublockchain12/status/1914956015386419495"/>
+        <updated>2025-04-23T08:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Re 当 RISC-V 这种“现代感十足”的架构出现在区块链工程师面前时，他们的直觉是：我们能不能把区块链虚拟机也 “RISC-V化”？RISC-V 结构清晰，执行行为可预测，非常适合转化为零知识证明电路；未来还可能配合 LLVM 编译器，用更丰富的语言开发合约，比如 Rust 和 C；更重要的是，它可以成为构建“ZK 原生链”的执行层基础。]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#内幕消息 0 本金在Web3赚钱的方法： 1. 人要赚四种钱 信息差的钱：我知道的，你不知道，就能靠这个赚钱。 认知差的钱：我懂的，你不懂，这里面也有商机。 执行...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914897455600308581</id>
-        <link href="https://x.com/AntCaveClub/status/1914897455600308581"/>
-        <updated>2025-04-23T04:21:45.000Z</updated>
-        <summary type="html"><![CDATA[#内幕消息
-0 本金在Web3赚钱的方法：
-1. 人要赚四种钱
-信息差的钱：我知道的，你不知道，就能靠这个赚钱。
-认知差的钱：我懂的，你不懂，这里面也有商机。
-执行力的钱：大家都知道的事，你没做，我做了，钱就归我。
-核心竞争力的钱：你我都懂都会，但我做得比你好，自然能赚到钱 。
-2. 一定要做高利润的生意
-开实体店，很难有高利润。最好是轻资产、低成本，用人少、客户多，利润还高，这种生意模式才叫好，Web3符合所有。
-3. 一定要和满脑子赚钱的人做朋友
-会赚钱的人，脑袋里的认知、自律性，以及他们的圈子、能量、格局，都不简单，执行力更是没得说，和他们做朋友，准没错。]]></summary>
+        <title type="html"><![CDATA[《为什么 Polkadot 和 Vitalik 都不约而同选择了 RISC-V？》（作者 Yuki）Polkadot 已经悄悄在 AseetHub Westend 测试网上线了支持 RISC-V 的智能合约执行环境，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914956013356388518</id>
+        <link href="https://x.com/wublockchain12/status/1914956013356388518"/>
+        <updated>2025-04-23T08:14:26.000Z</updated>
+        <summary type="html"><![CDATA[《为什么 Polkadot 和 Vitalik 都不约而同选择了 RISC-V？》（作者 Yuki）Polkadot 已经悄悄在 AseetHub Westend 测试网上线了支持 RISC-V 的智能合约执行环境，开发者甚至可以继续使用 Solidity 尝试在 Polkadot 开发，只不过合约最终运行在一个全新的执行引擎 PolkaVM 上。阅读全文： http://wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41348]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3BRmF8RamiK2wovsVhUyVM2miHfNeJq4iVogQpbQpump $uponly dev是 @narracanz Pump创始人@a1lon9 持仓10% https://axiom.trade/t/3BRmF8RamiK2wovsVhUyVM2miHfNeJq4...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914861415862808656</id>
-        <link href="https://x.com/AntCaveClub/status/1914861415862808656"/>
-        <updated>2025-04-23T01:58:32.000Z</updated>
-        <summary type="html"><![CDATA[3BRmF8RamiK2wovsVhUyVM2miHfNeJq4iVogQpbQpump
-$uponly dev是
-@narracanz
-Pump创始人@a1lon9 持仓10%
-https://axiom.trade/t/3BRmF8RamiK2wovsVhUyVM2miHfNeJq4iVogQpbQpump/@0xcii]]></summary>
+        <title type="html"><![CDATA[吴说获悉，Bybit CEO BEN 介绍 Bybit 的 AI 应用: CryptoLens 提供项目 AI 深度分析，TradeGPT 进行技术分析，还有 AI 客服辅助支持，但仍保留人工客服应对情感...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914955507225538881</id>
+        <link href="https://x.com/wublockchain12/status/1914955507225538881"/>
+        <updated>2025-04-23T08:12:25.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Bybit CEO BEN 介绍 Bybit 的 AI 应用: CryptoLens 提供项目 AI 深度分析，TradeGPT 进行技术分析，还有 AI 客服辅助支持，但仍保留人工客服应对情感化需求。内部运营中，AI 用于测试（AITest）、翻译（AITranslation）、内部培训（AiWiki）、项目管理（OSOP）、法律文书起草（AiLegal），并探索用于基础编程（Aicoding） ，全面提升各环节效率。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41349]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FHcqEmGPyzDzxpERppnkbgjvP1eKRpEi5oE79sefpump 绿头像，后面几个出来都是仿盘， 这个是 OG https://axiom.trade/t/FHcqEmGPyzDzxpERppnkbgjvP1eKRpEi5oE79sefpu...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914852506238419182</id>
-        <link href="https://x.com/AntCaveClub/status/1914852506238419182"/>
-        <updated>2025-04-23T01:23:08.000Z</updated>
-        <summary type="html"><![CDATA[FHcqEmGPyzDzxpERppnkbgjvP1eKRpEi5oE79sefpump
-绿头像，后面几个出来都是仿盘， 这个是 OG
-https://axiom.trade/t/FHcqEmGPyzDzxpERppnkbgjvP1eKRpEi5oE79sefpump/@0xcii]]></summary>
+        <title type="html"><![CDATA[吴说获悉，DWF Labs 宣布与 Mask Network 建立战略合作关系，并投资 500 万美元购买 MASK 代币，致力于加速推动去中心化社交层和 Web3 生态系统的发展。http://w...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914952154122776717</id>
+        <link href="https://x.com/wublockchain12/status/1914952154122776717"/>
+        <updated>2025-04-23T07:59:06.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，DWF Labs 宣布与 Mask Network 建立战略合作关系，并投资 500 万美元购买 MASK 代币，致力于加速推动去中心化社交层和 Web3 生态系统的发展。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41347]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8i93CHmhcqtCWMvaAdiTngwbQMQRKFW6g2ojnyhUpump 老头要破 $1M https://x.com/alphachadsol CHAD https://axiom.trade/t/8i93CHmhcqtCWMvaAdiTngwbQMQRKFW6g2ojny...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914851385549758660</id>
-        <link href="https://x.com/AntCaveClub/status/1914851385549758660"/>
-        <updated>2025-04-23T01:18:41.000Z</updated>
-        <summary type="html"><![CDATA[8i93CHmhcqtCWMvaAdiTngwbQMQRKFW6g2ojnyhUpump
-老头要破 $1M
-https://x.com/alphachadsol
-CHAD
-https://axiom.trade/t/8i93CHmhcqtCWMvaAdiTngwbQMQRKFW6g2ojnyhUpump/@0xcii]]></summary>
+        <title type="html"><![CDATA[吴说获悉，香港前沿有理资本宣布将于 2025 年 4 月 30 日派发年度分红共 2.4 亿港币。作为香港唯一获证监会三次批准升级资管权限的虚拟资产对冲基金，公司自 201...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914948696065859814</id>
+        <link href="https://x.com/wublockchain12/status/1914948696065859814"/>
+        <updated>2025-04-23T07:45:21.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，香港前沿有理资本宣布将于 2025 年 4 月 30 日派发年度分红共 2.4 亿港币。作为香港唯一获证监会三次批准升级资管权限的虚拟资产对冲基金，公司自 2018 年以来已累计派发 16 次分红。CEO 叶一舟表示，此次为年内最后一次现金分红，自 4 月起其持牌旗舰基金将首次对外开放募资。前沿有理资本即将迎来八周年，也是获得香港证监会虚拟资产牌照的第四年，未来将聚焦与私人银行等基金销售渠道合作，为投资者提供合规虚拟资产基金产品。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41346]]></summary>
         <author>
-            <name>链求君 🔥</name>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《0xTodd: Solana 质押量超过 ETH，是否意味着安全性超过以太坊？》ETH 单节点最多质押 32 ETH，因此需要拿到 1,187,000 个节点，听起来就是不可能的任务。以太...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914946631906287643</id>
+        <link href="https://x.com/wublockchain12/status/1914946631906287643"/>
+        <updated>2025-04-23T07:37:09.000Z</updated>
+        <summary type="html"><![CDATA[《0xTodd: Solana 质押量超过 ETH，是否意味着安全性超过以太坊？》ETH 单节点最多质押 32 ETH，因此需要拿到 1,187,000 个节点，听起来就是不可能的任务。以太坊的 32 ETH 门槛并不高，而 Solana 对服务器要求很高，每月成本是 ETH 的 5-10 倍。Lido 要求节点们少用亚马逊的机房，多用小众机房。ETH 作为远古公链，它是真的见过远古时代真的 PoS 攻击，对于防范这个潜在危险确实做了很多准备，比如鼓励散户参与质押。 阅读全文：http://wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41345]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Aptos 官方宣布作为 2025 日本大阪世博会数字钱包提供商，首周已处理超 55.8 万笔交易，新增 13.3 万账户。Aptos Horizon 项目团队在开幕周到访世博会...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914942736127693035</id>
+        <link href="https://x.com/wublockchain12/status/1914942736127693035"/>
+        <updated>2025-04-23T07:21:40.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Aptos 官方宣布作为 2025 日本大阪世博会数字钱包提供商，首周已处理超 55.8 万笔交易，新增 13.3 万账户。Aptos Horizon 项目团队在开幕周到访世博会，对场馆重要性和规模感到惊讶，每个国家展馆均展示其创新技术、建筑和文化特色，预计需一周时间游览全部展区。用户反馈称世博会展览内容丰富，涵盖国家、艺术家及未来主义者作品，每个展馆提供可领取由 Aptos 技术支持的灵魂绑定（soulbound）NFT 印章。世博会将持续至 10 月，预计将服务超 2800 万访客，Aptos 计划进一步推动其技术应用。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41344]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据信报，香港警方于 4 月 7 日至 17 日开展执法行动，针对诈骗及洗黑钱犯罪拘捕 503 人，涉及 404 宗骗案及科技罪案，涉款 15.6 亿港元。警方联合内地...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914918517234946265</id>
+        <link href="https://x.com/wublockchain12/status/1914918517234946265"/>
+        <updated>2025-04-23T05:45:26.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据信报，香港警方于 4 月 7 日至 17 日开展执法行动，针对诈骗及洗黑钱犯罪拘捕 503 人，涉及 404 宗骗案及科技罪案，涉款 15.6 亿港元。警方联合内地公安捣毁两个跨境犯罪集团：其一招募傀儡成员来港购买黄金饰品清洗内地骗案赃款，涉及 240 宗内地案件，涉款 1850 万元人民币；其二提供假文件开设傀儡账户，内地捣破假文件工厂拘 12 人，香港拘 4 人，涉及 61 宗本地骗案，涉款 2670 万港元。此外，警方发现荃湾一工业大厦内设诈骗中心，通过网上交友平台诱骗受害人在虚假电商平台开网店，以虚拟货币充值，拘捕 11 人。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41342]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 4 月 22 日）以太坊现货 ETF 昨日总净流入 3874.06 万美元，九支 ETF 无一净流出。单日净流入最多的以太坊现货 ET...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914891115108643140</id>
+        <link href="https://x.com/wublockchain12/status/1914891115108643140"/>
+        <updated>2025-04-23T03:56:33.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 4 月 22 日）以太坊现货 ETF 昨日总净流入 3874.06 万美元，九支 ETF 无一净流出。单日净流入最多的以太坊现货 ETF 为富达（Fidelity）以太坊 ETF FETH，单日净流入为 3265.32 万美元。截至目前，以太坊现货 ETF 总资产净值为 56.60 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.77%，历史累计净流入已达 22.58 亿美元。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41341]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日美东时间 4 月 22 日比特币现货 ETF 昨日总净流入 9.36 亿美元，持续 3 日净流入。单日净流入最多的比特币现货 ETF 为 Ark In...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914890276512186877</id>
+        <link href="https://x.com/wublockchain12/status/1914890276512186877"/>
+        <updated>2025-04-23T03:53:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日美东时间 4 月 22 日比特币现货 ETF 昨日总净流入 9.36 亿美元，持续 3 日净流入。单日净流入最多的比特币现货 ETF 为 Ark Invest 和 21Shares 的 ETF ARKB，单日净流入为 2.67 亿美元。截止目前，比特币现货 ETF 总资产净值为 1033.45 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 5.71%，历史累计净流入已达 366.93 亿美元。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41340]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，支付初创公司 Inflow 宣布完成 110 万美元 pre-seed 轮融资，由 Rockstart、GnosisVC、Alliance、Plug And Play、Stake Capital 和 Ledger 联合创始人...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914868752904282248</id>
+        <link href="https://x.com/wublockchain12/status/1914868752904282248"/>
+        <updated>2025-04-23T02:27:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，支付初创公司 Inflow 宣布完成 110 万美元 pre-seed 轮融资，由 Rockstart、GnosisVC、Alliance、Plug And Play、Stake Capital 和 Ledger 联合创始人 Nicolas Bacca 等参投。Inflow 致力于为新兴市场的自由职业者和企业提供自托管全球收款体验，解决传统金融系统高费用、合规繁琐及结算慢的问题，未来将扩展电商解决方案。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41338]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoonPay CEO Ivan Soto-Wright 近期在接受采访时表示，加密货币钱包将最终取代银行账户，未来用户将拥有多个钱包。其公司 2025 年 Q1 实现 112% 同比增长，创最...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914866379070824494</id>
+        <link href="https://x.com/wublockchain12/status/1914866379070824494"/>
+        <updated>2025-04-23T02:18:15.000Z</updated>
+        <summary type="html"><![CDATA[MoonPay CEO Ivan Soto-Wright 近期在接受采访时表示，加密货币钱包将最终取代银行账户，未来用户将拥有多个钱包。其公司 2025 年 Q1 实现 112% 同比增长，创最佳季度表现。MoonPay 收购 Solana 支付处理器 Helio，强化加密商业能力，并通过“Balance”产品试水零费率交易。Soto-Wright 预计 DEX 将超越 CEX，DeFi 市场占比将持续扩大，MoonPay 或推出稳定币以进一步布局。(CoinDesk)  http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41337]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Vitalik 的激进构想：用 RISC-V 替换以太坊 EVM，意味着什么？》这一提案尚处早期讨论阶段，预计实施将是一个历时数年的过程，需跨越技术、社区、生态多重挑战...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914862302618378547</id>
+        <link href="https://x.com/wublockchain12/status/1914862302618378547"/>
+        <updated>2025-04-23T02:02:04.000Z</updated>
+        <summary type="html"><![CDATA[《Vitalik 的激进构想：用 RISC-V 替换以太坊 EVM，意味着什么？》这一提案尚处早期讨论阶段，预计实施将是一个历时数年的过程，需跨越技术、社区、生态多重挑战。它不是推翻现有路线，而是补强基础、预备未来。支持者认为这是应对 Solana/Sui 等性能挑战的必要战略升级，有助于吸引传统开发者。RISC-V 合约可能减少对预编译合约依赖，Gas 模型更贴近 ZK 证明成本。RISC-V 并不意味着拒绝其他选项，他认为未来解释器机制也可用于插入如 Move、WASM 等 VM，构建多元执行生态。 阅读全文：http://wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41330]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据加密 OTC 商 STIX 创始人 Taran，锁仓代币持有者在过去 12 个月内遭受了巨大损失，OTC 价到现货价格的平均跌幅约为 50%。此外，考虑到过去 12 个月...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914859071649538492</id>
+        <link href="https://x.com/wublockchain12/status/1914859071649538492"/>
+        <updated>2025-04-23T01:49:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据加密 OTC 商 STIX 创始人 Taran，锁仓代币持有者在过去 12 个月内遭受了巨大损失，OTC 价到现货价格的平均跌幅约为 50%。此外，考虑到过去 12 个月的流动性价值和 BTC 在该期间上涨了 45%，他们又损失了 31% 的机会成本。未来将有超过 400 亿美元的锁仓山寨币解锁，卖家在 OTC 退出时平均还需再接受 50% 的折扣；不过考虑到 2025 年大多数代币的锁仓期将结束，随着归属期限缩短，折扣幅度也在减小。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41336]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 mempool 数据，早期使用 P2PK 脚本的矿工在持有长达 12 年后将 200 枚 BTC 转移至新地址: bc1q68…f5jpzf 中，彼时仅价值约 7,140 美元，现已价值...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1914855805737926747</id>
+        <link href="https://x.com/wublockchain12/status/1914855805737926747"/>
+        <updated>2025-04-23T01:36:15.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 mempool 数据，早期使用 P2PK 脚本的矿工在持有长达 12 年后将 200 枚 BTC 转移至新地址: bc1q68…f5jpzf 中，彼时仅价值约 7,140 美元，现已价值达 1,864 万美元。此前，Ava Labs 创始人 Emin Gün Sirer 认为，Bitcoin 早期公钥格式 P2PK 存在被量子计算攻破的风险。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41335]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -126,104 +194,6 @@ Donald Trump Approval Rating Average By Age Per RCP
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#内幕消息 想搞钱、搞人脉、搞资源的普通人，请死记三句话： 1. 打扮是你的生产力 别拿“懒得洗头、穿得舒服”当自由，那是自暴自弃的开始。 一个人不打扮、邋遢...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914713425177141729</id>
-        <link href="https://x.com/AntCaveClub/status/1914713425177141729"/>
-        <updated>2025-04-22T16:10:28.000Z</updated>
-        <summary type="html"><![CDATA[#内幕消息
-想搞钱、搞人脉、搞资源的普通人，请死记三句话：
-1. 打扮是你的生产力
-别拿“懒得洗头、穿得舒服”当自由，那是自暴自弃的开始。
-一个人不打扮、邋遢、不修边幅，其实就是在放弃向外链接的通道：你会自卑、会回避、会错失社交机会，久而久之，连事业张力都没有。
-相反，只要你人一打扮，精气神立刻就不一样。洗个头、画个淡妆、穿得体面点，整个人状态都支棱起来了，社交、合作、机会都会来敲门。
-人靠衣装是商业规律，不是空话。
-穿得像样，才有谈条件的底气。
-2. 表达是普通人的最大杠杆
-不会表达，就只能默默无闻。别再说“我不爱说”“我表达不好”——你不表达，就只能永远被动等饭吃。
-尤其是搞副业、搞流量、搞变现的普通人，表达是门槛最低、收益最高的事。
-你说一句话，可能1万人看到；你写一段文案，可能10个客户找上门；你持续分享，就可能引爆个人品牌，机会、合作、资源主动飞来。
-表达的核心不是说得多好，而是你有没有立场、有没有观点、敢不敢说。这年头，沉默的人没有红利。
-3. 分享，是持续滚烫的生命力
-一个人如果连“看到日落想发条朋友圈”的冲动都没有了，那基本可以断定：他对生活已经麻木了。
-分享，不是为了显摆，而是维持对世界的感知能力。
-不分享，意味着你在切断和世界的连接。时间久了，你会越来越丧、越来越疲，最后活成一个“功能性人类”——只工作、不感受、不热爱。
-分享点小事、讲点废话、感叹个情绪，其实是在给自己打补丁。一个爱分享的人，永远不会死气沉沉。
-打扮，是你向世界投出的第一张名片；
-表达，是你撬动机会的最强武器；
-分享，是你留住生活热情的最后一道防线。
-一个人最强大的状态，是永远热辣鲜活。]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 链求君 🔥: 每天稳定赚 200 SOL ， 浇易员的一天, 朴实无华。 如果你也想和他们浇朋友🧑‍🤝‍🧑 可以监控 X 账号 + 监控钱包 🔗 监控工具： https...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914678731022712861</id>
-        <link href="https://x.com/AntCaveClub/status/1914678731022712861"/>
-        <updated>2025-04-22T12:57:16.000Z</updated>
-        <summary type="html"><![CDATA[RT 链求君 🔥
-每天稳定赚 200 SOL ， 浇易员的一天,   朴实无华。 
-如果你也想和他们浇朋友🧑‍🤝‍🧑 
-可以监控 X 账号 + 监控钱包
-🔗 监控工具： https://axiom.trade/@0xcii 
-💰 把下面的钱包加入列表
-1⃣️  BHREKFkPQgAtDs8Vb1UfLkUpjG6ScidTjHaCWFuG2AtX
-2⃣️ DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm
-3⃣️525LueqAyZJueCoiisfWy6nyh4MTvmF4X9jSqi6efXJT
-4⃣️9yYya3F5EJoLnBNKW6z4bZvyQytMXzDcpU5D6yYr4jqL
-5⃣️BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd
-6⃣️87MZqjjJgpuFvaU8GyQJKbZGnCFFhX82qAjBGLRXPfcn
-7⃣️5t9xBNuDdGTGpjaPTx6hKd7sdRJbvtKS8Mhq6qVbo8Qz
-8⃣️4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk
-9⃣️BtMBMPkoNbnLF9Xn552guQq528KKXcsNBNNBre3oaQtr
-1⃣️0⃣️HA1L7GhQfypSRdfBi3tCkkCVEdEcBVYqBSQCENCrwPuB]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#空投 #空投查询 #Airdrop $ZORA 空投查询]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914491688581783627</id>
-        <link href="https://x.com/AntCaveClub/status/1914491688581783627"/>
-        <updated>2025-04-22T01:29:22.000Z</updated>
-        <summary type="html"><![CDATA[#空投 #空投查询 #Airdrop $ZORA 空投查询
-
-社会主义接班人: #空投 #空投查询 #Airdrop 
-$ZORA 空投查询已经开启！！！
-三年的付出没白费！场外0.023一枚？那你有多少啊？？？
-传送门；https://zora-checker.vercel.app/]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 链求君 🔥: BGB 拉盘喊牛逼的，和 Bitget 风控喊垃圾的，好像是同一拨人。 挂本文由 #Bitget赞助 的人， 和晒撸U截图骂娘的，好像是同一拨人。 也对，都是 ...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914490208026026308</id>
-        <link href="https://x.com/AntCaveClub/status/1914490208026026308"/>
-        <updated>2025-04-22T01:19:44.000Z</updated>
-        <summary type="html"><![CDATA[RT 链求君 🔥
-BGB 拉盘喊牛逼的，和 Bitget 风控喊垃圾的，好像是同一拨人。
-挂本文由 #Bitget赞助 的人， 和晒撸U截图骂娘的，好像是同一拨人。
-也对，都是 Bitget 用户。]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 社会主义接班人: #空投 #空投查询 #Airdrop $ZORA 空投查询已经开启！！！ 三年的付出没白费！场外0.023一枚？那你有多少啊？？？ 传送门；https://zora-chec...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914491578565189898</id>
-        <link href="https://x.com/AntCaveClub/status/1914491578565189898"/>
-        <updated>2025-04-22T01:13:10.000Z</updated>
-        <summary type="html"><![CDATA[RT 社会主义接班人
-#空投 #空投查询 #Airdrop 
-$ZORA 空投查询已经开启！！！
-三年的付出没白费！场外0.023一枚？那你有多少啊？？？
-传送门；https://zora-checker.vercel.app/]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[👀]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1914446680683917320</id>
         <link href="https://x.com/DeFiSurfer808/status/1914446680683917320"/>
@@ -236,28 +206,6 @@ don't underestimate how high a parabola can go.
 as rick]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9Z9uqAKAAfBCtaAgEDTCaRXVs9a357WhWmxK2Rjbpump]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914426230151192591</id>
-        <link href="https://x.com/AntCaveClub/status/1914426230151192591"/>
-        <updated>2025-04-21T21:09:16.000Z</updated>
-        <summary type="html"><![CDATA[9Z9uqAKAAfBCtaAgEDTCaRXVs9a357WhWmxK2Rjbpump]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 链求君 🔥: 属实吗？ 天南地北的网友]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1914248279640232368</id>
-        <link href="https://x.com/AntCaveClub/status/1914248279640232368"/>
-        <updated>2025-04-21T09:21:54.000Z</updated>
-        <summary type="html"><![CDATA[RT 链求君 🔥
-属实吗？
-天南地北的网友]]></summary>
-        <author>
-            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
