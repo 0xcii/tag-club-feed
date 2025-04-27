@@ -1,163 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://x.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916532060946325572",
-          "author": "吴说区块链",
-          "description": "吴说获悉，水滴资本大山在 Space 中表示，最近我们有四个项目上线了币安，但实际上没有一个项目按约定给投资人发币，明明在投资协议里写得清清楚楚要发币，但上线后项目方可以随意修改条款，投资人没有任何反制手段。因为在目前的环境下，上不上头部交易所区别太大。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41579",
-          "link": "https://x.com/wublockchain12/status/1916532060946325572",
-          "publishedOn": "2025-04-27T16:37:05.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，水滴资本大山在 Space 中表示，最近我们有四个项目上线了币安，但实际上没有一个项目按约定给投资人发币，明明在投资协议里写得清清楚楚要发币，但上...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916509052869247381",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Bitget 指控的做市商回应称：我们是 Bitget 官方合约做市商，自 2024 年 11 月起，我们以合约做市商身份在 Bitget 进行正常交易，此前 2022 年初至 2024 年初，我们是币安的官方做市商)。4 月 20 日下午 15:30 左右，VOXEL/USDT 交易对出现短时间的交易活跃窗口，成交量和盘口交易笔数明显提升。作为做市商团队，我们捕捉到市场机会，及时加大了在该交易对上的挂单量，最终在该时间窗口内获利约 4300 万美元，绝大部分盈利未成功提现，部分成员币安账户被冻结。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41578\n\n吴说区块链: Bitget 谢家印表示，Bitget 将陆续发出 8 份律师函；这 8 个账户疑似相关联的专业羊毛利益集团，是导致本次 VOXEL 事件的主要始作俑者，并从中不当得利超过 2000 万美金；追回的资金 Bitget 将 100% 以空投形式发放给平台用户。除这 8",
-          "link": "https://x.com/wublockchain12/status/1916509052869247381",
-          "publishedOn": "2025-04-27T15:05:39.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Bitget 指控的做市商回应称：我们是 Bitget 官方合约做市商，自 2024 年 11 月起，我们以合约做市商身份在 Bitget 进行正常交易，此前 2022 年初至 20...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916493441439051806",
-          "author": "吴说区块链",
-          "description": "吴说获悉，美国 SEC 已批准 ProShares Trust 推出多只与 XRP 相关的期货 ETF，但不包括 XRP 现货 ETF，生效日期定为 2025 年 4 月 30 日。此次获批的产品包括 ProShares UltraShort XRP ETF、ProShares Ultra XRP ETF 和 ProShares Short XRP ETF，旨在提供基于 XRP 期货价格的杠杆与反向敞口。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41576",
-          "link": "https://x.com/wublockchain12/status/1916493441439051806",
-          "publishedOn": "2025-04-27T14:03:37.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，美国 SEC 已批准 ProShares Trust 推出多只与 XRP 相关的期货 ETF，但不包括 XRP 现货 ETF，生效日期定为 2025 年 4 月 30 日。此次获批的产品包括 Pr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916455767835840719",
-          "author": "吴说区块链",
-          "description": "吴说项目周精选：XRP ETF 在巴西上市；Zora 发布 ZORA 代币；Synthetix 被指定为交易注意代币；Berachain 稳定币总供应量近一个月大幅流出。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41572",
-          "link": "https://x.com/wublockchain12/status/1916455767835840719",
-          "publishedOn": "2025-04-27T11:33:55.000Z",
-          "wordCount": null,
-          "title": "吴说项目周精选：XRP ETF 在巴西上市；Zora 发布 ZORA 代币；Synthetix 被指定为交易注意代币；Berachain 稳定币总供应量近一个月大幅流出。 https://www.wubloc...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916408996052840768",
-          "author": "吴说区块链",
-          "description": "吴说获悉，针对即将到来的以太坊 Pectra 升级，Vitalik Buterin 表示，账户抽象（Account Abstraction）目前仍仅完成一半，其最终目标是让多签、密钥更换、抗量子攻击账户和隐私协议账户等非 ECDSA 类型账户，获得以太坊协议层的原生支持。近期在简化 EIP-7701 提案方面取得了积极进展以推动这一实现。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41571",
-          "link": "https://x.com/wublockchain12/status/1916408996052840768",
-          "publishedOn": "2025-04-27T08:28:04.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，针对即将到来的以太坊 Pectra 升级，Vitalik Buterin 表示，账户抽象（Account Abstraction）目前仍仅完成一半，其最终目标是让多签、密钥更换、抗量...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916406157796663661",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 GMGN 数据，以 1 House=1 Housecoin 为叙事的 Memecoin House 第一大持有者: 4QomCn…dndNcB 在持仓 26 天后总利润达 120 万美元，其在 4 月 1 日以 $0.00595 均价购买了 12.14 万美元的 House，回报率达约 970%。House 自 4 月 25 日以来大幅上涨，市值超过 6,000 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41570",
-          "link": "https://x.com/wublockchain12/status/1916406157796663661",
-          "publishedOn": "2025-04-27T08:16:47.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 GMGN 数据，以 1 House=1 Housecoin 为叙事的 Memecoin House 第一大持有者: 4QomCn…dndNcB 在持仓 26 天后总利润达 120 万美元，其在 4 月 1 日...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916402127158841679",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Ronin 联合创始人 Psycheout 发文表示，由于链游 Ragnarok Monster World 团队未遵循建议并与其他区块链秘密签约，Sky Mavis 决定终止与其的合作关系。未来 48 小时内，该项目及其资产将从 Sky Mavis 产品中移除，Ragnarok Monster World 的 NFT 将不再在 Ronin Market 上交易，但仍可在 Ronin 生态系统内的其他市场交易。此外，Ronin 不支持或认可 $ZENY 代币的推出。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41569",
-          "link": "https://x.com/wublockchain12/status/1916402127158841679",
-          "publishedOn": "2025-04-27T08:00:46.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Ronin 联合创始人 Psycheout 发文表示，由于链游 Ragnarok Monster World 团队未遵循建议并与其他区块链秘密签约，Sky Mavis 决定终止与其的合作关系...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916394143452172701",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Binance Alpha 将首发 Haedal Protocol（HAEDAL），交易将于 4 月 29 日开启，具体时间待公布。Haedal 是一个基于 Sui 的流动性质押协议，允许任何人在其 Sui 代币上进行质押。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41568",
-          "link": "https://x.com/wublockchain12/status/1916394143452172701",
-          "publishedOn": "2025-04-27T07:29:03.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Binance Alpha 将首发 Haedal Protocol（HAEDAL），交易将于 4 月 29 日开启，具体时间待公布。Haedal 是一个基于 Sui 的流动性质押协议，允许任何人...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916382021070524509",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 @ai_9684xtpa 监测，自特朗普 TRUMP 晚宴计划宣布以来，九日内 TRUMP 代币表现亮眼：币安现货交易量增长 202%，单日交易额高达 9.4 亿美元；现货与合约 24 小时成交额达 27.82 亿美元，跻身 TOP3；DEX 成交额达 4.89 亿美元，TRUMP 币价累计上涨 94.6%，振幅达 112%。OKX 行情数据显示， TRUMP 现报 15.008 美元，过去 7 天涨幅 85.16%。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41567",
-          "link": "https://x.com/wublockchain12/status/1916382021070524509",
-          "publishedOn": "2025-04-27T06:40:53.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 @ai_9684xtpa 监测，自特朗普 TRUMP 晚宴计划宣布以来，九日内 TRUMP 代币表现亮眼：币安现货交易量增长 202%，单日交易额高达 9.4 亿美元；现货与...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916377775969042724",
-          "author": "吴说区块链",
-          "description": "吴说获悉，慢雾首席信息安全官 23pds 发推称，开源数据可视化工具 Grafana 最近疑似被攻击，攻击者使用 Gato-X 窃取机密的签名，用 App 令牌对多个代码库进行了攻击。这个工作流程有一个可能相关的应用程序私钥，疑似攻击者使用精心设计的分支名称，注入 JavaScript 代码并窃取机密信息。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41566",
-          "link": "https://x.com/wublockchain12/status/1916377775969042724",
-          "publishedOn": "2025-04-27T06:24:01.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，慢雾首席信息安全官 23pds 发推称，开源数据可视化工具 Grafana 最近疑似被攻击，攻击者使用 Gato-X 窃取机密的签名，用 App 令牌对多个代码库进行了...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916376743725961662",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Synthetix 官方宣布，根据 SCCP-403 提案，平台已完成向 420 质押池的过渡，旧版 SNX 质押仓位已按计划清算。若清算时抵押率≥160%，质押位可在 6 个月内恢复；低于 160% 的仓位已永久清算。此次升级为支持 Perps v4 永续合约、自动化 Vaults 等未来产品奠定基础。sUSD 质押奖励和新规则细节将于数周内公布，用户可申请参与测试。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41565",
-          "link": "https://x.com/wublockchain12/status/1916376743725961662",
-          "publishedOn": "2025-04-27T06:19:54.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Synthetix 官方宣布，根据 SCCP-403 提案，平台已完成向 420 质押池的过渡，旧版 SNX 质押仓位已按计划清算。若清算时抵押率≥160%，质押位可在 6 个...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916372838597927253",
-          "author": "吴说区块链",
-          "description": "Ripple 总裁 Monica Long 在接受采访时表示，Ripple 在 2025 年没有上市计划。Long 指出，公司现金储备充足，不需要通过 IPO 融资或提升知名度，CEO Brad Garlinghouse 也支持这一决定。此前，Ripple 已在今年以 113 亿美元估值回购部分股份，低于 2022 年的 150 亿美元估值，显示其维持独立发展的战略取向。（Finance Magnates ）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41564\n\n吴说区块链: Ripple 首席执行官布拉德·加林豪斯（Brad Garlinghouse）表示，他预计在 2025 年底之前，XRP 交易所交易基金（ETF）将会推出，同时 XRP 有望成为白宫提议的数字资产储备的一部分。同时，他也提到 Ripple Labs 上市（IPO）“是有可能的，但并不是当前的首要任务”。（CoinDesk）\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=39743",
-          "link": "https://x.com/wublockchain12/status/1916372838597927253",
-          "publishedOn": "2025-04-27T06:04:23.000Z",
-          "wordCount": null,
-          "title": "Ripple 总裁 Monica Long 在接受采访时表示，Ripple 在 2025 年没有上市计划。Long 指出，公司现金储备充足，不需要通过 IPO 融资或提升知名度，CEO Brad Garlin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916362667645702165",
-          "author": "吴说区块链",
-          "description": "美国证券交易委员会（SEC）委员兼加密资产工作组负责人 Hester Peirce 在 SEC“了解你的托管人”圆桌会议上表示，目前美国加密资产监管环境犹如在黑暗中玩“地板是熔岩”游戏，注册机构被迫在不明确规则下谨慎行事，避免直接接触加密资产。她指出，应尽快建立明确的合规通道，为加密资产托管和交易提供清晰指引，以推动健康市场发展。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41563",
-          "link": "https://x.com/wublockchain12/status/1916362667645702165",
-          "publishedOn": "2025-04-27T05:23:58.000Z",
-          "wordCount": null,
-          "title": "美国证券交易委员会（SEC）委员兼加密资产工作组负责人 Hester Peirce 在 SEC“了解你的托管人”圆桌会议上表示，目前美国加密资产监管环境犹如在黑暗中玩“地板...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916352400384004258",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Onchain Lens 监测，一位鲸鱼在持有超过两年后，解除了 17,481 枚 SOL（约 256.8 万美元）质押，并将其中 17,164 枚 SOL 转入 Kraken 交易所，317 枚 SOL 转至另一个钱包。该鲸鱼最初质押 15,277 枚 SOL（当时价值约 29.5 万美元），本次获利约 227 万美元。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41562",
-          "link": "https://x.com/wublockchain12/status/1916352400384004258",
-          "publishedOn": "2025-04-27T04:43:11.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 Onchain Lens 监测，一位鲸鱼在持有超过两年后，解除了 17,481 枚 SOL（约 256.8 万美元）质押，并将其中 17,164 枚 SOL 转入 Kraken 交易所，317 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1916337895201509703",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Kaito 创始人 Yu Hu 发推表示，团队在更新过程中，误将新算法回溯应用至过去 12 个月（L12M），导致 30 天、3 个月、6 个月和 12 个月等长期窗口的数据出现变化。目前正在回滚修正，预计需数小时完成。在此期间，前端显示的数据为部分更新状态，请勿视为最终结果，官方将在修正完成后发布正式更新。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41561",
-          "link": "https://x.com/wublockchain12/status/1916337895201509703",
-          "publishedOn": "2025-04-27T03:45:32.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Kaito 创始人 Yu Hu 发推表示，团队在更新过程中，误将新算法回溯应用至过去 12 个月（L12M），导致 30 天、3 个月、6 个月和 12 个月等长期窗口的数...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://x.com/8848community",
@@ -306,6 +149,173 @@
           "publishedOn": "2025-04-25T01:22:26.000Z",
           "wordCount": null,
           "title": "再次验证 $SSE ，冲击 $9.3M 鲸鱼 6 小时拉一次盘， 目前账上还有 20 万U 分两天，全仓干进去后，应该就会做市场营销了。 CA： H4phNbsqjV5rqk8u6FUACTLB6rNZRTA...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1913325511113158925",
+          "author": "DeFi Educator",
+          "description": "RT nick.eth\nRecently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Google's infrastructure, and given their refusal to fix it, we're likely to see it a lot more. Here's the email I got:",
+          "link": "https://x.com/DeFi_educator/status/1913325511113158925",
+          "publishedOn": "2025-04-16T09:32:49.000Z",
+          "wordCount": null,
+          "title": "RT nick.eth: Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Go...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910918532029612308",
+          "author": "DeFi Educator",
+          "description": "RT Hiruni Liyanage\nUS data scientists are so cooked right now. they can't import  pandas anymore",
+          "link": "https://x.com/DeFi_educator/status/1910918532029612308",
+          "publishedOn": "2025-04-11T09:30:36.000Z",
+          "wordCount": null,
+          "title": "RT Hiruni Liyanage: US data scientists are so cooked right now. they can't import pandas anymore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910500745218039853",
+          "author": "DeFi Educator",
+          "description": "RT Andreas Steno Larsen\nRe Shown here..",
+          "link": "https://x.com/DeFi_educator/status/1910500745218039853",
+          "publishedOn": "2025-04-10T20:18:24.000Z",
+          "wordCount": null,
+          "title": "RT Andreas Steno Larsen: Re Shown here..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910500727606100119",
+          "author": "DeFi Educator",
+          "description": "RT Andreas Steno Larsen\nGrowth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US\nThis is a credibility issue",
+          "link": "https://x.com/DeFi_educator/status/1910500727606100119",
+          "publishedOn": "2025-04-10T20:16:43.000Z",
+          "wordCount": null,
+          "title": "RT Andreas Steno Larsen: Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US This is a credibility issue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910141268778156391",
+          "author": "DeFi Educator",
+          "description": "RT Spencer Hakimian\nRound of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the Great Depression. \nWe will not forget your sacrifice brother 🫡",
+          "link": "https://x.com/DeFi_educator/status/1910141268778156391",
+          "publishedOn": "2025-04-09T21:11:11.000Z",
+          "wordCount": null,
+          "title": "RT Spencer Hakimian: Round of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the G...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910043660676219358",
+          "author": "DeFi Educator",
+          "description": "This is pure gold\n\n\nLookonchain: Has Trump's World Liberty(@worldlibertyfi) started selling $ETH at a loss?\nAccording to Arkham, a wallet possibly linked to #WorldLiberty sold 5,471 $ETH($8.01M) at $1,465 30 minutes ago.\n#WorldLiberty previously spent ~$210M to buy 67,498 $ETH at an average price of $3,259,",
+          "link": "https://x.com/DeFi_educator/status/1910043660676219358",
+          "publishedOn": "2025-04-09T18:54:30.000Z",
+          "wordCount": null,
+          "title": "This is pure gold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910045713708220741",
+          "author": "DeFi Educator",
+          "description": "RT intern ⨀\ntraditional finance losing their minds with these market swings\ncrypto traders experience this every 3 months\nyears and years of mental illness inducing volatility finally paying off",
+          "link": "https://x.com/DeFi_educator/status/1910045713708220741",
+          "publishedOn": "2025-04-09T18:28:53.000Z",
+          "wordCount": null,
+          "title": "RT intern ⨀: traditional finance losing their minds with these market swings crypto traders experience this every 3 months years and years of mental ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1909308988707000548",
+          "author": "DeFi Educator",
+          "description": "RT Lyn Alden\nThe most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in stocks.",
+          "link": "https://x.com/DeFi_educator/status/1909308988707000548",
+          "publishedOn": "2025-04-07T15:33:51.000Z",
+          "wordCount": null,
+          "title": "RT Lyn Alden: The most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in sto...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1909361654456107283",
+          "author": "DeFi Educator",
+          "description": "RT Justin.eth Drake\nToday's a good day to remember why we're here.\nWe're building the future of finance—internet finance.\nUnstoppable global free trade, not trade wars.\nCredible neutrality, not entrenched interests.\nPermissionless innovation, not bureaucracy.\nUndebasable money, not money printers.\nSovereign individuals, not intermediaries.\nA multi-decade vision, not 4-year cycles.\nThe internet, not imperial superpowers.\nPositive-sum games, not rent-seeking.\nPeaceful revolutions, not warmongers.\nCryptography, not aircraft carriers.\nNetwork effects, not isolationism.\nFairness by design, not cronyism.\nOpen competition, not oligopoly.\nNetwork states, not nationalism.\nFrictionless markets, not tariffs.\nInnovators, not lobbyists.\nBuilders, not lawyers.\nDevs, not politicians.\nInternet finance is coming. It's built different. Believe in something.",
+          "link": "https://x.com/DeFi_educator/status/1909361654456107283",
+          "publishedOn": "2025-04-07T10:26:28.000Z",
+          "wordCount": null,
+          "title": "RT Justin.eth Drake: Today's a good day to remember why we're here. We're building the future of finance—internet finance. Unstoppable global free tr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1909364327443837305",
+          "author": "DeFi Educator",
+          "description": "RT Not Jerome Powell\nWho did this?",
+          "link": "https://x.com/DeFi_educator/status/1909364327443837305",
+          "publishedOn": "2025-04-07T01:18:08.000Z",
+          "wordCount": null,
+          "title": "RT Not Jerome Powell: Who did this?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1908314439671042128",
+          "author": "DeFi Educator",
+          "description": "RT TradingView\nDon't even open TradingView today.",
+          "link": "https://x.com/DeFi_educator/status/1908314439671042128",
+          "publishedOn": "2025-04-04T19:43:50.000Z",
+          "wordCount": null,
+          "title": "RT TradingView: Don't even open TradingView today.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1907929534080716947",
+          "author": "DeFi Educator",
+          "description": "🎯\n\nRes: Yields are down, that's all they care about. Tariffs are a theatre\n30% of the debt is set to mature within the next 12 months\nthat’s ≈ $10 trillion that will need to be rolled over in the near-term after a huge issuance post-pandemic\nAnd they want those yields much lower",
+          "link": "https://x.com/DeFi_educator/status/1907929534080716947",
+          "publishedOn": "2025-04-03T22:53:43.000Z",
+          "wordCount": null,
+          "title": "🎯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1907587601403359568",
+          "author": "DeFi Educator",
+          "description": "Watcher.Guru: JUST IN: $300,000,000 liquidated from the cryptocurrency market in the past 4 hours.",
+          "link": "https://x.com/DeFi_educator/status/1907587601403359568",
+          "publishedOn": "2025-04-03T00:15:00.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1907572727633916212",
+          "author": "DeFi Educator",
+          "description": "RT ☉rthonormalist🧭✡️\nDID I CRACK IT?\nI think I figured out at least a chunk of the math.\nIt's trade deficit divided by their exports.\nEU: exports 531.6, imports 333.4, deficit 198.2. 198.2/531.6 is 37, close to 39.\nIsrael: exports 22.2, imports 14.8, deficit 7.4. 7.4/22.2 is 33.\n\nRapid Response 47: FULL LIST: Liberation Day",
+          "link": "https://x.com/DeFi_educator/status/1907572727633916212",
+          "publishedOn": "2025-04-02T21:26:46.000Z",
+          "wordCount": null,
+          "title": "RT ☉rthonormalist🧭✡️: DID I CRACK IT? I think I figured out at least a chunk of the math. It's trade deficit divided by their exports. EU: expor...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1907545556202958894",
+          "author": "DeFi Educator",
+          "description": "RT The Kobeissi Letter\nBREAKING: The White House publishes an even larger list of US tariffs than initially shown at the \"Make America Wealth Again Event.\"\nWe have included the full list in the thread below with ALL countries worldwide being tariffed.",
+          "link": "https://x.com/DeFi_educator/status/1907545556202958894",
+          "publishedOn": "2025-04-02T21:10:56.000Z",
+          "wordCount": null,
+          "title": "RT The Kobeissi Letter: BREAKING: The White House publishes an even larger list of US tariffs than initially shown at the \"Make America Wealth Again E...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1907552736775909545",
+          "author": "DeFi Educator",
+          "description": "RT TheLastBearStanding\nNever has wealth in the U.S. been so reliant on the market. What happens if it goes down?\nAnd for those already experiencing recessionary conditions, does it matter?\nWith @Citrini7: The wealth-effect recession and how to trade it: Haves vs. Have Nots.\nhttps://www.thelastbearstanding.com/p/haves-vs-have-nots",
+          "link": "https://x.com/DeFi_educator/status/1907552736775909545",
+          "publishedOn": "2025-03-30T23:08:40.000Z",
+          "wordCount": null,
+          "title": "RT TheLastBearStanding: Never has wealth in the U.S. been so reliant on the market. What happens if it goes down? And for those already experiencing r...",
           "imageUrl": null
         }
       ]
