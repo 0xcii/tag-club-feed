@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T23:16:16.041Z</id>
+    <id>urn:2025-05-05T01:27:29.180Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-04T23:16:16.041Z</updated>
+    <updated>2025-05-05T01:27:29.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#AI 近两天上线的一个APP挺火，叫狗语翻译，据说准确率达到百分之85 。 可以通过 AI 帮助你完成与狗的对话沟通。 有狗狗的朋友可以去试试，叫traini 链接： http...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919200574454857846</id>
+        <link href="https://x.com/AntCaveClub/status/1919200574454857846"/>
+        <updated>2025-05-05T01:20:48.000Z</updated>
+        <summary type="html"><![CDATA[#AI  近两天上线的一个APP挺火，叫狗语翻译，据说准确率达到百分之85 。
+可以通过 AI 帮助你完成与狗的对话沟通。
+有狗狗的朋友可以去试试，叫traini 链接：
+https://traini.app]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Chain Talk Daily: GM]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919178231107723316</id>
+        <link href="https://x.com/AntCaveClub/status/1919178231107723316"/>
+        <updated>2025-05-04T21:54:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Chain Talk Daily
+GM]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Elon Musk 发推称 “sup @gork”，并表示已将头像更换为对方的头像，询问其看法。受此影响，Solana 链上的 meme 币 gork 短时上涨约 70%。https://www...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1919093180969959663</id>
+        <link href="https://x.com/wublockchain12/status/1919093180969959663"/>
+        <updated>2025-05-04T18:14:04.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Elon Musk 发推称 “sup @gork”，并表示已将头像更换为对方的头像，询问其看法。受此影响，Solana 链上的 meme 币 gork 短时上涨约 70%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41932]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据《金融时报》，马尔代夫政府与总部位于迪拜的 MBS Global Investments 签署合资协议，计划在马累建设一个总投资 88 亿美元的区块链与数字资产金融中心，政府希...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1919078214783434833</id>
+        <link href="https://x.com/wublockchain12/status/1919078214783434833"/>
+        <updated>2025-05-04T17:14:35.000Z</updated>
+        <summary type="html"><![CDATA[据《金融时报》，马尔代夫政府与总部位于迪拜的 MBS Global Investments 签署合资协议，计划在马累建设一个总投资 88 亿美元的区块链与数字资产金融中心，政府希望借此项目推动经济从旅游和渔业转型。MBS 是卡塔尔富豪 Sheikh Nayef bin Eid Al Thani 的家族办公室，目前已获得超过 40 至 50 亿美元的初步资金承诺。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41931]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《剖析 VOXEL 事件中的高频印钞算法：做市商如何巨额获利？》（作者 @Boywus）文章以 Bitget 的 VOXEL/USDT 事件中获利 4300 万美元的算法为例，拆解了基于 LEAD...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1919032413721661641</id>
+        <link href="https://x.com/wublockchain12/status/1919032413721661641"/>
+        <updated>2025-05-04T14:12:35.000Z</updated>
+        <summary type="html"><![CDATA[《剖析 VOXEL 事件中的高频印钞算法：做市商如何巨额获利？》（作者 @Boywus）文章以 Bitget 的 VOXEL/USDT 事件中获利 4300 万美元的算法为例，拆解了基于 LEAD-LAG 衍生分支的高频交易策略，介绍其理论基础、核心参数（如 TTL、basis、delta）及简化交易流程，通过假设市场价格变化演示操作逻辑，指出该策略存在拉高撤单率、易触发风控等风险，需低延迟服务器等条件；并以 4 月 20 日 VOXEL 事件为例，说明当时 Bitget 上做市商参数设置错误，使此策略可利用 Binance 指导价格实现低买高卖获利。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41930]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿企 Bit Digital 申请通过“市场即时报价发行”（ATM）方式融资最高达 5 亿美元，超出其当前 4.29 亿美元市值，拟用于扩展高性能计算和云服务业务。资金...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1919013486861926514</id>
+        <link href="https://x.com/wublockchain12/status/1919013486861926514"/>
+        <updated>2025-05-04T12:57:23.000Z</updated>
+        <summary type="html"><![CDATA[比特币矿企 Bit Digital 申请通过“市场即时报价发行”（ATM）方式融资最高达 5 亿美元，超出其当前 4.29 亿美元市值，拟用于扩展高性能计算和云服务业务。资金将用于矿机与云服务设备支出、运营资金及潜在并购。（The Miner Mag）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41929]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《链新闻专访 CryptoD：链上交易员如何决定出手与离场？ 》CryptoD 通常一天会在电脑前 15 小时左右，把全部的注意力都放在链上与社群。早期的扫链可能只是盯着...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918997716140441875</id>
+        <link href="https://x.com/wublockchain12/status/1918997716140441875"/>
+        <updated>2025-05-04T11:54:43.000Z</updated>
+        <summary type="html"><![CDATA[《链新闻专访 CryptoD：链上交易员如何决定出手与离场？ 》CryptoD 通常一天会在电脑前 15 小时左右，把全部的注意力都放在链上与社群。早期的扫链可能只是盯着新 CA，现在的扫链还包括过滤社群里的聊天内容、刷推特资讯，甚至建立和维护一个属于自己的聪明钱包资料库。在海量讯息中抽丝剥茧，找出真正有用的部分。核心是找出具备「出圈」潜力或能引发情绪共鸣的叙事，能够吸引 web2 玩家注意并进场的叙事。建立自己的聪明钱包资料库时，会针对每个地址进行分类，这有助于我在扫链时更快判断叙事的真实性与潜力。找叙事角度这件事，有部分是天赋。有些人天生就比较幽默、观察力独到，总能先看到市场哪些标的有潜力。止盈绝对是一门大学问。对新手来说，一律建议翻倍出本。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41928]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#空投硬撸 本来觉得空投太小， 没什么发的必要。 结果 $JAGER 今天涨了 300% 单号符合条件的话， 收益在： 10U - 80U 不等 大部分日常用的钱包，基本都符合条件...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1918982955709661329</id>
@@ -20,6 +94,87 @@
 https://jager.meme?invitor=0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《律师探访香港加密货 OTC 找换店与思考》（作者 刘红林）红林律师周末在香港湾仔海富中心探店加密货币 OTC 找换店，发现这里位置特殊，周边是政治经济核心区，...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918964107283148985</id>
+        <link href="https://x.com/wublockchain12/status/1918964107283148985"/>
+        <updated>2025-05-04T09:41:10.000Z</updated>
+        <summary type="html"><![CDATA[《律师探访香港加密货 OTC 找换店与思考》（作者 刘红林）红林律师周末在香港湾仔海富中心探店加密货币 OTC 找换店，发现这里位置特殊，周边是政治经济核心区，商场内却有众多相关店铺。这些店铺反映出 USDT 在 OTC 市场的核心地位、产业链化的现状，以及香港在该行业合规与灰色并存、KYC 和 AML 标准不一的情况，显示出 Web3 已渗透进生活，加密资产市场背后是真实的商业需求和资金流动。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=41926]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说项目周精选：World 在美国启动；Aave 拟拨款 600 万美元回购；币安第 17 个 HODLer Airdrops 项目 StakeStone ；Base 达到 Rollup 去中心化第 1 阶段。 http...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918932843595550896</id>
+        <link href="https://x.com/wublockchain12/status/1918932843595550896"/>
+        <updated>2025-05-04T07:36:56.000Z</updated>
+        <summary type="html"><![CDATA[吴说项目周精选：World 在美国启动；Aave 拟拨款 600 万美元回购；币安第 17 个 HODLer Airdrops 项目 StakeStone ；Base 达到 Rollup 去中心化第 1 阶段。
+https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41925]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 IBTimes，法国警方周末突袭解救一名在巴黎遭绑架两天的男子，绑匪试图向其加密富豪儿子勒索 500 万至 700 万欧元赎金。消息称该男子一根手指被砍断...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918925353290256727</id>
+        <link href="https://x.com/wublockchain12/status/1918925353290256727"/>
+        <updated>2025-05-04T07:07:10.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 IBTimes，法国警方周末突袭解救一名在巴黎遭绑架两天的男子，绑匪试图向其加密富豪儿子勒索 500 万至 700 万欧元赎金。消息称该男子一根手指被砍断，若非及时营救恐遭更严重伤害。警方在巴黎郊区埃松省成功解救人质并逮捕四人。该受害人曾与其儿子共同经营马耳他加密公司。案件与 1 月涉及 Ledger 联合创始人的绑架案高度相似，后者同样遭受残害并被索要巨额赎金。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41924]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 CloverPool 数据，比特币网络于 2025-05-04 05:00:13（区块高度 895,104）完成新一轮难度调整，难度值下调 3.34% 至 119.12 T。当前比特币网络平均...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918906861329195317</id>
+        <link href="https://x.com/wublockchain12/status/1918906861329195317"/>
+        <updated>2025-05-04T05:53:41.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 CloverPool 数据，比特币网络于 2025-05-04 05:00:13（区块高度 895,104）完成新一轮难度调整，难度值下调 3.34% 至 119.12 T。当前比特币网络平均算力为 886.18 EH/s。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41923]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，Binance 宣布与吉尔吉斯坦国家投资局签署合作备忘录（MoU），重点包括通过 Binance Pay 推出加密支付选项。双方将围绕教育培训、法律框架、人才发展及...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918897535474868658</id>
+        <link href="https://x.com/wublockchain12/status/1918897535474868658"/>
+        <updated>2025-05-04T05:16:38.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，Binance 宣布与吉尔吉斯坦国家投资局签署合作备忘录（MoU），重点包括通过 Binance Pay 推出加密支付选项。双方将围绕教育培训、法律框架、人才发展及反洗钱机制展开合作。Binance 表示，此举体现其推进全球合规与推动加密普及的长期战略。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41921]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，链游生态系统 Treasure DAO 联合创始人@smoldev__ 发文称，Treasure 已将其 USDC 资金链延长至 2026 年秋季，其中不包括正在恢复的 MAGIC 财库券。更...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918897059186499587</id>
+        <link href="https://x.com/wublockchain12/status/1918897059186499587"/>
+        <updated>2025-05-04T05:14:44.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，链游生态系统 Treasure DAO 联合创始人@smoldev__ 发文称，Treasure 已将其 USDC 资金链延长至 2026 年秋季，其中不包括正在恢复的 MAGIC 财库券。更多信息将于周一的季度报告中公布。此前，Treasure DAO 首席贡献者 John 发布视频表示，Treasure DAO 因财务状况恶化面临重组，将终止游戏运营与 Treasure Chain。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41922]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉， 据 @ai_9684xtpa 监测，疑似 AIOT 庄家地址再次小额建仓，花费 11.27 BNB 买入 6734 枚 AIOT 并调整 LP。挂出多个单边限价卖单，价格区间分别为 [1.1...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918873272315424813</id>
+        <link href="https://x.com/wublockchain12/status/1918873272315424813"/>
+        <updated>2025-05-04T03:40:13.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉， 据 @ai_9684xtpa 监测，疑似 AIOT 庄家地址再次小额建仓，花费 11.27 BNB 买入 6734 枚 AIOT 并调整 LP。挂出多个单边限价卖单，价格区间分别为 [1.1906, 1.2097] 美元（93 万枚）、[1.2897, 1.3096] 美元（105 万枚）、[1.3901, 1.4099] 美元（83.5 万枚）。同时，Binance AIOT 合约首次出现资金负费率，做空仓位增多，用户需关注风险。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41920]]></summary>
+        <author>
+            <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，「2015 年 ICO 7.6 万枚 ETH 巨鲸」的某相关地址在过去 14 小时向 Kraken 充值 2500 枚 ETH，约 459 万美元，成本低至 0.31 美...]]></title>
+        <id>https://twitter.com/wublockchain12/status/1918872166256251094</id>
+        <link href="https://x.com/wublockchain12/status/1918872166256251094"/>
+        <updated>2025-05-04T03:35:50.000Z</updated>
+        <summary type="html"><![CDATA[吴说获悉，据 @ai_9684xtpa 监测，「2015 年 ICO 7.6 万枚 ETH 巨鲸」的某相关地址在过去 14 小时向 Kraken 充值 2500 枚 ETH，约 459 万美元，成本低至 0.31 美元。该关联地址还持有 13500 枚 ETH，或将在近期抛售。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41919]]></summary>
+        <author>
+            <name>吴说区块链</name>
         </author>
     </entry>
     <entry>
@@ -289,45 +444,6 @@ Axiom 成立于 2024 年，是一个由 Y-Combinator 支持的交易平台，其
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还有一件事情 当你发现一个简单的事实时，生活会变得更加广阔——那就是： 你周围所有你称之为生活的事物，都是由并不比你聪明的人创造的。 你可以改变它。 你可...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1918449056600494333</id>
-        <link href="https://x.com/AntCaveClub/status/1918449056600494333"/>
-        <updated>2025-05-02T23:34:32.000Z</updated>
-        <summary type="html"><![CDATA[还有一件事情
-当你发现一个简单的事实时，生活会变得更加广阔——那就是：
-你周围所有你称之为生活的事物，都是由并不比你聪明的人创造的。
-你可以改变它。
-你可以影响它。
-你可以构建你自己的东西供其他人使用。
-当你意识到你可以影响生活，只要你努力推动，就会有所收获；
-你可以改变它，塑造它——这或许是最重要的事情：
-摒弃那种错误的观念，认为生活只是被动接受，而不是主动拥抱、改变、改善，并在其中留下你的印记。
-我认为这非常重要，无论你通过什么方式学到这一点，一旦你学会了，你就会想要改变生活，让它变得更好。
-因为现在的生活在很多方面都有些混乱。
-一旦你学会了这一点，你就再也和以前不同了。
-—史蒂夫，1994 年]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#空投硬撸 零撸， 你什么资金都不用付出， 就是点鼠标： http://testnet.humanity.org/login?ref=0xcii Humanity 拿到了大额融资 + 明确表示 $RWT 可兑换空投代...]]></title>
-        <id>https://twitter.com/AntCaveClub/status/1918315305488826762</id>
-        <link href="https://x.com/AntCaveClub/status/1918315305488826762"/>
-        <updated>2025-05-02T14:43:04.000Z</updated>
-        <summary type="html"><![CDATA[#空投硬撸
-零撸， 你什么资金都不用付出， 就是点鼠标：
-http://testnet.humanity.org/login?ref=0xcii
-Humanity 拿到了大额融资 + 明确表示 $RWT 可兑换空投代币
-拿多拿少点区别。 可尝试。
-马上要发币了 ， 不久将提供 $RWT 兑换 $HP
-$HP 就是最终的空投代币。
-完成社交认证后，还能多拿 60% 奖励！]]></summary>
-        <author>
-            <name>链求君 🔥</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT nextbigtrade: Refusing to believe in the rally was present in the 2020 market as well, except this time there's more bears.]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1918649678490468830</id>
         <link href="https://x.com/DeFiSurfer808/status/1918649678490468830"/>
@@ -440,6 +556,25 @@ Anyone who believes in the "blank slate" lie would try to solve this problem by 
 This lie is the primary reason that the world is collapsing. High-IQ people hav…]]></summary>
         <author>
             <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT L0la L33tz: If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that "unhosted wallets" are what ena...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1917625297706324115</id>
+        <link href="https://x.com/DeFi_educator/status/1917625297706324115"/>
+        <updated>2025-04-29T13:39:02.000Z</updated>
+        <summary type="html"><![CDATA[RT L0la L33tz
+If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that "unhosted wallets" are what enable cartels to launder money through cryptocurrencies?
+Or could it be that the actual problem is that cartels still somehow manage to deposit their cash in the financial system, despite extensive AML/CFT frameworks imposed on banks?
+And if these frameworks are already exploited by cartels, can you outline precisely how imposing these same AML/CFT regulations on "unhosted wallets" would stop cartels from exploiting them – and not just impose unproportionate burdens on the average user?
+Given what Elliptic has outlined in their newest report, lawmakers should be extremely wary of relying on for-profit marketing materials to inform their decisions, and keep in mind that the expansion of AML/CFT frameworks to "unhosted wallets" would drastically enlarge such firms' addressable market, constituting a clear profit motive – while likely doing nothing to stop actual crime.
+
+
+The Rage: A new report by the Blockchain Surveillance firm Elliptic showcases how cartels exploit deficiencies in current AML/CFT frameworks, raising the question whether "unhosted wallets" are really the problem.
+Full story 👇
+https://www.therage.co/new-elliptic-report-are-unhosted-wallets-really-the-problem/]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -626,6 +761,17 @@ Donald Trump Approval Rating Average By Age Per RCP
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT nick.eth: Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Go...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1913325511113158925</id>
+        <link href="https://x.com/DeFi_educator/status/1913325511113158925"/>
+        <updated>2025-04-16T09:32:49.000Z</updated>
+        <summary type="html"><![CDATA[RT nick.eth
+Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Google's infrastructure, and given their refusal to fix it, we're likely to see it a lot more. Here's the email I got:]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC slips 3% to $83k on $NVDA China ban OTHERS dominance hits lowest level since 2021 Trenches are kinda...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1912388041764728856</id>
         <link href="https://x.com/OnChainWizard/status/1912388041764728856"/>
@@ -641,6 +787,40 @@ Chart of the day with @vertex_protocol]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Hiruni Liyanage: US data scientists are so cooked right now. they can't import pandas anymore]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910918532029612308</id>
+        <link href="https://x.com/DeFi_educator/status/1910918532029612308"/>
+        <updated>2025-04-11T09:30:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Hiruni Liyanage
+US data scientists are so cooked right now. they can't import  pandas anymore]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Andreas Steno Larsen: Re Shown here..]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910500745218039853</id>
+        <link href="https://x.com/DeFi_educator/status/1910500745218039853"/>
+        <updated>2025-04-10T20:18:24.000Z</updated>
+        <summary type="html"><![CDATA[RT Andreas Steno Larsen
+Re Shown here..]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Andreas Steno Larsen: Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US This is a credibility issue]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910500727606100119</id>
+        <link href="https://x.com/DeFi_educator/status/1910500727606100119"/>
+        <updated>2025-04-10T20:16:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Andreas Steno Larsen
+Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US
+This is a credibility issue]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...]]></title>
         <id>https://twitter.com/OnChainWizard/status/1910190689901490482</id>
         <link href="https://x.com/OnChainWizard/status/1910190689901490482"/>
@@ -652,6 +832,46 @@ Onchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $
 Trenches also caught a runner in $cryptoai to $6mm]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Spencer Hakimian: Round of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the G...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910141268778156391</id>
+        <link href="https://x.com/DeFi_educator/status/1910141268778156391"/>
+        <updated>2025-04-09T21:11:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Spencer Hakimian
+Round of applause to the Japanese hedge fund that was 60x levered 10Y UST’s that blew up last night to save the world from the Great Depression. 
+We will not forget your sacrifice brother 🫡]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is pure gold]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910043660676219358</id>
+        <link href="https://x.com/DeFi_educator/status/1910043660676219358"/>
+        <updated>2025-04-09T18:54:30.000Z</updated>
+        <summary type="html"><![CDATA[This is pure gold
+
+
+Lookonchain: Has Trump's World Liberty(@worldlibertyfi) started selling $ETH at a loss?
+According to Arkham, a wallet possibly linked to #WorldLiberty sold 5,471 $ETH($8.01M) at $1,465 30 minutes ago.
+#WorldLiberty previously spent ~$210M to buy 67,498 $ETH at an average price of $3,259,]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT intern ⨀: traditional finance losing their minds with these market swings crypto traders experience this every 3 months years and years of mental ...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1910045713708220741</id>
+        <link href="https://x.com/DeFi_educator/status/1910045713708220741"/>
+        <updated>2025-04-09T18:28:53.000Z</updated>
+        <summary type="html"><![CDATA[RT intern ⨀
+traditional finance losing their minds with these market swings
+crypto traders experience this every 3 months
+years and years of mental illness inducing volatility finally paying off]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
     <entry>
@@ -670,6 +890,59 @@ Other onch strength incl. $house, $RFC, $PVS and $buttcoin
 @mETHProtocol Methamorphosis Season 3 is Live!]]></summary>
         <author>
             <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Lyn Alden: The most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in sto...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1909308988707000548</id>
+        <link href="https://x.com/DeFi_educator/status/1909308988707000548"/>
+        <updated>2025-04-07T15:33:51.000Z</updated>
+        <summary type="html"><![CDATA[RT Lyn Alden
+The most notable thing in today's market isn't what's happening in stocks, it's that bond yields went up despite what's happening in stocks.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Justin Drake: Today's a good day to remember why we're here. We're building the future of finance—internet finance. Unstoppable global free trade,...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1909361654456107283</id>
+        <link href="https://x.com/DeFi_educator/status/1909361654456107283"/>
+        <updated>2025-04-07T10:26:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Justin Drake
+Today's a good day to remember why we're here.
+We're building the future of finance—internet finance.
+Unstoppable global free trade, not trade wars.
+Credible neutrality, not entrenched interests.
+Permissionless innovation, not bureaucracy.
+Undebasable money, not money printers.
+Sovereign individuals, not intermediaries.
+A multi-decade vision, not 4-year cycles.
+The internet, not imperial superpowers.
+Positive-sum games, not rent-seeking.
+Peaceful revolutions, not warmongers.
+Cryptography, not aircraft carriers.
+Network effects, not isolationism.
+Fairness by design, not cronyism.
+Open competition, not oligopoly.
+Network states, not nationalism.
+Frictionless markets, not tariffs.
+Innovators, not lobbyists.
+Builders, not lawyers.
+Devs, not politicians.
+Internet finance is coming. It's built different. Believe in something.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Not Jerome Powell: Who did this?]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1909364327443837305</id>
+        <link href="https://x.com/DeFi_educator/status/1909364327443837305"/>
+        <updated>2025-04-07T01:18:08.000Z</updated>
+        <summary type="html"><![CDATA[RT Not Jerome Powell
+Who did this?]]></summary>
+        <author>
+            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
