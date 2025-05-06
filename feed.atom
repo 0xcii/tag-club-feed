@@ -1,101 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T08:24:51.585Z</id>
+    <id>urn:2025-05-06T09:19:44.549Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-06T08:24:51.585Z</updated>
+    <updated>2025-05-06T09:19:44.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Base 网络发射器 Clanker 团队 Jack Dishman 表示，已意识到 proxystudio 在此前工作期间的不良行为信息，Clanker 团队决定与其分道扬镳；Clanker 的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919620977115463895</id>
-        <link href="https://x.com/wublockchain12/status/1919620977115463895"/>
-        <updated>2025-05-06T05:11:20.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Base 网络发射器 Clanker 团队 Jack Dishman 表示，已意识到 proxystudio 在此前工作期间的不良行为信息，Clanker 团队决定与其分道扬镳；Clanker 的运营和资产不受这一情况影响，并正在实施即时过度计划，多签所有者已更新。Clanker 由 Jack Dishman 和 proxystudio 共同推出。Aerodrome 创始人 Alex Cutler 近期在参与 FarCon 线下活动时认出 proxystudio 为 Gabagool，而 Gabagool 在 Velodrome 工作期间盗取了约 35 万美元的团队资金，尽管后来迫于压力而归还。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42003]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Blockworks Research 数据，在过去 5 个月，Aptos 的应用收入增长了超过 30 倍，现在每周的累计收入约为 15 万美元；Aptos 的应用收入有超过一半来...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919614568416084302</id>
-        <link href="https://x.com/wublockchain12/status/1919614568416084302"/>
-        <updated>2025-05-06T04:45:52.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Blockworks Research 数据，在过去 5 个月，Aptos 的应用收入增长了超过 30 倍，现在每周的累计收入约为 15 万美元；Aptos 的应用收入有超过一半来自于 DEX，如 Thala 和 Cellana；过去一年中，Chingari 和 Tevi 等消费者应用是 Aptos 上 Gas 消耗、交易和钱包的前三贡献者；自去年 11 月以来，Aptos 稳定币供应量增长超过 4 倍，以 USDC 为主；下次解锁时间为 5 月 12 日，大约有 1,600 万枚 APT 将进入流通供应量；自今年 3 月以来，CEX 中的 APT 余额有所增加，Upbit、Binance 和 Bybit 位居前列。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42002]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛罗里达州两项加密货币法案（HB 487 和 SB 550）于 5 月 3 日被 " 无限期搁置并撤回 "。这两项法案原本计划允许该州将最多 10% 的州基金投资于比特币，但在 5 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919611263744934019</id>
-        <link href="https://x.com/wublockchain12/status/1919611263744934019"/>
-        <updated>2025-05-06T04:32:44.000Z</updated>
-        <summary type="html"><![CDATA[佛罗里达州两项加密货币法案（HB 487 和 SB 550）于 5 月 3 日被 " 无限期搁置并撤回 "。这两项法案原本计划允许该州将最多 10% 的州基金投资于比特币，但在 5 月 2 日立法会议结束时未获通过。目前，包括怀俄明、南达科他等多个美国州的类似法案均未能成功通过立法程序。（Cointelegraph）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42001]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 支持者认为现有限制无效、可绕过，移除限制能回归早期设计、降低网络负担、增加矿工收入；反对者则担心非交易数据挤占区块空间、推高交易费用。双方观点存在...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919606082957410374</id>
-        <link href="https://x.com/wublockchain12/status/1919606082957410374"/>
-        <updated>2025-05-06T04:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Re 支持者认为现有限制无效、可绕过，移除限制能回归早期设计、降低网络负担、增加矿工收入；反对者则担心非交易数据挤占区块空间、推高交易费用。双方观点存在理念差异，该提案可能增加矿工收入但也会影响普通用户，矿工态度不一。若提案通过，用户可选择更严格的客户端，同时也应重新审视 Bitcoin Core 的角色 。阅读全文：https://mp.weixin.qq.com/s/6HIdydJ85CP1t13qOlk8fw]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《比特币争议提案：OP_RETURN 数据限制 回归自由还是加剧拥堵？》近期，Bitcoin Core 提案 “取消 OP_RETURN 数据限制” 引发争议。OP_RETURN 是比特币脚本操作...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919606017827999779</id>
-        <link href="https://x.com/wublockchain12/status/1919606017827999779"/>
-        <updated>2025-05-06T04:11:53.000Z</updated>
-        <summary type="html"><![CDATA[《比特币争议提案：OP_RETURN 数据限制 回归自由还是加剧拥堵？》近期，Bitcoin Core 提案 “取消 OP_RETURN 数据限制” 引发争议。OP_RETURN 是比特币脚本操作码，用于在交易中嵌入数据，当前默认限制为 80 字节，大于 83 字节的交易传播受限。]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankr 宣布其 Web3 API 平台已正式集成基于 OpenAPI 规范的开发工具套件 Swagger UI，为开发者提供可脚本化、自动化的 Web3 开发环境。用户可通过 API 密钥、授权...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919603197292790028</id>
-        <link href="https://x.com/wublockchain12/status/1919603197292790028"/>
-        <updated>2025-05-06T04:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Ankr 宣布其 Web3 API 平台已正式集成基于 OpenAPI 规范的开发工具套件 Swagger UI，为开发者提供可脚本化、自动化的 Web3 开发环境。用户可通过 API 密钥、授权等步骤快速接入，实现 CI/CD 和后端流程自动化。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42000]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 5 月 5 日）九支以太坊现货 ETF 全天无一净流入或净流出，呈现零变动状态。截至发稿前，以太坊现货 ETF 总资产净...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919601936061386816</id>
-        <link href="https://x.com/wublockchain12/status/1919601936061386816"/>
-        <updated>2025-05-06T03:55:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 5 月 5 日）九支以太坊现货 ETF 全天无一净流入或净流出，呈现零变动状态。截至发稿前，以太坊现货 ETF 总资产净值为 63.08 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.89%，历史累计净流入已达 25.08 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41999]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 5 月 5 日）比特币现货 ETF 总净流入 4.25 亿美元，持续 3 日净流入。昨日单日净流入最多的比特币现货 ETF 为贝莱...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919600729884652000</id>
-        <link href="https://x.com/wublockchain12/status/1919600729884652000"/>
-        <updated>2025-05-06T03:50:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 SoSoValue 数据，昨日（美东时间 5 月 5 日）比特币现货 ETF 总净流入 4.25 亿美元，持续 3 日净流入。昨日单日净流入最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流入为 5.31 亿美元，目前 IBIT 历史总净流入达 442.12 亿美元。 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41998]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @TKVResearch 数据面板，Virtual Genesis Launch 在 5 月 5 日交易笔数达 2,274 笔，活跃地址数达 1,910 个，均创下历史新高。自推出两周多以来，V...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919597004218630469</id>
-        <link href="https://x.com/wublockchain12/status/1919597004218630469"/>
-        <updated>2025-05-06T03:36:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @TKVResearch 数据面板，Virtual Genesis Launch 在 5 月 5 日交易笔数达 2,274 笔，活跃地址数达 1,910 个，均创下历史新高。自推出两周多以来，Virtual Genesis Launch 总交易笔数达 18.9k，总地址数达 8.3k，总 Committed 数达 77.59 万 VIRTUAL，其中在 5 月 5 日净流入创新高达 25.93 万 VIRTUAL。Virtual Genesis Launch 是新推出的通过奖励贡献者而非投机者的代币发行系统。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41997]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[RT 链求君 🔥: 说说 @SonicSVM 和 @SonicLabs 的 Ticker 之争 ... 最近，某流水线项目没热度了。 又莫名把 Ticker 这个事翻出来炒热。 营销确实有水平。 由于...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1919596820298400122</id>
@@ -119,96 +28,42 @@ https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42001]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，Treasure Chain 将于 2025 年 5 月 30 日关闭。资产持有者必须在 5 月底之前赎回所有 ETH、MAGIC、SMOL 和 NFT 持有量。此前，Treasure DAO 宣布因财...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919592863740125569</id>
-        <link href="https://x.com/wublockchain12/status/1919592863740125569"/>
-        <updated>2025-05-06T03:19:37.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Treasure Chain 将于 2025 年 5 月 30 日关闭。资产持有者必须在 5 月底之前赎回所有 ETH、MAGIC、SMOL 和 NFT 持有量。此前，Treasure DAO 宣布因财务危机面临重组，将终止游戏运营和 Treasure Chain。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41996]]></summary>
+        <title type="html"><![CDATA[RT Stephen Miller: The choice facing illegals: A. Leave now and get free flight + exit bonus 2. Refuse to leave and face a fine of 1K daily, prosecuti...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1919497139106758978</id>
+        <link href="https://x.com/DeFiSurfer808/status/1919497139106758978"/>
+        <updated>2025-05-05T20:02:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Stephen Miller
+The choice facing illegals:
+A. Leave now and get free flight + exit bonus
+2. Refuse to leave and face a fine of 1K daily, prosecution and imprisonment, forfeiture of all assets, garnishment of all wages, confiscation of all property, deportation whenever and wherever we choose.]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Paradigm 监管事务副总裁 Justin Slaughter 表示，美国众议院提出的《数字资产市场结构草案》是一项 “渐进但有意义的修订”，旨在削弱大型加密公司主导地位...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919587508368900495</id>
-        <link href="https://x.com/wublockchain12/status/1919587508368900495"/>
-        <updated>2025-05-06T02:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Re Paradigm 监管事务副总裁 Justin Slaughter 表示，美国众议院提出的《数字资产市场结构草案》是一项 “渐进但有意义的修订”，旨在削弱大型加密公司主导地位。他指出，草案将项目关联人持仓门槛从 5% 降至 1%，有助于推动市场民主化。同时，SEC 将在项目实现充分去中心化前承担主要监管职责。Slaughter 称，该法案有望成为业界长期呼吁的 “明确监管框架”。（Cointelegraph）]]></summary>
+        <title type="html"><![CDATA[RT vittorio: remember: leftism is mostly a biological phenomenon most leftists would become conservatives if they got fit, because becoming strong rew...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1919461019593625750</id>
+        <link href="https://x.com/DeFiSurfer808/status/1919461019593625750"/>
+        <updated>2025-05-05T16:49:03.000Z</updated>
+        <summary type="html"><![CDATA[RT vittorio
+remember: leftism is mostly a biological phenomenon
+most leftists would become conservatives if they got fit, because becoming strong rewires your relationship to the world.
+modern left-wing politics is fundamentally about seeking protection from the group.
+it attracts people who feel weak and in danger: women, minorities, outcasts, the sick, the soft.
+if you can’t defend yourself, you look for safety in numbers, through laws, institutions, and collective identity.
+and you’re willing to sacrifice individual freedoms to get it.
+right-wing politics is about taking individual responsibility.
+the strong don’t need the group to protect them.
+a weak person has two options: find safety in a stronger man, or in the mob.
+the left is the mob.
+this is why it skews single female, effeminate, collectivist, paranoid.
+it’s not an ideology. it’s a phenotype.
+get strong, and your values shift: you stop moralizing safety, you stop demanding others accommodate your fragility, you start respecting earned strength and personal responsibility.
+leftism disappears as testosterone rises
+
+𓄃🏳️‍⚧️ᛉSyndikatt☭📕🇸🇻: a concerning amount of the left is not physically fit to defend themselves and it’s fucking up the way people perceive leftism]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肯尼亚高等法院裁定，World（前身为 Worldcoin）未经合法同意收集生物识别数据，并以加密货币激励换取用户虹膜信息，违反隐私法。法院命令 World 及其代理在 7 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919583184385409525</id>
-        <link href="https://x.com/wublockchain12/status/1919583184385409525"/>
-        <updated>2025-05-06T02:41:09.000Z</updated>
-        <summary type="html"><![CDATA[肯尼亚高等法院裁定，World（前身为 Worldcoin）未经合法同意收集生物识别数据，并以加密货币激励换取用户虹膜信息，违反隐私法。法院命令 World 及其代理在 7 天内删除所有在肯尼亚收集的数据，今后不得在未评估和无激励条件下继续收集处理。该项目近期已在印尼被暂停。（Decrypt）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41994]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samourai Wallet 联合创始人律师称，美国检方在提起指控前，隐瞒了美国财政部金融犯罪执法网络（FinCEN）关于 “无需 MSB 牌照” 的关键信息。早在 2023 年 10 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919565529863619029</id>
-        <link href="https://x.com/wublockchain12/status/1919565529863619029"/>
-        <updated>2025-05-06T01:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Samourai Wallet 联合创始人律师称，美国检方在提起指控前，隐瞒了美国财政部金融犯罪执法网络（FinCEN）关于 “无需 MSB 牌照” 的关键信息。早在 2023 年 10 月，FinCEN 已告知检方，由于 Samourai 不掌握用户私钥，不构成货币服务业务（MSB），但该信息直至 2025 年 4 月才披露。律师认为这违反披露义务，将据此再次请求法院撤销指控。（Cointelegraph）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41993]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Ripple 宣布向教育非营利组织 DonorsChoose 和 Teach For America 提供总计 2500 万美元支持，主要通过其稳定币 Ripple USD（RLUSD）发放。这是两家机...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919560504550555914</id>
-        <link href="https://x.com/wublockchain12/status/1919560504550555914"/>
-        <updated>2025-05-06T01:11:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Ripple 宣布向教育非营利组织 DonorsChoose 和 Teach For America 提供总计 2500 万美元支持，主要通过其稳定币 Ripple USD（RLUSD）发放。这是两家机构首次接受稳定币捐款。该笔资金将用于资助课堂项目、全国性辅导计划和 STEM 创新挑战赛，并推动金融素养教育。Ripple 表示，此举旨在缩小教育资源差距，提升学生学业与经济韧性。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41992]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，某沉睡 12 年地址转移 3422 枚 BTC 至新地址，总价值约 3.24 亿美元。这些比特币最早于 2012 年从已关闭的古老交易所 BTC-e 提取，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919557337771114741</id>
-        <link href="https://x.com/wublockchain12/status/1919557337771114741"/>
-        <updated>2025-05-06T00:58:27.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @EmberCN 监测，某沉睡 12 年地址转移 3422 枚 BTC 至新地址，总价值约 3.24 亿美元。这些比特币最早于 2012 年从已关闭的古老交易所 BTC-e 提取，当时价格仅为 13.5 美元，当时价值约 4.6 万美元，增值 7018 倍。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41991]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，彭博社报道，美国国税局资深官员 Trish Turner 将接任数字资产办公室负责人。Trish Turner 在国税局任职逾 20 年，此前任数字资产办公室高级顾问。美...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919550341433196956</id>
-        <link href="https://x.com/wublockchain12/status/1919550341433196956"/>
-        <updated>2025-05-06T00:30:39.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，彭博社报道，美国国税局资深官员 Trish Turner 将接任数字资产办公室负责人。Trish Turner 在国税局任职逾 20 年，此前任数字资产办公室高级顾问。美国国税局（IRS）两位关键加密项目负责人 Seth Wilks 与 Raj Mukherjee 已于上周五离职。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41989]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ 在接受 Rug Radio 采访时坦言，美国服刑四个月 “极其艰难、令人恐惧”。初入监狱时，面对纹身密布、吵闹的大块头犯人，他感到强烈不安。狱友曾因双重谋杀获...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919549013113925902</id>
-        <link href="https://x.com/wublockchain12/status/1919549013113925902"/>
-        <updated>2025-05-06T00:25:22.000Z</updated>
-        <summary type="html"><![CDATA[CZ 在接受 Rug Radio 采访时坦言，美国服刑四个月 “极其艰难、令人恐惧”。初入监狱时，面对纹身密布、吵闹的大块头犯人，他感到强烈不安。狱友曾因双重谋杀获刑 30 年，但两人相处尚可。因非美籍身份，他被安排至低安全等级监狱，无法进入最低安全级别设施。CZ 表示，最难承受的是精神压力，尤其担心刑期被延长。这段经历让他重新审视人生，“健康最重要，其次是家庭，再是工作”。他还透露将出版新书，讲述这段经历。（Decrypt）
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41988]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase Assets 发推表示 ，以太坊 Pectra 升级将于美西时间 5 月 7 日凌晨 3:05（北京时间同日 18:05）进行。为确保用户资金安全，Coinbase 将在升...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1919546848374882795</id>
-        <link href="https://x.com/wublockchain12/status/1919546848374882795"/>
-        <updated>2025-05-06T00:16:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase Assets 发推表示 ，以太坊 Pectra 升级将于美西时间 5 月 7 日凌晨 3:05（北京时间同日 18:05）进行。为确保用户资金安全，Coinbase 将在升级期间暂停以太坊的充值与提现操作，暂停时间为北京时间 17:50 至 18:45。同时，新的质押请求将在 18:45 后恢复处理，已有质押头寸不受影响。
-https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=41987]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -233,6 +88,21 @@ Re @demir9527 @binancezh 任何币安用户都是币安太子🤴，🫡]]></sum
 专注地把当下的生活过好，不要把自由书写散文诗的权力让渡给别人给你写的NPC脚本。]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT VIKTOR: This is getting interesting. It turns out he has not started tapping into the new $21bn ATM but he used the remaining $130M of the previous...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1919375834160197721</id>
+        <link href="https://x.com/DeFiSurfer808/status/1919375834160197721"/>
+        <updated>2025-05-05T12:52:21.000Z</updated>
+        <summary type="html"><![CDATA[RT VIKTOR
+This is getting interesting. It turns out he has not started tapping into the new $21bn ATM but he used the remaining $130M of the previous one.
+AND he is now able to get more and more from the $STRK ATM, this week $50M for the first time.
+
+
+Michael Saylor: $MSTR has acquired 1,895 BTC for ~$180.3 million at ~$95,167 per bitcoin and has achieved BTC Yield of 14.0% YTD 2025. As of 5/4/2025, we hodl 555,450 $BTC acquired for ~$38.08 billion at ~$68,550 per bitcoin. $STRK $STRF https://www.strategy.com/press/strategy-acquires-1895-btc-and-now-holds-555450-btc_05-05-2025]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -350,6 +220,18 @@ Which BNB Chain ecosystem project do you think is underrated and why? 🤔]]></s
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[👀]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1918698698491527489</id>
+        <link href="https://x.com/DeFiSurfer808/status/1918698698491527489"/>
+        <updated>2025-05-03T16:06:32.000Z</updated>
+        <summary type="html"><![CDATA[👀
+
+Stage Analysis: S&P 1500 Cumulative New Highs - New Lows]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何 5 分钟创建一个 Gork @gork @aixbt_agent @grok 这样的 AI 机器人 ？ https://fleek.xyz/?ref=qiujun 打开 Fleek 页面，找到 Deploy AI Agent 设置一些基础...]]></title>
         <id>https://twitter.com/AntCaveClub/status/1918689821834584309</id>
         <link href="https://x.com/AntCaveClub/status/1918689821834584309"/>
@@ -365,18 +247,116 @@ https://fleek.xyz/?ref=qiujun
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90% cheaper enterprise compute 🫡]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1917567959213429005</id>
-        <link href="https://x.com/OnChainWizard/status/1917567959213429005"/>
-        <updated>2025-04-30T13:13:22.000Z</updated>
-        <summary type="html"><![CDATA[90% cheaper enterprise compute  🫡
+        <title type="html"><![CDATA[Retail is not the signal the pros want you to believe it is]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1918646520288604278</id>
+        <link href="https://x.com/DeFiSurfer808/status/1918646520288604278"/>
+        <updated>2025-05-03T12:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Retail is not the signal the pros want you to believe it is
 
-io.net: Cost math that makes CFOs smile😁😁
-Enterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.
-Are you in the business of running invoices or running models?
-@ionet has your back.]]></summary>
+Menthor Q: What is most remarkable about April, is that institutional investors dumped at the lows and stayed out, while retail kept buying the entire time.
+Source GS via @zerohedge]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nextbigtrade: Refusing to believe in the rally was present in the 2020 market as well, except this time there's more bears.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1918649678490468830</id>
+        <link href="https://x.com/DeFiSurfer808/status/1918649678490468830"/>
+        <updated>2025-05-02T14:20:53.000Z</updated>
+        <summary type="html"><![CDATA[RT nextbigtrade
+Refusing to believe in the rally was present in the 2020 market as well, except this time there's more bears.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$fart, $hype, and… $crv?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917922336637964473</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917922336637964473"/>
+        <updated>2025-05-01T12:41:32.000Z</updated>
+        <summary type="html"><![CDATA[$fart, $hype, and… $crv?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Subu Trade: AAII Bears is now at 59.3% Bears' 10 week average is at 58%, a record high Relentless bearish sentiment]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917893501548912688</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917893501548912688"/>
+        <updated>2025-05-01T05:08:06.000Z</updated>
+        <summary type="html"><![CDATA[RT Subu Trade
+AAII Bears is now at 59.3%
+Bears' 10 week average is at 58%, a record high
+Relentless bearish sentiment]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Quinn Thompson: I don't see many offering alternatives to the Trump policy agenda with regards to fixing the income inequality but I still see many...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917685667468894619</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917685667468894619"/>
+        <updated>2025-04-30T20:56:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Quinn Thompson
+I don't see many offering alternatives to the Trump policy agenda with regards to fixing the income inequality but I still see many not understanding the why. This table might help explain. Since 2023, foreign born employment has grown >2x more than native born, despite the native born employment level being >4x the size.
+Given the strong correlation between this data and border crossings, it is very clear in showing that illegal immigration and an open border policy has hurt lower and middle income American workers' competitive position in the labor market as well as hampered their wage growth. While this is both pro-growth and disinflationary, the benefits accrue to corporations via higher profits and the wealthy upper class via higher stock prices at the expense of the lower and middle class who suffer wage stagnation and low job growth.
+If this strikes a chord with you, I would like to understand why as I have tried to write this as objectively and factual as possible. I don't know what the right answer is but I understand why there's a major class divide in the country and interest in change from large parts of the US population. The Trump policy agenda is simply implementing what they believe they have been elected to do.
+
+
+
+Quinn Thompson: Shot...chaser...]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Quinn Thompson: Any comment here @DOGE?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917609830790894072</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917609830790894072"/>
+        <updated>2025-04-30T15:42:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Quinn Thompson
+Any comment here @DOGE?]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT I,Hypocrite:]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917648919728635947</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917648919728635947"/>
+        <updated>2025-04-30T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[RT I,Hypocrite]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I feel like there’s plenty of bullish stuff going on in the background and all anyone wants to talk about is how tariffs will collapse the economy]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917424410157261007</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917424410157261007"/>
+        <updated>2025-04-30T03:42:58.000Z</updated>
+        <summary type="html"><![CDATA[I feel like there’s plenty of bullish stuff going on in the background and all anyone wants to talk about is how tariffs will collapse the economy
+
+Capital Flows: On top of this, crude prices are going off a cliff since Trump took office. No one believed that Trump coming in would create more geopolitical stability in the world and actually push crude down. 
+When energy prices are collapsing and banks are pumping the system full of]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT hoe_math: When I was in high school, there was a guy one year above me who was on his third year of Algebra 1. He had a private tutor that the scho...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917355655922360763</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917355655922360763"/>
+        <updated>2025-04-29T19:37:05.000Z</updated>
+        <summary type="html"><![CDATA[RT hoe_math
+When I was in high school, there was a guy one year above me who was on his third year of Algebra 1. He had a private tutor that the school paid for.
+One day, I was outside of a classroom where he and his tutor were sitting near the door. She was so tired she looked sick. She was hunched over her desk with her forehead in her hand. She said "Come on. I know you can do this. You did it yesterday."
+He replied: "I don't get it! I thought numbers was math and letters was English!"
+Anyone who believes in the "blank slate" lie would try to solve this problem by stealing even more money from people who are good at math to pay more tutors to try to force more idiots to do things that their brains cannot do.
+This lie is the primary reason that the world is collapsing. High-IQ people hav…]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -399,21 +379,93 @@ https://www.therage.co/new-elliptic-report-are-unhosted-wallets-really-the-probl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chads keep shipping $IO]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1916903568717578608</id>
-        <link href="https://x.com/OnChainWizard/status/1916903568717578608"/>
-        <updated>2025-04-28T17:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Chads keep shipping $IO
-
-io.net: 🧱 Bare metal is now live!
-You can now deploy physical GPU/CPU machines—no VMs, no abstraction, full control.
-What it means:
-🔓 Root access with Jump Server provisioning
-🚀 Launch in minutes, no contracts
-🎯 Perfect for LLM training, secure workloads, and custom environments
-🧠]]></summary>
+        <title type="html"><![CDATA[RT Geiger Capital: Canadian Gen Z: “I can’t afford food or a house and our country is being flooded with millions of foreigners. My nation is being ...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917175366730269021</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917175366730269021"/>
+        <updated>2025-04-29T04:22:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Geiger Capital
+Canadian Gen Z: “I can’t afford food or a house and our country is being flooded with millions of foreigners. My nation is being ripped away from me!”
+Canadian Boomers: “Trump is Hitler!”]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Julius Ruechel: There's a simple rule of thumb that holds up, election after election. Districts that either benefit from govt handouts (welfare, c...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917351564437774448</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917351564437774448"/>
+        <updated>2025-04-29T04:10:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Julius Ruechel
+There's a simple rule of thumb that holds up, election after election. 
+Districts that either benefit from govt handouts (welfare, corporte welfare, etc) or benefit from high levels of govt employment all tend to vote for left-leaning parties. 
+And districts that are net payees to the govt will vote conservative -- these are the people who are plundered to pay for leftist spending.
+The map below of Canada as today's election results pour in is a perfect illustration of that rule of thumb.
+This is why, once govt spending grows beyond a certain point, leftist parties can build loyal voting coalitions that stay loyal even when the rest of the country is completely falling apart, just to keep the money flowing to themselves. 
+The Romans or Medieval Europeans would have called…]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Geiger Capital: Canada imported ~5 million immigrants in the last decade (2014-2024), increasing their total population by ~15%. Still, they had al...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917055889510433266</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917055889510433266"/>
+        <updated>2025-04-29T03:07:14.000Z</updated>
+        <summary type="html"><![CDATA[RT Geiger Capital
+Canada imported ~5 million immigrants in the last decade (2014-2024), increasing their total population by ~15%.
+Still, they had almost no economic growth.
+It's hard to imagine any government failing more than the Liberals have, yet Canadians just reelected them again.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Marko Jukic: Daily reminder that, by default and absent major political, institutional, and economic reforms, both Europe and America are going to ...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1916912233633718444</id>
+        <link href="https://x.com/DeFiSurfer808/status/1916912233633718444"/>
+        <updated>2025-04-28T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Marko Jukic
+Daily reminder that, by default and absent major political, institutional, and economic reforms, both Europe and America are going to be de-developed, poor, Third World countries by 2100.
+
+@levelsio: Confirmed
+Electricity is down in entire Portugal and Spain peninsula! Crazy!]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Hunter Ash: The biggest advantage China has over the West is that China believes in itself. They have no guilt. They have no cultural masochism.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917051431640875176</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917051431640875176"/>
+        <updated>2025-04-28T04:04:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Hunter Ash
+The biggest advantage China has over the West is that China believes in itself. They have no guilt. They have no cultural masochism.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Rich 🐺: i wonder if when Rome was declining in every possible way and people were trying to fix it somehow, there were smug midwits telling them...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1917053385838092392</id>
+        <link href="https://x.com/DeFiSurfer808/status/1917053385838092392"/>
+        <updated>2025-04-28T01:25:16.000Z</updated>
+        <summary type="html"><![CDATA[RT Rich 🐺
+i wonder if when Rome was declining in every possible way and people were trying to fix it somehow, there were smug midwits telling them it's actually the best time in history and "nostalgia" for the Regal period were misplaced musings and things were actually "never that good".]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1916585040873509115</id>
+        <link href="https://x.com/DeFiSurfer808/status/1916585040873509115"/>
+        <updated>2025-04-27T20:07:36.000Z</updated>
+        <summary type="html"><![CDATA[?
+
+Crowded Market Report: Weekly CMR video now live!  Can #bitcoin and $mstr continue their recent momentum?
+BITCOIN'S SURPRISING OUTPERFORMANCE: WHAT THE TAPE IS SAYING NOW! https://youtu.be/utrsAkJaH_4?si=wAcKLZcVzsAr_LT-]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -433,26 +485,6 @@ https://academy.binance.com/en/articles/what-are-multi-party-computation-mpc-wal
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”. I think...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1913004040037736699</id>
-        <link href="https://x.com/OnChainWizard/status/1913004040037736699"/>
-        <updated>2025-04-17T22:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”.    I think this guy is advising trump]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only platform you need]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1912956684827545839</id>
-        <link href="https://x.com/OnChainWizard/status/1912956684827545839"/>
-        <updated>2025-04-17T19:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The only platform you need]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT nick.eth: Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Go...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1913325511113158925</id>
         <link href="https://x.com/DeFi_educator/status/1913325511113158925"/>
@@ -461,21 +493,6 @@ https://academy.binance.com/en/articles/what-are-multi-party-computation-mpc-wal
 Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Google's infrastructure, and given their refusal to fix it, we're likely to see it a lot more. Here's the email I got:]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC slips 3% to $83k on $NVDA China ban OTHERS dominance hits lowest level since 2021 Trenches are kinda...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1912388041764728856</id>
-        <link href="https://x.com/OnChainWizard/status/1912388041764728856"/>
-        <updated>2025-04-16T06:10:04.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC slips 3% to $83k on $NVDA China ban
-OTHERS dominance hits lowest level since 2021
-Trenches are kinda back w runners on $fur and $drawify
-Chart of the day with @vertex_protocol]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -510,20 +527,6 @@ Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US
 This is a credibility issue]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1910190689901490482</id>
-        <link href="https://x.com/OnChainWizard/status/1910190689901490482"/>
-        <updated>2025-04-10T04:38:30.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40%
-Onchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $RFC
-Trenches also caught a runner in $cryptoai to $6mm]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
@@ -564,24 +567,6 @@ crypto traders experience this every 3 months
 years and years of mental illness inducing volatility finally paying off]]></summary>
         <author>
             <name>DeFi Educator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1909639847574192399</id>
-        <link href="https://x.com/OnChainWizard/status/1909639847574192399"/>
-        <updated>2025-04-08T16:09:53.000Z</updated>
-        <summary type="html"><![CDATA[.
-
-
-The Daily Edge: The Daily Edge featuring:
-Equities bouncing, majors stay flat
-#Fartcoin supremacy
-Trenches finally get a runner on $remus to $12mm highs
-Other onch strength incl. $house, $RFC, $PVS and $buttcoin
-@mETHProtocol Methamorphosis Season 3 is Live!]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
     <entry>
