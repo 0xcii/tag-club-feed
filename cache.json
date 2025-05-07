@@ -1,93 +1,6 @@
 {
   "sources": [
     {
-      "title": "Twitter @吴说区块链",
-      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
-      "siteUrl": "https://x.com/wublockchain12",
-      "articles": [
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920134050871644237",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Karken 公布第六次资产储备证明（快照日期 2025-3-31）。用户 BTC 资产为 16.7 万枚，较上次（2024-9-30）降低 9.11%，减少 1.6 万枚 BTC；用户 ETH 资产为 261 万枚，较上次增长 1.61%，增加 4.1 万枚 ETH；用户 SOL 资产为 1197 万枚，较上次增长 1.97%，增加 23.1 万枚 SOL。Kraken 表示将自本季度起按季度发布 PoR。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42099",
-          "link": "https://x.com/wublockchain12/status/1920134050871644237",
-          "publishedOn": "2025-05-07T15:10:06.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Karken 公布第六次资产储备证明（快照日期 2025-3-31）。用户 BTC 资产为 16.7 万枚，较上次（2024-9-30）降低 9.11%，减少 1.6 万枚 BTC；用户 ETH ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920133322392441203",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Gökhan 及 Nethermind 宣布共同成立早期风险投资公司 Lantern Capital，专注投资以太坊生态及跨链项目。以太坊基金会联合执行董事 Tomasz Stańczak 作为 Nethermind 的代表成为该风投的普通合伙人。Gökhan 表示，AI 正加速软件开发周期，区块链将在新格局中充当关键基础设施，包括经济支付轨道、治理机制、验证层和数字身份框架。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42100",
-          "link": "https://x.com/wublockchain12/status/1920133322392441203",
-          "publishedOn": "2025-05-07T15:07:13.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Gökhan 及 Nethermind 宣布共同成立早期风险投资公司 Lantern Capital，专注投资以太坊生态及跨链项目。以太坊基金会联合执行董事 Tomasz Stańczak ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920120685554176258",
-          "author": "吴说区块链",
-          "description": "英国数字银行 Revolut 正与 Lightspark 合作，为英国及部分欧洲用户引入比特币闪电网络（Lightning Network）支付功能。该功能基于 Lightspark 的基础设施，旨在降低交易费用并加快处理速度。Lightspark 由前 PayPal 高管 David Marcus 创立。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42097",
-          "link": "https://x.com/wublockchain12/status/1920120685554176258",
-          "publishedOn": "2025-05-07T14:17:00.000Z",
-          "wordCount": null,
-          "title": "英国数字银行 Revolut 正与 Lightspark 合作，为英国及部分欧洲用户引入比特币闪电网络（Lightning Network）支付功能。该功能基于 Lightspark 的基础设施，旨在...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920115206404862318",
-          "author": "吴说区块链",
-          "description": "吴说获悉，Polygon Labs 宣布其链开发工具包 CDK（现更名为 Agglayer CDK）正式支持多技术栈，首个集成为 OP Stack 配置。新版本允许开发者使用 OP Stack 启动高性能、低成本的链，并原生连接到 Agglayer，无需支付额外费用。未来，Arbitrum Orbit、ABC Stack 等也可能接入 Agglayer 生态。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42096",
-          "link": "https://x.com/wublockchain12/status/1920115206404862318",
-          "publishedOn": "2025-05-07T13:55:13.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，Polygon Labs 宣布其链开发工具包 CDK（现更名为 Agglayer CDK）正式支持多技术栈，首个集成为 OP Stack 配置。新版本允许开发者使用 OP Stack 启动高...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920113487759712369",
-          "author": "吴说区块链",
-          "description": "吴说每日晚报",
-          "link": "https://x.com/wublockchain12/status/1920113487759712369",
-          "publishedOn": "2025-05-07T13:48:24.000Z",
-          "wordCount": null,
-          "title": "吴说每日晚报",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920104015091650766",
-          "author": "吴说区块链",
-          "description": "加密交易所 Gemini 任命前 Hudson River Trading 数字资产负责人 Brad Vopni 为机构业务主管，负责推进其机构战略布局。Gemini 表示目前已与 VanEck、Purpose、Evolve 等 ETF 提供商合作，并计划进一步扩展机构服务能力。此前 Gemini 于 3 月任命 Dan Chen 为新任 CFO，并正为潜在 IPO 做准备。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42094",
-          "link": "https://x.com/wublockchain12/status/1920104015091650766",
-          "publishedOn": "2025-05-07T13:10:45.000Z",
-          "wordCount": null,
-          "title": "加密交易所 Gemini 任命前 Hudson River Trading 数字资产负责人 Brad Vopni 为机构业务主管，负责推进其机构战略布局。Gemini 表示目前已与 VanEck、Purpose、E...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920092552255939023",
-          "author": "吴说区块链",
-          "description": "据彭博社报道，特朗普次子 Eric Trump 在迪拜的 Token2049 活动上发言表示强烈支持比特币，称其为“数字黄金”，并透露他与其父亲、前总统唐纳德·特朗普都持有大量比特币。他预测，比特币将在未来几年实现指数级增长。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42093",
-          "link": "https://x.com/wublockchain12/status/1920092552255939023",
-          "publishedOn": "2025-05-07T12:25:12.000Z",
-          "wordCount": null,
-          "title": "据彭博社报道，特朗普次子 Eric Trump 在迪拜的 Token2049 活动上发言表示强烈支持比特币，称其为“数字黄金”，并透露他与其父亲、前总统唐纳德·特朗普都持有...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wublockchain12/status/1920069228993896503",
-          "author": "吴说区块链",
-          "description": "吴说获悉，据 Etherscan 数据，在本日 18:00-19:00 UTC+8 期间，Ethereum 主网 Gas 在该小时内从不到 1 gwei 一度上扬至 18 gwei，主要原因或与 Binance Wallet 进行空投分发有关。在过去 3 小时内，Binance Wallet: Proxy (EIP-1967 Transparent) 合约花费了 46.71 ETH 费用（约 8.59 万美元），登顶 Ethereum Gas 费用消耗榜首。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42090",
-          "link": "https://x.com/wublockchain12/status/1920069228993896503",
-          "publishedOn": "2025-05-07T10:52:32.000Z",
-          "wordCount": null,
-          "title": "吴说获悉，据 Etherscan 数据，在本日 18:00-19:00 UTC+8 期间，Ethereum 主网 Gas 在该小时内从不到 1 gwei 一度上扬至 18 gwei，主要原因或与 Binance Wallet ...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://x.com/8848community",
@@ -630,6 +543,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
