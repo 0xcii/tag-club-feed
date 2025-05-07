@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T09:19:46.500Z</id>
+    <id>urn:2025-05-07T10:19:58.506Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-07T09:19:46.500Z</updated>
+    <updated>2025-05-07T10:19:58.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,112 +126,237 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1919860663322660957</id>
-        <link href="https://x.com/OnChainWizard/status/1919860663322660957"/>
-        <updated>2025-05-06T21:03:46.000Z</updated>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90% cheaper enterprise compute 🫡]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1917567959213429005</id>
-        <link href="https://x.com/OnChainWizard/status/1917567959213429005"/>
-        <updated>2025-04-30T13:13:22.000Z</updated>
-        <summary type="html"><![CDATA[90% cheaper enterprise compute  🫡
-
-io.net: Cost math that makes CFOs smile😁😁
-Enterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.
-Are you in the business of running invoices or running models?
-@ionet has your back.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chads keep shipping $IO]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1916903568717578608</id>
-        <link href="https://x.com/OnChainWizard/status/1916903568717578608"/>
-        <updated>2025-04-28T17:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Chads keep shipping $IO
-
-io.net: 🧱 Bare metal is now live!
-You can now deploy physical GPU/CPU machines—no VMs, no abstraction, full control.
-What it means:
-🔓 Root access with Jump Server provisioning
-🚀 Launch in minutes, no contracts
-🎯 Perfect for LLM training, secure workloads, and custom environments
-🧠]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”. I think...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1913004040037736699</id>
-        <link href="https://x.com/OnChainWizard/status/1913004040037736699"/>
-        <updated>2025-04-17T22:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”.    I think this guy is advising trump]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only platform you need]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1912956684827545839</id>
-        <link href="https://x.com/OnChainWizard/status/1912956684827545839"/>
-        <updated>2025-04-17T19:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The only platform you need]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: $BTC slips 3% to $83k on $NVDA China ban OTHERS dominance hits lowest level since 2021 Trenches are kinda...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1912388041764728856</id>
-        <link href="https://x.com/OnChainWizard/status/1912388041764728856"/>
-        <updated>2025-04-16T06:10:04.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-$BTC slips 3% to $83k on $NVDA China ban
-OTHERS dominance hits lowest level since 2021
-Trenches are kinda back w runners on $fur and $drawify
-Chart of the day with @vertex_protocol]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1910190689901490482</id>
-        <link href="https://x.com/OnChainWizard/status/1910190689901490482"/>
-        <updated>2025-04-10T04:38:30.000Z</updated>
-        <summary type="html"><![CDATA[RT The Daily Edge
-The Daily Edge featuring:
-Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40%
-Onchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $RFC
-Trenches also caught a runner in $cryptoai to $6mm]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1909639847574192399</id>
-        <link href="https://x.com/OnChainWizard/status/1909639847574192399"/>
-        <updated>2025-04-08T16:09:53.000Z</updated>
-        <summary type="html"><![CDATA[.
+        <title type="html"><![CDATA[#空投领取 又可以领劳动的果实了。 http://testnet.humanity.org/login?ref=0xcii 之前 humanity 免费签到获得的 $RWA 代币， 现在正式兑换为 $H 也就是真实的代...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919939325313069492</id>
+        <link href="https://x.com/AntCaveClub/status/1919939325313069492"/>
+        <updated>2025-05-07T02:16:20.000Z</updated>
+        <summary type="html"><![CDATA[#空投领取
+又可以领劳动的果实了。
+http://testnet.humanity.org/login?ref=0xcii
+之前 humanity 免费签到获得的 $RWA 代币， 现在正式兑换为 $H
+也就是真实的代币。
+官方公告： https://x.com/Humanityprot/status/1919715045174313162
+这类明牌+零撸， 基本各凭本事，搞越多赚越多。
 
 
-The Daily Edge: The Daily Edge featuring:
-Equities bouncing, majors stay flat
-#Fartcoin supremacy
-Trenches finally get a runner on $remus to $12mm highs
-Other onch strength incl. $house, $RFC, $PVS and $buttcoin
-@mETHProtocol Methamorphosis Season 3 is Live!]]></summary>
+
+Humanity Protocol 「 🖐️ ✦ 🇺🇳 」: Humans, we are LIVE with Humanity Protocol Testnet BETA! 🖐️
+Enjoy the new experience - dashboard, HP, social credentials - and let us know what you think in the comments!
+Here's what's changed ⬇️]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#内幕消息 2013年后的一个牛市周期，中国股市平均涨三倍的情况下，五道口金融学院，研究了4000万个股民账户。 发现在股市三倍涨幅的情况下，只有2.75%的账户是盈...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919920229599117782</id>
+        <link href="https://x.com/AntCaveClub/status/1919920229599117782"/>
+        <updated>2025-05-07T01:00:27.000Z</updated>
+        <summary type="html"><![CDATA[#内幕消息
+2013年后的一个牛市周期，中国股市平均涨三倍的情况下，五道口金融学院，研究了4000万个股民账户。
+发现在股市三倍涨幅的情况下，只有2.75%的账户是盈利的。
+尽管这个期间，你只要随便买个股票，拿着不动就可以赚三倍。
+我们以前说股民一赚两平七亏，还是太乐观了。
+币圈可能是。0.2%]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0x74836cC0E821A6bE18e407E6388E430B689C66e9 $Jager 这波领的有点晚了，到手只有之前的 40% 的币， 还有10%的税和滑点，最开始几天币很多，但是池子太薄了。 当...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919915365498577121</id>
+        <link href="https://x.com/AntCaveClub/status/1919915365498577121"/>
+        <updated>2025-05-07T00:41:08.000Z</updated>
+        <summary type="html"><![CDATA[0x74836cC0E821A6bE18e407E6388E430B689C66e9
+$Jager  这波领的有点晚了，到手只有之前的 40% 的币， 还有10%的税和滑点，最开始几天币很多，但是池子太薄了。 
+当天出来的时候，人在外面没有操作，简单分析了一下可能不划算。
+后来涨了，又有很多人分享。
+赶紧写了一个脚本自动领取。
+刚写脚本那会，刚好又上线了binance Alpha 但是还没领完。
+结果币就开始跌了，手续费已经花了18个bnb。
+担心归零亏本，只能领了归集就卖掉。
+最后脚本完成:  sol钱包签名，bsc钱包领取， 地址归集。然后逐步卖出。
+总共领了:  39000 多个钱包， 卖出 90 BNB  
+还有一些钱包，先领着暂停卖出了，当市场回暖看看情况。
+😂 sol 花钱 bsc 给赚了]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 链求君 🔥: 说说 @SonicSVM 和 @SonicLabs 的 Ticker 之争 ... 最近，某流水线项目没热度了。 又莫名把 Ticker 这个事翻出来炒热。 营销确实有水平。 由于...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919596820298400122</id>
+        <link href="https://x.com/AntCaveClub/status/1919596820298400122"/>
+        <updated>2025-05-06T03:29:50.000Z</updated>
+        <summary type="html"><![CDATA[RT 链求君 🔥
+说说 @SonicSVM 和 @SonicLabs 的 Ticker 之争 ... 
+最近，某流水线项目没热度了。
+又莫名把 Ticker 这个事翻出来炒热。
+营销确实有水平。
+由于各大交易所，同时存在两个 Sonic 代币 
+一个是 Sonic SVM  ( $SONIC )
+一个是 Sonic Labs ( $S )
+由于名字相同，非常多的用户，买错了两种币。
+数据表明 ⬇️  Sonic SVM 甚至连 Top 400 都排不进来
+而 Sonic （ $S ) 最近被 Binance Alpha 默认站台。
+来梳理下背后的时间线 🧵
+欣赏一段 “Ticker 抢跑” 之后的碰瓷演技，也教会了我们如何借东风]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Yi He: Re @demir9527 @binancezh 任何币安用户都是币安太子🤴，🫡]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919413631298515450</id>
+        <link href="https://x.com/AntCaveClub/status/1919413631298515450"/>
+        <updated>2025-05-05T15:18:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Yi He
+Re @demir9527 @binancezh 任何币安用户都是币安太子🤴，🫡]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨天读书日看到的很喜欢的一句话： “不要掉进这个陷阱，认为生活必须是一个长篇叙事。人生最好的状态是，一连串快乐的瞬间。不要把你的生活写成小说，而是把它...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919402426765041852</id>
+        <link href="https://x.com/AntCaveClub/status/1919402426765041852"/>
+        <updated>2025-05-05T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[昨天读书日看到的很喜欢的一句话：
+“不要掉进这个陷阱，认为生活必须是一个长篇叙事。人生最好的状态是，一连串快乐的瞬间。不要把你的生活写成小说，而是把它写成一本诗集。”
+不必上演升级打怪、英雄屠龙，也不必上演龟兔赛跑、苦尽甘来。
+专注地把当下的生活过好，不要把自由书写散文诗的权力让渡给别人给你写的NPC脚本。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[http://x.com/i/article/1919232851159195648]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919359974456897634</id>
+        <link href="https://x.com/AntCaveClub/status/1919359974456897634"/>
+        <updated>2025-05-05T11:54:12.000Z</updated>
+        <summary type="html"><![CDATA[http://x.com/i/article/1919232851159195648]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#思考 #商业思维 人跟人真的不一样，三维：环境、圈子、认知 这三维我就用一个问题让你秒懂： “你花1W块钱包养一个女大学生，能不能做到？” 这个问题蛮招骂的...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919205686636052958</id>
+        <link href="https://x.com/AntCaveClub/status/1919205686636052958"/>
+        <updated>2025-05-05T01:41:07.000Z</updated>
+        <summary type="html"><![CDATA[#思考 #商业思维  人跟人真的不一样，三维：环境、圈子、认知 
+这三维我就用一个问题让你秒懂： “你花1W块钱包养一个女大学生，能不能做到？” 
+这个问题蛮招骂的，但这样问其实能更容易引起思考。  
+注意，问题重点是 “能不能做到” 
+如果你能做到，你需要思考一下：”对方为什么愿意“ 
+很简单啊，因为你的世界和都对方的世界不一样，所以对方愿意。  
+在对方的世界里边，觉得一个月能有一万块钱太牛逼了。 
+在你的世界里边，觉得一个月能有一万块钱太垃圾了。  
+懂我的意思么？那么如何赚钱？  就利用上述所说的，信息差、认知差赚钱就好了。  
+这个世界，所有生意，都围绕这几点罢了，无论什么生意，都脱离不了！ 
+那么如何去探寻认知差、信息差？  通过三维就可以，说个最容易理解的：“我不会配电脑，那么如果你会DIY电脑” 
+你与我之间就存在了认知差、信息差，那么这就存在变现机会。  
+牛逼的人只是把这个机会扩大化，SOP化，流程化了而已
+🤦 我做过信息差最大的一件事： 给一个人分享了一个VPN软件，他转了我 2000 USDT ， 表示非常感谢🙏
+还比如，抖音上有教成人“拼音”“汉字”的账号... 
+说自己啥都不会，是你没想明白而已。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AI 近两天上线的一个APP挺火，叫狗语翻译，据说准确率达到百分之85 。 可以通过 AI 帮助你完成与狗的对话沟通。 有狗狗的朋友可以去试试，叫traini 链接： http...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919200574454857846</id>
+        <link href="https://x.com/AntCaveClub/status/1919200574454857846"/>
+        <updated>2025-05-05T01:20:48.000Z</updated>
+        <summary type="html"><![CDATA[#AI  近两天上线的一个APP挺火，叫狗语翻译，据说准确率达到百分之85 。
+可以通过 AI 帮助你完成与狗的对话沟通。
+有狗狗的朋友可以去试试，叫traini 链接：
+https://traini.app]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Chain Talk Daily: GM]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1919178231107723316</id>
+        <link href="https://x.com/AntCaveClub/status/1919178231107723316"/>
+        <updated>2025-05-04T21:54:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Chain Talk Daily
+GM]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#空投硬撸 本来觉得空投太小， 没什么发的必要。 结果 $JAGER 今天涨了 300% 单号符合条件的话， 收益在： 10U - 80U 不等 大部分日常用的钱包，基本都符合条件...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1918982955709661329</id>
+        <link href="https://x.com/AntCaveClub/status/1918982955709661329"/>
+        <updated>2025-05-04T10:56:04.000Z</updated>
+        <summary type="html"><![CDATA[#空投硬撸 
+本来觉得空投太小， 没什么发的必要。
+结果 $JAGER 今天涨了 300%
+单号符合条件的话， 收益在： 10U - 80U 不等
+大部分日常用的钱包，基本都符合条件的。
+如果继续涨， 那确实值得领了 😂
+才领 6% ，看来大部分人瞧不上。 3天后结束，还会加池子，可能涨更多...
+https://jager.meme?invitor=0x45ec18D14FF3f88F6F6D293B3B351794f9ADD06F]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#web3吃瓜 本来是个 #匿名发帖 功能，现在成了币圈“瓜田” 币圈大佬的瓜，吃不完 ⬇️ https://anontako.fun/ #Bybitn #内幕 #出轨 #发疯]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1918844459975872804</id>
+        <link href="https://x.com/AntCaveClub/status/1918844459975872804"/>
+        <updated>2025-05-04T01:45:44.000Z</updated>
+        <summary type="html"><![CDATA[#web3吃瓜
+本来是个 #匿名发帖 功能，现在成了币圈“瓜田” 
+币圈大佬的瓜，吃不完 ⬇️ 
+https://anontako.fun/
+#Bybitn #内幕  #出轨  #发疯]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#复制交易 #批量聪明钱 这平台能完成一个核心功能： 对一组聪明钱，进行复制交易。 https://www.candlestick.io/?referral=a8c4b6b1 PVP懒人包]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1918832699273581037</id>
+        <link href="https://x.com/AntCaveClub/status/1918832699273581037"/>
+        <updated>2025-05-04T00:59:00.000Z</updated>
+        <summary type="html"><![CDATA[#复制交易 #批量聪明钱
+这平台能完成一个核心功能： 对一组聪明钱，进行复制交易。
+https://www.candlestick.io/?referral=a8c4b6b1
+PVP懒人包]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT BNB Chain: Which BNB Chain ecosystem project do you think is underrated and why? 🤔]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1918821950966624693</id>
+        <link href="https://x.com/AntCaveClub/status/1918821950966624693"/>
+        <updated>2025-05-03T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[RT BNB Chain
+Which BNB Chain ecosystem project do you think is underrated and why? 🤔]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Chain Talk Daily:]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1918821516168360276</id>
+        <link href="https://x.com/AntCaveClub/status/1918821516168360276"/>
+        <updated>2025-04-24T11:54:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Chain Talk Daily
+
+
+Binance: What are MPC Wallets?
+Break your private keys into parts, spread them out, and secure your assets.
+Read more 👇
+https://academy.binance.com/en/articles/what-are-multi-party-computation-mpc-wallets?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial]]></summary>
+        <author>
+            <name>链求君 🔥</name>
         </author>
     </entry>
 </feed>
