@@ -181,10 +181,81 @@
       ]
     },
     {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1919860663322660957",
+          "author": "Onchain Wizard",
+          "description": "",
+          "link": "https://x.com/OnChainWizard/status/1919860663322660957",
+          "publishedOn": "2025-05-06T21:03:46.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1917567959213429005",
+          "author": "Onchain Wizard",
+          "description": "90% cheaper enterprise compute  🫡\n\nio.net: Cost math that makes CFOs smile😁😁\nEnterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.\nAre you in the business of running invoices or running models?\n@ionet has your back.",
+          "link": "https://x.com/OnChainWizard/status/1917567959213429005",
+          "publishedOn": "2025-04-30T13:13:22.000Z",
+          "wordCount": null,
+          "title": "90% cheaper enterprise compute 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1916903568717578608",
+          "author": "Onchain Wizard",
+          "description": "Chads keep shipping $IO\n\nio.net: 🧱 Bare metal is now live!\nYou can now deploy physical GPU/CPU machines—no VMs, no abstraction, full control.\nWhat it means:\n🔓 Root access with Jump Server provisioning\n🚀 Launch in minutes, no contracts\n🎯 Perfect for LLM training, secure workloads, and custom environments\n🧠",
+          "link": "https://x.com/OnChainWizard/status/1916903568717578608",
+          "publishedOn": "2025-04-28T17:13:19.000Z",
+          "wordCount": null,
+          "title": "Chads keep shipping $IO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1913004040037736699",
+          "author": "Onchain Wizard",
+          "description": "Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”.    I think this guy is advising trump",
+          "link": "https://x.com/OnChainWizard/status/1913004040037736699",
+          "publishedOn": "2025-04-17T22:57:59.000Z",
+          "wordCount": null,
+          "title": "Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”. I think...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1912956684827545839",
+          "author": "Onchain Wizard",
+          "description": "The only platform you need",
+          "link": "https://x.com/OnChainWizard/status/1912956684827545839",
+          "publishedOn": "2025-04-17T19:49:49.000Z",
+          "wordCount": null,
+          "title": "The only platform you need",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1912388041764728856",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$BTC slips 3% to $83k on $NVDA China ban\nOTHERS dominance hits lowest level since 2021\nTrenches are kinda back w runners on $fur and $drawify\nChart of the day with @vertex_protocol",
+          "link": "https://x.com/OnChainWizard/status/1912388041764728856",
+          "publishedOn": "2025-04-16T06:10:04.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $BTC slips 3% to $83k on $NVDA China ban OTHERS dominance hits lowest level since 2021 Trenches are kinda...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1910190689901490482",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nTrump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40%\nOnchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $RFC\nTrenches also caught a runner in $cryptoai to $6mm",
+          "link": "https://x.com/OnChainWizard/status/1910190689901490482",
+          "publishedOn": "2025-04-10T04:38:30.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
