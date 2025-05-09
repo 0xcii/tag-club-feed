@@ -1,6 +1,213 @@
 {
   "sources": [
     {
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920676767607779512",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Clanker 协议负责人 Lily 发文介绍“优先排序的 L2 上新资产的最小可行拍卖”。Clanker 为 EVM 代币发射平台，针对新代币首次交易推出最小可行拍卖，优化狙击行为价值分配。设计利用 Flashbots Rollup-Boost 架构及 Dan Robinson 的 MEV 税理念，需 L2 优先排序支持，计划在 Base 或 Unichain 实施。大致拍卖设计如下：代币及资金池创建后锁定 4 区块，记录启动区块基础 gas 价格。第 4 区块首个交易根据 gas 价格（相对基础 gas 价格）支付费用，需优先排序支持。费用归资金池 LP，之后交易正常进行。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42185",
+          "link": "https://x.com/wublockchain12/status/1920676767607779512",
+          "publishedOn": "2025-05-09T03:06:40.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Clanker 协议负责人 Lily 发文介绍“优先排序的 L2 上新资产的最小可行拍卖”。Clanker 为 EVM 代币发射平台，针对新代币首次交易推出最小可行拍卖，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920667419476885944",
+          "author": "吴说区块链",
+          "description": "5 月 9 日，据 Dune 数据，币安钱包交易量已占据加密主流钱包总交易量 82.1%份额，位居第一。其次是 OKX Wallet/DEX 占据 3%，TokenPocket 占据 2.4%，Phantom 占据 2.3%，Bitget Wallet 占据 1.7%，Coinbase 占据 1.6%，MetaMask 占据 0.7%。\nhttp://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42184",
+          "link": "https://x.com/wublockchain12/status/1920667419476885944",
+          "publishedOn": "2025-05-09T02:29:31.000Z",
+          "wordCount": null,
+          "title": "5 月 9 日，据 Dune 数据，币安钱包交易量已占据加密主流钱包总交易量 82.1%份额，位居第一。其次是 OKX Wallet/DEX 占据 3%，TokenPocket 占据 2.4%，Phantom ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920664008014868849",
+          "author": "吴说区块链",
+          "description": "Web3 消费者奖励平台 T-Rex 完成 1700 万美元种子轮融资，由 Portal Ventures、North Island Ventures、Framework Ventures、Arbitrum Gaming Ventures、ArkStream Capital、Mindful Venture Capital、Hypersphere、SNZ 和 Arche Fund 投资。T-Rex 旨在通过“参与证明”机制奖励在线内容消费者，用户可下载浏览器扩展程序，在观看 X、TikTok 或 YouTube 内容时点击“爆米花”图标获取积分，进而兑换加密奖励。该扩展程序采用 zkTLS 技术保护隐私，并计划于今年夏季末推出。(TheBlock)  http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42183",
+          "link": "https://x.com/wublockchain12/status/1920664008014868849",
+          "publishedOn": "2025-05-09T02:15:58.000Z",
+          "wordCount": null,
+          "title": "Web3 消费者奖励平台 T-Rex 完成 1700 万美元种子轮融资，由 Portal Ventures、North Island Ventures、Framework Ventures、Arbitrum Gaming Ventures、ArkStre...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920653979895427369",
+          "author": "吴说区块链",
+          "description": "据彭博社，比特币矿企 Hut 8 Corp 公布 2025 年一季度财报，营收同比下降 58% 至 2180 万美元，净亏损 1.343 亿美元，去年同期为净收入 2.507 亿美元。CEO Asher Genoot 表示，下降主要受比特币减半及升级矿机导致的运营中断影响。Hut 8 近期与特朗普之子 Eric 和 Donald Trump Jr. 合作推出矿业公司 American Bitcoin Corp，并计划继续投资该公司及积累比特币，同时在路易斯安那州开发高性能计算数据中心服务 AI 企业。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42182",
+          "link": "https://x.com/wublockchain12/status/1920653979895427369",
+          "publishedOn": "2025-05-09T01:36:07.000Z",
+          "wordCount": null,
+          "title": "据彭博社，比特币矿企 Hut 8 Corp 公布 2025 年一季度财报，营收同比下降 58% 至 2180 万美元，净亏损 1.343 亿美元，去年同期为净收入 2.507 亿美元。CEO Asher...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920643952035967119",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @EmberCN 监测，某个 3 天前转移 3,422 枚 BTC 的远古巨鲸/机构，在比特币突破 10 万美元后将 1,079 枚 BTC (约合 1.09 亿美元) 转进了 Gemini 交易平台。该巨鲸以 13.5 美元的价格从 BTC-e 交易平台提出 3,422 枚 BTC 并持有了 12 年之久。转进 Gemini 的这 1,079 枚 BTC 实现获利 1.09 亿美元，达到 7489 倍。目前该巨鲸还持有 2,343 枚 BTC，价值 2.41 亿美元。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42181",
+          "link": "https://x.com/wublockchain12/status/1920643952035967119",
+          "publishedOn": "2025-05-09T00:56:16.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 @EmberCN 监测，某个 3 天前转移 3,422 枚 BTC 的远古巨鲸/机构，在比特币突破 10 万美元后将 1,079 枚 BTC (约合 1.09 亿美元) 转进了 Gemini 交...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920642165786513893",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Coinglass 数据，近 24 小时，全球共有 200,194 人被爆仓 ，爆仓总金额为 9.72 亿美元，其中多单爆仓 1.34 亿美元，空单爆仓 8.38 亿美元，最大单笔爆仓单发生在 Binance - BTCUSDT 价值 1196.92 万美元。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42180",
+          "link": "https://x.com/wublockchain12/status/1920642165786513893",
+          "publishedOn": "2025-05-09T00:49:10.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Coinglass 数据，近 24 小时，全球共有 200,194 人被爆仓 ，爆仓总金额为 9.72 亿美元，其中多单爆仓 1.34 亿美元，空单爆仓 8.38 亿美元，最大单...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920638868841275784",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Onchain Lens 监测，某以太坊 ICO 巨鲸约 20 分钟前向 Kraken 存入了 4,200 枚 ETH，价值 924 万美元。此前报道，这位鲸鱼在 2015 年 ICO 期间获得了 76,000 枚 ETH。目前该鲸鱼地址仍持有 4,100 枚 ETH，价值 900 万美元。http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42179",
+          "link": "https://x.com/wublockchain12/status/1920638868841275784",
+          "publishedOn": "2025-05-09T00:36:04.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Onchain Lens 监测，某以太坊 ICO 巨鲸约 20 分钟前向 Kraken 存入了 4,200 枚 ETH，价值 924 万美元。此前报道，这位鲸鱼在 2015 年 ICO 期间获得...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920633648036167707",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Coinbase CEO Brian Armstrong 发文表示，美国参议院已就稳定币立法《GENIUS 法案》进行首次投票，预计下周初将有第二轮投票。他认为法案仍需完善，例如取消对收益和利息的禁令，但这是立法过程的一部分。Armstrong 预计，在文本审查和调整后，《GENIUS 法案》将以两党支持接近总统签署。法案旨在为稳定币提供监管框架，5200 万美国加密持有者正密切关注。 http://wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42178",
+          "link": "https://x.com/wublockchain12/status/1920633648036167707",
+          "publishedOn": "2025-05-09T00:15:19.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Coinbase CEO Brian Armstrong 发文表示，美国参议院已就稳定币立法《GENIUS 法案》进行首次投票，预计下周初将有第二轮投票。他认为法案仍需完善，例...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920593513013784734",
+          "author": "吴说区块链",
+          "description": "MARA 和 CleanSpark 在 2025 年第一季度收入分别增长 30% 和 63%，收入分别为 2.14 亿美元和 1.82 亿美元，但均录得亏损，MARA 亏损 5.33 亿美元，CleanSpark 亏损 1.39 亿美元。相比之下，2024 年同期，MARA 净亏损为 3.37 亿美元，CleanSpark 则实现净利润 1.27 亿美元。MARA 计划通过发行最多 20 亿美元股票筹集资金，用于比特币收购及一般运营资金，而 CleanSpark 则继续聚焦比特币挖矿业务。（TheBlock）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42176",
+          "link": "https://x.com/wublockchain12/status/1920593513013784734",
+          "publishedOn": "2025-05-08T21:35:51.000Z",
+          "wordCount": null,
+          "title": "MARA 和 CleanSpark 在 2025 年第一季度收入分别增长 30% 和 63%，收入分别为 2.14 亿美元和 1.82 亿美元，但均录得亏损，MARA 亏损 5.33 亿美元，CleanSpark 亏...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920581663492587706",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Coinbase 公布 2025 年第一季度财报，营收 20.3 亿美元，低于市场预期的 22 亿美元；交易收入 12.6 亿美元，交易量 3930 亿美元，高于预期的 3927 亿美元。调整后 EBITDA 为 9.3 亿美元，净利润 6600 万美元，调整后净利润 5.27 亿美元。USDC 余额达 123 亿美元，环比增长 49%；衍生品交易量 8040 亿美元，托管资产总额 2120 亿美元，环比增加 250 亿美元。此外，公司已在阿根廷和印度注册为 VASP。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42175",
+          "link": "https://x.com/wublockchain12/status/1920581663492587706",
+          "publishedOn": "2025-05-08T20:48:45.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Coinbase 公布 2025 年第一季度财报，营收 20.3 亿美元，低于市场预期的 22 亿美元；交易收入 12.6 亿美元，交易量 3930 亿美元，高于预期的 3927 亿...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920568179048542536",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Ripple 和美国证券交易委员会（SEC）向纽约南区联邦地区法院提交的联合动议文件显示，双方已达成和解协议，并请求法院作出指示性裁定，以终止针对 Ripple 的禁令并释放托管账户中的 1.25 亿美元民事罚金。根据协议，Ripple 将支付 5000 万美元给 SEC，余下款项返还 Ripple。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42174",
+          "link": "https://x.com/wublockchain12/status/1920568179048542536",
+          "publishedOn": "2025-05-08T19:55:10.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Ripple 和美国证券交易委员会（SEC）向纽约南区联邦地区法院提交的联合动议文件显示，双方已达成和解协议，并请求法院作出指示性裁定，以终止针对 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920561595001758010",
+          "author": "吴说区块链",
+          "description": "据彭博社，Celsius Network 创始人 Alex Mashinsky 因加密货币欺诈被判处 12 年监禁。Mashinsky 于去年 12 月认罪，美国曼哈顿联邦地区法官 John Koeltl 于 5 月 8 日作出判决。联邦检察官原本寻求 20 年刑期，称其对所涉欺诈行为“毫无悔意”。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42173",
+          "link": "https://x.com/wublockchain12/status/1920561595001758010",
+          "publishedOn": "2025-05-08T19:29:01.000Z",
+          "wordCount": null,
+          "title": "据彭博社，Celsius Network 创始人 Alex Mashinsky 因加密货币欺诈被判处 12 年监禁。Mashinsky 于去年 12 月认罪，美国曼哈顿联邦地区法官 John Koeltl 于 5 月...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920557907755876713",
+          "author": "吴说区块链",
+          "description": "Meta 正在与多家加密货币公司接洽，讨论通过稳定币进行跨区域支付的可能性，并聘请前 Plaid 高管、现 Stellar Development Foundation 董事 Ginger Baker 担任产品副总裁推动相关探索。消息人士称，讨论仍处于早期阶段，重点关注降低支付费用，尤其是在 Instagram 平台上的小额支付。此前，Meta 于 2019 年推出 Libra 稳定币项目，但在 2022 年放弃，并将资产出售给 Silvergate。（Fortune）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42172",
+          "link": "https://x.com/wublockchain12/status/1920557907755876713",
+          "publishedOn": "2025-05-08T19:14:22.000Z",
+          "wordCount": null,
+          "title": "Meta 正在与多家加密货币公司接洽，讨论通过稳定币进行跨区域支付的可能性，并聘请前 Plaid 高管、现 Stellar Development Foundation 董事 Ginger Baker 担任产...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920549270450811040",
+          "author": "吴说区块链",
+          "description": "美国参议院未通过 GENIUS 法案的关键程序性投票，知情人士称，部分此前支持该法案的民主党议员在周四投票中转为反对，因对最新版本中的反洗钱和国家安全条款存疑。共和党推动表决但未能获得足够支持，法案暂时搁置。白宫原计划于 8 月在玫瑰园签署加密货币立法协议，现前景不明。（Decrypt）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42171",
+          "link": "https://x.com/wublockchain12/status/1920549270450811040",
+          "publishedOn": "2025-05-08T18:40:02.000Z",
+          "wordCount": null,
+          "title": "美国参议院未通过 GENIUS 法案的关键程序性投票，知情人士称，部分此前支持该法案的民主党议员在周四投票中转为反对，因对最新版本中的反洗钱和国家安全条款存疑...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920533645330428118",
+          "author": "吴说区块链",
+          "description": "美国密苏里州众议院通过 594 号法案，将取消资本利得税，目前该法案已提交州长 Mike Kehoe 签署，若获批准，密苏里州将成为全美首个取消资本利得税的州。根据律师 Aaron Brogan 的解释，由于密苏里州税法未明确区分资本利得税和所得税，该法案将允许纳税人对资本利得收入进行 100% 所得税减免。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42170",
+          "link": "https://x.com/wublockchain12/status/1920533645330428118",
+          "publishedOn": "2025-05-08T17:37:57.000Z",
+          "wordCount": null,
+          "title": "美国密苏里州众议院通过 594 号法案，将取消资本利得税，目前该法案已提交州长 Mike Kehoe 签署，若获批准，密苏里州将成为全美首个取消资本利得税的州。根据律...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920530062505619795",
+          "author": "吴说区块链",
+          "description": "据彭博社，美国 SEC 委员 Hester Peirce 在接受 Bloomberg 采访时表示，现货比特币 ETF 的审批过程“严重管理不善”，比特币 ETF 获得批准之际，皮尔斯发表声明，批评监管机构“对其改变主意的解释力不强”，并敦促市场参与者对加密货币交易所交易产品（ETP）的审批保持耐心。她指出，SEC 正在处理多项诉讼及其他问题，并强调 SEC 的批准并不代表该产品是良好投资，投资者应自行判断。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42169",
+          "link": "https://x.com/wublockchain12/status/1920530062505619795",
+          "publishedOn": "2025-05-08T17:23:43.000Z",
+          "wordCount": null,
+          "title": "据彭博社，美国 SEC 委员 Hester Peirce 在接受 Bloomberg 采访时表示，现货比特币 ETF 的审批过程“严重管理不善”，比特币 ETF 获得批准之际，皮尔斯发表声明...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920526956619022783",
+          "author": "吴说区块链",
+          "description": "Skale 推出 BITE Protocol，旨在从共识层消除最大可提取价值（MEV）攻击。BITE Protocol 通过在交易进入内存池前对数据加密，并在区块最终确定后解密，防止验证者和 MEV 机器人通过抢先交易、夹层攻击或狙击交易牟利。（TheBlock）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42168",
+          "link": "https://x.com/wublockchain12/status/1920526956619022783",
+          "publishedOn": "2025-05-08T17:11:22.000Z",
+          "wordCount": null,
+          "title": "Skale 推出 BITE Protocol，旨在从共识层消除最大可提取价值（MEV）攻击。BITE Protocol 通过在交易进入内存池前对数据加密，并在区块最终确定后解密，防止验证...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920516139538657603",
+          "author": "吴说区块链",
+          "description": "据 Politico 报道，Brian Ballard 作为 Donald Trump 曾经的重要说客，因三月在 Mar-a-Lago 发生的加密货币事件而被白宫冷落。当时，Ballard 的员工在度假村活动期间多次游说 Trump 发布有关“加密战略储备”的 Truth Social 帖子，未披露其中提及的 Ripple Labs 是 Ballard 的客户。Trump 在发文后感到被利用，指示白宫人员避免与 Ballard 接触。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42167",
+          "link": "https://x.com/wublockchain12/status/1920516139538657603",
+          "publishedOn": "2025-05-08T16:28:23.000Z",
+          "wordCount": null,
+          "title": "据 Politico 报道，Brian Ballard 作为 Donald Trump 曾经的重要说客，因三月在 Mar-a-Lago 发生的加密货币事件而被白宫冷落。当时，Ballard 的员工在度假村活动...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920512735751909502",
+          "author": "吴说区块链",
+          "description": "据彭博社，美国总统 Donald Trump 宣布与英国达成贸易框架协议，承诺降低农业、化工、能源和工业品等领域的贸易壁垒，并将美国产品快速通关。该协议未涵盖数字税问题，但提出将继续就数字贸易、药品和其他关税进行谈判。协议维持 10% 的基础关税，并允许英国每年向美国出口最多 10 万辆汽车，关税从此前的 27.5% 降至 10%；钢铁和铝将免税，英方还承诺购买 100 亿美元的波音飞机。此举被视为 Trump 暂缓全面加征关税后与主要贸易伙伴达成协议的试点，也反映出其试图在选情压力下缓解市场担忧。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42166",
+          "link": "https://x.com/wublockchain12/status/1920512735751909502",
+          "publishedOn": "2025-05-08T16:14:52.000Z",
+          "wordCount": null,
+          "title": "据彭博社，美国总统 Donald Trump 宣布与英国达成贸易框架协议，承诺降低农业、化工、能源和工业品等领域的贸易壁垒，并将美国产品快速通关。该协议未涵盖数字税...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1920509575654224157",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Coinbase 宣布将在以太坊网络（ERC-20）上支持 Space and Time (SXT)，SXT 转账现已开放，交易将在满足流动性条件后逐步启动，并以 SXT-USD 交易对分阶段上线，但部分地区交易可能受限。SXT 将被标记为“实验性资产”。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42165",
+          "link": "https://x.com/wublockchain12/status/1920509575654224157",
+          "publishedOn": "2025-05-08T16:02:18.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Coinbase 宣布将在以太坊网络（ERC-20）上支持 Space and Time (SXT)，SXT 转账现已开放，交易将在满足流动性条件后逐步启动，并以 SXT-USD 交易对分...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @Deleted Account",
       "feedUrl": "https://rsshub.app/twitter/user/8848Community",
       "siteUrl": "https://x.com/8848community",
@@ -169,6 +376,160 @@
           "publishedOn": "2025-05-06T03:29:55.000Z",
           "wordCount": null,
           "title": "RT 链求君 🔥: Re @SonicLabs X @binance 应该会有一个长远的规划 @AndreCronjeTech 领导的 Sonic 在技术层面，经过了 2 年的研究创新，几乎实现了 BSC 未来期...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1920664083235246590",
+          "author": "DeFi Educator",
+          "description": "RT Treasury Secretary Scott Bessent\nFor stablecoins and other digital assets to thrive globally, the world needs American leadership.\nThe Senate missed an opportunity to provide that leadership today by failing to advance the GENIUS Act.\nThis bill represents a once-in-a-generation opportunity to expand dollar dominance and U.S. influence in financial innovation. Without it, stablecoins will be subject to a patchwork of state regulations instead of a streamlined federal framework that is more conducive to growth and competitiveness.\nThe world is watching while American lawmakers twiddle their thumbs. Senators who voted to stonewall U.S. ingenuity today face a simple choice: Either step up and lead or watch digital asset innovation move offshore.",
+          "link": "https://x.com/DeFi_educator/status/1920664083235246590",
+          "publishedOn": "2025-05-08T18:48:16.000Z",
+          "wordCount": null,
+          "title": "RT Treasury Secretary Scott Bessent: For stablecoins and other digital assets to thrive globally, the world needs American leadership. The Senate miss...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1920277260717764910",
+          "author": "DeFi Educator",
+          "description": "RT Watcher.Guru\nJUST IN: 🇺🇸 Arizona Governor officially signs law to establish a \"Bitcoin Reserve Fund.\"",
+          "link": "https://x.com/DeFi_educator/status/1920277260717764910",
+          "publishedOn": "2025-05-08T00:32:15.000Z",
+          "wordCount": null,
+          "title": "RT Watcher.Guru: JUST IN: 🇺🇸 Arizona Governor officially signs law to establish a \"Bitcoin Reserve Fund.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1917625297706324115",
+          "author": "DeFi Educator",
+          "description": "RT L0la L33tz\nIf you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that \"unhosted wallets\" are what enable cartels to launder money through cryptocurrencies?\nOr could it be that the actual problem is that cartels still somehow manage to deposit their cash in the financial system, despite extensive AML/CFT frameworks imposed on banks?\nAnd if these frameworks are already exploited by cartels, can you outline precisely how imposing these same AML/CFT regulations on \"unhosted wallets\" would stop cartels from exploiting them – and not just impose unproportionate burdens on the average user?\nGiven what Elliptic has outlined in their newest report, lawmakers should be extremely wary of relying on for-profit marketing materials to inform their decisions, and keep in mind that the expansion of AML/CFT frameworks to \"unhosted wallets\" would drastically enlarge such firms' addressable market, constituting a clear profit motive – while likely doing nothing to stop actual crime.\n\n\nThe Rage: A new report by the Blockchain Surveillance firm Elliptic showcases how cartels exploit deficiencies in current AML/CFT frameworks, raising the question whether \"unhosted wallets\" are really the problem.\nFull story 👇\nhttps://www.therage.co/new-elliptic-report-are-unhosted-wallets-really-the-problem/",
+          "link": "https://x.com/DeFi_educator/status/1917625297706324115",
+          "publishedOn": "2025-04-29T13:39:02.000Z",
+          "wordCount": null,
+          "title": "RT L0la L33tz: If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that \"unhosted wallets\" are what ena...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1913325511113158925",
+          "author": "DeFi Educator",
+          "description": "RT nick.eth\nRecently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Google's infrastructure, and given their refusal to fix it, we're likely to see it a lot more. Here's the email I got:",
+          "link": "https://x.com/DeFi_educator/status/1913325511113158925",
+          "publishedOn": "2025-04-16T09:32:49.000Z",
+          "wordCount": null,
+          "title": "RT nick.eth: Recently I was targeted by an extremely sophisticated phishing attack, and I want to highlight it here. It exploits a vulnerability in Go...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910918532029612308",
+          "author": "DeFi Educator",
+          "description": "RT Hiruni Liyanage\nUS data scientists are so cooked right now. they can't import  pandas anymore",
+          "link": "https://x.com/DeFi_educator/status/1910918532029612308",
+          "publishedOn": "2025-04-11T09:30:36.000Z",
+          "wordCount": null,
+          "title": "RT Hiruni Liyanage: US data scientists are so cooked right now. they can't import pandas anymore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910500745218039853",
+          "author": "DeFi Educator",
+          "description": "RT Andreas Steno Larsen\nRe Shown here..",
+          "link": "https://x.com/DeFi_educator/status/1910500745218039853",
+          "publishedOn": "2025-04-10T20:18:24.000Z",
+          "wordCount": null,
+          "title": "RT Andreas Steno Larsen: Re Shown here..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1910500727606100119",
+          "author": "DeFi Educator",
+          "description": "RT Andreas Steno Larsen\nGrowth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US\nThis is a credibility issue",
+          "link": "https://x.com/DeFi_educator/status/1910500727606100119",
+          "publishedOn": "2025-04-10T20:16:43.000Z",
+          "wordCount": null,
+          "title": "RT Andreas Steno Larsen: Growth- and inflation 5yr forward drop and yet 5+ bond yields increase in the US This is a credibility issue",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1919860663322660957",
+          "author": "Onchain Wizard",
+          "description": "",
+          "link": "https://x.com/OnChainWizard/status/1919860663322660957",
+          "publishedOn": "2025-05-06T21:03:46.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1917567959213429005",
+          "author": "Onchain Wizard",
+          "description": "90% cheaper enterprise compute  🫡\n\nio.net: Cost math that makes CFOs smile😁😁\nEnterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.\nAre you in the business of running invoices or running models?\n@ionet has your back.",
+          "link": "https://x.com/OnChainWizard/status/1917567959213429005",
+          "publishedOn": "2025-04-30T13:13:22.000Z",
+          "wordCount": null,
+          "title": "90% cheaper enterprise compute 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1916903568717578608",
+          "author": "Onchain Wizard",
+          "description": "Chads keep shipping $IO\n\nio.net: 🧱 Bare metal is now live!\nYou can now deploy physical GPU/CPU machines—no VMs, no abstraction, full control.\nWhat it means:\n🔓 Root access with Jump Server provisioning\n🚀 Launch in minutes, no contracts\n🎯 Perfect for LLM training, secure workloads, and custom environments\n🧠",
+          "link": "https://x.com/OnChainWizard/status/1916903568717578608",
+          "publishedOn": "2025-04-28T17:13:19.000Z",
+          "wordCount": null,
+          "title": "Chads keep shipping $IO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1913004040037736699",
+          "author": "Onchain Wizard",
+          "description": "Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”.    I think this guy is advising trump",
+          "link": "https://x.com/OnChainWizard/status/1913004040037736699",
+          "publishedOn": "2025-04-17T22:57:59.000Z",
+          "wordCount": null,
+          "title": "Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”. I think...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1912956684827545839",
+          "author": "Onchain Wizard",
+          "description": "The only platform you need",
+          "link": "https://x.com/OnChainWizard/status/1912956684827545839",
+          "publishedOn": "2025-04-17T19:49:49.000Z",
+          "wordCount": null,
+          "title": "The only platform you need",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1912388041764728856",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\n$BTC slips 3% to $83k on $NVDA China ban\nOTHERS dominance hits lowest level since 2021\nTrenches are kinda back w runners on $fur and $drawify\nChart of the day with @vertex_protocol",
+          "link": "https://x.com/OnChainWizard/status/1912388041764728856",
+          "publishedOn": "2025-04-16T06:10:04.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: $BTC slips 3% to $83k on $NVDA China ban OTHERS dominance hits lowest level since 2021 Trenches are kinda...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1910190689901490482",
+          "author": "Onchain Wizard",
+          "description": "RT The Daily Edge\nThe Daily Edge featuring:\nTrump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40%\nOnchain winners bouncing the hardest included $housecoin, $ghibli, $collat and $RFC\nTrenches also caught a runner in $cryptoai to $6mm",
+          "link": "https://x.com/OnChainWizard/status/1910190689901490482",
+          "publishedOn": "2025-04-10T04:38:30.000Z",
+          "wordCount": null,
+          "title": "RT The Daily Edge: The Daily Edge featuring: Trump blinks, sends $SPY up 10%, $BTC up 8% and #fartcoin up 40% Onchain winners bouncing the hardest inc...",
           "imageUrl": null
         }
       ]
@@ -379,12 +740,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
