@@ -1,188 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-17T03:06:04.977Z</id>
+    <id>urn:2025-05-17T04:21:22.829Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-17T03:06:04.977Z</updated>
+    <updated>2025-05-17T04:21:22.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Spot on Chain 监测，一个与 Compound 团队绑定的钱包地址在过去 3 小时内向 Coinbase Prime 存入 250,100 枚 COMP（约 1120 万美元）。此前，该钱...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923186370287370494</id>
-        <link href="https://x.com/wublockchain12/status/1923186370287370494"/>
-        <updated>2025-05-16T01:18:56.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Spot on Chain 监测，一个与 Compound 团队绑定的钱包地址在过去 3 小时内向 Coinbase Prime 存入 250,100 枚 COMP（约 1120 万美元）。此前，该钱包从 CompoundV3 赎回 398,100 枚 COMP（约 1770 万美元）——这是该钱包 9 个月以来首次出现 COMP 的转移。该钱包目前仍持有 148,032 枚 COMP（约 658 万美元）。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42541]]></summary>
+        <title type="html"><![CDATA[Bitcoin's consolidating inches below ATH and nobody cares. Crazy.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1923174701112635527</id>
+        <link href="https://x.com/DeFiSurfer808/status/1923174701112635527"/>
+        <updated>2025-05-16T00:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's consolidating inches below ATH and nobody cares. 
+Crazy.]]></summary>
         <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，以太坊研究员 jvranek 推出 Signal-Boost，一个无需大改现有 Rollup 架构的插件，让 L2 实时读取 L1 数据，实现 L1-L2 同步操作。结合 Nethermind 的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923185899581604056</id>
-        <link href="https://x.com/wublockchain12/status/1923185899581604056"/>
-        <updated>2025-05-16T01:17:04.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，以太坊研究员 jvranek 推出 Signal-Boost，一个无需大改现有 Rollup 架构的插件，让 L2 实时读取 L1 数据，实现 L1-L2 同步操作。结合 Nethermind 的“同槽消息传递/Same-Slot Message Passing”和 Gwyneth 的“超级交易/Ultra Transactions”思路，无需以太坊进行协议内更改，相反，它利用诸如 PBS 管道和 Commit-Boost 等现有技术，支持在 L1 和 L2 之间进行原子交易，提升用户体验并减少 Rollups 生态系统中的碎片化。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42542]]></summary>
+        <title type="html"><![CDATA[This is how you bull post]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1923172803391455333</id>
+        <link href="https://x.com/DeFiSurfer808/status/1923172803391455333"/>
+        <updated>2025-05-16T00:25:01.000Z</updated>
+        <summary type="html"><![CDATA[This is how you bull post
+
+Rittenhouse Research: Rittenhouse Research is long Galaxy Digital $GLXY $BRPHF 
+We believe Galaxy's flagship data center Helios will generate $1.7B of EBITDA and $32B of equity value in the near-term, w/ significant further upside.
+Our full thesis can be found via PDF here: 
+https://rittenhouseresearch.substack.com/p/galaxy-digital]]></summary>
         <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币原生 ZK Rollup 项目 GOAT Network 正式发布 GOAT BitVM2 测试网，成为首个上线的 BitVM2 测试网。GOAT BitVM2 将挑战期由原先的 14 天缩短至不足 1 天，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923184089374523470</id>
-        <link href="https://x.com/wublockchain12/status/1923184089374523470"/>
-        <updated>2025-05-16T01:09:52.000Z</updated>
-        <summary type="html"><![CDATA[比特币原生 ZK Rollup 项目 GOAT Network 正式发布 GOAT BitVM2 测试网，成为首个上线的 BitVM2 测试网。GOAT BitVM2 将挑战期由原先的 14 天缩短至不足 1 天，其架构结合 zkMIPS 零知识证明、去中心化排序器与多轮挑战奖励机制，构建完整的比特币原生 ZK Rollup 方案。代码已开源，测试网现已开放，开发者可参与质押、挑战与桥接操作。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42540]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Anza 团队宣布为 Solana 的 Agave 验证者客户端推出“调度器绑定/Scheduler Bindings”功能，允许验证者通过模块化架构定制区块打包逻辑，无需修改核...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923179565339615264</id>
-        <link href="https://x.com/wublockchain12/status/1923179565339615264"/>
-        <updated>2025-05-16T00:51:53.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Anza 团队宣布为 Solana 的 Agave 验证者客户端推出“调度器绑定/Scheduler Bindings”功能，允许验证者通过模块化架构定制区块打包逻辑，无需修改核心代码。目前，超 90% 的 Solana 验证者使用自定义调度器（如 Jito、Paladin）以提升 MEV 收益，但面临透明度不足、安全风险和运维复杂的问题。新功能通过分离打包逻辑、提供标准规则（如“失败丢弃”“全包或全不”），显著提高透明度、安全性和运维效率，优化 MEV 收益并支持非默认调度器。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42539]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Bitcoin Magazine，中美跨境消费品牌及电商公司 DDC Enterprise Ltd 在最新股东信中宣布采用比特币作为战略储备资产，计划在未来 36 个月内累积 50...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923175343269241199</id>
-        <link href="https://x.com/wublockchain12/status/1923175343269241199"/>
-        <updated>2025-05-16T00:35:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Bitcoin Magazine，中美跨境消费品牌及电商公司 DDC Enterprise Ltd 在最新股东信中宣布采用比特币作为战略储备资产，计划在未来 36 个月内累积 5000 枚比特币。DDC 创始人、董事长兼首席执行官 Norma Chu 表示，该策略将立即启动，首笔购买为 100 枚比特币，短期目标是在六个月内增持至 500 枚。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42538]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 Solana 的票务转售平台 XP 宣布完成 620 万美元种子轮融资，由 Blockchange 领投，L1D 和 Reflexive 参投。资金将用于拓展 Solana 上的折扣票务销售功能，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923135722292138275</id>
-        <link href="https://x.com/wublockchain12/status/1923135722292138275"/>
-        <updated>2025-05-15T21:57:40.000Z</updated>
-        <summary type="html"><![CDATA[基于 Solana 的票务转售平台 XP 宣布完成 620 万美元种子轮融资，由 Blockchange 领投，L1D 和 Reflexive 参投。资金将用于拓展 Solana 上的折扣票务销售功能，并推进粉丝互动和奖励机制。（Blockworks）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42536]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock 宣布其价值近 30 亿美元的 sBUIDL 代币化国债基金在 Avalanche 网络上与 Euler 协议进行首次直接 DeFi 集成，基于 Securitize 开发的 sToken 框架，使...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923131881534722108</id>
-        <link href="https://x.com/wublockchain12/status/1923131881534722108"/>
-        <updated>2025-05-15T21:42:25.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock 宣布其价值近 30 亿美元的 sBUIDL 代币化国债基金在 Avalanche 网络上与 Euler 协议进行首次直接 DeFi 集成，基于 Securitize 开发的 sToken 框架，使 sBUIDL 代币具备链上抵押和借贷功能。此次集成由 Re7 Labs 开发，用户可将 sBUIDL 用作抵押品借贷 USDC 或 AUSD 并获取 AVAX 奖励，同时赚取 BUIDL 基金的基础收益。(TheBlock) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42535]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，美国司法部宣布对 12 名被告提起 RICO 共谋指控，涉案金额逾 2.63 亿美元，包括加密货币盗窃、洗钱和入室盗窃。嫌疑人通过黑客手段获取加密货币数据库...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923128363369234759</id>
-        <link href="https://x.com/wublockchain12/status/1923128363369234759"/>
-        <updated>2025-05-15T21:28:26.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，美国司法部宣布对 12 名被告提起 RICO 共谋指控，涉案金额逾 2.63 亿美元，包括加密货币盗窃、洗钱和入室盗窃。嫌疑人通过黑客手段获取加密货币数据库信息并筛选目标，冒充银行或交易所工作人员实施电话诈骗，并通过洗钱网络将所得资金转化为现金或奢侈品。主要嫌疑人 Malone Lam 涉嫌骗取逾 4,100 枚比特币，并在被捕后继续通过同伙实施犯罪。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42534]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国司法部宣布将继续对 Tornado Cash 联合创始人 Roman Storm 提起诉讼，指控其串谋实施洗钱、规避制裁及传输犯罪所得资金，同时撤销部分无证资金转移指控。此...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923117895078510834</id>
-        <link href="https://x.com/wublockchain12/status/1923117895078510834"/>
-        <updated>2025-05-15T20:46:50.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部宣布将继续对 Tornado Cash 联合创始人 Roman Storm 提起诉讼，指控其串谋实施洗钱、规避制裁及传输犯罪所得资金，同时撤销部分无证资金转移指控。此前，Storm 曾主张其开发 Tornado Cash 的行为受第一修正案保护，但法院裁定，使用代码实施洗钱不受言论自由保护。（Decrypt）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42533]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，根据最新提交给 SEC 的 13F 文件，截至 2025 年 3 月 31 日，威斯康星州养老金基金已清仓其 IBIT 持仓，此前持有 6,060,351 股，市值约 3.215 亿美元...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923112681248047560</id>
-        <link href="https://x.com/wublockchain12/status/1923112681248047560"/>
-        <updated>2025-05-15T20:26:07.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，根据最新提交给 SEC 的 13F 文件，截至 2025 年 3 月 31 日，威斯康星州养老金基金已清仓其 IBIT 持仓，此前持有 6,060,351 股，市值约 3.215 亿美元；阿布扎比主权财富基金 Mubadala 持有 8,726,972 股 IBIT，价值约 4.085 亿美元，较去年底增加 491,439 股。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42532]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据加密记者 Eleanor Terrett 披露，GENIUS Act 修正案草案对稳定币发行人提出多项限制，包括禁止宣称其稳定币受 FDIC 保险或美国政府信用担保，禁止使...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923084894659543540</id>
-        <link href="https://x.com/wublockchain12/status/1923084894659543540"/>
-        <updated>2025-05-15T18:35:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据加密记者 Eleanor Terrett 披露，GENIUS Act 修正案草案对稳定币发行人提出多项限制，包括禁止宣称其稳定币受 FDIC 保险或美国政府信用担保，禁止使用含有“United States”或“USG”等字样的名称，以防止消费者误以为该稳定币与政府或金融机构存在关联。此外，草案还限制大型科技公司（如 Meta、Amazon、Google 和 Microsoft）发行稳定币，除非满足金融风险控制、数据隐私保护和公平商业规范的严格要求。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42531]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，在 SEC 与 Ripple Labs 案件中，法官 Analisa Torres 否决了双方提出的指示性裁决请求。法官 Torres 认为，双方以“和解批准”名义提出的请求，实质上...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923080447543959832</id>
-        <link href="https://x.com/wublockchain12/status/1923080447543959832"/>
-        <updated>2025-05-15T18:18:02.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，在 SEC 与 Ripple Labs 案件中，法官 Analisa Torres 否决了双方提出的指示性裁决请求。法官 Torres 认为，双方以“和解批准”名义提出的请求，实质上是寻求撤销终审判决中的部分禁令和罚金条款，因此应适用联邦民事诉讼程序规则 60，而非 62.1。由于双方未能满足规则 60 要求，法院认定该请求在程序上不当并予以驳回。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42530]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据《纽约时报》报道，美国证券交易委员会（SEC）正在调查 Coinbase 是否在过去的披露中虚报用户数量。调查始于拜登政府期间，并在特朗普政府上任后继续进行，重...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923071652151296065</id>
-        <link href="https://x.com/wublockchain12/status/1923071652151296065"/>
-        <updated>2025-05-15T17:43:05.000Z</updated>
-        <summary type="html"><![CDATA[据《纽约时报》报道，美国证券交易委员会（SEC）正在调查 Coinbase 是否在过去的披露中虚报用户数量。调查始于拜登政府期间，并在特朗普政府上任后继续进行，重点关注 Coinbase 2021 年上市前及之后发布的“验证用户”数据。此前，SEC 于 2023 年指控 Coinbase 非法推销加密货币，但该诉讼在特朗普上任后被撤销。目前，Coinbase 已聘请 Davis Polk & Wardwell 律所协助应对调查。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42529]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，FTX Trading Ltd. 与 FTX Recovery Trust 宣布，根据 FTX 破产重组计划，将于 2025 年 5 月 30 日启动第二轮分配，涉及已完成预分配要求的 Convenienc...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923067780548669840</id>
-        <link href="https://x.com/wublockchain12/status/1923067780548669840"/>
-        <updated>2025-05-15T17:27:42.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，FTX Trading Ltd. 与 FTX Recovery Trust 宣布，根据 FTX 破产重组计划，将于 2025 年 5 月 30 日启动第二轮分配，涉及已完成预分配要求的 Convenience 和 Non-Convenience 类别合格债权人。此次分配比例为：5A 类 Dotcom 客户索赔 72%，5B 类美国客户索赔 54%，6A 类普通无担保债权和 6B 类数字资产贷款债权各 61%，7 类 Convenience 索赔 120%。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42528]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据《华尔街日报》报道，美联储主席 Jerome Powell 在 Thomas Laubach 研究会议上表示，由于通胀和利率自 2020 年以来发生显著变化，美联储正在审查其利率设定框...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923060292726161614</id>
-        <link href="https://x.com/wublockchain12/status/1923060292726161614"/>
-        <updated>2025-05-15T16:57:57.000Z</updated>
-        <summary type="html"><![CDATA[据《华尔街日报》报道，美联储主席 Jerome Powell 在 Thomas Laubach 研究会议上表示，由于通胀和利率自 2020 年以来发生显著变化，美联储正在审查其利率设定框架，预计审查结果将于 8 月或 9 月公布。Powell 强调，2020 年采用的平均通胀目标策略未能应对疫情后的通胀激增，美联储现计划调整框架以应对未来可能更频繁的供应冲击，同时保持 2% 的通胀目标。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42527]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0x 宣布收购竞争对手 Flood，以提升其在 DEX 聚合市场中的竞争力。此次收购是 0x 自 2017 年成立以来的首笔收购，0x 计划整合双方技术，以提供更具竞争力的交易...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923054785433043217</id>
-        <link href="https://x.com/wublockchain12/status/1923054785433043217"/>
-        <updated>2025-05-15T16:36:04.000Z</updated>
-        <summary type="html"><![CDATA[0x 宣布收购竞争对手 Flood，以提升其在 DEX 聚合市场中的竞争力。此次收购是 0x 自 2017 年成立以来的首笔收购，0x 计划整合双方技术，以提供更具竞争力的交易价格，并在 Ethereum 和 Solana 区块链上争夺市场份额。Flood 曾于 2024 年 2 月完成 520 万美元种子轮融资。(CoinDesk) https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42526]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，中国纺织服装公司 Addentax Group Corp.（纳斯达克代码：ATXG）宣布拟通过发行普通股收购约 8000 枚比特币及其他加密货币（包括 Official Trump），预...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923052542293889434</id>
-        <link href="https://x.com/wublockchain12/status/1923052542293889434"/>
-        <updated>2025-05-15T16:27:09.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，中国纺织服装公司 Addentax Group Corp.（纳斯达克代码：ATXG）宣布拟通过发行普通股收购约 8000 枚比特币及其他加密货币（包括 Official Trump），预估总价值约 8 亿美元。目前公司正与多家加密货币持有者进行谈判，但尚未达成最终协议。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42525]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，XSY fi 宣布推出基于 Avalanche 区块链的数字合成美元 Unity，并完成 500 万美元 Pre-Series A 轮融资，领投方为 Protagonist 和 Borderless Capital...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1923047179167596648</id>
-        <link href="https://x.com/wublockchain12/status/1923047179167596648"/>
-        <updated>2025-05-15T16:05:50.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，XSY fi 宣布推出基于 Avalanche 区块链的数字合成美元 Unity，并完成 500 万美元 Pre-Series A 轮融资，领投方为 Protagonist 和 Borderless Capital，参投方包括 Paper Ventures、Chainview Capital 等。Unity 通过将现货持仓与永续合约对冲，帮助 AVAX 持有者在维持现有资产敞口的同时获取可持续收益。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42524]]></summary>
-        <author>
-            <name>吴说区块链</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -211,6 +57,57 @@ TG: https://t.me/Green_Drainbrain
 CA:  0x202A43c4855e6E87c01fCE59e899065D796AC4b0]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Cav: LTHs are still adding fairly aggressively, even into strength +787k net increase of supply held by LTHs over the past 30 days somewhat similar...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1922618845233091061</id>
+        <link href="https://x.com/DeFiSurfer808/status/1922618845233091061"/>
+        <updated>2025-05-14T11:41:33.000Z</updated>
+        <summary type="html"><![CDATA[RT Cav
+LTHs are still adding fairly aggressively, even into strength
++787k net increase of supply held by LTHs over the past 30 days
+somewhat similar to the dynamic Q2-Q3 2021
+
+
+
+Cav: Long-term holders distributed into your Jan-Feb euphoria and have recently been accumulating into your March-April fear]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pepeXBT: the median house price in sydney is $1.4million the average salary is $90k ~ but lets just say you make $120k, the take home after tax is ...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1922595005937373370</id>
+        <link href="https://x.com/DeFiSurfer808/status/1922595005937373370"/>
+        <updated>2025-05-14T02:33:28.000Z</updated>
+        <summary type="html"><![CDATA[RT pepeXBT
+the median house price in sydney is $1.4million 
+the average salary is $90k ~ but lets just say you make $120k, the take home after tax is $90k
+lets say ideally one can save half of that ~ it'll take 30 years to pay off $1.4million
+30 fucking years]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where is @Bluntz_Capital]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1922402531952468131</id>
+        <link href="https://x.com/DeFiSurfer808/status/1922402531952468131"/>
+        <updated>2025-05-13T21:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Where is @Bluntz_Capital]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[this market is strong phew lads]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1922257019966283876</id>
+        <link href="https://x.com/DeFiSurfer808/status/1922257019966283876"/>
+        <updated>2025-05-13T11:46:02.000Z</updated>
+        <summary type="html"><![CDATA[this market is strong phew lads]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -282,6 +179,18 @@ BTC市值占比： 61.6%  （比较高）
 https://youtu.be/eEhd9F1CGXs?si=ST1h6rrr0O1XJQIc]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Bob Loukas 🗽: Happy Monday. Confidence and momentum have returned. The Bitcoin weekly cycle is on only week 5 (of 24 avg). If it can clear the A...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1921935957072248955</id>
+        <link href="https://x.com/DeFiSurfer808/status/1921935957072248955"/>
+        <updated>2025-05-12T13:09:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Bob Loukas 🗽
+Happy Monday.  
+Confidence and momentum have returned. The Bitcoin weekly cycle is on only week 5 (of 24 avg).  If it can clear the ATH hurdle, likely not to look back for a couple of months.]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -363,6 +272,42 @@ https://xyz.bluetile.site/#/register?code=19Te1UDP]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HODL until btc overbought on the weekly? What do u think @DegenPing]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1921348701257146677</id>
+        <link href="https://x.com/DeFiSurfer808/status/1921348701257146677"/>
+        <updated>2025-05-10T23:36:41.000Z</updated>
+        <summary type="html"><![CDATA[HODL until btc overbought on the weekly? 
+What do u think @DegenPing]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida on track to be the most powerful state in the Union]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1921205301522333946</id>
+        <link href="https://x.com/DeFiSurfer808/status/1921205301522333946"/>
+        <updated>2025-05-10T14:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Florida on track to be the most powerful state in the Union
+
+Chris Nelson: DESANTIS: “You should own your home free and clear!
+To say someone who’s been in their home 35 years has to keep ponying up money..
+You don’t own your home if that’s the case!
+If I go to Best Buy and buy a TV I pay sales tax but don’t keep paying taxes on it year after year!”]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at altbtc pairs credible case to be made the bull market hasn't started yet]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1921202014907760923</id>
+        <link href="https://x.com/DeFiSurfer808/status/1921202014907760923"/>
+        <updated>2025-05-10T13:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Looking at altbtc pairs credible case to be made the bull market hasn't started yet]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT 链求君 🔥: 马斯克小时候 😂 5tYoNn6GvLNXuWZG9fvKZPBVdTrNCZTrRtB2vtCdpump https://x.com/i/broadcasts/1nAKEgVZVDYJL]]></title>
         <id>https://twitter.com/AntCaveClub/status/1921201082761355554</id>
         <link href="https://x.com/AntCaveClub/status/1921201082761355554"/>
@@ -387,6 +332,21 @@ https://x.com/i/broadcasts/1nAKEgVZVDYJL]]></summary>
 https://x.com/i/broadcasts/1nAKEgVZVDYJL]]></summary>
         <author>
             <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Byzantine General: So is the futures basis btw, damn this is crazy. The entire market might actually be sidelined.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1921184257042432367</id>
+        <link href="https://x.com/DeFiSurfer808/status/1921184257042432367"/>
+        <updated>2025-05-10T12:23:14.000Z</updated>
+        <summary type="html"><![CDATA[RT Byzantine General
+So is the futures basis btw, damn this is crazy.
+The entire market might actually be sidelined.
+
+
+Byzantine General: Something interesting about $BTC right now is that it's basically trading at ATH, but funding and open interest are significantly lower.]]></summary>
+        <author>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
@@ -465,65 +425,162 @@ Youtube\ 推特 \ 抖音 \ 快手 \ 脸书 \ INS]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1919860663322660957</id>
-        <link href="https://x.com/OnChainWizard/status/1919860663322660957"/>
-        <updated>2025-05-06T21:03:46.000Z</updated>
+        <title type="html"><![CDATA[RT Preston Pysh: I'm not a big fan of technicals, but the weekly MACD on BTC is quite 🤔!]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920827918701240674</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920827918701240674"/>
+        <updated>2025-05-09T13:01:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Preston Pysh
+I'm not a big fan of technicals, but the weekly MACD on BTC is quite 🤔!]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90% cheaper enterprise compute 🫡]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1917567959213429005</id>
-        <link href="https://x.com/OnChainWizard/status/1917567959213429005"/>
-        <updated>2025-04-30T13:13:22.000Z</updated>
-        <summary type="html"><![CDATA[90% cheaper enterprise compute  🫡
+        <title type="html"><![CDATA[RT Jeff Walton: Hold on to your butts There are other whales in the market Things are about to get very loud and very noisy]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920670143203410337</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920670143203410337"/>
+        <updated>2025-05-09T02:38:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Jeff Walton
+Hold on to your butts
+There are other whales in the market
+Things are about to get very loud and very noisy]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Bob Loukas 🗽: Feels like this bullish sentiment shift (in crypto) has a broader appeal (Alt’s, nft, meme, DeFi,etc) than any prior move this cy...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920629148185174146</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920629148185174146"/>
+        <updated>2025-05-08T23:37:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Bob Loukas 🗽
+Feels like this bullish sentiment shift (in crypto) has a broader appeal (Alt’s, nft, meme, DeFi,etc) than any prior move this cycle.  
+Obviously far too early to know if it can stick.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT few: literally nobody is long #bitcoin. it's insane! whatever oi that accompanied the move got nuked as prices moved up and shorts got rekt.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920602313632121289</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920602313632121289"/>
+        <updated>2025-05-08T21:13:37.000Z</updated>
+        <summary type="html"><![CDATA[RT few
+literally nobody is long #bitcoin. it's insane!
+whatever oi that accompanied the move got nuked as prices moved up and shorts got rekt.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Treasury Secretary Scott Bessent: For stablecoins and other digital assets to thrive globally, the world needs American leadership. The Senate miss...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1920664083235246590</id>
+        <link href="https://x.com/DeFi_educator/status/1920664083235246590"/>
+        <updated>2025-05-08T18:48:16.000Z</updated>
+        <summary type="html"><![CDATA[RT Treasury Secretary Scott Bessent
+For stablecoins and other digital assets to thrive globally, the world needs American leadership.
+The Senate missed an opportunity to provide that leadership today by failing to advance the GENIUS Act.
+This bill represents a once-in-a-generation opportunity to expand dollar dominance and U.S. influence in financial innovation. Without it, stablecoins will be subject to a patchwork of state regulations instead of a streamlined federal framework that is more conducive to growth and competitiveness.
+The world is watching while American lawmakers twiddle their thumbs. Senators who voted to stonewall U.S. ingenuity today face a simple choice: Either step up and lead or watch digital asset innovation move offshore.]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boyz?]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920517878815629578</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920517878815629578"/>
+        <updated>2025-05-08T16:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Boyz?
 
-io.net: Cost math that makes CFOs smile😁😁
-Enterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.
-Are you in the business of running invoices or running models?
-@ionet has your back.]]></summary>
+CryptoAmsterdam: Altcoins
+If Ethereum can successfully reclaim this range low, I genuinely believe we'll see the Altseason we were all waiting for. 
+(1/4)]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chads keep shipping $IO]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1916903568717578608</id>
-        <link href="https://x.com/OnChainWizard/status/1916903568717578608"/>
-        <updated>2025-04-28T17:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Chads keep shipping $IO
+        <title type="html"><![CDATA[RT Watcher.Guru: JUST IN: 🇺🇸 Arizona Governor officially signs law to establish a "Bitcoin Reserve Fund."]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1920277260717764910</id>
+        <link href="https://x.com/DeFi_educator/status/1920277260717764910"/>
+        <updated>2025-05-08T00:32:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Watcher.Guru
+JUST IN: 🇺🇸 Arizona Governor officially signs law to establish a "Bitcoin Reserve Fund."]]></summary>
+        <author>
+            <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT fejau: High frequency coincident data like the Daily Treasury Statement withheld income shows no sign of economic deterioration and continues to hu...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920241261052665918</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920241261052665918"/>
+        <updated>2025-05-07T22:05:18.000Z</updated>
+        <summary type="html"><![CDATA[RT fejau
+High frequency coincident data like the Daily Treasury Statement withheld income shows no sign of economic deterioration and continues to hum along at ~7% YoY. 
+No signs of recession yet.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Geiger Capital: What happens when you don’t flood the country with cheap, foreign and illegal labor… American kids get good trade jobs straight o...]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920220588661989727</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920220588661989727"/>
+        <updated>2025-05-07T20:38:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Geiger Capital
+What happens when you don’t flood the country with cheap, foreign and illegal labor…
+American kids get good trade jobs straight out of high school like their fathers did.]]></summary>
+        <author>
+            <name>Surfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Michael Green: I want to be absolutely clear here. “We have a domestic inequality problem that people have now confused with a free trade problem....]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920286415440543833</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920286415440543833"/>
+        <updated>2025-05-07T17:14:06.000Z</updated>
+        <summary type="html"><![CDATA[RT Michael Green
+I want to be absolutely clear here.
+“We have a domestic inequality problem that people have now confused with a free trade problem.”
+The part after the first “problem” is wrong. We have confused unbalanced trade with free trade. FREE trade balances through currency. We have incentivized balance through sale of financial capital (stocks and bonds) and real estate, benefiting capital owners who import foreign labor in the form of goods and experience rising incomes through credit issued to an increasingly debt-burdened wage earners.
+I GET the libertarian argument. I was trained at the cathedral of it (Wharton). Everything moves in cycles. Intrusive and abusive government is a symptom of a fraying society.
+And to directly address the observation, yes we are a wealthy country (albeit less so on a relative basis than 50 and 100 years ago) and we benefit from trade. It’s not that other countries have “stolen” from us. It’s that we have allowed unbalanced trade to disproportionately benefit a global elite class that is now largely separate and distinct from their fellow countrymen (in both China and the U.S.) @michaelxpettis
 
-io.net: 🧱 Bare metal is now live!
-You can now deploy physical GPU/CPU machines—no VMs, no abstraction, full control.
-What it means:
-🔓 Root access with Jump Server provisioning
-🚀 Launch in minutes, no contracts
-🎯 Perfect for LLM training, secure workloads, and custom environments
-🧠]]></summary>
+Cullen Roche: @profplum99 @bariweiss Mike, we’re the wealthiest country in human history. The median American is in the top 10% of global wealth. We’re the wealthiest country per capita in the G20. When you exclude the G7 the USA has 50% of ALL global wealth. 
+This idea that the rest of the world took advantage of]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”. I think...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1913004040037736699</id>
-        <link href="https://x.com/OnChainWizard/status/1913004040037736699"/>
-        <updated>2025-04-17T22:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Guy who cuts my hair and supports the tariffs “yea well I mean China just has to pay the fees right so how bad could it be for the economy”.    I think this guy is advising trump]]></summary>
+        <title type="html"><![CDATA[RT Mark Mitchell, Rasmussen Reports: Republican Trump approval back up to 80. Strong approval at 64%.]]></title>
+        <id>https://twitter.com/DeFiSurfer808/status/1920206820661940446</id>
+        <link href="https://x.com/DeFiSurfer808/status/1920206820661940446"/>
+        <updated>2025-05-07T13:18:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Mark Mitchell, Rasmussen Reports
+Republican Trump approval back up to 80.  Strong approval at 64%.]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>Surfer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The only platform you need]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1912956684827545839</id>
-        <link href="https://x.com/OnChainWizard/status/1912956684827545839"/>
-        <updated>2025-04-17T19:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The only platform you need]]></summary>
+        <title type="html"><![CDATA[RT L0la L33tz: If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that "unhosted wallets" are what ena...]]></title>
+        <id>https://twitter.com/DeFi_educator/status/1917625297706324115</id>
+        <link href="https://x.com/DeFi_educator/status/1917625297706324115"/>
+        <updated>2025-04-29T13:39:02.000Z</updated>
+        <summary type="html"><![CDATA[RT L0la L33tz
+If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that "unhosted wallets" are what enable cartels to launder money through cryptocurrencies?
+Or could it be that the actual problem is that cartels still somehow manage to deposit their cash in the financial system, despite extensive AML/CFT frameworks imposed on banks?
+And if these frameworks are already exploited by cartels, can you outline precisely how imposing these same AML/CFT regulations on "unhosted wallets" would stop cartels from exploiting them – and not just impose unproportionate burdens on the average user?
+Given what Elliptic has outlined in their newest report, lawmakers should be extremely wary of relying on for-profit marketing materials to inform their decisions, and keep in mind that the expansion of AML/CFT frameworks to "unhosted wallets" would drastically enlarge such firms' addressable market, constituting a clear profit motive – while likely doing nothing to stop actual crime.
+
+
+The Rage: A new report by the Blockchain Surveillance firm Elliptic showcases how cartels exploit deficiencies in current AML/CFT frameworks, raising the question whether "unhosted wallets" are really the problem.
+Full story 👇
+https://www.therage.co/new-elliptic-report-are-unhosted-wallets-really-the-problem/]]></summary>
         <author>
-            <name>Onchain Wizard</name>
+            <name>DeFi Educator</name>
         </author>
     </entry>
 </feed>
