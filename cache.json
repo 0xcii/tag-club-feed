@@ -1,10 +1,171 @@
 {
   "sources": [
     {
-      "title": "Twitter @Deleted Account",
-      "feedUrl": "https://rsshub.app/twitter/user/8848Community",
-      "siteUrl": "https://x.com/8848community",
-      "articles": []
+      "title": "Twitter @吴说区块链",
+      "feedUrl": "https://rsshub.app/twitter/user/wublockchain12",
+      "siteUrl": "https://x.com/wublockchain12",
+      "articles": [
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925893552870961571",
+          "author": "吴说区块链",
+          "description": "吴说获悉，特朗普发文表示，已明确要求苹果公司 CEO Tim Cook，所有将在美国销售的 iPhone 必须在美国本土制造，而非印度或其他地区。如未按要求生产，苹果需为每部 iPhone 支付至少 25% 的关税。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42915",
+          "link": "https://x.com/wublockchain12/status/1925893552870961571",
+          "publishedOn": "2025-05-23T12:36:19.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，特朗普发文表示，已明确要求苹果公司 CEO Tim Cook，所有将在美国销售的 iPhone 必须在美国本土制造，而非印度或其他地区。如未按要求生产，苹果需为...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925890033745031372",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 GMGN 数据，Smart Money 地址: 0x26…3c74 在过去一个多小时里清仓了全部的 B，总利润达 50.29 万美元，致使 B 大幅下跌。该 Smart Money 地址: 0x26…3c74 在 WLFI 官宣买入 B 的一个小时后花费 10.75 万美元买入了 330 万枚 B。社区传言该 Smart Money 地址为 WLFI 所有，但链上显示二者并无任何资金交集；WLFI: 0xA7…559F 仍持有 63.7 万枚 B，并未抛售。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42914",
+          "link": "https://x.com/wublockchain12/status/1925890033745031372",
+          "publishedOn": "2025-05-23T12:22:20.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 GMGN 数据，Smart Money 地址: 0x26…3c74 在过去一个多小时里清仓了全部的 B，总利润达 50.29 万美元，致使 B 大幅下跌。该 Smart Money 地址: 0x...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925889434026664174",
+          "author": "吴说区块链",
+          "description": "吴说获悉，Mysten Labs 官方人员昨日紧急上线了一个白名单（transaction_allow_list_skip_all_checks）请求，但随后又关闭了该 PR，显示在探索新的救援思路。据 @0x_Todd，根据该白名单功能，如果日后需要追回或黑客归还资金，官方可以预先构造一笔特定“救援交易”，这样即便它已经被黑名单锁住，也能绕过所有校验一次性执行。 但白名单功能没有直接拿走黑客钱的权力，除非另外发布一个还原模块（系统底层级别特权）并把该升级交易加入白名单。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42913",
+          "link": "https://x.com/wublockchain12/status/1925889434026664174",
+          "publishedOn": "2025-05-23T12:19:57.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，Mysten Labs 官方人员昨日紧急上线了一个白名单（transaction_allow_list_skip_all_checks）请求，但随后又关闭了该 PR，显示在探索新的救援思路。据 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925888944681464286",
+          "author": "吴说区块链",
+          "description": "吴说获悉，特朗普发文称，欧盟通过贸易壁垒、增值税、货币操控及不公诉讼等手段对美企不利，导致美国每年对欧贸易逆差超 250 亿美元。他表示与欧盟的谈判毫无进展，因而建议自 2025 年 6 月 1 日起，对所有来自欧盟的商品征收 50% 关税，除非该商品是在美国本土生产制造。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42912",
+          "link": "https://x.com/wublockchain12/status/1925888944681464286",
+          "publishedOn": "2025-05-23T12:18:00.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，特朗普发文称，欧盟通过贸易壁垒、增值税、货币操控及不公诉讼等手段对美企不利，导致美国每年对欧贸易逆差超 250 亿美元。他表示与欧盟的谈判毫无进...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925887621206626656",
+          "author": "吴说区块链",
+          "description": "吴说获悉，币安宣布将于 5 月 28 日 13:00（UTC）上线新项目 Sophon（SOPH）于 Binance Alpha，并于 13:30 推出 SOPHUSDT 永续合约，最高支持 50 倍杠杆。Sophon 是一条基于 ZK Stack 的娱乐公链。为配合上线，Binance 将开启限时 Alpha 空投，用户可使用 Alpha Points 参与领取。\nOKX 将于 2025 年 5 月 28 日下午 9:00 (UTC+8)上线 SOPH/USDT（Sophon）现货交易。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42911",
+          "link": "https://x.com/wublockchain12/status/1925887621206626656",
+          "publishedOn": "2025-05-23T12:12:44.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，币安宣布将于 5 月 28 日 13:00（UTC）上线新项目 Sophon（SOPH）于 Binance Alpha，并于 13:30 推出 SOPHUSDT 永续合约，最高支持 50 倍杠杆。Sophon...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925881010949857422",
+          "author": "吴说区块链",
+          "description": "Sui 生态 DEX 项目 Cetus 向攻击者发出链上白帽协议提议，愿提供 2,324 枚 ETH（约 600 万美元）作为赏金，条件是归还被盗资金，其余部分将不再追责。团队表示已与执法机构、反网络犯罪组织合作追踪资金，并在 GitHub 中提出潜在紧急机制以限制攻击者交易。Cetus 昨日遭遇攻击损失超 2.2 亿美元，目前已冻结其中约 1.62 亿美元。（Cointelegraph）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42910",
+          "link": "https://x.com/wublockchain12/status/1925881010949857422",
+          "publishedOn": "2025-05-23T11:46:28.000Z",
+          "wordCount": null,
+          "title": "Sui 生态 DEX 项目 Cetus 向攻击者发出链上白帽协议提议，愿提供 2,324 枚 ETH（约 600 万美元）作为赏金，条件是归还被盗资金，其余部分将不再追责。团队表示已...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925851727476982080",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Arkham 监测，Abraxas Capital Management(Heka Funds) 于本日 17:38 UTC+8 向 Hyperliquid 转入了 500 万枚 USDC。目前 Abraxas Capital 在 Hyperliquid 持有头寸规模超过 3.8 亿美元的 BTC、ETH、SOL、HYPE 和 SUI 空头头寸，可能是在进行跨所资金费套利等中性策略。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42908",
+          "link": "https://x.com/wublockchain12/status/1925851727476982080",
+          "publishedOn": "2025-05-23T09:50:07.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Arkham 监测，Abraxas Capital Management(Heka Funds) 于本日 17:38 UTC+8 向 Hyperliquid 转入了 500 万枚 USDC。目前 Abraxas Capital 在 Hyper...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925849491489296626",
+          "author": "吴说区块链",
+          "description": "吴说获悉，针对《华尔街日报》（WSJ）近日报道，币安创始人赵长鹏（CZ）在社交平台公开回应，否认其在特朗普家族加密项目 World Liberty Foreign（WLF） 中担任“中间人”或“牵线人”。他表示，WSJ 所提问题中包含大量带有倾向性的假设与错误信息，相关报道缺乏事实基础。他强调，自己并未参与所谓的安排或引荐，与报道中提及的官员无私人往来。\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42907",
+          "link": "https://x.com/wublockchain12/status/1925849491489296626",
+          "publishedOn": "2025-05-23T09:41:13.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，针对《华尔街日报》（WSJ）近日报道，币安创始人赵长鹏（CZ）在社交平台公开回应，否认其在特朗普家族加密项目 World Liberty Foreign（WLF） 中担任...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925822707037257824",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Greekslive，2.5 万张 BTC 期权到期，Put Call Ratio 为 1.22，最大痛点 104000 美元，名义价值 28.1 亿美元。20.2 万张 ETH 期权到期，Put Call Ratio 为 1.26，最大痛点 2450 美元，名义价值 5.7 亿美元。本周比特币中短期限 RV 反弹至 45% 以上，但 IV 仍维持在 45%，各期限的 VRP 继续回落。交割量不足总持仓的 8%，这个比例正在不断下降，证明加密机构并没有对大饼新高出现太多反应，对未来的预期也比较平。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42906",
+          "link": "https://x.com/wublockchain12/status/1925822707037257824",
+          "publishedOn": "2025-05-23T07:54:48.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Greekslive，2.5 万张 BTC 期权到期，Put Call Ratio 为 1.22，最大痛点 104000 美元，名义价值 28.1 亿美元。20.2 万张 ETH 期权到期，Put Call R...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925810581451227215",
+          "author": "吴说区块链",
+          "description": "《分析: Sui 官方是如何冻结黑客 1.6 亿美金？》(作者 Haotian) 验证者在交易池（mempool）阶段直接忽略黑客地址的交易。这些交易技术上完全有效，但就是不给你打包上链。黑客的资金就这样被\"软禁\"在地址里。黑客虽然控制着地址里的大量资产，但要转移这些 USDC、SUI 等，必须发起交易并被验证者打包确认，验证者掌握生杀大权，验证者拒绝打包，对象就永远动不了。除了验证者临时协调外，Sui 可能在系统层面预设了拒绝列表功能。Sui 官方还表示要将冻结资金返回给 pool，但如果真是验证者\"拒绝打包交易\"，这些资金理论上应该永远动不了，Sui 是如何做到返还的呢？这进一步挑战了 Sui 这条链的去中心化特性。阅读全文：https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=42904",
+          "link": "https://x.com/wublockchain12/status/1925810581451227215",
+          "publishedOn": "2025-05-23T07:06:37.000Z",
+          "wordCount": null,
+          "title": "《分析: Sui 官方是如何冻结黑客 1.6 亿美金？》(作者 Haotian) 验证者在交易池（mempool）阶段直接忽略黑客地址的交易。这些交易技术上完全有效，但就是不给你...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925804332399624533",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 Solscan 浏览器，被 Arkham 标记为 Jump Crypto: GtxgnR…CLxKdq 于 5 月 22 日 12:45 UTC+8 接收到了 200 万枚 SOON，疑似 Jump Crypto 是 SOON 做市商之一。Jump Crypto: GtxgnR…CLxKdq 在本日 14:24 UTC+8 向 Gate Deposit 转移了 19.94 万枚 SOON。这可能是 Jump 在川普执政后重新回归加密货币做市商业务的标志。H/T: @ai_9684xtpa\nhttps://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42903",
+          "link": "https://x.com/wublockchain12/status/1925804332399624533",
+          "publishedOn": "2025-05-23T06:41:47.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 Solscan 浏览器，被 Arkham 标记为 Jump Crypto: GtxgnR…CLxKdq 于 5 月 22 日 12:45 UTC+8 接收到了 200 万枚 SOON，疑似 Jump Crypto 是 SOON ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925794295258226860",
+          "author": "吴说区块链",
+          "description": "Web3 基础设施提供商 Ankr 的企业级方案 Asphere 现已为其 Rollup 部署套件推出加密支付功能，用户可以直接从以太坊或 Solana 钱包中使用 ANKR、USDC 或 USDT 支付自定义 Rollup 费用。Asphere 结合了无代码部署器、可定制 Rollup 堆栈和加密支付功能，为开发者消除了传统区块链开发相关的高技术障碍。Asphere 的全新加密支付由 Loop Crypto 提供支持。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42902",
+          "link": "https://x.com/wublockchain12/status/1925794295258226860",
+          "publishedOn": "2025-05-23T06:01:54.000Z",
+          "wordCount": null,
+          "title": "Web3 基础设施提供商 Ankr 的企业级方案 Asphere 现已为其 Rollup 部署套件推出加密支付功能，用户可以直接从以太坊或 Solana 钱包中使用 ANKR、USDC 或 USDT 支...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925780584464269647",
+          "author": "吴说区块链",
+          "description": "吴说获悉，SOON 公布其代币 SOON 的最新经济模型，总代币量为 10 亿枚。具体分配为：社区激励 51%（包括 NFT 空投、跟单激励、早期参与者、用户任务等），生态建设 25%，空投与流动性支持 8%，基金会 6%，团队与共建者 10%。代币初始在 Solana、BNB Chain 链上。同时，SOON 直播跟单产品 Simpfor fun V2 正式上线，支持在 Hyperliquid 上一键复制聪明钱地址交易，包括 James Wynn 地址。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42901",
+          "link": "https://x.com/wublockchain12/status/1925780584464269647",
+          "publishedOn": "2025-05-23T05:07:25.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，SOON 公布其代币 SOON 的最新经济模型，总代币量为 10 亿枚。具体分配为：社区激励 51%（包括 NFT 空投、跟单激励、早期参与者、用户任务等），生态建...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925767264537579711",
+          "author": "吴说区块链",
+          "description": "吴说获悉，据 @EmberCN 监测，5 月 8 日起以 5 倍杠杆做空 187.5 万枚 HYPE（开仓价 $20.4）的某巨鲸于今日早前平仓，最终亏损约 2352 万美元（亏损率 77%）。该巨鲸曾多次追加保证金，累计投入约 3050 万美元。由于 HYPE 持续上涨并接近清算价格，该巨鲸于约两小时前主动平仓，剩余资产为 698 万美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42898",
+          "link": "https://x.com/wublockchain12/status/1925767264537579711",
+          "publishedOn": "2025-05-23T04:14:29.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，据 @EmberCN 监测，5 月 8 日起以 5 倍杠杆做空 187.5 万枚 HYPE（开仓价 $20.4）的某巨鲸于今日早前平仓，最终亏损约 2352 万美元（亏损率 77%）。该...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925762714606969065",
+          "author": "吴说区块链",
+          "description": "吴说获悉，根据 SoSoValue 数据，昨日（美东时间 5 月 22 日）以太坊现货 ETF 总净流入 1.11 亿美元，持续 5 日净流入。昨日单日净流入最多的以太坊现货 ETF 为灰度（Grayscale）以太坊信托 ETF ETHE，单日净流入为 4374.52 万美元，目前 ETHE 历史总净流出达 42.85 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42896",
+          "link": "https://x.com/wublockchain12/status/1925762714606969065",
+          "publishedOn": "2025-05-23T03:56:24.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，根据 SoSoValue 数据，昨日（美东时间 5 月 22 日）以太坊现货 ETF 总净流入 1.11 亿美元，持续 5 日净流入。昨日单日净流入最多的以太坊现货 ETF 为...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wublockchain12/status/1925761976807911797",
+          "author": "吴说区块链",
+          "description": "吴说获悉，根据 SoSoValue 数据，昨日（美东时间 5 月 22 日）比特币现货 ETF 总净流入 9.35 亿美元，持续 7 日净流入。昨日单日净流入最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流入为 8.77 亿美元，目前 IBIT 历史总净流入达 475.54 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=42895",
+          "link": "https://x.com/wublockchain12/status/1925761976807911797",
+          "publishedOn": "2025-05-23T03:53:28.000Z",
+          "wordCount": null,
+          "title": "吴说获悉，根据 SoSoValue 数据，昨日（美东时间 5 月 22 日）比特币现货 ETF 总净流入 9.35 亿美元，持续 7 日净流入。昨日单日净流入最多的比特币现货 ETF 为...",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Twitter @链求君 🔥",
@@ -174,6 +335,43 @@
       ]
     },
     {
+      "title": "Twitter @DeFi Educator",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFi_educator",
+      "siteUrl": "https://x.com/DeFi_educator",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1920664083235246590",
+          "author": "DeFi Educator",
+          "description": "RT Treasury Secretary Scott Bessent\nFor stablecoins and other digital assets to thrive globally, the world needs American leadership.\nThe Senate missed an opportunity to provide that leadership today by failing to advance the GENIUS Act.\nThis bill represents a once-in-a-generation opportunity to expand dollar dominance and U.S. influence in financial innovation. Without it, stablecoins will be subject to a patchwork of state regulations instead of a streamlined federal framework that is more conducive to growth and competitiveness.\nThe world is watching while American lawmakers twiddle their thumbs. Senators who voted to stonewall U.S. ingenuity today face a simple choice: Either step up and lead or watch digital asset innovation move offshore.",
+          "link": "https://x.com/DeFi_educator/status/1920664083235246590",
+          "publishedOn": "2025-05-08T18:48:16.000Z",
+          "wordCount": null,
+          "title": "RT Treasury Secretary Scott Bessent: For stablecoins and other digital assets to thrive globally, the world needs American leadership. The Senate miss...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1920277260717764910",
+          "author": "DeFi Educator",
+          "description": "RT Watcher.Guru\nJUST IN: 🇺🇸 Arizona Governor officially signs law to establish a \"Bitcoin Reserve Fund.\"",
+          "link": "https://x.com/DeFi_educator/status/1920277260717764910",
+          "publishedOn": "2025-05-08T00:32:15.000Z",
+          "wordCount": null,
+          "title": "RT Watcher.Guru: JUST IN: 🇺🇸 Arizona Governor officially signs law to establish a \"Bitcoin Reserve Fund.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_educator/status/1917625297706324115",
+          "author": "DeFi Educator",
+          "description": "RT L0la L33tz\nIf you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that \"unhosted wallets\" are what enable cartels to launder money through cryptocurrencies?\nOr could it be that the actual problem is that cartels still somehow manage to deposit their cash in the financial system, despite extensive AML/CFT frameworks imposed on banks?\nAnd if these frameworks are already exploited by cartels, can you outline precisely how imposing these same AML/CFT regulations on \"unhosted wallets\" would stop cartels from exploiting them – and not just impose unproportionate burdens on the average user?\nGiven what Elliptic has outlined in their newest report, lawmakers should be extremely wary of relying on for-profit marketing materials to inform their decisions, and keep in mind that the expansion of AML/CFT frameworks to \"unhosted wallets\" would drastically enlarge such firms' addressable market, constituting a clear profit motive – while likely doing nothing to stop actual crime.\n\n\nThe Rage: A new report by the Blockchain Surveillance firm Elliptic showcases how cartels exploit deficiencies in current AML/CFT frameworks, raising the question whether \"unhosted wallets\" are really the problem.\nFull story 👇\nhttps://www.therage.co/new-elliptic-report-are-unhosted-wallets-really-the-problem/",
+          "link": "https://x.com/DeFi_educator/status/1917625297706324115",
+          "publishedOn": "2025-04-29T13:39:02.000Z",
+          "wordCount": null,
+          "title": "RT L0la L33tz: If you, an unbiased person, take a look at this graphic by Elliptic, do you come to the conclusion that \"unhosted wallets\" are what ena...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Twitter @Onchain Wizard",
       "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
       "siteUrl": "https://x.com/OnChainWizard",
@@ -216,6 +414,213 @@
           "publishedOn": "2025-04-28T17:13:19.000Z",
           "wordCount": null,
           "title": "Chads keep shipping $IO",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Surfer",
+      "feedUrl": "https://rsshub.app/twitter/user/DeFiSurfer808",
+      "siteUrl": "https://x.com/DeFiSurfer808",
+      "articles": [
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1925881076179689733",
+          "author": "Surfer",
+          "description": "Memes pumping into a long weekend…",
+          "link": "https://x.com/DeFiSurfer808/status/1925881076179689733",
+          "publishedOn": "2025-05-23T11:46:44.000Z",
+          "wordCount": null,
+          "title": "Memes pumping into a long weekend…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1925171660769870213",
+          "author": "Surfer",
+          "description": "RT CryptoAmsterdam\nPretty sure this billion is printed just for buying our bags.\n\n\nWhale Alert: 💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 1,000,000,000 #USDT (1,000,292,483 USD) minted at Tether Treasury\nhttps://whale-alert.io/transaction/tron/cddc3403cd7c610f6d5f60f1fd6ba1cc090993229193d95eb8e6be36a0be15a6",
+          "link": "https://x.com/DeFiSurfer808/status/1925171660769870213",
+          "publishedOn": "2025-05-21T12:47:32.000Z",
+          "wordCount": null,
+          "title": "RT CryptoAmsterdam: Pretty sure this billion is printed just for buying our bags.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924919070450729393",
+          "author": "Surfer",
+          "description": "RT @ConnorJBates_: Remember this chart when the market dips.",
+          "link": "https://x.com/DeFiSurfer808/status/1924919070450729393",
+          "publishedOn": "2025-05-20T20:04:04.000Z",
+          "wordCount": null,
+          "title": "RT @ConnorJBates_: Remember this chart when the market dips.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924917836025114906",
+          "author": "Surfer",
+          "description": "Btc breaking out so long memes???",
+          "link": "https://x.com/DeFiSurfer808/status/1924917836025114906",
+          "publishedOn": "2025-05-20T19:59:10.000Z",
+          "wordCount": null,
+          "title": "Btc breaking out so long memes???",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924909472323195125",
+          "author": "Surfer",
+          "description": "Interesting gold and btc rising together...",
+          "link": "https://x.com/DeFiSurfer808/status/1924909472323195125",
+          "publishedOn": "2025-05-20T19:25:55.000Z",
+          "wordCount": null,
+          "title": "Interesting gold and btc rising together...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924603650334478365",
+          "author": "Surfer",
+          "description": "there's so much apathy about this ath high run",
+          "link": "https://x.com/DeFiSurfer808/status/1924603650334478365",
+          "publishedOn": "2025-05-19T23:10:42.000Z",
+          "wordCount": null,
+          "title": "there's so much apathy about this ath high run",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924603428543627317",
+          "author": "Surfer",
+          "description": "RT Alex Krüger\nAt Saylor's recent accumulation rate of 1,620 BTC per day (since Nov/2024), it would take him 5.7 years to acquire 20% of Bitcoin’s supply (excluding lost coins).\nThat's how much of the silver supply the Hunt Brothers held when they cornered the silver market in early 1980.",
+          "link": "https://x.com/DeFiSurfer808/status/1924603428543627317",
+          "publishedOn": "2025-05-19T22:48:08.000Z",
+          "wordCount": null,
+          "title": "RT Alex Krüger: At Saylor's recent accumulation rate of 1,620 BTC per day (since Nov/2024), it would take him 5.7 years to acquire 20% of Bitcoin’s ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924604924744130971",
+          "author": "Surfer",
+          "description": "RT Stone tossers",
+          "link": "https://x.com/DeFiSurfer808/status/1924604924744130971",
+          "publishedOn": "2025-05-19T18:55:30.000Z",
+          "wordCount": null,
+          "title": "RT Stone tossers:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924245444806521288",
+          "author": "Surfer",
+          "description": "btc ath this week laddies",
+          "link": "https://x.com/DeFiSurfer808/status/1924245444806521288",
+          "publishedOn": "2025-05-18T23:27:19.000Z",
+          "wordCount": null,
+          "title": "btc ath this week laddies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924295329375011033",
+          "author": "Surfer",
+          "description": "RT Mike Zaccardi, CFA, CMT 🍖\nMedian age of homebuyers is 56 today.\nIt was 31 in 1981",
+          "link": "https://x.com/DeFiSurfer808/status/1924295329375011033",
+          "publishedOn": "2025-05-18T18:00:42.000Z",
+          "wordCount": null,
+          "title": "RT Mike Zaccardi, CFA, CMT 🍖: Median age of homebuyers is 56 today. It was 31 in 1981",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1924080597065937390",
+          "author": "Surfer",
+          "description": "The btc bbands getting tight on the 4H…\nWhat we thinking @DegenPing",
+          "link": "https://x.com/DeFiSurfer808/status/1924080597065937390",
+          "publishedOn": "2025-05-18T12:32:16.000Z",
+          "wordCount": null,
+          "title": "The btc bbands getting tight on the 4H… What we thinking @DegenPing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1923802132316066054",
+          "author": "Surfer",
+          "description": "RT @CarpeNoctom: $BTC CoT Net\n- commercials (red) longest ever \n- small spec (yellow, retail) shortest ever\n- large spec (blue) short\nTha…",
+          "link": "https://x.com/DeFiSurfer808/status/1923802132316066054",
+          "publishedOn": "2025-05-17T18:05:45.000Z",
+          "wordCount": null,
+          "title": "RT @CarpeNoctom: $BTC CoT Net - commercials (red) longest ever - small spec (yellow, retail) shortest ever - large spec (blue) short Tha…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1923490983867453942",
+          "author": "Surfer",
+          "description": "👀\n\nBracco ⚡️: Today, the Nasdaq triggered the start of a \"Power Trend\"\nThe power trend is a concept that was created based on historical trend studies done by @mwebster1971  @chasharris1025 and @IBD_JNielsen \nThe power trend is not a \"buy signal\" in itself, but a tool to help align your",
+          "link": "https://x.com/DeFiSurfer808/status/1923490983867453942",
+          "publishedOn": "2025-05-16T21:29:21.000Z",
+          "wordCount": null,
+          "title": "👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1923174701112635527",
+          "author": "Surfer",
+          "description": "Bitcoin's consolidating inches below ATH and nobody cares. \nCrazy.",
+          "link": "https://x.com/DeFiSurfer808/status/1923174701112635527",
+          "publishedOn": "2025-05-16T00:32:34.000Z",
+          "wordCount": null,
+          "title": "Bitcoin's consolidating inches below ATH and nobody cares. Crazy.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1923172803391455333",
+          "author": "Surfer",
+          "description": "This is how you bull post\n\nRittenhouse Research: Rittenhouse Research is long Galaxy Digital $GLXY $BRPHF \nWe believe Galaxy's flagship data center Helios will generate $1.7B of EBITDA and $32B of equity value in the near-term, w/ significant further upside.\nOur full thesis can be found via PDF here: \nhttps://rittenhouseresearch.substack.com/p/galaxy-digital",
+          "link": "https://x.com/DeFiSurfer808/status/1923172803391455333",
+          "publishedOn": "2025-05-16T00:25:01.000Z",
+          "wordCount": null,
+          "title": "This is how you bull post",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1922618845233091061",
+          "author": "Surfer",
+          "description": "RT Cav\nLTHs are still adding fairly aggressively, even into strength\n+787k net increase of supply held by LTHs over the past 30 days\nsomewhat similar to the dynamic Q2-Q3 2021\n\n\n\nCav: Long-term holders distributed into your Jan-Feb euphoria and have recently been accumulating into your March-April fear",
+          "link": "https://x.com/DeFiSurfer808/status/1922618845233091061",
+          "publishedOn": "2025-05-14T11:41:33.000Z",
+          "wordCount": null,
+          "title": "RT Cav: LTHs are still adding fairly aggressively, even into strength +787k net increase of supply held by LTHs over the past 30 days somewhat similar...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1922595005937373370",
+          "author": "Surfer",
+          "description": "RT pepeXBT\nthe median house price in sydney is $1.4million \nthe average salary is $90k ~ but lets just say you make $120k, the take home after tax is $90k\nlets say ideally one can save half of that ~ it'll take 30 years to pay off $1.4million\n30 fucking years",
+          "link": "https://x.com/DeFiSurfer808/status/1922595005937373370",
+          "publishedOn": "2025-05-14T02:33:28.000Z",
+          "wordCount": null,
+          "title": "RT pepeXBT: the median house price in sydney is $1.4million the average salary is $90k ~ but lets just say you make $120k, the take home after tax is ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1922402531952468131",
+          "author": "Surfer",
+          "description": "Where is @Bluntz_Capital",
+          "link": "https://x.com/DeFiSurfer808/status/1922402531952468131",
+          "publishedOn": "2025-05-13T21:24:14.000Z",
+          "wordCount": null,
+          "title": "Where is @Bluntz_Capital",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1922257019966283876",
+          "author": "Surfer",
+          "description": "this market is strong phew lads",
+          "link": "https://x.com/DeFiSurfer808/status/1922257019966283876",
+          "publishedOn": "2025-05-13T11:46:02.000Z",
+          "wordCount": null,
+          "title": "this market is strong phew lads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFiSurfer808/status/1921935957072248955",
+          "author": "Surfer",
+          "description": "RT Bob Loukas 🗽\nHappy Monday.  \nConfidence and momentum have returned. The Bitcoin weekly cycle is on only week 5 (of 24 avg).  If it can clear the ATH hurdle, likely not to look back for a couple of months.",
+          "link": "https://x.com/DeFiSurfer808/status/1921935957072248955",
+          "publishedOn": "2025-05-12T13:09:05.000Z",
+          "wordCount": null,
+          "title": "RT Bob Loukas 🗽: Happy Monday. Confidence and momentum have returned. The Bitcoin weekly cycle is on only week 5 (of 24 avg). If it can clear the A...",
           "imageUrl": null
         }
       ]
