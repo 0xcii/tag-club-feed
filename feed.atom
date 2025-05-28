@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T16:22:24.388Z</id>
+    <id>urn:2025-05-28T17:16:26.566Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-28T16:22:24.388Z</updated>
+    <updated>2025-05-28T17:16:26.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -444,18 +444,6 @@ https://whale-alert.io/transaction/tron/cddc3403cd7c610f6d5f60f1fd6ba1cc09099322
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Really cool initiative from one of my favorite trading venues. Check to see if you got airdropped a liquidation free levered position (also it’s a re...]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1924639082354786543</id>
-        <link href="https://x.com/OnChainWizard/status/1924639082354786543"/>
-        <updated>2025-05-20T01:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Really cool initiative from one of my favorite trading venues.   Check to see if you got airdropped a liquidation free levered position (also it’s a real airdrop btw)
-
-f(x) Protocol: http://x.com/i/article/1924451958162657280]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[there's so much apathy about this ath high run]]></title>
         <id>https://twitter.com/DeFiSurfer808/status/1924603650334478365</id>
         <link href="https://x.com/DeFiSurfer808/status/1924603650334478365"/>
@@ -518,30 +506,6 @@ It was 31 in 1981]]></summary>
 What we thinking @DegenPing]]></summary>
         <author>
             <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1919860663322660957</id>
-        <link href="https://x.com/OnChainWizard/status/1919860663322660957"/>
-        <updated>2025-05-06T21:03:46.000Z</updated>
-        <author>
-            <name>Onchain Wizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90% cheaper enterprise compute 🫡]]></title>
-        <id>https://twitter.com/OnChainWizard/status/1917567959213429005</id>
-        <link href="https://x.com/OnChainWizard/status/1917567959213429005"/>
-        <updated>2025-04-30T13:13:22.000Z</updated>
-        <summary type="html"><![CDATA[90% cheaper enterprise compute  🫡
-
-io.net: Cost math that makes CFOs smile😁😁
-Enterprise-grade H100s at up to 90 % less than AWS or GCP means runway outpaces burn.
-Are you in the business of running invoices or running models?
-@ionet has your back.]]></summary>
-        <author>
-            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
