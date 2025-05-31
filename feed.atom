@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-30T23:16:55.972Z</id>
+    <id>urn:2025-05-31T01:24:54.286Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-30T23:16:55.972Z</updated>
+    <updated>2025-05-31T01:24:54.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -369,6 +369,18 @@ https://whale-alert.io/transaction/tron/cddc3403cd7c610f6d5f60f1fd6ba1cc09099322
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Really cool initiative from one of my favorite trading venues. Check to see if you got airdropped a liquidation free levered position (also it’s a re...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1924639082354786543</id>
+        <link href="https://x.com/OnChainWizard/status/1924639082354786543"/>
+        <updated>2025-05-20T01:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Really cool initiative from one of my favorite trading venues.   Check to see if you got airdropped a liquidation free levered position (also it’s a real airdrop btw)
+
+f(x) Protocol: http://x.com/i/article/1924451958162657280]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Treasury Secretary Scott Bessent: For stablecoins and other digital assets to thrive globally, the world needs American leadership. The Senate miss...]]></title>
         <id>https://twitter.com/DeFi_educator/status/1920664083235246590</id>
         <link href="https://x.com/DeFi_educator/status/1920664083235246590"/>
@@ -391,6 +403,15 @@ The world is watching while American lawmakers twiddle their thumbs. Senators wh
 JUST IN: 🇺🇸 Arizona Governor officially signs law to establish a "Bitcoin Reserve Fund."]]></summary>
         <author>
             <name>DeFi Educator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1919860663322660957</id>
+        <link href="https://x.com/OnChainWizard/status/1919860663322660957"/>
+        <updated>2025-05-06T21:03:46.000Z</updated>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>
