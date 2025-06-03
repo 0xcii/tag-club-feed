@@ -1,445 +1,370 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-02T23:17:34.676Z</id>
+    <id>urn:2025-06-03T01:36:46.208Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-02T23:17:34.676Z</updated>
+    <updated>2025-06-03T01:36:46.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Tether CEO Paolo Ardoino 披露，Tether 和 Bitfinex 分别向比特币投资公司 Twenty One Capital 转入 14000 枚和 7000 枚比特币，作为对该机构投资...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929659204513738892</id>
-        <link href="https://x.com/wublockchain12/status/1929659204513738892"/>
-        <updated>2025-06-02T21:59:40.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Tether CEO Paolo Ardoino 披露，Tether 和 Bitfinex 分别向比特币投资公司 Twenty One Capital 转入 14000 枚和 7000 枚比特币，作为对该机构投资的一部分。此前，Tether 已预先转入约 4812 枚比特币，用于支持其初始 PIPE 融资安排。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43389]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Ethena (ENA) 添加到上币路线图。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43388]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929651060467290301</id>
-        <link href="https://x.com/wublockchain12/status/1929651060467290301"/>
-        <updated>2025-06-02T21:27:18.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Coinbase 宣布将 Ethena (ENA) 添加到上币路线图。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43388]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Binance US 宣布即将上线 Hyperliquid（HYPE）现货交易，具体开盘时间待公布。HYPE 是去中心化交易所 Hyperliquid 的平台代币。此前，Binance Futures...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929642529689162057</id>
-        <link href="https://x.com/wublockchain12/status/1929642529689162057"/>
-        <updated>2025-06-02T20:53:24.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Binance US 宣布即将上线 Hyperliquid（HYPE）现货交易，具体开盘时间待公布。HYPE 是去中心化交易所 Hyperliquid 的平台代币。此前，Binance Futures 已于 5 月 30 日上线 HYPEUSDT 永续合约。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43387]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Strategy（原名 MicroStrategy）宣布拟公开发行 250 万股 10.00% A 系列永久优先股（股票代码：STRD），募集资金将用于一般公司用途，包括购买比特币...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929639053168955847</id>
-        <link href="https://x.com/wublockchain12/status/1929639053168955847"/>
-        <updated>2025-06-02T20:39:35.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Strategy（原名 MicroStrategy）宣布拟公开发行 250 万股 10.00% A 系列永久优先股（股票代码：STRD），募集资金将用于一般公司用途，包括购买比特币和营运资金。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43386]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，加密货币主经纪商 FalconX 收购多策略加密对冲基金 Monarq Asset Management 母公司的多数股权，以拓展其资产管理业务。FalconX 表示，该项投资将其机...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929605735778079068</id>
-        <link href="https://x.com/wublockchain12/status/1929605735778079068"/>
-        <updated>2025-06-02T18:27:12.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，加密货币主经纪商 FalconX 收购多策略加密对冲基金 Monarq Asset Management 母公司的多数股权，以拓展其资产管理业务。FalconX 表示，该项投资将其机构客户基础由对冲基金、自营交易机构和资产管理机构拓展至捐赠基金、养老金和家族办公室。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43385]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensys 宣布收购钱包基础设施提供商 Web3Auth，交易金额未披露，旨在改善 MetaMask 的用户体验，重点解决助记词管理问题。Consensys 引用数据显示约 35% 用户...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929581325381734887</id>
-        <link href="https://x.com/wublockchain12/status/1929581325381734887"/>
-        <updated>2025-06-02T16:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Consensys 宣布收购钱包基础设施提供商 Web3Auth，交易金额未披露，旨在改善 MetaMask 的用户体验，重点解决助记词管理问题。Consensys 引用数据显示约 35% 用户未备份助记词，存在资产丢失风险。整合后，MetaMask 用户可通过社交账户或设备认证等方式创建和恢复钱包，从而降低资金丢失的风险。（TheBlock）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43384]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Cecilia Hsueh 宣布正式卸任 Bitget 孵化的 Layer 2 项目 Morph 的 CEO 职务，并表示该过渡自三个月前启动，现已完成。她将转任外部顾问，由曾任 YGG ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929579272953647122</id>
-        <link href="https://x.com/wublockchain12/status/1929579272953647122"/>
-        <updated>2025-06-02T16:42:03.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Cecilia Hsueh 宣布正式卸任 Bitget 孵化的 Layer 2 项目 Morph 的 CEO 职务，并表示该过渡自三个月前启动，现已完成。她将转任外部顾问，由曾任 YGG 首席运营官及 Binance 前员工的 Colin Goltra 接任 CEO，继续推进项目发展。此前有社区传闻称 Morph 创始人 Azeem Khan 与 CEO Cecilia Hsueh 因战略定位和权力分配产生严重分歧，主网和 TGE 一再延迟。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43383]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 Kaiko 数据，WLFI 推出的 USD1 在近期备受关注，但 USD1 大部分的交易量仍然停留在链上，其中在 PancakeSwap 中的日交易量达到 1,400 万美元，远超...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929562867222917630</id>
-        <link href="https://x.com/wublockchain12/status/1929562867222917630"/>
-        <updated>2025-06-02T15:36:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 Kaiko 数据，WLFI 推出的 USD1 在近期备受关注，但 USD1 大部分的交易量仍然停留在链上，其中在 PancakeSwap 中的日交易量达到 1,400 万美元，远超在 Binance 站内的 800 万美元；头部 USD1 Pool 的 LP 做市活动超过一半来自仅三个钱包；USD1 在 CEX 的平均交易量还要落后于 Ripple 稳定币 RLUSD。此外，据 @defioasis 数据面板，USD1 交易对交易量仍显著集中在 B，其次是 CA，二者是在过去 24 个小时中唯二超过 1,000 万美元的 USD1 交易对标的。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43382]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，YZi Labs 宣布任命 Jing Xiong 为新任投资总监，负责主导人工智能与前沿技术方向的投资。Jing Xiong 拥有斯坦福大学计算机视觉博士背景，曾在 Google ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929550916593795088</id>
-        <link href="https://x.com/wublockchain12/status/1929550916593795088"/>
-        <updated>2025-06-02T14:49:22.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，YZi Labs 宣布任命 Jing Xiong 为新任投资总监，负责主导人工智能与前沿技术方向的投资。Jing Xiong 拥有斯坦福大学计算机视觉博士背景，曾在 Google 任职五年，参与 Google Lens 图像模型及多模态语言项目开发。YZi Labs 表示，该任命将有助于加强在 AI、Web3 和生物科技交叉领域的布局。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43381]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 Investing com 报道，房地产与物流科技公司 Reitar Logtech 宣布启动高达 15 亿美元的比特币收购计划，旨在增强其财政储备并推动全球扩张。该香港公司表示，...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929550400765776189</id>
-        <link href="https://x.com/wublockchain12/status/1929550400765776189"/>
-        <updated>2025-06-02T14:47:19.000Z</updated>
-        <summary type="html"><![CDATA[据 Investing com 报道，房地产与物流科技公司 Reitar Logtech 宣布启动高达 15 亿美元的比特币收购计划，旨在增强其财政储备并推动全球扩张。该香港公司表示，比特币将成为其财务战略的核心组成部分，用于对冲传统市场波动并提升物流基础设施能力。相关文件由董事长兼 CEO 陈建中签署。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43380]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯最大银行 Sberbank 推出一款结构性债券，挂钩比特币价格与美元兑卢布汇率，面向本地合格投资者场外发售，无需加密钱包或使用海外平台，所有交易以卢布结算...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929545167889183098</id>
-        <link href="https://x.com/wublockchain12/status/1929545167889183098"/>
-        <updated>2025-06-02T14:26:31.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯最大银行 Sberbank 推出一款结构性债券，挂钩比特币价格与美元兑卢布汇率，面向本地合格投资者场外发售，无需加密钱包或使用海外平台，所有交易以卢布结算。Sberbank 表示，该债券未来将于莫斯科交易所上市，并将在 6 月 4 日通过旗下 SberInvestments 平台推出比特币期货产品。此前俄央行已批准金融机构向合格投资者提供加密资产挂钩工具。（CoinDesk）https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43379]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据 FinanceFeeds 报道，纳斯达克上市公司 BTCS 于 2025 年 6 月 2 日通过 Crypto com 机构平台购入 1,000 枚 ETH，交易金额约为 263 万美元，其以太坊持仓由 Q1 ...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929541508996415965</id>
-        <link href="https://x.com/wublockchain12/status/1929541508996415965"/>
-        <updated>2025-06-02T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[据 FinanceFeeds 报道，纳斯达克上市公司 BTCS 于 2025 年 6 月 2 日通过 Crypto com 机构平台购入 1,000 枚 ETH，交易金额约为 263 万美元，其以太坊持仓由 Q1 的 9,063 枚提升至 13,500 枚。BTCS CEO 表示，ETH 是公司区块链基础设施战略核心，此次增持旨在配合其 NodeOps 与 Builder+ 构建高收益、可扩展的区块链节点业务。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43378]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说每日晚报]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929537672516649450</id>
-        <link href="https://x.com/wublockchain12/status/1929537672516649450"/>
-        <updated>2025-06-02T13:56:44.000Z</updated>
-        <summary type="html"><![CDATA[吴说每日晚报]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据彭博社，稳定币发行商 Circle 及其股东已将 IPO 发行规模从 2400 万股上调至 3200 万股，发行价区间由每股 24–26 美元上调至 27–28 美元，最高募资额达 8.96...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929534645508485565</id>
-        <link href="https://x.com/wublockchain12/status/1929534645508485565"/>
-        <updated>2025-06-02T13:44:43.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社，稳定币发行商 Circle 及其股东已将 IPO 发行规模从 2400 万股上调至 3200 万股，发行价区间由每股 24–26 美元上调至 27–28 美元，最高募资额达 8.96 亿美元，估值或超过 60 亿美元，认购订单已超出原定发行量数倍。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43375]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据加密记者 Eleanor Terrett 披露，GENIUS 稳定币法案最快本周在美国参议院迎来投票。两党正推动就多项修正案达成一致，包括禁止中国等外国对手持有稳...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929517051338748228</id>
-        <link href="https://x.com/wublockchain12/status/1929517051338748228"/>
-        <updated>2025-06-02T12:34:48.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据加密记者 Eleanor Terrett 披露，GENIUS 稳定币法案最快本周在美国参议院迎来投票。两党正推动就多项修正案达成一致，包括禁止中国等外国对手持有稳定币发行商股份、强化官员持币披露义务及改革反洗钱法规等。若一致同意方案达成，法案有望本周通过；否则或延至下周。与此同时，最新民调显示，74% 美国选民支持出台专门的加密法规。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43374]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，特朗普家族加密项目 World Liberty Financial（WLFI）宣布联合 BUILDon、PancakeSwap 及 Four Meme 发起 USD1 x BNB Chain 流动性激励活动，奖池最高...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929510444617892110</id>
-        <link href="https://x.com/wublockchain12/status/1929510444617892110"/>
-        <updated>2025-06-02T12:08:33.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，特朗普家族加密项目 World Liberty Financial（WLFI）宣布联合 BUILDon、PancakeSwap 及 Four Meme 发起 USD1 x BNB Chain 流动性激励活动，奖池最高达 100 万美元。该活动为期四周，重点支持头部交易池与 meme 项目，BNB Chain、Aster DEX 与 Lista DAO 也将参与支持。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43373]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，Strategy 宣布再购入 705 枚比特币，耗资约 7,510 万美元，单价约为 106,495 美元。截至于 6 月 1 日， Strategy 共持有 580,955 枚比特币，累计购入...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929509493374931078</id>
-        <link href="https://x.com/wublockchain12/status/1929509493374931078"/>
-        <updated>2025-06-02T12:04:46.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，Strategy 宣布再购入 705 枚比特币，耗资约 7,510 万美元，单价约为 106,495 美元。截至于 6 月 1 日， Strategy 共持有 580,955 枚比特币，累计购入成本约为 406.8 亿美元，平均购入价约为 70,023 美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43372]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴说获悉，据 @EntropyAdvisors 数据面板，随着 sUSDe APY 回升至 6.5% 上方，Ethena USDe 在 5 月的净质押量达 8.39 亿美元，为历史第三高单月，质押率从月初的...]]></title>
-        <id>https://twitter.com/wublockchain12/status/1929508508925579377</id>
-        <link href="https://x.com/wublockchain12/status/1929508508925579377"/>
-        <updated>2025-06-02T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[吴说获悉，据 @EntropyAdvisors 数据面板，随着 sUSDe APY 回升至 6.5% 上方，Ethena USDe 在 5 月的净质押量达 8.39 亿美元，为历史第三高单月，质押率从月初的不足 45% 回升至超过 57%。Pendle Intern 表示，Pendle 贡献了 8.2 亿美元（占比约 83%）的流入，Pendle 上的 Ethena sUSDe TVL 在 5 月从 10.7 亿美元增长至 18.9 亿美元。https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43371]]></summary>
-        <author>
-            <name>吴说区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Roman Helmet Guy: Eliminate property taxes for married couples with kids. Double them for everyone else. Why? Because the USA has more homes per pe...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928943677600047597</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928943677600047597"/>
-        <updated>2025-05-31T18:17:53.000Z</updated>
-        <summary type="html"><![CDATA[RT Roman Helmet Guy
-Eliminate property taxes for married couples with kids. Double them for everyone else. 
-Why? Because the USA has more homes per person and more empty bedrooms than ever in history, but they're all owned by rich Boomers.
-Fix the housing crisis and fertility crisis all at once.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928844546168823907</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928844546168823907"/>
-        <updated>2025-05-31T16:02:30.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <title type="html"><![CDATA[https://x.com/AntCaveClub/status/1929711040092426262]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929711128453828866</id>
+        <link href="https://x.com/AntCaveClub/status/1929711128453828866"/>
+        <updated>2025-06-03T01:25:59.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/AntCaveClub/status/1929711040092426262
 
-Mike Zaccardi, CFA, CMT 🍖: Credit card delinquency rates peaking]]></summary>
+链求君 🔥: 这是一些常用的 加密推文 AI ，提示词。
+配合 @Grok 使用， 完美的 AI 助手。 
+@Grok 拥有X上全部的最新实时数据， 这是超越其他 AI 模型的关键优势。]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Luke Gromen: Past historians already warned us ...👇 ...but everyone that learned the lesson the hard way the last time was dead by the time west...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928884165237187027</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928884165237187027"/>
-        <updated>2025-05-31T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Luke Gromen
-Past historians already warned us ...👇
-...but everyone that learned the lesson the hard way the last time was dead by the time western policymakers began believing in "The End of History" post-1992, so now we will all learn the lesson the hard way again.🤷‍♂️ #FourthTurning
+        <title type="html"><![CDATA[这是一些常用的 加密推文 AI ，提示词。 配合 @Grok 使用， 完美的 AI 助手。 @Grok 拥有X上全部的最新实时数据， 这是超越其他 AI 模型的关键优势。]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929711040092426262</id>
+        <link href="https://x.com/AntCaveClub/status/1929711040092426262"/>
+        <updated>2025-06-03T01:25:38.000Z</updated>
+        <summary type="html"><![CDATA[这是一些常用的 加密推文 AI ，提示词。
+配合 @Grok 使用， 完美的 AI 助手。 
+@Grok 拥有X上全部的最新实时数据， 这是超越其他 AI 模型的关键优势。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ZenLC: $stkscUSD 的收益基本达到 9%了！]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929709864424821001</id>
+        <link href="https://x.com/AntCaveClub/status/1929709864424821001"/>
+        <updated>2025-06-03T01:05:42.000Z</updated>
+        <summary type="html"><![CDATA[RT ZenLC
+$stkscUSD 的收益基本达到 9%了！
+
+Rings: stkscUSD yield is now at 8.51% APR 🔥
+With 4x–5x Rings points for borrowing $scUSD on @SiloFinance & @eulerfinance, some great looping plays are opening up 👀
+Also, keep an eye on @pendle_fi, lots of potential there! 👀]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Minty: Useful Crypto AI prompts I use]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929705858440876511</id>
+        <link href="https://x.com/AntCaveClub/status/1929705858440876511"/>
+        <updated>2025-06-03T01:04:24.000Z</updated>
+        <summary type="html"><![CDATA[RT Minty
+Useful Crypto AI prompts I use]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 链求君 🔥: $S 的大反弹即将到来。 仅过2天， @wintermute_t 的持仓已经 从我上次提醒的： $7M 减仓至 $2.66M WM 手中已经没有什么多余的筹码砸盘了。 拿住...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929672013024842161</id>
+        <link href="https://x.com/AntCaveClub/status/1929672013024842161"/>
+        <updated>2025-06-02T22:44:25.000Z</updated>
+        <summary type="html"><![CDATA[RT 链求君 🔥
+$S 的大反弹即将到来。 
+仅过2天， @wintermute_t  的持仓已经 从我上次提醒的： $7M 减仓至 $2.66M 
+WM 手中已经没有什么多余的筹码砸盘了。 
+拿住手中的 $S ， 不要轻易的，在反弹初期割肉。
+望周知。
+关注 Sonic 最新动态➕ 群组 https://x.com/i/lists/1774791287545496033
 
 
-Niall Ferguson: Future historians will struggle to explain how a democratic system could produce outcomes so at odds with what the electorate actually wanted.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT PoIiMath: Here is the problem with "oh no, we're defunding universities, all the smart people are going to go away" Our universities are not really...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928876944721945031</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928876944721945031"/>
-        <updated>2025-05-31T15:07:20.000Z</updated>
-        <summary type="html"><![CDATA[RT PoIiMath
-Here is the problem with "oh no, we're defunding universities, all the smart people are going to go away"
-Our universities are not really filled with the best and brightest. Even in many of the technical fields, we are spending billions of dollars on a lot of "science" that just kind of sucks.
-In @davidzweig's "An Abundance of Caution", he talks about Covid modeling and how there was a "COVID-19 Forecast Hub" where teams of researchers from all over the country could submit models of Covid spread.
-"Three of the top four most accurate modelers were from outside the public health field... A team from a management consulting firm, along with - to be frank, two random guys - outperformed teams with researchers from Johns Hopkins, MIT, Duke, Columbia, and the University of Michigan, the famed IMHE and the US Department of Energy's elite Los Alamos National Laboratory"
-The people who failed to accurately model Covid spread were people who *study* pandemic spread! It is their job, their life's work, they are spending all of their time and all of our money to be worse at their jobs than some nerdy weirdos who decided to suddenly pick up their profession as a hobby to noodle around in their free time.
-Any reasonable observer would look at this situation and say "This is unacceptable". Anyone who thinks we should demand excellence from public funding should be pretty upset about this. If they don't like what is currently happening, they need to propose their own solutions.
-People are getting awfully impatient with our elite expert class sucking this bad and never getting better.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Stephen Miller: During the middle of the 20th century — when the US achieved unquestioned global scientific dominance — there was net zero migrat...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928910795083018631</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928910795083018631"/>
-        <updated>2025-05-31T13:40:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Stephen Miller
-During the middle of the 20th century — when the US achieved unquestioned global scientific dominance — there was net zero migration. From the 20’s to the 70’s the foreign-born population was cut almost by half while the overall population doubled. (Until Hart-Celler kicked in).
 
-JD Vance: Aside from the fact that I explicitly acknowledged the role of German scientists in the clip: does Easterbrook really want to describe Werner Von Braun as a “refugee”? 
-What was he a refugee from?]]></summary>
+链求君 🔥: $S 两周不到， 从 $0.61 -> $0.37  📉 下跌将近 40% 
+异常的价格波动， 背后是什么原因  @SonicLabs 
+可能最主要的原因是 @wintermute_t 退出当 $S 的做市商。
+这个官方之前提到过， 因为合约到期， Sonic 要换新的做市商。 
+🔗 https://intel.arkm.com/explorer/entity/wintermute
+根据链上情况看，  WM]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Crémieux: 48% of people born 1885-99 who survived to age 45 in Skellefteå, Sweden had no great-grandchildren as of 2007. Lineage death is common....]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928853054364778784</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928853054364778784"/>
-        <updated>2025-05-31T00:54:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Crémieux
-48% of people born 1885-99 who survived to age 45 in Skellefteå, Sweden had no great-grandchildren as of 2007.
-Lineage death is common. If you want to avoid it, have as many kids as you can.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Garett Jones: On the general rule: "...immigration from corruption-ridden origin countries boosts corruption in the destination country." "higher r...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928541186366595166</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928541186366595166"/>
-        <updated>2025-05-30T01:30:21.000Z</updated>
-        <summary type="html"><![CDATA[RT Garett Jones
-On the general rule:
-"...immigration from corruption-ridden origin countries boosts corruption in the destination country."
-"higher rates of immigration from relatively poorer or more corrupt countries have a [negative] correlation with changes in economic freedom."
+        <title type="html"><![CDATA[$S 的大反弹即将到来。 仅过2天， @wintermute_t 的持仓已经 从我上次提醒的： $7M 减仓至 $2.66M WM 手中已经没有什么多余的筹码砸盘了。 拿住手中的 $S ， 不...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929670467901857830</id>
+        <link href="https://x.com/AntCaveClub/status/1929670467901857830"/>
+        <updated>2025-06-02T22:44:25.000Z</updated>
+        <summary type="html"><![CDATA[$S 的大反弹即将到来。 
+仅过2天， @wintermute_t  的持仓已经 从我上次提醒的： $7M 减仓至 $2.66M 
+WM 手中已经没有什么多余的筹码砸盘了。 
+拿住手中的 $S ， 不要轻易的，在反弹初期割肉。
+望周知。
+关注 Sonic 最新动态➕ 群组 https://x.com/i/lists/1774791287545496033
 
 
-Mark J. Perry: Based on Transparency International's 2024 Corruption Perceptions Index, Somalia ranks 179th out of 180 countries for corruption, second only to Venezuela, the world's most corrupt country. 
-Perhaps that explains the ongoing issues with fraud and corruption in Minnesota,]]></summary>
+
+链求君 🔥: $S 两周不到， 从 $0.61 -> $0.37  📉 下跌将近 40% 
+异常的价格波动， 背后是什么原因  @SonicLabs 
+可能最主要的原因是 @wintermute_t 退出当 $S 的做市商。
+这个官方之前提到过， 因为合约到期， Sonic 要换新的做市商。 
+🔗 https://intel.arkm.com/explorer/entity/wintermute
+根据链上情况看，  WM]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buy the liquidation cascade next week when trump inevitably doubles down]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928070566470127788</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928070566470127788"/>
-        <updated>2025-05-29T12:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Buy the liquidation cascade next week when trump inevitably doubles down]]></summary>
+        <title type="html"><![CDATA[建议大家干万不要一边做, 一边怀疑； 我发现有些事本身能不能做成, 真的不取决于事情本身有多难。 而是取决于自己的状态和信念感。 如果能保持一个好的状态和坚...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929475784705790188</id>
+        <link href="https://x.com/AntCaveClub/status/1929475784705790188"/>
+        <updated>2025-06-02T09:50:49.000Z</updated>
+        <summary type="html"><![CDATA[建议大家干万不要一边做, 一边怀疑；
+我发现有些事本身能不能做成, 真的不取决于事情本身有多难。
+而是取决于自己的状态和信念感。
+如果能保持一个好的状态和坚定的信念感。
+就算开头难, 之后也会越来越顺……]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT @SpecialSitsNews: Tariffs that will remain in place are in orange (bbg):]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928068110482895347</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928068110482895347"/>
-        <updated>2025-05-29T12:37:13.000Z</updated>
-        <summary type="html"><![CDATA[RT @SpecialSitsNews: Tariffs that will remain in place are in orange (bbg):]]></summary>
+        <title type="html"><![CDATA[一直以为老外KOL矩阵号，都是上班组团发帖的。 高产量， 高质量 ， 高流量。 最近才知道，早已是 n8n + Agent 成熟流水线了。 感到震惊🤯 全是 AI 自动创作。...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929413705005191286</id>
+        <link href="https://x.com/AntCaveClub/status/1929413705005191286"/>
+        <updated>2025-06-02T05:44:08.000Z</updated>
+        <summary type="html"><![CDATA[一直以为老外KOL矩阵号，都是上班组团发帖的。
+高产量， 高质量 ， 高流量。
+最近才知道，早已是 n8n + Agent 成熟流水线了。 
+感到震惊🤯  全是 AI 自动创作。（不只是自动发帖） 
+细看还是能发现 “同质化”的。 
+你应该被下图类型的账号刷屏过。
+结合之前对 AI Agent的了解，又找了些 n8n 赛道的内容。
+精选 20 个AI大佬收藏的 n8n 赛道教学：
+ https://docs.google.com/spreadsheets/d/1cQ4Hu540__s6R-8HfGw4EfIlgfb6NHz06k27xFLVlhE/edit?gid=0#gid=0
+很多都做到了极致： 全人工智能创作 + 成百上千个账号
+主要战场目前可能是在： X 、 Youtube 、 Telegram 
+你如果还没有发现，那说明自动化确实做的成熟 ！
+自动X数据源头 -> AI 洗稿 -> 自动化创作 -> 自动化发布
+鉴别AI特点：极高产、高质量、高流量  
+明显突破了 “人类不可能三角形” ， 人的精力有限，AI无限♾️
+有相关研究的朋友，欢迎 DM 交流。]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Mike Zaccardi, CFA, CMT 🍖: Four ways Trump can re-impose tariffs struck down by trade court @seekingalpha]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928051303722123340</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928051303722123340"/>
-        <updated>2025-05-29T11:04:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Mike Zaccardi, CFA, CMT 🍖
-Four ways Trump can re-impose tariffs struck down by trade court @seekingalpha]]></summary>
+        <title type="html"><![CDATA[一名交易员悄悄地印钱，在短短 30 天内通过倒卖新代币赚取了 93.8 万美元的利润。 一些优秀的交易： • $LABUBU – 将 2.81 万美元变为 17.96 万美元 (+87.93 %)...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929393930954747987</id>
+        <link href="https://x.com/AntCaveClub/status/1929393930954747987"/>
+        <updated>2025-06-02T04:25:34.000Z</updated>
+        <summary type="html"><![CDATA[一名交易员悄悄地印钱，在短短 30 天内通过倒卖新代币赚取了 93.8 万美元的利润。  
+一些优秀的交易：  
+• $LABUBU – 将 2.81 万美元变为 17.96 万美元 (+87.93 %) 
+• $MASK – 投资 3.3 万美元，总金额 10.7 万美元 (+3,437 %) 
+• #BON – 翻转 $990 至 $23.9K (+4200 %)  
+在这里追踪他的动作： https://axiom.trade/@0xcii 
+他总是能抢占先机，提前进入市场，并在高峰期之前套现。  
+看来，在 memecoin 方面，他已经掌握了时机。  
+如果你想提高自己的优势，那么这款钱包值得你追踪。  
+这是钱包：
+https://debot.ai/address/solana/CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc?inviteCode=174709
+而这个阴谋钱包.  最近买入建仓了 5 个低市值代币 。
+看起来他们都在反弹中 ⬇️ 
+$BLOB  6qHtAvksH2cSaUjz6euVSikPU8RnDqLpFtuWH6Ropump
+$UPXI
+3E4UJFK28KUK1q4nzddkPvS2iM53MuTjU8svMrEKpump
+$jockey
+B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump
+$titcoin
+FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump
+$joobi
+3gFD6JcB1XUjuCG9RCoAjkRgDuceFQ7UQTxtLXzzpump]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Uberboyo: Dubai is 85% foreign immigrants and barely 15% native: - Yet, the native Arabs have a 3.3 replacement birthrate - This is far higher than...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1928080659907510398</id>
-        <link href="https://x.com/DeFiSurfer808/status/1928080659907510398"/>
-        <updated>2025-05-29T09:28:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Uberboyo
-Dubai is 85% foreign immigrants and barely 15% native:
-- Yet, the native Arabs have a 3.3 replacement birthrate
-- This is far higher than anywhere in the West - why?
-- The purpose of Dubai is to prioritise the success of the locals: Dubai explicitly gives Arabs privilege, even though they are outnumbered 9 to 1
-- Ireland, like all Western states, castigates its natives for being privileged racists who should not breed
-- The birthrates collapse, so the regimes then say they need vast migrant projects to replace them
-- They then drain taxes out of the natives to fund these projects, causing a poverty sink and further birthrate collapse
-- The root problem in all Western states is the idea of privileging their own people
-- This is not an economic problem but a moral or spiritual problem
-- The solution is breaking this one taboo and choosing to stop hating yourself and your people
-- Until that happens, all Western States will progress deeper into a death spiral that leads to sterility, replacement and finally slavery
+        <title type="html"><![CDATA[合约交易者可以获得下一轮重大空投！ 🪂 认识 Axiom Axiom [ @AxiomExchange ] 是 Solana 上的去中心化交易平台，为 memecoin、永续合约和收益农业提供快速、...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929337165755933067</id>
+        <link href="https://x.com/AntCaveClub/status/1929337165755933067"/>
+        <updated>2025-06-02T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[合约交易者可以获得下一轮重大空投！ 🪂
+认识 Axiom Axiom [ @AxiomExchange ] 是 Solana 上的去中心化交易平台，为 memecoin、永续合约和收益农业提供快速、低费用的交易。
+由 Y Combinator 支持
+Y Combinator 是全球最具影响力的初创企业加速器之一，曾为 Airbnb、Stripe、Coinbase 和 Reddit 等巨头提供早期支持。
+现在他们又支持了 Axiom，所以潜力巨大。
+Axiom 的日交易量已经超过 1 亿美元，每日手续费收入也超过 100 万美元。
+现在还很早期。所以现在是入场交易的好时机。
+— — 你的每笔交易都会为赢得积分，这些积分旨在奖励早期用户对生态系统的贡献。
+1、很有可能： 积分=Axiom 空投 🪂
+https://axiom.trade/@0xcii
+2、使用 Solana 钱包（如 OKX）注册
+3、安全存储您的恢复密钥
+4、点击顶部菜单中的“存款”
+5、存入SOL 完成后，就可以在“发现”和“扫链”版块开始交易MEME代币。
+MEME交易可能存在风险 — — 如果不感兴趣，请跳过此步骤，专注于交易潜在交易者。
+要交易永续合约，请前往“永续合约”版块。
+点击“添加更多资金”，将您的 SOL 兑换成 USDC 并开始交易。 — Axiom 上的 Perp 交易由 Hyperliquid 提供支持，因此你也有机会通过在此处交易获得 Hyperliquid Airdrop 2 的资格。
+在“奖励”页面追踪您的积分。
+此外，还有一个“任务”部分 — — 完成简单的交易目标即可赚取额外积分。
+📖 需要完整指南？点击这里： https://earn3.app/airdrop/how-to-join-the-axiom-airdrop
+这个看起来很有潜力。 你还在早期。
+如果你对永续交易感兴趣，这个绝对不要错过。]]></summary>
+        <author>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单回顾一下 @AtlantisOnSonic 公募开启前 24 小时的表现： • @SynapGG 从 @virtuals_io 迁移至 Atlantis • 超过 160 万枚 $S 筹集完成 • 年化收益率 610% ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929330671627141404</id>
+        <link href="https://x.com/AntCaveClub/status/1929330671627141404"/>
+        <updated>2025-06-02T00:14:12.000Z</updated>
+        <summary type="html"><![CDATA[简单回顾一下 @AtlantisOnSonic 公募开启前 24 小时的表现：
+• @SynapGG 从 @virtuals_io 迁移至 Atlantis
+• 超过 160 万枚  $S  筹集完成
+• 年化收益率 610%
+• 占据 @KaitoAI  1% 的关注度
+• 向参与者共享 @SonicLabs GEMS 总量的 10%
+距离结束还有 3 天！👇
+https://www.atlantisprotocol.so/launchpad/0x41eCf1F0Bb4EC8a057090C8ABD92B2E2f0E38526?referrer=0x00000846B12F369B0d1879ee60309186f6B155e3
+所以如果你参与的话，可能会获得 3 种空投： 
+1、 @KaitoAI  推广奖励 
+2、Sonic GEMS 空投奖励 
+3、 $AQUA 挖矿奖励 610%
 
 
-Eddie Hobbs 1215: 🇮🇪🇦🇪 Dubai's nationalist model that Ireland REFUSES to adopt?
-@uberboyo reveals only ~11% of Dubai’s 4 million population are native Arabs.
-The rest are ALL immigrants.
-Dubai has been more ‘great replaced’ than Europe.
-But here's what the globalists DON'T want you to know.]]></summary>
+Atlantis: $AQUA Price Discovery has begun! Price will now adjust with every contribution! 🌊
+Our dashboard will track $AQUA price throughout the sale.
+3 days left to farm @SonicLabs GEMS and $xAQUA at an incredible 610% APR! 🧑‍🌾
+Join and Start farming now: 👇
+https://www.atlantisprotocol.so/launchpad/0x41eCf1F0Bb4EC8a057090C8ABD92B2E2f0E38526]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$eth binance OI increase this week larger than the increase during the ETH ETF approval week in summer 2024.]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927900070189383792</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927900070189383792"/>
-        <updated>2025-05-29T01:29:30.000Z</updated>
-        <summary type="html"><![CDATA[$eth binance OI increase this week larger than the increase during the ETH ETF approval week in summer 2024.]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New $eth OI ATH while price still down 30% from the highs. Anyone got any theories why despite anemic spot demand, OI demand is insatiable?]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927890824886636990</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927890824886636990"/>
-        <updated>2025-05-29T00:52:45.000Z</updated>
-        <summary type="html"><![CDATA[New $eth OI ATH while price still down 30% from the highs. 
-Anyone got any theories why despite anemic spot demand, OI demand is insatiable?]]></summary>
-        <author>
-            <name>Surfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927883788157178126</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927883788157178126"/>
-        <updated>2025-05-29T00:24:48.000Z</updated>
-        <summary type="html"><![CDATA[👀
+        <title type="html"><![CDATA[Sonic 链上的 Atlantis 表现还行， 有不少大佬参与了。 @AtlantisOnSonic 几乎是 Sonic 链上的 @virtuals_io 现在还在极早期。 昨天是按照： $0.4 的单价进行预...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929316910799397086</id>
+        <link href="https://x.com/AntCaveClub/status/1929316910799397086"/>
+        <updated>2025-06-01T23:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Sonic 链上的 Atlantis 表现还行， 有不少大佬参与了。
+@AtlantisOnSonic   几乎是 Sonic 链上的  @virtuals_io 
+现在还在极早期。
+昨天是按照： $0.4 的单价进行预售的。
+目前价格已经升至： $0.53  可以计算一下开盘盈利。
+最终实际开盘价会定在： $1.04
+目前还剩 （ 30 % 额度， 3 天时间）
+https://www.atlantisprotocol.so/launchpad/0x41eCf1F0Bb4EC8a057090C8ABD92B2E2f0E38526?referrer=0x00000846B12F369B0d1879ee60309186f6B155e3
+Atlantis 在 Kaito 榜单飙升至 #33 名， 可尝试 “嘴撸”
 
-Mike Zaccardi, CFA, CMT 🍖: Dollar rips through 100]]></summary>
+
+
+synap.gg: We initially planned to launch on @virtuals_io, but then @AtlantisOnSonic showed up, offering exactly what we needed. 🔱
+From @Base to @SonicLabs: faster blocks, lower fees, greater potential.
+Same vision, stronger future. 
+$SYNAP isn’t just migrating, it’s evolving. 🧠]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The play is to wait until Mstr starts acting better]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927879110207926612</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927879110207926612"/>
-        <updated>2025-05-29T00:06:12.000Z</updated>
-        <summary type="html"><![CDATA[The play is to wait until Mstr starts acting better]]></summary>
+        <title type="html"><![CDATA[这个只有 6 万人在撸， 你没看到人吹， 不代表它不强， 背后 Jito 在支持。 Solana 第一大财主 + 1300万融资 + 近期 币安 Alpha 提及 （估计上排期了） 简单研究...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929134345689739509</id>
+        <link href="https://x.com/AntCaveClub/status/1929134345689739509"/>
+        <updated>2025-06-01T11:14:04.000Z</updated>
+        <summary type="html"><![CDATA[这个只有 6 万人在撸， 你没看到人吹， 不代表它不强， 背后 Jito 在支持。 Solana 第一大财主 + 1300万融资 + 近期 币安 Alpha 提及 （估计上排期了）
+简单研究下， 就知道赔率有多高。 
+存的是 SOL  ， 随时存，随时取。 
+SOL 放钱包也是放着
+
+链求君 🔥: #空投硬撸 
+有 SOL的， 能撸这个 @fragmetric 
+再质押协议 ， 1200 万融资。 
+@BinanceWallet  单独推荐过， 现在的上币节奏快
+上币安 Alpha 也是迟早的事。 
+基础玩法： 
+存入 SOL -> fragSOL   
+- 一直转 F  Points （积分） 
+- 10% 的年华收益率 
+- 最后如果上了Alpha 又能赚一笔空投]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Brendan Duke: Re @besttrousers The tariffs that were struck down used IEEPA, which hadn’t been used for tariffs before. The sectoral tariffs used ...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927899153834660064</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927899153834660064"/>
-        <updated>2025-05-28T23:40:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Brendan Duke
-Re @besttrousers The tariffs that were struck down used IEEPA, which hadn’t been used for tariffs before. The sectoral tariffs used Sec 232, which is separate. I expect—at least once appeals are done—he’ll look at Sec 301 for country specific tariffs. It’s what he used for 1st term China tariffs.]]></summary>
+        <title type="html"><![CDATA[#空投硬撸 有 SOL的， 能撸这个 @fragmetric 再质押协议 ， 1200 万融资。 @BinanceWallet 单独推荐过， 现在的上币节奏快 上币安 Alpha 也是迟早的事。 基础玩...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929131309701775608</id>
+        <link href="https://x.com/AntCaveClub/status/1929131309701775608"/>
+        <updated>2025-06-01T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[#空投硬撸 
+有 SOL的， 能撸这个 @fragmetric 
+再质押协议 ， 1200 万融资。 
+@BinanceWallet  单独推荐过， 现在的上币节奏快
+上币安 Alpha 也是迟早的事。 
+基础玩法： 
+存入 SOL -> fragSOL   
+- 一直转 F  Points （积分） 
+- 10% 的年华收益率 
+- 最后如果上了Alpha 又能赚一笔空投 
+ 🔗 链接：  https://app.fragmetric.xyz/referral?ref=MW85QU 
+那些闲置的 SOL ， 想不到有什么更好的去处了。]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Just Loki: It is remarkable how the American state makes natives compete with foreigners in every aspect of life — primary education, secondary ed...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927837752243949725</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927837752243949725"/>
-        <updated>2025-05-28T21:19:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Just Loki
-It is remarkable how the American state makes natives compete with foreigners in every aspect of life — primary education, secondary education, jobs, housing, transportation, access to healthcare. Even the Supreme Court will intervene faster for illegals than it will for citizens.]]></summary>
+        <title type="html"><![CDATA[RT Chenpepe（复活甲）: 嗯哼太子和冰蛙打架 为什么封了金蛙的号？😭]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929150005840928770</id>
+        <link href="https://x.com/AntCaveClub/status/1929150005840928770"/>
+        <updated>2025-06-01T09:45:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Chenpepe（复活甲）
+嗯哼太子和冰蛙打架
+为什么封了金蛙的号？😭]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conservatively, 90-95% of NYC is extremely ghetto]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927825880803348895</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927825880803348895"/>
-        <updated>2025-05-28T20:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Conservatively, 90-95% of NYC is extremely ghetto]]></summary>
+        <title type="html"><![CDATA[十年前，你在干嘛？]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929092022901915794</id>
+        <link href="https://x.com/AntCaveClub/status/1929092022901915794"/>
+        <updated>2025-06-01T08:25:53.000Z</updated>
+        <summary type="html"><![CDATA[十年前，你在干嘛？]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Geiger Capital: The US is now collecting ~$255 Billion in annualized revenue from Trump’s tariffs]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927735443526693299</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927735443526693299"/>
-        <updated>2025-05-28T14:15:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Geiger Capital
-The US is now collecting ~$255 Billion in annualized revenue from Trump’s tariffs]]></summary>
+        <title type="html"><![CDATA[恭喜🎉 狼总。 如果靠嘴就能撸到钱💰 那长嘴的，又有钱的人。 会如何？ 🤔🤔 最心疼的还是: 嘴撸一个月，熬夜一晚上没买的到预售，买在山顶的兄弟👬 ...]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929042161808400664</id>
+        <link href="https://x.com/AntCaveClub/status/1929042161808400664"/>
+        <updated>2025-06-01T05:07:45.000Z</updated>
+        <summary type="html"><![CDATA[恭喜🎉 狼总。
+如果靠嘴就能撸到钱💰 
+那长嘴的，又有钱的人。
+会如何？ 🤔🤔 
+最心疼的还是:  
+嘴撸一个月，熬夜一晚上没买的到预售，买在山顶的兄弟👬
+还有更惨的么...  $LOUD 喊大声点
+
+杀破狼 WolfyXBT: 走了！今天真是个美好的早晨！😇]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Zarathustra: In 1960, just 1% of Harvard’s incoming class came from abroad. In 1990, that number was still only 4%. The flooding of American unive...]]></title>
-        <id>https://twitter.com/DeFiSurfer808/status/1927846752389869850</id>
-        <link href="https://x.com/DeFiSurfer808/status/1927846752389869850"/>
-        <updated>2025-05-28T00:09:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Zarathustra
-In 1960, just 1% of Harvard’s incoming class came from abroad. In 1990, that number was still only 4%. 
-The flooding of American universities with unending hordes of foreigners, a shift that has profoundly reshaped campuses across the country, is a strikingly recent phenomenon.]]></summary>
+        <title type="html"><![CDATA[$LOUD EJZJpNa4tDZ3kYdcRZgaAtaKm3fLJ5akmyPkCaKmfWvd 买: $66459.13 卖: $248.97K]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929030754786288019</id>
+        <link href="https://x.com/AntCaveClub/status/1929030754786288019"/>
+        <updated>2025-06-01T04:22:26.000Z</updated>
+        <summary type="html"><![CDATA[$LOUD 
+EJZJpNa4tDZ3kYdcRZgaAtaKm3fLJ5akmyPkCaKmfWvd
+买:  $66459.13
+卖:  $248.97K]]></summary>
         <author>
-            <name>Surfer</name>
+            <name>链求君 🔥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/AntCaveClub/status/1929007050773701111</id>
+        <link href="https://x.com/AntCaveClub/status/1929007050773701111"/>
+        <updated>2025-06-01T02:48:14.000Z</updated>
+        <author>
+            <name>链求君 🔥</name>
         </author>
     </entry>
     <entry>
