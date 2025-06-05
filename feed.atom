@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-05T04:26:11.871Z</id>
+    <id>urn:2025-06-05T05:18:38.256Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-05T04:26:11.871Z</updated>
+    <updated>2025-06-05T05:18:38.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -134,6 +134,27 @@
 https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=6&id=43494]]></summary>
         <author>
             <name>吴说区块链</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Really cool initiative from one of my favorite trading venues. Check to see if you got airdropped a liquidation free levered position (also it’s a re...]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1924639082354786543</id>
+        <link href="https://x.com/OnChainWizard/status/1924639082354786543"/>
+        <updated>2025-05-20T01:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Really cool initiative from one of my favorite trading venues.   Check to see if you got airdropped a liquidation free levered position (also it’s a real airdrop btw)
+
+f(x) Protocol: http://x.com/i/article/1924451958162657280]]></summary>
+        <author>
+            <name>Onchain Wizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/OnChainWizard/status/1919860663322660957</id>
+        <link href="https://x.com/OnChainWizard/status/1919860663322660957"/>
+        <updated>2025-05-06T21:03:46.000Z</updated>
+        <author>
+            <name>Onchain Wizard</name>
         </author>
     </entry>
 </feed>

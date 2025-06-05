@@ -144,10 +144,31 @@
       "articles": []
     },
     {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://x.com/andrecronjedev",
-      "articles": []
+      "title": "Twitter @Onchain Wizard",
+      "feedUrl": "https://rsshub.app/twitter/user/OnChainWizard",
+      "siteUrl": "https://x.com/OnChainWizard",
+      "articles": [
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1924639082354786543",
+          "author": "Onchain Wizard",
+          "description": "Really cool initiative from one of my favorite trading venues.   Check to see if you got airdropped a liquidation free levered position (also it’s a real airdrop btw)\n\nf(x) Protocol: http://x.com/i/article/1924451958162657280",
+          "link": "https://x.com/OnChainWizard/status/1924639082354786543",
+          "publishedOn": "2025-05-20T01:31:29.000Z",
+          "wordCount": null,
+          "title": "Really cool initiative from one of my favorite trading venues. Check to see if you got airdropped a liquidation free levered position (also it’s a re...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OnChainWizard/status/1919860663322660957",
+          "author": "Onchain Wizard",
+          "description": "",
+          "link": "https://x.com/OnChainWizard/status/1919860663322660957",
+          "publishedOn": "2025-05-06T21:03:46.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
